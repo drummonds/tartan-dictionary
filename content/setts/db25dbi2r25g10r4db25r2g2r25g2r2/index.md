@@ -7,6 +7,8 @@ This is the **Hebridean 5** sett — one scale-free proportion (`db25dbi2r25g10r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Hebridean 5](/tartans/h/he/hebridean-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

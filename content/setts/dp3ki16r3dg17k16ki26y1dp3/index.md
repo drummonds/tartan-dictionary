@@ -6,6 +6,8 @@ This is the **Barton-Watson, de** sett — one scale-free proportion (`dp3ki16r3
 [BGKKGRKB](/stripes/bgkkgrkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Barton-Watson, de](/tartans/b/ba/barton-watson-de/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

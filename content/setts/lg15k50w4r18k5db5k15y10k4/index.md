@@ -6,7 +6,7 @@ This is the **Care Leaver** sett — one scale-free proportion (`lg15k50w4r18k5d
 [KGKBKRWKY](/stripes/kgkbkrwky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Care Leaver](/tartans/care-leaver/) tartan — the named design grouping this sett with its kin.
+Part of the [Care Leaver](/tartans/c/ca/care-leaver/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

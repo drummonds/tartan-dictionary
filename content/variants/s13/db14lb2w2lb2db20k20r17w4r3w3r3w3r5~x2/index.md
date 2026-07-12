@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "American Bi-Centennial"
+  url: "/tartans/a/am/american-bi-centennial/"
+- name: "American Bi-Centennial"
   url: "/setts/db14lb2w2lb2db20k20r17w4r3w3r3w3r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db14lb2w2lb2db20k20r17w4r3w3r3w3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBKRWRWRWR](/stripes/bwwwbkrwrwrwr/).
+
+Part of the [American Bi-Centennial](/tartans/a/am/american-bi-centennial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

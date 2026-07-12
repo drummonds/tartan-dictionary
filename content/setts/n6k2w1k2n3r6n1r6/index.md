@@ -6,7 +6,7 @@ This is the **Sydney (Nova Scotia)** sett — one scale-free proportion (`n6k2w1
 [BKWKBRBRBRBKWK](/stripes/bkwkbrbrbrbkwk/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Sydney](/tartans/sydney/) tartan — the named design grouping this sett with its kin.
+Part of the [Sydney](/tartans/s/sy/sydney/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

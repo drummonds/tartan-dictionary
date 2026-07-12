@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirtle"
+  url: "/tartans/k/ki/kirtle/"
+- name: "Kirtle"
   url: "/setts/dr42r10n2r2db2r2dr10db6r2db3dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr42r10n2r2db2r2dr10db6r2db3dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBRBRBRB](/stripes/bbrbbrbrbrb/).
+
+Part of the [Kirtle](/tartans/k/ki/kirtle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

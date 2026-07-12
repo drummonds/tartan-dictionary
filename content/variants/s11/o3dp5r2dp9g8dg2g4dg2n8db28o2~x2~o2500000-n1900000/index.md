@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenisla"
+  url: "/tartans/g/gl/glenisla/"
 - name: "Glenisla (Fashion)"
   url: "/setts/o3dp5r2dp9g8dg2g4dg2n8db28o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3dp5r2dp9g8dg2g4dg2n8db28o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGGGGBRBR](/stripes/rbbggggbrbr/).
+
+Part of the [Glenisla](/tartans/g/gl/glenisla/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

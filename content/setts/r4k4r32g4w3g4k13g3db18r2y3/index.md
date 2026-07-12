@@ -6,6 +6,8 @@ This is the **Norwell** sett — one scale-free proportion (`r4k4r32g4w3g4k13g3d
 [GRBGKGWGRKR](/stripes/grbgkgwgrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Norwell](/tartans/n/no/norwell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

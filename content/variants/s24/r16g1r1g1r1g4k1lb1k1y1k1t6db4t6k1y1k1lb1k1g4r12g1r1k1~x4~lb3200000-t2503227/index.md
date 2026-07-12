@@ -10,7 +10,7 @@ crumbs:
 - name: "Macan of Lurgyvallan"
   url: "/families/macan-of-lurgyvallan/"
 - name: "MacAn of Lurgyvallan"
-  url: "/tartans/macan-of-lurgyvallan/"
+  url: "/tartans/m/ma/macan-of-lurgyvallan/"
 - name: "Macan of Lurgyvallan"
   url: "/setts/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGKWKGKBBBKGKWKGRGRGR](/stripes/krgrgkwkgkbbbkgkwkgrgrgr/).
 
-Part of the [MacAn of Lurgyvallan](/tartans/macan-of-lurgyvallan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAn of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

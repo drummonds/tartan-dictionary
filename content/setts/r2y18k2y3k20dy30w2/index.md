@@ -6,6 +6,8 @@ This is the **Bennett, John Paul Personal Tartan** sett — one scale-free propo
 [RGKGKGW](/stripes/rgkgkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bennett, John Paul](/tartans/b/be/bennett-john-paul/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

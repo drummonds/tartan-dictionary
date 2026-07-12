@@ -6,7 +6,7 @@ This is the **Justus #1 (Personal)** sett — one scale-free proportion (`t1k4r1
 [BKRKYKB](/stripes/bkrkykb/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Justus](/tartans/justus/) tartan — the named design grouping this sett with its kin.
+Part of the [Justus](/tartans/j/ju/justus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

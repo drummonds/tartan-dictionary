@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Ashburn Golf Club"
+  url: "/tartans/r/ro/royal-ashburn-golf-club/"
+- name: "Royal Ashburn Golf Club"
   url: "/setts/y2g23k21r2t22g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2g23k21r2t22g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGG](/stripes/gbrkgg/).
+
+Part of the [Royal Ashburn Golf Club](/tartans/r/ro/royal-ashburn-golf-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

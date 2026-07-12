@@ -6,6 +6,8 @@ This is the **Coleburn (Corporate)** sett — one scale-free proportion (`n24ly2
 [BRKGKBYBYB](/stripes/brkgkbybyb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Coleburn](/tartans/c/co/coleburn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

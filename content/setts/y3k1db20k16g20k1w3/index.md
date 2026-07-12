@@ -6,6 +6,8 @@ This is the **MacCormick** sett — one scale-free proportion (`y3k1db20k16g20k1
 [GKBKGKW](/stripes/gkbkgkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacCormick](/tartans/m/ma/maccormick-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

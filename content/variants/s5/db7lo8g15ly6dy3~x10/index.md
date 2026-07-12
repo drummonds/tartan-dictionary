@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Silk"
+  url: "/tartans/u/un/unidentified-silk/"
 - name: "Unidentified Silk Plaid"
   url: "/setts/db7lo8g15ly6dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7lo8g15ly6dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYG](/stripes/bygyg/).
+
+Part of the [Unidentified Silk](/tartans/u/un/unidentified-silk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

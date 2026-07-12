@@ -6,6 +6,8 @@ This is the **Antrim County, Crest Range** sett — one scale-free proportion (`
 [GGBWGBGGG](/stripes/ggbwgbggg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Antrim County, Crest Range](/tartans/a/an/antrim-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

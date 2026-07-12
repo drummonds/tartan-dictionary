@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bagpipe Shop"
+  url: "/tartans/b/ba/bagpipe-shop/"
 - name: "Bagpipe Shop (Switzerland)"
   url: "/setts/n10w3lb3g1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n10w3lb3g1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGR](/stripes/bwwgr/).
+
+Part of the [Bagpipe Shop](/tartans/b/ba/bagpipe-shop/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

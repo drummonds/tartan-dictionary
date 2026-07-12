@@ -6,6 +6,8 @@ This is the **Un-named (D C Dalgliesh) #3** sett — one scale-free proportion (
 [GRKRGK](/stripes/grkrgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Un-named](/tartans/u/un/un-named-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **St. Piran Cornish Flag** sett — one scale-free proportion (`w5k2
 [KWKWKWKR](/stripes/kwkwkwkr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Cornish Flag](/tartans/c/co/cornish-flag/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacRae Dress Clan Tartan** sett — one scale-free proportion (`r2
 [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacRae Dress](/tartans/m/ma/macrae-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

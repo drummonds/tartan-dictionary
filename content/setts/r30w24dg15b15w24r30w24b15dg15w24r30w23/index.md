@@ -6,7 +6,7 @@ This is the **Unidentified, Arisaid** sett — one scale-free proportion (`r30w2
 [RWGBWRWBGWRW](/stripes/rwgbwrwbgwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Unidentified Arisaid](/tartans/unidentified-arisaid-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Unidentified Arisaid](/tartans/u/un/unidentified-arisaid-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

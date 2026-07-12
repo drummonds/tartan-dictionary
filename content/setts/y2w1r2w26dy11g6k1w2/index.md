@@ -6,6 +6,8 @@ This is the **Saskatchewan Dress (Dance)** sett — one scale-free proportion (`
 [GWRWGGKW](/stripes/gwrwggkw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Saskatchewan Dress](/tartans/s/sa/saskatchewan-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

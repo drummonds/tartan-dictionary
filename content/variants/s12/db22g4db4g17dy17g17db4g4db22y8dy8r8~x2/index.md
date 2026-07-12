@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Niagra Falls"
+  url: "/tartans/n/ni/niagra-falls/"
 - name: "Niagra Falls Trade Tartan"
   url: "/setts/db22g4db4g17dy17g17db4g4db22y8dy8r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22g4db4g17dy17g17db4g4db22y8dy8r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/).
+
+Part of the [Niagra Falls](/tartans/n/ni/niagra-falls/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Dorcas (Fashion)** sett — one scale-free proportion (`dr4g20db2g
 [BGBGBGBRWRWR](/stripes/bgbgbgbrwrwr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Dorcas](/tartans/d/do/dorcas-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

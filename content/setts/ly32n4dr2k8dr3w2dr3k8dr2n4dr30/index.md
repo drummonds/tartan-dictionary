@@ -6,6 +6,8 @@ This is the **Varenne** sett — one scale-free proportion (`ly32n4dr2k8dr3w2dr3
 [BBBKBWBKBBY](/stripes/bbbkbwbkbby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Varenne](/tartans/v/va/varenne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

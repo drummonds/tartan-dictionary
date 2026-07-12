@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "BC Corps of Commissionaires, The"
+  url: "/tartans/b/bc/bc-corps-of-commissionaires-the/"
+- name: "BC Corps of Commissionaires, The"
   url: "/setts/db12lb1r3lb1r3lb1db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12lb1r3lb1r3lb1db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWRWB](/stripes/bwrwrwb/).
+
+Part of the [BC Corps of Commissionaires, The](/tartans/b/bc/bc-corps-of-commissionaires-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

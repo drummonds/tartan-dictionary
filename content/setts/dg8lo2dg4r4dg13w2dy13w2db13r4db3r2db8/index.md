@@ -6,6 +6,8 @@ This is the **Bowie (white lines) (Name)** sett — one scale-free proportion (`
 [BRBRBWGWGRGYG](/stripes/brbrbwgwgrgyg/). It is recorded as a single **variant**, below.
 First attested **~1991**.
 
+Part of the [Bowie](/tartans/b/bo/bowie-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

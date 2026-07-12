@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Mary"
-  url: "/tartans/princess-mary/"
+  url: "/tartans/p/pr/princess-mary/"
 - name: "Princess Mary #2"
   url: "/setts/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKYKYKGBKBY](/stripes/gbkykykgbkby/).
 
-Part of the [Princess Mary](/tartans/princess-mary/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Princess Mary](/tartans/p/pr/princess-mary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leitrim"
+  url: "/tartans/l/le/leitrim/"
+- name: "Leitrim"
   url: "/setts/n3do18n4do3n4r13n21do2b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3do18n4do3n4r13n21do2b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBBB](/stripes/bbbbbrbbb/).
+
+Part of the [Leitrim](/tartans/l/le/leitrim/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

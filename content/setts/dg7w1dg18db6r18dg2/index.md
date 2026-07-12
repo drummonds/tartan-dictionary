@@ -6,6 +6,8 @@ This is the **Finlaggan** sett — one scale-free proportion (`dg7w1dg18db6r18dg
 [GRBGWG](/stripes/grbgwg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Finlaggan](/tartans/f/fi/finlaggan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

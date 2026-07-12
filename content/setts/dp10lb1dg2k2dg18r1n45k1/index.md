@@ -6,6 +6,8 @@ This is the **Highland Burn (Fashion)** sett — one scale-free proportion (`dp1
 [BWGKGRBK](/stripes/bwgkgrbk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Highland Burn](/tartans/h/hi/highland-burn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

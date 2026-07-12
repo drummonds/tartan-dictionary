@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culture The..."
+  url: "/tartans/c/cu/culture-the/"
 - name: "Glasgow, City of Culture"
   url: "/setts/r6g2r2g21k2w4k2db23y2db2y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6g2r2g21k2w4k2db23y2db2y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKWKGRGR](/stripes/gbgbkwkgrgr/).
+
+Part of the [Culture The...](/tartans/c/cu/culture-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

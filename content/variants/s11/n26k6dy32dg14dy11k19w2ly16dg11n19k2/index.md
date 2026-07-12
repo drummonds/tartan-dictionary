@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Teddy Bear 111th Anniversary"
+  url: "/tartans/t/te/teddy-bear-111th-anniversary/"
+- name: "Teddy Bear 111th Anniversary"
   url: "/setts/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n26k6dy32dg14dy11k19w2ly16dg11n19k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGKWYGBK](/stripes/bkgggkwygbk/).
+
+Part of the [Teddy Bear 111th Anniversary](/tartans/t/te/teddy-bear-111th-anniversary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

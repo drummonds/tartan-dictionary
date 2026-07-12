@@ -6,7 +6,7 @@ This is the **Edinburgh Marketing** sett — one scale-free proportion (`db6r1db
 [BRBRWRBR](/stripes/brbrwrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Edinburgh Marketing](/tartans/edinburgh-marketing/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh Marketing](/tartans/e/ed/edinburgh-marketing/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

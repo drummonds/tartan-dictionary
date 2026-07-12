@@ -6,6 +6,8 @@ This is the **Aitchison Family (Kinghorn) (Personal)** sett — one scale-free p
 [BGKBKBKBK](/stripes/bgkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Aitchison](/tartans/a/ai/aitchison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

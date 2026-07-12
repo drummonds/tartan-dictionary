@@ -6,6 +6,8 @@ This is the **Field Gun Association** sett — one scale-free proportion (`r2dg1
 [GGGWGWGGGGGGR](/stripes/gggwgwggggggr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Field Gun Association](/tartans/f/fi/field-gun-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

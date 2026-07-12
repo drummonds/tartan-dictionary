@@ -6,6 +6,8 @@ This is the **Isle of Skye (District)** sett — one scale-free proportion (`lb2
 [BRGBRBWBWBW](/stripes/brgbrbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Isle of Skye](/tartans/i/is/isle-of-skye-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

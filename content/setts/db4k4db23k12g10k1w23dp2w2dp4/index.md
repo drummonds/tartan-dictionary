@@ -6,6 +6,8 @@ This is the **Baird Dress** sett — one scale-free proportion (`db4k4db23k12g10
 [BKBKGKWBWB](/stripes/bkbkgkwbwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Baird Dress](/tartans/b/ba/baird-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

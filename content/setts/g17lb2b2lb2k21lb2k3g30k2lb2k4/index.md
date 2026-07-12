@@ -6,6 +6,8 @@ This is the **Fort William** sett — one scale-free proportion (`g17lb2b2lb2k21
 [GWBWKWKGKWK](/stripes/gwbwkwkgkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fort William](/tartans/f/fo/fort-william-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

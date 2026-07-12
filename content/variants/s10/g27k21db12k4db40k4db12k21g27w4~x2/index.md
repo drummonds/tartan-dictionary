@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Granger/Grainger"
+  url: "/tartans/g/gr/granger-grainger/"
 - name: "Granger/Grainger (Personal)"
   url: "/setts/g27k21db12k4db40k4db12k21g27w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g27k21db12k4db40k4db12k21g27w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKGW](/stripes/gkbkbkbkgw/).
+
+Part of the [Granger/Grainger](/tartans/g/gr/granger-grainger/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

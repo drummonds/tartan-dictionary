@@ -7,6 +7,8 @@ This is the **St. Andrews** sett — one scale-free proportion (`db48w3db4w3db3t
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [St Andrews](/tartans/s/st/st-andrews/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

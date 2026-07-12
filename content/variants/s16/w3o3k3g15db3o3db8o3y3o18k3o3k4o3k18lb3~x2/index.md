@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes, hunting"
+  url: "/tartans/i/in/innes-hunting-3/"
 - name: "Innes, hunting"
   url: "/setts/w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKRKRGRBRBGKRW](/stripes/wkrkrkrgrbrbgkrw/).
+
+Part of the [Innes, hunting](/tartans/i/in/innes-hunting-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

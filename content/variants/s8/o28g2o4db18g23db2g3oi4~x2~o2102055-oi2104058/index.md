@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dalbraith-Eastern Western Motor Group"
+  url: "/tartans/d/da/dalbraith-eastern-western-motor-group/"
+- name: "Dalbraith-Eastern Western Motor Group"
   url: "/setts/o28g2o4db18g23db2g3oi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o28g2o4db18g23db2g3oi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBRGR](/stripes/rgbgbrgr/).
+
+Part of the [Dalbraith-Eastern Western Motor Group](/tartans/d/da/dalbraith-eastern-western-motor-group/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

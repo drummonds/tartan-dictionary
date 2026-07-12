@@ -6,6 +6,8 @@ This is the **Moffat District District Tartan** sett — one scale-free proporti
 [KRBRGRBRBR](/stripes/krbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Moffat](/tartans/m/mo/moffat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

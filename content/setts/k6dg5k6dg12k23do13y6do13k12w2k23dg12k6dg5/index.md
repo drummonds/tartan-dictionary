@@ -6,6 +6,8 @@ This is the **Simon and Friends (Hamburg) (Personal)** sett — one scale-free p
 [GKGKWKBGBKGKGK](/stripes/gkgkwkbgbkgkgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Simon and Friends](/tartans/s/si/simon-and-friends/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Cairns"
   url: "/clan/cairns/"
 - name: "Cairns, David"
-  url: "/tartans/cairns-david/"
+  url: "/tartans/c/ca/cairns-david/"
 - name: "Cairns, David (Personal)"
   url: "/setts/do11n1do4n8dr1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do11n1do4n8dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
-Part of the [Cairns, David](/tartans/cairns-david/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cairns, David](/tartans/c/ca/cairns-david/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

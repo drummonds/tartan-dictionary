@@ -6,6 +6,8 @@ This is the **Ploysongsang, Edward Thiravej (Pers** sett — one scale-free prop
 [RWWYWR](/stripes/rwwywr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ploysongsang, Edward Thiravej (Pers](/tartans/p/pl/ploysongsang-edward-thiravej-pers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

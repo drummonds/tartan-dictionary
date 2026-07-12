@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Golfing Stewart"
+  url: "/tartans/g/go/golfing-stewart/"
 - name: "Golfing Stewart (Fashion)"
   url: "/setts/dy4r2k9r25k3r2k3r4db15w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4r2k9r25k3r2k3r4db15w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRKRBW](/stripes/grkrkrkrbw/).
+
+Part of the [Golfing Stewart](/tartans/g/go/golfing-stewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

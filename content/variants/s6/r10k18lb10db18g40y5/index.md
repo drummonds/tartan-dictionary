@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gallowater"
+  url: "/tartans/g/ga/gallowater/"
+- name: "Gallowater"
   url: "/setts/r10k18lb10db18g40y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10k18lb10db18g40y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWKR](/stripes/ggbwkr/).
+
+Part of the [Gallowater](/tartans/g/ga/gallowater/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Children's Wish Foundation of Canada, The** sett — one scale-fre
 [GKWKWKGK](/stripes/gkwkwkgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Children's Wish Foundation of Canada, The](/tartans/c/ch/children-s-wish-foundation-of-canada-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

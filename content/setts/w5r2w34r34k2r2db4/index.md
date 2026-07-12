@@ -6,6 +6,8 @@ This is the **Cunningham Dress Clan Tartan** sett — one scale-free proportion 
 [BRKRWRW](/stripes/brkrwrw/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

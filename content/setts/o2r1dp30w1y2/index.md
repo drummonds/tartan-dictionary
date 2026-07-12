@@ -6,7 +6,7 @@ This is the **Wedding** sett — one scale-free proportion (`o2r1dp30w1y2`), col
 [GWBRR](/stripes/gwbrr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Wedding](/tartans/wedding/) tartan — the named design grouping this sett with its kin.
+Part of the [Wedding](/tartans/w/we/wedding/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Allison (MacBean and Bishop)** sett — one scale-free proportion 
 [BKBKGKGKGKWRKW](/stripes/bkbkgkgkgkwrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Allison](/tartans/a/al/allison-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

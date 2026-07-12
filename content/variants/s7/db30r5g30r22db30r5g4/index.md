@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "GS Gaelic School"
+  url: "/tartans/g/gs/gs-gaelic-school/"
 - name: "GS Gaelic School (School)"
   url: "/setts/db30r5g30r22db30r5g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30r5g30r22db30r5g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRG](/stripes/brgrbrg/).
+
+Part of the [GS Gaelic School](/tartans/g/gs/gs-gaelic-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

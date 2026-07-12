@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "TACC"
+  url: "/tartans/t/ta/tacc/"
+- name: "TACC"
   url: "/setts/n34k7n12k40n3k4lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n34k7n12k40n3k4lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKW](/stripes/bkbkbkw/).
+
+Part of the [TACC](/tartans/t/ta/tacc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

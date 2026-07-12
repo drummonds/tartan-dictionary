@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walker, Michael"
+  url: "/tartans/w/wa/walker-michael/"
 - name: "Walker, Michael (Personal)"
   url: "/setts/lb14db14lb14w2o3w2db14lb14db6y2db6lb14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb14db14lb14w2o3w2db14lb14db6y2db6lb14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBWRWWBWBWWRWBWBGBW](/stripes/bgbwbwrwwbwbwwrwbwbgbw/).
+
+Part of the [Walker, Michael](/tartans/w/wa/walker-michael/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

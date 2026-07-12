@@ -6,6 +6,8 @@ This is the **Drummond #2** sett — one scale-free proportion (`db24r7g7r39db4r
 [BRGRBRBRGRBR](/stripes/brgrbrbrgrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Drummond](/tartans/d/dr/drummond-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

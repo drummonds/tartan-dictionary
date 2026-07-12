@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Louth"
+  url: "/tartans/l/lo/louth/"
+- name: "Louth"
   url: "/setts/n38dr4n8ly2n4b3n18r7n2r4o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n38dr4n8ly2n4b3n18r7n2r4o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBBBRBRR](/stripes/bbbybbbrbrr/).
+
+Part of the [Louth](/tartans/l/lo/louth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

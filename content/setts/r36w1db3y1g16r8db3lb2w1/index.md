@@ -7,7 +7,7 @@ This is the **Drummond of Perth** sett — one scale-free proportion (`r36w1db3y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [Drummond of Perth](/tartans/drummond-of-perth-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Drummond of Perth](/tartans/d/dr/drummond-of-perth-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

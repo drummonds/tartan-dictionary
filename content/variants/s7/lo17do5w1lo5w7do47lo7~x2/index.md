@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Cleveland Fall"
+  url: "/tartans/p/pr/pride-of-cleveland-fall/"
+- name: "Pride of Cleveland Fall"
   url: "/setts/lo17do5w1lo5w7do47lo7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo17do5w1lo5w7do47lo7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBWYWBY](/stripes/ybwywby/).
+
+Part of the [Pride of Cleveland Fall](/tartans/p/pr/pride-of-cleveland-fall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

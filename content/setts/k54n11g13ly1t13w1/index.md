@@ -6,7 +6,7 @@ This is the **Kilmaine Saints (Corporate)** sett — one scale-free proportion (
 [KBGYBW](/stripes/kbgybw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Kilmaine Saints](/tartans/kilmaine-saints/) tartan — the named design grouping this sett with its kin.
+Part of the [Kilmaine Saints](/tartans/k/ki/kilmaine-saints/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

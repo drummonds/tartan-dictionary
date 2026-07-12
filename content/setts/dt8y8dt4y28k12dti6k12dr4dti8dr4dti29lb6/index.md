@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Castle Grey** sett — one scale-free proportion 
 [BGBGKBKBBBBW](/stripes/bgbgkbkbbbbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Kinloch Anderson Castle](/tartans/k/ki/kinloch-anderson-castle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

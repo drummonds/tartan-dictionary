@@ -6,6 +6,8 @@ This is the **Lodge Dunblane Australis No.966** sett — one scale-free proporti
 [BGBGBGBGBGBGKWKWKWKGBGBGBRBGBGBGGKWKWKWKGG](/stripes/bgbgbgbgbgbgkwkwkwkgbgbgbrbgbgbggkwkwkwkgg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Lodge Dunblane Australis No.966](/tartans/l/lo/lodge-dunblane-australis-no-966/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

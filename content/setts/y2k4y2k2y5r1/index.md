@@ -6,6 +6,8 @@ This is the **Lauder** sett — one scale-free proportion (`y2k4y2k2y5r1`), colo
 [GKGKGR](/stripes/gkgkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lauder](/tartans/l/la/lauder-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

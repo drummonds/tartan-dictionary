@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Casely"
+  url: "/clan/casely/"
+- name: "Casely"
+  url: "/tartans/c/ca/casely-2/"
 - name: "Casely Family Tartan"
   url: "/setts/k19g3db19lo5db19g3k19g19r7g19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k19g3db19lo5db19g3k19g19r7g19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGBYBGK](/stripes/grgkgbybgk/).
+
+Part of the [Casely](/tartans/c/ca/casely-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

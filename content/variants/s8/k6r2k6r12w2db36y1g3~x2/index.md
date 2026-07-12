@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fremont Presbyterian Church"
+  url: "/tartans/f/fr/fremont-presbyterian-church/"
 - name: "Fremont Presbyterian Church (P)"
   url: "/setts/k6r2k6r12w2db36y1g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r2k6r12w2db36y1g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWRKRK](/stripes/ggbwrkrk/).
+
+Part of the [Fremont Presbyterian Church](/tartans/f/fr/fremont-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Mar Tribe** sett — one scale-free proportion (`r2k3g45k3y2`), co
 [GKGKR](/stripes/gkgkr/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Mar Tribe](/tartans/m/ma/mar-tribe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

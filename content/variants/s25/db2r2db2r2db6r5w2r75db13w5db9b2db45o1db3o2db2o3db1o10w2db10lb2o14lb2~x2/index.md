@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Plaid 5"
+  url: "/tartans/u/un/unidentified-plaid-5/"
+- name: "Unidentified Plaid 5"
   url: "/setts/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRWRBWBBBRBRBRBRWBWRW](/stripes/brbrbrwrbwbbbrbrbrbrwbwrw/).
+
+Part of the [Unidentified Plaid 5](/tartans/u/un/unidentified-plaid-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 

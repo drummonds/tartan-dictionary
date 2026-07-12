@@ -6,6 +6,8 @@ This is the **Scott Green (Sir Walter)** sett — one scale-free proportion (`g3
 [GWBWGK](/stripes/gwbwgk/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [Scott](/tartans/s/sc/scott-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

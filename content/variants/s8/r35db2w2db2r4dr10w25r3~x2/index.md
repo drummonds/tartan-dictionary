@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry Dress"
+  url: "/tartans/l/lo/longniddry-dress/"
 - name: "Longniddry Dress, Red (Dance)"
   url: "/setts/r35db2w2db2r4dr10w25r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r35db2w2db2r4dr10w25r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBRBWR](/stripes/rbwbrbwr/).
+
+Part of the [Longniddry Dress](/tartans/l/lo/longniddry-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

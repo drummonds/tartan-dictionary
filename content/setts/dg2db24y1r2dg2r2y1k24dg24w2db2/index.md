@@ -6,7 +6,7 @@ This is the **Smithsonian (Corporate)** sett — one scale-free proportion (`dg2
 [BWGKGRGRGBG](/stripes/bwgkgrgrgbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Smithsonian](/tartans/smithsonian-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Smithsonian](/tartans/s/sm/smithsonian-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

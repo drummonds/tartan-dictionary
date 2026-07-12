@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bowling"
-  url: "/tartans/bowling/"
+  url: "/tartans/b/bo/bowling/"
 - name: "Bowling"
   url: "/setts/w2y3k2y6g8k2w2k2g2k6ly3db14w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2y3k2y6g8k2w2k2g2k6ly3db14w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYKGKWKGGKGW](/stripes/wbykgkwkggkgw/).
 
-Part of the [Bowling](/tartans/bowling/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bowling](/tartans/b/bo/bowling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

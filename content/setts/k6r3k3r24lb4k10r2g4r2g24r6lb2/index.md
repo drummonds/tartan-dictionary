@@ -7,6 +7,8 @@ This is the **Bates** sett — one scale-free proportion (`k6r3k3r24lb4k10r2g4r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Bates](/tartans/b/ba/bates/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

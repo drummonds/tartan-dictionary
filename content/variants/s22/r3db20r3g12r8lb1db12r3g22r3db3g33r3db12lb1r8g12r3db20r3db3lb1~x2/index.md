@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cumming and Glenorchy"
+  url: "/tartans/c/cu/cumming-and-glenorchy/"
+- name: "Cumming and Glenorchy"
   url: "/setts/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRWBRGRBGRBWRGRBRBW](/stripes/rbrgrwbrgrbgrbwrgrbrbw/).
+
+Part of the [Cumming and Glenorchy](/tartans/c/cu/cumming-and-glenorchy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

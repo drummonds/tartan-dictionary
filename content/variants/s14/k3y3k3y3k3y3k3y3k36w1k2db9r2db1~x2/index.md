@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Goldwire"
+  url: "/tartans/g/go/goldwire/"
 - name: "Goldwire (2015)"
   url: "/setts/k3y3k3y3k3y3k3y3k36w1k2db9r2db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3y3k3y3k3y3k3y3k36w1k2db9r2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKWKGKGKGKGK](/stripes/brbkwkgkgkgkgk/).
+
+Part of the [Goldwire](/tartans/g/go/goldwire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

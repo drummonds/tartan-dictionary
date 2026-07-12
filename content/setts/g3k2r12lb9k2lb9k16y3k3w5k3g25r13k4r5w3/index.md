@@ -6,6 +6,8 @@ This is the **Wilson's, No 152** sett — one scale-free proportion (`g3k2r12lb9
 [GKRWKWKGKWKGRKRW](/stripes/gkrwkwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 152](/tartans/w/wi/wilson-s-no-152-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

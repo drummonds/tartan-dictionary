@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sound of Iona"
-  url: "/tartans/sound-of-iona/"
+  url: "/tartans/s/so/sound-of-iona/"
 - name: "Sound of Iona"
   url: "/setts/w30lb4db6dp4db6g6db12g13lt4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w30lb4db6dp4db6g6db12g13lt4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBBBWW](/stripes/wgbgbbbww/).
 
-Part of the [Sound of Iona](/tartans/sound-of-iona/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sound of Iona](/tartans/s/so/sound-of-iona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

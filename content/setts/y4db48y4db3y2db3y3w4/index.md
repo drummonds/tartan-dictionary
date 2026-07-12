@@ -6,6 +6,8 @@ This is the **Morris of Wales** sett — one scale-free proportion (`y4db48y4db3
 [GBGBGBGW](/stripes/gbgbgbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Morris of Wales](/tartans/m/mo/morris-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

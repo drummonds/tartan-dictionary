@@ -6,6 +6,8 @@ This is the **Black and Red** sett — one scale-free proportion (`r25k2n4k2r8k3
 [KBKRKBKR](/stripes/kbkrkbkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Black and](/tartans/b/bl/black-and/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fitzgerald"
+  url: "/tartans/f/fi/fitzgerald/"
 - name: "Fitzgerald Red"
   url: "/setts/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRBRBRGRBRWRK](/stripes/krwrbrbrgrbrwrk/).
+
+Part of the [Fitzgerald](/tartans/f/fi/fitzgerald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

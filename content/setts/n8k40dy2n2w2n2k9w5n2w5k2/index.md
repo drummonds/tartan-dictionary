@@ -6,6 +6,8 @@ This is the **Grey Spencer Plaid** sett — one scale-free proportion (`n8k40dy2
 [BKGBWBKWBWK](/stripes/bkgbwbkwbwk/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Grey Spencer](/tartans/g/gr/grey-spencer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

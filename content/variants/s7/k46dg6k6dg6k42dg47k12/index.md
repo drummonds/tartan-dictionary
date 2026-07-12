@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Taiheiyo Club, Inc"
+  url: "/tartans/t/ta/taiheiyo-club-inc/"
 - name: "Taiheiyo Club, Inc."
   url: "/setts/k46dg6k6dg6k42dg47k12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k46dg6k6dg6k42dg47k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGK](/stripes/kgkgkgk/).
+
+Part of the [Taiheiyo Club, Inc](/tartans/t/ta/taiheiyo-club-inc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Buckeye** sett — one scale-free proportion (`n25k4w8r16`), colou
 [BKWR](/stripes/bkwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Buckeye](/tartans/b/bu/buckeye/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

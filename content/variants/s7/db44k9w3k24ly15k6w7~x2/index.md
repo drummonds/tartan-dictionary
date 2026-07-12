@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longford County Crest"
+  url: "/tartans/l/lo/longford-county-crest/"
 - name: "Longford County Crest (Fashion)"
   url: "/setts/db44k9w3k24ly15k6w7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db44k9w3k24ly15k6w7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKYKW](/stripes/bkwkykw/).
+
+Part of the [Longford County Crest](/tartans/l/lo/longford-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

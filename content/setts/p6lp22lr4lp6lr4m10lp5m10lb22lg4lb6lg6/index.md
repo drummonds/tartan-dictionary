@@ -6,6 +6,8 @@ This is the **Kinloch Anderson, Romance of** sett — one scale-free proportion 
 [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kinloch Anderson, Romance of](/tartans/k/ki/kinloch-anderson-romance-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

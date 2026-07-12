@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orvis Sports Company"
+  url: "/tartans/o/or/orvis-sports-company/"
 - name: "Orvis Sports Company (Corporate)"
   url: "/setts/y36dg4k1y2k1dg4k4dg60dr4dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y36dg4k1y2k1dg4k4dg60dr4dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGKGG](/stripes/gbgkgkgkgg/).
+
+Part of the [Orvis Sports Company](/tartans/o/or/orvis-sports-company/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

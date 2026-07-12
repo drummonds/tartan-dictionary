@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crieff High"
+  url: "/tartans/c/cr/crieff-high/"
 - name: "Crieff High (Corporate)"
   url: "/setts/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYBRBRBWBKRKBKR](/stripes/rbybrbrbwbkrkbkr/).
+
+Part of the [Crieff High](/tartans/c/cr/crieff-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

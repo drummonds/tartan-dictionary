@@ -6,6 +6,8 @@ This is the **Allen Personal Tartan** sett — one scale-free proportion (`r2g12
 [GRGKBRBKBKBKBKBGBKGRGRGKBGBKBKBKBKBRBKGR](/stripes/grgkbrbkbkbkbkbgbkgrgrgkbgbkbkbkbkbrbkgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Allen](/tartans/a/al/allen-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

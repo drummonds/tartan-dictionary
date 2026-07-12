@@ -6,6 +6,8 @@ This is the **Cumming Hunting** sett — one scale-free proportion (`k1r1g8r1k6l
 [KRGRKWRGRKRWKRKRGRWKRGR](/stripes/krgrkwrgrkrwkrkrgrwkrgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Cumming](/tartans/c/cu/cumming-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

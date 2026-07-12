@@ -6,7 +6,7 @@ This is the **Ryutokukan Junior High School** sett — one scale-free proportion
 [RGKRW](/stripes/rgkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Ryutokukan Junior High School](/tartans/ryutokukan-junior-high-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Ryutokukan Junior High School](/tartans/r/ry/ryutokukan-junior-high-school/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

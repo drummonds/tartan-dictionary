@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinross"
+  url: "/tartans/k/ki/kinross/"
 - name: "Kinross #2"
   url: "/setts/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWWBRKRKRWWWYRKRYWWWYKRKRBW](/stripes/rwwwbrkrkrwwwyrkrywwwykrkrbw/).
+
+Part of the [Kinross](/tartans/k/ki/kinross/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

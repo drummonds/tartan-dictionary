@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mowat, Sir Oliver"
+  url: "/tartans/m/mo/mowat-sir-oliver/"
+- name: "Mowat, Sir Oliver"
   url: "/setts/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBYBGBGBGBGBYBYBG](/stripes/bbybybgbgbgbgbybybg/).
+
+Part of the [Mowat, Sir Oliver](/tartans/m/mo/mowat-sir-oliver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

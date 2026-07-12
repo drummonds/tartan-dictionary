@@ -6,6 +6,8 @@ This is the **Buchanan VS** sett — one scale-free proportion (`w2r4w2r4w9k1`),
 [KWRWRW](/stripes/kwrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Buchanan VS](/tartans/b/bu/buchanan-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

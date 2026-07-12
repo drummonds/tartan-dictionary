@@ -6,7 +6,7 @@ This is the **MacHardy Clan Tartan** sett — one scale-free proportion (`db3r3g
 [BRGBWBRG](/stripes/brgbwbrg/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacHardy](/tartans/machardy/) tartan — the named design grouping this sett with its kin.
+Part of the [MacHardy](/tartans/m/ma/machardy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

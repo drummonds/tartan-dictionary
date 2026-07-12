@@ -6,7 +6,7 @@ This is the **Coats (New Zealand)** sett — one scale-free proportion (`k9lo6db
 [KYBBBBGBY](/stripes/kybbbbgby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Coats](/tartans/coats/) tartan — the named design grouping this sett with its kin.
+Part of the [Coats](/tartans/c/co/coats/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

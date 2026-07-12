@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Derick Wardrope"
+  url: "/tartans/d/de/derick-wardrope/"
 - name: "Derick Wardrope (Portobello) (Personal)"
   url: "/setts/dr3g32k4g4k11db3k7dr4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3g32k4g4k11db3k7dr4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBKBW](/stripes/bgkgkbkbw/).
+
+Part of the [Derick Wardrope](/tartans/d/de/derick-wardrope/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

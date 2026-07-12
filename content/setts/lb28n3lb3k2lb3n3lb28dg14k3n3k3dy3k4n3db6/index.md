@@ -6,6 +6,8 @@ This is the **Buffalo** sett — one scale-free proportion (`lb28n3lb3k2lb3n3lb2
 [BBKGKBKGWBWKWBW](/stripes/bbkgkbkgwbwkwbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Buffalo](/tartans/b/bu/buffalo-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **New Millennium** sett — one scale-free proportion (`dr4lb3db6t4d
 [BWBBBKGBWBG](/stripes/bwbbbkgbwbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [New Millennium](/tartans/n/ne/new-millennium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

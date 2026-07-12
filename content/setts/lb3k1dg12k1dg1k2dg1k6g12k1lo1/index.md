@@ -6,6 +6,8 @@ This is the **McCandlish Htg, Green (Name)** sett — one scale-free proportion 
 [WKGKGKGKGKY](/stripes/wkgkgkgkgky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [McCandlish Hunting](/tartans/m/mc/mccandlish-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

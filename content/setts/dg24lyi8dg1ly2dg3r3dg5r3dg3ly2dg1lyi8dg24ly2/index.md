@@ -6,6 +6,8 @@ This is the **St. Christopher** sett — one scale-free proportion (`dg24lyi8dg1
 [GYGYGRGRGYGYGY](/stripes/gygygrgrgygygy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [St. Christopher](/tartans/s/st/st-christopher/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

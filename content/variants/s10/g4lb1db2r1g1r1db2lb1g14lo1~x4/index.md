@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Seattle"
+  url: "/tartans/s/se/seattle/"
 - name: "Seattle (District)"
   url: "/setts/g4lb1db2r1g1r1db2lb1g14lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4lb1db2r1g1r1db2lb1g14lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBRGRBWGY](/stripes/gwbrgrbwgy/).
+
+Part of the [Seattle](/tartans/s/se/seattle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

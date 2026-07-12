@@ -6,7 +6,7 @@ This is the **Glasgow, Celtic Society** sett — one scale-free proportion (`db8
 [BRBRBRBGKGKGKGRGBK](/stripes/brbrbrbgkgkgkgrgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Glasgow Celtic Society](/tartans/glasgow-celtic-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Glasgow Celtic Society](/tartans/g/gl/glasgow-celtic-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

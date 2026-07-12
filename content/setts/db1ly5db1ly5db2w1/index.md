@@ -6,6 +6,8 @@ This is the **Tokharion** sett — one scale-free proportion (`db1ly5db1ly5db2w1
 [BYBYBW](/stripes/bybybw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Tokharion](/tartans/t/to/tokharion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

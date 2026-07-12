@@ -6,7 +6,7 @@ This is the **Lands of Liberty (Fashion)** sett — one scale-free proportion (`
 [RWBWR](/stripes/rwbwr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Lands of Liberty](/tartans/lands-of-liberty/) tartan — the named design grouping this sett with its kin.
+Part of the [Lands of Liberty](/tartans/l/la/lands-of-liberty/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

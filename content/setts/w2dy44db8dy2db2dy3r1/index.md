@@ -6,6 +6,8 @@ This is the **Reece, Mathew** sett — one scale-free proportion (`w2dy44db8dy2d
 [RGBGBGW](/stripes/rgbgbgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Reece, Mathew](/tartans/r/re/reece-mathew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gates** sett — one scale-free proportion (`db24r3db4r6g8r3g8r30k
 [BRBRGRGRK](/stripes/brbrgrgrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gates](/tartans/g/ga/gates/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

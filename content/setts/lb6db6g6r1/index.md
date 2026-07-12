@@ -6,6 +6,8 @@ This is the **Unidentified No 40** sett — one scale-free proportion (`lb6db6g6
 [RGBW](/stripes/rgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 40](/tartans/u/un/unidentified-no-40/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

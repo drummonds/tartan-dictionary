@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th-7/"
 - name: "Unnamed C18th - Pr Ch Ed Plaid?"
   url: "/setts/r10dg3y3w1k2w1y3dg12w2r3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10dg3y3w1k2w1y3dg12w2r3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGWKWGGWRW](/stripes/rggwkwggwrw/).
+
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

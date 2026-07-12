@@ -6,6 +6,8 @@ This is the **Scottish American Society of Michigan (Official)** sett — one sc
 [KWGGBR](/stripes/kwggbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Scottish American Society of Michigan](/tartans/s/sc/scottish-american-society-of-michigan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dropkick Murphys** sett — one scale-free proportion (`k6dg55g6k8
 [KGGKGKGKW](/stripes/kggkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dropkick Murphys](/tartans/d/dr/dropkick-murphys/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

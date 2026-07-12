@@ -6,6 +6,8 @@ This is the **St Patrick Trade or Fancy Tartan** sett — one scale-free proport
 [GGWGWGWGWG](/stripes/ggwgwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [St Patrick Trade or Fancy](/tartans/s/st/st-patrick-trade-or-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Tartans Authority** sett — one scale-free proportion (`
 [KKWKGRKKWKW](/stripes/kkwkgrkkwkw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Scottish Tartans Authority](/tartans/s/sc/scottish-tartans-authority-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

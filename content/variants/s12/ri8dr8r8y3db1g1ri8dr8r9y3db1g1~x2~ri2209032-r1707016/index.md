@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kreutz, Arthur"
+  url: "/tartans/k/kr/kreutz-arthur-2/"
 - name: "Kreutz, Arthur (Personal)"
   url: "/setts/ri8dr8r8y3db1g1ri8dr8r9y3db1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri8dr8r8y3db1g1ri8dr8r9y3db1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBRGBGRBR](/stripes/gbgrbrgbgrbr/).
+
+Part of the [Kreutz, Arthur](/tartans/k/kr/kreutz-arthur-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

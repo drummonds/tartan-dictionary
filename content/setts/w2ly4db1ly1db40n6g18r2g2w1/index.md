@@ -6,6 +6,8 @@ This is the **O'Mahony, The (Commemorative)** sett — one scale-free proportion
 [WGRGBBYBYW](/stripes/wgrgbbybyw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [O'Mahony, The](/tartans/o/o/o-mahony-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Dundee F.C. Corporate Tartan** sett — one scale-free proportion 
 [BWBWBYBYBR](/stripes/bwbwbybybr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Dundee F.C.](/tartans/dundee-f-c/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee F.C.](/tartans/d/du/dundee-f-c/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

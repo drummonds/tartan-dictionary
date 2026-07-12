@@ -6,6 +6,8 @@ This is the **Texas Blue Bonnet** sett — one scale-free proportion (`g5r1db10w
 [GRBWRWWWWWG](/stripes/grbwrwwwwwg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Texas Blue Bonnet](/tartans/t/te/texas-blue-bonnet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

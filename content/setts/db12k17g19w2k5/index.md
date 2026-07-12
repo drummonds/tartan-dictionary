@@ -6,6 +6,8 @@ This is the **Wilson's Folio 131** sett — one scale-free proportion (`db12k17g
 [BKGWK](/stripes/bkgwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's Folio 131](/tartans/w/wi/wilson-s-folio-131/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

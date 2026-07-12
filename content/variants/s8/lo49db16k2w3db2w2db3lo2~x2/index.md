@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Irn Bru"
+  url: "/tartans/i/ir/irn-bru-2/"
+- name: "Irn Bru"
   url: "/setts/lo49db16k2w3db2w2db3lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo49db16k2w3db2w2db3lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKWBWBY](/stripes/ybkwbwby/).
+
+Part of the [Irn Bru](/tartans/i/ir/irn-bru-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

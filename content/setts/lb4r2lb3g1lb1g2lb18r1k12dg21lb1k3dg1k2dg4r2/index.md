@@ -6,7 +6,7 @@ This is the **Munster** sett — one scale-free proportion (`lb4r2lb3g1lb1g2lb18
 [RGKGKWGKRWGWGWRW](/stripes/rgkgkwgkrwgwgwrw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Munster](/tartans/munster/) tartan — the named design grouping this sett with its kin.
+Part of the [Munster](/tartans/m/mu/munster/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

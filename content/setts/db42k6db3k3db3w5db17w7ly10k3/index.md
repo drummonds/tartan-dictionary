@@ -6,6 +6,8 @@ This is the **California Riverside, Uni. (Corp)** sett — one scale-free propor
 [BKBKBWBWYK](/stripes/bkbkbwbwyk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [California Riverside, Uni.](/tartans/c/ca/california-riverside-uni/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

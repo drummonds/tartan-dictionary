@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Breacan"
+  url: "/tartans/b/br/breacan/"
+- name: "Breacan"
   url: "/setts/o3w1o1w3dg1w1dg10g2dg1g10y2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3w1o1w3dg1w1dg10g2dg1g10y2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGWGWRWR](/stripes/bgggggwgwrwr/).
+
+Part of the [Breacan](/tartans/b/br/breacan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

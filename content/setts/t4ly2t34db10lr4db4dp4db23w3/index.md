@@ -6,6 +6,8 @@ This is the **Heirloom Blue Alba** sett — one scale-free proportion (`t4ly2t34
 [BYBBYBBBWBBBYBBY](/stripes/bybbybbbwbbbybby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Heirloom Blue Alba](/tartans/h/he/heirloom-blue-alba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

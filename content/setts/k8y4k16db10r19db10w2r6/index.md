@@ -6,6 +6,8 @@ This is the **Sullivan of Braemar** sett — one scale-free proportion (`k8y4k16
 [KGKBRBWR](/stripes/kgkbrbwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Sullivan of Braemar](/tartans/s/su/sullivan-of-braemar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Invertere"
+  url: "/tartans/i/in/invertere-3/"
 - name: "Invertere, (Daks)"
   url: "/setts/r5dg12o4db4o22dg3o4r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5dg12o4db4o22dg3o4r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRR](/stripes/rgrbrgrr/).
+
+Part of the [Invertere](/tartans/i/in/invertere-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

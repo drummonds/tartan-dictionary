@@ -7,6 +7,8 @@ This is the **Lochiel (Cameron)** sett — one scale-free proportion (`r36y2dp1r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Lochiel](/tartans/l/lo/lochiel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

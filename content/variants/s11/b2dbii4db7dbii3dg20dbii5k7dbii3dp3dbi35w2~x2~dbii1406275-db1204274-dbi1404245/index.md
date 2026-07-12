@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of the Glen"
+  url: "/tartans/s/sp/spirit-of-the-glen/"
 - name: "Spirit of the Glen (Corporate)"
   url: "/setts/b2dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b2dbii4db7dbii3dg20dbii5k7dbii3dp3dbi35w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBKBBBW](/stripes/bbbbgbkbbbw/).
+
+Part of the [Spirit of the Glen](/tartans/s/sp/spirit-of-the-glen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

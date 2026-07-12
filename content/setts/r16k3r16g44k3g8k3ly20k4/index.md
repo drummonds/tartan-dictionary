@@ -6,7 +6,7 @@ This is the **MacMillan Society of Glasgow** sett — one scale-free proportion 
 [KYKGKGRKR](/stripes/kykgkgrkr/). It is recorded as a single **variant**, below.
 First attested **1952**.
 
-Part of the [MacMillan Society of Glasgow](/tartans/macmillan-society-of-glasgow/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan Society of Glasgow](/tartans/m/ma/macmillan-society-of-glasgow/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

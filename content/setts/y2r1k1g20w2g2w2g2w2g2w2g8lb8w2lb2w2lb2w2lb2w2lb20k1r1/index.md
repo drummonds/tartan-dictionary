@@ -6,6 +6,8 @@ This is the **Lachine** sett — one scale-free proportion (`y2r1k1g20w2g2w2g2w2
 [GRKGWGWGWGWGWWWWWWWWWKR](/stripes/grkgwgwgwgwgwwwwwwwwwkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Lachine](/tartans/l/la/lachine-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

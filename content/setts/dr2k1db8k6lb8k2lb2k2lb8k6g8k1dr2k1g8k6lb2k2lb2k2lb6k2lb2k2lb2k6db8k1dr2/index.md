@@ -6,6 +6,8 @@ This is the **MacKinlay Dress** sett — one scale-free proportion (`dr2k1db8k6l
 [BKBKWKWKWKGKBKGKWKWKWKWKWKBKB](/stripes/bkbkwkwkwkgkbkgkwkwkwkwkwkbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacKinlay Dress](/tartans/m/ma/mackinlay-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

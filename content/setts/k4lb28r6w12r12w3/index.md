@@ -6,6 +6,8 @@ This is the **Thompson, D.C. (Personal)** sett — one scale-free proportion (`k
 [KWRWRW](/stripes/kwrwrw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Thompson](/tartans/t/th/thompson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

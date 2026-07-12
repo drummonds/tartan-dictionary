@@ -6,6 +6,8 @@ This is the **Mulholland (Personal)** sett — one scale-free proportion (`db13k
 [BKBKBKYGKGYKBKY](/stripes/bkbkbkygkgykbky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Mulholland](/tartans/m/mu/mulholland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

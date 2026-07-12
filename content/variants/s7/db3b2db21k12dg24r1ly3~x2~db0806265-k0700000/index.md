@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nova Scotia International Tatoo"
+  url: "/tartans/n/no/nova-scotia-international-tatoo/"
 - name: "Nova Scotia Int. Tattoo (Corporate)"
   url: "/setts/db3b2db21k12dg24r1ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3b2db21k12dg24r1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGRY](/stripes/bbbkgry/).
+
+Part of the [Nova Scotia International Tatoo](/tartans/n/no/nova-scotia-international-tatoo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

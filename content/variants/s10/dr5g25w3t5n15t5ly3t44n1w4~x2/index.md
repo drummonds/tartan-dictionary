@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Texas"
+  url: "/tartans/s/st/state-seal-of-texas/"
 - name: "State Seal of Texas (Fashion)"
   url: "/setts/dr5g25w3t5n15t5ly3t44n1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5g25w3t5n15t5ly3t44n1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBBBYBBW](/stripes/bgwbbbybbw/).
+
+Part of the [State Seal of Texas](/tartans/s/st/state-seal-of-texas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,7 +6,7 @@ This is the **MacInnes (MacGregor Hastie) (Clan)** sett — one scale-free propo
 [BRKGKRBRGRGRGRGW](/stripes/brkgkrbrgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~1950**.
 
-Part of the [MacInnes](/tartans/macinnes/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInnes](/tartans/m/ma/macinnes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

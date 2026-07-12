@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Correctional Service Canada"
+  url: "/tartans/c/co/correctional-service-canada/"
+- name: "Correctional Service Canada"
   url: "/setts/y4db5lb2db30k1db4k4db1k15r6w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4db5lb2db30k1db4k4db1k15r6w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBKBKBKRW](/stripes/gbwbkbkbkrw/).
+
+Part of the [Correctional Service Canada](/tartans/c/co/correctional-service-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

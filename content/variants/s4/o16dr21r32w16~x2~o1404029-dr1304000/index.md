@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bloomer-Alexander"
+  url: "/tartans/b/bl/bloomer-alexander/"
 - name: "Bloomer-Alexander (Personal)"
   url: "/setts/o16dr21r32w16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o16dr21r32w16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRW](/stripes/rbrw/).
+
+Part of the [Bloomer-Alexander](/tartans/b/bl/bloomer-alexander/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

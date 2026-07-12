@@ -6,6 +6,8 @@ This is the **Guzzo Dress (Personal)** sett — one scale-free proportion (`w20k
 [KYWKYWKW](/stripes/kywkywkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Guzzo Dress](/tartans/g/gu/guzzo-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

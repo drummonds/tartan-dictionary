@@ -6,6 +6,8 @@ This is the **San Diego, The** sett — one scale-free proportion (`n2db16lb2db3
 [BBWBWBWGBGR](/stripes/bbwbwbwgbgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [San Diego Tartan Day](/tartans/s/sa/san-diego-tartan-day/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

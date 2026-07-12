@@ -6,7 +6,7 @@ This is the **MacGleish Formal (Personal)** sett — one scale-free proportion (
 [RKGBY](/stripes/rkgby/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [MacGleish Formal](/tartans/macgleish-formal/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGleish Formal](/tartans/m/ma/macgleish-formal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

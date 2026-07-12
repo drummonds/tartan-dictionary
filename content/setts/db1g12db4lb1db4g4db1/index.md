@@ -6,6 +6,8 @@ This is the **St. Dennis & Cranley School** sett — one scale-free proportion (
 [BGBWBGB](/stripes/bgbwbgb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [St. Dennis & Cranley](/tartans/s/st/st-dennis-cranley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

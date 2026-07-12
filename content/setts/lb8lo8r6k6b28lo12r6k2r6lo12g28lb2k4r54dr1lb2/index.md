@@ -6,6 +6,8 @@ This is the **Finzean's Fancy** sett — one scale-free proportion (`lb8lo8r6k6b
 [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Finzean's Fancy](/tartans/f/fi/finzean-s-fancy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

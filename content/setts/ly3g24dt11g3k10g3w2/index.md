@@ -6,6 +6,8 @@ This is the **Cornish Brewery, Green** sett — one scale-free proportion (`ly3g
 [WGKGBGY](/stripes/wgkgbgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Cornish Brewery](/tartans/c/co/cornish-brewery-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

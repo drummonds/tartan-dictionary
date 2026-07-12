@@ -6,6 +6,8 @@ This is the **Grant and Drummond** sett — one scale-free proportion (`r3db2r2g
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Grant and Drummond](/tartans/g/gr/grant-and-drummond/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

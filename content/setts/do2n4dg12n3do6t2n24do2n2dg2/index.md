@@ -6,6 +6,8 @@ This is the **Wicklow Irish County Tartan** sett — one scale-free proportion (
 [BBGBBBBBBG](/stripes/bbgbbbbbbg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Wicklow Irish County](/tartans/w/wi/wicklow-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

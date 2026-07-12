@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keogh Hunting"
+  url: "/tartans/k/ke/keogh-hunting/"
 - name: "Keogh Hunting (Name)"
   url: "/setts/dgii11dg1dgii1dg1dgii1dg8g8dgi1g8dg8dgii8g1dgii1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dgii11dg1dgii1dg1dgii1dg8g8dgi1g8dg8dgii8g1dgii1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGGGGGG](/stripes/ggggggggggggg/).
+
+Part of the [Keogh Hunting](/tartans/k/ke/keogh-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Missouri Dress (Proposed) (District)** sett — one scale-free pro
 [GWRWBBBBGBGBGBWW](/stripes/gwrwbbbbgbgbgbww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Missouri Dress](/tartans/m/mi/missouri-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

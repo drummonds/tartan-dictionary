@@ -6,6 +6,8 @@ This is the **Womens Rural Institute** sett — one scale-free proportion (`dg4g
 [BGBGKBGG](/stripes/bgbgkbgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Womens Rural Institute](/tartans/w/wo/womens-rural-institute/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

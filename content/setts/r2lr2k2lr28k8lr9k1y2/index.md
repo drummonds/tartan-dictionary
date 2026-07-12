@@ -6,6 +6,8 @@ This is the **Summer Spirit** sett — one scale-free proportion (`r2lr2k2lr28k8
 [GKYKYKYRYKYKYK](/stripes/gkykykyrykykyk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Summer Spirit](/tartans/s/su/summer-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

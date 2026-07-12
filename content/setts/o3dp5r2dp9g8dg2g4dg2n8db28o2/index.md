@@ -6,6 +6,8 @@ This is the **Glenisla (Fashion)** sett — one scale-free proportion (`o3dp5r2d
 [RBBGGGGBRBR](/stripes/rbbggggbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glenisla](/tartans/g/gl/glenisla/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

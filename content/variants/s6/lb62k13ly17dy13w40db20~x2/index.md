@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGregor-Ryan"
-  url: "/tartans/macgregor-ryan/"
+  url: "/tartans/m/ma/macgregor-ryan/"
 - name: "MacGregor-Ryan (Personal)"
   url: "/setts/lb62k13ly17dy13w40db20/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb62k13ly17dy13w40db20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGYKW](/stripes/bwgykw/).
 
-Part of the [MacGregor-Ryan](/tartans/macgregor-ryan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor-Ryan](/tartans/m/ma/macgregor-ryan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

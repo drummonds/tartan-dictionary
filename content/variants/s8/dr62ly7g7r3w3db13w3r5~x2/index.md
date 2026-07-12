@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Legion of Frontiersmen"
+  url: "/tartans/l/le/legion-of-frontiersmen-3/"
+- name: "Legion of Frontiersmen"
   url: "/setts/dr62ly7g7r3w3db13w3r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr62ly7g7r3w3db13w3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGRWBWR](/stripes/bygrwbwr/).
+
+Part of the [Legion of Frontiersmen](/tartans/l/le/legion-of-frontiersmen-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "The Broons"
+  url: "/tartans/t/th/the-broons/"
 - name: "The Broons (Corporate)"
   url: "/setts/r3k1g8ly1dyi7ly1g19dy25k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k1g8ly1dyi7ly1g19dy25k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGYGYGKR](/stripes/kggygygkr/).
+
+Part of the [The Broons](/tartans/t/th/the-broons/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

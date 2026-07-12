@@ -6,6 +6,8 @@ This is the **Cahaba Memorial** sett — one scale-free proportion (`lo2w3k1b9k1
 [YWKBGBGBKBKWY](/stripes/ywkbgbgbkbkwy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Cahaba Memorial](/tartans/c/ca/cahaba-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

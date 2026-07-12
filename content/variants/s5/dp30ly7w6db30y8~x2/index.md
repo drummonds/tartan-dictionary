@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pownall"
-  url: "/tartans/pownall/"
+  url: "/tartans/p/po/pownall/"
 - name: "Pownall (2015)"
   url: "/setts/dp30ly7w6db30y8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp30ly7w6db30y8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYWBG](/stripes/bywbg/).
 
-Part of the [Pownall](/tartans/pownall/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pownall](/tartans/p/po/pownall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

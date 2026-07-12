@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLean of Duart"
   url: "/families/maclean-of-duart/"
 - name: "MacLean of Duart"
-  url: "/tartans/maclean-of-duart-2/"
+  url: "/tartans/m/ma/maclean-of-duart-2/"
 - name: "Maclean of Duart (Wilsons) (Clan)"
   url: "/setts/lb16k12y4k4w6k4dg32r50lb6r8k3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb16k12y4k4w6k4dg32r50lb6r8k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRGKWKGKW](/stripes/krwrgkwkgkw/).
 
-Part of the [MacLean of Duart](/tartans/maclean-of-duart-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLean of Duart](/tartans/m/ma/maclean-of-duart-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

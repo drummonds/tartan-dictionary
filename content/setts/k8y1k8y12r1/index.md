@@ -7,7 +7,7 @@ This is the **MacLeod of Lewis** sett — one scale-free proportion (`k8y1k8y12r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
-Part of the [MacLeod of Lewis](/tartans/macleod-of-lewis/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Lewis](/tartans/m/ma/macleod-of-lewis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

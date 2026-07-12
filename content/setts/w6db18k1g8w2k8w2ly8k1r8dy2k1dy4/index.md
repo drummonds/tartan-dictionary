@@ -6,6 +6,8 @@ This is the **Mozambique** sett — one scale-free proportion (`w6db18k1g8w2k8w2
 [GKGRKYWKWGKBW](/stripes/gkgrkywkwgkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Mozambique](/tartans/m/mo/mozambique/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

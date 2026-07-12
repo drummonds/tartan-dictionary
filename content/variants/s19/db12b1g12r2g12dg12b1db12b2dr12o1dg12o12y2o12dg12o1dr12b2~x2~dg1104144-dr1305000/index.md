@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United Distillers"
+  url: "/tartans/u/un/united-distillers-3/"
 - name: "United Distillers, (Warp)"
   url: "/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12b1g12r2g12dg12b1db12b2dr12o1dg12o12y2o12dg12o1dr12b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRGGBBBBRGRGRGRBB](/stripes/bbgrggbbbbrgrgrgrbb/).
+
+Part of the [United Distillers](/tartans/u/un/united-distillers-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

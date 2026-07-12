@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hage-West"
+  url: "/tartans/h/ha/hage-west/"
 - name: "Hage-West (Personal)"
   url: "/setts/dg8k8dg8y6k3y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8k8dg8y6k3y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKG](/stripes/gkggkg/).
+
+Part of the [Hage-West](/tartans/h/ha/hage-west/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

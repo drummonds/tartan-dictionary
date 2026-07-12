@@ -6,7 +6,7 @@ This is the **Caledonia No 3** sett — one scale-free proportion (`r13lb3r13g12
 [BRWBGGRWR](/stripes/brwbggrwr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Caledonia No 3](/tartans/caledonia-no-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Caledonia No 3](/tartans/c/ca/caledonia-no-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Carbon (Corporate)** sett — one scale-free proportion (`n68k4n18
 [BKBRKWKWY](/stripes/bkbrkwkwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Carbon](/tartans/c/ca/carbon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oregon State University"
+  url: "/tartans/o/or/oregon-state-university/"
+- name: "Oregon State University"
   url: "/setts/k6lo8k13w1lo11k1lo11w4k2lo1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6lo8k13w1lo11k1lo11w4k2lo1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKWYKYWKYK](/stripes/kykwykywkyk/).
+
+Part of the [Oregon State University](/tartans/o/or/oregon-state-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

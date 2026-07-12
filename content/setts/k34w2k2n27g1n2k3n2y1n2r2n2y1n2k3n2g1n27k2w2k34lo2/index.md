@@ -6,6 +6,8 @@ This is the **West Lothian Woolen Mill** sett — one scale-free proportion (`k3
 [KWKBGBKBGBRBGBKBGBKWKY](/stripes/kwkbgbkbgbrbgbkbgbkwky/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [West Lothian Woolen Mill](/tartans/w/we/west-lothian-woolen-mill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

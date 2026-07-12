@@ -6,6 +6,8 @@ This is the **Merrilees** sett — one scale-free proportion (`w23lb6w6r5k35r10`
 [RKRWWW](/stripes/rkrwww/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [Merrilees](/tartans/m/me/merrilees/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Rose"
   url: "/clan/rose/"
 - name: "Rose"
-  url: "/tartans/rose/"
+  url: "/tartans/r/ro/rose/"
 - name: "Rose"
   url: "/setts/g2r28db6r5db2r2db2r11w2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2r28db6r5db2r2db2r11w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRBRW](/stripes/grbrbrbrw/).
 
-Part of the [Rose](/tartans/rose/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rose](/tartans/r/ro/rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Campbell of Armaddie** sett — one scale-free proportion (`r4k1r1
 [RKRKR](/stripes/rkrkr/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Campbell of Armaddie](/tartans/c/ca/campbell-of-armaddie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Moran"
-  url: "/tartans/moran-3/"
+  url: "/tartans/m/mo/moran-3/"
 - name: "Moran Family Tartan"
   url: "/setts/g55k17r9k11y2db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g55k17r9k11y2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRKG](/stripes/bgkrkg/).
 
-Part of the [Moran](/tartans/moran-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moran](/tartans/m/mo/moran-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

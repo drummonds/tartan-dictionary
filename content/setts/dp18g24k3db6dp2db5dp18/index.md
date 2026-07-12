@@ -6,6 +6,8 @@ This is the **Saorsa** sett — one scale-free proportion (`dp18g24k3db6dp2db5dp
 [BBBBKGB](/stripes/bbbbkgb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Saorsa](/tartans/s/sa/saorsa-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

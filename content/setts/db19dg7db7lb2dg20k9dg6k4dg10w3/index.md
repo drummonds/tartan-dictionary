@@ -6,6 +6,8 @@ This is the **O'Connell, William Benedict (Personal)** sett — one scale-free p
 [BGBWGKGKGW](/stripes/bgbwgkgkgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [O'Connell, William Benedict](/tartans/o/o/o-connell-william-benedict/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

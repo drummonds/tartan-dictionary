@@ -6,7 +6,7 @@ This is the **Baker** sett — one scale-free proportion (`db28o3w1o3db4w2dp1w5`
 [BRWRBWBW](/stripes/brwrbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Baker](/tartans/baker/) tartan — the named design grouping this sett with its kin.
+Part of the [Baker](/tartans/b/ba/baker/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

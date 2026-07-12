@@ -6,6 +6,8 @@ This is the **Salt Spring Island** sett — one scale-free proportion (`r1g6db6w
 [RGBW](/stripes/rgbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Salt Spring Island](/tartans/s/sa/salt-spring-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

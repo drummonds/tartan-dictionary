@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Drumlithie Rock and Wheel"
+  url: "/tartans/d/dr/drumlithie-rock-and-wheel/"
 - name: "Drumlithie Rock and Wheel Tartan"
   url: "/setts/r2dp3ri2r15dp3g19dp20r15dp3ri2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dp3ri2r15dp3g19dp20r15dp3ri2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
+
+Part of the [Drumlithie Rock and Wheel](/tartans/d/dr/drumlithie-rock-and-wheel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

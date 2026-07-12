@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
+- name: "MacIntyre, or Perthshire"
+  url: "/tartans/m/ma/macintyre-or-perthshire/"
 - name: "MacIntyre, or Perthshire"
   url: "/setts/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRBRGRBRGRBRGRBRBW](/stripes/rbrgrbrgrbrgrbrgrbrbw/).
+
+Part of the [MacIntyre, or Perthshire](/tartans/m/ma/macintyre-or-perthshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 

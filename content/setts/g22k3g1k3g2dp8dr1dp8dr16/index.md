@@ -6,6 +6,8 @@ This is the **Queen of Scots (Commemorative))** sett — one scale-free proporti
 [BBBBGKGKG](/stripes/bbbbgkgkg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Queen of Scots](/tartans/q/qu/queen-of-scots-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

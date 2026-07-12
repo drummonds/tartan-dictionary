@@ -6,7 +6,7 @@ This is the **Keeper of the Quaich** sett — one scale-free proportion (`y3b40d
 [BBBBBG](/stripes/bbbbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Keeper of the Quaich](/tartans/keeper-of-the-quaich/) tartan — the named design grouping this sett with its kin.
+Part of the [Keeper of the Quaich](/tartans/k/ke/keeper-of-the-quaich/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

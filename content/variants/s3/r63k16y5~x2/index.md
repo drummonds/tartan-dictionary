@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McPeek"
-  url: "/tartans/mcpeek/"
+  url: "/tartans/m/mc/mcpeek/"
 - name: "McPeek (Fictitious clan)"
   url: "/setts/r63k16y5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r63k16y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKKR](/stripes/gkkr/).
 
-Part of the [McPeek](/tartans/mcpeek/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McPeek](/tartans/m/mc/mcpeek/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

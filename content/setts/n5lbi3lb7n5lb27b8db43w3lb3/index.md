@@ -6,6 +6,8 @@ This is the **Queensferry High (School)** sett — one scale-free proportion (`n
 [BWWBWBBWW](/stripes/bwwbwbbww/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Queensferry High](/tartans/q/qu/queensferry-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

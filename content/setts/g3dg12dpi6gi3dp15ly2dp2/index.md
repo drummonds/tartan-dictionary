@@ -6,6 +6,8 @@ This is the **Myres Castle (Corporate)** sett — one scale-free proportion (`g3
 [BYBGBGG](/stripes/bybgbgg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Myres Castle](/tartans/m/my/myres-castle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

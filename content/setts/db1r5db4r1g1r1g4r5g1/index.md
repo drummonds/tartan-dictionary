@@ -7,6 +7,8 @@ This is the **Lumsden Boghead** sett — one scale-free proportion (`db1r5db4r1g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1797**.
 
+Part of the [Lumsden Boghead](/tartans/l/lu/lumsden-boghead/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

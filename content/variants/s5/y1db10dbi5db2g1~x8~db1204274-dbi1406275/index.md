@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Open Championship"
-  url: "/tartans/open-championship-2/"
+  url: "/tartans/o/op/open-championship-2/"
 - name: "Open Championship (2000)"
   url: "/setts/y1db10dbi5db2g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1db10dbi5db2g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBG](/stripes/gbbbg/).
 
-Part of the [Open Championship](/tartans/open-championship-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Open Championship](/tartans/o/op/open-championship-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

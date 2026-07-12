@@ -6,7 +6,7 @@ This is the **Crookdake Cheng** sett — one scale-free proportion (`r3db36w10k8
 [GGGGGGKWBR](/stripes/ggggggkwbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Crookdake Cheng](/tartans/crookdake-cheng/) tartan — the named design grouping this sett with its kin.
+Part of the [Crookdake Cheng](/tartans/c/cr/crookdake-cheng/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

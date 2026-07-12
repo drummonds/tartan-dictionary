@@ -6,6 +6,8 @@ This is the **Lochnagar Dress fashion Tartan** sett — one scale-free proportio
 [BBBWBKBWKW](/stripes/bbbwbkbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lochnagar Dress](/tartans/l/lo/lochnagar-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

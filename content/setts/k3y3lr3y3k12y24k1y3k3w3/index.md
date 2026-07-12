@@ -6,6 +6,8 @@ This is the **Bruichladdich (Corporate)** sett — one scale-free proportion (`k
 [KGYGKGKGKW](/stripes/kgygkgkgkw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Bruichladdich](/tartans/b/br/bruichladdich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

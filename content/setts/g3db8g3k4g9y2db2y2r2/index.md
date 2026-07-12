@@ -7,7 +7,7 @@ This is the **Maitland** sett — one scale-free proportion (`g3db8g3k4g9y2db2y2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Maitland](/tartans/maitland/) tartan — the named design grouping this sett with its kin.
+Part of the [Maitland](/tartans/m/ma/maitland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

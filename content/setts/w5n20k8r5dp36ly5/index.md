@@ -6,6 +6,8 @@ This is the **Lord's Own Highlanders (Corporate)** sett — one scale-free propo
 [WBKRBY](/stripes/wbkrby/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Lord's Own Highlanders](/tartans/l/lo/lord-s-own-highlanders/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

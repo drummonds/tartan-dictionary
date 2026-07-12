@@ -6,6 +6,8 @@ This is the **Cleghorn (Personal)** sett — one scale-free proportion (`g8r3g30
 [GRGKWKW](/stripes/grgkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Cleghorn](/tartans/c/cl/cleghorn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Balmoral Variant (Corporate)** sett — one scale-free proportion 
 [BRBWKWBKBWRW](/stripes/brbwkwbkbwrw/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Balmoral Variant](/tartans/b/ba/balmoral-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

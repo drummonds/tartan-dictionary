@@ -6,6 +6,8 @@ This is the **Une Energie Nouvelle (Corporate) XXX** sett — one scale-free pro
 [GR](/stripes/gr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Une Energie Nouvelle XXX](/tartans/u/un/une-energie-nouvelle-xxx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

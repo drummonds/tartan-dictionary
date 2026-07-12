@@ -6,6 +6,8 @@ This is the **Crawfordjohn Personal Tartan** sett — one scale-free proportion 
 [BBBGGGBGGGBB](/stripes/bbbgggbgggbb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Crawfordjohn](/tartans/c/cr/crawfordjohn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lorne Dress"
+  url: "/tartans/l/lo/lorne-dress-2/"
 - name: "Lorne Dress (Dance)"
   url: "/setts/db3b1g20b20w2b2w2b2w32k1b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3b1g20b20w2b2w2b2w32k1b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBWBWKB](/stripes/bbgbwbwbwkb/).
+
+Part of the [Lorne Dress](/tartans/l/lo/lorne-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Kuehle Family Hunting (Personal)** sett — one scale-free proport
 [BWGBRWRWRBG](/stripes/bwgbrwrwrbg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Kuehle Family Hunting](/tartans/k/ku/kuehle-family-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Spencer** sett — one scale-free proportion (`o40lb3o8r2o2w2o10lb
 [RWRRRWRWBWW](/stripes/rwrrrwrwbww/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Spencer](/tartans/s/sp/spencer-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

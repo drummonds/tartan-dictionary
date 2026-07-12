@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "PMMC"
-  url: "/tartans/pmmc/"
+  url: "/tartans/p/pm/pmmc/"
 - name: "PMMC"
   url: "/setts/r3k11dg29k28g19ly2db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3k11dg29k28g19ly2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGKGKR](/stripes/bygkgkr/).
 
-Part of the [PMMC](/tartans/pmmc/) tartan — the named design grouping this sett with its other cloths.
+Part of the [PMMC](/tartans/p/pm/pmmc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

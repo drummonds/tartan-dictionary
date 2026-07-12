@@ -6,6 +6,8 @@ This is the **Walker Hunting** sett — one scale-free proportion (`r4db2g7db15g
 [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Walker Hunting](/tartans/w/wa/walker-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brittany National"
+  url: "/tartans/b/br/brittany-national/"
 - name: "Brittany National (District)"
   url: "/setts/g6db11lr8k4lr8k4lr8k27lr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6db11lr8k4lr8k4lr8k27lr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYKYKYKY](/stripes/gbykykyky/).
+
+Part of the [Brittany National](/tartans/b/br/brittany-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

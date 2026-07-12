@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pitcairn Heritage Hunting"
+  url: "/tartans/p/pi/pitcairn-heritage-hunting/"
 - name: "Pitcairn Heritage Htg (Name)"
   url: "/setts/b3t3b3t3b3g22t2y2t22r5b8y2t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b3t3b3t3b3g22t2y2t22r5b8y2t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGBGBRBGB](/stripes/bbbbbgbgbrbgb/).
+
+Part of the [Pitcairn Heritage Hunting](/tartans/p/pi/pitcairn-heritage-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

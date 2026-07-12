@@ -6,6 +6,8 @@ This is the **Robert Byers Family - Dooballagh, Ireland** sett — one scale-fre
 [GBGK](/stripes/gbgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Robert Byers](/tartans/r/ro/robert-byers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

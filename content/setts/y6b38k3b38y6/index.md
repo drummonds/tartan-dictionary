@@ -6,6 +6,8 @@ This is the **The Poulain League** sett — one scale-free proportion (`y6b38k3b
 [GBKBG](/stripes/gbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [The Poulain League](/tartans/t/th/the-poulain-league/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

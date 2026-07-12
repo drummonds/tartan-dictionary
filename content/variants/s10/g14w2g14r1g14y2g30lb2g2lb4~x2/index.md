@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holmston Primary"
+  url: "/tartans/h/ho/holmston-primary/"
 - name: "Holmston Primary (School)"
   url: "/setts/g14w2g14r1g14y2g30lb2g2lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g14w2g14r1g14y2g30lb2g2lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRGGGWGW](/stripes/gwgrgggwgw/).
+
+Part of the [Holmston Primary](/tartans/h/ho/holmston-primary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

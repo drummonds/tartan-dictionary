@@ -6,6 +6,8 @@ This is the **Hueg (Bavaria) Scottish Blue Thistle (Personal)** sett — one sca
 [RGKBGBGBWBGRKRW](/stripes/rgkbgbgbwbgrkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hueg Scottish Blue Thi](/tartans/h/hu/hueg-scottish-blue-thi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

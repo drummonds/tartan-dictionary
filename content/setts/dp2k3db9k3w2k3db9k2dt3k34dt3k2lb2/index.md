@@ -6,6 +6,8 @@ This is the **Hanson (2016)** sett — one scale-free proportion (`dp2k3db9k3w2k
 [BKBKWKBKBKBKW](/stripes/bkbkwkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hanson](/tartans/h/ha/hanson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

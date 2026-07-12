@@ -6,6 +6,8 @@ This is the **Rhode Island, State of** sett — one scale-free proportion (`dt4t
 [BBBWBGG](/stripes/bbbwbgg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Rhode Island, State of](/tartans/r/rh/rhode-island-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

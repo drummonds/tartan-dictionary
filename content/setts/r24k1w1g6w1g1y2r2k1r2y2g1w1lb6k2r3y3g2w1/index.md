@@ -6,6 +6,8 @@ This is the **MacKintosh (Chief) Clan Tartan** sett — one scale-free proportio
 [RKWGWGGRKRGGWWKRGGW](/stripes/rkwgwggrkrggwwkrggw/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [MacKintosh](/tartans/m/ma/mackintosh-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

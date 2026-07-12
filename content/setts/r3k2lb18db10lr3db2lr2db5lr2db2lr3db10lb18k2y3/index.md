@@ -6,7 +6,7 @@ This is the **Citadel Military Academy** sett — one scale-free proportion (`r3
 [GKWBYBYBYBYBWKR](/stripes/gkwbybybybybwkr/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
-Part of the [Citadel Military Academy](/tartans/citadel-military-academy/) tartan — the named design grouping this sett with its kin.
+Part of the [Citadel Military Academy](/tartans/c/ci/citadel-military-academy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

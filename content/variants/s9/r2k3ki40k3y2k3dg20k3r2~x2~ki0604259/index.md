@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strachan"
+  url: "/tartans/s/st/strachan/"
+- name: "Strachan"
   url: "/setts/r2k3ki40k3y2k3dg20k3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k3ki40k3y2k3dg20k3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKKKR](/stripes/rkgkgkkkr/).
+
+Part of the [Strachan](/tartans/s/st/strachan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Hamilton of Clayton (Personal)** sett — one scale-free proportio
 [GWGBRBRBGW](/stripes/gwgbrbrbgw/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [Hamilton of Clayton](/tartans/h/ha/hamilton-of-clayton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

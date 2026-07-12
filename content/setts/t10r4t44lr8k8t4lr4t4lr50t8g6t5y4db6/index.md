@@ -6,6 +6,8 @@ This is the **RAF Kinloss (Military)** sett — one scale-free proportion (`t10r
 [BGBGBYBYBKYBRB](/stripes/bgbgbybybkybrb/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [RAF Kinloss](/tartans/r/ra/raf-kinloss-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

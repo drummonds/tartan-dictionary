@@ -7,6 +7,8 @@ This is the **Khosla, Sarah and Jatin (Personal)** sett — one scale-free propo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2014**.
 
+Part of the [Khosla, Sarah and Justin](/tartans/k/kh/khosla-sarah-and-justin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

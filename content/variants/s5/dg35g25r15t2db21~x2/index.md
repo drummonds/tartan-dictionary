@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunanas Rising"
+  url: "/tartans/d/du/dunanas-rising/"
 - name: "Dunanas Rising (Corporate)"
   url: "/setts/dg35g25r15t2db21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg35g25r15t2db21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGG](/stripes/bbrgg/).
+
+Part of the [Dunanas Rising](/tartans/d/du/dunanas-rising/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

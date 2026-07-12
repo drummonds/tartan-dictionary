@@ -6,6 +6,8 @@ This is the **Round Table Sweden** sett — one scale-free proportion (`dr3dy15g
 [BGGBWBBG](/stripes/bggbwbbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Round Table Sweden](/tartans/r/ro/round-table-sweden-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Rutherford, John (Personal)** sett — one scale-free proportion (
 [BGBRKRB](/stripes/bgbrkrb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Rutherford, John](/tartans/r/ru/rutherford-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

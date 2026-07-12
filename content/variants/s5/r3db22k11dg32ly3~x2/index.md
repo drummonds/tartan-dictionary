@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cultoquhey Hotel"
-  url: "/tartans/cultoquhey-hotel/"
+  url: "/tartans/c/cu/cultoquhey-hotel/"
 - name: "Cultoquhey Hotel Corporate Tartan"
   url: "/setts/r3db22k11dg32ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3db22k11dg32ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGY](/stripes/rbkgy/).
 
-Part of the [Cultoquhey Hotel](/tartans/cultoquhey-hotel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cultoquhey Hotel](/tartans/c/cu/cultoquhey-hotel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

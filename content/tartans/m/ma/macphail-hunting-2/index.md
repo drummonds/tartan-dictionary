@@ -1,0 +1,44 @@
+---
+title: "MacPhail Hunting"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [RBKGKW](/stripes/rbkgkw/) — the page of every tartan sharing this colour sequence.
+
+Hunting tartan recorded by 1880, appearing in Clans Originaux; sample from the MacGregor-Hastie collection.
+
+The **MacPhail Hunting** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r2db23k14g16k2w2/">MacPhail Hunting</a> ★</td><td><code>R/4 DB46 K28 G32 K4 W/4</code></td><td>228</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2db23k14g16k2w2/"><img src="/variants/s6/r2db23k14g16k2w2~x2/sett.png" alt="MacPhail Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r4db24k12g14k4lb3/">#2</a></td><td><code>R/8 DB48 K24 G28 K8 LB/6</code></td><td>230</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4db24k12g14k4lb3/"><img src="/variants/s6/r4db24k12g14k4lb3~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacPhail Htg
+- MacPhail Hunting #2
+- MacPhail, hunting
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">228</div><div class="nn-name nn-base"><a href="/variants/s6/r2db23k14g16k2w2~x2/">MacPhail Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r2db23k14g16k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4db24k12g14k4lb3~x2&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">0.72</a></div><div class="nn-threads">230</div><div class="nn-name"><a href="/variants/s6/r4db24k12g14k4lb3~x2/">MacPhail Hunting #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4db24k12g14k4lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1db9k9g9k2w1~x4&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">0.84</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s6/w1db9k9g9k2w1~x4/">MacNeil 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w1db9k9g9k2w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k2g15k10db20y2~x2&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">0.85</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s6/r3k2g15k10db20y2~x2/">MacLeod of Assynt Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3k2g15k10db20y2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">0.95</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4/">Leslie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4~db1004274&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">0.96</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/">Syme</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4~db1004274/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k1g9k9db8w1~x4&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">1.04</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s6/y1k1g9k9db8w1~x4/">MacNeil 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y1k1g9k9db8w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8db9r2~x4&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">1.05</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8db9r2~x4/">Forsyth Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8db9r2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2db8k8w1g8k1&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">53</div><div class="nn-name"><a href="/variants/s6/r2db8k8w1g8k1/">Leslie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db8k8w1g8k1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2db8k8w1g8k1~x2&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">106</div><div class="nn-name"><a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie Hunting Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db8k8w1g8k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb1db11k11g11k2lb1~x2&amp;base=r2db23k14g16k2w2~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s6/lb1db11k11g11k2lb1~x2/">Unidentified No 59</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb1db11k11g11k2lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="198.9" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.8" cy="206.4" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="186.2" r="4" fill="#3465a4"><title>MacLeod of Assynt Clan Tartan</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.4" cy="194.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.8" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.1" cy="190.1" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.9" cy="190.3" r="4" fill="#3465a4"><title>Forsyth Clan Tartan</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.7" cy="199.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1~x2/"><circle cx="95.7" cy="199.1" r="4" fill="#3465a4"><title>Leslie Hunting Clan Tartan</title></circle></a><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><circle cx="151.0" cy="197.7" r="4" fill="#3465a4"><title>Unidentified No 59</title></circle></a><circle cx="152.7" cy="176.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

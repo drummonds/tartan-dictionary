@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Curry"
-  url: "/tartans/curry/"
+  url: "/tartans/c/cu/curry/"
 - name: "Curry (Personal)"
   url: "/setts/r3dg2r6dg20k15dg3db18w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3dg2r6dg20k15dg3db18w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKGBW](/stripes/rgrgkgbw/).
 
-Part of the [Curry](/tartans/curry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Curry](/tartans/c/cu/curry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

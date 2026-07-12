@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Glyndwr"
-  url: "/tartans/spirit-of-glyndwr/"
+  url: "/tartans/s/sp/spirit-of-glyndwr/"
 - name: "Spirit of Glyndwr Red (Fashion)"
   url: "/setts/k24n18k11n4k11n18k53r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k24n18k11n4k11n18k53r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKR](/stripes/kbkbkbkr/).
 
-Part of the [Spirit of Glyndwr](/tartans/spirit-of-glyndwr/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spirit of Glyndwr](/tartans/s/sp/spirit-of-glyndwr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

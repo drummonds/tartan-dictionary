@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michigan State"
+  url: "/tartans/m/mi/michigan-state/"
 - name: "Michigan, State of (District)"
   url: "/setts/db18w1db4w1lo4g1lo2g12r2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db18w1db4w1lo4g1lo2g12r2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWYGYGRG](/stripes/bwbwygygrg/).
+
+Part of the [Michigan State](/tartans/m/mi/michigan-state/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

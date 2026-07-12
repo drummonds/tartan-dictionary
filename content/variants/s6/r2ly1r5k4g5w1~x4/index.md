@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aboyne"
+  url: "/tartans/a/ab/aboyne/"
 - name: "Aboyne II (Fashion)"
   url: "/setts/r2ly1r5k4g5w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly1r5k4g5w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRKGW](/stripes/ryrkgw/).
+
+Part of the [Aboyne](/tartans/a/ab/aboyne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

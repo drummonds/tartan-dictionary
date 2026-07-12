@@ -6,6 +6,8 @@ This is the **Murray, Tony (Personal)** sett — one scale-free proportion (`b15
 [BKBYBKGKGRGKGKBKR](/stripes/bkbybkgkgrgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Murray, Tony](/tartans/m/mu/murray-tony/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

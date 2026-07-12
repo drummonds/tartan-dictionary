@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Cf 4445** sett — one scale-free proportion (`r2k
 [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

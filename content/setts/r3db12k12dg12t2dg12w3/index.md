@@ -6,6 +6,8 @@ This is the **Game Fair** sett — one scale-free proportion (`r3db12k12dg12t2dg
 [RBKGBGW](/stripes/rbkgbgw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Game Fair](/tartans/g/ga/game-fair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

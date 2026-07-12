@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tulchan Estate Check"
+  url: "/tartans/t/tu/tulchan-estate-check/"
 - name: "Tulchan Estate Check (Corporate)"
   url: "/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/).
+
+Part of the [Tulchan Estate Check](/tartans/t/tu/tulchan-estate-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 

@@ -6,6 +6,8 @@ This is the **St Andrews, University of** sett — one scale-free proportion (`k
 [BGKGBGBGBK](/stripes/bgkgbgbgbk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [St Andrews, University of](/tartans/s/st/st-andrews-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

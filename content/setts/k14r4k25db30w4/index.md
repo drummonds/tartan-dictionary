@@ -6,6 +6,8 @@ This is the **Britannia** sett — one scale-free proportion (`k14r4k25db30w4`),
 [KRKBW](/stripes/krkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Britannia](/tartans/b/br/britannia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

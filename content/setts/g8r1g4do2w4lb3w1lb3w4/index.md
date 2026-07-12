@@ -6,6 +6,8 @@ This is the **Gaelic College of St.Anns** sett — one scale-free proportion (`g
 [GRGBWWWWW](/stripes/grgbwwwww/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Gaelic College of St.Anns](/tartans/g/ga/gaelic-college-of-st-anns/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

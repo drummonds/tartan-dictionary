@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O2"
+  url: "/tartans/o/o/o2/"
 - name: "O2 (Corporate)"
   url: "/setts/db15r2ri15t6lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15r2ri15t6lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRBW](/stripes/brrbw/).
+
+Part of the [O2](/tartans/o/o/o2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

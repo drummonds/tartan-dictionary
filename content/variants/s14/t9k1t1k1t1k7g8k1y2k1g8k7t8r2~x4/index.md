@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLeod of Skye"
   url: "/families/macleod-of-skye/"
 - name: "MacLeod of Skye"
-  url: "/tartans/macleod-of-skye/"
+  url: "/tartans/m/ma/macleod-of-skye/"
 - name: "MacLeod of Skye (Johnston)"
   url: "/setts/t9k1t1k1t1k7g8k1y2k1g8k7t8r2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t9k1t1k1t1k7g8k1y2k1g8k7t8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKGKBR](/stripes/bkbkbkgkgkgkbr/).
 
-Part of the [MacLeod of Skye](/tartans/macleod-of-skye/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLeod of Skye](/tartans/m/ma/macleod-of-skye/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

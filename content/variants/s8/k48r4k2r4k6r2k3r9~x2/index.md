@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies Hunting"
+  url: "/tartans/m/me/menzies-hunting/"
 - name: "Menzies Hunting"
   url: "/setts/k48r4k2r4k6r2k3r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k48r4k2r4k6r2k3r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
+
+Part of the [Menzies Hunting](/tartans/m/me/menzies-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

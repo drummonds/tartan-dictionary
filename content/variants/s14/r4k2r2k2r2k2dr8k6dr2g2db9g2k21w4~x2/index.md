@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hitchens, William Henry"
+  url: "/tartans/h/hi/hitchens-william-henry/"
+- name: "Hitchens, William Henry"
   url: "/setts/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKBKBGBGKW](/stripes/rkrkrkbkbgbgkw/).
+
+Part of the [Hitchens, William Henry](/tartans/h/hi/hitchens-william-henry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

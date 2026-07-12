@@ -6,6 +6,8 @@ This is the **Hawick Dress (District)** sett — one scale-free proportion (`k2l
 [BKYKWKGBWBKWKYKBKYKWKGBWBGKWKYK](/stripes/bkykwkgbwbkwkykbkykwkgbwbgkwkyk/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
+Part of the [Hawick Dress](/tartans/h/ha/hawick-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Patterson, John (Personal)** sett — one scale-free proportion (`
 [GBWGRG](/stripes/gbwgrg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Patterson, John](/tartans/p/pa/patterson-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Braveheart** sett — one scale-free proportion (`w21dy1w1dy1w1dy1
 [KRGWGWGWGWGWGWGWGWGWGW](/stripes/krgwgwgwgwgwgwgwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Braveheart](/tartans/b/br/braveheart-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sorbie** sett — one scale-free proportion (`k1t17k17t1r1t1k17t17
 [KBKBRBKBKW](/stripes/kbkbrbkbkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Sorbie](/tartans/s/so/sorbie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

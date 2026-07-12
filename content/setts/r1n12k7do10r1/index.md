@@ -6,7 +6,7 @@ This is the **Andover** sett — one scale-free proportion (`r1n12k7do10r1`), co
 [RBKKBR](/stripes/rbkkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Andover](/tartans/andover/) tartan — the named design grouping this sett with its kin.
+Part of the [Andover](/tartans/a/an/andover/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

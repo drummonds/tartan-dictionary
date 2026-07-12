@@ -6,6 +6,8 @@ This is the **Orion Nebula** sett — one scale-free proportion (`dp49g3r5db15y4
 [BGRBG](/stripes/bgrbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Orion Nebula](/tartans/o/or/orion-nebula/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

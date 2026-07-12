@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McGuinness, Tam"
-  url: "/tartans/mcguinness-tam/"
+  url: "/tartans/m/mc/mcguinness-tam/"
 - name: "McGuinness, Tam (Personal)"
   url: "/setts/lo2db4g60dp30w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lo2db4g60dp30w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBY](/stripes/wbgby/).
 
-Part of the [McGuinness, Tam](/tartans/mcguinness-tam/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McGuinness, Tam](/tartans/m/mc/mcguinness-tam/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

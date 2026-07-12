@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dryfe"
+  url: "/tartans/d/dr/dryfe/"
+- name: "Dryfe"
   url: "/setts/dg42k10lr2k2r2k2dg10r6k2r3dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg42k10lr2k2r2k2dg10r6k2r3dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKRKGRKRG](/stripes/gkykrkgrkrg/).
+
+Part of the [Dryfe](/tartans/d/dr/dryfe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

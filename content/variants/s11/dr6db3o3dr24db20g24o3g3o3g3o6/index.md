@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bonnie Brae"
+  url: "/tartans/b/bo/bonnie-brae-3/"
 - name: "Bonnie Brae School"
   url: "/setts/dr6db3o3dr24db20g24o3g3o3g3o6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6db3o3dr24db20g24o3g3o3g3o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBGRGRGR](/stripes/bbrbbgrgrgr/).
+
+Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

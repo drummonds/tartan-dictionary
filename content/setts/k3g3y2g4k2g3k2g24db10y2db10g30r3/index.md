@@ -6,6 +6,8 @@ This is the **Bartlett from Winnetka, Illinois** sett — one scale-free proport
 [KGGGKGKGBGBGR](/stripes/kgggkgkgbgbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bartlett from Winnetka, Illinois](/tartans/b/ba/bartlett-from-winnetka-illinois/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

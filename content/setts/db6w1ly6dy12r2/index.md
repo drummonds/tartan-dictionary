@@ -6,6 +6,8 @@ This is the **Vass (Personal)** sett — one scale-free proportion (`db6w1ly6dy1
 [BWYGRGYW](/stripes/bwygrgyw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Vass](/tartans/v/va/vass-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

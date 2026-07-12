@@ -6,7 +6,7 @@ This is the **Fredericton District Tartan** sett — one scale-free proportion (
 [BWWRGWWWWWGG](/stripes/bwwrgwwwwwgg/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
-Part of the [Fredericton](/tartans/fredericton/) tartan — the named design grouping this sett with its kin.
+Part of the [Fredericton](/tartans/f/fr/fredericton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

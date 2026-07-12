@@ -6,6 +6,8 @@ This is the **Hickory** sett — one scale-free proportion (`db4dy30do2dy2do14y2
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hickory](/tartans/h/hi/hickory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

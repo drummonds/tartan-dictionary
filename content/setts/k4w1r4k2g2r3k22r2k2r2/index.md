@@ -6,6 +6,8 @@ This is the **Valdres Kvam and Vang District Tartan** sett — one scale-free pr
 [KWRKGRKRKR](/stripes/kwrkgrkrkr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Valdres Kvam and Vang](/tartans/v/va/valdres-kvam-and-vang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dunnotar (School)** sett — one scale-free proportion (`k72w3k11d
 [BKWK](/stripes/bkwk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Dunnotar](/tartans/d/du/dunnotar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

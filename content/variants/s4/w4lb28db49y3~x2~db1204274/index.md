@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan McKerrell"
+  url: "/clan/mckerrell/"
+- name: "McKerrell of Hillhouse"
+  url: "/families/mckerrell-of-hillhouse/"
+- name: "McKerrell of Hillhouse Hunting"
+  url: "/tartans/m/mc/mckerrell-of-hillhouse-hunting/"
 - name: "McKerrell of Hillhouse"
   url: "/setts/w4lb28db49y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb28db49y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWW](/stripes/gbww/).
+
+Part of the [McKerrell of Hillhouse Hunting](/tartans/m/mc/mckerrell-of-hillhouse-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,6 +6,8 @@ This is the **Poulain League (Corporate)** sett — one scale-free proportion (`
 [GWK](/stripes/gwk/). It is recorded as a single **variant**, below.
 First attested **~1994**.
 
+Part of the [Poulain League](/tartans/p/po/poulain-league/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

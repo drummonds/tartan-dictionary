@@ -6,6 +6,8 @@ This is the **Longniddry Blue (Dance)** sett — one scale-free proportion (`dt4
 [BWBBWWWB](/stripes/bwbbwwwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Longniddry](/tartans/l/lo/longniddry-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sons of Scotland (Corporate)** sett — one scale-free proportion 
 [BWBYBRBRGBW](/stripes/bwbybrbrgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Sons of Scotland](/tartans/s/so/sons-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

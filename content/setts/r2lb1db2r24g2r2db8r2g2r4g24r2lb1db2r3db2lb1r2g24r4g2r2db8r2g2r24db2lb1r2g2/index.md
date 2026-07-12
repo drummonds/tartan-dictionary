@@ -6,6 +6,8 @@ This is the **Stewart/Stuart of Appin #2** sett — one scale-free proportion (`
 [GRWBRGRBRGRGRWBRBWRGRGRBRGRBWR](/stripes/grwbrgrbrgrgrwbrbwrgrgrbrgrbwr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Stewart/Stuart of Appin](/tartans/s/st/stewart-stuart-of-appin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

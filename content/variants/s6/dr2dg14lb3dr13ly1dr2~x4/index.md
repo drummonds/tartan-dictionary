@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Swedish Para Whisky Club (Corporate"
+  url: "/tartans/s/sw/swedish-para-whisky-club-corporate/"
+- name: "Swedish Para Whisky Club (Corporate"
   url: "/setts/dr2dg14lb3dr13ly1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2dg14lb3dr13ly1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBYB](/stripes/bgwbyb/).
+
+Part of the [Swedish Para Whisky Club (Corporate](/tartans/s/sw/swedish-para-whisky-club-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

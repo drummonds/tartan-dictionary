@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dundee"
+  url: "/tartans/d/du/dundee-2/"
 - name: "Dundee #3"
   url: "/setts/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKRGYWBWYGWBW](/stripes/rrkrgywbwygwbw/).
+
+Part of the [Dundee](/tartans/d/du/dundee-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

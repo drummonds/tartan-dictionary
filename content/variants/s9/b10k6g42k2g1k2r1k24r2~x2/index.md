@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Thistle"
+  url: "/tartans/b/bl/black-thistle/"
+- name: "Black Thistle"
   url: "/setts/b10k6g42k2g1k2r1k24r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b10k6g42k2g1k2r1k24r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKRKR](/stripes/bkgkgkrkr/).
+
+Part of the [Black Thistle](/tartans/b/bl/black-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

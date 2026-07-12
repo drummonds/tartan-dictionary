@@ -6,6 +6,8 @@ This is the **New World Celts (Corporate)** sett — one scale-free proportion (
 [KWWKGGRKRKWKW](/stripes/kwwkggrkrkwkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [New World Celts](/tartans/n/ne/new-world-celts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

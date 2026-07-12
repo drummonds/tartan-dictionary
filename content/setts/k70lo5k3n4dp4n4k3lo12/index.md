@@ -6,6 +6,8 @@ This is the **State University of New York College at Buffalo** sett — one sca
 [KYKBBBKY](/stripes/kykbbbky/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [State University of New York College at Buffalo](/tartans/s/st/state-university-of-new-york-college-at-buffalo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Parker"
+  url: "/tartans/p/pa/parker/"
 - name: "Parker Personal Tartan"
   url: "/setts/r6db16w4db4w4db4w4db16y2db16r6w3db4w3r6db16y2db16w4db4w4db4w4db16r6db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db16w4db4w4db4w4db16y2db16r6w3db4w3r6db16y2db16w4db4w4db4w4db16r6db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWBGBRWBWRBGBWBWBWBR](/stripes/brbwbwbwbgbrwbwrbgbwbwbwbr/).
+
+Part of the [Parker](/tartans/p/pa/parker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 

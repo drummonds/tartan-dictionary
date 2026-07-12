@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGill"
+  url: "/clan/macgill/"
+- name: "MacGill of Jura"
+  url: "/families/macgill-of-jura/"
+- name: "MacGill of Jura"
+  url: "/tartans/m/ma/macgill-of-jura/"
 - name: "MacGill of Jura (Clan?)"
   url: "/setts/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYKWWYKYWKGY](/stripes/wykwwykywkgy/).
+
+Part of the [MacGill of Jura](/tartans/m/ma/macgill-of-jura/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

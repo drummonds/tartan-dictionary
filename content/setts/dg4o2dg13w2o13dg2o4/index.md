@@ -6,6 +6,8 @@ This is the **Crossnor School** sett — one scale-free proportion (`dg4o2dg13w2
 [GRGWRGR](/stripes/grgwrgr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Crossnor](/tartans/c/cr/crossnor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

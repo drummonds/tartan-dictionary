@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walk the Walk"
-  url: "/tartans/walk-the-walk/"
+  url: "/tartans/w/wa/walk-the-walk/"
 - name: "Walk the Walk (Corporate)"
   url: "/setts/w60r15w3r3w3r3w5r15/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w60r15w3r3w3r3w5r15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
-Part of the [Walk the Walk](/tartans/walk-the-walk/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Walk the Walk](/tartans/w/wa/walk-the-walk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

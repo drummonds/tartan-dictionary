@@ -6,6 +6,8 @@ This is the **Model T Ford (Corporate)** sett — one scale-free proportion (`k4
 [KBKBKYKRKW](/stripes/kbkbkykrkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Model T Ford](/tartans/m/mo/model-t-ford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

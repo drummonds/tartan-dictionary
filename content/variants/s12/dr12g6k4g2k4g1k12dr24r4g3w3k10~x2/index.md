@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fullerton, Terence"
+  url: "/tartans/f/fu/fullerton-terence/"
 - name: "Fullerton, Terence (Personal)"
   url: "/setts/dr12g6k4g2k4g1k12dr24r4g3w3k10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12g6k4g2k4g1k12dr24r4g3w3k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBRGWK](/stripes/bgkgkgkbrgwk/).
+
+Part of the [Fullerton, Terence](/tartans/f/fu/fullerton-terence/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

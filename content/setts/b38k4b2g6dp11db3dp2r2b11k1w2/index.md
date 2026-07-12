@@ -6,7 +6,7 @@ This is the **Blue Pride** sett — one scale-free proportion (`b38k4b2g6dp11db3
 [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Blue Pride](/tartans/blue-pride/) tartan — the named design grouping this sett with its kin.
+Part of the [Blue Pride](/tartans/b/bl/blue-pride/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

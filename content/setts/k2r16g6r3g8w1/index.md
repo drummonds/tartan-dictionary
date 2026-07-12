@@ -7,7 +7,7 @@ This is the **MacAulay** sett — one scale-free proportion (`k2r16g6r3g8w1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1880**.
 
-Part of the [MacAulay](/tartans/macaulay/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAulay](/tartans/m/ma/macaulay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

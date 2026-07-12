@@ -6,6 +6,8 @@ This is the **Mulcahy** sett — one scale-free proportion (`db66k2db10k15g15r4g
 [BKBKGRGRGGW](/stripes/bkbkgrgrggw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Mulcahy](/tartans/m/mu/mulcahy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

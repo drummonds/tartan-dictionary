@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mission"
+  url: "/tartans/m/mi/mission-2/"
 - name: "Mission (District)"
   url: "/setts/lo2lb14k1g11k2r2gi2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2lb14k1g11k2r2gi2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRKGKWY](/stripes/kgrkgkwy/).
+
+Part of the [Mission](/tartans/m/mi/mission-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

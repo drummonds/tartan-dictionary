@@ -6,7 +6,7 @@ This is the **Jones Personal Tartan** sett — one scale-free proportion (`r4lr1
 [RYGGKBY](/stripes/ryggkby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Jones](/tartans/jones-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Jones](/tartans/j/jo/jones-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

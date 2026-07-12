@@ -6,6 +6,8 @@ This is the **Scottish Express International** sett — one scale-free proportio
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Express International](/tartans/s/sc/scottish-express-international-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

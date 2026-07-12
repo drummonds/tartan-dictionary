@@ -6,6 +6,8 @@ This is the **Pride of Scotland Hunting/Dark Fashion Tartan** sett — one scale
 [BKRBKBKYBKY](/stripes/bkrbkbkybky/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Pride of Scotland Hunting/Dark](/tartans/p/pr/pride-of-scotland-hunting-dark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

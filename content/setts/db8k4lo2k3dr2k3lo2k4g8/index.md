@@ -6,7 +6,7 @@ This is the **Vosko** sett — one scale-free proportion (`db8k4lo2k3dr2k3lo2k4g
 [BKYKBKYKG](/stripes/bkykbkykg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Vosko](/tartans/vosko/) tartan — the named design grouping this sett with its kin.
+Part of the [Vosko](/tartans/v/vo/vosko/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

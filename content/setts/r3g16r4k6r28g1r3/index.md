@@ -6,6 +6,8 @@ This is the **Maxwell** sett — one scale-free proportion (`r3g16r4k6r28g1r3`),
 [RGRKRGR](/stripes/rgrkrgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Maxwell](/tartans/m/ma/maxwell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

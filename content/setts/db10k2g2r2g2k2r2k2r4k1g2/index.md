@@ -6,6 +6,8 @@ This is the **Highfield** sett — one scale-free proportion (`db10k2g2r2g2k2r2k
 [BKGRGKRKRKGKRKRKGRGK](/stripes/bkgrgkrkrkgkrkrkgrgk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Highfield](/tartans/h/hi/highfield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

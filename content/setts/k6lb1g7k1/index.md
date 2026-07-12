@@ -6,6 +6,8 @@ This is the **Innes (Miniature)** sett — one scale-free proportion (`k6lb1g7k1
 [KGWK](/stripes/kgwk/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Innes](/tartans/i/in/innes-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

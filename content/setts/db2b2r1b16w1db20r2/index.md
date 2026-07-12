@@ -7,6 +7,8 @@ This is the **British American School (Corporate)** sett — one scale-free prop
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [British American School](/tartans/b/br/british-american-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

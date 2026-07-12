@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Colours of Hope"
+  url: "/tartans/c/co/colours-of-hope/"
+- name: "Colours of Hope"
   url: "/setts/k3db28w2y2db1g4k8w3r4y10k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db28w2y2db1g4k8w3r4y10k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWGBGKWRGK](/stripes/kbwgbgkwrgk/).
+
+Part of the [Colours of Hope](/tartans/c/co/colours-of-hope/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

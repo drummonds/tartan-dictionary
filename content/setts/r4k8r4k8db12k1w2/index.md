@@ -6,7 +6,7 @@ This is the **MacKean Red** sett — one scale-free proportion (`r4k8r4k8db12k1w
 [RKRKBKW](/stripes/rkrkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacKean](/tartans/mackean-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKean](/tartans/m/ma/mackean-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

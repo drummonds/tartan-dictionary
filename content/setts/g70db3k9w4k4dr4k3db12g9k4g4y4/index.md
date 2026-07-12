@@ -6,7 +6,7 @@ This is the **Canmore Highland Games** sett — one scale-free proportion (`g70d
 [GBKWKBKBGKGG](/stripes/gbkwkbkbgkgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Canmore Highland Games](/tartans/canmore-highland-games/) tartan — the named design grouping this sett with its kin.
+Part of the [Canmore Highland Games](/tartans/c/ca/canmore-highland-games/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ailsa Gold"
+  url: "/tartans/a/ai/ailsa-gold/"
 - name: "Ailsa, Gold (Dance)"
   url: "/setts/lo8w3lo28w32dp3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo8w3lo28w32dp3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
+
+Part of the [Ailsa Gold](/tartans/a/ai/ailsa-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

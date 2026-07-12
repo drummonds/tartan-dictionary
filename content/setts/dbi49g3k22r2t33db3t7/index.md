@@ -6,6 +6,8 @@ This is the **U.S. 2001 Air Force (Military?)** sett — one scale-free proporti
 [BBBRKGB](/stripes/bbbrkgb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [U.S. 2001 Air Force](/tartans/u/u/u-s-2001-air-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

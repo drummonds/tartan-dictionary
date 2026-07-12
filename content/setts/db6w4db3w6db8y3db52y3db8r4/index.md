@@ -6,7 +6,7 @@ This is the **Dundee F.C.** sett — one scale-free proportion (`db6w4db3w6db8y3
 [BWBWBGBGBR](/stripes/bwbwbgbgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dundee F.C.](/tartans/dundee-f-c/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee F.C.](/tartans/d/du/dundee-f-c/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

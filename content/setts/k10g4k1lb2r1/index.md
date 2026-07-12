@@ -6,6 +6,8 @@ This is the **Brotherhood of the Kilt** sett — one scale-free proportion (`k10
 [KGKWR](/stripes/kgkwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Brotherhood of the](/tartans/b/br/brotherhood-of-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

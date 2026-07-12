@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "California Riverside, Uni."
+  url: "/tartans/c/ca/california-riverside-uni/"
 - name: "California Riverside, Uni. (Corp)"
   url: "/setts/db42k6db3k3db3w5db17w7ly10k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db42k6db3k3db3w5db17w7ly10k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWBWYK](/stripes/bkbkbwbwyk/).
+
+Part of the [California Riverside, Uni.](/tartans/c/ca/california-riverside-uni/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

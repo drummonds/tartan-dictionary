@@ -6,6 +6,8 @@ This is the **Leatherneck** sett — one scale-free proportion (`g40dr3g4dr3g12d
 [BYBGBGBG](/stripes/bybgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leatherneck](/tartans/l/le/leatherneck/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

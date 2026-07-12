@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Starrett Company, L.S."
+  url: "/tartans/s/st/starrett-company-l-s/"
 - name: "Starrett Company, L.S. (Corporate)"
   url: "/setts/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGRGRGRGRGRGRGRGR](/stripes/bkbkbkrgrgrgrgrgrgrgrgr/).
+
+Part of the [Starrett Company, L.S.](/tartans/s/st/starrett-company-l-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

@@ -22,5 +22,5 @@ A family of [Clan Graham](/clan/graham/).
 </tbody>
 </table>
 
-[See the Graham of Menteith tartan and all its setts →](/tartans/graham-of-menteith/)
+[See the Graham of Menteith tartan and all its setts →](/tartans/g/gr/graham-of-menteith/)
 

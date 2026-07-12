@@ -22,7 +22,7 @@ A family of [Clan Burnett](/clan/burnett/).
 </tbody>
 </table>
 
-[See the Burnett of Leys tartan and all its setts →](/tartans/burnett-of-leys/)
+[See the Burnett of Leys tartan and all its setts →](/tartans/b/bu/burnett-of-leys/)
 
 ### Burnett of Leys Hunting
 
@@ -38,5 +38,5 @@ A family of [Clan Burnett](/clan/burnett/).
 </tbody>
 </table>
 
-[See the Burnett of Leys Hunting tartan and all its setts →](/tartans/burnett-of-leys-hunting-2/)
+[See the Burnett of Leys Hunting tartan and all its setts →](/tartans/b/bu/burnett-of-leys-hunting-2/)
 

@@ -6,6 +6,8 @@ This is the **Unidentified Scarlett #4** sett — one scale-free proportion (`dp
 [BWYWGWBWYWWWYWBWGWYW](/stripes/bwywgwbwywwwywbwgwyw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-14/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

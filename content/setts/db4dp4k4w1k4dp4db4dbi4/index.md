@@ -6,6 +6,8 @@ This is the **Weston Family Tartan** sett — one scale-free proportion (`db4dp4
 [BBBKWKBB](/stripes/bbbkwkbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Weston](/tartans/w/we/weston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

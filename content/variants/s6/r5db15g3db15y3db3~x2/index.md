@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Abertay University"
+  url: "/tartans/a/ab/abertay-university/"
 - name: "Abertay University (Estimated threadcount)"
   url: "/setts/r5db15g3db15y3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5db15g3db15y3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBR](/stripes/bgbgbr/).
+
+Part of the [Abertay University](/tartans/a/ab/abertay-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

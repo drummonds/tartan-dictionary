@@ -6,6 +6,8 @@ This is the **Rea** sett — one scale-free proportion (`lb12y2lb1k5lb4k2`), col
 [KWKWGW](/stripes/kwkwgw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Rea](/tartans/r/re/rea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

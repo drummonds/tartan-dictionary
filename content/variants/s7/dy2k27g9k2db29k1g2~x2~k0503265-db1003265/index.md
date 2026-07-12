@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Canals"
+  url: "/tartans/c/ca/caledonian-canals/"
 - name: "Caledonian Canals (Corporate)"
   url: "/setts/dy2k27g9k2db29k1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2k27g9k2db29k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKG](/stripes/gkbkgkg/).
+
+Part of the [Caledonian Canals](/tartans/c/ca/caledonian-canals/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

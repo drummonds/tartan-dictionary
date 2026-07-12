@@ -6,6 +6,8 @@ This is the **MacAlister CC** sett — one scale-free proportion (`r32g8r4g8r8db
 [RGRGRBRWRGRWRWRGRWRGRWR](/stripes/rgrgrbrwrgrwrwrgrwrgrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacAlister CC](/tartans/m/ma/macalister-cc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

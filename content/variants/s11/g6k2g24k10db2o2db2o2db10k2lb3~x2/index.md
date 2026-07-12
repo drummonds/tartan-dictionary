@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Rugby Union"
+  url: "/tartans/s/sc/scottish-rugby-union-2/"
 - name: "Scottish Rugby Union (City of Nagasaki)"
   url: "/setts/g6k2g24k10db2o2db2o2db10k2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6k2g24k10db2o2db2o2db10k2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBRBRBKW](/stripes/gkgkbrbrbkw/).
+
+Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

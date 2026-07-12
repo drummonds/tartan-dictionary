@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cummins"
+  url: "/tartans/c/cu/cummins/"
 - name: "Cummins (Personal)"
   url: "/setts/k9b5w5k9b14k5w5k9w5k5b8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9b5w5k9b14k5w5k9w5k5b8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/).
+
+Part of the [Cummins](/tartans/c/cu/cummins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

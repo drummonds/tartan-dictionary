@@ -6,6 +6,8 @@ This is the **O'Reilly Irish Fashion Tartan** sett — one scale-free proportion
 [BBGBGBKBKBW](/stripes/bbgbgbkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [O'Reilly](/tartans/o/o/o-reilly-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

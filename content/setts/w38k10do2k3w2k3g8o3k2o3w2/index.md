@@ -6,6 +6,8 @@ This is the **Glenmore Green** sett — one scale-free proportion (`w38k10do2k3w
 [WKBKWKGRKRW](/stripes/wkbkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glenmore](/tartans/g/gl/glenmore-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

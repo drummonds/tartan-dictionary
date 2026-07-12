@@ -1,0 +1,50 @@
+---
+title: "Hogarth of Firhill"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hogarth"
+  url: "/clan/hogarth/"
+- name: "Hogarth of Firhill"
+  url: "/families/hogarth-of-firhill/"
+---
+A tartan of the [Hogarth of Firhill](/families/hogarth-of-firhill/) family.
+Its design is pattern [BKBKGGW](/stripes/bkbkggw/) — the page of every tartan sharing this colour sequence.
+
+Family tartan for the Hogarths of Firhill, recorded in the Lyon Court Books.
+
+The **Hogarth of Firhill** tartan groups 3 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/lb2g6y1k6db6k1db1/">Hogarth of Firhill</a> ★</td><td><code>LB/4 G12 Y2 K12 DB12 K2 DB/2</code></td><td>86</td><td>1971</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2g6y1k6db6k1db1/"><img src="/variants/s7/lb2g6y1k6db6k1db1~x2/sett.png" alt="Hogarth of Firhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/b2g6y1k6db6k1db1/">Hogarth, of Firhill</a></td><td><code>B/4 G12 Y2 K12 DB12 K2 DB/2</code></td><td>86</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/b2g6y1k6db6k1db1/"><img src="/variants/s7/b2g6y1k6db6k1db1~x2/sett.png" alt="Hogarth, of Firhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb4g14y2k14db14k2db3/">(Clan)</a></td><td><code>LB/8 G28 Y4 K28 DB28 K4 DB/6</code></td><td>198</td><td>~1971</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb4g14y2k14db14k2db3/"><img src="/variants/s7/lb4g14y2k14db14k2db3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Hogarth of Firhill #2
+- Hogarth, of Firhill
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">86</div><div class="nn-name nn-base"><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/">Hogarth of Firhill</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lb2g6y1k6db6k1db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=b2g6y1k6db6k1db1~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.05</a></div><div class="nn-threads">86</div><div class="nn-name"><a href="/variants/s7/b2g6y1k6db6k1db1~x2/">Hogarth, of Firhill</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/b2g6y1k6db6k1db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb4g14y2k14db14k2db3~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.21</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s7/lb4g14y2k14db14k2db3~x2/">Hogarth of Firhill (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb4g14y2k14db14k2db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k2db12k11g12w2~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.67</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s6/db2k2db12k11g12w2~x2/">Campbell, The White Stripe</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2k2db12k11g12w2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g8w1k8db8k1db1~x4&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2g8w1k8db8k1db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g8w1k8db8k1db1~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">110</div><div class="nn-name"><a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2g8w1k8db8k1db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g16w2k16db16k2db2~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">218</div><div class="nn-name"><a href="/variants/s7/r3g16w2k16db16k2db2~x2/">Colquhoun Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g16w2k16db16k2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y5g16k16db16k2db2~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">214</div><div class="nn-name"><a href="/variants/s6/y5g16k16db16k2db2~x2/">Hudson Valley Reg. Police P &amp; D (Cor</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y5g16k16db16k2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g8w1k8t8k1t1~x6&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">0.91</a></div><div class="nn-threads">330</div><div class="nn-name"><a href="/variants/s7/r2g8w1k8t8k1t1~x6/">Colquhoun #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2g8w1k8t8k1t1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4g16w2k15db15k2db2dy2~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s8/r4g16w2k15db15k2db2dy2~x2/">Cowan of Inveresk Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4g16w2k15db15k2db2dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4g16w2k15db15k2db2y2~x2&amp;base=lb2g6y1k6db6k1db1~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s8/r4g16w2k15db15k2db2y2~x2/">Cowan of Inveresk (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4g16w2k15db15k2db2y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/b2g6y1k6db6k1db1~x2/"><circle cx="89.6" cy="211.0" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/variants/s7/lb4g14y2k14db14k2db3~x2/"><circle cx="95.1" cy="200.6" r="4" fill="#3465a4"><title>Hogarth of Firhill (Clan)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.6" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s7/r2g8w1k8db8k1db1~x4/"><circle cx="102.8" cy="188.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/r2g8w1k8db8k1db1~x2/"><circle cx="102.8" cy="188.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/r3g16w2k16db16k2db2~x2/"><circle cx="108.8" cy="186.7" r="4" fill="#3465a4"><title>Colquhoun Clan Tartan</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="127.1" cy="222.5" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><circle cx="97.4" cy="190.4" r="4" fill="#3465a4"><title>Colquhoun #2</title></circle></a><a href="/variants/s8/r4g16w2k15db15k2db2dy2~x2/"><circle cx="76.7" cy="165.8" r="4" fill="#3465a4"><title>Cowan of Inveresk Family Tartan</title></circle></a><a href="/variants/s8/r4g16w2k15db15k2db2y2~x2/"><circle cx="75.5" cy="165.5" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><circle cx="80.0" cy="207.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -6,6 +6,8 @@ This is the **Intelligent Finance** sett — one scale-free proportion (`n5dp40n
 [BBBWBWBWBW](/stripes/bbbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Intelligent Finance](/tartans/i/in/intelligent-finance-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Niagara Celtic Heritage Festival** sett — one scale-free proport
 [RWGRKWKWKKWKW](/stripes/rwgrkwkwkkwkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Niagara Celtic Heritage Festival](/tartans/n/ni/niagara-celtic-heritage-festival/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

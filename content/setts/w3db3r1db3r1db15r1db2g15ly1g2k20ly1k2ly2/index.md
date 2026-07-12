@@ -6,6 +6,8 @@ This is the **Linn (Personal)** sett — one scale-free proportion (`w3db3r1db3r
 [WBRBRBRBGYGKYKY](/stripes/wbrbrbrbgygkyky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Linn](/tartans/l/li/linn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

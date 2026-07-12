@@ -6,7 +6,7 @@ This is the **Montgomery** sett — one scale-free proportion (`g6db2g1`), colou
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Montgomery](/tartans/montgomery-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Montgomery](/tartans/m/mo/montgomery-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

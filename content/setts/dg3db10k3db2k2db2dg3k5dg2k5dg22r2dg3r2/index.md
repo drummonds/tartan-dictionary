@@ -6,6 +6,8 @@ This is the **Lochcarron Hunting Corporate Tartan** sett — one scale-free prop
 [GBKBKBGKGKGRGR](/stripes/gbkbkbgkgkgrgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lochcarron Hunting](/tartans/l/lo/lochcarron-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

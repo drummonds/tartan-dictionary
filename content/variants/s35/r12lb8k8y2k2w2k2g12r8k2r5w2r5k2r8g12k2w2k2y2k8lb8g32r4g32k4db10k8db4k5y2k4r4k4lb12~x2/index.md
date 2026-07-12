@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duchess of Edinburgh"
+  url: "/tartans/d/du/duchess-of-edinburgh/"
 - name: "Duchess of Edinburgh Tartan"
   url: "/setts/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGKWKGRKRWRKRGKWKGKWGRGKBKBKGKRKW](/stripes/rwkgkwkgrkrwrkrgkwkgkwgrgkbkbkgkrkw/).
+
+Part of the [Duchess of Edinburgh](/tartans/d/du/duchess-of-edinburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [35 stripe tartan](/stripes/stripes35/).
 

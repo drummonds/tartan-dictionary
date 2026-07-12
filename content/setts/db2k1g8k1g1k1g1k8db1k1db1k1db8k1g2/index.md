@@ -7,6 +7,8 @@ This is the **Lorne, Marquis of** sett — one scale-free proportion (`db2k1g8k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1871**.
 
+Part of the [Lorne](/tartans/l/lo/lorne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cork Irish County Tartan** sett — one scale-free proportion (`g2
 [GBGBYBYBG](/stripes/gbgbybybg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Cork Irish County](/tartans/c/co/cork-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

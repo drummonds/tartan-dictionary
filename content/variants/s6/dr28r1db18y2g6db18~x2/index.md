@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "British Judo Association"
+  url: "/tartans/b/br/british-judo-association/"
+- name: "British Judo Association"
   url: "/setts/dr28r1db18y2g6db18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr28r1db18y2g6db18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBRB](/stripes/bggbrb/).
+
+Part of the [British Judo Association](/tartans/b/br/british-judo-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

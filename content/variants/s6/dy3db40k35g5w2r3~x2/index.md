@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Italian National"
+  url: "/tartans/i/it/italian-national/"
+- name: "Italian National"
   url: "/setts/dy3db40k35g5w2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy3db40k35g5w2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGWR](/stripes/gbkgwr/).
+
+Part of the [Italian National](/tartans/i/it/italian-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

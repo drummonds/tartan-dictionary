@@ -7,6 +7,8 @@ This is the **Blue Spruce, The** sett — one scale-free proportion (`db2w18lb2w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1975**.
 
+Part of the [Blue Spruce, The](/tartans/b/bl/blue-spruce-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

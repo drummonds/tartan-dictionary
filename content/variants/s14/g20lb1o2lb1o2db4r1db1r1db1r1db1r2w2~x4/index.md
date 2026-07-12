@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mighty Men"
+  url: "/tartans/m/mi/mighty-men-2/"
 - name: "Mighty Men (Corporate)"
   url: "/setts/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWRBRBRBRBRW](/stripes/gwrwrbrbrbrbrw/).
+
+Part of the [Mighty Men](/tartans/m/mi/mighty-men-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -7,6 +7,8 @@ This is the **Aviemore Highland** sett — one scale-free proportion (`dg40k3w1k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [Aviemore Highland](/tartans/a/av/aviemore-highland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Utah State University** sett — one scale-free proportion (`w7db1
 [WBKBWBKGWKW](/stripes/wbkbwbkgwkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Utah State University](/tartans/u/ut/utah-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Scotland 2000** sett — one scale-free proportion (`w4db38g6dr2g6
 [BGBGBGBW](/stripes/bgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Scotland 2000](/tartans/scotland-2000/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland 2000](/tartans/s/sc/scotland-2000/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

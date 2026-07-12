@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Abaco Loyalist"
+  url: "/tartans/a/ab/abaco-loyalist/"
+- name: "Abaco Loyalist"
   url: "/setts/db60r2db2r6db1r2db1r6db1r2db1r6db2n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60r2db2r6db1r2db1r6db1r2db1r6db2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBRBRBRBRB](/stripes/bbrbrbrbrbrbrb/).
+
+Part of the [Abaco Loyalist](/tartans/a/ab/abaco-loyalist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

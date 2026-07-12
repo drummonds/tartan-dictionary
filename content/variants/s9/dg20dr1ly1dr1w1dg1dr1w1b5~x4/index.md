@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotts Valley"
+  url: "/tartans/s/sc/scotts-valley/"
+- name: "Scotts Valley"
   url: "/setts/dg20dr1ly1dr1w1dg1dr1w1b5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg20dr1ly1dr1w1dg1dr1w1b5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGWBYBG](/stripes/bwbgwbybg/).
+
+Part of the [Scotts Valley](/tartans/s/sc/scotts-valley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

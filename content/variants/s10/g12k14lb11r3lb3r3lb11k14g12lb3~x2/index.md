@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wellington"
-  url: "/tartans/wellington-3/"
+  url: "/tartans/w/we/wellington-3/"
 - name: "Wellington (Wilson) #2"
   url: "/setts/g12k14lb11r3lb3r3lb11k14g12lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12k14lb11r3lb3r3lb11k14g12lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRWRWKGW](/stripes/gkwrwrwkgw/).
 
-Part of the [Wellington](/tartans/wellington-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wellington](/tartans/w/we/wellington-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Savoy** sett — one scale-free proportion (`g16k8g1k1lb1g1lb1lo1g
 [GKGKWGWYGKBGK](/stripes/gkgkwgwygkbgk/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Savoy](/tartans/s/sa/savoy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

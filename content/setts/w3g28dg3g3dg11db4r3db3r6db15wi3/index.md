@@ -6,7 +6,7 @@ This is the **Wojtek Memorial Trust** sett — one scale-free proportion (`w3g28
 [WBRBRBGGGGW](/stripes/wbrbrbggggw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Wojtek Memorial Trust](/tartans/wojtek-memorial-trust/) tartan — the named design grouping this sett with its kin.
+Part of the [Wojtek Memorial Trust](/tartans/w/wo/wojtek-memorial-trust/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

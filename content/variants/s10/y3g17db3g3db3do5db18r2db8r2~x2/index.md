@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Donegal"
+  url: "/tartans/d/do/donegal/"
+- name: "Donegal"
   url: "/setts/y3g17db3g3db3do5db18r2db8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3g17db3g3db3do5db18r2db8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBBBRBR](/stripes/ggbgbbbrbr/).
+
+Part of the [Donegal](/tartans/d/do/donegal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Texas, Bluebonnet"
-  url: "/tartans/texas-bluebonnet/"
+  url: "/tartans/t/te/texas-bluebonnet/"
 - name: "Texas, Bluebonnet"
   url: "/setts/g4r1db8w1r1w1b8w1b8w1y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4r1db8w1r1w1b8w1b8w1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBWRWBWBWG](/stripes/grbwrwbwbwg/).
 
-Part of the [Texas, Bluebonnet](/tartans/texas-bluebonnet/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Texas, Bluebonnet](/tartans/t/te/texas-bluebonnet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

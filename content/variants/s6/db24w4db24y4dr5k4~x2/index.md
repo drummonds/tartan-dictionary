@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "De Grussa"
-  url: "/tartans/de-grussa/"
+  url: "/tartans/d/de/de-grussa/"
 - name: "De Grussa"
   url: "/setts/db24w4db24y4dr5k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24w4db24y4dr5k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBK](/stripes/bwbgbk/).
 
-Part of the [De Grussa](/tartans/de-grussa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [De Grussa](/tartans/d/de/de-grussa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

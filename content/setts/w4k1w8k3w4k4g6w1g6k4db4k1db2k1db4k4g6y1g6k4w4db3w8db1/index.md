@@ -6,6 +6,8 @@ This is the **Campbell, dress** sett — one scale-free proportion (`w4k1w8k3w4k
 [BWBWKGGGKBKBKBKGWGKWKWKW](/stripes/bwbwkgggkbkbkbkgwgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell, dress](/tartans/c/ca/campbell-dress-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

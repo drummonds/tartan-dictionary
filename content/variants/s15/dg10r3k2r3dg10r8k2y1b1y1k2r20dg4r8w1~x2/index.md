@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Livingstone Official"
+  url: "/tartans/l/li/livingstone-official/"
 - name: "Livingstone (Australia) Official"
   url: "/setts/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRKGBGKRGRW](/stripes/grkrgrkgbgkrgrw/).
+
+Part of the [Livingstone Official](/tartans/l/li/livingstone-official/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

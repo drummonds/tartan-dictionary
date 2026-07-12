@@ -6,6 +6,8 @@ This is the **Couper of Gogar** sett — one scale-free proportion (`db2lp4r2g24
 [BWRGBGBKWBWGBKBWBR](/stripes/bwrgbgbkwbwgbkbwbr/). It is recorded as a single **variant**, below.
 First attested **1886**.
 
+Part of the [Couper](/tartans/c/co/couper/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

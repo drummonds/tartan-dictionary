@@ -6,6 +6,8 @@ This is the **Scout Mapping Service #2** sett — one scale-free proportion (`db
 [BBKGYGKYKGYGKB](/stripes/bbkgygkykgygkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scout Mapping Service](/tartans/s/sc/scout-mapping-service-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sunderland"
+  url: "/clan/sunderland/"
+- name: "Sunderland of Scotland"
+  url: "/families/sunderland-of-scotland/"
+- name: "Sunderland of Scotland"
+  url: "/tartans/s/su/sunderland-of-scotland/"
 - name: "Sunderland of Scotland (Fashion)"
   url: "/setts/n1k21n5k3n5k9r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n1k21n5k3n5k9r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKR](/stripes/bkbkbkr/).
+
+Part of the [Sunderland of Scotland](/tartans/s/su/sunderland-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

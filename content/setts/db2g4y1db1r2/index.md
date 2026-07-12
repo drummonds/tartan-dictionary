@@ -6,6 +6,8 @@ This is the **Creek Indian Nation** sett — one scale-free proportion (`db2g4y1
 [BGGBR](/stripes/bggbr/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Creek Indian Nation](/tartans/c/cr/creek-indian-nation-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

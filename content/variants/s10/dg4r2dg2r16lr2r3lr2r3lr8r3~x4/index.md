@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queen Alexandra"
+  url: "/tartans/q/qu/queen-alexandra-2/"
+- name: "Queen Alexandra"
   url: "/setts/dg4r2dg2r16lr2r3lr2r3lr8r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4r2dg2r16lr2r3lr2r3lr8r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRYRYRYR](/stripes/grgryryryr/).
+
+Part of the [Queen Alexandra](/tartans/q/qu/queen-alexandra-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

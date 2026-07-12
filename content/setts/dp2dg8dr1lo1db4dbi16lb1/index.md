@@ -6,6 +6,8 @@ This is the **Ellan Vannin (1958)** sett — one scale-free proportion (`dp2dg8d
 [BGBYBBW](/stripes/bgbybbw/). It is recorded as a single **variant**, below.
 First attested **1958**.
 
+Part of the [Ellan Vannin](/tartans/e/el/ellan-vannin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

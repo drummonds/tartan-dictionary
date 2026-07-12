@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lytley Formal"
+  url: "/tartans/l/ly/lytley-formal/"
 - name: "Lytley Formal (Personal)"
   url: "/setts/dbi1db1r1dp2dr1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi1db1r1dp2dr1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBY](/stripes/bbrbby/).
+
+Part of the [Lytley Formal](/tartans/l/ly/lytley-formal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

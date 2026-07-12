@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified, Cotton sample"
+  url: "/tartans/u/un/unidentified-cotton-sample-2/"
+- name: "Unidentified, Cotton sample"
   url: "/setts/db4g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6db4k8b1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1b1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6dg7o1g6db4k8b1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGRGGRGGRGGRGGRGBKBKWKBRKRWRKRBKWKB](/stripes/bggrggrggrggrggrgbkbkwkbrkrwrkrbkwkb/).
+
+Part of the [Unidentified, Cotton sample](/tartans/u/un/unidentified-cotton-sample-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brodie, Graeme"
+  url: "/tartans/b/br/brodie-graeme-2/"
 - name: "Brodie, Graeme (Personal)"
   url: "/setts/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBRGBGKGR](/stripes/bkgbrgbgkgr/).
+
+Part of the [Brodie, Graeme](/tartans/b/br/brodie-graeme-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

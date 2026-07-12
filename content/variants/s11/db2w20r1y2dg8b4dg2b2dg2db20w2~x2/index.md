@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nova Scotia Dress"
-  url: "/tartans/nova-scotia-dress-2/"
+  url: "/tartans/n/no/nova-scotia-dress-2/"
 - name: "Nova Scotia, dress"
   url: "/setts/db2w20r1y2dg8b4dg2b2dg2db20w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2w20r1y2dg8b4dg2b2dg2db20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRGGBGBGBW](/stripes/bwrggbgbgbw/).
 
-Part of the [Nova Scotia Dress](/tartans/nova-scotia-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nova Scotia Dress](/tartans/n/no/nova-scotia-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

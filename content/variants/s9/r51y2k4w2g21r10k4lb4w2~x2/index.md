@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond of Perth"
+  url: "/families/drummond-of-perth/"
+- name: "Drummond of Perth"
+  url: "/tartans/d/dr/drummond-of-perth/"
 - name: "Drummond of Perth Clan Tartan"
   url: "/setts/r51y2k4w2g21r10k4lb4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r51y2k4w2g21r10k4lb4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWGRKWW](/stripes/rgkwgrkww/).
+
+Part of the [Drummond of Perth](/tartans/d/dr/drummond-of-perth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

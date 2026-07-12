@@ -6,6 +6,8 @@ This is the **MacRae of Ardentoul Artifact Tartan** sett — one scale-free prop
 [KRKRKRKRKRGKWBGBWR](/stripes/krkrkrkrkrgkwbgbwr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [MacRae of Ardentoul](/tartans/m/ma/macrae-of-ardentoul-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

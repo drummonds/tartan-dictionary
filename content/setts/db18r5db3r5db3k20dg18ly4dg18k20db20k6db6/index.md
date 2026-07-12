@@ -6,6 +6,8 @@ This is the **Keith District District Tartan** sett — one scale-free proportio
 [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Keith District](/tartans/k/ke/keith-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

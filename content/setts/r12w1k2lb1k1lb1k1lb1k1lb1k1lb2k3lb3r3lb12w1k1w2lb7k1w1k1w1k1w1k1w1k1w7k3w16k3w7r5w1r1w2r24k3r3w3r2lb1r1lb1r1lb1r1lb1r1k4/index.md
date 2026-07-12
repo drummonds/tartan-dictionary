@@ -6,6 +6,8 @@ This is the **Mystery Tartan** sett — one scale-free proportion (`r12w1k2lb1k1
 [KRWRWRWRWRWRKRWRWRWKWKWKWKWKWKWKWWKWWRWKWKWKWKWKWKWR](/stripes/krwrwrwrwrwrkrwrwrwkwkwkwkwkwkwkwwkwwrwkwkwkwkwkwkwr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Mystery](/tartans/m/my/mystery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

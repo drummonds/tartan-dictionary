@@ -6,6 +6,8 @@ This is the **Seller, Reproduction Dress** sett — one scale-free proportion (`
 [KWGWGWGRWRWRWRGWGWGWKW](/stripes/kwgwgwgrwrwrwrgwgwgwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Seller Dress](/tartans/s/se/seller-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

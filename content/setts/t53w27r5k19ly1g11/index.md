@@ -6,6 +6,8 @@ This is the **Crookstoun (Personal)** sett — one scale-free proportion (`t53w2
 [BWRKYG](/stripes/bwrkyg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Crookstoun](/tartans/c/cr/crookstoun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

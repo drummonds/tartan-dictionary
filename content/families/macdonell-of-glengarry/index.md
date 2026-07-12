@@ -22,7 +22,7 @@ A family of [Clan MacDonell](/clan/macdonell/).
 </tbody>
 </table>
 
-[See the MacDonell of Glengarry tartan and all its setts →](/tartans/macdonell-of-glengarry/)
+[See the MacDonell of Glengarry tartan and all its setts →](/tartans/m/ma/macdonell-of-glengarry/)
 
 ### MacDonell of Glengarry Dress
 
@@ -36,5 +36,5 @@ A family of [Clan MacDonell](/clan/macdonell/).
 </tbody>
 </table>
 
-[See the MacDonell of Glengarry Dress tartan and all its setts →](/tartans/macdonell-of-glengarry-dress/)
+[See the MacDonell of Glengarry Dress tartan and all its setts →](/tartans/m/ma/macdonell-of-glengarry-dress/)
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peebles Beltane Centenary"
+  url: "/tartans/p/pe/peebles-beltane-centenary/"
 - name: "Royal Burgh of Peebles (District)"
   url: "/setts/r3g3db4g17k13dt26w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g3db4g17k13dt26w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGKBW](/stripes/rgbgkbw/).
+
+Part of the [Peebles Beltane Centenary](/tartans/p/pe/peebles-beltane-centenary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

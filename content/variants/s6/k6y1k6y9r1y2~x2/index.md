@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod"
+  url: "/tartans/m/ma/macleod/"
 - name: "MacLeod #3"
   url: "/setts/k6y1k6y9r1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6y1k6y9r1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGK](/stripes/grgkgk/).
+
+Part of the [MacLeod](/tartans/m/ma/macleod/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

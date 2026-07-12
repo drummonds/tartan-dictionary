@@ -6,6 +6,8 @@ This is the **Ploysongsang, Edward Thiravej (Personal)** sett — one scale-free
 [RBGBWR](/stripes/rbgbwr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ploysongsang, Edward Thiravej](/tartans/p/pl/ploysongsang-edward-thiravej/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

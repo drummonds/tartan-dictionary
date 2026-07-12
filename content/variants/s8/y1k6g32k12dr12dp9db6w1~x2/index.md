@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fujitsu"
+  url: "/tartans/f/fu/fujitsu/"
+- name: "Fujitsu"
   url: "/setts/y1k6g32k12dr12dp9db6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1k6g32k12dr12dp9db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBBBW](/stripes/gkgkbbbw/).
+
+Part of the [Fujitsu](/tartans/f/fu/fujitsu/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

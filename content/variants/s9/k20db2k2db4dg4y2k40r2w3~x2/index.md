@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCuaig Hunting"
+  url: "/tartans/m/mc/mccuaig-hunting/"
 - name: "McCuaig (Glenelg and the Western Isles) Hunting"
   url: "/setts/k20db2k2db4dg4y2k40r2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20db2k2db4dg4y2k40r2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGGKRW](/stripes/kbkbggkrw/).
+
+Part of the [McCuaig Hunting](/tartans/m/mc/mccuaig-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

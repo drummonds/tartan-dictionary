@@ -6,6 +6,8 @@ This is the **Franconian** sett — one scale-free proportion (`k23dbi5k5g5k5g25
 [GRGWGRGKBKGKGKGKGKGKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkgkrkgkgbgkgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Franconian](/tartans/f/fr/franconian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

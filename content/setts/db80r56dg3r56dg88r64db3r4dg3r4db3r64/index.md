@@ -6,6 +6,8 @@ This is the **Unidentified Cant #14** sett — one scale-free proportion (`db80r
 [BRGRGRBRGRBR](/stripes/brgrgrbrgrbr/). It is recorded as a single **variant**, below.
 First attested **1715**.
 
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

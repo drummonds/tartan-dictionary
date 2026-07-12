@@ -6,6 +6,8 @@ This is the **Saint Joseph de Sorel #2** sett — one scale-free proportion (`t8
 [BRGYGWGBWBWBW](/stripes/brgygwgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Saint Joseph de Sorel](/tartans/s/sa/saint-joseph-de-sorel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

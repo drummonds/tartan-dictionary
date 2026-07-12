@@ -6,6 +6,8 @@ This is the **Harris Lilac** sett — one scale-free proportion (`w3db2w30db4o26
 [WBWBRWRBRW](/stripes/wbwbrwrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harris Lilac](/tartans/h/ha/harris-lilac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

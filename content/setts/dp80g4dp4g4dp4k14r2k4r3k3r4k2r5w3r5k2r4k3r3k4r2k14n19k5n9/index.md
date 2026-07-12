@@ -6,7 +6,7 @@ This is the **Arran** sett — one scale-free proportion (`dp80g4dp4g4dp4k14r2k4
 [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Arran](/tartans/arran-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Arran](/tartans/a/ar/arran-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

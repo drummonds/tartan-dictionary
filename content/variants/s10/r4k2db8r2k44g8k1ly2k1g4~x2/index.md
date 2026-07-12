@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Marsa Scout Group"
-  url: "/tartans/marsa-scout-group/"
+  url: "/tartans/m/ma/marsa-scout-group/"
 - name: "Marsa Scout Group"
   url: "/setts/r4k2db8r2k44g8k1ly2k1g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4k2db8r2k44g8k1ly2k1g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKGKRBKR](/stripes/gkykgkrbkr/).
 
-Part of the [Marsa Scout Group](/tartans/marsa-scout-group/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Marsa Scout Group](/tartans/m/ma/marsa-scout-group/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

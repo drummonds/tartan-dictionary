@@ -6,6 +6,8 @@ This is the **Young in Australia (Name)** sett — one scale-free proportion (`l
 [GYGY](/stripes/gygy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Young in Australia](/tartans/y/yo/young-in-australia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Jamieson, Robert (Personal)** sett — one scale-free proportion (
 [RBBYW](/stripes/rbbyw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Jamieson, Robert](/tartans/j/ja/jamieson-robert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

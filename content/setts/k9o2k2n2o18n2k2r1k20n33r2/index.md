@@ -6,6 +6,8 @@ This is the **Pride of Scotland Silver** sett — one scale-free proportion (`k9
 [KRKBRBKRKBR](/stripes/krkbrbkrkbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Pride of Scotland Silver](/tartans/p/pr/pride-of-scotland-silver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

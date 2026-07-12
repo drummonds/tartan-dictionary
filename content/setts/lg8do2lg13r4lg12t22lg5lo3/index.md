@@ -6,6 +6,8 @@ This is the **Kildare Irish County Tartan** sett — one scale-free proportion (
 [YBYRYBYY](/stripes/ybyrybyy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kildare Irish County](/tartans/k/ki/kildare-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

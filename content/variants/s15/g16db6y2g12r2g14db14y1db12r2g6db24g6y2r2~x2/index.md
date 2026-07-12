@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Platt"
-  url: "/tartans/platt/"
+  url: "/tartans/p/pl/platt/"
 - name: "Platt"
   url: "/setts/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/).
 
-Part of the [Platt](/tartans/platt/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Platt](/tartans/p/pl/platt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

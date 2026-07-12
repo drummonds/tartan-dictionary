@@ -6,6 +6,8 @@ This is the **Ambulance Victoria (Corporate)** sett — one scale-free proportio
 [BKYKBWWKWR](/stripes/bkykbwwkwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Ambulance Victoria](/tartans/a/am/ambulance-victoria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

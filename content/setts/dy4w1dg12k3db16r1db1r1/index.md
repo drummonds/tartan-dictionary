@@ -6,7 +6,7 @@ This is the **Purves (2014)** sett — one scale-free proportion (`dy4w1dg12k3db
 [GWGKBRBR](/stripes/gwgkbrbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Purves](/tartans/purves/) tartan — the named design grouping this sett with its kin.
+Part of the [Purves](/tartans/p/pu/purves/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

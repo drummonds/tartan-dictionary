@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacWatts"
+  url: "/tartans/m/ma/macwatts-2/"
 - name: "MacWatts (Personal)"
   url: "/setts/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGKGKBBBBBKR](/stripes/ggbgbgkgkbbbbbkr/).
+
+Part of the [MacWatts](/tartans/m/ma/macwatts-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

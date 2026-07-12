@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gray, Sir John Hamilton"
+  url: "/tartans/g/gr/gray-sir-john-hamilton/"
 - name: "Gray, Sir John Hamilton (Commem)"
   url: "/setts/lr4dt6r3dt10db14ly6lr18ly6db4ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr4dt6r3dt10db14ly6lr18ly6db4ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBRBBYYYBY](/stripes/ybrbbyyyby/).
+
+Part of the [Gray, Sir John Hamilton](/tartans/g/gr/gray-sir-john-hamilton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

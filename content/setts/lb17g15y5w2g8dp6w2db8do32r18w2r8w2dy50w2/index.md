@@ -6,6 +6,8 @@ This is the **Culloden Worn by Pr Charles** sett — one scale-free proportion (
 [WGGWGBWBBRWRWGW](/stripes/wggwgbwbbrwrwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Culloden Worn by Pr Charles](/tartans/c/cu/culloden-worn-by-pr-charles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

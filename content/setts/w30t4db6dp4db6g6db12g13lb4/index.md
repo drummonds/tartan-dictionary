@@ -6,7 +6,7 @@ This is the **Sound of Iona** sett — one scale-free proportion (`w30t4db6dp4db
 [WBBBBGBGW](/stripes/wbbbbgbgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Sound of Iona](/tartans/sound-of-iona/) tartan — the named design grouping this sett with its kin.
+Part of the [Sound of Iona](/tartans/s/so/sound-of-iona/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holroyd, John"
+  url: "/tartans/h/ho/holroyd-john/"
 - name: "Holroyd, John (Personal"
   url: "/setts/w3g7db2g5dbi8db3ly3db3g3db12lb21ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3g7db2g5dbi8db3ly3db3g3db12lb21ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBBYBGBWY](/stripes/wgbgbbybgbwy/).
+
+Part of the [Holroyd, John](/tartans/h/ho/holroyd-john/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

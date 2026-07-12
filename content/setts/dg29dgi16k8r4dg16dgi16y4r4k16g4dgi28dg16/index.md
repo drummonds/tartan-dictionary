@@ -6,7 +6,7 @@ This is the **McCamley (Personal)** sett — one scale-free proportion (`dg29dgi
 [GGGKRGGGRKGG](/stripes/gggkrgggrkgg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [McCamley](/tartans/mccamley/) tartan — the named design grouping this sett with its kin.
+Part of the [McCamley](/tartans/m/mc/mccamley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

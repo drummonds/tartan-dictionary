@@ -6,6 +6,8 @@ This is the **Graham** sett — one scale-free proportion (`k2db12k12g1t2g16t2g1
 [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Graham](/tartans/g/gr/graham-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

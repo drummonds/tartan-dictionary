@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thorburn"
+  url: "/tartans/t/th/thorburn-2/"
 - name: "Thorburn (Lochcarron)"
   url: "/setts/db3lb14db3n16db34r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3lb14db3n16db34r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBR](/stripes/bwbbbr/).
+
+Part of the [Thorburn](/tartans/t/th/thorburn-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Perkins 2015** sett — one scale-free proportion (`k3lb10dy5lb29k
 [KRKWGWK](/stripes/krkwgwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Perkins 2015](/tartans/p/pe/perkins-2015/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

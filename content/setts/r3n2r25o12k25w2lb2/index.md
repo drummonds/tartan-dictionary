@@ -6,6 +6,8 @@ This is the **Bombeiros Voluntarios De Galicia (Co** sett — one scale-free pro
 [RBRRKWW](/stripes/rbrrkww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Bombeiros Voluntarios De Galicia](/tartans/b/bo/bombeiros-voluntarios-de-galicia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

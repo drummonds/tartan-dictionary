@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dropkick Murphys"
+  url: "/tartans/d/dr/dropkick-murphys/"
+- name: "Dropkick Murphys"
   url: "/setts/k6dg55g6k85g4k4dg12k2w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6dg55g6k85g4k4dg12k2w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKGKGKW](/stripes/kggkgkgkw/).
+
+Part of the [Dropkick Murphys](/tartans/d/dr/dropkick-murphys/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Connor / Ochiltree"
+  url: "/tartans/o/o/o-connor-ochiltree/"
+- name: "O'Connor / Ochiltree"
   url: "/setts/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBBKKKBGKBKBKG](/stripes/bkgkgkbbkkkbgkbkbkg/).
+
+Part of the [O'Connor / Ochiltree](/tartans/o/o/o-connor-ochiltree/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

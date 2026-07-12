@@ -6,7 +6,7 @@ This is the **Boucherville (Tartan de..), dress** sett — one scale-free propor
 [GBBBBWBGW](/stripes/gbbbbwbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Boucherville Dress](/tartans/boucherville-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Boucherville Dress](/tartans/b/bo/boucherville-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

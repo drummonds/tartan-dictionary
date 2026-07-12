@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntley Fire Protection District"
+  url: "/tartans/h/hu/huntley-fire-protection-district/"
+- name: "Huntley Fire Protection District"
   url: "/setts/k11db14k4db14k12r13k3r3w2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11db14k4db14k12r13k3r3w2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKRKBKBK](/stripes/gwrkrkbkbk/).
+
+Part of the [Huntley Fire Protection District](/tartans/h/hu/huntley-fire-protection-district/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

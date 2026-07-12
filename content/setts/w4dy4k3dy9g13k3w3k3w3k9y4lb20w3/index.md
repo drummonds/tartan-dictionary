@@ -6,6 +6,8 @@ This is the **Clodagh/Cork** sett — one scale-free proportion (`w4dy4k3dy9g13k
 [WGKGGKWKWKGWW](/stripes/wgkggkwkwkgww/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Clodagh](/tartans/c/cl/clodagh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

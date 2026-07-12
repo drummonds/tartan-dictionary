@@ -6,7 +6,7 @@ This is the **Durham** sett — one scale-free proportion (`k4g8k7db8r4`), colou
 [KGKBR](/stripes/kgkbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Durham](/tartans/durham/) tartan — the named design grouping this sett with its kin.
+Part of the [Durham](/tartans/d/du/durham/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

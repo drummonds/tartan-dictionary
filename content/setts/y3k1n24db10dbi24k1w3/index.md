@@ -6,6 +6,8 @@ This is the **George Heriot's School** sett — one scale-free proportion (`y3k1
 [GKBBBKW](/stripes/gkbbbkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [George Heriot's](/tartans/g/ge/george-heriot-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

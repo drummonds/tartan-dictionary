@@ -6,6 +6,8 @@ This is the **Hunter (1775)** sett — one scale-free proportion (`r30ri4y6ly4ri
 [RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW](/stripes/rrgyrrwrwybgywywygbywrrgrrwgwgygwgwgwgygwgwrrgrrwgywygwgwbwbwgwrrw/). It is recorded as a single **variant**, below.
 First attested **1775**.
 
+Part of the [Hunter](/tartans/h/hu/hunter-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

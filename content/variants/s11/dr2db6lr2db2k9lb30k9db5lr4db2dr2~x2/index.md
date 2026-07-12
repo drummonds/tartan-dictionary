@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rangers Dress"
+  url: "/tartans/r/ra/rangers-dress/"
 - name: "Rangers Dress (Sports)"
   url: "/setts/dr2db6lr2db2k9lb30k9db5lr4db2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2db6lr2db2k9lb30k9db5lr4db2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBKWKBYBB](/stripes/bbybkwkbybb/).
+
+Part of the [Rangers Dress](/tartans/r/ra/rangers-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

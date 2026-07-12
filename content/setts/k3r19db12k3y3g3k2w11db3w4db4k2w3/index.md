@@ -6,6 +6,8 @@ This is the **Badminton World Federation** sett — one scale-free proportion (`
 [KRBKGGKWBWBKW](/stripes/krbkggkwbwbkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Badminton World Federation](/tartans/b/ba/badminton-world-federation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

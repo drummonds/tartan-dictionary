@@ -6,6 +6,8 @@ This is the **Grant Hunting Clan Tartan** sett — one scale-free proportion (`d
 [BKBKBKGRGKG](/stripes/bkbkbkgrgkg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Grant Hunting](/tartans/g/gr/grant-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Walker Dress Family Tartan** sett — one scale-free proportion (`
 [GBRBRBRBWRWR](/stripes/gbrbrbrbwrwr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Walker Dress](/tartans/w/wa/walker-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **London '88** sett — one scale-free proportion (`y4db55n4k4db2y2d
 [GBBKBGBWBRBK](/stripes/gbbkbgbwbrbk/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [London '88](/tartans/l/lo/london-88/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

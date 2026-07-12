@@ -6,6 +6,8 @@ This is the **Londonderry, County** sett — one scale-free proportion (`o6k2dg1
 [GKRYGKR](/stripes/gkrygkr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Londonderry, County](/tartans/l/lo/londonderry-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

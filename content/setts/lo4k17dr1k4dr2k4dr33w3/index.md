@@ -6,6 +6,8 @@ This is the **Mens Bigi** sett — one scale-free proportion (`lo4k17dr1k4dr2k4d
 [WBKBKBKY](/stripes/wbkbkbky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Mens Bigi](/tartans/m/me/mens-bigi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

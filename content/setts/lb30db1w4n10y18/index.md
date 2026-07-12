@@ -6,6 +6,8 @@ This is the **Alloway Primary School (Ayr)** sett — one scale-free proportion 
 [BWBWBWBG](/stripes/bwbwbwbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Alloway Primary](/tartans/a/al/alloway-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

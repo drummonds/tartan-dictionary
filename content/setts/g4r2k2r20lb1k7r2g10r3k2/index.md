@@ -6,7 +6,7 @@ This is the **MacKillop (Scottish Tartan Society)** sett — one scale-free prop
 [GRKRWKRGRK](/stripes/grkrwkrgrk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [MacKillop](/tartans/mackillop/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKillop](/tartans/m/ma/mackillop/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

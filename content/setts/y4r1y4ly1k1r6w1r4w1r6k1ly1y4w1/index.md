@@ -7,6 +7,8 @@ This is the **Ogilvie - 1893 (Clan)** sett — one scale-free proportion (`y4r1y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1812**.
 
+Part of the [Ogilvie](/tartans/o/og/ogilvie-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

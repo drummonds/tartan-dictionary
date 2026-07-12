@@ -6,6 +6,8 @@ This is the **Wallace Memorial Centenary** sett — one scale-free proportion (`
 [WYKBGRY](/stripes/wykbgry/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wallace Memorial Centenary](/tartans/w/wa/wallace-memorial-centenary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

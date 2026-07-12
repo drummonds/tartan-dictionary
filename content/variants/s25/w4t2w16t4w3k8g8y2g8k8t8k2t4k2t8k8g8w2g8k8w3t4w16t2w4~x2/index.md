@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell Dress"
+  url: "/tartans/c/ca/campbell-dress/"
 - name: "Campbell Dress"
   url: "/setts/w4t2w16t4w3k8g8y2g8k8t8k2t4k2t8k8g8w2g8k8w3t4w16t2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4t2w16t4w3k8g8y2g8k8t8k2t4k2t8k8g8w2g8k8w3t4w16t2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWKGGGKBKBKBKGWGKWBWBW](/stripes/wbwbwkgggkbkbkbkgwgkwbwbw/).
+
+Part of the [Campbell Dress](/tartans/c/ca/campbell-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

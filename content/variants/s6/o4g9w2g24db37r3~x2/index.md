@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hardie"
-  url: "/tartans/hardie/"
+  url: "/tartans/h/ha/hardie/"
 - name: "Hardie Clan Tartan"
   url: "/setts/o4g9w2g24db37r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o4g9w2g24db37r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGWGR](/stripes/rbgwgr/).
 
-Part of the [Hardie](/tartans/hardie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hardie](/tartans/h/ha/hardie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

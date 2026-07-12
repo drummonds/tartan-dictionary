@@ -6,6 +6,8 @@ This is the **Ailsa, Pink (Dance)** sett — one scale-free proportion (`r8w3r28
 [RWRWKW](/stripes/rwrwkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ailsa Pink](/tartans/a/ai/ailsa-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

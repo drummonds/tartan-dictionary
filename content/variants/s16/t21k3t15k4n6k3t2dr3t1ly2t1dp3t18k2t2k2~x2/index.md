@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pounds"
-  url: "/tartans/pounds/"
+  url: "/tartans/p/po/pounds/"
 - name: "Pounds (Name)"
   url: "/setts/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBBBYBBBKBK](/stripes/bkbkbkbbbybbbkbk/).
 
-Part of the [Pounds](/tartans/pounds/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pounds](/tartans/p/po/pounds/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

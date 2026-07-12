@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sheffield High School"
+  url: "/tartans/s/sh/sheffield-high-school/"
+- name: "Sheffield High School"
   url: "/setts/db12g8lb4g8db12lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12g8lb4g8db12lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGBW](/stripes/bgwgbw/).
+
+Part of the [Sheffield High School](/tartans/s/sh/sheffield-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

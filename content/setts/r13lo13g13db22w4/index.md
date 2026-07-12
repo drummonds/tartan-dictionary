@@ -6,7 +6,7 @@ This is the **Clan Haggis World (Corporate)** sett — one scale-free proportion
 [RYGBW](/stripes/rygbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Clan Haggis World](/tartans/clan-haggis-world/) tartan — the named design grouping this sett with its kin.
+Part of the [Clan Haggis World](/tartans/c/cl/clan-haggis-world/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

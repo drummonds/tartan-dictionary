@@ -6,6 +6,8 @@ This is the **WaterAid** sett — one scale-free proportion (`db23w8lb2k5w44db4`
 [BWKWWB](/stripes/bwkwwb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [WaterAid](/tartans/w/wa/wateraid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

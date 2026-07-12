@@ -6,7 +6,7 @@ This is the **Renfrewshire** sett — one scale-free proportion (`dy4g13k8db25lb
 [BBWBKGG](/stripes/bbwbkgg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Renfrewshire](/tartans/renfrewshire/) tartan — the named design grouping this sett with its kin.
+Part of the [Renfrewshire](/tartans/r/re/renfrewshire/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

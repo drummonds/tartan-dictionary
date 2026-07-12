@@ -6,6 +6,8 @@ This is the **Fraser Hunting (unmarked sample)** sett — one scale-free proport
 [GBGGGRGGGBGBGGGW](/stripes/gbgggrgggbgbgggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fraser Hunting](/tartans/f/fr/fraser-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

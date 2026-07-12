@@ -6,6 +6,8 @@ This is the **MacKerrell, of Hillhouse hunting** sett — one scale-free proport
 [BBGBBWBBRBBW](/stripes/bbgbbwbbrbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKerrell, of Hillhouse hunting](/tartans/m/ma/mackerrell-of-hillhouse-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

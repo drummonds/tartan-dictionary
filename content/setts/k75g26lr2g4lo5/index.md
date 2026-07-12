@@ -6,6 +6,8 @@ This is the **Perry Hunting (Green) (Personal)** sett — one scale-free proport
 [KGYGY](/stripes/kgygy/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Perry Hunting](/tartans/p/pe/perry-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacTavish"
+  url: "/clan/mactavish/"
+- name: "MacTavish Dress"
+  url: "/tartans/m/ma/mactavish-dress-2/"
 - name: "MacTavish Dress Family Tartan"
   url: "/setts/r4lb28k6w12k12y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4lb28k6w12k12y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWR](/stripes/gkwkwr/).
+
+Part of the [MacTavish Dress](/tartans/m/ma/mactavish-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

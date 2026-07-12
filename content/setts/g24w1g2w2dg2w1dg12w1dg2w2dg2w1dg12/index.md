@@ -6,6 +6,8 @@ This is the **MacDonald, Lord of the Isles Hunting** sett — one scale-free pro
 [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [MacDonald, Lord of the Isles Hunting](/tartans/m/ma/macdonald-lord-of-the-isles-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

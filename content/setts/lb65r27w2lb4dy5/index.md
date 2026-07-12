@@ -6,6 +6,8 @@ This is the **Perry Arisaid (Personal)** sett — one scale-free proportion (`lb
 [GWWRW](/stripes/gwwrw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Perry Arisaid](/tartans/p/pe/perry-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

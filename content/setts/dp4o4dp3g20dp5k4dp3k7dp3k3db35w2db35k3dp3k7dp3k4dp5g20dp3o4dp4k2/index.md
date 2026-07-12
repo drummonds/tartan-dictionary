@@ -6,7 +6,7 @@ This is the **Spirit of Bannockburn** sett — one scale-free proportion (`dp4o4
 [BRBGBKBKBKBWBKBKBKBGBRBK](/stripes/brbgbkbkbkbwbkbkbkbgbrbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Spirit of Bannockburn](/tartans/spirit-of-bannockburn/) tartan — the named design grouping this sett with its kin.
+Part of the [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

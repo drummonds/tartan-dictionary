@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Qaboos"
+  url: "/tartans/q/qa/qaboos/"
 - name: "Quaboos Pipers Plaid Regimental Tartan"
   url: "/setts/w9r23g23w9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9r23g23w9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRW](/stripes/wgrw/).
+
+Part of the [Qaboos](/tartans/q/qa/qaboos/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,6 +6,8 @@ This is the **Coleman, Sarah-Louise (Personal)** sett — one scale-free proport
 [BBBG](/stripes/bbbg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Coleman, Sarah-Louise](/tartans/c/co/coleman-sarah-louise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

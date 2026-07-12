@@ -6,6 +6,8 @@ This is the **Mingulay (Fashion)** sett — one scale-free proportion (`db45n5o1
 [BBRBWBWRBRW](/stripes/bbrbwbwrbrw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Mingulay](/tartans/m/mi/mingulay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

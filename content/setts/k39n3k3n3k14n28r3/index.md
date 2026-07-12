@@ -6,6 +6,8 @@ This is the **Moffat Family Tartan** sett — one scale-free proportion (`k39n3k
 [KBKBKBR](/stripes/kbkbkbr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Moffat](/tartans/m/mo/moffat-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

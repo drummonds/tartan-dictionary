@@ -7,6 +7,8 @@ This is the **Survivor** sett — one scale-free proportion (`k1r1k8g1k1g8y1db8k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Survivor](/tartans/s/su/survivor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

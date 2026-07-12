@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dorris"
-  url: "/tartans/dorris/"
+  url: "/tartans/d/do/dorris/"
 - name: "Dorris"
   url: "/setts/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBBBBBWBBBBBKGKGKG](/stripes/gkgkbbbbbwbbbbbkgkgkg/).
 
-Part of the [Dorris](/tartans/dorris/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dorris](/tartans/d/do/dorris/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

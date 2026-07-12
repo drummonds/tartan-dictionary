@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland 2000"
-  url: "/tartans/scotland-2000/"
+  url: "/tartans/s/sc/scotland-2000/"
 - name: "Scotland 2000 (Commemorative)"
   url: "/setts/lb4db38g6dr2g6dr36lo2dr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4db38g6dr2g6dr36lo2dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBGBW](/stripes/bybgbgbw/).
 
-Part of the [Scotland 2000](/tartans/scotland-2000/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scotland 2000](/tartans/s/sc/scotland-2000/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

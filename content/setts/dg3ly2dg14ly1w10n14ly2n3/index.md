@@ -6,6 +6,8 @@ This is the **Bannockbane Hunting (MacBean and Bishop)** sett — one scale-free
 [BYBWYGYG](/stripes/bybwygyg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane Hunting](/tartans/b/ba/bannockbane-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

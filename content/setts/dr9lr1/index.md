@@ -6,6 +6,8 @@ This is the **Roddy "Rowdy" Piper (Personal)** sett — one scale-free proportio
 [BY](/stripes/by/). It is recorded as a single **variant**, below.
 First attested **~1994**.
 
+Part of the [Roddy "Rowdy" Piper](/tartans/r/ro/roddy-rowdy-piper/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

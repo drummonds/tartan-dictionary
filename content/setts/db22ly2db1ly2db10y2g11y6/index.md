@@ -6,7 +6,7 @@ This is the **Katsushika (Corporate)** sett — one scale-free proportion (`db22
 [BYBYBGGG](/stripes/bybybggg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Katsushika](/tartans/katsushika/) tartan — the named design grouping this sett with its kin.
+Part of the [Katsushika](/tartans/k/ka/katsushika/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

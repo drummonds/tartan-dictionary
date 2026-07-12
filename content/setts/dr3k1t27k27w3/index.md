@@ -6,6 +6,8 @@ This is the **Bro-Spirit of Northmen (Corporate)** sett — one scale-free propo
 [BKBKW](/stripes/bkbkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bro-Spirit of Northmen](/tartans/b/br/bro-spirit-of-northmen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

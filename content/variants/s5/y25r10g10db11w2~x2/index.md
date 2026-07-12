@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Samye"
-  url: "/tartans/samye/"
+  url: "/tartans/s/sa/samye/"
 - name: "Samye"
   url: "/setts/y25r10g10db11w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y25r10g10db11w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBW](/stripes/grgbw/).
 
-Part of the [Samye](/tartans/samye/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Samye](/tartans/s/sa/samye/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

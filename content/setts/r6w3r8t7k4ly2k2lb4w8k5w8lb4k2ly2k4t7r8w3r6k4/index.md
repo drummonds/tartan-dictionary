@@ -6,6 +6,8 @@ This is the **Hewett** sett — one scale-free proportion (`r6w3r8t7k4ly2k2lb4w8
 [KRWRBKYKWWKWWKYKBRWR](/stripes/krwrbkykwwkwwkykbrwr/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Hewett](/tartans/h/he/hewett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

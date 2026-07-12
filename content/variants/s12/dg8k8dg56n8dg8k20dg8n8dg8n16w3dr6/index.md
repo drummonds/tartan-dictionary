@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kelly"
+  url: "/clan/kelly/"
+- name: "Kelly of Sleat"
+  url: "/families/kelly-of-sleat/"
+- name: "Kelly of Sleat Hunting"
+  url: "/tartans/k/ke/kelly-of-sleat-hunting/"
 - name: "Kelly of Sleat Hunting (Name)"
   url: "/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGKGBGKG](/stripes/bwbgbgkgbgkg/).
+
+Part of the [Kelly of Sleat Hunting](/tartans/k/ke/kelly-of-sleat-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

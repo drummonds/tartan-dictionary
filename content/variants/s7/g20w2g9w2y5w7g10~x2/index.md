@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heritage"
+  url: "/tartans/h/he/heritage-4/"
 - name: "Heritage #2"
   url: "/setts/g20w2g9w2y5w7g10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20w2g9w2y5w7g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWG](/stripes/gwgwgwg/).
+
+Part of the [Heritage](/tartans/h/he/heritage-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

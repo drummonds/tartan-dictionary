@@ -6,6 +6,8 @@ This is the **Fraser, Arisaid** sett — one scale-free proportion (`k14w2k3w2b1
 [KWKBWBWKWK](/stripes/kwkbwbwkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fraser, Arisaid](/tartans/f/fr/fraser-arisaid-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

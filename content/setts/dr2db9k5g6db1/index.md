@@ -6,6 +6,8 @@ This is the **Frobo Nairn** sett — one scale-free proportion (`dr2db9k5g6db1`)
 [BBKGB](/stripes/bbkgb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Frobo Nairn](/tartans/f/fr/frobo-nairn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

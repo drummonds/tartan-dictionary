@@ -6,6 +6,8 @@ This is the **Blackwater (Personal)** sett — one scale-free proportion (`k4dg2
 [BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Blackwater](/tartans/b/bl/blackwater/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

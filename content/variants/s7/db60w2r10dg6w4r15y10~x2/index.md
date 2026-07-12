@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Iberia Dress"
+  url: "/tartans/i/ib/iberia-dress-2/"
 - name: "Iberia Dress, Blue (Fashion)"
   url: "/setts/db60w2r10dg6w4r15y10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60w2r10dg6w4r15y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRGWRG](/stripes/bwrgwrg/).
+
+Part of the [Iberia Dress](/tartans/i/ib/iberia-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

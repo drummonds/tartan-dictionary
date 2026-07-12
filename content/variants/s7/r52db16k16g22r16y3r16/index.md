@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sturrock"
-  url: "/tartans/sturrock/"
+  url: "/tartans/s/st/sturrock/"
 - name: "Sturrock"
   url: "/setts/r52db16k16g22r16y3r16/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r52db16k16g22r16y3r16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGRGR](/stripes/rbkgrgr/).
 
-Part of the [Sturrock](/tartans/sturrock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sturrock](/tartans/s/st/sturrock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

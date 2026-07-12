@@ -7,6 +7,8 @@ This is the **Utah** sett — one scale-free proportion (`w2dr3dg9dr3db2dr3db3w1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
+Part of the [Utah](/tartans/u/ut/utah/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Australian National"
+  url: "/tartans/a/au/australian-national/"
+- name: "Australian National"
   url: "/setts/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGWGGGKBWBRB](/stripes/bgwgwgggkbwbrb/).
+
+Part of the [Australian National](/tartans/a/au/australian-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

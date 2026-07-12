@@ -6,6 +6,8 @@ This is the **Cumming Glenorchy (Htg) Clan Tartan** sett — one scale-free prop
 [BRGRBWRGRBRWBRBRGRWBRG](/stripes/brgrbwrgrbrwbrbrgrwbrg/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [Cumming Glenorchy](/tartans/c/cu/cumming-glenorchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

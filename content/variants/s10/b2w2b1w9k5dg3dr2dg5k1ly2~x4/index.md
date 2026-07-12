@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Firth"
+  url: "/clan/firth/"
+- name: "Firth of Tay"
+  url: "/families/firth-of-tay/"
+- name: "Firth of Tay"
+  url: "/tartans/f/fi/firth-of-tay/"
 - name: "Firth of Tay"
   url: "/setts/b2w2b1w9k5dg3dr2dg5k1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b2w2b1w9k5dg3dr2dg5k1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKGBGKY](/stripes/bwbwkgbgky/).
+
+Part of the [Firth of Tay](/tartans/f/fi/firth-of-tay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

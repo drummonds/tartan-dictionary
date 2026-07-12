@@ -6,6 +6,8 @@ This is the **MacAuliffe (Name)** sett — one scale-free proportion (`g37w2g6db
 [BGBGBGWG](/stripes/bgbgbgwg/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [MacAuliffe](/tartans/m/ma/macauliffe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

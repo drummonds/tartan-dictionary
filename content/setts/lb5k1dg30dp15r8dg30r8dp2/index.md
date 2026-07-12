@@ -6,7 +6,7 @@ This is the **Shaw of Tordarroch, hunting** sett — one scale-free proportion (
 [BRGRBGKW](/stripes/brgrbgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Shaw of Tordarroch, hunting](/tartans/shaw-of-tordarroch-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Shaw of Tordarroch, hunting](/tartans/s/sh/shaw-of-tordarroch-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

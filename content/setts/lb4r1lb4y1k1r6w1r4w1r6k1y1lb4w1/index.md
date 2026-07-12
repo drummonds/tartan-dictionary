@@ -6,6 +6,8 @@ This is the **Ogilvy D** sett — one scale-free proportion (`lb4r1lb4y1k1r6w1r4
 [WRWGKRWRWRKGWW](/stripes/wrwgkrwrwrkgww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ogilvy D](/tartans/o/og/ogilvy-d-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

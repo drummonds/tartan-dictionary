@@ -6,6 +6,8 @@ This is the **Fontainbleu** sett — one scale-free proportion (`r66n8r4dt2r1ly2
 [BRBYRBRYRBRBBBRBYRBRYRBRBR](/stripes/brbyrbryrbrbbbrbyrbryrbrbr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Fontainbleu](/tartans/f/fo/fontainbleu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

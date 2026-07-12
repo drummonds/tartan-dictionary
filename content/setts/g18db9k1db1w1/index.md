@@ -6,6 +6,8 @@ This is the **Irvine Clan Tartan** sett — one scale-free proportion (`g18db9k1
 [GBKBW](/stripes/gbkbw/). It is recorded as a single **variant**, below.
 First attested **~1889**.
 
+Part of the [Irvine](/tartans/i/ir/irvine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ayllu Thuban** sett — one scale-free proportion (`db46k6g9dy9r4`
 [BKGGR](/stripes/bkggr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Ayllu Thuban](/tartans/a/ay/ayllu-thuban-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

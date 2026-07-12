@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walsh"
+  url: "/tartans/w/wa/walsh/"
+- name: "Walsh"
   url: "/setts/y1k1g1dg16r1dg16k1o2k2dg1g12w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1k1g1dg16r1dg16k1o2k2dg1g12w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGRGKRKGGW](/stripes/gkggrgkrkggw/).
+
+Part of the [Walsh](/tartans/w/wa/walsh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvy"
+  url: "/clan/ogilvy/"
+- name: "Ogilvy"
+  url: "/tartans/o/og/ogilvy-3/"
 - name: "Ogilvy"
   url: "/setts/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBRWRWRKGWRW](/stripes/gwgbrwrwrkgwrw/).
+
+Part of the [Ogilvy](/tartans/o/og/ogilvy-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

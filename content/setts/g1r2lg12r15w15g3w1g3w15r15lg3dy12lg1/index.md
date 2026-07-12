@@ -6,6 +6,8 @@ This is the **St. John New Brunswick (District)** sett — one scale-free propor
 [GRYRWGWGWRYGY](/stripes/gryrwgwgwrygy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [St. John New Brunswick](/tartans/s/st/st-john-new-brunswick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

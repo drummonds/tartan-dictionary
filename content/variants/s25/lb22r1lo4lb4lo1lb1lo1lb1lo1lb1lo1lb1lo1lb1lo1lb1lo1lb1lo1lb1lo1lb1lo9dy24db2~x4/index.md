@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allen Hunting"
+  url: "/tartans/a/al/allen-hunting/"
 - name: "Allen Hunting (?Thomson)"
   url: "/setts/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYWYWYWYWYWYWYWYWYWYWYRW](/stripes/bgywywywywywywywywywywyrw/).
+
+Part of the [Allen Hunting](/tartans/a/al/allen-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

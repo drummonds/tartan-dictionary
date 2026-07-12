@@ -6,7 +6,7 @@ This is the **Blue Ridge** sett — one scale-free proportion (`g6t8r2t2y2t16g18
 [BGBGBGBRBG](/stripes/bgbgbgbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Blue Ridge](/tartans/blue-ridge/) tartan — the named design grouping this sett with its kin.
+Part of the [Blue Ridge](/tartans/b/bl/blue-ridge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

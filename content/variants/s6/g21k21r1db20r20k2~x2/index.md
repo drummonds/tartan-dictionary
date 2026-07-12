@@ -10,7 +10,7 @@ crumbs:
 - name: "Skene of Cromar"
   url: "/families/skene-of-cromar/"
 - name: "Skene of Cromar"
-  url: "/tartans/skene-of-cromar/"
+  url: "/tartans/s/sk/skene-of-cromar/"
 - name: "Skene of Cromar (Cant version)"
   url: "/setts/g21k21r1db20r20k2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g21k21r1db20r20k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRK](/stripes/gkrbrk/).
 
-Part of the [Skene of Cromar](/tartans/skene-of-cromar/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

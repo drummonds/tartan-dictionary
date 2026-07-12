@@ -6,6 +6,8 @@ This is the **Rogers Family (Kilkeel) (Personal)** sett — one scale-free propo
 [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Rogers](/tartans/r/ro/rogers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

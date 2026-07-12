@@ -6,7 +6,7 @@ This is the **Young, Christina** sett — one scale-free proportion (`w162k10dg1
 [GGBGKW](/stripes/ggbgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Young, Christina](/tartans/young-christina/) tartan — the named design grouping this sett with its kin.
+Part of the [Young, Christina](/tartans/y/yo/young-christina/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

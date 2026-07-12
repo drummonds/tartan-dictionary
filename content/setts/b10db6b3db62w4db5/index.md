@@ -6,7 +6,7 @@ This is the **Auchairne** sett — one scale-free proportion (`b10db6b3db62w4db5
 [BBBBWB](/stripes/bbbbwb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Auchairne](/tartans/auchairne-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Auchairne](/tartans/a/au/auchairne-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

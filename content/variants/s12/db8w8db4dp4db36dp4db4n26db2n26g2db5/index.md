@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Historic Scotland"
+  url: "/tartans/h/hi/historic-scotland/"
 - name: "Historic Scotland (1998)"
   url: "/setts/db8w8db4dp4db36dp4db4n26db2n26g2db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8w8db4dp4db36dp4db4n26db2n26g2db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBBBGBGBBBBBBBBW](/stripes/bwbbbbbbbbgbgbbbbbbbbw/).
+
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

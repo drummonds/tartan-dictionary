@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brave for Men"
-  url: "/tartans/brave-for-men/"
+  url: "/tartans/b/br/brave-for-men/"
 - name: "Brave for Men (Fashion)"
   url: "/setts/k5dy5k5dy34n33k6n5o2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k5dy5k5dy34n33k6n5o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBKBR](/stripes/kgkgbkbr/).
 
-Part of the [Brave for Men](/tartans/brave-for-men/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brave for Men](/tartans/b/br/brave-for-men/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

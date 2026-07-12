@@ -6,6 +6,8 @@ This is the **Lions Canadian Tartan** sett — one scale-free proportion (`dp25l
 [BWWKGBWGBKWBWWWBWBKW](/stripes/bwwkgbwgbkwbwwwbwbkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Lions](/tartans/l/li/lions/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sandberg of Greenock (Personal)** sett — one scale-free proporti
 [GKBGBRKR](/stripes/gkbgbrkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sandberg of Greenock](/tartans/s/sa/sandberg-of-greenock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

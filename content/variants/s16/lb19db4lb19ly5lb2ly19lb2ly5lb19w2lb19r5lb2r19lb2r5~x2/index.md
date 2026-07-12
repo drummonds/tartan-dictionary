@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McBeams Boy"
+  url: "/tartans/m/mc/mcbeams-boy/"
+- name: "McBeams Boy"
   url: "/setts/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWWWYWYWYWBW](/stripes/rwrwrwwwywywywbw/).
+
+Part of the [McBeams Boy](/tartans/m/mc/mcbeams-boy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carter"
+  url: "/tartans/c/ca/carter/"
 - name: "Carter (Savannah) (Personal)"
   url: "/setts/dy4dg26lt1dg2lt2dy4lg26dy4g3y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4dg26lt1dg2lt2dy4lg26dy4g3y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGYGWGWGG](/stripes/gggygwgwgg/).
+
+Part of the [Carter](/tartans/c/ca/carter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -18,5 +18,5 @@ A family of [Clan Grant](/clan/grant/).
 </tbody>
 </table>
 
-[See the Grant of Rothiemurchus tartan and all its setts →](/tartans/grant-of-rothiemurchus/)
+[See the Grant of Rothiemurchus tartan and all its setts →](/tartans/g/gr/grant-of-rothiemurchus/)
 

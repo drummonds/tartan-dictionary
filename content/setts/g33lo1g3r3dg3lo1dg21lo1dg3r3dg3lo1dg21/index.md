@@ -6,6 +6,8 @@ This is the **Terry** sett — one scale-free proportion (`g33lo1g3r3dg3lo1dg21l
 [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Terry](/tartans/t/te/terry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

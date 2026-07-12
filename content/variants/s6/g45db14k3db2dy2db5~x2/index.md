@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews Old Course Hotel, Golf Course and Spa"
+  url: "/tartans/s/st/st-andrews-old-course-hotel-golf-course-and-spa/"
+- name: "St Andrews Old Course Hotel, Golf Course and Spa"
   url: "/setts/g45db14k3db2dy2db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g45db14k3db2dy2db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBG](/stripes/bgbkbg/).
+
+Part of the [St Andrews Old Course Hotel, Golf Course and Spa](/tartans/s/st/st-andrews-old-course-hotel-golf-course-and-spa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Asman Family** sett — one scale-free proportion (`db4y3db17b6w2d
 [BGBBWBWRBR](/stripes/bgbbwbwrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Asman](/tartans/a/as/asman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

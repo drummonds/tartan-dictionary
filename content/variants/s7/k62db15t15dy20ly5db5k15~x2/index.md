@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Raven"
-  url: "/tartans/black-raven/"
+  url: "/tartans/b/bl/black-raven/"
 - name: "Black Raven (Fashion)"
   url: "/setts/k62db15t15dy20ly5db5k15/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k62db15t15dy20ly5db5k15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBGYBK](/stripes/kbbgybk/).
 
-Part of the [Black Raven](/tartans/black-raven/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Raven](/tartans/b/bl/black-raven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

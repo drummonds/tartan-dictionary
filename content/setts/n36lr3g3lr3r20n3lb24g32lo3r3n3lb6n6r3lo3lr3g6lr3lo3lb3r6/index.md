@@ -6,6 +6,8 @@ This is the **Victoria, County of (District)** sett — one scale-free proportio
 [BYGYRBWGYRBWBRYYGYYWR](/stripes/bygyrbwgyrbwbryygyywr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Victoria, County of](/tartans/v/vi/victoria-county-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

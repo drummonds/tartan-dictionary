@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGuire"
+  url: "/tartans/m/ma/macguire-3/"
 - name: "MacGuire Irish Family Tartan"
   url: "/setts/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w10db3g30r4lb12r30lb6r6lb6r6lb6r30g30dbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRWRWRWRWRGBW](/stripes/bgrwrwrwrwrgbw/).
+
+Part of the [MacGuire](/tartans/m/ma/macguire-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hirstwood"
+  url: "/tartans/h/hi/hirstwood/"
 - name: "Hirstwood (Name)"
   url: "/setts/ly28dr24dg55dp19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly28dr24dg55dp19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBY](/stripes/bgby/).
+
+Part of the [Hirstwood](/tartans/h/hi/hirstwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

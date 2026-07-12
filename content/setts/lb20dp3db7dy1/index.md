@@ -6,7 +6,7 @@ This is the **Peacock (Samantha)** sett — one scale-free proportion (`lb20dp3d
 [GBBW](/stripes/gbbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Peacock](/tartans/peacock-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Peacock](/tartans/p/pe/peacock-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

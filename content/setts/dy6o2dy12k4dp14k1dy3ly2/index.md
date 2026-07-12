@@ -6,6 +6,8 @@ This is the **Mica, Green (Fashion)** sett — one scale-free proportion (`dy6o2
 [GRGKBKGY](/stripes/grgkbkgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Mica](/tartans/m/mi/mica/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

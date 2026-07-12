@@ -6,7 +6,7 @@ This is the **Royal Gourock Yacht Club, The** sett — one scale-free proportion
 [BBBGBKBBKBW](/stripes/bbbgbkbbkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Royal Gourock Yacht Club, The](/tartans/royal-gourock-yacht-club-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Gourock Yacht Club, The](/tartans/r/ro/royal-gourock-yacht-club-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

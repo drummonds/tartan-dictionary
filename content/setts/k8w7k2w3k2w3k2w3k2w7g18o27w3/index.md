@@ -6,6 +6,8 @@ This is the **IAPD (Corporate)** sett — one scale-free proportion (`k8w7k2w3k2
 [KWKWKWKWKWGRW](/stripes/kwkwkwkwkwgrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [IAPD](/tartans/i/ia/iapd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

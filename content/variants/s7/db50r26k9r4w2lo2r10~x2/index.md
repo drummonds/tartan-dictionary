@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Java Saint Andrew Society Dress"
+  url: "/tartans/j/ja/java-saint-andrew-society-dress/"
+- name: "Java Saint Andrew Society Dress"
   url: "/setts/db50r26k9r4w2lo2r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50r26k9r4w2lo2r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRWYR](/stripes/brkrwyr/).
+
+Part of the [Java Saint Andrew Society Dress](/tartans/j/ja/java-saint-andrew-society-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Sanley-Cantamessa (Personal)** sett — one scale-free proportion 
 [KRKBKWK](/stripes/krkbkwk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Sanley-Cantamessa](/tartans/s/sa/sanley-cantamessa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

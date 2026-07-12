@@ -6,7 +6,7 @@ This is the **Aelfleda Arisaid (Personal)** sett — one scale-free proportion (
 [GBGBWGWRWBGBG](/stripes/gbgbwgwrwbgbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Aelfleda Arisaid](/tartans/aelfleda-arisaid/) tartan — the named design grouping this sett with its kin.
+Part of the [Aelfleda Arisaid](/tartans/a/ae/aelfleda-arisaid/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

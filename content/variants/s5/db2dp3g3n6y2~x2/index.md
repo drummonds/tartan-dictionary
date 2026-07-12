@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunoon Burgh Hall Trust"
+  url: "/tartans/d/du/dunoon-burgh-hall-trust/"
+- name: "Dunoon Burgh Hall Trust"
   url: "/setts/db2dp3g3n6y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dp3g3n6y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBG](/stripes/bbgbg/).
+
+Part of the [Dunoon Burgh Hall Trust](/tartans/d/du/dunoon-burgh-hall-trust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

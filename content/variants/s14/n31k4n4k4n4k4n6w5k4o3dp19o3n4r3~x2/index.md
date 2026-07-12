@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sydney Academy"
+  url: "/tartans/s/sy/sydney-academy-2/"
+- name: "Sydney Academy"
   url: "/setts/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBWKRBRBR](/stripes/bkbkbkbwkrbrbr/).
+
+Part of the [Sydney Academy](/tartans/s/sy/sydney-academy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

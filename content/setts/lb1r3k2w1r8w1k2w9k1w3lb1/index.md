@@ -6,6 +6,8 @@ This is the **MacRae, Dress Red (Dance)** sett — one scale-free proportion (`l
 [WRKWRWKWKWW](/stripes/wrkwrwkwkww/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacRae, Dress](/tartans/m/ma/macrae-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

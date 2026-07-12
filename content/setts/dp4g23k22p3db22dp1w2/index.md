@@ -6,6 +6,8 @@ This is the **Fettes College** sett — one scale-free proportion (`dp4g23k22p3d
 [BGKBBBW](/stripes/bgkbbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Fettes College](/tartans/f/fe/fettes-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Victoria (Yellow)** sett — one scale-free proportion (`r6y60db12
 [RGBGKGKWKGRKRW](/stripes/rgbgkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Victoria](/tartans/v/vi/victoria-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

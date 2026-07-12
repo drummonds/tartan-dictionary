@@ -6,6 +6,8 @@ This is the **Drummond of Fingask** sett — one scale-free proportion (`r48db3l
 [RBYGRBWW](/stripes/rbygrbww/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Murray Threipland of Fingask](/tartans/m/mu/murray-threipland-of-fingask/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

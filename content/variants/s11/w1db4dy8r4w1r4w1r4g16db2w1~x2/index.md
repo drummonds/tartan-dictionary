@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stuart/Stewart Riding Cloak"
+  url: "/tartans/s/st/stuart-stewart-riding-cloak-2/"
+- name: "Stuart/Stewart Riding Cloak"
   url: "/setts/w1db4dy8r4w1r4w1r4g16db2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1db4dy8r4w1r4w1r4g16db2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGRWRWRGBW](/stripes/wbgrwrwrgbw/).
+
+Part of the [Stuart/Stewart Riding Cloak](/tartans/s/st/stuart-stewart-riding-cloak-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

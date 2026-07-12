@@ -6,6 +6,8 @@ This is the **Mead (Tennessee) Modern Dress (Personal)** sett — one scale-free
 [BKGBRBKRKB](/stripes/bkgbrbkrkb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Mead Modern Dress](/tartans/m/me/mead-modern-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cuthill Clan/Family Tartan** sett — one scale-free proportion (`
 [BGRGRGBBBBBBGBBBBBBGRGRG](/stripes/bgrgrgbbbbbbgbbbbbbgrgrg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Cuthill](/tartans/c/cu/cuthill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walker, Gauvin"
+  url: "/tartans/w/wa/walker-gauvin/"
 - name: "Walker, Gauvin (Personal)"
   url: "/setts/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBGBGBGBGGY](/stripes/ygbgbgbgbggy/).
+
+Part of the [Walker, Gauvin](/tartans/w/wa/walker-gauvin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

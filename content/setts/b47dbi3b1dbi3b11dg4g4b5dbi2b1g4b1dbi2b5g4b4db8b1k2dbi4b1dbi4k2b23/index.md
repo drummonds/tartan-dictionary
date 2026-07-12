@@ -6,6 +6,8 @@ This is the **Hebrides Inner** sett — one scale-free proportion (`b47dbi3b1dbi
 [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hebrides Inner](/tartans/h/he/hebrides-inner/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

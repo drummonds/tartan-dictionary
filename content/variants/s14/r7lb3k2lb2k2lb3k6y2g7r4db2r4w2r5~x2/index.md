@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonia Variant"
+  url: "/tartans/c/ca/caledonia-variant/"
+- name: "Caledonia Variant"
   url: "/setts/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKGGRBRWR](/stripes/rwkwkwkggrbrwr/).
+
+Part of the [Caledonia Variant](/tartans/c/ca/caledonia-variant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Graham of Montrose** sett — one scale-free proportion (`k4g19k16
 [GBWKGK](/stripes/gbwkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Graham of Montrose](/tartans/g/gr/graham-of-montrose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

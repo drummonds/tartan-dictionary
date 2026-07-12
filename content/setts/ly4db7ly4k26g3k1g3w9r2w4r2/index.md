@@ -6,6 +6,8 @@ This is the **Beaudoux - Amis Picards (District)** sett — one scale-free propo
 [RWRWGKGKYBY](/stripes/rwrwgkgkyby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Beaudoux](/tartans/b/be/beaudoux/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

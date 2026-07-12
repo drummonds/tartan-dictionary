@@ -6,6 +6,8 @@ This is the **Tupper. Sir Charles.. Family Tartan** sett — one scale-free prop
 [BGGGGGBGGG](/stripes/bgggggbggg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Tupper. Sir Charles..](/tartans/t/tu/tupper-sir-charles-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

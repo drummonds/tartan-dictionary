@@ -6,6 +6,8 @@ This is the **Lindsay Dress, Green (Dance)** sett — one scale-free proportion 
 [GBGBGBWBW](/stripes/gbgbgbwbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Lindsay Dress](/tartans/l/li/lindsay-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

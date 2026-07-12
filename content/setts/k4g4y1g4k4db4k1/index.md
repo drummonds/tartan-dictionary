@@ -6,6 +6,8 @@ This is the **MacKay Coat** sett — one scale-free proportion (`k4g4y1g4k4db4k1
 [KBKGGGK](/stripes/kbkgggk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKay Coat](/tartans/m/ma/mackay-coat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Harding (Florida) (Personal)** sett — one scale-free proportion 
 [BRGRGKGRGR](/stripes/brgrgkgrgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Harding](/tartans/h/ha/harding-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

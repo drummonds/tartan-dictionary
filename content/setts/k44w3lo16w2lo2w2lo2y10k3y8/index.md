@@ -6,6 +6,8 @@ This is the **Wcwm 1399** sett — one scale-free proportion (`k44w3lo16w2lo2w2l
 [GKGYWYWYWK](/stripes/gkgywywywk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Wcwm 1399](/tartans/w/wc/wcwm-1399/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

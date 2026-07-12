@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKirdy"
-  url: "/tartans/mackirdy/"
+  url: "/tartans/m/ma/mackirdy/"
 - name: "MacKirdy Family Tartan"
   url: "/setts/k2g12k11db12w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g12k11db12w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBW](/stripes/kgkbw/).
 
-Part of the [MacKirdy](/tartans/mackirdy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKirdy](/tartans/m/ma/mackirdy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

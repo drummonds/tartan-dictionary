@@ -6,6 +6,8 @@ This is the **Brodie, Graeme (Personal)** sett — one scale-free proportion (`n
 [BBKBRBRRBKR](/stripes/bbkbrbrrbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Brodie, Graeme](/tartans/b/br/brodie-graeme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Digital"
+  url: "/tartans/d/di/digital/"
+- name: "Digital"
   url: "/setts/b6k3b10o5b2o2b2o2b7w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b6k3b10o5b2o2b2o2b7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBRBRBW](/stripes/bkbrbrbrbw/).
+
+Part of the [Digital](/tartans/d/di/digital/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

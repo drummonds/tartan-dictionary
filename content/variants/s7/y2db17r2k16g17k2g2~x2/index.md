@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Greenock"
+  url: "/tartans/g/gr/greenock/"
+- name: "Greenock"
   url: "/setts/y2db17r2k16g17k2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db17r2k16g17k2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGKG](/stripes/gbrkgkg/).
+
+Part of the [Greenock](/tartans/g/gr/greenock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mowbray"
-  url: "/tartans/mowbray/"
+  url: "/tartans/m/mo/mowbray/"
 - name: "Mowbray (Moubray) Family Tartan"
   url: "/setts/n16r2n10r15lb5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n16r2n10r15lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
 
-Part of the [Mowbray](/tartans/mowbray/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mowbray](/tartans/m/mo/mowbray/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tyrone County Crest"
+  url: "/tartans/t/ty/tyrone-county-crest/"
 - name: "Tyrone County Crest (Fashion)"
   url: "/setts/dr4k2g13ly3k22dr2k2w13k7dr3k7w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4k2g13ly3k22dr2k2w13k7dr3k7w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYKBKWKBKW](/stripes/bkgykbkwkbkw/).
+
+Part of the [Tyrone County Crest](/tartans/t/ty/tyrone-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

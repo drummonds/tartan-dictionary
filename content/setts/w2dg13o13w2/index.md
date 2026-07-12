@@ -6,6 +6,8 @@ This is the **Dunoon Irish** sett — one scale-free proportion (`w2dg13o13w2`),
 [WGRW](/stripes/wgrw/). It is recorded as a single **variant**, below.
 First attested **1935**.
 
+Part of the [Dunoon Irish](/tartans/d/du/dunoon-irish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

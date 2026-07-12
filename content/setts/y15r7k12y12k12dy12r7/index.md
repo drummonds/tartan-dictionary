@@ -6,6 +6,8 @@ This is the **Duffus Lord... Portrait Tartan** sett — one scale-free proportio
 [GRKGKGR](/stripes/grkgkgr/). It is recorded as a single **variant**, below.
 First attested **1705**.
 
+Part of the [Duffus Lord...](/tartans/d/du/duffus-lord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

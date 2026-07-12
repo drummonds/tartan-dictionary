@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blairlogie or Blair Athol"
-  url: "/tartans/blairlogie-or-blair-athol/"
+  url: "/tartans/b/bl/blairlogie-or-blair-athol/"
 - name: "Blairlogie or Blair Athol District Tartan"
   url: "/setts/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
 
-Part of the [Blairlogie or Blair Athol](/tartans/blairlogie-or-blair-athol/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blairlogie or Blair Athol](/tartans/b/bl/blairlogie-or-blair-athol/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

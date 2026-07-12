@@ -6,6 +6,8 @@ This is the **Grant of Glenmoriston (Clan)** sett — one scale-free proportion 
 [RBRBRBRGRGRBR](/stripes/rbrbrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Grant of Glenmoriston](/tartans/g/gr/grant-of-glenmoriston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

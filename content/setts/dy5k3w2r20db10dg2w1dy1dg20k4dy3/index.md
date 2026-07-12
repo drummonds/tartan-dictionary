@@ -6,7 +6,7 @@ This is the **MacCulloch (Name)** sett — one scale-free proportion (`dy5k3w2r2
 [GKGGWGBRWKG](/stripes/gkggwgbrwkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [MacCulloch](/tartans/macculloch/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCulloch](/tartans/m/ma/macculloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

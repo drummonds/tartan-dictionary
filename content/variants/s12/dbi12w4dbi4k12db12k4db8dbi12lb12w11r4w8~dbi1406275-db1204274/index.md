@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Anglicare"
-  url: "/tartans/anglicare/"
+  url: "/tartans/a/an/anglicare/"
 - name: "Anglicare (Corporate)"
   url: "/setts/dbi12w4dbi4k12db12k4db8dbi12lb12w11r4w8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi12w4dbi4k12db12k4db8dbi12lb12w11r4w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/).
 
-Part of the [Anglicare](/tartans/anglicare/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Anglicare](/tartans/a/an/anglicare/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Puxty-Dunne"
-  url: "/tartans/puxty-dunne/"
+  url: "/tartans/p/pu/puxty-dunne/"
 - name: "Puxty-Dunne"
   url: "/setts/n18w2k1w4dg13n40r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n18w2k1w4dg13n40r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWGBR](/stripes/bwkwgbr/).
 
-Part of the [Puxty-Dunne](/tartans/puxty-dunne/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Puxty-Dunne](/tartans/p/pu/puxty-dunne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

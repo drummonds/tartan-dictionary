@@ -6,7 +6,7 @@ This is the **Barnes** sett — one scale-free proportion (`db20k3db3k3db3k16g2y
 [BKBKBKGGGR](/stripes/bkbkbkgggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Barnes](/tartans/barnes/) tartan — the named design grouping this sett with its kin.
+Part of the [Barnes](/tartans/b/ba/barnes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

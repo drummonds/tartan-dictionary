@@ -6,6 +6,8 @@ This is the **Wells, Greg #2 (Personal)** sett — one scale-free proportion (`n
 [BKBKYKBGKRKG](/stripes/bkbkykbgkrkg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Wells, Greg](/tartans/w/we/wells-greg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

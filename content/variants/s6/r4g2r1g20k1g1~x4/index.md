@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Laggan"
-  url: "/tartans/loch-laggan/"
+  url: "/tartans/l/lo/loch-laggan/"
 - name: "Loch Laggan (District)"
   url: "/setts/r4g2r1g20k1g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g2r1g20k1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGR](/stripes/gkgrgr/).
 
-Part of the [Loch Laggan](/tartans/loch-laggan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loch Laggan](/tartans/l/lo/loch-laggan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

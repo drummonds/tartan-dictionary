@@ -6,6 +6,8 @@ This is the **Unidentified Cant #06** sett — one scale-free proportion (`dr16l
 [BWBKGBKBGKBBBWBBBKBBBKBBBKBBBWBBBKGBKBGKBW](/stripes/bwbkgbkbgkbbbwbbbkbbbkbbbkbbbwbbbkgbkbgkbw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

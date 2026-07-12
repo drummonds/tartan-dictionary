@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "European Union"
+  url: "/tartans/e/eu/european-union-2/"
 - name: "European Union (Fashion)"
   url: "/setts/w4db32k1y2k1db10y18db10k1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db32k1y2k1db10y18db10k1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBKGKBW](/stripes/bkbgbkgkbw/).
+
+Part of the [European Union](/tartans/e/eu/european-union-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

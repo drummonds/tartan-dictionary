@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rutlin"
+  url: "/tartans/r/ru/rutlin/"
 - name: "Rutlin (Personal)"
   url: "/setts/n6db2n1w17n1db2n16ly27g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n6db2n1w17n1db2n16ly27g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBBYG](/stripes/bbbwbbbyg/).
+
+Part of the [Rutlin](/tartans/r/ru/rutlin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

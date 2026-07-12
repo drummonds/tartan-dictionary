@@ -6,6 +6,8 @@ This is the **MacGregor Dress Green Clan Tartan** sett — one scale-free propor
 [RKGWGW](/stripes/rkgwgw/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [MacGregor Dress](/tartans/m/ma/macgregor-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

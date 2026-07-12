@@ -6,6 +6,8 @@ This is the **Swiss Country** sett — one scale-free proportion (`r108g3r2db2r2
 [RGRBRGBWRW](/stripes/rgrbrgbwrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Swiss Country](/tartans/s/sw/swiss-country/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

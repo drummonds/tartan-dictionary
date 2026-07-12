@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Broz Sanz Elementary"
+  url: "/tartans/b/br/broz-sanz-elementary/"
 - name: "Broz Sanz Elementary (Corporate)"
   url: "/setts/k4db1k1db1k1db4r2db4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db1k1db1k1db4r2db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBRBW](/stripes/kbkbkbrbw/).
+
+Part of the [Broz Sanz Elementary](/tartans/b/br/broz-sanz-elementary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

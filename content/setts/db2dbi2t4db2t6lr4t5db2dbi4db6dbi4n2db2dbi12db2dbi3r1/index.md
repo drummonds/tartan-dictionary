@@ -6,6 +6,8 @@ This is the **Fulbright, Senator (Personal)** sett — one scale-free proportion
 [BBBBBYBBBBBBBBBBR](/stripes/bbbbbybbbbbbbbbbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Fulbright, Senator](/tartans/f/fu/fulbright-senator/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

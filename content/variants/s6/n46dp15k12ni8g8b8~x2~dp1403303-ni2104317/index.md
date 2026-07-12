@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Haut"
+  url: "/tartans/h/ha/haut/"
 - name: "Haut Family (by Dundee)"
   url: "/setts/n46dp15k12ni8g8b8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n46dp15k12ni8g8b8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGB](/stripes/bbkbgb/).
+
+Part of the [Haut](/tartans/h/ha/haut/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

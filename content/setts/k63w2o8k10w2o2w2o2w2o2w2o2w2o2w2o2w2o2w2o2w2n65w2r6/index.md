@@ -6,6 +6,8 @@ This is the **Sobieski-Stewart** sett — one scale-free proportion (`k63w2o8k10
 [KWRKWRWRWRWRWRWRWRWRWBWR](/stripes/kwrkwrwrwrwrwrwrwrwrwbwr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Sobieski-Stewart](/tartans/s/so/sobieski-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

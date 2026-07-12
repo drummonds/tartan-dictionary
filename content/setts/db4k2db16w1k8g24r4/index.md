@@ -7,6 +7,8 @@ This is the **Colquhoun** sett — one scale-free proportion (`db4k2db16w1k8g24r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Colquhoun VS](/tartans/c/co/colquhoun-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

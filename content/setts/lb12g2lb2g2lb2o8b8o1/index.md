@@ -6,6 +6,8 @@ This is the **Universal, Ancient** sett — one scale-free proportion (`lb12g2lb
 [RBRWGWGW](/stripes/rbrwgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Universal](/tartans/u/un/universal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

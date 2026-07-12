@@ -6,6 +6,8 @@ This is the **Spirit of Alva** sett — one scale-free proportion (`lb6db10dp4db
 [WBBBGBGKBW](/stripes/wbbbgbgkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Spirit of Alva](/tartans/s/sp/spirit-of-alva/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

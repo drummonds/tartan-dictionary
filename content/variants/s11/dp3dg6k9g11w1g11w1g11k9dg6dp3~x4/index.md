@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hibernian F.C."
+  url: "/tartans/h/hi/hibernian-f-c-2/"
+- name: "Hibernian F.C."
   url: "/setts/dp3dg6k9g11w1g11w1g11k9dg6dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3dg6k9g11w1g11w1g11k9dg6dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWGKGB](/stripes/bgkgwgwgkgb/).
+
+Part of the [Hibernian F.C.](/tartans/h/hi/hibernian-f-c-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

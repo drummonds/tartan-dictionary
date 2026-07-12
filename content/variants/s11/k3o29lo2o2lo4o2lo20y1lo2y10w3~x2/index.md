@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shenzhen"
+  url: "/tartans/s/sh/shenzhen/"
 - name: "Shenzhen (Sports)"
   url: "/setts/k3o29lo2o2lo4o2lo20y1lo2y10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3o29lo2o2lo4o2lo20y1lo2y10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRYRYRYGYGW](/stripes/kryryrygygw/).
+
+Part of the [Shenzhen](/tartans/s/sh/shenzhen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ This is the **Jamaican National** sett — one scale-free proportion (`y24k2y3k2
 [GKGKGKGKG](/stripes/gkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Jamaican National](/tartans/jamaican-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Jamaican National](/tartans/j/ja/jamaican-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

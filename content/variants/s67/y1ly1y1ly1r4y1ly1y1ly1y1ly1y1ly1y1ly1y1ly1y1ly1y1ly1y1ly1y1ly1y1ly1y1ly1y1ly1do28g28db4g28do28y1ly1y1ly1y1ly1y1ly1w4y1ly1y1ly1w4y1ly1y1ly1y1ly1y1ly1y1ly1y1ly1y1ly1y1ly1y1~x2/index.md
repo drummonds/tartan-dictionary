@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hash House Harriers Trail"
+  url: "/tartans/h/ha/hash-house-harriers-trail/"
 - name: "Hash House Harriers Trail (Corp)"
   url: "/setts/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1ly1y1ly1r4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1do28g28db4g28do28y1ly1y1ly1y1ly1y1ly1w4y1ly1y1ly1w4y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1ly1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGYGYGYGYGYGYGWYGYGWYGYGYGYGBGBGBYGYGYGYGYGYGYGYGYGYGYGYGYGRYGYG](/stripes/gygygygygygygygygwygygwygygygygbgbgbygygygygygygygygygygygygygrygyg/).
+
+Part of the [Hash House Harriers Trail](/tartans/h/ha/hash-house-harriers-trail/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [67 stripe tartan](/stripes/stripes67/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dewar, Christian"
+  url: "/tartans/d/de/dewar-christian/"
 - name: "Dewar, Christian (Personal)"
   url: "/setts/db16dr2db2dr2db2dr6dg13ly2dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16dr2db2dr2db2dr6dg13ly2dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGYG](/stripes/bbbbbbgyg/).
+
+Part of the [Dewar, Christian](/tartans/d/de/dewar-christian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

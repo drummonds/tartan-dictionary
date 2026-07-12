@@ -6,7 +6,7 @@ This is the **MacEwen Clan Tartan** sett — one scale-free proportion (`r2k1g12
 [GKGKBKBKBKGKR](/stripes/gkgkbkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacEwan](/tartans/macewan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacEwan](/tartans/m/ma/macewan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

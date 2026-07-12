@@ -6,7 +6,7 @@ This is the **Bannockbane, Grey** sett — one scale-free proportion (`n2o2n15o2
 [BRBRWRRR](/stripes/brbrwrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bannockbane](/tartans/bannockbane-11/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane](/tartans/b/ba/bannockbane-11/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

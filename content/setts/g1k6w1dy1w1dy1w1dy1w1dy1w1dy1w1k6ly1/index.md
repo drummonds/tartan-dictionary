@@ -6,6 +6,8 @@ This is the **Alliance of Border Scots (Corporate)** sett — one scale-free pro
 [GKWGWGWGWGWGWKY](/stripes/gkwgwgwgwgwgwky/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Alliance of Border Scots](/tartans/a/al/alliance-of-border-scots-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

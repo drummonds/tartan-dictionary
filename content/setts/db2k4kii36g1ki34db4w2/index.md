@@ -6,6 +6,8 @@ This is the **Police College Tulliallan** sett — one scale-free proportion (`d
 [BKKGKBW](/stripes/bkkgkbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Police College Tulliallan](/tartans/p/po/police-college-tulliallan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

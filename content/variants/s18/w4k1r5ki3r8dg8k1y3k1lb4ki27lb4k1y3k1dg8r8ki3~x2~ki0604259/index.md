@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moon"
+  url: "/tartans/m/mo/moon-2/"
 - name: "Moon (Name)"
   url: "/setts/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKGKWKWKGKGRKRKW](/stripes/krgkgkwkwkgkgrkrkw/).
+
+Part of the [Moon](/tartans/m/mo/moon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

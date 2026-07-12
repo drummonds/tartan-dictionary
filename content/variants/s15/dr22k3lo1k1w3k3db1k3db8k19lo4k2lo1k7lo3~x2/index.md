@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ruxton"
-  url: "/tartans/ruxton-2/"
+  url: "/tartans/r/ru/ruxton-2/"
 - name: "Ruxton"
   url: "/setts/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKWKBKBKYKYKY](/stripes/bkykwkbkbkykyky/).
 
-Part of the [Ruxton](/tartans/ruxton-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ruxton](/tartans/r/ru/ruxton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

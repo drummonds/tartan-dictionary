@@ -6,7 +6,7 @@ This is the **Brigid Mhairi** sett — one scale-free proportion (`db2g4lb11dp19
 [BGWBBBRY](/stripes/bgwbbbry/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Brigid Mhairi](/tartans/brigid-mhairi/) tartan — the named design grouping this sett with its kin.
+Part of the [Brigid Mhairi](/tartans/b/br/brigid-mhairi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

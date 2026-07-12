@@ -6,6 +6,8 @@ This is the **MacGiboney/MacGibboney** sett — one scale-free proportion (`k2dg
 [KBWBKBKGKBKGWGK](/stripes/kbwbkbkgkbkgwgk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacGibboney](/tartans/m/ma/macgibboney/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

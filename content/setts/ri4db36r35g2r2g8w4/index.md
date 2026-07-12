@@ -6,7 +6,7 @@ This is the **Cherry, John S. (Personal)** sett — one scale-free proportion (`
 [RBRGRGW](/stripes/rbrgrgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Cherry, John S](/tartans/cherry-john-s/) tartan — the named design grouping this sett with its kin.
+Part of the [Cherry, John S](/tartans/c/ch/cherry-john-s/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Murison (2014)** sett — one scale-free proportion (`r4db11lb4w3l
 [RBWWWGBKBKBW](/stripes/rbwwwgbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Murison](/tartans/m/mu/murison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

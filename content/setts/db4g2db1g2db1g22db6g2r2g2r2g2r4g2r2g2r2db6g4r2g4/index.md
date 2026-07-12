@@ -6,6 +6,8 @@ This is the **Matheson Hunting (Highland Society of London)** sett — one scale
 [BGBGBGBGRGRGRGRGRBGRG](/stripes/bgbgbgbgrgrgrgrgrbgrg/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [Matheson Hunting](/tartans/m/ma/matheson-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

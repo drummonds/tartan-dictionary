@@ -6,6 +6,8 @@ This is the **WCWM 3947** sett — one scale-free proportion (`n2b30y3b2n16r2g16
 [BBGBBRGW](/stripes/bbgbbrgw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [WCWM 3947](/tartans/w/wc/wcwm-3947/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

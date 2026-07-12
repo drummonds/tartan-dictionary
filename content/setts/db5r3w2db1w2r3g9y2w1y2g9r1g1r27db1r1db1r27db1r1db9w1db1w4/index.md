@@ -6,6 +6,8 @@ This is the **Hebridean Artifact Tartan** sett — one scale-free proportion (`d
 [BRWBWRGGWGGRGRBRBRBRBWBW](/stripes/brwbwrggwggrgrbrbrbrbwbw/). It is recorded as a single **variant**, below.
 First attested **1814**.
 
+Part of the [Hebridean](/tartans/h/he/hebridean-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

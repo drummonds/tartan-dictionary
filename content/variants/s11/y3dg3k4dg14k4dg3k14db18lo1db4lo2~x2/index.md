@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Clark"
+  url: "/clan/clark/"
+- name: "Clark of Ulva"
+  url: "/families/clark-of-ulva/"
+- name: "Clark of Ulva"
+  url: "/tartans/c/cl/clark-of-ulva/"
 - name: "Clark of Ulva (Clan)"
   url: "/setts/y3dg3k4dg14k4dg3k14db18lo1db4lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dg3k4dg14k4dg3k14db18lo1db4lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKBYBY](/stripes/ggkgkgkbyby/).
+
+Part of the [Clark of Ulva](/tartans/c/cl/clark-of-ulva/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

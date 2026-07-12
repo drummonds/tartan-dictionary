@@ -6,7 +6,7 @@ This is the **Borthwick Dress** sett — one scale-free proportion (`g12k2r12k3w
 [GKRKWKWKW](/stripes/gkrkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [Borthwick Dress](/tartans/borthwick-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Borthwick Dress](/tartans/b/bo/borthwick-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

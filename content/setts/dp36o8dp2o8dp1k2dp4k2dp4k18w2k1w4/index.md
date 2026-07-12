@@ -6,6 +6,8 @@ This is the **Diamond Jubilee** sett — one scale-free proportion (`dp36o8dp2o8
 [BRBRBKBKBKWKW](/stripes/brbrbkbkbkwkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Diamond Jubilee](/tartans/d/di/diamond-jubilee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

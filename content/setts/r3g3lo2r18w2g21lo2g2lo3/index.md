@@ -6,6 +6,8 @@ This is the **MacDonald of Kingsburgh** sett — one scale-free proportion (`r3g
 [RGYRWGYGY](/stripes/rgyrwgygy/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
+Part of the [MacDonald of Kingsburgh](/tartans/m/ma/macdonald-of-kingsburgh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

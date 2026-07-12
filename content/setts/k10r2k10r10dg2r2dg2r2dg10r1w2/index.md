@@ -6,6 +6,8 @@ This is the **North Berwick Pipe Band (Dancing)** sett — one scale-free propor
 [KRKRGRGRGRW](/stripes/krkrgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [North Berwick Pipe Band](/tartans/n/no/north-berwick-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Matheson Hunting (Blue)** sett — one scale-free proportion (`y8d
 [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Matheson](/tartans/m/ma/matheson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

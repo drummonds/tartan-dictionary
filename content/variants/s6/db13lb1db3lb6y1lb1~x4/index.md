@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hepburn"
-  url: "/tartans/hepburn-3/"
+  url: "/tartans/h/he/hepburn-3/"
 - name: "Hepburn #2"
   url: "/setts/db13lb1db3lb6y1lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db13lb1db3lb6y1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGW](/stripes/bwbwgw/).
 
-Part of the [Hepburn](/tartans/hepburn-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hepburn](/tartans/h/he/hepburn-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

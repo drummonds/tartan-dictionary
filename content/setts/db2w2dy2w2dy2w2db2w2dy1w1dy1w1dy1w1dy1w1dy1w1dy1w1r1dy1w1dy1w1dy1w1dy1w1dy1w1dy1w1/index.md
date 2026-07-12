@@ -6,6 +6,8 @@ This is the **Invermark** sett — one scale-free proportion (`db2w2dy2w2dy2w2db
 [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwgwgwgwgwrgwgwgwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **~1990**.
 
+Part of the [Invermark](/tartans/i/in/invermark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

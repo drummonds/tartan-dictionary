@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ebronen"
-  url: "/tartans/ebronen/"
+  url: "/tartans/e/eb/ebronen/"
 - name: "Ebronen (Personal)"
   url: "/setts/dyi2dr30dyi6g2dy6dyi6g2dyi24y2dyi4y2dy24ly2dyi6y6dg2dyi6dg2y27dyi1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dyi2dr30dyi6g2dy6dyi6g2dyi24y2dyi4y2dy24ly2dyi6y6dg2dyi6dg2y27dyi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGGGGGGGGYGGGGGGG](/stripes/gbggggggggggyggggggg/).
 
-Part of the [Ebronen](/tartans/ebronen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ebronen](/tartans/e/eb/ebronen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

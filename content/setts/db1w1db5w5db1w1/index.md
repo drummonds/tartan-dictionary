@@ -6,6 +6,8 @@ This is the **Erskine Blanket** sett — one scale-free proportion (`db1w1db5w5d
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Erskine Blanket](/tartans/e/er/erskine-blanket/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

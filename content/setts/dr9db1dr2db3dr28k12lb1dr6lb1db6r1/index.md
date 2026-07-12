@@ -6,7 +6,7 @@ This is the **New York Caledonian Club Dress** sett — one scale-free proportio
 [BBBBBKWBWBR](/stripes/bbbbbkwbwbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [New York Caledonian Club Dress](/tartans/new-york-caledonian-club-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [New York Caledonian Club Dress](/tartans/n/ne/new-york-caledonian-club-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

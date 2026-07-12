@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Quebec"
+  url: "/tartans/q/qu/quebec/"
 - name: "Quebec (Commemorative)"
   url: "/setts/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRBRBRBRBRBRBRKWKBKBKBKBKBKBKBKWBW](/stripes/krbrbrbrbrbrbrbrkwkbkbkbkbkbkbkbkwbw/).
+
+Part of the [Quebec](/tartans/q/qu/quebec/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

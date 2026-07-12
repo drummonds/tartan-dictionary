@@ -6,6 +6,8 @@ This is the **MacLeod Black & White** sett — one scale-free proportion (`w14k2
 [WKWKW](/stripes/wkwkw/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [MacLeod B&W](/tartans/m/ma/macleod-b-w/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

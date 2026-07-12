@@ -6,6 +6,8 @@ This is the **Highland Wedding (Fashion)** sett — one scale-free proportion (`
 [BBKWGRBR](/stripes/bbkwgrbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Highland Wedding](/tartans/h/hi/highland-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

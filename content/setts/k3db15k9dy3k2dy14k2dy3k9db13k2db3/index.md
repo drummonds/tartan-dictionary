@@ -6,6 +6,8 @@ This is the **McWilliams (2014)** sett — one scale-free proportion (`k3db15k9d
 [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [McWilliams](/tartans/m/mc/mcwilliams/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Campbell of Cawdor Dress Trade Tartan** sett — one scale-free pr
 [BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB](/stripes/bkgkbkgkwbwbwbwbwkgkbkgkbkrkbkwbwbwb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Campbell of Cawdor Dress](/tartans/c/ca/campbell-of-cawdor-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Martin"
-  url: "/tartans/martin/"
+  url: "/tartans/m/ma/martin/"
 - name: "Martin"
   url: "/setts/lo4g10k3g3k3g3k9dr11k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lo4g10k3g3k3g3k9dr11k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGKGY](/stripes/kbkgkgkgy/).
 
-Part of the [Martin](/tartans/martin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Martin](/tartans/m/ma/martin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

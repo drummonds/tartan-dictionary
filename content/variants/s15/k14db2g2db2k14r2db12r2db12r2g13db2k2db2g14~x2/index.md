@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
+- name: "Lumsden"
+  url: "/tartans/l/lu/lumsden-3/"
 - name: "Lumsden Green"
   url: "/setts/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGRBRBRKBGBK](/stripes/gbkbgrbrbrkbgbk/).
+
+Part of the [Lumsden](/tartans/l/lu/lumsden-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

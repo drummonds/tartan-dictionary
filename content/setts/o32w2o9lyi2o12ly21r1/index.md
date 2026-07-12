@@ -6,6 +6,8 @@ This is the **Weathered Cyclist (Corporate)** sett — one scale-free proportion
 [RWRYRYR](/stripes/rwryryr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Weathered Cyclist](/tartans/w/we/weathered-cyclist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

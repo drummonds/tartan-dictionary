@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Hill"
   url: "/clan/hill/"
 - name: "Hill"
-  url: "/tartans/hill/"
+  url: "/tartans/h/hi/hill/"
 - name: "Hill (Name)"
   url: "/setts/w3db2y1db2y1db31k28r2k2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3db2y1db2y1db31k28r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBGBGBW](/stripes/krkbgbgbw/).
 
-Part of the [Hill](/tartans/hill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hill](/tartans/h/hi/hill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

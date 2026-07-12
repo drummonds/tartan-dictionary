@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Connecticut"
+  url: "/tartans/s/st/state-seal-of-connecticut/"
 - name: "State Seal of Connecticut (Fashion)"
   url: "/setts/dp4g6db4g28w4g6db6dbi46db1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4g6db4g28w4g6db6dbi46db1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWGBBBW](/stripes/bgbgwgbbbw/).
+
+Part of the [State Seal of Connecticut](/tartans/s/st/state-seal-of-connecticut/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

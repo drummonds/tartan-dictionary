@@ -6,6 +6,8 @@ This is the **M'Kleod** sett — one scale-free proportion (`n18k3g3r2w3db36k2y6
 [BKGRWBKG](/stripes/bkgrwbkg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [M'Kleod](/tartans/m/m/m-kleod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Savannah Harley Davidson** sett — one scale-free proportion (`k2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Savannah Harley Davidson](/tartans/s/sa/savannah-harley-davidson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

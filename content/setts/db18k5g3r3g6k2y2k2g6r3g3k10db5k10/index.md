@@ -6,6 +6,8 @@ This is the **MacClellan Clan Tartan** sett — one scale-free proportion (`db18
 [BKGRGKGKGRGKBK](/stripes/bkgrgkgkgrgkbk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacClellan](/tartans/m/ma/macclellan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

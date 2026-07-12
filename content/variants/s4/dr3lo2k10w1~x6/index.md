@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Eloi"
+  url: "/tartans/s/st/st-eloi/"
+- name: "St. Eloi"
   url: "/setts/dr3lo2k10w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lo2k10w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKWKY](/stripes/bykwky/).
+
+Part of the [St. Eloi](/tartans/s/st/st-eloi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

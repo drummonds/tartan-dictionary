@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Malcolm Dress"
-  url: "/tartans/malcolm-dress-2/"
+  url: "/tartans/m/ma/malcolm-dress-2/"
 - name: "Malcolm Dress"
   url: "/setts/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKYKGKGKBRBRBKWKWKWKWKW](/stripes/kgkykgkgkbrbrbkwkwkwkwkw/).
 
-Part of the [Malcolm Dress](/tartans/malcolm-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Malcolm Dress](/tartans/m/ma/malcolm-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

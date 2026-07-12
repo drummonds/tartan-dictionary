@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "RAF Leuchars"
+  url: "/tartans/r/ra/raf-leuchars/"
+- name: "RAF Leuchars"
   url: "/setts/lr2y11r2y11k2db6lb13k2lb3ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr2y11r2y11k2db6lb13k2lb3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGRGKBWKWY](/stripes/ygrgkbwkwy/).
+
+Part of the [RAF Leuchars](/tartans/r/ra/raf-leuchars/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

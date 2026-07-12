@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria"
+  url: "/tartans/v/vi/victoria/"
 - name: "Victoria (Australia)"
   url: "/setts/g24w2k4w2k8r2db51k2lb8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g24w2k4w2k8r2db51k2lb8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWKRBKWW](/stripes/gwkwkrbkww/).
+
+Part of the [Victoria](/tartans/v/vi/victoria/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

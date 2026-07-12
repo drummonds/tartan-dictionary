@@ -6,6 +6,8 @@ This is the **Royal Yacht Britannia** sett — one scale-free proportion (`k43dy
 [KGGWBGBR](/stripes/kggwbgbr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Royal Yacht Britannia](/tartans/r/ro/royal-yacht-britannia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

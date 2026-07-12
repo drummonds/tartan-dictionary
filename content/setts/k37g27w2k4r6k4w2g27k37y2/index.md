@@ -6,6 +6,8 @@ This is the **Highlands of Durham #2** sett — one scale-free proportion (`k37g
 [GKGWKRKWGK](/stripes/gkgwkrkwgk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Highlands of Durham](/tartans/h/hi/highlands-of-durham-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

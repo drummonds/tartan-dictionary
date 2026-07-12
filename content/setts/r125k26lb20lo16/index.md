@@ -6,7 +6,7 @@ This is the **McPeek (Fashion)** sett — one scale-free proportion (`r125k26lb2
 [RKWY](/stripes/rkwy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [McPeek](/tartans/mcpeek/) tartan — the named design grouping this sett with its kin.
+Part of the [McPeek](/tartans/m/mc/mcpeek/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

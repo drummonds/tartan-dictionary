@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Moran"
-  url: "/tartans/moran-2/"
+  url: "/tartans/m/mo/moran-2/"
 - name: "Moran (Coilessan) (Personal)"
   url: "/setts/lb26db13k13w2g8k5r3lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb26db13k13w2g8k5r3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKWGKRW](/stripes/wbkwgkrw/).
 
-Part of the [Moran](/tartans/moran-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moran](/tartans/m/mo/moran-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

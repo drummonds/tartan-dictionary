@@ -7,6 +7,8 @@ This is the **Queen Alexandra** sett — one scale-free proportion (`dg4r2dg2r16
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1979**.
 
+Part of the [Queen Alexandra](/tartans/q/qu/queen-alexandra-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

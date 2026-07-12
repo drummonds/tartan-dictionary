@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Ardshiel"
+  url: "/families/stewart-of-ardshiel/"
+- name: "Stewart of Ardshiel"
+  url: "/tartans/s/st/stewart-of-ardshiel-3/"
 - name: "Stewart of Ardshiel Clan Tartan"
   url: "/setts/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRBRBWRBRWBRGRRBW](/stripes/grrbrbwrbrwbrgrrbw/).
+
+Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

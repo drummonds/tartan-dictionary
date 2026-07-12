@@ -6,6 +6,8 @@ This is the **Scottish Spirit** sett — one scale-free proportion (`ni9r3ni32n1
 [BRBBKBKBKBKW](/stripes/brbbkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Scottish Spirit](/tartans/s/sc/scottish-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

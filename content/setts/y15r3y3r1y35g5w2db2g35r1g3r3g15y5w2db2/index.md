@@ -6,7 +6,7 @@ This is the **Keilar (2013)** sett — one scale-free proportion (`y15r3y3r1y35g
 [BWGGRGRGBWGGRGRG](/stripes/bwggrgrgbwggrgrg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Keilar](/tartans/keilar/) tartan — the named design grouping this sett with its kin.
+Part of the [Keilar](/tartans/k/ke/keilar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLagan"
+  url: "/clan/maclagan/"
+- name: "MacLagan of Glenquiech"
+  url: "/families/maclagan-of-glenquiech/"
+- name: "MacLagan of Glenquiech"
+  url: "/tartans/m/ma/maclagan-of-glenquiech/"
 - name: "MacLagan of Glenquiech"
   url: "/setts/r6db6r3db3r3db28k21g28r21k2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db6r3db3r3db28k21g28r21k2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGKBRBRBR](/stripes/gkrgkbrbrbr/).
+
+Part of the [MacLagan of Glenquiech](/tartans/m/ma/maclagan-of-glenquiech/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

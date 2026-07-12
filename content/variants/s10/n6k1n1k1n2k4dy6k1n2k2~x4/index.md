@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tyndrum"
-  url: "/tartans/tyndrum/"
+  url: "/tartans/t/ty/tyndrum/"
 - name: "Tyndrum District Tartan"
   url: "/setts/n6k1n1k1n2k4dy6k1n2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n6k1n1k1n2k4dy6k1n2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKBK](/stripes/bkbkbkgkbk/).
 
-Part of the [Tyndrum](/tartans/tyndrum/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tyndrum](/tartans/t/ty/tyndrum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

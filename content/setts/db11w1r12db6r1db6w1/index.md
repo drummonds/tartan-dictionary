@@ -7,7 +7,7 @@ This is the **Coronation** sett — one scale-free proportion (`db11w1r12db6r1db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
-Part of the [Coronation](/tartans/coronation/) tartan — the named design grouping this sett with its kin.
+Part of the [Coronation](/tartans/c/co/coronation/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

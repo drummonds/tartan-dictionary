@@ -6,6 +6,8 @@ This is the **Qatar Airways** sett — one scale-free proportion (`dr3n2dr6n21lb
 [BBBBWBWBWBWW](/stripes/bbbbwbwbwbww/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Qatar Airways](/tartans/q/qa/qatar-airways/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

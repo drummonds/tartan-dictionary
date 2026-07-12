@@ -6,7 +6,7 @@ This is the **Australian Heavy Horse (Corporate)** sett — one scale-free propo
 [WGBWBBKWGW](/stripes/wgbwbbkwgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Australian Heavy Horse](/tartans/australian-heavy-horse/) tartan — the named design grouping this sett with its kin.
+Part of the [Australian Heavy Horse](/tartans/a/au/australian-heavy-horse/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

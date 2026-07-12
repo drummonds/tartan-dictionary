@@ -7,6 +7,8 @@ This is the **Coigach** sett — one scale-free proportion (`r3w3k3w3r3db8k1y2k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [Coigach](/tartans/c/co/coigach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

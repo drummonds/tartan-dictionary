@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Australian Police"
+  url: "/tartans/a/au/australian-police/"
+- name: "Australian Police"
   url: "/setts/k5w5k5t11k3n17k30t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5w5k5t11k3n17k30t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWK](/stripes/bkbkbkwk/).
+
+Part of the [Australian Police](/tartans/a/au/australian-police/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

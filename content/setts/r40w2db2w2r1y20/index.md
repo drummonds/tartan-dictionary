@@ -6,6 +6,8 @@ This is the **National Defense** sett — one scale-free proportion (`r40w2db2w2
 [GRWBWR](/stripes/grwbwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [National Defense](/tartans/n/na/national-defense/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

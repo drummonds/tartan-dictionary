@@ -6,6 +6,8 @@ This is the **MacAulay** sett — one scale-free proportion (`k2r18g7r3g10w1g10r
 [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacAulay](/tartans/m/ma/macaulay-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

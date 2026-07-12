@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bonnie Prince Charlie"
+  url: "/tartans/b/bo/bonnie-prince-charlie-2/"
 - name: "Bonnie Prince Charlie (Hudson Bay)"
   url: "/setts/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGYYWBWYGBWWW](/stripes/wgbgyywbwygbwww/).
+
+Part of the [Bonnie Prince Charlie](/tartans/b/bo/bonnie-prince-charlie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

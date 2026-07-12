@@ -6,6 +6,8 @@ This is the **New York Caledonian Club Day** sett — one scale-free proportion 
 [GYGRGKWGWBR](/stripes/gygrgkwgwbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [New York Caledonian Club Day](/tartans/n/ne/new-york-caledonian-club-day/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

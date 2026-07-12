@@ -6,6 +6,8 @@ This is the **Jedforest** sett — one scale-free proportion (`k4db2g24r1g2r1g2k
 [KBGRGRGKBKBK](/stripes/kbgrgrgkbkbk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Jedforest](/tartans/j/je/jedforest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

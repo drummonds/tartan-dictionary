@@ -6,6 +6,8 @@ This is the **Heritage Tartan, The** sett — one scale-free proportion (`db8dr4
 [BBBGWG](/stripes/bbbgwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Heritage Tartan, The](/tartans/h/he/heritage-tartan-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

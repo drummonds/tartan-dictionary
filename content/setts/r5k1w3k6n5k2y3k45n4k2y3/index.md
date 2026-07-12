@@ -6,7 +6,7 @@ This is the **Williams Dress (Carolinas) (Personal)** sett — one scale-free pr
 [GKBKGKBKWKR](/stripes/gkbkgkbkwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Williams Dress](/tartans/williams-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Williams Dress](/tartans/w/wi/williams-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

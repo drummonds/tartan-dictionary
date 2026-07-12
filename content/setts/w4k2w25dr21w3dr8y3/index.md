@@ -6,6 +6,8 @@ This is the **MacPherson Dress Burgundy (Dance)** sett — one scale-free propor
 [GBWBWKW](/stripes/gbwbwkw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [MacPherson Dress Burgundy](/tartans/m/ma/macpherson-dress-burgundy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

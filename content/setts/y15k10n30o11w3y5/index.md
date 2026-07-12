@@ -6,6 +6,8 @@ This is the **McHale (Personal)** sett — one scale-free proportion (`y15k10n30
 [GKBRWG](/stripes/gkbrwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [McHale](/tartans/m/mc/mchale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

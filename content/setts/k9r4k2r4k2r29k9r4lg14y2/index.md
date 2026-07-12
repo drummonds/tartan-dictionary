@@ -6,6 +6,8 @@ This is the **Hannay Dress (Dance)** sett — one scale-free proportion (`k9r4k2
 [GYRKRKRKRK](/stripes/gyrkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Hannay Dress](/tartans/h/ha/hannay-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

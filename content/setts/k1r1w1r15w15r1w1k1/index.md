@@ -6,6 +6,8 @@ This is the **Bundy, Dress Red (Personal Dance)** sett — one scale-free propor
 [KRWRWRWK](/stripes/krwrwrwk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Bundy, Dress](/tartans/b/bu/bundy-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

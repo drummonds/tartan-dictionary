@@ -6,6 +6,8 @@ This is the **Oakland Centre** sett — one scale-free proportion (`w3r2w1k2r2`)
 [RKWRW](/stripes/rkwrw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Oakland Centre](/tartans/o/oa/oakland-centre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Salaberry-de-Valleyfield Cer. (Dis )** sett — one scale-free pro
 [BWBWBWRGKGWYKYW](/stripes/bwbwbwrgkgwykyw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Salaberry-de-Valleyfield Cer.](/tartans/s/sa/salaberry-de-valleyfield-cer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Visit Scotland Corporate)"
+  url: "/tartans/v/vi/visit-scotland-corporate/"
 - name: "Visit Scotland"
   url: "/setts/db51t4db7o2db2g2db2dg10db13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db51t4db7o2db2g2db2dg10db13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBGBGBW](/stripes/bbbrbgbgbw/).
+
+Part of the [Visit Scotland Corporate)](/tartans/v/vi/visit-scotland-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

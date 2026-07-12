@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hand, Edinburgh"
+  url: "/tartans/h/ha/hand-edinburgh/"
+- name: "Hand, Edinburgh"
   url: "/setts/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWBWGWW](/stripes/gbwbwbwbwgww/).
+
+Part of the [Hand, Edinburgh](/tartans/h/ha/hand-edinburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

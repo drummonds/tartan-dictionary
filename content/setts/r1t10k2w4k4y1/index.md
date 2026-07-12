@@ -6,7 +6,7 @@ This is the **Thomson Dress (Blue)** sett — one scale-free proportion (`r1t10k
 [GKWKBR](/stripes/gkwkbr/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Thomson Dress](/tartans/thomson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Thomson Dress](/tartans/t/th/thomson-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

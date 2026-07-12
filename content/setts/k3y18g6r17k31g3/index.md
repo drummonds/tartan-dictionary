@@ -6,6 +6,8 @@ This is the **MacMillan Varient (Unidentified)** sett — one scale-free proport
 [GKRGGK](/stripes/gkrggk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacMillan Variant](/tartans/m/ma/macmillan-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

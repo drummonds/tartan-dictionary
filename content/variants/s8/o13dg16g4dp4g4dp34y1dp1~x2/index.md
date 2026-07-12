@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather Mead"
-  url: "/tartans/heather-mead/"
+  url: "/tartans/h/he/heather-mead/"
 - name: "Heather Mead (Personal)"
   url: "/setts/o13dg16g4dp4g4dp34y1dp1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o13dg16g4dp4g4dp34y1dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGGR](/stripes/bgbgbggr/).
 
-Part of the [Heather Mead](/tartans/heather-mead/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heather Mead](/tartans/h/he/heather-mead/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

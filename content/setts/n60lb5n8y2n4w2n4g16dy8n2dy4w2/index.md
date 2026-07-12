@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Silver** sett — one scale-free proportion (`n60lb
 [BWBGBWBGGBGW](/stripes/bwbgbwbggbgw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Stuart Silver Commemorative](/tartans/s/st/stuart-silver-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

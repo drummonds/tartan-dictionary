@@ -6,7 +6,7 @@ This is the **Alexander Family Tartan** sett — one scale-free proportion (`r12
 [RBRBKGRGR](/stripes/rbrbkgrgr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Alexander](/tartans/alexander-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Alexander](/tartans/a/al/alexander-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

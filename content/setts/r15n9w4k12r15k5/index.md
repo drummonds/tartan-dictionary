@@ -6,6 +6,8 @@ This is the **Eastern Kentucky University** sett — one scale-free proportion (
 [KRKWBR](/stripes/krkwbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Eastern Kentucky University](/tartans/e/ea/eastern-kentucky-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

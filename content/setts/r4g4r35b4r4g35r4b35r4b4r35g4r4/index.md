@@ -6,6 +6,8 @@ This is the **Robertson 1** sett — one scale-free proportion (`r4g4r35b4r4g35r
 [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Robertson 1](/tartans/r/ro/robertson-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

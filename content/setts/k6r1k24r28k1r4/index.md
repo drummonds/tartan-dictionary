@@ -6,6 +6,8 @@ This is the **Aragon (Erskine)** sett — one scale-free proportion (`k6r1k24r28
 [KRKRKR](/stripes/krkrkr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Aragon](/tartans/a/ar/aragon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

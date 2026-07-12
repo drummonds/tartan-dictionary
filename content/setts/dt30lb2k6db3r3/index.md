@@ -7,7 +7,7 @@ This is the **Edinburgh Crystal** sett — one scale-free proportion (`dt30lb2k6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh Crystal](/tartans/e/ed/edinburgh-crystal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

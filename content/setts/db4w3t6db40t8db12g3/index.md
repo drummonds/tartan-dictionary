@@ -6,6 +6,8 @@ This is the **JetBlue (Corporate)** sett — one scale-free proportion (`db4w3t6
 [BWBBBBG](/stripes/bwbbbbg/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [JetBlue](/tartans/j/je/jetblue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

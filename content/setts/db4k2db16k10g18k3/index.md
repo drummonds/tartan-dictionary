@@ -6,6 +6,8 @@ This is the **Wartley Htg (Fashion)** sett — one scale-free proportion (`db4k2
 [BKBKGK](/stripes/bkbkgk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Wartley Hunting](/tartans/w/wa/wartley-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

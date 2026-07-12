@@ -6,6 +6,8 @@ This is the **Mantle (Personal)** sett — one scale-free proportion (`dr3g2dr3g
 [BGBGKWBG](/stripes/bgbgkwbg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Mantle](/tartans/m/ma/mantle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

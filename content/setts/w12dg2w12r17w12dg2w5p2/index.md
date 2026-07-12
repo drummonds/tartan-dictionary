@@ -6,6 +6,8 @@ This is the **Milne (Personal)** sett — one scale-free proportion (`w12dg2w12r
 [BWGWRWGW](/stripes/bwgwrwgw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Milne](/tartans/m/mi/milne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

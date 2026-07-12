@@ -6,6 +6,8 @@ This is the **MacMugen** sett — one scale-free proportion (`k3b16k4b3k12w2`), 
 [KBKBKW](/stripes/kbkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacMugen](/tartans/m/ma/macmugen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

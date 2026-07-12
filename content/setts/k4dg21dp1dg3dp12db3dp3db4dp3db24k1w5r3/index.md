@@ -6,7 +6,7 @@ This is the **Robert Lee Jordan Defiance (Personal)** sett — one scale-free pr
 [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Robert Lee Jordan Defiance](/tartans/robert-lee-jordan-defiance/) tartan — the named design grouping this sett with its kin.
+Part of the [Robert Lee Jordan Defiance](/tartans/r/ro/robert-lee-jordan-defiance/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacInnes Dress (Dalgliesh)** sett — one scale-free proportion (`
 [GWGKGKGWKBGR](/stripes/gwgkgkgwkbgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [MacInnes Dress](/tartans/macinnes-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInnes Dress](/tartans/m/ma/macinnes-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

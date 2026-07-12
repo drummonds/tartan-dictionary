@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Ochtertyre"
+  url: "/families/murray-of-ochtertyre/"
+- name: "Murray of Ochtertyre"
+  url: "/tartans/m/mu/murray-of-ochtertyre-2/"
 - name: "Murray of Ochtertyre"
   url: "/setts/k8r1k1r1k1r10k10r1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8r1k1r1k1r10k10r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRKRKR](/stripes/krkrkrkrkrkrkrkr/).
+
+Part of the [Murray of Ochtertyre](/tartans/m/mu/murray-of-ochtertyre-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

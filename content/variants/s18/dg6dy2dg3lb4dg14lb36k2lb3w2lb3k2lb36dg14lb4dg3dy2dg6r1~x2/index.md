@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sarasota"
-  url: "/tartans/sarasota/"
+  url: "/tartans/s/sa/sarasota/"
 - name: "Sarasota - Dunfermline District Tartan"
   url: "/setts/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg6dy2dg3lb4dg14lb36k2lb3w2lb3k2lb36dg14lb4dg3dy2dg6r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGWKWWWKWGWGGGR](/stripes/gggwgwkwwwkwgwgggr/).
 
-Part of the [Sarasota](/tartans/sarasota/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sarasota](/tartans/s/sa/sarasota/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

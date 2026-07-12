@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dixon, Clyde"
+  url: "/tartans/d/di/dixon-clyde/"
 - name: "Dixon, Clyde (Personal)"
   url: "/setts/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGYGGRYRYRYRY](/stripes/bggggyggryryryry/).
+
+Part of the [Dixon, Clyde](/tartans/d/di/dixon-clyde/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

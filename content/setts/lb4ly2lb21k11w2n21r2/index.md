@@ -6,6 +6,8 @@ This is the **Barbour -Modern** sett — one scale-free proportion (`lb4ly2lb21k
 [RBWKWYW](/stripes/rbwkwyw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Barbour -Modern](/tartans/b/ba/barbour-modern/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

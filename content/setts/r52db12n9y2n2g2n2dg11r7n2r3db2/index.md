@@ -6,6 +6,8 @@ This is the **McPrato** sett — one scale-free proportion (`r52db12n9y2n2g2n2dg
 [BRBRGBGBGBBR](/stripes/brbrgbgbgbbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [McPrato](/tartans/m/mc/mcprato/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

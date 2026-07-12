@@ -6,6 +6,8 @@ This is the **Green Watch** sett — one scale-free proportion (`dg10ly1dg1ly1lr
 [GYGYYGY](/stripes/gygyygy/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Green Watch](/tartans/g/gr/green-watch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

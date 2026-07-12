@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sackett"
+  url: "/tartans/s/sa/sackett/"
+- name: "Sackett"
   url: "/setts/k8dy8k1dy8k8lb1dg8k1dg8k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8dy8k1dy8k8lb1dg8k1dg8k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWGKGKGKGWKGKGK](/stripes/gkgkwgkgkgkgwkgkgk/).
+
+Part of the [Sackett](/tartans/s/sa/sackett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

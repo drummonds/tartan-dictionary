@@ -6,6 +6,8 @@ This is the **Manitoba Cue Sports** sett — one scale-free proportion (`k8g4r1k
 [GKGKGGKRGK](/stripes/gkgkggkrgk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Manitoba Cue Sports](/tartans/m/ma/manitoba-cue-sports/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

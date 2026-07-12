@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "First Special Service Force"
-  url: "/tartans/first-special-service-force/"
+  url: "/tartans/f/fi/first-special-service-force/"
 - name: "First Special Service Force"
   url: "/setts/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8k14r6ly6r34k10r6w6r6k64r44db9r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
 
-Part of the [First Special Service Force](/tartans/first-special-service-force/) tartan — the named design grouping this sett with its other cloths.
+Part of the [First Special Service Force](/tartans/f/fi/first-special-service-force/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

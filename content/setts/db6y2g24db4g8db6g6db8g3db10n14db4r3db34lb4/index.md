@@ -6,7 +6,7 @@ This is the **Matchpoint Hunting** sett — one scale-free proportion (`db6y2g24
 [BGGBGBGBGBBBRBW](/stripes/bggbgbgbgbbbrbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Matchpoint Hunting](/tartans/matchpoint-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Matchpoint Hunting](/tartans/m/ma/matchpoint-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

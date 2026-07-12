@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacBean"
+  url: "/clan/macbean/"
+- name: "MacBean of Tomatin"
+  url: "/families/macbean-of-tomatin/"
+- name: "MacBean of Tomatin"
+  url: "/tartans/m/ma/macbean-of-tomatin/"
 - name: "MacBean of Tomatin (Clan)"
   url: "/setts/db3dr19db13dr5g21dr8db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dr19db13dr5g21dr8db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBB](/stripes/bbbbgbb/).
+
+Part of the [MacBean of Tomatin](/tartans/m/ma/macbean-of-tomatin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

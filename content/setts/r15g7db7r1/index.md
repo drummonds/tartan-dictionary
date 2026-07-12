@@ -6,6 +6,8 @@ This is the **Hugh Fraser of Boblainy** sett — one scale-free proportion (`r15
 [RBGR](/stripes/rbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hugh Fraser of Boblainy](/tartans/h/hu/hugh-fraser-of-boblainy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

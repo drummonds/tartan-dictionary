@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunnotar"
+  url: "/tartans/d/du/dunnotar/"
 - name: "Dunnotar (School)"
   url: "/setts/k72w3k11db9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k72w3k11db9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWK](/stripes/bkwk/).
+
+Part of the [Dunnotar](/tartans/d/du/dunnotar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

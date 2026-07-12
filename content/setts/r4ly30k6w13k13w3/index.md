@@ -6,6 +6,8 @@ This is the **Thomson, Camel (Fashion)** sett — one scale-free proportion (`r4
 [RYKWKW](/stripes/rykwkw/). It is recorded as a single **variant**, below.
 First attested **~1960**.
 
+Part of the [Thomson Camel](/tartans/t/th/thomson-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Brooke** sett — one scale-free proportion (`y2w2r2k14g20k16b2lb1
 [BWBKGKRWG](/stripes/bwbkgkrwg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Brooke](/tartans/brooke/) tartan — the named design grouping this sett with its kin.
+Part of the [Brooke](/tartans/b/br/brooke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

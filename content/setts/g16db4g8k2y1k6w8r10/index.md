@@ -6,6 +6,8 @@ This is the **Red Deer, City of** sett — one scale-free proportion (`g16db4g8k
 [GBGKGKWR](/stripes/gbgkgkwr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Red Deer, City of](/tartans/r/re/red-deer-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

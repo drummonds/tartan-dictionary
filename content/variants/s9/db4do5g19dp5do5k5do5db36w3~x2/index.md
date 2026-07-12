@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Suzugamine"
+  url: "/tartans/s/su/suzugamine/"
 - name: "Suzugamine (Corporate)"
   url: "/setts/db4do5g19dp5do5k5do5db36w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4do5g19dp5do5k5do5db36w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBKBBW](/stripes/bbgbbkbbw/).
+
+Part of the [Suzugamine](/tartans/s/su/suzugamine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

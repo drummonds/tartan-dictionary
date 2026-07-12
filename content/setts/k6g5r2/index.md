@@ -6,6 +6,8 @@ This is the **Glen Lyon #1** sett — one scale-free proportion (`k6g5r2`), colo
 [GRGK](/stripes/grgk/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Glen Lyon](/tartans/g/gl/glen-lyon-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

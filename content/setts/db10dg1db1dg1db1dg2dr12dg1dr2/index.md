@@ -6,6 +6,8 @@ This is the **Lawlis/Lawless** sett — one scale-free proportion (`db10dg1db1dg
 [BGBGBGBGB](/stripes/bgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Lawlis/Lawless](/tartans/l/la/lawlis-lawless/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

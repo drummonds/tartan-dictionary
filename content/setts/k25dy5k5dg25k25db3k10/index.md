@@ -6,6 +6,8 @@ This is the **London Community Gospel Choir, The** sett — one scale-free propo
 [KBKGKGK](/stripes/kbkgkgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [London Community Gospel Choir, The](/tartans/l/lo/london-community-gospel-choir-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

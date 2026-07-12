@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Myron"
-  url: "/tartans/myron/"
+  url: "/tartans/m/my/myron/"
 - name: "Myron Family Tartan"
   url: "/setts/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGGGGGBKBKBKBGR](/stripes/kgbgggggbkbkbkbgr/).
 
-Part of the [Myron](/tartans/myron/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Myron](/tartans/m/my/myron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

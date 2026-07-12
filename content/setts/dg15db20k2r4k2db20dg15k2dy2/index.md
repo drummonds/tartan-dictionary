@@ -6,6 +6,8 @@ This is the **Manroth (Personal)** sett — one scale-free proportion (`dg15db20
 [GBKRKBGKG](/stripes/gbkrkbgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Manroth](/tartans/m/ma/manroth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Forth** sett — one scale-free proportion (`db4k3db23k9g2lb2g2lb2
 [BKBKGWGWGKG](/stripes/bkbkgwgwgkg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Forth](/tartans/forth/) tartan — the named design grouping this sett with its kin.
+Part of the [Forth](/tartans/f/fo/forth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

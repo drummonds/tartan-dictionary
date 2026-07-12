@@ -6,7 +6,7 @@ This is the **Poulter Hoylake** sett — one scale-free proportion (`w69dg14w13d
 [WGWGBYBGWGWGW](/stripes/wgwgbybgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Poulter Hoylake](/tartans/poulter-hoylake/) tartan — the named design grouping this sett with its kin.
+Part of the [Poulter Hoylake](/tartans/p/po/poulter-hoylake/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

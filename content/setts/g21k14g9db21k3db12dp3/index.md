@@ -6,7 +6,7 @@ This is the **Scotsman** sett — one scale-free proportion (`g21k14g9db21k3db12
 [BBKBGKG](/stripes/bbkbgkg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Scotsman](/tartans/scotsman/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotsman](/tartans/s/sc/scotsman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

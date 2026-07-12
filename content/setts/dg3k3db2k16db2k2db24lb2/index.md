@@ -6,6 +6,8 @@ This is the **Auckland (Fashion)** sett — one scale-free proportion (`dg3k3db2
 [GKBKBKBW](/stripes/gkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Auckland](/tartans/a/au/auckland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

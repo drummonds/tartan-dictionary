@@ -6,6 +6,8 @@ This is the **McMillen Memorial, Hugh E. (Personal)** sett — one scale-free pr
 [KKBKKKBWKRKK](/stripes/kkbkkkbwkrkk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [McMillen Memorial, Hugh E.](/tartans/m/mc/mcmillen-memorial-hugh-e-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

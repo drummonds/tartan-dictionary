@@ -6,6 +6,8 @@ This is the **Black Watch (Pendleton)** sett — one scale-free proportion (`t3k
 [BGBBKB](/stripes/bgbbkb/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Black Watch](/tartans/b/bl/black-watch-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

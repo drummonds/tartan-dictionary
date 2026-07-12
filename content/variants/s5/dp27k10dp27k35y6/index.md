@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moorlands"
+  url: "/tartans/m/mo/moorlands/"
 - name: "Moorlands (Corporate)"
   url: "/setts/dp27k10dp27k35y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp27k10dp27k35y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKG](/stripes/bkbkg/).
+
+Part of the [Moorlands](/tartans/m/mo/moorlands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

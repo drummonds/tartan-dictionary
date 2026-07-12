@@ -6,7 +6,7 @@ This is the **Abercrombie** sett — one scale-free proportion (`db7k2db2k2db2k7
 [BKBKBKGWG](/stripes/bkbkbkgwg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Abercrombie](/tartans/abercrombie-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Abercrombie](/tartans/a/ab/abercrombie-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

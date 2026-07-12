@@ -6,6 +6,8 @@ This is the **British Airways (Corporate)** sett — one scale-free proportion (
 [WBRRBWRWRWRWGGY](/stripes/wbrrbwrwrwrwggy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [British Airways](/tartans/b/br/british-airways/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

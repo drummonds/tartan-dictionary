@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Breckon"
+  url: "/tartans/b/br/breckon/"
 - name: "Breckon (Name)"
   url: "/setts/k3ly1k14dr14ly1dr1ly1dr1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3ly1k14dr14ly1dr1ly1dr1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYBYBKYK](/stripes/kbybybkyk/).
+
+Part of the [Breckon](/tartans/b/br/breckon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

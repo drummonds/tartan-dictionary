@@ -6,6 +6,8 @@ This is the **Jubilee (Artefact)** sett — one scale-free proportion (`g3lb24g8
 [GWGWGBGWGWGYGWGWG](/stripes/gwgwgbgwgwgygwgwg/). It is recorded as a single **variant**, below.
 First attested **1936**.
 
+Part of the [Jubilee](/tartans/j/ju/jubilee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

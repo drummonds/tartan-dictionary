@@ -6,6 +6,8 @@ This is the **Holden Black (Corporate)** sett — one scale-free proportion (`n1
 [BKBKBKR](/stripes/bkbkbkr/). It is recorded as a single **variant**, below.
 First attested **~1977**.
 
+Part of the [Holden](/tartans/h/ho/holden-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

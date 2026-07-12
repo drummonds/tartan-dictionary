@@ -6,6 +6,8 @@ This is the **Recovery Dress** sett — one scale-free proportion (`r1k1w8dg1db1
 [RKWGBGBGBGBWBWBGBGBGBGWKY](/stripes/rkwgbgbgbgbwbwbgbgbgbgwky/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Recovery Dress](/tartans/r/re/recovery-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

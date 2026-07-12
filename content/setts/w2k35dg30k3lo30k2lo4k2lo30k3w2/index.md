@@ -6,6 +6,8 @@ This is the **Vaughan (Welsh Series)** sett — one scale-free proportion (`w2k3
 [WKGKYKYKYKW](/stripes/wkgkykykykw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Vaughan](/tartans/v/va/vaughan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

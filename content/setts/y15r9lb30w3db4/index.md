@@ -6,6 +6,8 @@ This is the **S.I.D.E. (Corporate)** sett — one scale-free proportion (`y15r9l
 [BWWRG](/stripes/bwwrg/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [S.I.D.E.](/tartans/s/s/s-i-d-e/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

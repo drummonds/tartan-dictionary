@@ -6,6 +6,8 @@ This is the **Cork County Crest (Fashion)** sett — one scale-free proportion (
 [RKRKRBYKBKW](/stripes/rkrkrbykbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Cork County Crest](/tartans/c/co/cork-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

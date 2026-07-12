@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies 1819"
+  url: "/tartans/m/me/menzies-1819/"
 - name: "Menzies #2"
   url: "/setts/r22g17w2lg6r19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r22g17w2lg6r19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWYR](/stripes/rgwyr/).
+
+Part of the [Menzies 1819](/tartans/m/me/menzies-1819/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

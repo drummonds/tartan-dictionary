@@ -7,7 +7,7 @@ This is the **Shaw of Tordarroch Clan Tartan** sett — one scale-free proportio
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1969**.
 
-Part of the [Shaw of Tordarroch](/tartans/shaw-of-tordarroch-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

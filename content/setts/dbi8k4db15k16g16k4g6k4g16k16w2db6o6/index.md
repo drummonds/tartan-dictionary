@@ -6,7 +6,7 @@ This is the **Free (Universal)** sett — one scale-free proportion (`dbi8k4db15
 [BKBKGKGKGKWBR](/stripes/bkbkgkgkgkwbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Free](/tartans/free/) tartan — the named design grouping this sett with its kin.
+Part of the [Free](/tartans/f/fr/free/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

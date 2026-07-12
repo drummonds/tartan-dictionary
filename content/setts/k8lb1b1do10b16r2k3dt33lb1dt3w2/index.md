@@ -6,6 +6,8 @@ This is the **Lomond Mist** sett — one scale-free proportion (`k8lb1b1do10b16r
 [KWBBBRKBWBW](/stripes/kwbbbrkbwbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Lomond Mist](/tartans/l/lo/lomond-mist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

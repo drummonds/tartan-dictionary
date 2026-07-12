@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Round Table Sweden"
+  url: "/tartans/r/ro/round-table-sweden/"
+- name: "Round Table Sweden"
   url: "/setts/r3lo15g4db6w2r30db6ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3lo15g4db6w2r30db6ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYGBWRBY](/stripes/rygbwrby/).
+
+Part of the [Round Table Sweden](/tartans/r/ro/round-table-sweden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

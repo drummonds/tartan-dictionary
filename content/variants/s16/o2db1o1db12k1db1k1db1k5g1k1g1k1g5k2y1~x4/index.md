@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Herriot"
+  url: "/tartans/h/he/herriot-2/"
 - name: "Herriot (Personal)"
   url: "/setts/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKBKBKBRBR](/stripes/gkgkgkgkbkbkbrbr/).
+
+Part of the [Herriot](/tartans/h/he/herriot-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **Scottish Heritage** sett — one scale-free proportion (`k2dbi6k1d
 [KBKBGKBR](/stripes/kbkbgkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Heritage](/tartans/s/sc/scottish-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

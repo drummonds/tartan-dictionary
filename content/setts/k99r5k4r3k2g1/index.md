@@ -6,6 +6,8 @@ This is the **Allt Dubh (Black Burn)** sett — one scale-free proportion (`k99r
 [GKRKRK](/stripes/gkrkrk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Allt Dubh](/tartans/a/al/allt-dubh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hamilton"
+  url: "/clan/hamilton/"
+- name: "Hamilton"
+  url: "/tartans/h/ha/hamilton-5/"
 - name: "Hamilton, Red"
   url: "/setts/dr32lo4dr32o23dr4o23dr4o23/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr32lo4dr32o23dr4o23dr4o23/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBRBRBR](/stripes/bybrbrbr/).
+
+Part of the [Hamilton](/tartans/h/ha/hamilton-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

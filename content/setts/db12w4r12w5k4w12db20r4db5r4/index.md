@@ -6,6 +6,8 @@ This is the **Commonwealth Games 1986 Special Event Tartan** sett — one scale-
 [BWRWKWBRBR](/stripes/bwrwkwbrbr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Commonwealth Games 1986 Special Event](/tartans/c/co/commonwealth-games-1986-special-event/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -19,5 +19,5 @@ A family of [Clan MacGregor (Clan Gregor)](/clan/macgregor/).
 </tbody>
 </table>
 
-[See the MacGregor of Balquhidder tartan and all its setts →](/tartans/macgregor-of-balquhidder/)
+[See the MacGregor of Balquhidder tartan and all its setts →](/tartans/m/ma/macgregor-of-balquhidder/)
 

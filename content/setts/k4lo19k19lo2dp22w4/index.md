@@ -6,7 +6,7 @@ This is the **Dutch** sett — one scale-free proportion (`k4lo19k19lo2dp22w4`),
 [KYKYBW](/stripes/kykybw/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Dutch](/tartans/dutch/) tartan — the named design grouping this sett with its kin.
+Part of the [Dutch](/tartans/d/du/dutch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

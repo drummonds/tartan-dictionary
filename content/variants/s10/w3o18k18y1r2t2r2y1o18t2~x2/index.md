@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Selkirk High"
+  url: "/tartans/s/se/selkirk-high/"
 - name: "Selkirk High (Corporate)"
   url: "/setts/w3o18k18y1r2t2r2y1o18t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3o18k18y1r2t2r2y1o18t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRGKRW](/stripes/brgrbrgkrw/).
+
+Part of the [Selkirk High](/tartans/s/se/selkirk-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

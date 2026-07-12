@@ -6,7 +6,7 @@ This is the **Stewart Dress** sett — one scale-free proportion (`w36db5k5y1k1w
 [WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Stewart Dress](/tartans/stewart-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart Dress](/tartans/s/st/stewart-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

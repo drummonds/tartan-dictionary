@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kyle Pink"
+  url: "/tartans/k/ky/kyle-pink/"
 - name: "Kyle, Pink (Dance)"
   url: "/setts/r17k1r2dpi2r2k1r3dp8w17y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r17k1r2dpi2r2k1r3dp8w17y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBRKRBRKR](/stripes/gwbrkrbrkr/).
+
+Part of the [Kyle Pink](/tartans/k/ky/kyle-pink/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Kennedy #3** sett — one scale-free proportion (`g24dp4k3dp3k3dp3
 [GBKBKBKBGRGRGYGKGYGRGRGBKBKBKBGR](/stripes/gbkbkbkbgrgrgygkgygrgrgbkbkbkbgr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Kennedy](/tartans/k/ke/kennedy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

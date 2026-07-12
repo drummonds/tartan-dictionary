@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Burns"
-  url: "/tartans/burns/"
+  url: "/tartans/b/bu/burns/"
 - name: "Burns 1930"
   url: "/setts/r2g2r2g8r2g2r2db2r11y1r4y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2g2r2g8r2g2r2db2r11y1r4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRGRGRGR](/stripes/grgrbrgrgrgr/).
 
-Part of the [Burns](/tartans/burns/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Burns](/tartans/b/bu/burns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

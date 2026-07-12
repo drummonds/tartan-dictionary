@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moran"
+  url: "/tartans/m/mo/moran-4/"
 - name: "Moran (French) (Name)"
   url: "/setts/dg67k2dg2k2dg2y8r8k8y2lb7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg67k2dg2k2dg2y8r8k8y2lb7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGGRKGW](/stripes/gkgkggrkgw/).
+
+Part of the [Moran](/tartans/m/mo/moran-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

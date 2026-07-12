@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Maynard"
+  url: "/tartans/d/de/de-maynard/"
 - name: "De Maynard (Personal)"
   url: "/setts/dp2r9g8r4y1r4db10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2r9g8r4y1r4db10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRBW](/stripes/brgrgrbw/).
+
+Part of the [De Maynard](/tartans/d/de/de-maynard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

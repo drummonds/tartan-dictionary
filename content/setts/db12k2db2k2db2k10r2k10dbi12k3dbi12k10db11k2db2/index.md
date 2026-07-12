@@ -6,7 +6,7 @@ This is the **Mundigl Family Tartan** sett — one scale-free proportion (`db12k
 [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Mundigl](/tartans/mundigl/) tartan — the named design grouping this sett with its kin.
+Part of the [Mundigl](/tartans/m/mu/mundigl/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

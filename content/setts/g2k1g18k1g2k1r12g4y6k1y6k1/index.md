@@ -7,7 +7,7 @@ This is the **MacMillan Ancient** sett — one scale-free proportion (`g2k1g18k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1847**.
 
-Part of the [MacMillan](/tartans/macmillan-6/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan](/tartans/m/ma/macmillan-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

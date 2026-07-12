@@ -6,6 +6,8 @@ This is the **Prestoungrange (Personal)** sett — one scale-free proportion (`g
 [BKBKBGKGKGRGWG](/stripes/bkbkbgkgkgrgwg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Prestoungrange](/tartans/p/pr/prestoungrange/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

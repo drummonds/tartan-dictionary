@@ -6,7 +6,7 @@ This is the **Loch Lomond #3** sett — one scale-free proportion (`g22w14r7ly2`
 [GWRY](/stripes/gwry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Loch Lomond](/tartans/loch-lomond-5/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Lomond](/tartans/l/lo/loch-lomond-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Buccleuch (Fashion)** sett — one scale-free proportion (`ly15k1l
 [WGKYKYKY](/stripes/wgkykyky/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Buccleuch](/tartans/b/bu/buccleuch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLeroy and Troine 1987"
+  url: "/tartans/m/ma/macleroy-and-troine-1987/"
+- name: "MacLeroy and Troine 1987"
   url: "/setts/k4db6w4db6do8db37lr12do46r6y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db6w4db6do8db37lr12do46r6y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBYBBBWBK](/stripes/grbybbbwbk/).
+
+Part of the [MacLeroy and Troine 1987](/tartans/m/ma/macleroy-and-troine-1987/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Carrick** sett — one scale-free proportion (`r28db12r3g20m1g2m1g
 [RBRGRGRGR](/stripes/rbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Carrick](/tartans/c/ca/carrick-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

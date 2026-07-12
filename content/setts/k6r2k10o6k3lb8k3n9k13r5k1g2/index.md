@@ -6,6 +6,8 @@ This is the **Dilanan (Musselburgh) (Personal)** sett — one scale-free proport
 [GKRKBKWKRKRK](/stripes/gkrkbkwkrkrk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dilanan](/tartans/d/di/dilanan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

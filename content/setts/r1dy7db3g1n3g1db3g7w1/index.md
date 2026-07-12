@@ -6,6 +6,8 @@ This is the **Adamson (Personal)** sett — one scale-free proportion (`r1dy7db3
 [RGBGBGBGW](/stripes/rgbgbgbgw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Adamson](/tartans/a/ad/adamson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

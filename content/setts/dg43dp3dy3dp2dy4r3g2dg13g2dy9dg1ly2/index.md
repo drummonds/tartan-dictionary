@@ -6,6 +6,8 @@ This is the **Berry Tribute** sett — one scale-free proportion (`dg43dp3dy3dp2
 [GBGBGRGGGGGY](/stripes/gbgbgrgggggy/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Berry Tribute](/tartans/b/be/berry-tribute/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

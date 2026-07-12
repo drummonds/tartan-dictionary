@@ -6,6 +6,8 @@ This is the **Trotter (Personal)** sett — one scale-free proportion (`b23dt2b2
 [BBBBBBRBB](/stripes/bbbbbbrbb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Trotter](/tartans/t/tr/trotter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

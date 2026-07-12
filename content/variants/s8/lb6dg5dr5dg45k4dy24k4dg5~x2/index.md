@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Neill"
-  url: "/tartans/o-neill-7/"
+  url: "/tartans/o/o/o-neill-7/"
 - name: "O'Neill Clan/Family Tartan"
   url: "/setts/lb6dg5dr5dg45k4dy24k4dg5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb6dg5dr5dg45k4dy24k4dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGWGBGKGK](/stripes/gkgkgbgwgbgkgk/).
 
-Part of the [O'Neill](/tartans/o-neill-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [O'Neill](/tartans/o/o/o-neill-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

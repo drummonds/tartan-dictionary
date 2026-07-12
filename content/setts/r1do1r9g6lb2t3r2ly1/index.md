@@ -6,7 +6,7 @@ This is the **Battle of Bannockburn, The** sett — one scale-free proportion (`
 [RBRGWBRY](/stripes/rbrgwbry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Battle of Bannockburn, The](/tartans/battle-of-bannockburn-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Battle of Bannockburn, The](/tartans/b/ba/battle-of-bannockburn-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

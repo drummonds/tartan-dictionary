@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell, Sir Walter Scott"
+  url: "/tartans/c/ca/campbell-sir-walter-scott/"
 - name: "Campbell, Sir Walter Scott"
   url: "/setts/k2g8db2k9dp7k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g8db2k9dp7k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGK](/stripes/kbkbgk/).
+
+Part of the [Campbell, Sir Walter Scott](/tartans/c/ca/campbell-sir-walter-scott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

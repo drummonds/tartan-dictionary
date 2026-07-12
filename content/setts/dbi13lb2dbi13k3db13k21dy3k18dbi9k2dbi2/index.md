@@ -6,6 +6,8 @@ This is the **Haus of RvR** sett — one scale-free proportion (`dbi13lb2dbi13k3
 [BKBKGKBKBWB](/stripes/bkbkgkbkbwb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Haus of RvR](/tartans/h/ha/haus-of-rvr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tulsa, City of"
+  url: "/tartans/t/tu/tulsa-city-of/"
+- name: "Tulsa, City of"
   url: "/setts/dg14db8dg14r14k3r14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg14db8dg14r14k3r14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRKR](/stripes/gbgrkr/).
+
+Part of the [Tulsa, City of](/tartans/t/tu/tulsa-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

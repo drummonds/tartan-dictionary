@@ -6,7 +6,7 @@ This is the **Platt Family Tartan** sett — one scale-free proportion (`g8db3y1
 [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/). It is recorded as a single **variant**, below.
 First attested **~1966**.
 
-Part of the [Platt](/tartans/platt/) tartan — the named design grouping this sett with its kin.
+Part of the [Platt](/tartans/p/pl/platt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

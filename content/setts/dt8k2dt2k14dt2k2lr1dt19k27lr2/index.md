@@ -6,6 +6,8 @@ This is the **Pride of Scotland, Muted (Fashion)** sett — one scale-free propo
 [BKBKBKYBKY](/stripes/bkbkbkybky/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Pride of Scotland](/tartans/p/pr/pride-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

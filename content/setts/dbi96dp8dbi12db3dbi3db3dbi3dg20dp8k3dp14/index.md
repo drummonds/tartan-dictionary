@@ -6,6 +6,8 @@ This is the **Spirit of Scotland (Corporate)** sett — one scale-free proportio
 [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [Spirit of Scotland](/tartans/s/sp/spirit-of-scotland-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

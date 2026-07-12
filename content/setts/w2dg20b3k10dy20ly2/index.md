@@ -6,6 +6,8 @@ This is the **Morris of Balgonie Htg (Personal)** sett — one scale-free propor
 [WGBKGY](/stripes/wgbkgy/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Morris of Balgonie Hunting](/tartans/m/mo/morris-of-balgonie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

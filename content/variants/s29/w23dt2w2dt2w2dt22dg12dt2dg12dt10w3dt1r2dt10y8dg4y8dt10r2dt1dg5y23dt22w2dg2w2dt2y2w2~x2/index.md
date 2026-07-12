@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "House of Timber Wolf"
+  url: "/tartans/h/ho/house-of-timber-wolf/"
 - name: "House of Timber Wolf (Personal)"
   url: "/setts/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbgggbrbggbwgwbgw/).
+
+Part of the [House of Timber Wolf](/tartans/h/ho/house-of-timber-wolf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

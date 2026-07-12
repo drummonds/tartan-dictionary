@@ -6,6 +6,8 @@ This is the **Bro-sant-Malou** sett — one scale-free proportion (`k3r24lb16w11
 [GGWWRK](/stripes/ggwwrk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-sant-Malou](/tartans/b/br/bro-sant-malou/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

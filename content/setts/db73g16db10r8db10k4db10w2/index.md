@@ -7,6 +7,8 @@ This is the **Scotch Whisky Heritage Centre** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1987**.
 
+Part of the [Scotch Whisky Heritage](/tartans/s/sc/scotch-whisky-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

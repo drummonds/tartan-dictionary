@@ -6,6 +6,8 @@ This is the **Seacliff Academy** sett — one scale-free proportion (`k46w1ki3lb
 [KWKWKBKBKW](/stripes/kwkwkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Seacliff Academy](/tartans/s/se/seacliff-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

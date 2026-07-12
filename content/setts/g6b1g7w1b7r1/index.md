@@ -7,6 +7,8 @@ This is the **Norris (1957)** sett — one scale-free proportion (`g6b1g7w1b7r1`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1957**.
 
+Part of the [Norris](/tartans/n/no/norris-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

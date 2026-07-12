@@ -6,6 +6,8 @@ This is the **Lochnagar Dark (Fashion)** sett — one scale-free proportion (`dt
 [BRBBBRBRRR](/stripes/brbbbrbrrr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Lochnagar Dark](/tartans/l/lo/lochnagar-dark-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

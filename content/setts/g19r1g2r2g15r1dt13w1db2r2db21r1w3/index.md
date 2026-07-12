@@ -6,6 +6,8 @@ This is the **Ontario (Official)** sett — one scale-free proportion (`g19r1g2r
 [GRGRGRBWBRBRW](/stripes/grgrgrbwbrbrw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Ontario](/tartans/o/on/ontario/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

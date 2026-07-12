@@ -6,6 +6,8 @@ This is the **Speyside Blue (Fashion)** sett — one scale-free proportion (`n32
 [BKBKBKRK](/stripes/bkbkbkrk/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Speyside](/tartans/s/sp/speyside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

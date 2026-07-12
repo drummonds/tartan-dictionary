@@ -6,6 +6,8 @@ This is the **Teirney (Estimated threadcount)** sett — one scale-free proporti
 [GWGBRKRKRBWGWG](/stripes/gwgbrkrkrbwgwg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Teirney](/tartans/t/te/teirney/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
+- name: "MacFie of Colonsay"
+  url: "/families/macfie-of-colonsay/"
+- name: "MacFie of Colonsay Dress"
+  url: "/tartans/m/ma/macfie-of-colonsay-dress/"
 - name: "MacFie of Colonsay Dress (Fashion?)"
   url: "/setts/w2k11w2k2w16k2w2k11lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k11w2k2w16k2w2k11lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKWKY](/stripes/wkwkwkwky/).
+
+Part of the [MacFie of Colonsay Dress](/tartans/m/ma/macfie-of-colonsay-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

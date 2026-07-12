@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Argyle Dress"
+  url: "/tartans/a/ar/argyle-dress/"
+- name: "Argyle Dress"
   url: "/setts/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKRKBKWBWBWBWBWKGK](/stripes/bkgkbkrkbkwbwbwbwbwkgk/).
+
+Part of the [Argyle Dress](/tartans/a/ar/argyle-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

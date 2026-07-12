@@ -6,6 +6,8 @@ This is the **Nery** sett — one scale-free proportion (`y6g28r4k20r3db45k5`), 
 [GGRKRBK](/stripes/ggrkrbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Nery](/tartans/n/ne/nery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

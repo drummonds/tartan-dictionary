@@ -6,7 +6,7 @@ This is the **MacLean, Donald (Personal)** sett — one scale-free proportion (`
 [BBBKGWG](/stripes/bbbkgwg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [MacLean, Donald](/tartans/maclean-donald/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean, Donald](/tartans/m/ma/maclean-donald/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

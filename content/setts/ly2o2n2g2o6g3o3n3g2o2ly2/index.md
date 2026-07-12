@@ -6,6 +6,8 @@ This is the **Callanish (District)** sett — one scale-free proportion (`ly2o2n
 [YRBGRGRBGRY](/stripes/yrbgrgrbgry/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Callanish](/tartans/c/ca/callanish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

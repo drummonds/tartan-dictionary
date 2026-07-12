@@ -6,6 +6,8 @@ This is the **Rui (Personal)** sett — one scale-free proportion (`r1lb12k1w2k5
 [RKWKWR](/stripes/rkwkwr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Rui](/tartans/r/ru/rui/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

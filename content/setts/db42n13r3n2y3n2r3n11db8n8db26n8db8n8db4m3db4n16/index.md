@@ -6,7 +6,7 @@ This is the **Cordiner (Boddam)** sett — one scale-free proportion (`db42n13r3
 [BBRBBBBBBBBRBGBRBB](/stripes/bbrbbbbbbbbrbgbrbb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Cordiner](/tartans/cordiner/) tartan — the named design grouping this sett with its kin.
+Part of the [Cordiner](/tartans/c/co/cordiner/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

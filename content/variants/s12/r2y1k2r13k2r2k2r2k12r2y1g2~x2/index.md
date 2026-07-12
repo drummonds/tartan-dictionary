@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hallingdal"
-  url: "/tartans/hallingdal/"
+  url: "/tartans/h/ha/hallingdal/"
 - name: "Hallingdal District Tartan"
   url: "/setts/r2y1k2r13k2r2k2r2k12r2y1g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2y1k2r13k2r2k2r2k12r2y1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKRKRKRKGR](/stripes/ggrkrkrkrkgr/).
 
-Part of the [Hallingdal](/tartans/hallingdal/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hallingdal](/tartans/h/ha/hallingdal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

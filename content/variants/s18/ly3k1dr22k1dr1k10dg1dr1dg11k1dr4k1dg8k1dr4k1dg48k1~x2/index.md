@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New House Highland"
+  url: "/tartans/n/ne/new-house-highland/"
 - name: "New House Highland (Corporate)"
   url: "/setts/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKGKBKGBGKBKBKY](/stripes/kgkbkgkbkgbgkbkbky/).
+
+Part of the [New House Highland](/tartans/n/ne/new-house-highland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

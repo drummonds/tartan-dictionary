@@ -6,7 +6,7 @@ This is the **Frame Family Tartan** sett — one scale-free proportion (`w4db14r
 [WBRBWBRBRBRW](/stripes/wbrbwbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Frame](/tartans/frame/) tartan — the named design grouping this sett with its kin.
+Part of the [Frame](/tartans/f/fr/frame/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

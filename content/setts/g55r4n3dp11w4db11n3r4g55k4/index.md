@@ -6,7 +6,7 @@ This is the **Rollings (Personal)** sett — one scale-free proportion (`g55r4n3
 [GRBBWBBRGK](/stripes/grbbwbbrgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Rollings](/tartans/rollings/) tartan — the named design grouping this sett with its kin.
+Part of the [Rollings](/tartans/r/ro/rollings/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

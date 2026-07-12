@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Conquergood"
+  url: "/tartans/c/co/conquergood-3/"
+- name: "Conquergood"
   url: "/setts/k4lb2w11lb5n5w2k1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4lb2w11lb5n5w2k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBWWWKWWWBWKW](/stripes/kwbwwwkwwwbwkw/).
+
+Part of the [Conquergood](/tartans/c/co/conquergood-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

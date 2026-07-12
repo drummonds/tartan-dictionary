@@ -6,6 +6,8 @@ This is the **McEachem (Name)** sett — one scale-free proportion (`n7w1r6db10g
 [BWRBGW](/stripes/bwrbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [McEachem](/tartans/m/mc/mceachem/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

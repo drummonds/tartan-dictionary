@@ -6,6 +6,8 @@ This is the **Johansson (Personal)** sett — one scale-free proportion (`dr8g1d
 [BGBGBGBGBGBRY](/stripes/bgbgbgbgbgbry/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Johansson](/tartans/j/jo/johansson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

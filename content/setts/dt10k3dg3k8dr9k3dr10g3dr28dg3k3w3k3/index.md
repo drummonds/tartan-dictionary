@@ -6,7 +6,7 @@ This is the **Clifford (Name)** sett — one scale-free proportion (`dt10k3dg3k8
 [BKGKBKBGBGKWK](/stripes/bkgkbkbgbgkwk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Clifford](/tartans/clifford/) tartan — the named design grouping this sett with its kin.
+Part of the [Clifford](/tartans/c/cl/clifford/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

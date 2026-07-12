@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Sky"
+  url: "/tartans/h/hi/highland-sky-2/"
+- name: "Highland Sky"
   url: "/setts/n43db2n3dt11n2db2n1lb1n20w4n7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n43db2n3dt11n2db2n1lb1n20w4n7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBBBBBBBBBBBBWBW](/stripes/bwbwbbbbbbbbbbbbbwbw/).
+
+Part of the [Highland Sky](/tartans/h/hi/highland-sky-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

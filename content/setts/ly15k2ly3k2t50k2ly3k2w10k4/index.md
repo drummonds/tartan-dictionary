@@ -6,6 +6,8 @@ This is the **D.E.B.S. (Fashion)** sett — one scale-free proportion (`ly15k2ly
 [KWKYKBKYKY](/stripes/kwkykbkyky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [D.E.B.S.](/tartans/d/d/d-e-b-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

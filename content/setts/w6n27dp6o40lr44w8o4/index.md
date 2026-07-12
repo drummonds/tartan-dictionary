@@ -6,6 +6,8 @@ This is the **Susan G Komen 06** sett — one scale-free proportion (`w6n27dp6o4
 [RWYRBBW](/stripes/rwyrbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Susan G Komen](/tartans/s/su/susan-g-komen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

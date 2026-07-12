@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tullis Russell"
+  url: "/tartans/t/tu/tullis-russell/"
+- name: "Tullis Russell"
   url: "/setts/db9k16db9r7db4r9w2r2lb2r9db4r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k16db9r7db4r9w2r2lb2r9db4r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBRWRWRBR](/stripes/bkbrbrwrwrbr/).
+
+Part of the [Tullis Russell](/tartans/t/tu/tullis-russell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

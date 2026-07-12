@@ -6,6 +6,8 @@ This is the **Unidentified No 39** sett — one scale-free proportion (`k4g4k1g4
 [GBKGKGK](/stripes/gbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 39](/tartans/u/un/unidentified-no-39/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tinkler"
+  url: "/tartans/t/ti/tinkler/"
 - name: "Tinkler (Corporate)"
   url: "/setts/g2ly9do6dr3do2dr3do2dr10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2ly9do6dr3do2dr3do2dr10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBBBBBBW](/stripes/gybbbbbbw/).
+
+Part of the [Tinkler](/tartans/t/ti/tinkler/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

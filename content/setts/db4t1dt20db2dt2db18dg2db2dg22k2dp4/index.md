@@ -6,6 +6,8 @@ This is the **Heartlands Fancy Tartan** sett — one scale-free proportion (`db4
 [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Heartlands Fancy](/tartans/h/he/heartlands-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

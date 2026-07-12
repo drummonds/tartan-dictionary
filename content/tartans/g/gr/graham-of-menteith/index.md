@@ -1,0 +1,45 @@
+---
+title: "Graham of Menteith"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Menteith"
+  url: "/families/graham-of-menteith/"
+---
+A tartan of the [Graham of Menteith](/families/graham-of-menteith/) family.
+Its design is pattern [GWGKBK](/stripes/gwgkbk/) — the page of every tartan sharing this colour sequence.
+
+Worn by the western Graham branch; Logan (1831) noted its blue stripe as 'smalt' but later questioned its antiquity.
+
+The **Graham of Menteith** tartan groups 4 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g8lb1g1k6db6k1/">Graham of Menteith</a> ★</td><td><code>G/32 LB4 G4 K24 DB24 K/4</code></td><td>148</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8lb1g1k6db6k1/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g16lb2g1k12db12k1/">Graham of Menteith</a></td><td><code>G/32 LB4 G2 K24 DB24 K/2</code></td><td>142</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g16lb2g1k12db12k1/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g18lb2g4k14db12k3/">Graham of Menteith</a></td><td><code>G/36 LB4 G8 K28 DB24 K/6</code></td><td>170</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g18lb2g4k14db12k3/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g8w2g1k12db12k1/">Graham of Menteith</a></td><td><code>G/16 W4 G2 K24 DB24 K/2</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8w2g1k12db12k1/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">148</div><div class="nn-name nn-base"><a href="/variants/s6/g8lb1g1k6db6k1~x4/">Graham of Menteith</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g18lb2g4k14db12k3~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.18</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g52lb7g9k35db35k7&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.23</a></div><div class="nn-threads">231</div><div class="nn-name"><a href="/variants/s6/g52lb7g9k35db35k7/">Redland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g52lb7g9k35db35k7/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16lb2g1k12db12k1~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.49</a></div><div class="nn-threads">142</div><div class="nn-name"><a href="/variants/s6/g16lb2g1k12db12k1~x2/">Graham of Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9lb1g6k7db7k1~x4&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.51</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/g9lb1g6k7db7k1~x4/">Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g21w2g4k17db14k3&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.63</a></div><div class="nn-threads">98</div><div class="nn-name"><a href="/variants/s6/g21w2g4k17db14k3/">Graham W</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g21w2g4k17db14k3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8w2g1k12db12k1~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">0.87</a></div><div class="nn-threads">126</div><div class="nn-name"><a href="/variants/s6/g8w2g1k12db12k1~x2/">Graham of Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8k2lb1g4k6db6k1~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">1.18</a></div><div class="nn-threads">94</div><div class="nn-name"><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/">MacCallum Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g8k2lb1g4k6db6k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g21k6lb3g11k17db17k3~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">1.25</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/">MacCallum</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8k2w1g4k6db6k1~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">1.49</a></div><div class="nn-threads">94</div><div class="nn-name"><a href="/variants/s7/g8k2w1g4k6db6k1~x2/">MacCallum</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g8k2w1g4k6db6k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9lb2g1k6db6r1db1~x2&amp;base=g8lb1g1k6db6k1~x4" title="compare in the TTD">1.50</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/">MacTaggert</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><circle cx="165.4" cy="215.4" r="4" fill="#3465a4"><title>Graham of Menteith Clan Tartan</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="161.5" cy="219.8" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><circle cx="181.9" cy="181.6" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="187.7" cy="226.2" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.3" cy="204.8" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g8w2g1k12db12k1~x2/"><circle cx="158.2" cy="191.7" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><circle cx="156.8" cy="217.2" r="4" fill="#3465a4"><title>MacCallum Clan Tartan</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.7" cy="225.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><circle cx="153.2" cy="216.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="130.1" cy="185.1" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><circle cx="156.9" cy="214.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

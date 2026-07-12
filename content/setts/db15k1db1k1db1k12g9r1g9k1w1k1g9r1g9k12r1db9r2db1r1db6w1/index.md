@@ -6,6 +6,8 @@ This is the **Rankine** sett — one scale-free proportion (`db15k1db1k1db1k12g9
 [BKBKBKGRGKWKGRGKRBRBRBW](/stripes/bkbkbkgrgkwkgrgkrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [Rankine](/tartans/r/ra/rankine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

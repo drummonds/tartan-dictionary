@@ -6,6 +6,8 @@ This is the **Black Thistle** sett — one scale-free proportion (`b10k6g42k2g1k
 [BKGKGKRKR](/stripes/bkgkgkrkr/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Black Thistle](/tartans/b/bl/black-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

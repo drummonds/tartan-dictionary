@@ -6,7 +6,7 @@ This is the **Bro-Naoned** sett — one scale-free proportion (`g5db2k2db29r2db2
 [GBKBRBRGBW](/stripes/gbkbrbrgbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Bro-Naoned](/tartans/bro-naoned/) tartan — the named design grouping this sett with its kin.
+Part of the [Bro-Naoned](/tartans/b/br/bro-naoned/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

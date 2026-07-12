@@ -6,6 +6,8 @@ This is the **State Seal of New York (Fashion)** sett — one scale-free proport
 [BBBBBBGGBBY](/stripes/bbbbbbggbby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of New York](/tartans/s/st/state-seal-of-new-york/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

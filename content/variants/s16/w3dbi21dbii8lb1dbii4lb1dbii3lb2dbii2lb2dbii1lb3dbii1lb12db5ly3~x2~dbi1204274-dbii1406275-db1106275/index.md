@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ryder Cup 2014"
+  url: "/tartans/r/ry/ryder-cup-2014/"
 - name: "Ryder Cup 2014 (Corporate)"
   url: "/setts/w3dbi21dbii8lb1dbii4lb1dbii3lb2dbii2lb2dbii1lb3dbii1lb12db5ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dbi21dbii8lb1dbii4lb1dbii3lb2dbii2lb2dbii1lb3dbii1lb12db5ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBWBWBWBWBWBWBY](/stripes/wbbwbwbwbwbwbwby/).
+
+Part of the [Ryder Cup 2014](/tartans/r/ry/ryder-cup-2014/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

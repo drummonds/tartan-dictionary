@@ -6,7 +6,7 @@ This is the **Manx Laxey (Red)** sett — one scale-free proportion (`r24ly2n3dy
 [RYBGWRBGW](/stripes/rybgwrbgw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Manx Laxey](/tartans/manx-laxey-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx Laxey](/tartans/m/ma/manx-laxey-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

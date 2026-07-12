@@ -6,6 +6,8 @@ This is the **Wcwm 1586** sett — one scale-free proportion (`lb3w8ly2w2ly2w2ly
 [WWYWYWYKYKYKWWWWYW](/stripes/wwywywykykykwwwwyw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1586](/tartans/w/wc/wcwm-1586/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

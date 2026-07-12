@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mauchline"
+  url: "/tartans/m/ma/mauchline/"
+- name: "Mauchline"
   url: "/setts/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGYBGKGRGWGK](/stripes/gkwgybgkgrgwgk/).
+
+Part of the [Mauchline](/tartans/m/ma/mauchline/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

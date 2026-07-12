@@ -6,7 +6,7 @@ This is the **Unidentified Phyllis Gordon** sett — one scale-free proportion (
 [KGRGGGWGRGKRKGKWKGKR](/stripes/kgrgggwgrgkrkgkwkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Unidentified Phyllis Gordon](/tartans/unidentified-phyllis-gordon/) tartan — the named design grouping this sett with its kin.
+Part of the [Unidentified Phyllis Gordon](/tartans/u/un/unidentified-phyllis-gordon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Scottish Football Association (Corp)** sett — one scale-free pro
 [KBKBGK](/stripes/kbkbgk/). It is recorded as a single **variant**, below.
 First attested **~1993**.
 
+Part of the [Scottish Football Association](/tartans/s/sc/scottish-football-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

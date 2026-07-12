@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nolan Family, John J"
+  url: "/tartans/n/no/nolan-family-john-j/"
 - name: "Nolan Family, John J (Personal)"
   url: "/setts/do8g19dg42lo3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do8g19dg42lo3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYR](/stripes/bggyr/).
+
+Part of the [Nolan Family, John J](/tartans/n/no/nolan-family-john-j/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

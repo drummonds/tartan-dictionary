@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burke"
+  url: "/tartans/b/bu/burke/"
 - name: "Burke (Name)"
   url: "/setts/k62dr23k1ly5k1dr3k1ly2k1dr8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62dr23k1ly5k1dr3k1ly2k1dr8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBKYKBK](/stripes/bkykbkykbk/).
+
+Part of the [Burke](/tartans/b/bu/burke/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

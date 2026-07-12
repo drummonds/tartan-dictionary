@@ -6,6 +6,8 @@ This is the **Menzies of Culdares** sett — one scale-free proportion (`k4dr2k2
 [KBKBKBW](/stripes/kbkbkbw/). It is recorded as a single **variant**, below.
 First attested **1860**.
 
+Part of the [Menzies of Culdares](/tartans/m/me/menzies-of-culdares/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

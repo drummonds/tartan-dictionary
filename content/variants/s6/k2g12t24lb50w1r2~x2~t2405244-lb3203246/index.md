@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pincock"
-  url: "/tartans/pincock/"
+  url: "/tartans/p/pi/pincock/"
 - name: "Pincock Name Tartan"
   url: "/setts/k2g12t24lb50w1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2g12t24lb50w1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGBWWR](/stripes/kkgbwwr/).
 
-Part of the [Pincock](/tartans/pincock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pincock](/tartans/p/pi/pincock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

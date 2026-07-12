@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blanton"
-  url: "/tartans/blanton/"
+  url: "/tartans/b/bl/blanton/"
 - name: "Blanton (Dress)"
   url: "/setts/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRWRGKBKB](/stripes/bkbkbkgrwrgkbkb/).
 
-Part of the [Blanton](/tartans/blanton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blanton](/tartans/b/bl/blanton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

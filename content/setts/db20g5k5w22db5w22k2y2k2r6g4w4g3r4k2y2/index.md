@@ -6,6 +6,8 @@ This is the **Gayre Arisaidh Clan Tartan** sett — one scale-free proportion (`
 [BGKWBWKGKRGWGRKG](/stripes/bgkwbwkgkrgwgrkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Gayre Arisaidh](/tartans/g/ga/gayre-arisaidh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

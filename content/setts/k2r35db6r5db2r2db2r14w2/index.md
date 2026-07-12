@@ -6,6 +6,8 @@ This is the **Rose of Kilravock (Personal)** sett — one scale-free proportion 
 [KRBRBRBRW](/stripes/krbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Rose of Kilravock](/tartans/r/ro/rose-of-kilravock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

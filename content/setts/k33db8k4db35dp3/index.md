@@ -6,6 +6,8 @@ This is the **Fenston/Morris (Personal)** sett — one scale-free proportion (`k
 [BBKBK](/stripes/bbkbk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Fenston/Morris](/tartans/f/fe/fenston-morris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Carlow, County** sett — one scale-free proportion (`dr20g2dr2g2d
 [BGBGBGKGK](/stripes/bgbgbgkgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Carlow, County](/tartans/c/ca/carlow-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

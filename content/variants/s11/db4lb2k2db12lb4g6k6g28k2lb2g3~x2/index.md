@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hudson Hunting"
+  url: "/tartans/h/hu/hudson-hunting/"
 - name: "Hudson Hunting (Personal)"
   url: "/setts/db4lb2k2db12lb4g6k6g28k2lb2g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb2k2db12lb4g6k6g28k2lb2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBWGKGKWG](/stripes/bwkbwgkgkwg/).
+
+Part of the [Hudson Hunting](/tartans/h/hu/hudson-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

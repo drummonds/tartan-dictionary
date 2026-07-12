@@ -7,7 +7,7 @@ This is the **Boucherville** sett — one scale-free proportion (`g20y2n5w4g2n2g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Boucherville](/tartans/boucherville/) tartan — the named design grouping this sett with its kin.
+Part of the [Boucherville](/tartans/b/bo/boucherville/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

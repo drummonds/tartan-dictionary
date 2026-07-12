@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yukon"
-  url: "/tartans/yukon/"
+  url: "/tartans/y/yu/yukon/"
 - name: "Yukon District Tartan"
   url: "/setts/dp4db20y1db2y1db4y4g4w4r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp4db20y1db2y1db4y4g4w4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGGWR](/stripes/bbgbgbggwr/).
 
-Part of the [Yukon](/tartans/yukon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Yukon](/tartans/y/yu/yukon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

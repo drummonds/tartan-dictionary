@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heriot Bay"
+  url: "/tartans/h/he/heriot-bay/"
 - name: "Heriot Bay (District)"
   url: "/setts/t5dy2dg4n3w1t5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t5dy2dg4n3w1t5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWB](/stripes/bggbwb/).
+
+Part of the [Heriot Bay](/tartans/h/he/heriot-bay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

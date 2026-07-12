@@ -6,6 +6,8 @@ This is the **National Ballet of Canada** sett — one scale-free proportion (`d
 [BBKBW](/stripes/bbkbw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [National Ballet of Canada](/tartans/n/na/national-ballet-of-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

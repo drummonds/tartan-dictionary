@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Netball Association"
+  url: "/tartans/s/sc/scottish-netball-association/"
 - name: "Scottish Netball Association (1987)"
   url: "/setts/dp20db9dp20r2dp20db9dp20g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp20db9dp20r2dp20db9dp20g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBBBG](/stripes/bbbrbbbg/).
+
+Part of the [Scottish Netball Association](/tartans/s/sc/scottish-netball-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

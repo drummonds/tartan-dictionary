@@ -6,6 +6,8 @@ This is the **Grant, Champion** sett — one scale-free proportion (`r14y2r6k1y1
 [GGGKGKRGR](/stripes/gggkgkrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Grant, Champion](/tartans/g/gr/grant-champion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

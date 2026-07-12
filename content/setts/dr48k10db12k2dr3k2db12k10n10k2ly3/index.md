@@ -6,7 +6,7 @@ This is the **Brooks Brothers (Corporate)** sett — one scale-free proportion (
 [BKBKBKBKBKY](/stripes/bkbkbkbkbky/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
-Part of the [Brooks Brothers](/tartans/brooks-brothers/) tartan — the named design grouping this sett with its kin.
+Part of the [Brooks Brothers](/tartans/b/br/brooks-brothers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

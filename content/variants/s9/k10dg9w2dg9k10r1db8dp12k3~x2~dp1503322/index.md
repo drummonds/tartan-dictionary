@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter Graham"
+  url: "/tartans/h/hu/hunter-graham/"
 - name: "Hunter Graham"
   url: "/setts/k10dg9w2dg9k10r1db8dp12k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10dg9w2dg9k10r1db8dp12k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBRKGWGK](/stripes/kbbrkgwgk/).
+
+Part of the [Hunter Graham](/tartans/h/hu/hunter-graham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

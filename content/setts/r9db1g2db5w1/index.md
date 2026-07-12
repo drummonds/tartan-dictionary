@@ -6,6 +6,8 @@ This is the **McIntosh, Georgina (Personal)** sett — one scale-free proportion
 [RBGBW](/stripes/rbgbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [McIntosh, Georgina](/tartans/m/mc/mcintosh-georgina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

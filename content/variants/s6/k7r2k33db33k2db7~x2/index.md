@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Casterton"
+  url: "/tartans/c/ca/casterton/"
 - name: "Casterton (Corporate)"
   url: "/setts/k7r2k33db33k2db7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7r2k33db33k2db7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRK](/stripes/bkbkrk/).
+
+Part of the [Casterton](/tartans/c/ca/casterton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

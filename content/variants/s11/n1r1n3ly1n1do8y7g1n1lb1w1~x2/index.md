@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Porcupine Fancy"
+  url: "/tartans/p/po/porcupine-fancy/"
 - name: "Porcupine Fancy Tartan"
   url: "/setts/n1r1n3ly1n1do8y7g1n1lb1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n1r1n3ly1n1do8y7g1n1lb1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBYBBGGBWW](/stripes/brbybbggbww/).
+
+Part of the [Porcupine Fancy](/tartans/p/po/porcupine-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

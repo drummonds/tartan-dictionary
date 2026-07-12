@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
+- name: "MacLachlan, dress"
+  url: "/tartans/m/ma/maclachlan-dress-3/"
 - name: "MacLachlan, dress"
   url: "/setts/b34w3dg4g23w24k3dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b34w3dg4g23w24k3dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGWKG](/stripes/bwggwkg/).
+
+Part of the [MacLachlan, dress](/tartans/m/ma/maclachlan-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

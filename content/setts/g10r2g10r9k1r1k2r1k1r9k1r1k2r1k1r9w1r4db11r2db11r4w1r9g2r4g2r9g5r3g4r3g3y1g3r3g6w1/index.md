@@ -6,6 +6,8 @@ This is the **MacRae Prince's Own** sett — one scale-free proportion (`g10r2g1
 [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgw/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

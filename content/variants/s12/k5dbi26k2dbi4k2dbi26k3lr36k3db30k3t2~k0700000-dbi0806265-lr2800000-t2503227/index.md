@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daniel"
-  url: "/tartans/daniel/"
+  url: "/tartans/d/da/daniel/"
 - name: "Daniel (Welsh Name)"
   url: "/setts/k5dbi26k2dbi4k2dbi26k3lr36k3db30k3t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k5dbi26k2dbi4k2dbi26k3lr36k3db30k3t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKYKBKBKBK](/stripes/bkbkykbkbkbk/).
 
-Part of the [Daniel](/tartans/daniel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daniel](/tartans/d/da/daniel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

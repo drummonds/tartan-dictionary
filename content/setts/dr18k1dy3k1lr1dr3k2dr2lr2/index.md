@@ -6,6 +6,8 @@ This is the **Anthony Plaid Red** sett — one scale-free proportion (`dr18k1dy3
 [BKGKYBKBY](/stripes/bkgkybkby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anthony](/tartans/a/an/anthony-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

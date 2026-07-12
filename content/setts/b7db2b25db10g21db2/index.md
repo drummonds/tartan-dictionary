@@ -6,6 +6,8 @@ This is the **Sugiyama Corporate Tartan** sett — one scale-free proportion (`b
 [BBBBGB](/stripes/bbbbgb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sugiyama](/tartans/s/su/sugiyama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

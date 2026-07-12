@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Australian Donkey"
+  url: "/tartans/a/au/australian-donkey-2/"
 - name: "Australian Donkey (Corporate)"
   url: "/setts/k4n13ri3lb7w3ly25r2ly3dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4n13ri3lb7w3ly25r2ly3dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRYWWRBK](/stripes/gyrywwrbk/).
+
+Part of the [Australian Donkey](/tartans/a/au/australian-donkey-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

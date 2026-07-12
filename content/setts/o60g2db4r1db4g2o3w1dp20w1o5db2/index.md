@@ -6,6 +6,8 @@ This is the **Scottish Parliament Official Corporate Tartan** sett — one scale
 [BRWBWRGBRBGR](/stripes/brwbwrgbrbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Parliament Official](/tartans/s/sc/scottish-parliament-official/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

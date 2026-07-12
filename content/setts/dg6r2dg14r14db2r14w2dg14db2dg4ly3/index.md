@@ -6,6 +6,8 @@ This is the **Hunter (USA)** sett — one scale-free proportion (`dg6r2dg14r14db
 [GRGRBRWGBGY](/stripes/grgrbrwgbgy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Hunter](/tartans/h/hu/hunter-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

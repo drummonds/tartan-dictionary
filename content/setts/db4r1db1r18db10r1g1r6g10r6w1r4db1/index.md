@@ -6,6 +6,8 @@ This is the **Cameron of Locheil** sett — one scale-free proportion (`db4r1db1
 [BRBRBRGRGRWRB](/stripes/brbrbrgrgrwrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cameron of Locheil](/tartans/c/ca/cameron-of-locheil-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

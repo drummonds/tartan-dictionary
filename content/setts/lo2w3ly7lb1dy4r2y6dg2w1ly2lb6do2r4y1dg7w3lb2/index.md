@@ -6,6 +6,8 @@ This is the **Ste-Anne-de-Portneuf** sett — one scale-free proportion (`lo2w3l
 [WWGGRBWYWGGRGWYWY](/stripes/wwggrbwywggrgwywy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Ste-Anne-de-Portneuf](/tartans/s/st/ste-anne-de-portneuf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

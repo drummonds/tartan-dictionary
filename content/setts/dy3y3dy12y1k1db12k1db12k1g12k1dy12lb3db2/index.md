@@ -6,6 +6,8 @@ This is the **Balmaha** sett — one scale-free proportion (`dy3y3dy12y1k1db12k1
 [BWGKGKBKBKGGGG](/stripes/bwgkgkbkbkgggg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Balmaha](/tartans/b/ba/balmaha/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

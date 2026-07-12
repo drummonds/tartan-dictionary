@@ -6,6 +6,8 @@ This is the **Dunlop Hunting** sett — one scale-free proportion (`k3r1k18w1ly1
 [KRKWYGYW](/stripes/krkwygyw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Dunlop Hunting](/tartans/d/du/dunlop-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

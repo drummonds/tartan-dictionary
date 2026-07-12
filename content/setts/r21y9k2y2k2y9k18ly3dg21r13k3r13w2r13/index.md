@@ -6,6 +6,8 @@ This is the **Wilson's No.155** sett — one scale-free proportion (`r21y9k2y2k2
 [GKGKGKYGRKRWRWRKRGYKGKGKGR](/stripes/gkgkgkygrkrwrwrkrgykgkgkgr/). It is recorded as a single **variant**, below.
 First attested **1818**.
 
+Part of the [Wilson's No.155](/tartans/w/wi/wilson-s-no-155/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

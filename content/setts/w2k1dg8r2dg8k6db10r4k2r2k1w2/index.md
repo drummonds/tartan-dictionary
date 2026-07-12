@@ -6,6 +6,8 @@ This is the **Hargis (Name)** sett — one scale-free proportion (`w2k1dg8r2dg8k
 [WKGRGKBRKRKW](/stripes/wkgrgkbrkrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hargis](/tartans/h/ha/hargis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

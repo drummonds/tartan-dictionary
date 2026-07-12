@@ -6,7 +6,7 @@ This is the **Buchanan** sett — one scale-free proportion (`w2r16k1t2k1ly4k1ly
 [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Buchanan](/tartans/buchanan-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Buchanan](/tartans/b/bu/buchanan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

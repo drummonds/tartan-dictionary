@@ -6,6 +6,8 @@ This is the **INSEAD** sett — one scale-free proportion (`dy3dgi15dr2dgi2dr6dg
 [GGBGBGGGGGGG](/stripes/ggbgbggggggg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [INSEAD](/tartans/i/in/insead/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

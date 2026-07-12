@@ -6,6 +6,8 @@ This is the **University of Alberta (Corporate)** sett — one scale-free propor
 [KGKGGGGGKW](/stripes/kgkgggggkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [University of Alberta](/tartans/u/un/university-of-alberta/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kilmarnock Football Club (Old)** sett — one scale-free proportio
 [BWBKGKBW](/stripes/bwbkgkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Kilmarnock Football Club](/tartans/k/ki/kilmarnock-football-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

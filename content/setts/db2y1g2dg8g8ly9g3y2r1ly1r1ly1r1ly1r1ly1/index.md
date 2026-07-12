@@ -6,6 +6,8 @@ This is the **Dixon, Clyde (Personal)** sett — one scale-free proportion (`db2
 [BGGGGYGGRYRYRYRY](/stripes/bggggyggryryryry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dixon, Clyde](/tartans/d/di/dixon-clyde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

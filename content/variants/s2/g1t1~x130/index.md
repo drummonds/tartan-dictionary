@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hafren"
+  url: "/tartans/h/ha/hafren/"
 - name: "Hafren (Personal)"
   url: "/setts/g1t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BG](/stripes/bg/).
+
+Part of the [Hafren](/tartans/h/ha/hafren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 

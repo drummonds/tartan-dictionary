@@ -6,6 +6,8 @@ This is the **Scottish Parliament Official (Corp)** sett — one scale-free prop
 [BBWBWBGBRBGB](/stripes/bbwbwbgbrbgb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Scottish Parliament Official](/tartans/s/sc/scottish-parliament-official-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

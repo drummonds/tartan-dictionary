@@ -6,6 +6,8 @@ This is the **Sabema** sett — one scale-free proportion (`db25k3db7k15t25k2t2w
 [BKBKBKBW](/stripes/bkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sabema](/tartans/s/sa/sabema/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

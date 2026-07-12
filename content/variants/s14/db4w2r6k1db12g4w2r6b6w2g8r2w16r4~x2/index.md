@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFarlane, dress"
+  url: "/tartans/m/ma/macfarlane-dress-2/"
+- name: "MacFarlane, dress"
   url: "/setts/db4w2r6k1db12g4w2r6b6w2g8r2w16r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w2r6k1db12g4w2r6b6w2g8r2w16r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKBGWRBWGRWR](/stripes/bwrkbgwrbwgrwr/).
+
+Part of the [MacFarlane, dress](/tartans/m/ma/macfarlane-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

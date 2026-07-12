@@ -6,6 +6,8 @@ This is the **Greg Wells (Personal)** sett — one scale-free proportion (`dg12k
 [BKBBKGKBGKRKG](/stripes/bkbbkgkbgkrkg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Greg Wells](/tartans/g/gr/greg-wells/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

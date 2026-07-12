@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mandela"
+  url: "/tartans/m/ma/mandela/"
 - name: "Mandela Commemorative"
   url: "/setts/g8dy2k6g11r2db12k12r2k6dy2k4r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8dy2k6g11r2db12k12r2k6dy2k4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGRBKRKGKR](/stripes/ggkgrbkrkgkr/).
+
+Part of the [Mandela](/tartans/m/ma/mandela/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

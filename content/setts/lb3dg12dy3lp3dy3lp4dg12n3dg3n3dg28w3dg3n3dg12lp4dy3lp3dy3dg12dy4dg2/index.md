@@ -6,6 +6,8 @@ This is the **Cox** sett — one scale-free proportion (`lb3dg12dy3lp3dy3lp4dg12
 [GGGGWGWGBGWGBGBGWGWGGW](/stripes/ggggwgwgbgwgbgbgwgwggw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Cox](/tartans/c/co/cox-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

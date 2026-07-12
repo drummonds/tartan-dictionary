@@ -6,6 +6,8 @@ This is the **Coopers & Lybrand** sett — one scale-free proportion (`lb4g4r1db
 [KWBRGKWBRGW](/stripes/kwbrgkwbrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Coopers & Lybrand](/tartans/c/co/coopers-lybrand-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

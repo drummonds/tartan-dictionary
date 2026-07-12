@@ -6,6 +6,8 @@ This is the **Unidentified Kirtle** sett — one scale-free proportion (`k55r18k
 [KRKRK](/stripes/krkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Kirtle](/tartans/u/un/unidentified-kirtle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

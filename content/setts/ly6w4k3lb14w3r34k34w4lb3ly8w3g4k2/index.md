@@ -6,6 +6,8 @@ This is the **Mazarian** sett — one scale-free proportion (`ly6w4k3lb14w3r34k3
 [KGWYWWKRWWKWY](/stripes/kgwywwkrwwkwy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Mazarian](/tartans/m/ma/mazarian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -10,7 +10,7 @@ crumbs:
 - name: "Fraser of Altyre"
   url: "/families/fraser-of-altyre/"
 - name: "Fraser of Altyre"
-  url: "/tartans/fraser-of-altyre/"
+  url: "/tartans/f/fr/fraser-of-altyre/"
 - name: "Fraser of Altyre"
   url: "/setts/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/).
 
-Part of the [Fraser of Altyre](/tartans/fraser-of-altyre/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fraser of Altyre](/tartans/f/fr/fraser-of-altyre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

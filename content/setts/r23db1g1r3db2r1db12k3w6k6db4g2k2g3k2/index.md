@@ -6,6 +6,8 @@ This is the **Mars Exploration** sett — one scale-free proportion (`r23db1g1r3
 [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Mars Exploration](/tartans/m/ma/mars-exploration/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

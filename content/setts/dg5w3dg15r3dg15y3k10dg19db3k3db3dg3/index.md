@@ -6,6 +6,8 @@ This is the **Forfar Farmington** sett — one scale-free proportion (`dg5w3dg15
 [GBKBGKGGRGWG](/stripes/gbkbgkggrgwg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Forfar Farmington](/tartans/f/fo/forfar-farmington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

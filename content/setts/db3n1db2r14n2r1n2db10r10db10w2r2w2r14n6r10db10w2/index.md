@@ -6,6 +6,8 @@ This is the **Ensemble Pour L'Avenir** sett — one scale-free proportion (`db3n
 [BBBRBRBBRBWRWRBRBW](/stripes/bbbrbrbbrbwrwrbrbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Ensemble Pour L'Avenir](/tartans/e/en/ensemble-pour-l-avenir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

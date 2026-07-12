@@ -6,6 +6,8 @@ This is the **International Festival of Authors** sett — one scale-free propor
 [BRBWBG](/stripes/brbwbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [International Festival of Authors](/tartans/i/in/international-festival-of-authors/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

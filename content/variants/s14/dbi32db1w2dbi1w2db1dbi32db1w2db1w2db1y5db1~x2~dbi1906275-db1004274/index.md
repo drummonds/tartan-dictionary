@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Worsoff"
+  url: "/tartans/w/wo/worsoff/"
 - name: "Worsoff (Personal)"
   url: "/setts/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBBBWBWBGB](/stripes/bbwbwbbbwbwbgb/).
+
+Part of the [Worsoff](/tartans/w/wo/worsoff/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

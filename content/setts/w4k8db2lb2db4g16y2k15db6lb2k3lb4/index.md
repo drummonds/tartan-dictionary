@@ -6,6 +6,8 @@ This is the **Veere** sett — one scale-free proportion (`w4k8db2lb2db4g16y2k15
 [WKBWBGGKBWKW](/stripes/wkbwbggkbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Veere](/tartans/v/ve/veere-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

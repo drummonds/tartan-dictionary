@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Livingston"
+  url: "/tartans/l/li/livingston-2/"
+- name: "Livingston"
   url: "/setts/g20k2r3k2r6g20r29g3r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20k2r3k2r6g20r29g3r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRGRGR](/stripes/gkrkrgrgr/).
+
+Part of the [Livingston](/tartans/l/li/livingston-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

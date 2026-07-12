@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of Alabama"
+  url: "/tartans/u/un/university-of-alabama/"
 - name: "Alabama, University of"
   url: "/setts/r32k2n3w4n3k2r22k1r5k2w6k2r4w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r32k2n3w4n3k2r22k1r5k2w6k2r4w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWBKRKRKWKRW](/stripes/rkbwbkrkrkwkrw/).
+
+Part of the [University of Alabama](/tartans/u/un/university-of-alabama/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

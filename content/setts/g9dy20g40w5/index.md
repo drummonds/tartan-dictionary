@@ -6,6 +6,8 @@ This is the **O'Neill Irish Family Tartan** sett — one scale-free proportion (
 [GGGW](/stripes/gggw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [O'Neill](/tartans/o/o/o-neill-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

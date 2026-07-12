@@ -6,6 +6,8 @@ This is the **de Meuron (Neuchâtel) Dress, The** sett — one scale-free propor
 [GKBGKBK](/stripes/gkbgkbk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [de Meuron Dress, The](/tartans/d/de/de-meuron-dress-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

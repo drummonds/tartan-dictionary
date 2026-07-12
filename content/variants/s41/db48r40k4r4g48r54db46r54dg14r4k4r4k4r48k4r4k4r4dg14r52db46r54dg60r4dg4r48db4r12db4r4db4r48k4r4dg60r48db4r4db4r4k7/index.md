@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mackintosh (Clan Chattan)"
+  url: "/clan/mackintosh/"
+- name: "MacKintosh 5"
+  url: "/tartans/m/ma/mackintosh-5/"
 - name: "MacKintosh #6"
   url: "/setts/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRGRBRGRKRKRKRKRGRBRGRGRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrgrbrbrbrkrgrbrbrk/).
+
+Part of the [MacKintosh 5](/tartans/m/ma/mackintosh-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
 

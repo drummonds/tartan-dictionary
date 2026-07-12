@@ -6,7 +6,7 @@ This is the **Cooper, dress** sett — one scale-free proportion (`db2r4o2w28db3
 [BRRWBWBKRBRGBKBRBR](/stripes/brrwbwbkrbrgbkbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Cooper, dress](/tartans/cooper-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Cooper, dress](/tartans/c/co/cooper-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

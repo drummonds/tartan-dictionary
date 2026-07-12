@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queens University of Ontario"
+  url: "/tartans/q/qu/queens-university-of-ontario/"
 - name: "Queens University of Ontario Corporate Tartan"
   url: "/setts/db54y9db16y2dp3w3dp3r27db13y3g5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db54y9db16y2dp3w3dp3r27db13y3g5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBRBGGW](/stripes/bgbgbwbrbggw/).
+
+Part of the [Queens University of Ontario](/tartans/q/qu/queens-university-of-ontario/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Baileville (Personal)** sett — one scale-free proportion (`y1k4y
 [GBGKGKG](/stripes/gbgkgkg/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Baileville](/tartans/b/ba/baileville/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

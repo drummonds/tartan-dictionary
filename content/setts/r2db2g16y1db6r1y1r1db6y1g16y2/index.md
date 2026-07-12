@@ -6,6 +6,8 @@ This is the **Monroig, Eric (Personal)** sett — one scale-free proportion (`r2
 [GGGBRGRBGGBR](/stripes/gggbrgrbggbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Monroig, Eric](/tartans/m/mo/monroig-eric/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

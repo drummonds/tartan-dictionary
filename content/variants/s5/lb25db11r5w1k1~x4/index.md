@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mount Vernon Primary School"
+  url: "/tartans/m/mo/mount-vernon-primary-school/"
+- name: "Mount Vernon Primary School"
   url: "/setts/lb25db11r5w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb25db11r5w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRBW](/stripes/kwrbw/).
+
+Part of the [Mount Vernon Primary School](/tartans/m/mo/mount-vernon-primary-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

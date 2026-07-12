@@ -6,7 +6,7 @@ This is the **Meirhaeghe, Van** sett — one scale-free proportion (`dbi28k6ly2r
 [BKYRKBBBBBRW](/stripes/bkyrkbbbbbrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Meirhaeghe, Van](/tartans/meirhaeghe-van/) tartan — the named design grouping this sett with its kin.
+Part of the [Meirhaeghe, Van](/tartans/m/me/meirhaeghe-van/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

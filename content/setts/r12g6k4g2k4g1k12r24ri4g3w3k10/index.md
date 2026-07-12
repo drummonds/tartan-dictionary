@@ -6,6 +6,8 @@ This is the **Fullerton, Terrance (Personal)** sett — one scale-free proportio
 [KWGRRKGKGKGR](/stripes/kwgrrkgkgkgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Fullerton, Terrance](/tartans/f/fu/fullerton-terrance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

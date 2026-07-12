@@ -6,7 +6,7 @@ This is the **Duchess of York** sett — one scale-free proportion (`db1dy9g5dy1
 [BGGGKGGGW](/stripes/bgggkgggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Duchess of York](/tartans/duchess-of-york/) tartan — the named design grouping this sett with its kin.
+Part of the [Duchess of York](/tartans/d/du/duchess-of-york/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

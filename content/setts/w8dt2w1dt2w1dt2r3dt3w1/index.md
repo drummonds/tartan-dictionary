@@ -6,6 +6,8 @@ This is the **Canadian Winter Games 1987** sett — one scale-free proportion (`
 [WBRBWBWBW](/stripes/wbrbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Canadian Winter Games 1987](/tartans/c/ca/canadian-winter-games-1987/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hanna (Bible)** sett — one scale-free proportion (`k16lr25db4lr2
 [BYBYBYBYBYBYK](/stripes/bybybybybybyk/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
+Part of the [Hanna](/tartans/h/ha/hanna/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

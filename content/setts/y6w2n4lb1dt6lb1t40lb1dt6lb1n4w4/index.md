@@ -6,7 +6,7 @@ This is the **Moskyok-Collins (Personal)** sett — one scale-free proportion (`
 [GWBWBWBWBWBW](/stripes/gwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Moskyok-Collins](/tartans/moskyok-collins/) tartan — the named design grouping this sett with its kin.
+Part of the [Moskyok-Collins](/tartans/m/mo/moskyok-collins/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

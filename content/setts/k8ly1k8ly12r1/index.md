@@ -6,7 +6,7 @@ This is the **MacLeod of Lewis (Clan)** sett — one scale-free proportion (`k8l
 [KYKYR](/stripes/kykyr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [MacLeod of Lewis](/tartans/macleod-of-lewis/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Lewis](/tartans/m/ma/macleod-of-lewis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

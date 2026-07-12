@@ -6,6 +6,8 @@ This is the **Unnamed C20th - National Archives`** sett — one scale-free propo
 [RGRGKGRGYR](/stripes/rgrgkgrgyr/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Unnamed C20th](/tartans/u/un/unnamed-c20th-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

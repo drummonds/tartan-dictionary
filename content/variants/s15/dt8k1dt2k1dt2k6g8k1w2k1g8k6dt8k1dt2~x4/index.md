@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "74th Regiment of Foot"
+  url: "/tartans/0-9/0-9/74th-regiment-of-foot/"
 - name: "74th Regiment of Foot (Mil.)"
   url: "/setts/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
+
+Part of the [74th Regiment of Foot](/tartans/0-9/0-9/74th-regiment-of-foot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

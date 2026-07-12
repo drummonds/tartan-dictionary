@@ -6,6 +6,8 @@ This is the **Shepherd or Falkirk** sett — one scale-free proportion (`k1lb1`)
 [KWKW](/stripes/kwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Shepherd or Falkirk](/tartans/s/sh/shepherd-or-falkirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

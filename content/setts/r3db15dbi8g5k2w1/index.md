@@ -6,6 +6,8 @@ This is the **Nicolson of Harris (Clan?)** sett — one scale-free proportion (`
 [RBBGKW](/stripes/rbbgkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Nicolson of Harris](/tartans/n/ni/nicolson-of-harris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

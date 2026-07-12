@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birral"
+  url: "/tartans/b/bi/birral/"
 - name: "Birral (Clan)"
   url: "/setts/r65w2dp8lb4w2lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r65w2dp8lb4w2lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRRBRRWGWBWWWBWR](/stripes/bwrrbrrwgwbwwwbwr/).
+
+Part of the [Birral](/tartans/b/bi/birral/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

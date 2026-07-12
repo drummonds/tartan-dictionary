@@ -6,6 +6,8 @@ This is the **Air Force** sett — one scale-free proportion (`w4db8dr3db25k13b4
 [BBWBWBKBBBW](/stripes/bbwbwbkbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Air Force](/tartans/a/ai/air-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

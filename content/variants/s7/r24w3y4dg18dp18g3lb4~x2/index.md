@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walter"
-  url: "/tartans/walter/"
+  url: "/tartans/w/wa/walter/"
 - name: "Walter (Personal)"
   url: "/setts/r24w3y4dg18dp18g3lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r24w3y4dg18dp18g3lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGGBGWGBGGW](/stripes/rwggbgwgbggw/).
 
-Part of the [Walter](/tartans/walter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Walter](/tartans/w/wa/walter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

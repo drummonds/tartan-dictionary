@@ -6,6 +6,8 @@ This is the **Edinburgh International Film Festival** sett — one scale-free pr
 [KRKRKRKWKWKRK](/stripes/krkrkrkwkwkrk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Edinburgh International Film Festival](/tartans/e/ed/edinburgh-international-film-festival/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

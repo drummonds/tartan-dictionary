@@ -6,6 +6,8 @@ This is the **Federated Women's Institutes of** sett — one scale-free proporti
 [RKGGGGBKW](/stripes/rkggggbkw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [FWI of Ontario](/tartans/f/fw/fwi-of-ontario/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

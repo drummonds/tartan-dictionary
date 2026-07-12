@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hosey"
-  url: "/tartans/hosey/"
+  url: "/tartans/h/ho/hosey/"
 - name: "Hosey (Name)"
   url: "/setts/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBGGGGGBWBW](/stripes/rbwbgggggbwbw/).
 
-Part of the [Hosey](/tartans/hosey/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hosey](/tartans/h/ho/hosey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

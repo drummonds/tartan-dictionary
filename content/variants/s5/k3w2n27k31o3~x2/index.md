@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kelley Oliphint"
-  url: "/tartans/kelley-oliphint/"
+  url: "/tartans/k/ke/kelley-oliphint/"
 - name: "Kelley Oliphint"
   url: "/setts/k3w2n27k31o3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3w2n27k31o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKR](/stripes/kwbkr/).
 
-Part of the [Kelley Oliphint](/tartans/kelley-oliphint/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kelley Oliphint](/tartans/k/ke/kelley-oliphint/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

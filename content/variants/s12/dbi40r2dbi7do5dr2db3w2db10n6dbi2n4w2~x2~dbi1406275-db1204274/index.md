@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Plymouth Armada"
+  url: "/tartans/p/pl/plymouth-armada/"
+- name: "Plymouth Armada"
   url: "/setts/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBBWBBBBW](/stripes/brbbbbwbbbbw/).
+
+Part of the [Plymouth Armada](/tartans/p/pl/plymouth-armada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

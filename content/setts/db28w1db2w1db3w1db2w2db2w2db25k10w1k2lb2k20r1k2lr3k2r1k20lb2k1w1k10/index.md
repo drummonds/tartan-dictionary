@@ -6,6 +6,8 @@ This is the **Britten-Norman** sett — one scale-free proportion (`db28w1db2w1d
 [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Britten-Norman](/tartans/b/br/britten-norman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

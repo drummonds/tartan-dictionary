@@ -6,6 +6,8 @@ This is the **Army Medical Services** sett — one scale-free proportion (`r16db
 [BRBRGGBRBRBR](/stripes/brbrggbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Army Medical Services](/tartans/a/ar/army-medical-services/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

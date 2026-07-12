@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilcox, Yu, Cruikshank Reunion"
+  url: "/tartans/w/wi/wilcox-yu-cruikshank-reunion/"
+- name: "Wilcox, Yu, Cruikshank Reunion"
   url: "/setts/n3g12k5g2k5n2dr2n2k5g12w2n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3g12k5g2k5n2dr2n2k5g12w2n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBBBKGWB](/stripes/bgkgkbbbkgwb/).
+
+Part of the [Wilcox, Yu, Cruikshank Reunion](/tartans/w/wi/wilcox-yu-cruikshank-reunion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

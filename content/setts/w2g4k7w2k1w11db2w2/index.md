@@ -6,6 +6,8 @@ This is the **Forbes - 1880 (Clans Originaux)** sett — one scale-free proporti
 [WBWKWKGW](/stripes/wbwkwkgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Forbes](/tartans/f/fo/forbes-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

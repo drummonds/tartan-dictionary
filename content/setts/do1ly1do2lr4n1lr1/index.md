@@ -6,6 +6,8 @@ This is the **Ardalansish Tweed (Fashion)** sett — one scale-free proportion (
 [BYBYBY](/stripes/bybyby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Ardalansish Tweed](/tartans/a/ar/ardalansish-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

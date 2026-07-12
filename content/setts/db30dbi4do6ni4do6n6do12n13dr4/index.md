@@ -6,6 +6,8 @@ This is the **Sound of Mull** sett — one scale-free proportion (`db30dbi4do6ni
 [BBBBBBBBB](/stripes/bbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Sound of Mull](/tartans/s/so/sound-of-mull/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

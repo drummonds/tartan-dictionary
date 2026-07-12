@@ -6,6 +6,8 @@ This is the **Polkemmet (Corporate)** sett — one scale-free proportion (`k7ly3
 [KBGBGBGBBYK](/stripes/kbgbgbgbbyk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Polkemmet](/tartans/p/po/polkemmet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

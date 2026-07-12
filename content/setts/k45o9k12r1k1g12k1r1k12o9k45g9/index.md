@@ -6,6 +6,8 @@ This is the **O'Boyle** sett — one scale-free proportion (`k45o9k12r1k1g12k1r1
 [GKRKRKGKRKRK](/stripes/gkrkrkgkrkrk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [O'Boyle](/tartans/o/o/o-boyle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacNeil - 1994 (Personal)** sett — one scale-free proportion (`b
 [BKBKW](/stripes/bkbkw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [MacNeil](/tartans/m/ma/macneil-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

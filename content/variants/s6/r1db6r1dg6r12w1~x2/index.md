@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Fraser"
   url: "/clan/fraser/"
 - name: "Fraser"
-  url: "/tartans/fraser-6/"
+  url: "/tartans/f/fr/fraser-6/"
 - name: "Fraser Red Clan Tartan"
   url: "/setts/r1db6r1dg6r12w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1db6r1dg6r12w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRW](/stripes/rbrgrw/).
 
-Part of the [Fraser](/tartans/fraser-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fraser](/tartans/f/fr/fraser-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

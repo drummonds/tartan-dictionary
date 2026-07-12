@@ -6,6 +6,8 @@ This is the **Lagrande** sett — one scale-free proportion (`dg100ly4dg2lyi3lyi
 [GYGYY](/stripes/gygyy/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Lagrande](/tartans/l/la/lagrande/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

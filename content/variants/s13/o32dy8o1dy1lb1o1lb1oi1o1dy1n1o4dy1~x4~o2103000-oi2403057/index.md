@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Parma"
+  url: "/tartans/p/pa/parma/"
+- name: "Parma"
   url: "/setts/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o32dy8o1dy1lb1o1lb1oi1o1dy1n1o4dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGRRWRWGRGR](/stripes/grbgrrwrwgrgr/).
+
+Part of the [Parma](/tartans/p/pa/parma/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

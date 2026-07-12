@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Steel"
+  url: "/tartans/s/st/steel/"
 - name: "Steel (Personal)"
   url: "/setts/db6g48k4y4k4w4g20r10k4r6w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6g48k4y4k4w4g20r10k4r6w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKWGRKRW](/stripes/bgkgkwgrkrw/).
+
+Part of the [Steel](/tartans/s/st/steel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

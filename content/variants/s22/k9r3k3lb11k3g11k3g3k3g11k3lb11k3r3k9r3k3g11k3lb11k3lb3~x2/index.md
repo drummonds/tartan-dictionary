@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ellene )"
+  url: "/tartans/e/el/ellene/"
 - name: "Ellenee"
   url: "/setts/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKGKGKGKWKRKRKGKWKW](/stripes/krkwkgkgkgkwkrkrkgkwkw/).
+
+Part of the [Ellene )](/tartans/e/el/ellene/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

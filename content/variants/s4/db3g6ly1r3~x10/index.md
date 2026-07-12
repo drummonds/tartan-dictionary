@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Delroeux"
+  url: "/tartans/d/de/delroeux/"
 - name: "Delroeux (Personal)"
   url: "/setts/db3g6ly1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3g6ly1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYR](/stripes/bgyr/).
+
+Part of the [Delroeux](/tartans/d/de/delroeux/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

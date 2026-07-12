@@ -6,7 +6,7 @@ This is the **MacArthur (Highland Society)** sett — one scale-free proportion 
 [GYGKGK](/stripes/gygkgk/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
-Part of the [MacArthur](/tartans/macarthur/) tartan — the named design grouping this sett with its kin.
+Part of the [MacArthur](/tartans/m/ma/macarthur/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

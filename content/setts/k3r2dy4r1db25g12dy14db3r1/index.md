@@ -6,6 +6,8 @@ This is the **Mann** sett — one scale-free proportion (`k3r2dy4r1db25g12dy14db
 [KRGRBGGBR](/stripes/krgrbggbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Mann](/tartans/m/ma/mann/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

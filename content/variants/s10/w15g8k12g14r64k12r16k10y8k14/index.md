@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carlow County Crest"
+  url: "/tartans/c/ca/carlow-county-crest/"
 - name: "Carlow County Crest (Fashion)"
   url: "/setts/w15g8k12g14r64k12r16k10y8k14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w15g8k12g14r64k12r16k10y8k14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKRGKGW](/stripes/kgkrkrgkgw/).
+
+Part of the [Carlow County Crest](/tartans/c/ca/carlow-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

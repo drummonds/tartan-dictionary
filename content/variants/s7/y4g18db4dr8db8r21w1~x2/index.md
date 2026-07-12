@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "G P Bathija"
+  url: "/tartans/g/g/g-p-bathija/"
 - name: "G P Bathija (Shikarpur, Sindh)"
   url: "/setts/y4g18db4dr8db8r21w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4g18db4dr8db8r21w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBBRW](/stripes/ggbbbrw/).
+
+Part of the [G P Bathija](/tartans/g/g/g-p-bathija/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

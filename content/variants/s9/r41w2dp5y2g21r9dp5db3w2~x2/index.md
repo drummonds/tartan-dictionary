@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Perthshire or Drummond"
-  url: "/tartans/perthshire-or-drummond/"
+  url: "/tartans/p/pe/perthshire-or-drummond/"
 - name: "Perthshire, or Drummond"
   url: "/setts/r41w2dp5y2g21r9dp5db3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r41w2dp5y2g21r9dp5db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBGGRBBW](/stripes/rwbggrbbw/).
 
-Part of the [Perthshire or Drummond](/tartans/perthshire-or-drummond/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Perthshire or Drummond](/tartans/p/pe/perthshire-or-drummond/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

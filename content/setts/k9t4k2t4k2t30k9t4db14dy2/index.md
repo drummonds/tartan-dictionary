@@ -6,7 +6,7 @@ This is the **Hannay Blue** sett — one scale-free proportion (`k9t4k2t4k2t30k9
 [BKBKBKBBGBBKBKBKBK](/stripes/bkbkbkbbgbbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Hannay](/tartans/hannay/) tartan — the named design grouping this sett with its kin.
+Part of the [Hannay](/tartans/h/ha/hannay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

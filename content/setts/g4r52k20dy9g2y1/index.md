@@ -6,6 +6,8 @@ This is the **Jack, John (Fife) (Personal)** sett — one scale-free proportion 
 [GGGKRG](/stripes/gggkrg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Jack, John](/tartans/j/ja/jack-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

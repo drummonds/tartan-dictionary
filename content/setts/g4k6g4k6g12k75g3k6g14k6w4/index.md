@@ -6,6 +6,8 @@ This is the **Irish Heritage** sett — one scale-free proportion (`g4k6g4k6g12k
 [GKGKGKGKGKW](/stripes/gkgkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Irish Heritage](/tartans/i/ir/irish-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

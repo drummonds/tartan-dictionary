@@ -6,6 +6,8 @@ This is the **Selkirk High (Corporate)** sett — one scale-free proportion (`w3
 [BRGRBRGKRW](/stripes/brgrbrgkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Selkirk High](/tartans/s/se/selkirk-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

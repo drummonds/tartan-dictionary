@@ -6,7 +6,7 @@ This is the **Devon Rural Skills Trust** sett — one scale-free proportion (`w5
 [GGWRGWGW](/stripes/ggwrgwgw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Devon Rural Skills Trust](/tartans/devon-rural-skills-trust/) tartan — the named design grouping this sett with its kin.
+Part of the [Devon Rural Skills Trust](/tartans/d/de/devon-rural-skills-trust/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

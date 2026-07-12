@@ -6,6 +6,8 @@ This is the **Campbell of Loudon** sett — one scale-free proportion (`y4k1g12k
 [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell of Loudon](/tartans/c/ca/campbell-of-loudon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

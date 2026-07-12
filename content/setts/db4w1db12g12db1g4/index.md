@@ -6,6 +6,8 @@ This is the **Unidentified Tweed** sett — one scale-free proportion (`db4w1db1
 [BWBGBG](/stripes/bwbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Tweed](/tartans/u/un/unidentified-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

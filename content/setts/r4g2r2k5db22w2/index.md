@@ -6,6 +6,8 @@ This is the **Reese (Personal)** sett — one scale-free proportion (`r4g2r2k5db
 [RGRKBW](/stripes/rgrkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Reese](/tartans/r/re/reese/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Universal Scientific Indust"
+  url: "/tartans/u/un/universal-scientific-indust/"
 - name: "Universal Scientific Indust (Corp.)"
   url: "/setts/k38lb2o24w2k16o6lb2k3lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k38lb2o24w2k16o6lb2k3lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRWKRWKW](/stripes/kwrwkrwkw/).
+
+Part of the [Universal Scientific Indust](/tartans/u/un/universal-scientific-indust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

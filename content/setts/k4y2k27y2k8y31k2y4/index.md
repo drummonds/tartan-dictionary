@@ -6,6 +6,8 @@ This is the **Watertown Library Assoc.** sett — one scale-free proportion (`k4
 [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Watertown Library Assoc.](/tartans/w/wa/watertown-library-assoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

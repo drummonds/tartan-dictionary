@@ -6,6 +6,8 @@ This is the **Longniddry Lavender (Dance)** sett — one scale-free proportion (
 [BRWRBBWB](/stripes/brwrbbwb/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Longniddry Lavender](/tartans/l/lo/longniddry-lavender/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

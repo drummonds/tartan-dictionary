@@ -6,6 +6,8 @@ This is the **Greer (Name?)** sett — one scale-free proportion (`lb16db3lb3n3l
 [WBBWBWBW](/stripes/wbbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Greer](/tartans/g/gr/greer-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

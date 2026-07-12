@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Burnfoot Check"
+  url: "/tartans/b/bu/burnfoot-check/"
+- name: "Burnfoot Check"
   url: "/setts/dr3dg2n2dg3k6b2ly10b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3dg2n2dg3k6b2ly10b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBYB](/stripes/bgbgkbyb/).
+
+Part of the [Burnfoot Check](/tartans/b/bu/burnfoot-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

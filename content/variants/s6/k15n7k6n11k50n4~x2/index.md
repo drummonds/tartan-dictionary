@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Freedom of Scotland"
+  url: "/tartans/f/fr/freedom-of-scotland/"
+- name: "Freedom of Scotland"
   url: "/setts/k15n7k6n11k50n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15n7k6n11k50n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
+
+Part of the [Freedom of Scotland](/tartans/f/fr/freedom-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

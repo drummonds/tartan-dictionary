@@ -6,6 +6,8 @@ This is the **Covenanter** sett — one scale-free proportion (`w30k1w1k2`), col
 [KWKW](/stripes/kwkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Covenanter](/tartans/c/co/covenanter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

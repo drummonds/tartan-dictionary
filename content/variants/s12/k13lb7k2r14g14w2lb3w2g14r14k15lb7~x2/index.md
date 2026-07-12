@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coulter"
+  url: "/tartans/c/co/coulter/"
 - name: "Coulter (Personal)"
   url: "/setts/k13lb7k2r14g14w2lb3w2g14r14k15lb7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k13lb7k2r14g14w2lb3w2g14r14k15lb7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKWKRGWWWGRKKKKW](/stripes/kkkwkrgwwwgrkkkkw/).
+
+Part of the [Coulter](/tartans/c/co/coulter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

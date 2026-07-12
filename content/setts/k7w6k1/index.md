@@ -7,6 +7,8 @@ This is the **Lendrum (B&W)** sett — one scale-free proportion (`k7w6k1`), col
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [MacFarlane VS](/tartans/m/ma/macfarlane-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

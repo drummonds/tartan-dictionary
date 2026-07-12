@@ -6,6 +6,8 @@ This is the **Gaelic Society of Moscow (Corporate)** sett — one scale-free pro
 [KGKGRGRGK](/stripes/kgkgrgrgk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Gaelic Society of Moscow](/tartans/g/ga/gaelic-society-of-moscow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

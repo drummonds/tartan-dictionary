@@ -6,6 +6,8 @@ This is the **Carlow Irish County Tartan** sett — one scale-free proportion (`
 [BGBGBGKGK](/stripes/bgbgbgkgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Carlow Irish County](/tartans/c/ca/carlow-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

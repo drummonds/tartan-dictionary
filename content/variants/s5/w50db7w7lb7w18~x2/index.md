@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sephardim"
+  url: "/tartans/s/se/sephardim/"
 - name: "Sephardim (Corporate)"
   url: "/setts/w50db7w7lb7w18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50db7w7lb7w18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWW](/stripes/wbwww/).
+
+Part of the [Sephardim](/tartans/s/se/sephardim/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

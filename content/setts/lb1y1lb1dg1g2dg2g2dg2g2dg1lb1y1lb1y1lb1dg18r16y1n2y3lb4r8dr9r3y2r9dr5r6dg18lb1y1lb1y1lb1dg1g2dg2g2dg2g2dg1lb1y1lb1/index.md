@@ -6,6 +6,8 @@ This is the **New Brunswick or Beaverbrook District Tartan** sett — one scale-
 [WGWGGGGGGGWGWGWGRBRGRBRWGBGRGWGWGWGGGGGGGWGW](/stripes/wgwgggggggwgwgwgrbrgrbrwgbgrgwgwgwgggggggwgw/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [New Brunswick or Beaverbrook](/tartans/n/ne/new-brunswick-or-beaverbrook/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

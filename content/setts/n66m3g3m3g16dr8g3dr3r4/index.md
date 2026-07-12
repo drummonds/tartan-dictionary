@@ -6,6 +6,8 @@ This is the **Scottish National Hunting** sett — one scale-free proportion (`n
 [BRGRGBGBRBGBGRGR](/stripes/brgrgbgbrbgbgrgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Scottish National](/tartans/s/sc/scottish-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

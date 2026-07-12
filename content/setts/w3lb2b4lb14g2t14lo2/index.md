@@ -6,6 +6,8 @@ This is the **Seaside (Fashion)** sett — one scale-free proportion (`w3lb2b4lb
 [WWBWGBY](/stripes/wwbwgby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Seaside](/tartans/s/se/seaside-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

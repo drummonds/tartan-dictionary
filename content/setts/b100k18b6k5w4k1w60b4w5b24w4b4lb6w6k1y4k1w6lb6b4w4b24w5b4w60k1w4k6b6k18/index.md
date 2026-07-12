@@ -6,6 +6,8 @@ This is the **Craig (Paisley)** sett — one scale-free proportion (`b100k18b6k5
 [BKBKWKWBWBWBWWKGKWWBWBWBWKWKBK](/stripes/bkbkwkwbwbwbwwkgkwwbwbwbwkwkbk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Craig](/tartans/c/cr/craig-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moeller, Karsten"
+  url: "/tartans/m/mo/moeller-karsten/"
 - name: "Moeller, Karsten (Personal)"
   url: "/setts/k10r5k5g55db2y1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10r5k5g55db2y1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGBGW](/stripes/krkgbgw/).
+
+Part of the [Moeller, Karsten](/tartans/m/mo/moeller-karsten/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **York Region Pipe Band** sett — one scale-free proportion (`r10k3
 [RKGWKBKRGRW](/stripes/rkgwkbkrgrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [York Region Pipe Band](/tartans/y/yo/york-region-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

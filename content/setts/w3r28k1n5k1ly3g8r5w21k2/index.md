@@ -6,7 +6,7 @@ This is the **Cape Breton Polish Society** sett — one scale-free proportion (`
 [KWRGYKBKRW](/stripes/kwrgykbkrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Cape Breton Polish Society](/tartans/cape-breton-polish-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Cape Breton Polish Society](/tartans/c/ca/cape-breton-polish-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

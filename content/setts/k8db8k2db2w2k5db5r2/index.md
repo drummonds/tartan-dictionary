@@ -6,6 +6,8 @@ This is the **Lexington Fire Department** sett — one scale-free proportion (`k
 [KBKBWKBR](/stripes/kbkbwkbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lexington Fire Department](/tartans/l/le/lexington-fire-department/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

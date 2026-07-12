@@ -6,7 +6,7 @@ This is the **Brown Watch (single tramlines)** sett — one scale-free proportio
 [GKGKGK](/stripes/gkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Brown Watch](/tartans/brown-watch-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Brown Watch](/tartans/b/br/brown-watch-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

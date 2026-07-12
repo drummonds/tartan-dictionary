@@ -6,6 +6,8 @@ This is the **Loch Rannoch Trade Tartan** sett — one scale-free proportion (`d
 [BGBYGYGB](/stripes/bgbygygb/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Loch Rannoch](/tartans/l/lo/loch-rannoch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

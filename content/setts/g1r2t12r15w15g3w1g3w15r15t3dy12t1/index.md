@@ -6,6 +6,8 @@ This is the **Saint John New Brunswick** sett — one scale-free proportion (`g1
 [BGBRWGWGWRBRG](/stripes/bgbrwgwgwrbrg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Saint John New Brunswick](/tartans/s/sa/saint-john-new-brunswick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

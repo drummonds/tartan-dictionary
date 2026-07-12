@@ -6,6 +6,8 @@ This is the **International School of Aberdeen** sett — one scale-free proport
 [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [International School of Aberdeen](/tartans/i/in/international-school-of-aberdeen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

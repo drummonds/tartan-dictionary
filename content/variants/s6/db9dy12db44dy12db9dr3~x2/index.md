@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Elliot"
+  url: "/tartans/e/el/elliot/"
+- name: "Elliot"
   url: "/setts/db9dy12db44dy12db9dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9dy12db44dy12db9dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGB](/stripes/bbgbgb/).
+
+Part of the [Elliot](/tartans/e/el/elliot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Martha De Laurentiis"
+  url: "/tartans/m/ma/martha-de-laurentiis-2/"
+- name: "Martha De Laurentiis"
   url: "/setts/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWRBRBWBWBRBRBWBWBR](/stripes/bgwrbrbwbwbrbrbwbwbr/).
+
+Part of the [Martha De Laurentiis](/tartans/m/ma/martha-de-laurentiis-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Musselburgh"
-  url: "/tartans/musselburgh/"
+  url: "/tartans/m/mu/musselburgh/"
 - name: "Musselburgh"
   url: "/setts/t14lb1t3lo2t3lb1t4db24dr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t14lb1t3lo2t3lb1t4db24dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBYBWB](/stripes/bbbwbybwb/).
 
-Part of the [Musselburgh](/tartans/musselburgh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Musselburgh](/tartans/m/mu/musselburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

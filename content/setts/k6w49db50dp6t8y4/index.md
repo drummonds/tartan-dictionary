@@ -6,7 +6,7 @@ This is the **Pipers' Trail Dance, The** sett — one scale-free proportion (`k6
 [GBBBWK](/stripes/gbbbwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Pipers' Trail Dance, The](/tartans/pipers-trail-dance-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Pipers' Trail Dance, The](/tartans/p/pi/pipers-trail-dance-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

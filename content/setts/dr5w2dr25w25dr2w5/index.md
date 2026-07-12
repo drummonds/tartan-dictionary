@@ -6,6 +6,8 @@ This is the **Erskine Dress Burgandy Clan Tartan** sett — one scale-free propo
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Erskine Dress Burgandy](/tartans/e/er/erskine-dress-burgandy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

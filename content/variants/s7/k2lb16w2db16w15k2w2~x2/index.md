@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathclyde 1975"
+  url: "/tartans/s/st/strathclyde-1975/"
 - name: "Strathclyde 1975 (District)"
   url: "/setts/k2lb16w2db16w15k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2lb16w2db16w15k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWBWKW](/stripes/kwwbwkw/).
+
+Part of the [Strathclyde 1975](/tartans/s/st/strathclyde-1975/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

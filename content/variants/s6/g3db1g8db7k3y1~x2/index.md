@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Trafalger"
+  url: "/tartans/t/tr/trafalger/"
 - name: "Trafalger Trade Tartan"
   url: "/setts/g3db1g8db7k3y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3db1g8db7k3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKG](/stripes/gbgbkg/).
+
+Part of the [Trafalger](/tartans/t/tr/trafalger/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

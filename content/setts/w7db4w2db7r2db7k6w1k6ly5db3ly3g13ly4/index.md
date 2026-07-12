@@ -6,7 +6,7 @@ This is the **Redgate Dress (Name)** sett — one scale-free proportion (`w7db4w
 [WBWBRBKWKYBYGY](/stripes/wbwbrbkwkybygy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Redgate Dress](/tartans/redgate-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Redgate Dress](/tartans/r/re/redgate-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

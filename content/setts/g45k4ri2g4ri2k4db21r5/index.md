@@ -6,6 +6,8 @@ This is the **Shiach (Personal)** sett — one scale-free proportion (`g45k4ri2g
 [GKRGRKBR](/stripes/gkrgrkbr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Shiach](/tartans/s/sh/shiach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

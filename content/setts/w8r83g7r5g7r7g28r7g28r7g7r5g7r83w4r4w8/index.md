@@ -6,7 +6,7 @@ This is the **Rothesay (Red)** sett — one scale-free proportion (`w8r83g7r5g7r
 [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
-Part of the [Rothesay](/tartans/rothesay-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Rothesay](/tartans/r/ro/rothesay-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

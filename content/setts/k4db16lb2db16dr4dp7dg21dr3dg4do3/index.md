@@ -6,7 +6,7 @@ This is the **Scottish Lion Name Tartan** sett — one scale-free proportion (`k
 [BGBGBBBWBK](/stripes/bgbgbbbwbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Scottish Lion](/tartans/scottish-lion/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Lion](/tartans/s/sc/scottish-lion/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

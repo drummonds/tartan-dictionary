@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New York City"
+  url: "/tartans/n/ne/new-york-city/"
 - name: "New York City American District Tartan"
   url: "/setts/db3k1db3n3g4r1g4n3db3k1db3dbi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3k1db3n3g4r1g4n3db3k1db3dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBGRGBBKB](/stripes/bbkbbgrgbbkb/).
+
+Part of the [New York City](/tartans/n/ne/new-york-city/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

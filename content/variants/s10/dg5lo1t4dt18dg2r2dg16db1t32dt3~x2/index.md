@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heriot Watt University"
+  url: "/tartans/h/he/heriot-watt-university-3/"
 - name: "Heriot Watt University (Corporate)"
   url: "/setts/dg5lo1t4dt18dg2r2dg16db1t32dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5lo1t4dt18dg2r2dg16db1t32dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGRGBBYG](/stripes/bbbgrgbbyg/).
+
+Part of the [Heriot Watt University](/tartans/h/he/heriot-watt-university-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

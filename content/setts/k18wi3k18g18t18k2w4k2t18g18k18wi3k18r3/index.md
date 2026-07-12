@@ -6,6 +6,8 @@ This is the **Hislop/Hyslop Hunting** sett — one scale-free proportion (`k18wi
 [KWKGBKWKBGKWKR](/stripes/kwkgbkwkbgkwkr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Hislop/Hyslop Hunting](/tartans/h/hi/hislop-hyslop-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

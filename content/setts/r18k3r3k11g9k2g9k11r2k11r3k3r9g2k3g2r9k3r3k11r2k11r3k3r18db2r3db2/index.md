@@ -6,6 +6,8 @@ This is the **MacInroy #2** sett — one scale-free proportion (`r18k3r3k11g9k2g
 [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkrkrkgkgkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacInroy](/tartans/m/ma/macinroy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

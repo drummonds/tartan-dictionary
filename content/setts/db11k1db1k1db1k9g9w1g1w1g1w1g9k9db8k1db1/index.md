@@ -7,6 +7,8 @@ This is the **Baillie of Polkemmet** sett — one scale-free proportion (`db11k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1937**.
 
+Part of the [Baillie of Polkemett](/tartans/b/ba/baillie-of-polkemett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

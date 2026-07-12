@@ -6,6 +6,8 @@ This is the **Partick Thistle Football Club** sett — one scale-free proportion
 [KGKGKRW](/stripes/kgkgkrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Partick Thistle Football Club](/tartans/p/pa/partick-thistle-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Blairmore House** sett — one scale-free proportion (`db17w2db2r2
 [BWBRBBGG](/stripes/bwbrbbgg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Blairmore Corporate School](/tartans/b/bl/blairmore-corporate-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

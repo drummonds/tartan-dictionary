@@ -6,6 +6,8 @@ This is the **Cian of Ely (Clan)** sett — one scale-free proportion (`b19k1yi1
 [BKGBKGBBGKY](/stripes/bkgbkgbbgky/). It is recorded as a single **variant**, below.
 First attested **~1983**.
 
+Part of the [Cian of Ely](/tartans/c/ci/cian-of-ely-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

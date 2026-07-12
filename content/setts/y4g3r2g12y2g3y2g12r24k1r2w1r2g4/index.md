@@ -6,7 +6,7 @@ This is the **Leask** sett — one scale-free proportion (`y4g3r2g12y2g3y2g12r24
 [GGRGGGGGRKRWRG](/stripes/ggrgggggrkrwrg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Leask](/tartans/leask/) tartan — the named design grouping this sett with its kin.
+Part of the [Leask](/tartans/l/le/leask/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

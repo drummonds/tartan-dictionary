@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Skene"
+  url: "/tartans/l/lo/loch-skene/"
 - name: "Loch Skene (Fashion)"
   url: "/setts/w48dy15lr2dy3w2dy3ly12w8dy2w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w48dy15lr2dy3w2dy3ly12w8dy2w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWYGWGYGW](/stripes/wgwygwgygw/).
+
+Part of the [Loch Skene](/tartans/l/lo/loch-skene/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

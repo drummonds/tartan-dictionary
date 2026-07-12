@@ -6,6 +6,8 @@ This is the **Caledonian Society of P.E.I. (Corp)** sett — one scale-free prop
 [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/). It is recorded as a single **variant**, below.
 First attested **1835**.
 
+Part of the [Caledonian Society of P.E.I.](/tartans/c/ca/caledonian-society-of-p-e-i/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kapasi"
+  url: "/tartans/k/ka/kapasi-2/"
 - name: "Kapasi (Personal)"
   url: "/setts/lo2g6r12k3w3k3g16k2g2k2g2k12lp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2g6r12k3w3k3g16k2g2k2g2k12lp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGKGKGKWKRGY](/stripes/wkgkgkgkwkrgy/).
+
+Part of the [Kapasi](/tartans/k/ka/kapasi-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ This is the **Beckett Beaumont Artifact Tartan** sett — one scale-free proport
 [WBWKWGWGKGWRGBGW](/stripes/wbwkwgwgkgwrgbgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Beckett Beaumont](/tartans/beckett-beaumont-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Beckett Beaumont](/tartans/b/be/beckett-beaumont-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

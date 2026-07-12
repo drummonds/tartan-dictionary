@@ -6,6 +6,8 @@ This is the **Dunbar Ancient** sett — one scale-free proportion (`r28k4w2k13`)
 [KWKRKW](/stripes/kwkrkw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Dunbar](/tartans/d/du/dunbar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

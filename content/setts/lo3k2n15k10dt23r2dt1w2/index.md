@@ -6,6 +6,8 @@ This is the **Vienna Highlander (Fashion)** sett — one scale-free proportion (
 [WBRBKBKY](/stripes/wbrbkbky/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Vienna Highlander](/tartans/v/vi/vienna-highlander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

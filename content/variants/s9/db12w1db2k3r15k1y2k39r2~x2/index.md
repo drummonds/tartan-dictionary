@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Superstition Fire Honor Guard Pipes"
+  url: "/tartans/s/su/superstition-fire-honor-guard-pipes/"
 - name: "Superstition Fire Honor Guard Pipes & Drums"
   url: "/setts/db12w1db2k3r15k1y2k39r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12w1db2k3r15k1y2k39r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKRKGKR](/stripes/bwbkrkgkr/).
+
+Part of the [Superstition Fire Honor Guard Pipes](/tartans/s/su/superstition-fire-honor-guard-pipes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lynch"
-  url: "/tartans/lynch/"
+  url: "/tartans/l/ly/lynch/"
 - name: "Lynch"
   url: "/setts/r3db2r1db18g1db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3db2r1db18g1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBR](/stripes/bgbrbr/).
 
-Part of the [Lynch](/tartans/lynch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lynch](/tartans/l/ly/lynch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

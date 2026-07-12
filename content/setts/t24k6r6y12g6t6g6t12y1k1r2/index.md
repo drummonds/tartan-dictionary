@@ -6,7 +6,7 @@ This is the **Berwick Friendship (Corporate)** sett — one scale-free proportio
 [BKRGGBGBGKR](/stripes/bkrggbgbgkr/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
-Part of the [Berwick Friendship](/tartans/berwick-friendship/) tartan — the named design grouping this sett with its kin.
+Part of the [Berwick Friendship](/tartans/b/be/berwick-friendship/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

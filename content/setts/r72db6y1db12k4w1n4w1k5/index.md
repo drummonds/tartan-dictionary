@@ -6,6 +6,8 @@ This is the **Inverness Cathedral (Corporate)** sett — one scale-free proporti
 [KWBWKBGBR](/stripes/kwbwkbgbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Inverness Cathedral](/tartans/i/in/inverness-cathedral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

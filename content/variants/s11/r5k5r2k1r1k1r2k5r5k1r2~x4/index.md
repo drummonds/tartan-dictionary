@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Border Reiver, The"
+  url: "/tartans/b/bo/border-reiver-the/"
+- name: "Border Reiver, The"
   url: "/setts/r5k5r2k1r1k1r2k5r5k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5k5r2k1r1k1r2k5r5k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/).
+
+Part of the [Border Reiver, The](/tartans/b/bo/border-reiver-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

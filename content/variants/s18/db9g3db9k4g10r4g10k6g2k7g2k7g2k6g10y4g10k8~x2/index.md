@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stuart/Stewart Hunting"
+  url: "/tartans/s/st/stuart-stewart-hunting/"
 - name: "Stuart/Stewart Hunting Plaid"
   url: "/setts/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGRGKGKGKGKGGGK](/stripes/bgbkgrgkgkgkgkgggk/).
+
+Part of the [Stuart/Stewart Hunting](/tartans/s/st/stuart-stewart-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

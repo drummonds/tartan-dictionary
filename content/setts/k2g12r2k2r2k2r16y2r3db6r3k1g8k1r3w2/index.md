@@ -6,6 +6,8 @@ This is the **Innes (D C Stewart)** sett — one scale-free proportion (`k2g12r2
 [KGRKRKRGRBRKGKRW](/stripes/kgrkrkrgrbrkgkrw/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [Innes](/tartans/i/in/innes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

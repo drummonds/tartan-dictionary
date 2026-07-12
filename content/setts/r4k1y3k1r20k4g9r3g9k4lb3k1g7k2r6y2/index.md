@@ -6,6 +6,8 @@ This is the **Brown-Wells (Personal)** sett — one scale-free proportion (`r4k1
 [GRKGKWKGRGKRKGKR](/stripes/grkgkwkgrgkrkgkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Brown-Wells](/tartans/b/br/brown-wells/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

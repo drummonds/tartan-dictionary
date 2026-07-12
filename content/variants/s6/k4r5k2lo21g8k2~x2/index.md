@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDuck"
+  url: "/tartans/m/ma/macduck-2/"
 - name: "MacDuck #2"
   url: "/setts/k4r5k2lo21g8k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r5k2lo21g8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYKRK](/stripes/kgykrk/).
+
+Part of the [MacDuck](/tartans/m/ma/macduck-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

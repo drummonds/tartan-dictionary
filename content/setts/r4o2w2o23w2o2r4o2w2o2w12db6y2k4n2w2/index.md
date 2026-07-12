@@ -6,6 +6,8 @@ This is the **Palmer, General W.J.** sett — one scale-free proportion (`r4o2w2
 [RRWRWRRRWRWBGKBW](/stripes/rrwrwrrrwrwbgkbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Palmer, General W.J.](/tartans/p/pa/palmer-general-w-j/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

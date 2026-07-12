@@ -6,6 +6,8 @@ This is the **Tamer of Wolves** sett — one scale-free proportion (`w9db2dy8n6d
 [BBGBGBGBW](/stripes/bbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Tamer of Wolves](/tartans/t/ta/tamer-of-wolves/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

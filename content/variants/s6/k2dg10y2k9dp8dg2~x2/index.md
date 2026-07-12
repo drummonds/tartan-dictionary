@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lennie"
-  url: "/tartans/lennie/"
+  url: "/tartans/l/le/lennie/"
 - name: "Lennie"
   url: "/setts/k2dg10y2k9dp8dg2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2dg10y2k9dp8dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGGK](/stripes/gbkggk/).
 
-Part of the [Lennie](/tartans/lennie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lennie](/tartans/l/le/lennie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

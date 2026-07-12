@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pendleton Hunting"
+  url: "/tartans/p/pe/pendleton-hunting/"
+- name: "Pendleton Hunting"
   url: "/setts/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRGKGYGBB](/stripes/bbgrgkgygbb/).
+
+Part of the [Pendleton Hunting](/tartans/p/pe/pendleton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

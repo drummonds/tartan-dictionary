@@ -6,6 +6,8 @@ This is the **Caledonian Cameron Commando** sett — one scale-free proportion (
 [RWKWKWKYGRKRWR](/stripes/rwkwkwkygrkrwr/). It is recorded as a single **variant**, below.
 First attested **1818**.
 
+Part of the [Caledonian Cameron Commando](/tartans/c/ca/caledonian-cameron-commando/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

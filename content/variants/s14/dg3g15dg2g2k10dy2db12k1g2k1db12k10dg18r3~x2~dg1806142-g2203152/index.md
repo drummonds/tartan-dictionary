@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leinster"
+  url: "/tartans/l/le/leinster-2/"
+- name: "Leinster"
   url: "/setts/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKGBKGKBKGR](/stripes/ggggkgbkgkbkgr/).
+
+Part of the [Leinster](/tartans/l/le/leinster-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

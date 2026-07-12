@@ -7,7 +7,7 @@ This is the **Mordente (Personal)** sett — one scale-free proportion (`r2w1g1r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1966**.
 
-Part of the [Mordente](/tartans/mordente/) tartan — the named design grouping this sett with its kin.
+Part of the [Mordente](/tartans/m/mo/mordente/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

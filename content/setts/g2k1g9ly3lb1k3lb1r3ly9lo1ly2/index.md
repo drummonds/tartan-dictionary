@@ -6,6 +6,8 @@ This is the **Asman, Day Tan (Name)** sett — one scale-free proportion (`g2k1g
 [GKGYWKWRYYY](/stripes/gkgywkwryyy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Asman Day Tan](/tartans/a/as/asman-day-tan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

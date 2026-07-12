@@ -6,6 +6,8 @@ This is the **Scottish Ambulance Service** sett — one scale-free proportion (`
 [BBKGKGBGYGBGKGKB](/stripes/bbkgkgbgygbgkgkb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Scottish Ambulance Service](/tartans/s/sc/scottish-ambulance-service/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Henschke, Felix (Personal)** sett — one scale-free proportion (`
 [GBWBKGG](/stripes/gbwbkgg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Henschke, Felix](/tartans/h/he/henschke-felix/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

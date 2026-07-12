@@ -7,6 +7,8 @@ This is the **Hudson's Bay Company** sett — one scale-free proportion (`r2k34w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1974**.
 
+Part of the [Hudson Bay Company](/tartans/h/hu/hudson-bay-company/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

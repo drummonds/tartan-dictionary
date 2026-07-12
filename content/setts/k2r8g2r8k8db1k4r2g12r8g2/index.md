@@ -6,6 +6,8 @@ This is the **MacNichol Clan Tartan** sett — one scale-free proportion (`k2r8g
 [GRGRKBKRGRK](/stripes/grgrkbkrgrk/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacNichol](/tartans/m/ma/macnichol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

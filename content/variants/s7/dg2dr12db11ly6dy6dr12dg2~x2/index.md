@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather MacRae"
+  url: "/tartans/h/he/heather-macrae/"
+- name: "Heather MacRae"
   url: "/setts/dg2dr12db11ly6dy6dr12dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2dr12db11ly6dy6dr12dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBYGBG](/stripes/gbbygbg/).
+
+Part of the [Heather MacRae](/tartans/h/he/heather-macrae/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

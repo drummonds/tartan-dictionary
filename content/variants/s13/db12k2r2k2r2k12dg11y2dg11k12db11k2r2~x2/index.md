@@ -10,7 +10,7 @@ crumbs:
 - name: "Black Watch"
   url: "/groups/military/black-watch/"
 - name: "Black Watch Plaid of Pipers"
-  url: "/tartans/black-watch-plaid-of-pipers/"
+  url: "/tartans/b/bl/black-watch-plaid-of-pipers/"
 - name: "Black Watch Plaid of Pipers"
   url: "/setts/db12k2r2k2r2k12dg11y2dg11k12db11k2r2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12k2r2k2r2k12dg11y2dg11k12db11k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKGGGKBKR](/stripes/bkrkrkgggkbkr/).
 
-Part of the [Black Watch Plaid of Pipers](/tartans/black-watch-plaid-of-pipers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Watch Plaid of Pipers](/tartans/b/bl/black-watch-plaid-of-pipers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

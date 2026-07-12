@@ -6,6 +6,8 @@ This is the **Shaw of Tordarroch, Mrs (Personal)** sett — one scale-free propo
 [BWGWGWBWBWR](/stripes/bwgwgwbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Shaw of Tordarroch, Mrs](/tartans/s/sh/shaw-of-tordarroch-mrs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

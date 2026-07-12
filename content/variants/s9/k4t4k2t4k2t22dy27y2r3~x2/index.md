@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Falkirk"
-  url: "/tartans/falkirk-2/"
+  url: "/tartans/f/fa/falkirk-2/"
 - name: "Falkirk District Tartan"
   url: "/setts/k4t4k2t4k2t22dy27y2r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4t4k2t4k2t22dy27y2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKBKBKBKBKBGGR](/stripes/ggbkbkbkbkbkbggr/).
 
-Part of the [Falkirk](/tartans/falkirk-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Falkirk](/tartans/f/fa/falkirk-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

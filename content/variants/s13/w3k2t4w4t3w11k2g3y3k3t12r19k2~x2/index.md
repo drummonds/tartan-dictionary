@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Badminton Cup"
+  url: "/tartans/b/ba/badminton-cup/"
+- name: "Badminton Cup"
   url: "/setts/w3k2t4w4t3w11k2g3y3k3t12r19k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3k2t4w4t3w11k2g3y3k3t12r19k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBKGGKWBWBKW](/stripes/krbkggkwbwbkw/).
+
+Part of the [Badminton Cup](/tartans/b/ba/badminton-cup/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Red Hackle Pipe Band (Corporate)** sett — one scale-free proport
 [WKRKWWKWKGWGRWRW](/stripes/wkrkwwkwkgwgrwrw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Red Hackle Pipe Band](/tartans/r/re/red-hackle-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

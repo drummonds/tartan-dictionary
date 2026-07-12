@@ -6,6 +6,8 @@ This is the **Ritchie** sett — one scale-free proportion (`dr3lb2dr3lb2dr14db6
 [BWBWBBWBGBBBW](/stripes/bwbwbbwbgbbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Ritchie](/tartans/r/ri/ritchie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Grampian Police** sett — one scale-free proportion (`db5lb2w1lb2
 [BKBKBKBKWWWB](/stripes/bkbkbkbkwwwb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Grampian Police](/tartans/g/gr/grampian-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

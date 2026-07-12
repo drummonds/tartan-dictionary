@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holden Beige"
+  url: "/tartans/h/ho/holden-beige/"
 - name: "Holden Beige (Corporate)"
   url: "/setts/w13k3w3k3w3k15ly18r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w13k3w3k3w3k15ly18r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKWKWKW](/stripes/rykwkwkw/).
+
+Part of the [Holden Beige](/tartans/h/ho/holden-beige/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

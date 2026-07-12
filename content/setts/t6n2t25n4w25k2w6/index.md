@@ -6,6 +6,8 @@ This is the **Lennox Dress, Purple (Dance)** sett — one scale-free proportion 
 [BBBBWKW](/stripes/bbbbwkw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Lennox Dress](/tartans/l/le/lennox-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shawn Jones Afghan Memorial, The"
+  url: "/tartans/s/sh/shawn-jones-afghan-memorial-the-2/"
+- name: "Shawn Jones Afghan Memorial, The"
   url: "/setts/ri12g4k8dr3ly62r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri12g4k8dr3ly62r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBYR](/stripes/rgkbyr/).
+
+Part of the [Shawn Jones Afghan Memorial, The](/tartans/s/sh/shawn-jones-afghan-memorial-the-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

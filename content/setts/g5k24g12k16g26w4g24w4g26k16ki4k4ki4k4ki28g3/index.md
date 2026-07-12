@@ -6,6 +6,8 @@ This is the **O'Connor, Old** sett — one scale-free proportion (`g5k24g12k16g2
 [GKGKGWGWGKKKKKKG](/stripes/gkgkgwgwgkkkkkkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [O'Connor, Old](/tartans/o/o/o-connor-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

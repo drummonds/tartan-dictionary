@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jackson"
-  url: "/tartans/jackson/"
+  url: "/tartans/j/ja/jackson/"
 - name: "Jackson (Name)"
   url: "/setts/dg5ly2dp40w1db15w1db1w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg5ly2dp40w1db15w1db1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBWBWBW](/stripes/gybwbwbw/).
 
-Part of the [Jackson](/tartans/jackson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jackson](/tartans/j/ja/jackson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

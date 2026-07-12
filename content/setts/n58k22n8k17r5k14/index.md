@@ -6,6 +6,8 @@ This is the **Flynn** sett — one scale-free proportion (`n58k22n8k17r5k14`), c
 [BKBKRK](/stripes/bkbkrk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Flynn](/tartans/f/fl/flynn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

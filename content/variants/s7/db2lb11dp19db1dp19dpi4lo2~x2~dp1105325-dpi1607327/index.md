@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brigid Mhairi"
-  url: "/tartans/brigid-mhairi/"
+  url: "/tartans/b/br/brigid-mhairi/"
 - name: "Brigid Mhairi (Personal)"
   url: "/setts/db2lb11dp19db1dp19dpi4lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2lb11dp19db1dp19dpi4lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBY](/stripes/bwbbbby/).
 
-Part of the [Brigid Mhairi](/tartans/brigid-mhairi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brigid Mhairi](/tartans/b/br/brigid-mhairi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

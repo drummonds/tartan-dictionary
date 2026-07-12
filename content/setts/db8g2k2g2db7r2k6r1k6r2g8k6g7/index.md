@@ -6,6 +6,8 @@ This is the **Stewart of Achnacone Clan Tartan** sett — one scale-free proport
 [BGKGBRKRKRGKG](/stripes/bgkgbrkrkrgkg/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
+Part of the [Stewart of Achnacone](/tartans/s/st/stewart-of-achnacone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

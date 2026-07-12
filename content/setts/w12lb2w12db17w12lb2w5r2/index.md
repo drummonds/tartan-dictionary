@@ -6,7 +6,7 @@ This is the **Milne Royal Blue Dress (Dance)** sett — one scale-free proportio
 [RWWWBWWW](/stripes/rwwwbwww/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Milne Royal Blue Dress](/tartans/milne-royal-blue-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Milne Royal Blue Dress](/tartans/m/mi/milne-royal-blue-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

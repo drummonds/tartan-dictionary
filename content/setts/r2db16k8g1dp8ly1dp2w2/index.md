@@ -6,6 +6,8 @@ This is the **Freemasons' Universal** sett — one scale-free proportion (`r2db1
 [RBKGBYBW](/stripes/rbkgbybw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Freemasons' Universal](/tartans/f/fr/freemasons-universal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

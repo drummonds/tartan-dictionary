@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacAuliffe"
+  url: "/tartans/m/ma/macauliffe/"
 - name: "MacAuliffe (Name)"
   url: "/setts/g37w2g6db23y6db2y3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g37w2g6db23y6db2y3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWG](/stripes/bgbgbgwg/).
+
+Part of the [MacAuliffe](/tartans/m/ma/macauliffe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

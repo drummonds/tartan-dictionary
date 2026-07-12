@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heneghan"
-  url: "/tartans/heneghan/"
+  url: "/tartans/h/he/heneghan/"
 - name: "Heneghan (Personal)"
   url: "/setts/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYGYRGBRGBWRG](/stripes/gbygyrgbrgbwrg/).
 
-Part of the [Heneghan](/tartans/heneghan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heneghan](/tartans/h/he/heneghan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

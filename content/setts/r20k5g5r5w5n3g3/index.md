@@ -6,7 +6,7 @@ This is the **Mangles, Peter and Annette (Personal)** sett — one scale-free pr
 [GBWRGKR](/stripes/gbwrgkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Mangles, Peter and Annette](/tartans/mangles-peter-and-annette/) tartan — the named design grouping this sett with its kin.
+Part of the [Mangles, Peter and Annette](/tartans/m/ma/mangles-peter-and-annette/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Icelandair** sett — one scale-free proportion (`db3lb24k11db20w2
 [BWKBWBG](/stripes/bwkbwbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Icelandair](/tartans/i/ic/icelandair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

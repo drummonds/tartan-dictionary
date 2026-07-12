@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dundhuin Hunting"
+  url: "/tartans/d/du/dundhuin-hunting/"
 - name: "Dundhuin Hunting (Personal)"
   url: "/setts/dg62y17ly12n8o8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg62y17ly12n8o8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGYBR](/stripes/ggybr/).
+
+Part of the [Dundhuin Hunting](/tartans/d/du/dundhuin-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

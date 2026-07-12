@@ -6,6 +6,8 @@ This is the **Skibo** sett — one scale-free proportion (`dg23db11t22r2t22db11d
 [GBBRBBGR](/stripes/gbbrbbgr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Skibo](/tartans/s/sk/skibo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

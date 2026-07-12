@@ -6,6 +6,8 @@ This is the **Kinfauns Castle** sett — one scale-free proportion (`r4db10g2db2
 [RBGBGRGRGW](/stripes/rbgbgrgrgw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Hilton Hotel Hong Kong](/tartans/h/hi/hilton-hotel-hong-kong/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

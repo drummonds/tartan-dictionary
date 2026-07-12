@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Poulter"
+  url: "/tartans/p/po/poulter-3/"
 - name: "Poulter, Blue (Corprate)"
   url: "/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBWYWBBBB](/stripes/bbbbbbwywbbbb/).
+
+Part of the [Poulter](/tartans/p/po/poulter-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

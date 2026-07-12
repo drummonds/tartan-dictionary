@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aberdeen Asset Management"
+  url: "/tartans/a/ab/aberdeen-asset-management/"
 - name: "Aberdeen Asset Management (Corp)"
   url: "/setts/k6r2db18lo2g2lo2g10r20db2lb1db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r2db18lo2g2lo2g10r20db2lb1db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRGYGYBRK](/stripes/bwbrgygybrk/).
+
+Part of the [Aberdeen Asset Management](/tartans/a/ab/aberdeen-asset-management/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

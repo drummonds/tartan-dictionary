@@ -7,7 +7,7 @@ This is the **Stuart/Stewart of Appin Dress** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
-Part of the [Stewart of Appin Dress](/tartans/stewart-of-appin-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Appin Dress](/tartans/s/st/stewart-of-appin-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wells"
+  url: "/tartans/w/we/wells-2/"
 - name: "Wells (Personal)"
   url: "/setts/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGGGGKBKGKBKGKBKGGGGKGKR](/stripes/krkgkggggkbkgkbkgkbkggggkgkr/).
+
+Part of the [Wells](/tartans/w/we/wells-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

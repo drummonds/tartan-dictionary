@@ -6,7 +6,7 @@ This is the **Hororata** sett — one scale-free proportion (`r2k1db30k6g12y1db2
 [RKBKGGBGGKW](/stripes/rkbkggbggkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Hororata](/tartans/hororata/) tartan — the named design grouping this sett with its kin.
+Part of the [Hororata](/tartans/h/ho/hororata/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

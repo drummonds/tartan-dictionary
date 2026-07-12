@@ -6,7 +6,7 @@ This is the **Blackwood (Loch Wood)** sett — one scale-free proportion (`dg5db
 [GBGBGBG](/stripes/gbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Blackwood](/tartans/blackwood/) tartan — the named design grouping this sett with its kin.
+Part of the [Blackwood](/tartans/b/bl/blackwood/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

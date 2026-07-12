@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Turcan Connell"
+  url: "/tartans/t/tu/turcan-connell/"
+- name: "Turcan Connell"
   url: "/setts/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGGWGGBWBGGRG](/stripes/gbgbgbggwggbwbggrg/).
+
+Part of the [Turcan Connell](/tartans/t/tu/turcan-connell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

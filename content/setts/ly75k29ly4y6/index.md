@@ -6,6 +6,8 @@ This is the **Perry Ancient (Personal)** sett — one scale-free proportion (`ly
 [GYKY](/stripes/gyky/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Perry](/tartans/p/pe/perry-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

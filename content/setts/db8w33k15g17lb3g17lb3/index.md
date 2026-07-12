@@ -6,7 +6,7 @@ This is the **MacRobart, dress** sett — one scale-free proportion (`db8w33k15g
 [BWKGWGW](/stripes/bwkgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacRobart Dress](/tartans/macrobart-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRobart Dress](/tartans/m/ma/macrobart-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Hanby (Personal)** sett — one scale-free proportion (`dg21dy10dg
 [GGGKGRGW](/stripes/gggkgrgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Hanby](/tartans/h/ha/hanby/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

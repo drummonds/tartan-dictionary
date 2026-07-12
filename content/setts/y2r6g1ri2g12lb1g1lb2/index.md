@@ -7,6 +7,8 @@ This is the **Manitoba** sett — one scale-free proportion (`y2r6g1ri2g12lb1g1l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1962**.
 
+Part of the [Manitoba](/tartans/m/ma/manitoba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

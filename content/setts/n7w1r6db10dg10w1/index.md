@@ -6,6 +6,8 @@ This is the **McEachern, Andrew** sett — one scale-free proportion (`n7w1r6db1
 [BWRBGW](/stripes/bwrbgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [McEachern, Andrew](/tartans/m/mc/mceachern-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

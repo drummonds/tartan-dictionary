@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fothergill, Baron of Kinross (P"
+  url: "/tartans/f/fo/fothergill-baron-of-kinross-p/"
 - name: "Fothergill, Baron of Kinross (Personal)"
   url: "/setts/w50lb3w8lb8db12r4db12g16dg12n4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50lb3w8lb8db12r4db12g16dg12n4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGGBRBWWWW](/stripes/wbggbrbwwww/).
+
+Part of the [Fothergill, Baron of Kinross (P](/tartans/f/fo/fothergill-baron-of-kinross-p/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

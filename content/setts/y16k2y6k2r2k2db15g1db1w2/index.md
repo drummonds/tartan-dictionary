@@ -6,7 +6,7 @@ This is the **Otago Corporate District Tartan** sett — one scale-free proporti
 [GKGKRKBGBW](/stripes/gkgkrkbgbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Otago](/tartans/otago/) tartan — the named design grouping this sett with its kin.
+Part of the [Otago](/tartans/o/ot/otago/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

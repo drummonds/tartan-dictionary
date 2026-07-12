@@ -6,6 +6,8 @@ This is the **Timespan (MacKay) Corporate Tartan** sett — one scale-free propo
 [BRKRG](/stripes/brkrg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Timespan](/tartans/t/ti/timespan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

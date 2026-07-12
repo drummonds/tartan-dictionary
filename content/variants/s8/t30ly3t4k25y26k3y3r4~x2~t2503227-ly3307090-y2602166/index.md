@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie Hunting"
+  url: "/tartans/o/og/ogilvie-hunting/"
 - name: "Ogilvie Hunting"
   url: "/setts/t30ly3t4k25y26k3y3r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t30ly3t4k25y26k3y3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/).
+
+Part of the [Ogilvie Hunting](/tartans/o/og/ogilvie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

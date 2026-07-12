@@ -6,6 +6,8 @@ This is the **Poulter Blue Corporate Tartan** sett — one scale-free proportion
 [BBBBBBBYBBBBB](/stripes/bbbbbbbybbbbb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Poulter](/tartans/p/po/poulter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

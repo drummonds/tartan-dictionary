@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Seabees"
+  url: "/tartans/u/u/u-s-seabees/"
+- name: "U.S. Seabees"
   url: "/setts/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBGBGGGBGYG](/stripes/gygbgbgggbgyg/).
+
+Part of the [U.S. Seabees](/tartans/u/u/u-s-seabees/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

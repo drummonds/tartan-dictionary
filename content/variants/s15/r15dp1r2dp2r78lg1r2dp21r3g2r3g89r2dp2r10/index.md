@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce"
+  url: "/tartans/b/br/bruce-4/"
 - name: "Bruce - 1819 (New)"
   url: "/setts/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRYRBRGRGRBR](/stripes/rbrbryrbrgrgrbr/).
+
+Part of the [Bruce](/tartans/b/br/bruce-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

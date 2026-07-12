@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathclyde, University of"
+  url: "/tartans/s/st/strathclyde-university-of-2/"
+- name: "Strathclyde, University of"
   url: "/setts/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKWKGKGGKW](/stripes/bkrkbkwkgkggkw/).
+
+Part of the [Strathclyde, University of](/tartans/s/st/strathclyde-university-of-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McInally"
+  url: "/tartans/m/mc/mcinally/"
 - name: "McInally (Name)"
   url: "/setts/r3g16r4k6r28g2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g16r4k6r28g2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKRGY](/stripes/rgrkrgy/).
+
+Part of the [McInally](/tartans/m/mc/mcinally/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

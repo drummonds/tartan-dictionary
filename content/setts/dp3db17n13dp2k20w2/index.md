@@ -6,6 +6,8 @@ This is the **Commonwealth Games** sett — one scale-free proportion (`dp3db17n
 [BBBBKW](/stripes/bbbbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Commonwealth Games](/tartans/c/co/commonwealth-games/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

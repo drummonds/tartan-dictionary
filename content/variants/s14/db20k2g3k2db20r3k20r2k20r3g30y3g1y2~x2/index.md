@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glynn"
+  url: "/clan/glynn/"
+- name: "Glynn of Glynnstewart"
+  url: "/families/glynn-of-glynnstewart/"
+- name: "Glynn of Glynnstewart"
+  url: "/tartans/g/gl/glynn-of-glynnstewart/"
 - name: "Glynn of Glynstewart (Personal)"
   url: "/setts/db20k2g3k2db20r3k20r2k20r3g30y3g1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20k2g3k2db20r3k20r2k20r3g30y3g1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBRKRKRGGGG](/stripes/bkgkbrkrkrgggg/).
+
+Part of the [Glynn of Glynnstewart](/tartans/g/gl/glynn-of-glynnstewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

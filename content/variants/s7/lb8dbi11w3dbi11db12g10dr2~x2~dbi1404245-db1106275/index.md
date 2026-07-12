@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Katrine"
+  url: "/tartans/l/lo/loch-katrine/"
+- name: "Loch Katrine"
   url: "/setts/lb8dbi11w3dbi11db12g10dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8dbi11w3dbi11db12g10dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBWBW](/stripes/bgbbwbw/).
+
+Part of the [Loch Katrine](/tartans/l/lo/loch-katrine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

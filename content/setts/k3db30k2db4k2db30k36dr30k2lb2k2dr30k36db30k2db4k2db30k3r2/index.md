@@ -6,6 +6,8 @@ This is the **Evans of Wales** sett — one scale-free proportion (`k3db30k2db4k
 [KBKBKBKBKWKBKBKBKBKR](/stripes/kbkbkbkbkwkbkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Evans of Wales](/tartans/e/ev/evans-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

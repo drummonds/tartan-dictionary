@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Air Force Reserve P. B. (Corpor"
+  url: "/tartans/u/u/u-s-air-force-reserve-p-b-corpor/"
+- name: "U.S. Air Force Reserve P. B. (Corpor"
   url: "/setts/db44k3ly20dr3db8k34db5k15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db44k3ly20dr3db8k34db5k15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYBBKBK](/stripes/bkybbkbk/).
+
+Part of the [U.S. Air Force Reserve P. B. (Corpor](/tartans/u/u/u-s-air-force-reserve-p-b-corpor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

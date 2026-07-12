@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Munro"
+  url: "/clan/munro/"
+- name: "Munro"
+  url: "/tartans/m/mu/munro-3/"
 - name: "Munro (Culloden)"
   url: "/setts/db6r8db1r2y5r5db5r5y1r2db1r2db1r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r8db1r2y5r5db5r5y1r2db1r2db1r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRBRGRBRBR](/stripes/brbrgrbrgrbrbr/).
+
+Part of the [Munro](/tartans/m/mu/munro-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

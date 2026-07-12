@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manchester City Football Club \"Blue Moon\""
+  url: "/tartans/m/ma/manchester-city-football-club-blue-moon/"
+- name: "Manchester City Football Club \"Blue Moon\""
   url: "/setts/db4lb16db4dr2db2k2db2w5db3y2db2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb16db4dr2db2k2db2w5db3y2db2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBKBWBGBW](/stripes/bwbbbkbwbgbw/).
+
+Part of the [Manchester City Football Club "Blue Moon"](/tartans/m/ma/manchester-city-football-club-blue-moon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

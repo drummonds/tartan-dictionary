@@ -6,6 +6,8 @@ This is the **Bro-Wened** sett — one scale-free proportion (`k43dr10w3k3w15db3
 [BWKWBK](/stripes/bwkwbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-Wened](/tartans/b/br/bro-wened/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

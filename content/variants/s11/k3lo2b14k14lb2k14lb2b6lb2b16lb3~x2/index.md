@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Immanuel Presbyterian Church"
+  url: "/tartans/i/im/immanuel-presbyterian-church/"
 - name: "Immanuel Presbyterian Church (Corp)"
   url: "/setts/k3lo2b14k14lb2k14lb2b6lb2b16lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lo2b14k14lb2k14lb2b6lb2b16lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYBKWKWBWBW](/stripes/kybkwkwbwbw/).
+
+Part of the [Immanuel Presbyterian Church](/tartans/i/im/immanuel-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

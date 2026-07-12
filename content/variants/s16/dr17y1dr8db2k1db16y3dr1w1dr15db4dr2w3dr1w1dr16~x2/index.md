@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ruxton Hunting"
+  url: "/tartans/r/ru/ruxton-hunting/"
+- name: "Ruxton Hunting"
   url: "/setts/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKBGBWBBBWBWB](/stripes/bgbbkbgbwbbbwbwb/).
+
+Part of the [Ruxton Hunting](/tartans/r/ru/ruxton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

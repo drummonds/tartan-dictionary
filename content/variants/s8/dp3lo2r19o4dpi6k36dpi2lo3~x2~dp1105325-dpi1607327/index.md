@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hyland Evening"
+  url: "/tartans/h/hy/hyland-evening/"
 - name: "Hyland Evening (Personal)"
   url: "/setts/dp3lo2r19o4dpi6k36dpi2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3lo2r19o4dpi6k36dpi2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYRRBKBYBKBRRY](/stripes/byrrbkbybkbrry/).
+
+Part of the [Hyland Evening](/tartans/h/hy/hyland-evening/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

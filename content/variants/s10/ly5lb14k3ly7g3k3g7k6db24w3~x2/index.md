@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kagame"
+  url: "/tartans/k/ka/kagame/"
 - name: "Kagame (Personal)"
   url: "/setts/ly5lb14k3ly7g3k3g7k6db24w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly5lb14k3ly7g3k3g7k6db24w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKGYKWY](/stripes/wbkgkgykwy/).
+
+Part of the [Kagame](/tartans/k/ka/kagame/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

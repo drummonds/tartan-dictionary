@@ -7,6 +7,8 @@ This is the **Hash House Harriers Hunting** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Hash House Harriers Hunting](/tartans/h/ha/hash-house-harriers-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

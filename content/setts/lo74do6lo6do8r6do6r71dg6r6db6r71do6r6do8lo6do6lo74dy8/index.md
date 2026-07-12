@@ -6,6 +6,8 @@ This is the **Macallan The** sett — one scale-free proportion (`lo74do6lo6do8r
 [GYBYBRBRBRGRBRBYBY](/stripes/gybybrbrbrgrbrbyby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Macallan The](/tartans/m/ma/macallan-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

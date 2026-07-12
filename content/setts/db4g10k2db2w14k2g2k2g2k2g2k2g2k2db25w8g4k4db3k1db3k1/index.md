@@ -6,6 +6,8 @@ This is the **Alberta, Quebec, Nova Scotia.** sett — one scale-free proportion
 [BGKBWKGKGKGKGKBWGKBKBK](/stripes/bgkbwkgkgkgkgkbwgkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Alberta, Quebec Nova Scotia](/tartans/a/al/alberta-quebec-nova-scotia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

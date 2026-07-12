@@ -6,6 +6,8 @@ This is the **Heritage Plaid** sett — one scale-free proportion (`r44db3k6ly2k
 [RBKYKYKRKRW](/stripes/rbkykykrkrw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Heritage](/tartans/h/he/heritage-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

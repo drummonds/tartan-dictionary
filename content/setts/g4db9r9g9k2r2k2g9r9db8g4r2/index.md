@@ -6,6 +6,8 @@ This is the **Stewart/Stuart C18th - Cf 1314 & 4454** sett — one scale-free pr
 [GBRGKRKGRBGR](/stripes/gbrgkrkgrbgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart/Stuart C18th](/tartans/s/st/stewart-stuart-c18th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

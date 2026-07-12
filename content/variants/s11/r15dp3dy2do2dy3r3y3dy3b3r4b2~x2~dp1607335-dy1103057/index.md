@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Chair Covering"
-  url: "/tartans/unidentified-chair-covering/"
+  url: "/tartans/u/un/unidentified-chair-covering/"
 - name: "Unidentified, chair covering"
   url: "/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r15dp3dy2do2dy3r3y3dy3b3r4b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGGRGBGBR](/stripes/brbggrgbgbr/).
 
-Part of the [Unidentified Chair Covering](/tartans/unidentified-chair-covering/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Chair Covering](/tartans/u/un/unidentified-chair-covering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

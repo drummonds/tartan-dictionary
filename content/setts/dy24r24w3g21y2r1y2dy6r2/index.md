@@ -6,6 +6,8 @@ This is the **Henry W.A. Canadian Tartan** sett — one scale-free proportion (`
 [GRWGGRGGR](/stripes/grwggrggr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Henry W.A.](/tartans/h/he/henry-w-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

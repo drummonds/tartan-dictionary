@@ -6,7 +6,7 @@ This is the **Holman (Personal)** sett — one scale-free proportion (`g7k12g12k
 [BGKGKBKGKG](/stripes/bgkgkbkgkg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Holman](/tartans/holman/) tartan — the named design grouping this sett with its kin.
+Part of the [Holman](/tartans/h/ho/holman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

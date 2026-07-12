@@ -6,7 +6,7 @@ This is the **McPeek (Fictitious clan)** sett — one scale-free proportion (`r6
 [GKKR](/stripes/gkkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [McPeek](/tartans/mcpeek/) tartan — the named design grouping this sett with its kin.
+Part of the [McPeek](/tartans/m/mc/mcpeek/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

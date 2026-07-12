@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New Star"
+  url: "/tartans/n/ne/new-star-2/"
 - name: "New Star (Fashion)"
   url: "/setts/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKBKBKBKBYBYBYBYKW](/stripes/bykbkbkbkbkbybybybykw/).
+
+Part of the [New Star](/tartans/n/ne/new-star-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

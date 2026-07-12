@@ -6,6 +6,8 @@ This is the **Land's End Camel** sett — one scale-free proportion (`ly24do2ly3
 [BYGBYGYBY](/stripes/bygbygyby/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Land's End Camel](/tartans/l/la/land-s-end-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

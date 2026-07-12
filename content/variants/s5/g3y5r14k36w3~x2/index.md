@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Papua New Guinea"
+  url: "/tartans/p/pa/papua-new-guinea/"
+- name: "Papua New Guinea"
   url: "/setts/g3y5r14k36w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3y5r14k36w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKW](/stripes/ggrkw/).
+
+Part of the [Papua New Guinea](/tartans/p/pa/papua-new-guinea/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

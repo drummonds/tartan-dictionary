@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lambert Dress"
-  url: "/tartans/lambert-dress/"
+  url: "/tartans/l/la/lambert-dress/"
 - name: "Lambert (Front Royal) Dress"
   url: "/setts/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKGWGKRBGBK](/stripes/bgbrkgwgkrbgbk/).
 
-Part of the [Lambert Dress](/tartans/lambert-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lambert Dress](/tartans/l/la/lambert-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

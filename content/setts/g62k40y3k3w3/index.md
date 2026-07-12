@@ -6,6 +6,8 @@ This is the **O'Donoghue** sett — one scale-free proportion (`g62k40y3k3w3`), 
 [GKGKW](/stripes/gkgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [O'Donoghue](/tartans/o/o/o-donoghue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

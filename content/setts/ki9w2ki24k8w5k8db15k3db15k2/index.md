@@ -6,6 +6,8 @@ This is the **Scottish Claymores** sett — one scale-free proportion (`ki9w2ki2
 [KBKBKWKKWK](/stripes/kbkbkwkkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Claymores](/tartans/s/sc/scottish-claymores-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Loch Katrine** sett — one scale-free proportion (`lb8dbi11w3dbi1
 [BGBBWBW](/stripes/bgbbwbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Loch Katrine](/tartans/l/lo/loch-katrine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

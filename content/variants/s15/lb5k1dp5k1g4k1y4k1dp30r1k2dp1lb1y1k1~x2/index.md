@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "House of Holland"
-  url: "/tartans/house-of-holland/"
+  url: "/tartans/h/ho/house-of-holland/"
 - name: "House of Holland (Fashion)"
   url: "/setts/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWBKRBKGKGKBKW](/stripes/kgwbkrbkgkgkbkw/).
 
-Part of the [House of Holland](/tartans/house-of-holland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [House of Holland](/tartans/h/ho/house-of-holland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

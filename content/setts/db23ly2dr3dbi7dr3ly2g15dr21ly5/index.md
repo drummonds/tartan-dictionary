@@ -6,6 +6,8 @@ This is the **Land's End Maroon** sett — one scale-free proportion (`db23ly2dr
 [BYBBBYGBY](/stripes/bybbbygby/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Land's End Maroon](/tartans/l/la/land-s-end-maroon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

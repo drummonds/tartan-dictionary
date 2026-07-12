@@ -6,6 +6,8 @@ This is the **Navy-Radar** sett — one scale-free proportion (`db51t8w4t30r1t9`
 [BBWBRB](/stripes/bbwbrb/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Navy-Radar](/tartans/n/na/navy-radar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

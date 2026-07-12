@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th-3/"
 - name: "Unnamed C18th - Hynde Cotton Jacket"
   url: "/setts/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/).
+
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

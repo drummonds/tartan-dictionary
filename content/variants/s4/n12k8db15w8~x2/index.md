@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Equity Vision Ltd"
+  url: "/tartans/e/eq/equity-vision-ltd/"
+- name: "Equity Vision Ltd"
   url: "/setts/n12k8db15w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12k8db15w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBW](/stripes/bkbw/).
+
+Part of the [Equity Vision Ltd](/tartans/e/eq/equity-vision-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Keeper of the Quaich"
-  url: "/tartans/keeper-of-the-quaich/"
+  url: "/tartans/k/ke/keeper-of-the-quaich/"
 - name: "Keeper of the Quaich Corporate Tartan"
   url: "/setts/do3db3do3db27do40dy3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do3db3do3db27do40dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBG](/stripes/bbbbbg/).
 
-Part of the [Keeper of the Quaich](/tartans/keeper-of-the-quaich/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Keeper of the Quaich](/tartans/k/ke/keeper-of-the-quaich/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

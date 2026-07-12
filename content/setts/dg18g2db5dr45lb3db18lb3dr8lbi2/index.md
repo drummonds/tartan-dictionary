@@ -6,7 +6,7 @@ This is the **MacNiven** sett — one scale-free proportion (`dg18g2db5dr45lb3db
 [GGBBWBWBW](/stripes/ggbbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [MacNiven](/tartans/macniven/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNiven](/tartans/m/ma/macniven/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

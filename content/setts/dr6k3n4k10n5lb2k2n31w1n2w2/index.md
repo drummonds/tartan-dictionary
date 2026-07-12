@@ -6,6 +6,8 @@ This is the **William Glen and Son** sett — one scale-free proportion (`dr6k3n
 [BKBKBWKBWBW](/stripes/bkbkbwkbwbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [William Glen and Son](/tartans/w/wi/william-glen-and-son/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

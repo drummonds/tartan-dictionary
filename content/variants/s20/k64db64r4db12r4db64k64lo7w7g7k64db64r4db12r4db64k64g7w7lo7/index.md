@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sandhu"
+  url: "/tartans/s/sa/sandhu-2/"
 - name: "Sandhu (Personal)"
   url: "/setts/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRBRBKYWGKBRBRBKGWY](/stripes/kbrbrbkywgkbrbrbkgwy/).
+
+Part of the [Sandhu](/tartans/s/sa/sandhu-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

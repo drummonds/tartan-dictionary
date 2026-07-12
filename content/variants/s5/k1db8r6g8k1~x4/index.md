@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh Military Tattoo 50th"
-  url: "/tartans/edinburgh-military-tattoo-50th/"
+  url: "/tartans/e/ed/edinburgh-military-tattoo-50th/"
 - name: "Edinburgh Military Tattoo 50th Military Tartan"
   url: "/setts/k1db8r6g8k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1db8r6g8k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRGK](/stripes/kbrgk/).
 
-Part of the [Edinburgh Military Tattoo 50th](/tartans/edinburgh-military-tattoo-50th/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Edinburgh Military Tattoo 50th](/tartans/e/ed/edinburgh-military-tattoo-50th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

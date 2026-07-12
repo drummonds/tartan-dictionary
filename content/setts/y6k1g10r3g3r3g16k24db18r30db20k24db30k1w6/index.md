@@ -6,6 +6,8 @@ This is the **Unidentified Flora MacDonald** sett — one scale-free proportion 
 [GKGRGRGKBRBKBKW](/stripes/gkgrgrgkbrbkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Flora MacDonald](/tartans/u/un/unidentified-flora-macdonald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

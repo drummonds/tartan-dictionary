@@ -6,7 +6,7 @@ This is the **Manson** sett — one scale-free proportion (`dg1r24dg8k8dg8r1k4db
 [GRGKGRKBW](/stripes/grgkgrkbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Manson](/tartans/manson/) tartan — the named design grouping this sett with its kin.
+Part of the [Manson](/tartans/m/ma/manson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

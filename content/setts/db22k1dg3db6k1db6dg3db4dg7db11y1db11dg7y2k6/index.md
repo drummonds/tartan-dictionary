@@ -6,6 +6,8 @@ This is the **Benyon of Wales** sett — one scale-free proportion (`db22k1dg3db
 [BKGBKBGBGBGBGGK](/stripes/bkgbkbgbgbgbggk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Benyon of Wales](/tartans/b/be/benyon-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

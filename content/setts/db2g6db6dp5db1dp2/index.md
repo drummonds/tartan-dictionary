@@ -6,6 +6,8 @@ This is the **Unidentified no. 54** sett — one scale-free proportion (`db2g6db
 [BBBBGB](/stripes/bbbbgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified no. 54](/tartans/u/un/unidentified-no-54/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

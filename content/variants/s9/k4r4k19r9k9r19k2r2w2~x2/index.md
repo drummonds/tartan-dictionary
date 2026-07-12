@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pink MacLeod"
+  url: "/tartans/p/pi/pink-macleod/"
 - name: "Pink MacLeod (Personal)"
   url: "/setts/k4r4k19r9k9r19k2r2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r4k19r9k9r19k2r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRW](/stripes/krkrkrkrw/).
+
+Part of the [Pink MacLeod](/tartans/p/pi/pink-macleod/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

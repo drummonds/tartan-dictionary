@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Connor"
+  url: "/tartans/o/o/o-connor-2/"
 - name: "O'Connor (Name)"
   url: "/setts/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/).
+
+Part of the [O'Connor](/tartans/o/o/o-connor-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

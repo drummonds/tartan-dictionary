@@ -7,7 +7,7 @@ This is the **Aviemore Check** sett — one scale-free proportion (`g2dy10g11ly4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1975**.
 
-Part of the [Aviemore Check](/tartans/aviemore-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Aviemore Check](/tartans/a/av/aviemore-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

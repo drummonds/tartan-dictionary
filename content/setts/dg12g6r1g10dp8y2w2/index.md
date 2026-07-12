@@ -6,6 +6,8 @@ This is the **Connelly, James (Personal)** sett — one scale-free proportion (`
 [GGRGBGW](/stripes/ggrgbgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Connelly, James](/tartans/c/co/connelly-james/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

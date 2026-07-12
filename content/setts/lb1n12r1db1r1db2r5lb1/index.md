@@ -6,6 +6,8 @@ This is the **Tenmaya Check** sett — one scale-free proportion (`lb1n12r1db1r1
 [WBRBRBRW](/stripes/wbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Tenmaya Check](/tartans/t/te/tenmaya-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

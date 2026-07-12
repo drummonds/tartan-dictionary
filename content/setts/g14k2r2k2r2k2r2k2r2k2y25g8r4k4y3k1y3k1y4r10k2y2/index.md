@@ -6,6 +6,8 @@ This is the **New Brunswick** sett — one scale-free proportion (`g14k2r2k2r2k2
 [GKRGKGKGKRGGKRKRKRKRKG](/stripes/gkrgkgkgkrggkrkrkrkrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [New Brunswick](/tartans/n/ne/new-brunswick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

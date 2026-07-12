@@ -6,7 +6,7 @@ This is the **Sildesalaten** sett — one scale-free proportion (`r32w4db7y2lb2`
 [RWBGW](/stripes/rwbgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Sildesalaten](/tartans/sildesalaten/) tartan — the named design grouping this sett with its kin.
+Part of the [Sildesalaten](/tartans/s/si/sildesalaten/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

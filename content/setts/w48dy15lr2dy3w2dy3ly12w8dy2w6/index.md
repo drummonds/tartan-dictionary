@@ -6,6 +6,8 @@ This is the **Loch Skene (Fashion)** sett — one scale-free proportion (`w48dy1
 [WGWYGWGYGW](/stripes/wgwygwgygw/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Loch Skene](/tartans/l/lo/loch-skene/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

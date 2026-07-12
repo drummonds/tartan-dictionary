@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buchanan 8"
+  url: "/tartans/b/bu/buchanan-8/"
 - name: "Buchanan #2"
   url: "/setts/w3r31k2lb4k2y8k2y8k2lb4k2g31lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3r31k2lb4k2y8k2y8k2lb4k2g31lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKWKGKGKWKRW](/stripes/wgkwkgkgkwkrw/).
+
+Part of the [Buchanan 8](/tartans/b/bu/buchanan-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

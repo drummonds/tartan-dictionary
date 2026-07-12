@@ -6,6 +6,8 @@ This is the **Mangles, Peter and Annette Family/Personal Tartan** sett — one s
 [GYWRGKR](/stripes/gywrgkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Mangles, Peter and Annette Family/Personal](/tartans/m/ma/mangles-peter-and-annette-family-personal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

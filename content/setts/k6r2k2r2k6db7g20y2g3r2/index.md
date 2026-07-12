@@ -6,7 +6,7 @@ This is the **Connolly Hunting** sett — one scale-free proportion (`k6r2k2r2k6
 [KRKRKBGGGR](/stripes/krkrkbgggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Connolly Hunting](/tartans/connolly-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Connolly Hunting](/tartans/c/co/connolly-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Talisman** sett — one scale-free proportion (`lr2db3k3g8dr6db2ly
 [YBKGBBYKYKBY](/stripes/ybkgbbykykby/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Talisman](/tartans/talisman/) tartan — the named design grouping this sett with its kin.
+Part of the [Talisman](/tartans/t/ta/talisman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

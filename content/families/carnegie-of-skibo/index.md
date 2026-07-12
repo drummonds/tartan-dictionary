@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Carnegie of Skibo tartan and all its setts →](/tartans/carnegie-of-skibo/)
+[See the Carnegie of Skibo tartan and all its setts →](/tartans/c/ca/carnegie-of-skibo/)
 

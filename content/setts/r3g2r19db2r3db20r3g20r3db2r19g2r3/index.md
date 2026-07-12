@@ -6,6 +6,8 @@ This is the **Robertson Curtain** sett — one scale-free proportion (`r3g2r19db
 [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Robertson Curtain](/tartans/r/ro/robertson-curtain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

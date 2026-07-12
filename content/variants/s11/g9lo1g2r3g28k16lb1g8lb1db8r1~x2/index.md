@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New York Caledonian Club Day"
+  url: "/tartans/n/ne/new-york-caledonian-club-day/"
+- name: "New York Caledonian Club Day"
   url: "/setts/g9lo1g2r3g28k16lb1g8lb1db8r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9lo1g2r3g28k16lb1g8lb1db8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGRGKWGWBR](/stripes/gygrgkwgwbr/).
+
+Part of the [New York Caledonian Club Day](/tartans/n/ne/new-york-caledonian-club-day/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

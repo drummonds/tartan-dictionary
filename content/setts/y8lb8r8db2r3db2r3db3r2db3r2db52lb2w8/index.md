@@ -6,6 +6,8 @@ This is the **Kiltwalk** sett — one scale-free proportion (`y8lb8r8db2r3db2r3d
 [GWRBRBRBRBRBWW](/stripes/gwrbrbrbrbrbww/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Kiltwalk](/tartans/k/ki/kiltwalk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

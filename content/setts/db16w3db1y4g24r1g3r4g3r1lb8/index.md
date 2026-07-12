@@ -6,6 +6,8 @@ This is the **Currie** sett — one scale-free proportion (`db16w3db1y4g24r1g3r4
 [BWBGGRGRGRW](/stripes/bwbggrgrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Currie](/tartans/c/cu/currie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

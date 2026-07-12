@@ -6,6 +6,8 @@ This is the **Louisville Spalding (Personal)** sett — one scale-free proportio
 [KBGRK](/stripes/kbgrk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Louisville Spalding](/tartans/l/lo/louisville-spalding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

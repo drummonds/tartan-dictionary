@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brian Boru 2014"
+  url: "/tartans/b/br/brian-boru-2014/"
+- name: "Brian Boru 2014"
   url: "/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBRBRBRBKRBR](/stripes/gbgbrbrbrbrbkrbr/).
+
+Part of the [Brian Boru 2014](/tartans/b/br/brian-boru-2014/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

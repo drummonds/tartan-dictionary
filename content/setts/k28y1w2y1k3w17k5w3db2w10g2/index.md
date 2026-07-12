@@ -6,6 +6,8 @@ This is the **Bro-Roazhon** sett — one scale-free proportion (`k28y1w2y1k3w17k
 [GWBWKWKGWGK](/stripes/gwbwkwkgwgk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-Roazhon](/tartans/b/br/bro-roazhon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

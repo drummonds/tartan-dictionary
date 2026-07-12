@@ -6,6 +6,8 @@ This is the **Romanes Check (Fashion)** sett — one scale-free proportion (`db2
 [BBBRB](/stripes/bbbrb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Romanes Check](/tartans/r/ro/romanes-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

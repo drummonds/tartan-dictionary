@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Auld Lang Syne"
-  url: "/tartans/auld-lang-syne-6/"
+  url: "/tartans/a/au/auld-lang-syne-6/"
 - name: "Auld Lang Syne"
   url: "/setts/k1t1k1t7dy7k1dy1lt1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1t1k1t7dy7k1dy1lt1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGW](/stripes/kbkbgkgw/).
 
-Part of the [Auld Lang Syne](/tartans/auld-lang-syne-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

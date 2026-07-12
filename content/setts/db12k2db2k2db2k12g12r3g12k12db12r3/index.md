@@ -6,6 +6,8 @@ This is the **Glenalmond College** sett — one scale-free proportion (`db12k2db
 [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/). It is recorded as a single **variant**, below.
 First attested **1936**.
 
+Part of the [Glenalmond College](/tartans/g/gl/glenalmond-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keith McCormick"
+  url: "/tartans/k/ke/keith-mccormick/"
 - name: "Keith McCormick (Personal)"
   url: "/setts/k1db5k4g3k1g3k6g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1db5k4g3k1g3k6g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBK](/stripes/gkgkgkbk/).
+
+Part of the [Keith McCormick](/tartans/k/ke/keith-mccormick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

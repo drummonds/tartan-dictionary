@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Platinum Golf Scotland"
+  url: "/tartans/p/pl/platinum-golf-scotland/"
+- name: "Platinum Golf Scotland"
   url: "/setts/n2k3dp1k45n1k2n2k2dg4r1dg1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2k3dp1k45n1k2n2k2dg4r1dg1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGRGW](/stripes/bkbkbkbkgrgw/).
+
+Part of the [Platinum Golf Scotland](/tartans/p/pl/platinum-golf-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

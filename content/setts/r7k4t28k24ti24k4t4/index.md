@@ -6,7 +6,7 @@ This is the **MacCorquodale** sett — one scale-free proportion (`r7k4t28k24ti2
 [BKBKBKR](/stripes/bkbkbkr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [MacCorquodale](/tartans/maccorquodale/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCorquodale](/tartans/m/ma/maccorquodale/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

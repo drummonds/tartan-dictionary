@@ -6,6 +6,8 @@ This is the **Highland Village** sett — one scale-free proportion (`ly2do1o10o
 [YBRRBYRBY](/stripes/ybrrbyrby/). It is recorded as a single **variant**, below.
 First attested **1901**.
 
+Part of the [Highland Village](/tartans/h/hi/highland-village/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

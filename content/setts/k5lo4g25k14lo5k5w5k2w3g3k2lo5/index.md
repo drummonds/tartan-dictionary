@@ -6,6 +6,8 @@ This is the **Heritage of Ireland (Fashion)** sett — one scale-free proportion
 [KYGKYKWKWGKY](/stripes/kygkykwkwgky/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Heritage of Ireland](/tartans/h/he/heritage-of-ireland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

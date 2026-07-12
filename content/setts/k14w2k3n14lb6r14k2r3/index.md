@@ -6,6 +6,8 @@ This is the **Raytheon** sett — one scale-free proportion (`k14w2k3n14lb6r14k2
 [KWKBWRKR](/stripes/kwkbwrkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Raytheon](/tartans/r/ra/raytheon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

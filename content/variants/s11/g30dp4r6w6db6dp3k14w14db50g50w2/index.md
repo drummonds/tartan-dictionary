@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brehat"
+  url: "/tartans/b/br/brehat/"
 - name: "Brehat (Personal)"
   url: "/setts/g30dp4r6w6db6dp3k14w14db50g50w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30dp4r6w6db6dp3k14w14db50g50w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRWBBKWBGW](/stripes/gbrwbbkwbgw/).
+
+Part of the [Brehat](/tartans/b/br/brehat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

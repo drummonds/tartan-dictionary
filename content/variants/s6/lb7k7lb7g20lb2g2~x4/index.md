@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Falconer"
+  url: "/clan/falconer/"
+- name: "Falconer of Labhdal"
+  url: "/families/falconer-of-labhdal/"
+- name: "Falconer of Labhdal"
+  url: "/tartans/f/fa/falconer-of-labhdal-2/"
 - name: "Falconer of Labhdal (Personal)"
   url: "/setts/lb7k7lb7g20lb2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb7k7lb7g20lb2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWKW](/stripes/gwgwkw/).
+
+Part of the [Falconer of Labhdal](/tartans/f/fa/falconer-of-labhdal-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

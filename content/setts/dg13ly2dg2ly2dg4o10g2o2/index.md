@@ -6,6 +6,8 @@ This is the **Oakwood** sett — one scale-free proportion (`dg13ly2dg2ly2dg4o10
 [GYGYGRGR](/stripes/gygygrgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Oakwood](/tartans/o/oa/oakwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

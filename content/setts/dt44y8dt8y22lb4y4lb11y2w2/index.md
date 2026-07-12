@@ -6,6 +6,8 @@ This is the **Titanium** sett — one scale-free proportion (`dt44y8dt8y22lb4y4l
 [BGBGWGWGW](/stripes/bgbgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Titanium](/tartans/t/ti/titanium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

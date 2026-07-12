@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKellar Cerise Dress"
+  url: "/tartans/m/ma/mackellar-cerise-dress/"
 - name: "MacKellar Cerise Dress Tartan"
   url: "/setts/r20w3r3lb4r3w3r5k10dp3w35k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20w3r3lb4r3w3r5k10dp3w35k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKRWRWRWR](/stripes/kwbkrwrwrwr/).
+
+Part of the [MacKellar Cerise Dress](/tartans/m/ma/mackellar-cerise-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

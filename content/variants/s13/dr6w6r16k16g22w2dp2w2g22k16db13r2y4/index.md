@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Colorado Rogues"
+  url: "/tartans/c/co/colorado-rogues/"
 - name: "Colorado Rogues (Corporate)"
   url: "/setts/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKGWBWGKBRG](/stripes/bwrkgwbwgkbrg/).
+
+Part of the [Colorado Rogues](/tartans/c/co/colorado-rogues/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

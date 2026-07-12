@@ -6,7 +6,7 @@ This is the **Reilly fae the Mearns (Personal)** sett — one scale-free proport
 [GWGKWGKGGRGYGW](/stripes/gwgkwgkggrgygw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Reilly fae the Mearns](/tartans/reilly-fae-the-mearns/) tartan — the named design grouping this sett with its kin.
+Part of the [Reilly fae the Mearns](/tartans/r/re/reilly-fae-the-mearns/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

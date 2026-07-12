@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of the Clyde"
+  url: "/tartans/p/pr/pride-of-the-clyde/"
+- name: "Pride of the Clyde"
   url: "/setts/dbi8w4db6dbi2db6n10db63w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi8w4db6dbi2db6n10db63w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBW](/stripes/bwbbbbbw/).
+
+Part of the [Pride of the Clyde](/tartans/p/pr/pride-of-the-clyde/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

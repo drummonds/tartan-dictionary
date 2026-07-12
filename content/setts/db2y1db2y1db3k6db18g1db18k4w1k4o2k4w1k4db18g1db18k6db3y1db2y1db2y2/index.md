@@ -6,6 +6,8 @@ This is the **Wupper** sett — one scale-free proportion (`db2y1db2y1db3k6db18g
 [BGBGBKBGBKWKRKWKBGBKBGBGBG](/stripes/bgbgbkbgbkwkrkwkbgbkbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Wupper](/tartans/w/wu/wupper/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

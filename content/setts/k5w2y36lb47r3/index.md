@@ -6,7 +6,7 @@ This is the **Oliver Dress Pink** sett — one scale-free proportion (`k5w2y36lb
 [KWGWR](/stripes/kwgwr/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
-Part of the [Cornish National Day](/tartans/cornish-national-day/) tartan — the named design grouping this sett with its kin.
+Part of the [Cornish National Day](/tartans/c/co/cornish-national-day/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

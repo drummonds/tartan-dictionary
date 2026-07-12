@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "77th Regiment"
+  url: "/tartans/0-9/0-9/77th-regiment/"
+- name: "77th Regiment"
   url: "/setts/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/).
+
+Part of the [77th Regiment](/tartans/0-9/0-9/77th-regiment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

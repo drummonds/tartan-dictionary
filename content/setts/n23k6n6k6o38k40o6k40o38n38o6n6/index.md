@@ -6,6 +6,8 @@ This is the **Monarch of Argyll (Fashion)** sett — one scale-free proportion (
 [BKBKRKRKRBRB](/stripes/bkbkrkrkrbrb/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Monarch of Argyll](/tartans/m/mo/monarch-of-argyll-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

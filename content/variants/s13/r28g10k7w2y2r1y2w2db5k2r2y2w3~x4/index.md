@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacGill"
   url: "/clan/macgill/"
 - name: "MacGill"
-  url: "/tartans/macgill/"
+  url: "/tartans/m/ma/macgill/"
 - name: "MacGill"
   url: "/setts/r28g10k7w2y2r1y2w2db5k2r2y2w3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r28g10k7w2y2r1y2w2db5k2r2y2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWGRGWBKRGW](/stripes/rgkwgrgwbkrgw/).
 
-Part of the [MacGill](/tartans/macgill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGill](/tartans/m/ma/macgill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

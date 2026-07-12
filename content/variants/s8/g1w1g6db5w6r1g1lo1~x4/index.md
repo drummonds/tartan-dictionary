@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vermont Dress"
+  url: "/tartans/v/ve/vermont-dress/"
+- name: "Vermont Dress"
   url: "/setts/g1w1g6db5w6r1g1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1w1g6db5w6r1g1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBWRGY](/stripes/gwgbwrgy/).
+
+Part of the [Vermont Dress](/tartans/v/ve/vermont-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

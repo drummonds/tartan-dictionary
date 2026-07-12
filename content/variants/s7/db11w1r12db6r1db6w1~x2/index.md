@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coronation"
-  url: "/tartans/coronation/"
+  url: "/tartans/c/co/coronation/"
 - name: "Coronation"
   url: "/setts/db11w1r12db6r1db6w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db11w1r12db6r1db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRBW](/stripes/bwrbrbw/).
 
-Part of the [Coronation](/tartans/coronation/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Coronation](/tartans/c/co/coronation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

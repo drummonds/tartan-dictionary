@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Burns (WCWM"
+  url: "/tartans/g/gl/glen-burns-wcwm/"
 - name: "Glen Burns (WCWM - 1)"
   url: "/setts/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBRKRBWBWBWBRKR](/stripes/bwbwbwbrkrbwbwbwbrkr/).
+
+Part of the [Glen Burns (WCWM](/tartans/g/gl/glen-burns-wcwm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

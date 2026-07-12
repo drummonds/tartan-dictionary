@@ -6,6 +6,8 @@ This is the **Grady Highlands Family Tartan** sett — one scale-free proportion
 [KRBRKBRGR](/stripes/krbrkbrgr/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Grady Highlands](/tartans/g/gr/grady-highlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

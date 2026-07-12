@@ -6,6 +6,8 @@ This is the **MacKinnon Hunting (Var) Clan Tartan** sett — one scale-free prop
 [RGGW](/stripes/rggw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacKinnon Hunting](/tartans/m/ma/mackinnon-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

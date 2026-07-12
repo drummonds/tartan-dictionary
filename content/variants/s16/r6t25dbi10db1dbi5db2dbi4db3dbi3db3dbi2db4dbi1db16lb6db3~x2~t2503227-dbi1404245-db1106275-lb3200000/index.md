@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Help for Heroes"
+  url: "/tartans/h/he/help-for-heroes-3/"
 - name: "Help for Heroes (Corporate)"
   url: "/setts/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBBBBBBBBR](/stripes/bwbbbbbbbbbbbbbr/).
+
+Part of the [Help for Heroes](/tartans/h/he/help-for-heroes-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

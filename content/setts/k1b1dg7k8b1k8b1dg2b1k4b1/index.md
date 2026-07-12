@@ -6,6 +6,8 @@ This is the **Clergy, or Priest** sett — one scale-free proportion (`k1b1dg7k8
 [BKBGBKBKGBK](/stripes/bkbgbkbkgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clergy, or Priest](/tartans/c/cl/clergy-or-priest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

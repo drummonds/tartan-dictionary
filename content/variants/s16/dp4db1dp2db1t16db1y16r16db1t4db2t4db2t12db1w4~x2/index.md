@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Romania"
+  url: "/tartans/s/sp/spirit-of-romania/"
+- name: "Spirit of Romania"
   url: "/setts/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGRBBBBBBBW](/stripes/bbbbbbgrbbbbbbbw/).
+
+Part of the [Spirit of Romania](/tartans/s/sp/spirit-of-romania/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **MacAlister of Skye (Clan?)** sett — one scale-free proportion (`
 [BKYBWKYKY](/stripes/bkybwkyky/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
+Part of the [MacAlister of Skye](/tartans/m/ma/macalister-of-skye/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

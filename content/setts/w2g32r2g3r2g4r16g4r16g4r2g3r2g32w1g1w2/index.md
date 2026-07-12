@@ -6,7 +6,7 @@ This is the **Rothesay, hunting** sett — one scale-free proportion (`w2g32r2g3
 [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Rothesay Hunting](/tartans/rothesay-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Rothesay Hunting](/tartans/r/ro/rothesay-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

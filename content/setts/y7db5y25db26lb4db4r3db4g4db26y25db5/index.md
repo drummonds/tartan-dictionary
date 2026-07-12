@@ -7,6 +7,8 @@ This is the **O Savaaoo** sett — one scale-free proportion (`y7db5y25db26lb4db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [O Savanao](/tartans/o/o/o-savanao/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

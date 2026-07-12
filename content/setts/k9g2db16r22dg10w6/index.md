@@ -7,6 +7,8 @@ This is the **Nicolson of Taransay (Personal)** sett — one scale-free proporti
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2008**.
 
+Part of the [Nicolson of Taransay](/tartans/n/ni/nicolson-of-taransay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

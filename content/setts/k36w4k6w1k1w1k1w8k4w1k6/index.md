@@ -6,6 +6,8 @@ This is the **Royal Stewart B & W (Universal?)** sett — one scale-free proport
 [KWKWKWKWKWK](/stripes/kwkwkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **~1906**.
 
+Part of the [Royal Stewart B & W](/tartans/r/ro/royal-stewart-b-w/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

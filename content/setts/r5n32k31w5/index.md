@@ -7,6 +7,8 @@ This is the **Loganair, Uniform Skirt** sett — one scale-free proportion (`r5n
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1985**.
 
+Part of the [Loganair Uniform Skirt](/tartans/l/lo/loganair-uniform-skirt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

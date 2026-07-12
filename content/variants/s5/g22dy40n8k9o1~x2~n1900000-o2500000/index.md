@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holehouse, Dag"
+  url: "/tartans/h/ho/holehouse-dag/"
 - name: "Holehouse, Dag (Personal)"
   url: "/setts/g22dy40n8k9o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g22dy40n8k9o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKR](/stripes/ggbkr/).
+
+Part of the [Holehouse, Dag](/tartans/h/ho/holehouse-dag/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

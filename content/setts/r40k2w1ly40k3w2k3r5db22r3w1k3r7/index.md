@@ -7,6 +7,8 @@ This is the **K9** sett — one scale-free proportion (`r40k2w1ly40k3w2k3r5db22r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1977**.
 
+Part of the [K9](/tartans/k/k/k9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

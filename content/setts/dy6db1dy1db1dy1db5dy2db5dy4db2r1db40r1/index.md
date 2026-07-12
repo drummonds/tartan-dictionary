@@ -6,7 +6,7 @@ This is the **Angotta** sett — one scale-free proportion (`dy6db1dy1db1dy1db5d
 [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Angotta](/tartans/angotta/) tartan — the named design grouping this sett with its kin.
+Part of the [Angotta](/tartans/a/an/angotta/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

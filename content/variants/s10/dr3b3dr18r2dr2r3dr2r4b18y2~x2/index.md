@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "FC Barcelona"
+  url: "/tartans/f/fc/fc-barcelona/"
 - name: "FC Barcelona (Corporate)"
   url: "/setts/dr3b3dr18r2dr2r3dr2r4b18y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3b3dr18r2dr2r3dr2r4b18y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBRBRBG](/stripes/bbbrbrbrbg/).
+
+Part of the [FC Barcelona](/tartans/f/fc/fc-barcelona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

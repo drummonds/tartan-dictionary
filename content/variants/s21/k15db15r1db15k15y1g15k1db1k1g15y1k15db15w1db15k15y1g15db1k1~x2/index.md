@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Perthshire Highland Society"
+  url: "/tartans/p/pe/perthshire-highland-society/"
 - name: "Perthshire Highland Society (Corp)"
   url: "/setts/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGGKBWBKGGKBKGGKBRBK](/stripes/kbggkbwbkggkbkggkbrbk/).
+
+Part of the [Perthshire Highland Society](/tartans/p/pe/perthshire-highland-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

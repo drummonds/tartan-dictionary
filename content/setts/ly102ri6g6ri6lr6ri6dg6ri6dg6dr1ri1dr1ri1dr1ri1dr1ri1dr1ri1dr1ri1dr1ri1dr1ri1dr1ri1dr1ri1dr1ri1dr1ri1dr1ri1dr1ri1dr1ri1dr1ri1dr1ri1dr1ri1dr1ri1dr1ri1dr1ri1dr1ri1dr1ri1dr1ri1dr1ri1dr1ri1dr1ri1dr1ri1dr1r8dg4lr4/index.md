@@ -6,6 +6,8 @@ This is the **Collinet (Personal)** sett — one scale-free proportion (`ly102ri
 [YGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBGRGRYRGRY](/stripes/ygrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbgrgryrgry/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Collinet](/tartans/c/co/collinet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

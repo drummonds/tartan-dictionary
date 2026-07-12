@@ -6,7 +6,7 @@ This is the **Lock in Northumberland (Name)** sett — one scale-free proportion
 [BYKWKRYW](/stripes/bykwkryw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Lock in Northumberland](/tartans/lock-in-northumberland/) tartan — the named design grouping this sett with its kin.
+Part of the [Lock in Northumberland](/tartans/l/lo/lock-in-northumberland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

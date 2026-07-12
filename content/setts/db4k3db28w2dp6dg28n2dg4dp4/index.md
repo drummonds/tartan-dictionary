@@ -6,6 +6,8 @@ This is the **Canmore** sett — one scale-free proportion (`db4k3db28w2dp6dg28n
 [BGBGBWBKB](/stripes/bgbgbwbkb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Canmore](/tartans/c/ca/canmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

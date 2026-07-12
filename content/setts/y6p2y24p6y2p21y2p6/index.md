@@ -6,6 +6,8 @@ This is the **MacLachlan (Chief's Dress) Blue** sett — one scale-free proporti
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacLachlan](/tartans/m/ma/maclachlan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

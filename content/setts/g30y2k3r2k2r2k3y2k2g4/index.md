@@ -6,7 +6,7 @@ This is the **Forde** sett — one scale-free proportion (`g30y2k3r2k2r2k3y2k2g4
 [GGKRKRKGKG](/stripes/ggkrkrkgkg/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [Forde](/tartans/forde/) tartan — the named design grouping this sett with its kin.
+Part of the [Forde](/tartans/f/fo/forde/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

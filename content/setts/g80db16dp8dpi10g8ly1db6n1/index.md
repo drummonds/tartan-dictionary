@@ -6,6 +6,8 @@ This is the **Heather Isle** sett — one scale-free proportion (`g80db16dp8dpi1
 [BBBGYBBBYGBBBG](/stripes/bbbgybbbygbbbg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Heather Isle](/tartans/h/he/heather-isle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

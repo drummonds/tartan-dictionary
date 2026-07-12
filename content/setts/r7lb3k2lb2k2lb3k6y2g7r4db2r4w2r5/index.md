@@ -6,6 +6,8 @@ This is the **Caledonia Variant** sett — one scale-free proportion (`r7lb3k2lb
 [RWKWKWKGGRBRWR](/stripes/rwkwkwkggrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Caledonia Variant](/tartans/c/ca/caledonia-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

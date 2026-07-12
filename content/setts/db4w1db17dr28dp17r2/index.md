@@ -7,6 +7,8 @@ This is the **Sail Chalmadale** sett — one scale-free proportion (`db4w1db17dr
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Sail Chalmadale](/tartans/s/sa/sail-chalmadale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

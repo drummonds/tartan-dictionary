@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cercle de Fermières Varennes"
+  url: "/tartans/c/ce/cercle-de-fermi-res-varennes/"
+- name: "Cercle de Fermières Varennes"
   url: "/setts/db30r3w10g14r3o30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30r3w10g14r3o30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWGRR](/stripes/brwgrr/).
+
+Part of the [Cercle de Fermières Varennes](/tartans/c/ce/cercle-de-fermi-res-varennes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

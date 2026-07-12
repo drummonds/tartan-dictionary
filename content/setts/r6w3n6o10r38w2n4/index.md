@@ -6,7 +6,7 @@ This is the **Washington State University Cougar** sett — one scale-free propo
 [BWRRBWR](/stripes/bwrrbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Washington State University Cougar](/tartans/washington-state-university-cougar/) tartan — the named design grouping this sett with its kin.
+Part of the [Washington State University Cougar](/tartans/w/wa/washington-state-university-cougar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

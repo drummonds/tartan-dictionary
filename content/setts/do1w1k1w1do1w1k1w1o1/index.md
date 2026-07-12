@@ -6,6 +6,8 @@ This is the **Dupplin Check** sett — one scale-free proportion (`do1w1k1w1do1w
 [BWKWBWKWR](/stripes/bwkwbwkwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dupplin Check](/tartans/d/du/dupplin-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sacramento City Fire Department** sett — one scale-free proporti
 [BWBKGKRKGKBWBKGKRKGKBWBG](/stripes/bwbkgkrkgkbwbkgkrkgkbwbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Sacramento City Fire Department](/tartans/s/sa/sacramento-city-fire-department/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

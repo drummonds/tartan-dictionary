@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Utah"
+  url: "/tartans/s/st/state-seal-of-utah/"
 - name: "State Seal of Utah (Fashion)"
   url: "/setts/db48ly25dy15dr7w5db7k10w10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48ly25dy15dr7w5db7k10w10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGBWBKW](/stripes/bygbwbkw/).
+
+Part of the [State Seal of Utah](/tartans/s/st/state-seal-of-utah/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inneryne"
-  url: "/tartans/inneryne/"
+  url: "/tartans/i/in/inneryne/"
 - name: "Inneryne (Personal)"
   url: "/setts/db4k3db16k14g14r3g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4k3db16k14g14r3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRG](/stripes/bkbkgrg/).
 
-Part of the [Inneryne](/tartans/inneryne/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inneryne](/tartans/i/in/inneryne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

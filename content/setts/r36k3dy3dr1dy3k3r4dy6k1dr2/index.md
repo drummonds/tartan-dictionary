@@ -6,6 +6,8 @@ This is the **Moulin** sett — one scale-free proportion (`r36k3dy3dr1dy3k3r4dy
 [BKGRKGBGKR](/stripes/bkgrkgbgkr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Chateau](/tartans/c/ch/chateau/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

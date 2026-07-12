@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Ballet"
+  url: "/tartans/s/sc/scottish-ballet/"
+- name: "Scottish Ballet"
   url: "/setts/dy5g22dp15dpi11dp5g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy5g22dp15dpi11dp5g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBGG](/stripes/gbbbgg/).
+
+Part of the [Scottish Ballet](/tartans/s/sc/scottish-ballet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

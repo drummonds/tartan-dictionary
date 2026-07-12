@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Highland Yacht Club"
+  url: "/tartans/r/ro/royal-highland-yacht-club/"
+- name: "Royal Highland Yacht Club"
   url: "/setts/k26db3k1o2k1db3k3db12dg14k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k26db3k1o2k1db3k3db12dg14k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKBKBGKW](/stripes/kbkrkbkbgkw/).
+
+Part of the [Royal Highland Yacht Club](/tartans/r/ro/royal-highland-yacht-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Dorward/Dogwood** sett — one scale-free proportion (`dy7r3dy9g15
 [GRGGBGR](/stripes/grggbgr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Dorward/Dogwood](/tartans/d/do/dorward-dogwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pollock Clan Tartan** sett — one scale-free proportion (`g3r16w4
 [GRGKWRG](/stripes/grgkwrg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Pollock](/tartans/p/po/pollock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celtic Pride"
+  url: "/tartans/c/ce/celtic-pride/"
+- name: "Celtic Pride"
   url: "/setts/g10ly3w2k2g8k22g43lo4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10ly3w2k2g8k22g43lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYWKGKGY](/stripes/gywkgkgy/).
+
+Part of the [Celtic Pride](/tartans/c/ce/celtic-pride/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

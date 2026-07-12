@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae of Ardentoul"
+  url: "/families/macrae-of-ardentoul/"
+- name: "MacRae of Ardentoul"
+  url: "/tartans/m/ma/macrae-of-ardentoul/"
 - name: "MacRae of Ardentoul"
   url: "/setts/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRGKWBGBWR](/stripes/rkrkrkrgkwbgbwr/).
+
+Part of the [MacRae of Ardentoul](/tartans/m/ma/macrae-of-ardentoul/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

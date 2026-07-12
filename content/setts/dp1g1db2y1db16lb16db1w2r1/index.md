@@ -6,6 +6,8 @@ This is the **Eastern States Exposition-West Springfield** sett — one scale-fr
 [BGBGBWBWR](/stripes/bgbgbwbwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Eastern States Exposition-West Springfield](/tartans/e/ea/eastern-states-exposition-west-springfield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

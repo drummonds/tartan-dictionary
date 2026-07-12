@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ford & Etal"
+  url: "/tartans/f/fo/ford-etal/"
+- name: "Ford & Etal"
   url: "/setts/k3w1r16k1g21t9k6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3w1r16k1g21t9k6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKGBKW](/stripes/kwrkgbkw/).
+
+Part of the [Ford & Etal](/tartans/f/fo/ford-etal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

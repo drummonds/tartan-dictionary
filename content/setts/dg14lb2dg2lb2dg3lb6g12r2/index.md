@@ -6,6 +6,8 @@ This is the **Cranston** sett — one scale-free proportion (`dg14lb2dg2lb2dg3lb
 [GWGWGWGR](/stripes/gwgwgwgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Cranston](/tartans/c/cr/cranston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Eternity Fashion Tartan** sett — one scale-free proportion (`n88
 [BGYKK](/stripes/bgykk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Eternity](/tartans/eternity/) tartan — the named design grouping this sett with its kin.
+Part of the [Eternity](/tartans/e/et/eternity/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

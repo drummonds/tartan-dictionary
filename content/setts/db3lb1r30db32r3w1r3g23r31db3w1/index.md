@@ -6,6 +6,8 @@ This is the **MacDonald of Glenaladale Artifact Tartan** sett — one scale-free
 [BWRBRWRGRBW](/stripes/bwrbrwrgrbw/). It is recorded as a single **variant**, below.
 First attested **~1745**.
 
+Part of the [MacDonald of Glenaladale](/tartans/m/ma/macdonald-of-glenaladale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fox Hunting"
+  url: "/tartans/f/fo/fox-hunting/"
+- name: "Fox Hunting"
   url: "/setts/r4k2g36k2t18y3t18k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k2g36k2t18y3t18k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBKGKR](/stripes/kbgbkgkr/).
+
+Part of the [Fox Hunting](/tartans/f/fo/fox-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

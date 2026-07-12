@@ -7,6 +7,8 @@ This is the **Stuart of Bute Clan Tartan** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1840**.
 
+Part of the [Stuart of Bute](/tartans/s/st/stuart-of-bute/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

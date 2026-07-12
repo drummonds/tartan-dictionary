@@ -6,6 +6,8 @@ This is the **Aquascutum** sett — one scale-free proportion (`dy1w2db1`), colo
 [BWG](/stripes/bwg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Aquascutum](/tartans/a/aq/aquascutum-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

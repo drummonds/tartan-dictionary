@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heritage of Wales"
+  url: "/tartans/h/he/heritage-of-wales/"
 - name: "Heritage of Wales (Fashion)"
   url: "/setts/r10db4r6db30k10db5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10db4r6db30k10db5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBW](/stripes/rbrbkbw/).
+
+Part of the [Heritage of Wales](/tartans/h/he/heritage-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

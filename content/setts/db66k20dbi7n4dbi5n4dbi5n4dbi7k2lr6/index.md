@@ -6,6 +6,8 @@ This is the **Muir Homes** sett — one scale-free proportion (`db66k20dbi7n4dbi
 [BKBBBBBBBKY](/stripes/bkbbbbbbbky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Muir Homes](/tartans/m/mu/muir-homes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

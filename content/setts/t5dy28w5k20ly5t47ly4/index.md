@@ -6,6 +6,8 @@ This is the **State Seal of Washington (Fashion)** sett — one scale-free propo
 [BGWKYBY](/stripes/bgwkyby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Washington](/tartans/s/st/state-seal-of-washington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

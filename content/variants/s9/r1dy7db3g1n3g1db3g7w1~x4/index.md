@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Adamson"
+  url: "/tartans/a/ad/adamson/"
 - name: "Adamson (Personal)"
   url: "/setts/r1dy7db3g1n3g1db3g7w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1dy7db3g1n3g1db3g7w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBGBGW](/stripes/rgbgbgbgw/).
+
+Part of the [Adamson](/tartans/a/ad/adamson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

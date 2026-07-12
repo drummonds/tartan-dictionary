@@ -6,7 +6,7 @@ This is the **Western Isles Fashion Tartan** sett — one scale-free proportion 
 [GRBGBGKGKRBW](/stripes/grbgbgkgkrbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Western Isles](/tartans/western-isles/) tartan — the named design grouping this sett with its kin.
+Part of the [Western Isles](/tartans/w/we/western-isles/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oakwood"
+  url: "/tartans/o/oa/oakwood/"
+- name: "Oakwood"
   url: "/setts/dg13ly2dg2ly2dg4o10g2o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg13ly2dg2ly2dg4o10g2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGRGR](/stripes/gygygrgr/).
+
+Part of the [Oakwood](/tartans/o/oa/oakwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

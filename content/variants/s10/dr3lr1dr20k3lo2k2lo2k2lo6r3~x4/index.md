@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Motherwell F.C. Fir Park Dress (Spor"
+  url: "/tartans/m/mo/motherwell-f-c-fir-park-dress-spor/"
+- name: "Motherwell F.C. Fir Park Dress (Spor"
   url: "/setts/dr3lr1dr20k3lo2k2lo2k2lo6r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lr1dr20k3lo2k2lo2k2lo6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKYKYKYR](/stripes/bybkykykyr/).
+
+Part of the [Motherwell F.C. Fir Park Dress (Spor](/tartans/m/mo/motherwell-f-c-fir-park-dress-spor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

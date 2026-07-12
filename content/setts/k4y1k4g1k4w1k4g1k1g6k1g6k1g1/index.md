@@ -6,7 +6,7 @@ This is the **MacAlpine Clan Tartan** sett — one scale-free proportion (`k4y1k
 [GKGKGKGKWKGKGK](/stripes/gkgkgkgkwkgkgk/). It is recorded as a single **variant**, below.
 First attested **1908**.
 
-Part of the [MacAlpine](/tartans/macalpine-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAlpine](/tartans/m/ma/macalpine-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

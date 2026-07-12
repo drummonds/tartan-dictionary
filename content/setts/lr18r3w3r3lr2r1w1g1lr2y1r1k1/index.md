@@ -6,7 +6,7 @@ This is the **Studio Wolf Polysun** sett — one scale-free proportion (`lr18r3w
 [KRGYGWRYRWRY](/stripes/krgygwryrwry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Studio Wolf Polysun](/tartans/studio-wolf-polysun/) tartan — the named design grouping this sett with its kin.
+Part of the [Studio Wolf Polysun](/tartans/s/st/studio-wolf-polysun/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

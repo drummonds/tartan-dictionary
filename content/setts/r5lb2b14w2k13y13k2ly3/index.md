@@ -6,6 +6,8 @@ This is the **Culloden, Gold** sett — one scale-free proportion (`r5lb2b14w2k1
 [RWBWKGKY](/stripes/rwbwkgky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Culloden, Gold](/tartans/c/cu/culloden-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

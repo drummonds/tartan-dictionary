@@ -6,6 +6,8 @@ This is the **Jong Nederland Born Union, Dress** sett — one scale-free proport
 [GKWKYWWBWBWBWWYKWK](/stripes/gkwkywwbwbwbwwykwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Jong Nederland Born Union, Dress](/tartans/j/jo/jong-nederland-born-union-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

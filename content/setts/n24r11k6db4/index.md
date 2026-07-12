@@ -6,6 +6,8 @@ This is the **Nebar (Corporate)** sett — one scale-free proportion (`n24r11k6d
 [BKRB](/stripes/bkrb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Nebar](/tartans/n/ne/nebar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

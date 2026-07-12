@@ -6,6 +6,8 @@ This is the **Weir Clan Tartan** sett — one scale-free proportion (`k8y1k1db28
 [KGKBKGKW](/stripes/kgkbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Weir](/tartans/w/we/weir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

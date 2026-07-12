@@ -6,6 +6,8 @@ This is the **Graham Grey - 1820 (Fashion?)** sett — one scale-free proportion
 [BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Graham](/tartans/g/gr/graham-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

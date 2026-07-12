@@ -7,6 +7,8 @@ This is the **Oban** sett — one scale-free proportion (`k6db10k10b1k1b1k10b6`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1983**.
 
+Part of the [Oban](/tartans/o/ob/oban-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fothergill (Personal)** sett — one scale-free proportion (`w50db
 [WBGGBRBBWBW](/stripes/wbggbrbbwbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Fothergill](/tartans/f/fo/fothergill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Winthrop University (Corporate)** sett — one scale-free proporti
 [BWBBBBBBYBYBYWY](/stripes/bwbbbbbbybybywy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Winthrop University](/tartans/winthrop-university/) tartan — the named design grouping this sett with its kin.
+Part of the [Winthrop University](/tartans/w/wi/winthrop-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

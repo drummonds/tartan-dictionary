@@ -6,6 +6,8 @@ This is the **Aberdeen-Angus Cattle Society (Corp)** sett — one scale-free pro
 [GKGKGKYG](/stripes/gkgkgkyg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Aberdeen-Angus Cattle Society](/tartans/a/ab/aberdeen-angus-cattle-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

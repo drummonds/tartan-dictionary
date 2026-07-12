@@ -6,7 +6,7 @@ This is the **MacGregor #2** sett — one scale-free proportion (`r39g6r2g3w1`),
 [RGRGW](/stripes/rgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacGregor](/tartans/macgregor-11/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor](/tartans/m/ma/macgregor-11/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

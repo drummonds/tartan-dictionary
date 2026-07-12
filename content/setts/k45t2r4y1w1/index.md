@@ -6,7 +6,7 @@ This is the **McHattie (Personal)** sett — one scale-free proportion (`k45t2r4
 [KBRGW](/stripes/kbrgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [McHattie](/tartans/mchattie/) tartan — the named design grouping this sett with its kin.
+Part of the [McHattie](/tartans/m/mc/mchattie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

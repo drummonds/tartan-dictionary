@@ -6,7 +6,7 @@ This is the **Justus #2 (Personal)** sett — one scale-free proportion (`k5lo1k
 [KYKY](/stripes/kyky/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Justus](/tartans/justus-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Justus](/tartans/j/ju/justus-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

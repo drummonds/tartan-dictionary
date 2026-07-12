@@ -6,7 +6,7 @@ This is the **Tombow 140th Anniversary, The** sett — one scale-free proportion
 [BWBGYGG](/stripes/bwbgygg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Tombow 140th Anniversary, The](/tartans/tombow-140th-anniversary-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Tombow 140th Anniversary, The](/tartans/t/to/tombow-140th-anniversary-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

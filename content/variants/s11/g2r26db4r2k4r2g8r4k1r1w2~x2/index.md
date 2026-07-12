@@ -10,7 +10,7 @@ crumbs:
 - name: "Stewart of Rothesay"
   url: "/families/stewart-of-rothesay/"
 - name: "Stewart of Rothesay"
-  url: "/tartans/stewart-of-rothesay/"
+  url: "/tartans/s/st/stewart-of-rothesay/"
 - name: "Stewart of Rothesay Clan Tartan"
   url: "/setts/g2r26db4r2k4r2g8r4k1r1w2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2r26db4r2k4r2g8r4k1r1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRKRGRKRW](/stripes/grbrkrgrkrw/).
 
-Part of the [Stewart of Rothesay](/tartans/stewart-of-rothesay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart of Rothesay](/tartans/s/st/stewart-of-rothesay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

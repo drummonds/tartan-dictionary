@@ -6,6 +6,8 @@ This is the **Glenorchy #2** sett — one scale-free proportion (`g3r2w1db18r2g8
 [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glenorchy](/tartans/g/gl/glenorchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

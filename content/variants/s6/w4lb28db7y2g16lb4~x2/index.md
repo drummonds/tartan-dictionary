@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allanton"
+  url: "/tartans/a/al/allanton/"
 - name: "Allanton (Fashion)"
   url: "/setts/w4lb28db7y2g16lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb28db7y2g16lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGBWW](/stripes/wggbww/).
+
+Part of the [Allanton](/tartans/a/al/allanton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

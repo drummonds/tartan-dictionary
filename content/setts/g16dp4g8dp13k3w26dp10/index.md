@@ -6,6 +6,8 @@ This is the **Because You Care** sett — one scale-free proportion (`g16dp4g8dp
 [BWKBGBG](/stripes/bwkbgbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Because You Care](/tartans/b/be/because-you-care/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

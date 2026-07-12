@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Doohan , Andrew"
+  url: "/tartans/d/do/doohan-andrew/"
 - name: "Doohan (New South Wales), Andrew"
   url: "/setts/db2y1r4db4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2y1r4db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBW](/stripes/bgrbw/).
+
+Part of the [Doohan , Andrew](/tartans/d/do/doohan-andrew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

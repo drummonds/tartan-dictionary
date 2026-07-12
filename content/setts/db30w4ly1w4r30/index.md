@@ -6,7 +6,7 @@ This is the **Philippine Heritage (Corporate)** sett — one scale-free proporti
 [BWYWR](/stripes/bwywr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Philippine Heritage](/tartans/philippine-heritage/) tartan — the named design grouping this sett with its kin.
+Part of the [Philippine Heritage](/tartans/p/ph/philippine-heritage/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

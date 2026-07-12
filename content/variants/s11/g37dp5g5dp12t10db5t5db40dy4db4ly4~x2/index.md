@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of North Dakota"
+  url: "/tartans/s/st/state-seal-of-north-dakota/"
 - name: "State Seal of North Dakota (Fashion)"
   url: "/setts/g37dp5g5dp12t10db5t5db40dy4db4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g37dp5g5dp12t10db5t5db40dy4db4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBBBGBY](/stripes/gbgbbbbbgby/).
+
+Part of the [State Seal of North Dakota](/tartans/s/st/state-seal-of-north-dakota/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

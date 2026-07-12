@@ -6,6 +6,8 @@ This is the **Roddy's Highland Spirit (Fashion)** sett — one scale-free propor
 [GBGBGBGGWG](/stripes/gbgbgbggwg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Roddy's Highland Spirit](/tartans/r/ro/roddy-s-highland-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McEachem"
+  url: "/tartans/m/mc/mceachem/"
 - name: "McEachem (Name)"
   url: "/setts/n7w1r6db10g10w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n7w1r6db10g10w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBGW](/stripes/bwrbgw/).
+
+Part of the [McEachem](/tartans/m/mc/mceachem/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

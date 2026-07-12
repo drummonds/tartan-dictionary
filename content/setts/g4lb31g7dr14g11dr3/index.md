@@ -6,6 +6,8 @@ This is the **Gleneagles USA (Dalgleish)** sett — one scale-free proportion (`
 [BGBGWG](/stripes/bgbgwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gleneagles USA](/tartans/g/gl/gleneagles-usa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

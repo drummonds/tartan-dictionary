@@ -6,7 +6,7 @@ This is the **Parr Family Tartan** sett — one scale-free proportion (`db62r1db
 [BRBRBKGWGK](/stripes/brbrbkgwgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Parr](/tartans/parr/) tartan — the named design grouping this sett with its kin.
+Part of the [Parr](/tartans/p/pa/parr/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

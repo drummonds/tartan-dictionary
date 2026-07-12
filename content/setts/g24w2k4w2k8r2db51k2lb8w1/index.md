@@ -7,6 +7,8 @@ This is the **Victoria (Australia)** sett — one scale-free proportion (`g24w2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1998**.
 
+Part of the [Victoria](/tartans/v/vi/victoria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

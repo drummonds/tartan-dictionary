@@ -6,6 +6,8 @@ This is the **MacBean Dress** sett — one scale-free proportion (`g10w4r4dr4g2d
 [GWRBGBRWGWWWWWKR](/stripes/gwrbgbrwgwwwwwkr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [MacBean Dress](/tartans/m/ma/macbean-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

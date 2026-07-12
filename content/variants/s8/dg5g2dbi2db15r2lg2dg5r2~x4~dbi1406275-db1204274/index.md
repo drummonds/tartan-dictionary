@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Remember the Somme 1916"
-  url: "/tartans/remember-the-somme-1916/"
+  url: "/tartans/r/re/remember-the-somme-1916/"
 - name: "Remember the Somme 1916"
   url: "/setts/dg5g2dbi2db15r2lg2dg5r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg5g2dbi2db15r2lg2dg5r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBRYGR](/stripes/ggbbrygr/).
 
-Part of the [Remember the Somme 1916](/tartans/remember-the-somme-1916/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Remember the Somme 1916](/tartans/r/re/remember-the-somme-1916/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

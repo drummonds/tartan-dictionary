@@ -6,6 +6,8 @@ This is the **MMK 1777** sett — one scale-free proportion (`w30k1r7dg7r8w1r2`)
 [RWRGRKW](/stripes/rwrgrkw/). It is recorded as a single **variant**, below.
 First attested **1777**.
 
+Part of the [MMK 1777](/tartans/m/mm/mmk-1777/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

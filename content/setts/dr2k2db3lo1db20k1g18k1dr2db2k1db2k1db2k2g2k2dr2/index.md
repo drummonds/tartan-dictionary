@@ -6,6 +6,8 @@ This is the **Craig (Personal)** sett — one scale-free proportion (`dr2k2db3lo
 [BKBYBKGKBBKBKBKGKB](/stripes/bkbybkgkbbkbkbkgkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Craig](/tartans/c/cr/craig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

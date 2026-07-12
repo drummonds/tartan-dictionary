@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCall"
+  url: "/tartans/m/mc/mccall-2/"
 - name: "McCall (Name)"
   url: "/setts/dr8k5dr8g27dr8w2dr3g3dr3w2dr8dy27dr8dy3dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr8k5dr8g27dr8w2dr3g3dr3w2dr8dy27dr8dy3dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBGBWBGBKB](/stripes/bgbgbwbgbwbgbkb/).
+
+Part of the [McCall](/tartans/m/mc/mccall-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

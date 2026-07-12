@@ -6,6 +6,8 @@ This is the **Kerr of Ardgowan Clergy (Personal)** sett — one scale-free propo
 [BGBBBYBBWBBY](/stripes/bgbbbybbwbby/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kerr of Ardgowan Clergy](/tartans/k/ke/kerr-of-ardgowan-clergy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

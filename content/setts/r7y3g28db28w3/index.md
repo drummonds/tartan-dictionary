@@ -6,7 +6,7 @@ This is the **Turnbull, hunting** sett — one scale-free proportion (`r7y3g28db
 [RGGBW](/stripes/rggbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Turnbull Hunting](/tartans/turnbull-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Turnbull Hunting](/tartans/t/tu/turnbull-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

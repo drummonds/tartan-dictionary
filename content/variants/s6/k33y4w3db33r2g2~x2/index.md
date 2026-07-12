@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Atlantic Police Academy"
-  url: "/tartans/atlantic-police-academy/"
+  url: "/tartans/a/at/atlantic-police-academy/"
 - name: "Atlantic Police Academy (Corporate)"
   url: "/setts/k33y4w3db33r2g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k33y4w3db33r2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBWGK](/stripes/grbwgk/).
 
-Part of the [Atlantic Police Academy](/tartans/atlantic-police-academy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Atlantic Police Academy](/tartans/a/at/atlantic-police-academy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

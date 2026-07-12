@@ -6,6 +6,8 @@ This is the **Cummins Royal Blue, B (Personal)** sett — one scale-free proport
 [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cummins Royal Blue, B](/tartans/c/cu/cummins-royal-blue-b/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

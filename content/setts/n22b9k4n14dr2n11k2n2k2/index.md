@@ -6,6 +6,8 @@ This is the **Greyhound Grenadiers Pipe Band** sett — one scale-free proportio
 [BKBBBKBBBKBBBKBK](/stripes/bkbbbkbbbkbbbkbk/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Greyhound Grenadiers Pipe Band](/tartans/g/gr/greyhound-grenadiers-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Skene, of Cromar** sett — one scale-free proportion (`k4r37db37r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

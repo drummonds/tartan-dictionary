@@ -6,6 +6,8 @@ This is the **Laois, County** sett — one scale-free proportion (`do15dy2do5dy5
 [BBBBKGBGB](/stripes/bbbbkgbgb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Laois, County](/tartans/l/la/laois-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

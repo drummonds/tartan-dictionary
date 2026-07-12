@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathearn Dress"
+  url: "/tartans/s/st/strathearn-dress/"
 - name: "Strathearn Dress (Fashion?)"
   url: "/setts/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWBGYGYGYGYGBYGYGYGYGYGYBWGWGY](/stripes/gwgwbgygygygygbygygygygygybwgwgy/).
+
+Part of the [Strathearn Dress](/tartans/s/st/strathearn-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 

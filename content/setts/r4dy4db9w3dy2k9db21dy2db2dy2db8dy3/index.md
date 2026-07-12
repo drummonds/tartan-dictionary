@@ -6,7 +6,7 @@ This is the **Ruxton Dress** sett — one scale-free proportion (`r4dy4db9w3dy2k
 [GBGBGBKGWBGR](/stripes/gbgbgbkgwbgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Ruxton Dress](/tartans/ruxton-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Ruxton Dress](/tartans/r/ru/ruxton-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

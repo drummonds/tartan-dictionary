@@ -6,6 +6,8 @@ This is the **Provincewide HOG Chapter** sett — one scale-free proportion (`k5
 [BWKBKWBWK](/stripes/bwkbkwbwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Provincewide HOG Chapter](/tartans/p/pr/provincewide-hog-chapter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

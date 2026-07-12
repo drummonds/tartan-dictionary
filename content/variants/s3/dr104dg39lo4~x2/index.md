@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Watch"
-  url: "/tartans/scottish-watch/"
+  url: "/tartans/s/sc/scottish-watch/"
 - name: "Scottish Watch"
   url: "/setts/dr104dg39lo4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr104dg39lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYG](/stripes/bgyg/).
 
-Part of the [Scottish Watch](/tartans/scottish-watch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Watch](/tartans/s/sc/scottish-watch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "White Stripes Hunting"
+  url: "/tartans/w/wh/white-stripes-hunting/"
+- name: "White Stripes Hunting"
   url: "/setts/r2k1r2k14w1k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1r2k14w1k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWKW](/stripes/rkrkwkw/).
+
+Part of the [White Stripes Hunting](/tartans/w/wh/white-stripes-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

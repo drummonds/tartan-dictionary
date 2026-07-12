@@ -6,6 +6,8 @@ This is the **Leando Dress (Personal)** sett — one scale-free proportion (`t38
 [BBRGWGWGBBGBW](/stripes/bbrgwgwgbbgbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Leando Dress](/tartans/l/le/leando-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

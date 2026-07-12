@@ -6,6 +6,8 @@ This is the **Newcastle** sett — one scale-free proportion (`w8k1db2k4y2k2y2k2
 [KWKGKGKBKW](/stripes/kwkgkgkbkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Newcastle](/tartans/n/ne/newcastle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

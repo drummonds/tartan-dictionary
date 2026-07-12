@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ainslie"
-  url: "/tartans/ainslie-2/"
+  url: "/tartans/a/ai/ainslie-2/"
 - name: "Ainslie"
   url: "/setts/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRGRGRKRWR](/stripes/rkrkrkrgrgrkrwr/).
 
-Part of the [Ainslie](/tartans/ainslie-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ainslie](/tartans/a/ai/ainslie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

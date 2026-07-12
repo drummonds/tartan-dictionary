@@ -6,6 +6,8 @@ This is the **Glasgow Dress (Dance)** sett — one scale-free proportion (`n16dr
 [BBWBWBW](/stripes/bbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Glasgow Dress](/tartans/g/gl/glasgow-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

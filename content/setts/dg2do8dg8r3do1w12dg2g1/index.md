@@ -6,6 +6,8 @@ This is the **National Trust Corporate Tartan** sett — one scale-free proporti
 [GBGRBWGG](/stripes/gbgrbwgg/). It is recorded as a single **variant**, below.
 First attested **~1991**.
 
+Part of the [National Trust](/tartans/n/na/national-trust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

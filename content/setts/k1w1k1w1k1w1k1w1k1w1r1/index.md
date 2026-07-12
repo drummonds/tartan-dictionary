@@ -6,7 +6,7 @@ This is the **Kerr Shepherd's Plaid (Clan)** sett — one scale-free proportion 
 [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Kerr Shepherd's](/tartans/kerr-shepherd-s/) tartan — the named design grouping this sett with its kin.
+Part of the [Kerr Shepherd's](/tartans/k/ke/kerr-shepherd-s/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

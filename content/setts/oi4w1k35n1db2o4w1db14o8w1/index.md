@@ -6,6 +6,8 @@ This is the **Voluntary Service Aberdeen** sett — one scale-free proportion (`
 [RWKBBRWBRW](/stripes/rwkbbrwbrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Voluntary Service Aberdeen](/tartans/v/vo/voluntary-service-aberdeen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

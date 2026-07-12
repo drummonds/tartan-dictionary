@@ -10,7 +10,7 @@ crumbs:
 - name: "Campbell of Argyll"
   url: "/families/campbell-of-argyll/"
 - name: "Campbell of Argyll"
-  url: "/tartans/campbell-of-argyll-2/"
+  url: "/tartans/c/ca/campbell-of-argyll-2/"
 - name: "Campbell of Argyll (Clan)"
   url: "/setts/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/).
 
-Part of the [Campbell of Argyll](/tartans/campbell-of-argyll-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell of Argyll](/tartans/c/ca/campbell-of-argyll-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 

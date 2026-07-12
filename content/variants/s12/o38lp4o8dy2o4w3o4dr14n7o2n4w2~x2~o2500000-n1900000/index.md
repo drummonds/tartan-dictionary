@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Portree Check"
-  url: "/tartans/portree-check/"
+  url: "/tartans/p/po/portree-check/"
 - name: "Portree Check (District) Tartan"
   url: "/setts/o38lp4o8dy2o4w3o4dr14n7o2n4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o38lp4o8dy2o4w3o4dr14n7o2n4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGRWRBBRBW](/stripes/rwrgrwrbbrbw/).
 
-Part of the [Portree Check](/tartans/portree-check/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Portree Check](/tartans/p/po/portree-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

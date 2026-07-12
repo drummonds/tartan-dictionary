@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Hynde Cotton Plaid** sett — one scale-free propo
 [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/rrrrrwgrbrrrrrgrkwrrrrrrrgrrrrrrrwbrgrbrgrrbw/). It is recorded as a single **variant**, below.
 First attested **1744**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

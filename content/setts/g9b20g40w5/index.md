@@ -6,6 +6,8 @@ This is the **O'Neill** sett — one scale-free proportion (`g9b20g40w5`), colou
 [GBGW](/stripes/gbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [O'Neill](/tartans/o/o/o-neill-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

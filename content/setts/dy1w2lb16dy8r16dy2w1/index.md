@@ -6,6 +6,8 @@ This is the **Jones (2016)** sett — one scale-free proportion (`dy1w2lb16dy8r1
 [GWWGRGW](/stripes/gwwgrgw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Jones](/tartans/j/jo/jones-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

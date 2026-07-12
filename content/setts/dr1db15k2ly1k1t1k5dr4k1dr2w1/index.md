@@ -6,6 +6,8 @@ This is the **Glen Stewart** sett — one scale-free proportion (`dr1db15k2ly1k1
 [BBKYKBKBKBW](/stripes/bbkykbkbkbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Glen Stewart](/tartans/g/gl/glen-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

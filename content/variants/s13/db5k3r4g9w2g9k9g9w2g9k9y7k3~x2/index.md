@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Graham-Maila"
+  url: "/tartans/g/gr/graham-maila/"
 - name: "Graham-Maila (Personal)"
   url: "/setts/db5k3r4g9w2g9k9g9w2g9k9y7k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5k3r4g9w2g9k9g9w2g9k9y7k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGWGKGWGKGK](/stripes/bkrgwgkgwgkgk/).
+
+Part of the [Graham-Maila](/tartans/g/gr/graham-maila/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

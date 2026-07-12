@@ -6,6 +6,8 @@ This is the **Hafren (Personal)** sett — one scale-free proportion (`g1t1`), c
 [BG](/stripes/bg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Hafren](/tartans/h/ha/hafren/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

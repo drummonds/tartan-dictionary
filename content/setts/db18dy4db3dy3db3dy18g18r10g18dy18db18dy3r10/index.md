@@ -6,6 +6,8 @@ This is the **Murray of Atholl** sett — one scale-free proportion (`db18dy4db3
 [BGBGBGGRGGBGR](/stripes/bgbgbggrggbgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Murray of Atholl](/tartans/m/mu/murray-of-atholl-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

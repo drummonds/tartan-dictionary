@@ -6,6 +6,8 @@ This is the **Duffus, Lord** sett — one scale-free proportion (`r16lb3o12k3o12
 [GRGRKRKRWR](/stripes/grgrkrkrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Duffus, Lord](/tartans/d/du/duffus-lord-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenmorangie #2** sett — one scale-free proportion (`dy6dr2dy2dr
 [GBGBGBYBYBY](/stripes/gbgbgbybyby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Glenmorangie](/tartans/g/gl/glenmorangie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Mary Stuart (Fashion?** sett — one scale-free proportion (`db4r1
 [BRKRBRKRKRKRKRKRB](/stripes/brkrbrkrkrkrkrkrb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Mary Stuart (Fashion?](/tartans/m/ma/mary-stuart-fashion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

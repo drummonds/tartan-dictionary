@@ -6,7 +6,7 @@ This is the **Lumsden of Clova (Clan?)** sett — one scale-free proportion (`dg
 [BRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/brbrbrbrbrwrbrbrwrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [Lumsden of Clova](/tartans/lumsden-of-clova/) tartan — the named design grouping this sett with its kin.
+Part of the [Lumsden of Clova](/tartans/l/lu/lumsden-of-clova/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

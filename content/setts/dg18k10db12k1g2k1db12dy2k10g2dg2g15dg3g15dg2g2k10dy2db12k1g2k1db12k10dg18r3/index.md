@@ -6,6 +6,8 @@ This is the **Leinster Irish District Tartan** sett — one scale-free proportio
 [GKBKGKBGKGGGGGGGKGBKGKBKGR](/stripes/gkbkgkbgkgggggggkgbkgkbkgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Leinster](/tartans/l/le/leinster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

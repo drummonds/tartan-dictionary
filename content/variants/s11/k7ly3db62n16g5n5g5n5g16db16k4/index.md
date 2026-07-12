@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Polkemmet"
+  url: "/tartans/p/po/polkemmet/"
 - name: "Polkemmet (Corporate)"
   url: "/setts/k7ly3db62n16g5n5g5n5g16db16k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7ly3db62n16g5n5g5n5g16db16k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGBGBBYK](/stripes/kbgbgbgbbyk/).
+
+Part of the [Polkemmet](/tartans/p/po/polkemmet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

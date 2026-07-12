@@ -6,6 +6,8 @@ This is the **Cunard o' the Clyde** sett — one scale-free proportion (`r10k3w1
 [RKWKYWKY](/stripes/rkwkywky/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Cunard O' The Clyde](/tartans/c/cu/cunard-o-the-clyde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

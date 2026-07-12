@@ -6,6 +6,8 @@ This is the **Murray of Atholl, Red Dress** sett — one scale-free proportion (
 [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Murray of Atholl, Red Dress](/tartans/m/mu/murray-of-atholl-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

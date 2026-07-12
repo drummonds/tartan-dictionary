@@ -10,7 +10,7 @@ crumbs:
 - name: "Davidson of Tulloch"
   url: "/families/davidson-of-tulloch/"
 - name: "Davidson of Tulloch"
-  url: "/tartans/davidson-of-tulloch/"
+  url: "/tartans/d/da/davidson-of-tulloch/"
 - name: "Davidson of Tulloch"
   url: "/setts/r1db6k3g6w1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1db6k3g6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGW](/stripes/rbkgw/).
 
-Part of the [Davidson of Tulloch](/tartans/davidson-of-tulloch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Davidson of Tulloch](/tartans/d/da/davidson-of-tulloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

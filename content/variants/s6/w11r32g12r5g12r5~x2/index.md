@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Al-Maktoum"
+  url: "/tartans/a/al/al-maktoum/"
+- name: "Al-Maktoum"
   url: "/setts/w11r32g12r5g12r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w11r32g12r5g12r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRW](/stripes/rgrgrw/).
+
+Part of the [Al-Maktoum](/tartans/a/al/al-maktoum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

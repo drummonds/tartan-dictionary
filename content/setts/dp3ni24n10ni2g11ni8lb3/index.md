@@ -6,6 +6,8 @@ This is the **Hesco** sett — one scale-free proportion (`dp3ni24n10ni2g11ni8lb
 [BBBBGBW](/stripes/bbbbgbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Hesco](/tartans/h/he/hesco/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

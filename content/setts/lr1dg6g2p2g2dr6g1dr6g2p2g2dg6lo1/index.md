@@ -6,6 +6,8 @@ This is the **Crosby (Personal)** sett — one scale-free proportion (`lr1dg6g2p
 [YGGBGBGBGBGGY](/stripes/yggbgbgbgbggy/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Crosby](/tartans/c/cr/crosby/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

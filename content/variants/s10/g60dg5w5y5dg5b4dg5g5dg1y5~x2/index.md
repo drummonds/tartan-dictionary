@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hayden, Thomas"
+  url: "/tartans/h/ha/hayden-thomas/"
 - name: "Hayden, Thomas (Personal)"
   url: "/setts/g60dg5w5y5dg5b4dg5g5dg1y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g60dg5w5y5dg5b4dg5g5dg1y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBGGWGG](/stripes/ggggbggwgg/).
+
+Part of the [Hayden, Thomas](/tartans/h/ha/hayden-thomas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

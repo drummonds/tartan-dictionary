@@ -6,6 +6,8 @@ This is the **Gudbrandsdalen of Mannsdrakt** sett — one scale-free proportion 
 [BYBBGBBGBGBBGBBG](/stripes/bybbgbbgbgbbgbbg/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Gudbrandsdalen of Mannsdrakt](/tartans/g/gu/gudbrandsdalen-of-mannsdrakt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

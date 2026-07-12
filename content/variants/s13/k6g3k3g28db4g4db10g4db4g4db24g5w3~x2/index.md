@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Marthas Vineyard"
+  url: "/tartans/m/ma/marthas-vineyard/"
 - name: "Marthas Vineyard (District)"
   url: "/setts/k6g3k3g28db4g4db10g4db4g4db24g5w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6g3k3g28db4g4db10g4db4g4db24g5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBGBGBGBGW](/stripes/kgkgbgbgbgbgw/).
+
+Part of the [Marthas Vineyard](/tartans/m/ma/marthas-vineyard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

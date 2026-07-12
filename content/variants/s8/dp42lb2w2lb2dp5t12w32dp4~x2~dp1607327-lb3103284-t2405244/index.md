@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry Dress"
-  url: "/tartans/longniddry-dress-2/"
+  url: "/tartans/l/lo/longniddry-dress-2/"
 - name: "Longniddry Purple"
   url: "/setts/dp42lb2w2lb2dp5t12w32dp4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp42lb2w2lb2dp5t12w32dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
-Part of the [Longniddry Dress](/tartans/longniddry-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Longniddry Dress](/tartans/l/lo/longniddry-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

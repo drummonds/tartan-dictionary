@@ -1,0 +1,39 @@
+---
+title: "Islander Dress"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KWRWK](/stripes/kwrwk/) — the page of every tartan sharing this colour sequence.
+
+Designed 2010 by Acacia Bingham from the Manx Dress tartan for Highland dancing; turquoise sea/sky, purple Mt Wellington, black strength, white grace.
+
+The **Islander Dress** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k3w29o9lb19k3/">Islander Dress</a></td><td><code>K/6 W58 O18 LB38 K/6</code></td><td>240</td><td>2010</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3w29o9lb19k3/"><img src="/variants/s5/k3w29o9lb19k3~x2/sett.png" alt="Islander Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Islander Dress Fancy
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s5/k3w29o9lb19k3~x2/">Islander Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k3w29o9lb19k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1w8db8r1~x8&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">1.04</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s4/k1w8db8r1~x8/">MacRae Dress Purple</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k1w8db8r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1w7lo7db16y1~x4&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">1.18</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k1w7lo7db16y1~x4/">Prehospital EMS (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1w7lo7db16dy1~x4&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">1.18</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k1w7lo7db16dy1~x4/">Prehospital EMS Tartan (USA)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k11lb38r11g11k5~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/k11lb38r11g11k5~x2/">All as One (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k11lb38r11g11k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4w35dp35o4~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s4/k4w35dp35o4~x2/">MacRae - 2000 (Dress, Purple)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k4w35dp35o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r28k10w28lb3~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s5/k3r28k10w28lb3~x2/">Wallace Dress, Red (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3r28k10w28lb3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b8w13r3w2k5~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">98</div><div class="nn-name nn-far"><a href="/variants/s5/b8w13r3w2k5~x2/">Boswell Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/b8w13r3w2k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k5w2y36lb47r3~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.43</a></div><div class="nn-threads nn-far">356</div><div class="nn-name nn-far"><a href="/variants/s5/k5w2y36lb47r3~x2/">Oliver Dress Pink</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k5w2y36lb47r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k5n24w24r5~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">212</div><div class="nn-name nn-far"><a href="/variants/s4/k5n24w24r5~x2/">City of London (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k5n24w24r5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w43k5r3g5y27o5~x2&amp;base=k3w29o9lb19k3~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s6/w43k5r3g5y27o5~x2/">Reekie, Charlene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w43k5r3g5y27o5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.7" cy="215.5" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="207.9" cy="206.7" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.0" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="170.1" cy="231.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.5" cy="249.8" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.3" cy="135.5" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><circle cx="192.2" cy="202.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

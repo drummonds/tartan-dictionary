@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canterbury"
+  url: "/tartans/c/ca/canterbury/"
 - name: "Canterbury (Fashion)"
   url: "/setts/r2k20r5k4dg4k4r5k2r14k2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k20r5k4dg4k4r5k2r14k2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKGKRKR](/stripes/gkrkrkgkrkr/).
+
+Part of the [Canterbury](/tartans/c/ca/canterbury/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

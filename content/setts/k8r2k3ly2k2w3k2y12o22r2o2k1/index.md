@@ -6,6 +6,8 @@ This is the **O'Keefe** sett — one scale-free proportion (`k8r2k3ly2k2w3k2y12o
 [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [O'Keefe](/tartans/o/o/o-keefe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

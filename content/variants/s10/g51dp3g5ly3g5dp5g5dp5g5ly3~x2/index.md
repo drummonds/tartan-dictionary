@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Hospice"
+  url: "/tartans/h/hi/highland-hospice/"
+- name: "Highland Hospice"
   url: "/setts/g51dp3g5ly3g5dp5g5dp5g5ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g51dp3g5ly3g5dp5g5dp5g5ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGBGBGYGBGBGYGBG](/stripes/bgygbgbgygbgbgygbg/).
+
+Part of the [Highland Hospice](/tartans/h/hi/highland-hospice/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

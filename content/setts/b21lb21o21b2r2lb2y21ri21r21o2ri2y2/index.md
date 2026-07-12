@@ -6,6 +6,8 @@ This is the **Rainbow #2** sett — one scale-free proportion (`b21lb21o21b2r2lb
 [BWRBRWGRRRRG](/stripes/bwrbrwgrrrrg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Rainbow](/tartans/r/ra/rainbow-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

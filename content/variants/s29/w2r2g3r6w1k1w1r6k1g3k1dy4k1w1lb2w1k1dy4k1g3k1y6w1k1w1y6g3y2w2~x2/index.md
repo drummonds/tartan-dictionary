@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glassary"
+  url: "/tartans/g/gl/glassary-2/"
 - name: "Glassary (Initial)"
   url: "/setts/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGGWKWGKGKGKWWWKGKGKRWKWRGRW](/stripes/wgggwkwgkgkgkwwwkgkgkrwkwrgrw/).
+
+Part of the [Glassary](/tartans/g/gl/glassary-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 

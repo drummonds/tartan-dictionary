@@ -6,6 +6,8 @@ This is the **1745 Trading (Corporate)** sett — one scale-free proportion (`r4
 [RWRGRGRBRWRW](/stripes/rwrgrgrbrwrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [1745 Trading](/tartans/0-9/0-9/1745-trading/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

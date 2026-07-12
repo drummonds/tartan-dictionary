@@ -7,6 +7,8 @@ This is the **U.S. Customs & Border Protection** sett — one scale-free proport
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [U.S. Customs & Border Protection (C](/tartans/u/u/u-s-customs-border-protection-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

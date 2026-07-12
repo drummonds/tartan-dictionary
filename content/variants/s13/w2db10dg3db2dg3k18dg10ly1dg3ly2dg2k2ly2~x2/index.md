@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Doherty"
-  url: "/tartans/o-doherty/"
+  url: "/tartans/o/o/o-doherty/"
 - name: "O'Doherty (Name)"
   url: "/setts/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBGKGYGYGKY](/stripes/wbgbgkgygygky/).
 
-Part of the [O'Doherty](/tartans/o-doherty/) tartan — the named design grouping this sett with its other cloths.
+Part of the [O'Doherty](/tartans/o/o/o-doherty/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

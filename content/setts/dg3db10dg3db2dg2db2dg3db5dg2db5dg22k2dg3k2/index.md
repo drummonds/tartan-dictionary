@@ -6,6 +6,8 @@ This is the **Lochcarron Hunting (Corporate)** sett — one scale-free proportio
 [GBGBGBGBGBGKGK](/stripes/gbgbgbgbgbgkgk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Lochcarron Hunting](/tartans/l/lo/lochcarron-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

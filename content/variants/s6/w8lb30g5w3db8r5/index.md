@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roseberry"
+  url: "/tartans/r/ro/roseberry/"
+- name: "Roseberry"
   url: "/setts/w8lb30g5w3db8r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8lb30g5w3db8r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWGWW](/stripes/rbwgww/).
+
+Part of the [Roseberry](/tartans/r/ro/roseberry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

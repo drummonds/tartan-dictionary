@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rhun"
+  url: "/tartans/r/rh/rhun/"
 - name: "Rhun (Fashion)"
   url: "/setts/r12db68w7k39g75r6g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12db68w7k39g75r6g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWBR](/stripes/grgkwbr/).
+
+Part of the [Rhun](/tartans/r/rh/rhun/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

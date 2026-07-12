@@ -6,6 +6,8 @@ This is the **Westenra of Christchurch** sett — one scale-free proportion (`k2
 [BKBKBKRWBKBWRKBKBKBK](/stripes/bkbkbkrwbkbwrkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Westenra of Christchurch](/tartans/w/we/westenra-of-christchurch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

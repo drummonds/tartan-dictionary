@@ -6,6 +6,8 @@ This is the **Wcwm 1105** sett — one scale-free proportion (`b84dr3k16ly4k4w4k
 [BBKYKWKGBKBW](/stripes/bbkykwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1105](/tartans/w/wc/wcwm-1105/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Wedding"
+  url: "/tartans/h/hi/highland-wedding/"
 - name: "Highland Wedding (Fashion)"
   url: "/setts/r9db8r8g52w2k32db44t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9db8r8g52w2k32db44t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWGRBR](/stripes/bbkwgrbr/).
+
+Part of the [Highland Wedding](/tartans/h/hi/highland-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

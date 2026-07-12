@@ -6,6 +6,8 @@ This is the **Hackett William (Coatbridge) Hunting (Personal)** sett — one sca
 [KYRYGWGY](/stripes/kyrygwgy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hackett William Hunting](/tartans/h/ha/hackett-william-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Borderland (Fashion)** sett — one scale-free proportion
 [WGBGBBGBY](/stripes/wgbgbbgby/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
+Part of the [Scottish Borderland](/tartans/s/sc/scottish-borderland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

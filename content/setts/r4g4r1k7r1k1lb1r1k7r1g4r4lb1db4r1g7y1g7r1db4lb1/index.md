@@ -6,6 +6,8 @@ This is the **Gordonstoun** sett — one scale-free proportion (`r4g4r1k7r1k1lb1
 [RGRKRKWRKRGRWBRGGGRBW](/stripes/rgrkrkwrkrgrwbrgggrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gordonstoun](/tartans/g/go/gordonstoun-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

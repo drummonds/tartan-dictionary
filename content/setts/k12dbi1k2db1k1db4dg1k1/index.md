@@ -6,6 +6,8 @@ This is the **Scottish Funereal Association** sett — one scale-free proportion
 [KBKBKBGK](/stripes/kbkbkbgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Scottish Funereal Association](/tartans/s/sc/scottish-funereal-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

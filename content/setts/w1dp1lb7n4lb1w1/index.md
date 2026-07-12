@@ -6,6 +6,8 @@ This is the **Lochnagar Trade Tartan** sett — one scale-free proportion (`w1dp
 [WBWBWW](/stripes/wbwbww/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Lochnagar](/tartans/l/lo/lochnagar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

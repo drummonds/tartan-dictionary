@@ -7,6 +7,8 @@ This is the **O'Meehan** sett — one scale-free proportion (`y27k4w4r64w4r4k4r4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
+Part of the [O'Meehan](/tartans/o/o/o-meehan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Un-named fashion (2013)** sett — one scale-free proportion (`k2w
 [KWKBBBWBBBBKBKBBBKW](/stripes/kwkbbbwbbbbkbkbbbkw/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Un-named fashion](/tartans/u/un/un-named-fashion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

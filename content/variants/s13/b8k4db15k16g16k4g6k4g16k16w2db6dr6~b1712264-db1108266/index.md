@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Free"
-  url: "/tartans/free/"
+  url: "/tartans/f/fr/free/"
 - name: "Free (Wishaw)"
   url: "/setts/b8k4db15k16g16k4g6k4g16k16w2db6dr6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b8k4db15k16g16k4g6k4g16k16w2db6dr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWKGKGKGKBKB](/stripes/bbwkgkgkgkbkb/).
 
-Part of the [Free](/tartans/free/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Free](/tartans/f/fr/free/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLaren Albino"
+  url: "/tartans/m/ma/maclaren-albino/"
 - name: "MacLaren Albino (Dance)"
   url: "/setts/w8b2k6dg2w3o2w6ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8b2k6dg2w3o2w6ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGWRWY](/stripes/wbkgwrwy/).
+
+Part of the [MacLaren Albino](/tartans/m/ma/maclaren-albino/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

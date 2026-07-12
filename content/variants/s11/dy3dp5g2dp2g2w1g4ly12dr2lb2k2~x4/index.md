@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oregon, State of"
+  url: "/tartans/o/or/oregon-state-of/"
+- name: "Oregon, State of"
   url: "/setts/dy3dp5g2dp2g2w1g4ly12dr2lb2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy3dp5g2dp2g2w1g4ly12dr2lb2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGWGYBWK](/stripes/gbgbgwgybwk/).
+
+Part of the [Oregon, State of](/tartans/o/or/oregon-state-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

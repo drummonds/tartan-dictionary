@@ -7,6 +7,8 @@ This is the **Glasgow Cathedral** sett — one scale-free proportion (`g18dp3db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Glasgow Cathedral](/tartans/g/gl/glasgow-cathedral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

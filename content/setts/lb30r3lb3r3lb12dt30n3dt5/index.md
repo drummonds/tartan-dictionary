@@ -6,6 +6,8 @@ This is the **Dama Classic** sett — one scale-free proportion (`lb30r3lb3r3lb1
 [BBBWRWRW](/stripes/bbbwrwrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dama Classic](/tartans/d/da/dama-classic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Meirhaeghe, Van"
-  url: "/tartans/meirhaeghe-van/"
+  url: "/tartans/m/me/meirhaeghe-van/"
 - name: "Meirhaeghe, Van"
   url: "/setts/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYRKBBBBBRW](/stripes/bkyrkbbbbbrw/).
 
-Part of the [Meirhaeghe, Van](/tartans/meirhaeghe-van/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Meirhaeghe, Van](/tartans/m/me/meirhaeghe-van/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

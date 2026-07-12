@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grand Lodge of Scotland"
+  url: "/tartans/g/gr/grand-lodge-of-scotland/"
 - name: "Grand Lodge of Scotland (Corporate)"
   url: "/setts/db1k2db1k6db1k1g1k6g21y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1k2db1k6db1k1g1k6g21y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGG](/stripes/bkbkbkgkgg/).
+
+Part of the [Grand Lodge of Scotland](/tartans/g/gr/grand-lodge-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

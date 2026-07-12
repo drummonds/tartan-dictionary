@@ -6,7 +6,7 @@ This is the **Currie of Arran (Clan/family)** sett — one scale-free proportion
 [BWBGGRGRGRW](/stripes/bwbggrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
-Part of the [Currie of Arran](/tartans/currie-of-arran/) tartan — the named design grouping this sett with its kin.
+Part of the [Currie of Arran](/tartans/c/cu/currie-of-arran/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

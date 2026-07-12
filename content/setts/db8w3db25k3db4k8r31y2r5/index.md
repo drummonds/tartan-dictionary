@@ -6,6 +6,8 @@ This is the **Caledon (Corporate)** sett — one scale-free proportion (`db8w3db
 [BWBKBKRGR](/stripes/bwbkbkrgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Caledon](/tartans/c/ca/caledon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

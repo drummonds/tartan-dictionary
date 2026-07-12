@@ -6,7 +6,7 @@ This is the **Grand Lodge of Canada** sett — one scale-free proportion (`t5k1r
 [BKRKBKRBRKGKRKBRKRKRBKRKGKRBRKBKRK](/stripes/bkrkbkrbrkgkrkbrkrkrbkrkgkrbrkbkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Grand Lodge of Canada](/tartans/grand-lodge-of-canada/) tartan — the named design grouping this sett with its kin.
+Part of the [Grand Lodge of Canada](/tartans/g/gr/grand-lodge-of-canada/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Saltire"
+  url: "/tartans/s/sa/saltire/"
+- name: "Saltire"
   url: "/setts/db10t6lb6w4lb3t6db20t46db2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10t6lb6w4lb3t6db20t46db2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWWWBBBBWBBBBWWWB](/stripes/bbwwwbbbbwbbbbwwwb/).
+
+Part of the [Saltire](/tartans/s/sa/saltire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

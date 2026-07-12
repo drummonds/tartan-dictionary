@@ -6,6 +6,8 @@ This is the **MacKinnon Black (Personal)** sett — one scale-free proportion (`
 [BRKRKRKRKBRW](/stripes/brkrkrkrkbrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacKinnon](/tartans/m/ma/mackinnon-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

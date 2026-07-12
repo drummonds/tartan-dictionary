@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coinean Dubh"
+  url: "/tartans/c/co/coinean-dubh/"
+- name: "Coinean Dubh"
   url: "/setts/db50k12db21w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50k12db21w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBW](/stripes/bkbw/).
+
+Part of the [Coinean Dubh](/tartans/c/co/coinean-dubh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

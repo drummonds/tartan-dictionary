@@ -6,6 +6,8 @@ This is the **Stewart Blue Trade Tartan** sett — one scale-free proportion (`l
 [WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
+Part of the [Stewart](/tartans/s/st/stewart-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

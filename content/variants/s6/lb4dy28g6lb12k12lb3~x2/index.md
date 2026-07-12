@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacTavish"
   url: "/clan/mactavish/"
 - name: "MacTavish Hunting"
-  url: "/tartans/mactavish-hunting/"
+  url: "/tartans/m/ma/mactavish-hunting/"
 - name: "MacTavish Hunting"
   url: "/setts/lb4dy28g6lb12k12lb3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4dy28g6lb12k12lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGWKW](/stripes/wggwkw/).
 
-Part of the [MacTavish Hunting](/tartans/mactavish-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacTavish Hunting](/tartans/m/ma/mactavish-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

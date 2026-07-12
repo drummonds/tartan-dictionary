@@ -6,6 +6,8 @@ This is the **Aitken (Fashion)** sett — one scale-free proportion (`k37r20k2r4
 [KKKKRKR](/stripes/kkkkrkr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Aitken](/tartans/a/ai/aitken-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Motor Trade Association Trade Tartan** sett — one scale
 [BGBKWBBWBWBWBBWKBGBG](/stripes/bgbkwbbwbwbwbbwkbgbg/). It is recorded as a single **variant**, below.
 First attested **1903**.
 
+Part of the [Scottish Motor Trade Association](/tartans/s/sc/scottish-motor-trade-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

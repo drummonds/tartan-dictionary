@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Riding Cloak** sett — one scale-free proportion (
 [WBGRWRWRGBW](/stripes/wbgrwrwrgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stuart/Stewart Riding Cloak](/tartans/s/st/stuart-stewart-riding-cloak-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

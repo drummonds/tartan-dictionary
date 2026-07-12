@@ -6,7 +6,7 @@ This is the **Laksaa (Manx)** sett — one scale-free proportion (`n22k2n2k2n2k1
 [BKBKBKWK](/stripes/bkbkbkwk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Laksaa](/tartans/laksaa/) tartan — the named design grouping this sett with its kin.
+Part of the [Laksaa](/tartans/l/la/laksaa/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

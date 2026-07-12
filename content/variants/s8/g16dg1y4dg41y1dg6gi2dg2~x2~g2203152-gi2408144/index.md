@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Semper"
-  url: "/tartans/semper/"
+  url: "/tartans/s/se/semper/"
 - name: "Semper"
   url: "/setts/g16dg1y4dg41y1dg6gi2dg2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16dg1y4dg41y1dg6gi2dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
 
-Part of the [Semper](/tartans/semper/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Semper](/tartans/s/se/semper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

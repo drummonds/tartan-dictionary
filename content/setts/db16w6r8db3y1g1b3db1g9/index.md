@@ -6,7 +6,7 @@ This is the **Ohio** sett — one scale-free proportion (`db16w6r8db3y1g1b3db1g9
 [BWRBGGBBG](/stripes/bwrbggbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ohio](/tartans/ohio/) tartan — the named design grouping this sett with its kin.
+Part of the [Ohio](/tartans/o/oh/ohio/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Thirkill** sett — one scale-free proportion (`y4k2dg7g7r5k2r15k2
 [GKGGRKRKW](/stripes/gkggrkrkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Thirkill](/tartans/thirkill/) tartan — the named design grouping this sett with its kin.
+Part of the [Thirkill](/tartans/t/th/thirkill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **West Point Military Academy (Mil.)** sett — one scale-free propo
 [BGBKBKBK](/stripes/bgbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [West Point Military Academy](/tartans/w/we/west-point-military-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

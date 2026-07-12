@@ -7,7 +7,7 @@ This is the **Seton** sett — one scale-free proportion (`g3w1g6r2dp2r1k2r10g1r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
-Part of the [Seton](/tartans/seton/) tartan — the named design grouping this sett with its kin.
+Part of the [Seton](/tartans/s/se/seton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

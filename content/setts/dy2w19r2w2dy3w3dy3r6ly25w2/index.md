@@ -6,6 +6,8 @@ This is the **Llama (Fashion)** sett — one scale-free proportion (`dy2w19r2w2d
 [GWRWGWGRYW](/stripes/gwrwgwgryw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Llama](/tartans/l/ll/llama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

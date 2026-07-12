@@ -7,6 +7,8 @@ This is the **Arizona** sett — one scale-free proportion (`ly3g2w2r2ly12k2g12r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
+Part of the [Arizona](/tartans/a/ar/arizona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

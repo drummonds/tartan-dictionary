@@ -6,6 +6,8 @@ This is the **Harkness Hunting** sett — one scale-free proportion (`g21db4w4db
 [BGRGGGBWBG](/stripes/bgrgggbwbg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Harkness](/tartans/h/ha/harkness/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

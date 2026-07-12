@@ -6,6 +6,8 @@ This is the **Henkel (Corporate)** sett — one scale-free proportion (`k3n28k3r
 [KBKRKW](/stripes/kbkrkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Henkel](/tartans/h/he/henkel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

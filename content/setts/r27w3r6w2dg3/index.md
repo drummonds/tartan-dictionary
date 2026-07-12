@@ -7,6 +7,8 @@ This is the **Martin, Robert N (Personal)** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2011**.
 
+Part of the [Martin, Robert N](/tartans/m/ma/martin-robert-n/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

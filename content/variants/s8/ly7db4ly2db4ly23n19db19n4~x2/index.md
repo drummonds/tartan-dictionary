@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chindecella Gorse"
-  url: "/tartans/chindecella-gorse/"
+  url: "/tartans/c/ch/chindecella-gorse/"
 - name: "Chindecella Gorse (Personal)"
   url: "/setts/ly7db4ly2db4ly23n19db19n4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly7db4ly2db4ly23n19db19n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBYBY](/stripes/bbbybyby/).
 
-Part of the [Chindecella Gorse](/tartans/chindecella-gorse/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Chindecella Gorse](/tartans/c/ch/chindecella-gorse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

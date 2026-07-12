@@ -6,7 +6,7 @@ This is the **Tweedbank (Corporate)** sett — one scale-free proportion (`w4dr8
 [GKGKRGBGBGBW](/stripes/gkgkrgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Tweedbank](/tartans/tweedbank/) tartan — the named design grouping this sett with its kin.
+Part of the [Tweedbank](/tartans/t/tw/tweedbank/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

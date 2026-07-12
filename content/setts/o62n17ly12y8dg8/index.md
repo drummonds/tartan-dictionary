@@ -6,6 +6,8 @@ This is the **Dundhuin Dress (Personal)** sett — one scale-free proportion (`o
 [GGYBR](/stripes/ggybr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dundhuin Dress](/tartans/d/du/dundhuin-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

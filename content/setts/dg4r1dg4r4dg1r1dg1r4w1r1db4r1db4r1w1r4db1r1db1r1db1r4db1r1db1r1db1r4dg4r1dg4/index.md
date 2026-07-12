@@ -6,7 +6,7 @@ This is the **MacRae Clan Tartan** sett — one scale-free proportion (`dg4r1dg4
 [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [MacRae](/tartans/macrae-12/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRae](/tartans/m/ma/macrae-12/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

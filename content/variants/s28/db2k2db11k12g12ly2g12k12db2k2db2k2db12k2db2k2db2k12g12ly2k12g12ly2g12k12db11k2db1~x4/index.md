@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
+- name: "Gordon"
+  url: "/tartans/g/go/gordon/"
 - name: "Gordon"
   url: "/setts/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGYGKBKBKBKBKBKGYKGYGKBKB](/stripes/bkbkgygkbkbkbkbkbkgykgygkbkb/).
+
+Part of the [Gordon](/tartans/g/go/gordon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [28 stripe tartan](/stripes/stripes28/).
 

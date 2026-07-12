@@ -6,6 +6,8 @@ This is the **Princess Beatrice Hunting (MacKinlay strip)** sett — one scale-f
 [BRGRGBGBGKGKGG](/stripes/brgrgbgbgkgkgg/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Princess Beatrice Hunting](/tartans/p/pr/princess-beatrice-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

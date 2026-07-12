@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Morgan in Maryland"
+  url: "/tartans/m/mo/morgan-in-maryland/"
 - name: "Morgan in Maryland (USA) (Name)"
   url: "/setts/db4k1g18dy2g11dy11lb18k1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k1g18dy2g11dy11lb18k1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGGWKR](/stripes/bkggggwkr/).
+
+Part of the [Morgan in Maryland](/tartans/m/mo/morgan-in-maryland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -7,6 +7,8 @@ This is the **Paterson (Personal)** sett — one scale-free proportion (`g3db12w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1945**.
 
+Part of the [Paterson](/tartans/p/pa/paterson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bredillet (Personal)** sett — one scale-free proportion (`db16k2
 [BKYKYKBKBKBKW](/stripes/bkykykbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bredillet](/tartans/b/br/bredillet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

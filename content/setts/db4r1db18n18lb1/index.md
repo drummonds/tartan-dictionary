@@ -6,6 +6,8 @@ This is the **Ardee (Corporate)** sett — one scale-free proportion (`db4r1db18
 [BRBBW](/stripes/brbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Ardee](/tartans/a/ar/ardee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

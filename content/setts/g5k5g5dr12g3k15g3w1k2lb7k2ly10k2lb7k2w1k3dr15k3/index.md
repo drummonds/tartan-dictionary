@@ -6,6 +6,8 @@ This is the **Melnyk-Jones (Personal)** sett — one scale-free proportion (`g5k
 [GKGBGKGWKWKYKWKWKBK](/stripes/gkgbgkgwkwkykwkwkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Melnyk-Jones](/tartans/m/me/melnyk-jones/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

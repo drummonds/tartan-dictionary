@@ -19,5 +19,5 @@ A family of [Clan MacLeod](/clan/macleod/).
 </tbody>
 </table>
 
-[See the MacLeod of Lewis tartan and all its setts →](/tartans/macleod-of-lewis/)
+[See the MacLeod of Lewis tartan and all its setts →](/tartans/m/ma/macleod-of-lewis/)
 

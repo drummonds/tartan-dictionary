@@ -7,7 +7,7 @@ This is the **Mitchell** sett — one scale-free proportion (`k2g12k12r1db12w2`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1815**.
 
-Part of the [Mitchell](/tartans/mitchell/) tartan — the named design grouping this sett with its kin.
+Part of the [Mitchell](/tartans/m/mi/mitchell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

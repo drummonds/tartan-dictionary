@@ -7,6 +7,8 @@ This is the **Cooper (Clan)** sett — one scale-free proportion (`r2o3db2g18db3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1950**.
 
+Part of the [Cooper](/tartans/c/co/cooper/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

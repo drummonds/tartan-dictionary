@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott"
+  url: "/tartans/s/sc/scott/"
 - name: "Scott (Green)"
   url: "/setts/k8g3w3g3r3g12k8g6db12y4k6w3k3g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8g3w3g3r3g12k8g6db12y4k6w3k3g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGBGKGRGWGK](/stripes/gkwkgbgkgrgwgk/).
+
+Part of the [Scott](/tartans/s/sc/scott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

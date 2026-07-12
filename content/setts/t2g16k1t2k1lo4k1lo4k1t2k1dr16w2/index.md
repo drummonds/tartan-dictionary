@@ -6,6 +6,8 @@ This is the **Baxter** sett — one scale-free proportion (`t2g16k1t2k1lo4k1lo4k
 [BGKBKYKYKBKBW](/stripes/bgkbkykykbkbw/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [Baxter](/tartans/b/ba/baxter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

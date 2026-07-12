@@ -6,7 +6,7 @@ This is the **Kerr** sett — one scale-free proportion (`g20k1g2k1g3k14r28k1r2k
 [GKGKGKRKRK](/stripes/gkgkgkrkrk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Kerr](/tartans/kerr/) tartan — the named design grouping this sett with its kin.
+Part of the [Kerr](/tartans/k/ke/kerr/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

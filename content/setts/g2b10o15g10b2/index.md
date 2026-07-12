@@ -6,6 +6,8 @@ This is the **Harmony, 6** sett — one scale-free proportion (`g2b10o15g10b2`),
 [BGRBG](/stripes/bgrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harmony, 6](/tartans/h/ha/harmony-6-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

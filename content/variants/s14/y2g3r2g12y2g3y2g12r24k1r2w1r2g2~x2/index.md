@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leask"
-  url: "/tartans/leask/"
+  url: "/tartans/l/le/leask/"
 - name: "Leask Family Tartan"
   url: "/setts/y2g3r2g12y2g3y2g12r24k1r2w1r2g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2g3r2g12y2g3y2g12r24k1r2w1r2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGGGGGRKRWRG](/stripes/ggrgggggrkrwrg/).
 
-Part of the [Leask](/tartans/leask/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leask](/tartans/l/le/leask/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

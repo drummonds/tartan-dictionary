@@ -6,6 +6,8 @@ This is the **MacArthur Fox Green (Personal)** sett — one scale-free proportio
 [KBKBGKBKBR](/stripes/kbkbgkbkbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [MacArthur Fox](/tartans/m/ma/macarthur-fox/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

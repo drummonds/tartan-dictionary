@@ -6,6 +6,8 @@ This is the **Stirling Weavers Guild Artifact Tartan** sett — one scale-free p
 [GWGRBGRBRGBRGRBGR](/stripes/gwgrbgrbrgbrgrbgr/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Stirling Weavers Guild](/tartans/s/st/stirling-weavers-guild/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

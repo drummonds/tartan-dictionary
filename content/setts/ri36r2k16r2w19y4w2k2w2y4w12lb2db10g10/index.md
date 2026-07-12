@@ -7,7 +7,7 @@ This is the **Dundee, dress** sett — one scale-free proportion (`ri36r2k16r2w1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1986**.
 
-Part of the [Dundee Dress](/tartans/dundee-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee Dress](/tartans/d/du/dundee-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Abbotsford, City of"
+  url: "/tartans/a/ab/abbotsford-city-of/"
+- name: "Abbotsford, City of"
   url: "/setts/g50k3w4k1y5r4k1w2k2db15k5g4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g50k3w4k1y5r4k1w2k2db15k5g4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGRKWKBKGW](/stripes/gkwkgrkwkbkgw/).
+
+Part of the [Abbotsford, City of](/tartans/a/ab/abbotsford-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

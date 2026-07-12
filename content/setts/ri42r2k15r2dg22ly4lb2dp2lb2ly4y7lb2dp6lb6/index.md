@@ -6,6 +6,8 @@ This is the **Dundee #3** sett — one scale-free proportion (`ri42r2k15r2dg22ly
 [RRKRGYWBWYGWBW](/stripes/rrkrgywbwygwbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Dundee](/tartans/d/du/dundee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

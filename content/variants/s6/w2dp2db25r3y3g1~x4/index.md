@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pool, Robert David"
+  url: "/tartans/p/po/pool-robert-david/"
 - name: "Pool, Robert David (Personal)"
   url: "/setts/w2dp2db25r3y3g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2dp2db25r3y3g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRBBW](/stripes/ggrbbw/).
+
+Part of the [Pool, Robert David](/tartans/p/po/pool-robert-david/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

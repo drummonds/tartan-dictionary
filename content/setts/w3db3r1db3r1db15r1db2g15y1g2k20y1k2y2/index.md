@@ -6,6 +6,8 @@ This is the **Joseph Linn Family (Monohon 2012) (Personal)** sett — one scale-
 [GKGKGGGBRBRBRBW](/stripes/gkgkgggbrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Joseph Linn](/tartans/j/jo/joseph-linn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

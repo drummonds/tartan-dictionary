@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "American Express"
+  url: "/tartans/a/am/american-express/"
 - name: "American Express Corporate Tartan"
   url: "/setts/b9dr1db5g5lb2g5db5dr1b9db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b9dr1db5g5lb2g5db5dr1b9db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGWGBBB](/stripes/bbbbgwgbbb/).
+
+Part of the [American Express](/tartans/a/am/american-express/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

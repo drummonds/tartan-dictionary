@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fountain of the Strong"
+  url: "/tartans/f/fo/fountain-of-the-strong/"
+- name: "Fountain of the Strong"
   url: "/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o6k3dg3k6dr2k2dr2k6dg3o14dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKBKBKGKR](/stripes/grgkbkbkgkr/).
+
+Part of the [Fountain of the Strong](/tartans/f/fo/fountain-of-the-strong/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

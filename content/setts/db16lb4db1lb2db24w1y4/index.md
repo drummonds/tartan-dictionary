@@ -6,6 +6,8 @@ This is the **Talisker** sett — one scale-free proportion (`db16lb4db1lb2db24w
 [BWBWBWG](/stripes/bwbwbwg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Talisker](/tartans/t/ta/talisker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

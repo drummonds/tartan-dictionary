@@ -6,7 +6,7 @@ This is the **McGrane (2014)** sett — one scale-free proportion (`g13dy7g13dy2
 [GGGGGGGGWYWG](/stripes/ggggggggwywg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [McGrane](/tartans/mcgrane/) tartan — the named design grouping this sett with its kin.
+Part of the [McGrane](/tartans/m/mc/mcgrane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

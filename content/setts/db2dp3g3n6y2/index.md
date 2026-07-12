@@ -6,6 +6,8 @@ This is the **Dunoon Burgh Hall Trust** sett — one scale-free proportion (`db2
 [BBGBG](/stripes/bbgbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Dunoon Burgh Hall Trust](/tartans/d/du/dunoon-burgh-hall-trust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

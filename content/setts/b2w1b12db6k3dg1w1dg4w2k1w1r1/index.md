@@ -6,6 +6,8 @@ This is the **Diana Princess of Wales Memorial, The** sett — one scale-free pr
 [BWBBKGWGWKWR](/stripes/bwbbkgwgwkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Diana Princess of Wales Memorial, The](/tartans/d/di/diana-princess-of-wales-memorial-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

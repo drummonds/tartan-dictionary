@@ -6,6 +6,8 @@ This is the **Templeton (Name?)** sett — one scale-free proportion (`t4r1k11r2
 [BRKRKRGY](/stripes/brkrkrgy/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Templeton](/tartans/t/te/templeton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

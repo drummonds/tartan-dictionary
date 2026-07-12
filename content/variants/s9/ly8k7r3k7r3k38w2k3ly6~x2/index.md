@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bunnahabhain"
+  url: "/tartans/b/bu/bunnahabhain/"
+- name: "Bunnahabhain"
   url: "/setts/ly8k7r3k7r3k38w2k3ly6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly8k7r3k7r3k38w2k3ly6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKRKRKWKY](/stripes/ykrkrkwky/).
+
+Part of the [Bunnahabhain](/tartans/b/bu/bunnahabhain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

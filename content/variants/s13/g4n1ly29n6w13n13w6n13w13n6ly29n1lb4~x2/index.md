@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Delta Dental Association"
+  url: "/tartans/d/de/delta-dental-association/"
+- name: "Delta Dental Association"
   url: "/setts/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYBWBWBWBYBW](/stripes/gbybwbwbwbybw/).
+
+Part of the [Delta Dental Association](/tartans/d/de/delta-dental-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

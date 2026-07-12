@@ -6,6 +6,8 @@ This is the **Black & White Golf (Corporate)** sett — one scale-free proportio
 [KWYWGKY](/stripes/kwywgky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Black & White Golf](/tartans/b/bl/black-white-golf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

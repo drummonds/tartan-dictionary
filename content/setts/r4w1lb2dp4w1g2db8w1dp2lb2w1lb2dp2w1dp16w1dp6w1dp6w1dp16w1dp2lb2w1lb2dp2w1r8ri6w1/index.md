@@ -7,6 +7,8 @@ This is the **Brides Plaid** sett — one scale-free proportion (`r4w1lb2dp4w1g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1720**.
 
+Part of the [Brides](/tartans/b/br/brides-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Langermann (Name)** sett — one scale-free proportion (`db1g2db1g
 [BGBGGBGBYRGYGYGY](/stripes/bgbggbgbyrgygygy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Langermann](/tartans/l/la/langermann/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

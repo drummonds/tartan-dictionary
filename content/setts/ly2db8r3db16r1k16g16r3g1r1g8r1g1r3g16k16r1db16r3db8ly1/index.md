@@ -6,6 +6,8 @@ This is the **Cameron** sett — one scale-free proportion (`ly2db8r3db16r1k16g1
 [YBRBRKGRGRGRGRGKRBRBY](/stripes/ybrbrkgrgrgrgrgkrbrby/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Cameron](/tartans/c/ca/cameron-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

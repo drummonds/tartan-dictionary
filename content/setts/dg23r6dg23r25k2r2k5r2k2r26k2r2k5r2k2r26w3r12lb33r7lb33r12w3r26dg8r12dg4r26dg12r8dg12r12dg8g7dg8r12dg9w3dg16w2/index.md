@@ -6,7 +6,7 @@ This is the **Kinnoull (Clan)** sett — one scale-free proportion (`dg23r6dg23r
 [GRGRKRKRKRKRKRKRWRWRWRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrwrwrwrgrgrgrgrgggrgwgw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Kinnoull](/tartans/kinnoull-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Kinnoull](/tartans/k/ki/kinnoull-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

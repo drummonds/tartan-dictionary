@@ -6,7 +6,7 @@ This is the **Palazzo Bloise (Personal)** sett — one scale-free proportion (`d
 [BGBWBG](/stripes/bgbwbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Palazzo Bloise](/tartans/palazzo-bloise/) tartan — the named design grouping this sett with its kin.
+Part of the [Palazzo Bloise](/tartans/p/pa/palazzo-bloise/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

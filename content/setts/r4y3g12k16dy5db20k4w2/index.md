@@ -6,6 +6,8 @@ This is the **Iowa** sett — one scale-free proportion (`r4y3g12k16dy5db20k4w2`
 [GGKGBKWKBGKGGR](/stripes/ggkgbkwkbgkggr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Iowa](/tartans/i/io/iowa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

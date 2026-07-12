@@ -6,6 +6,8 @@ This is the **Carmen Lau (Hong Kong) (Personal)** sett — one scale-free propor
 [BGWBBRY](/stripes/bgwbbry/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Carmen Lau](/tartans/c/ca/carmen-lau/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

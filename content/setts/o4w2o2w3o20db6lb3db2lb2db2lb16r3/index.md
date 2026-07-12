@@ -6,6 +6,8 @@ This is the **Callum, Scotch House** sett — one scale-free proportion (`o4w2o2
 [RWBWBWBRWRWR](/stripes/rwbwbwbrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Callum, Scotch House](/tartans/c/ca/callum-scotch-house-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

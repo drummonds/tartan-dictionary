@@ -6,6 +6,8 @@ This is the **South Canterbury Centre P. & D. Assoc., Jubilee** sett — one sca
 [BBGWRWBW](/stripes/bbgwrwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [South Canterbury Centre P. & D. Assoc., Jubilee](/tartans/s/so/south-canterbury-centre-p-d-assoc-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

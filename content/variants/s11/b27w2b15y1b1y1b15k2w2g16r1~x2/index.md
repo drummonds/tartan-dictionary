@@ -10,7 +10,7 @@ crumbs:
 - name: "Quigley of Knockcroghery"
   url: "/families/quigley-of-knockcroghery/"
 - name: "Quigley of Knockcroghery"
-  url: "/tartans/quigley-of-knockcroghery/"
+  url: "/tartans/q/qu/quigley-of-knockcroghery/"
 - name: "Quigley of Knockcroghery (Hunting) (Personal)"
   url: "/setts/b27w2b15y1b1y1b15k2w2g16r1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b27w2b15y1b1y1b15k2w2g16r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGBKWGR](/stripes/bwbgbgbkwgr/).
 
-Part of the [Quigley of Knockcroghery](/tartans/quigley-of-knockcroghery/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Quigley of Knockcroghery](/tartans/q/qu/quigley-of-knockcroghery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

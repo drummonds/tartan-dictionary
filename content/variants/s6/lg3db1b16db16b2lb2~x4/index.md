@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S.S. John Paul Jones"
+  url: "/tartans/u/u/u-s-s-john-paul-jones-2/"
 - name: "U.S.S. John Paul Jones #1"
   url: "/setts/lg3db1b16db16b2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lg3db1b16db16b2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBY](/stripes/wbbbby/).
+
+Part of the [U.S.S. John Paul Jones](/tartans/u/u/u-s-s-john-paul-jones-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

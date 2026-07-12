@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tomomi"
-  url: "/tartans/tomomi/"
+  url: "/tartans/t/to/tomomi/"
 - name: "Tomomi"
   url: "/setts/w15r20y2g1lg1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w15r20y2g1lg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGGY](/stripes/wrggy/).
 
-Part of the [Tomomi](/tartans/tomomi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tomomi](/tartans/t/to/tomomi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Border Sett"
+  url: "/tartans/b/bo/border-sett-2/"
+- name: "Border Sett"
   url: "/setts/w75dy1r20w16r20w20g9w16g1r38/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w75dy1r20w16r20w20g9w16g1r38/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWGWRWRGW](/stripes/rgwgwrwrgw/).
+
+Part of the [Border Sett](/tartans/b/bo/border-sett-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Glen App** sett — one scale-free proportion (`o13w3o1k3w1`), col
 [RWRKW](/stripes/rwrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glen App](/tartans/g/gl/glen-app-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

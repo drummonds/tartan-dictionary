@@ -6,6 +6,8 @@ This is the **Diana Hunting Plaid Tartan** sett — one scale-free proportion (`
 [GWGGRGWGWBWR](/stripes/gwggrgwgwbwr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Diana Hunting](/tartans/d/di/diana-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

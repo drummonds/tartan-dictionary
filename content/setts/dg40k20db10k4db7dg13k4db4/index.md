@@ -6,7 +6,7 @@ This is the **Letham Personal Tartan** sett — one scale-free proportion (`dg40
 [BKGBKBKG](/stripes/bkgbkbkg/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
-Part of the [Letham](/tartans/letham/) tartan — the named design grouping this sett with its kin.
+Part of the [Letham](/tartans/l/le/letham/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

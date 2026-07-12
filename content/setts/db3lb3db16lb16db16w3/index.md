@@ -6,6 +6,8 @@ This is the **Murray Taylor** sett — one scale-free proportion (`db3lb3db16lb1
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Murray Taylor](/tartans/m/mu/murray-taylor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

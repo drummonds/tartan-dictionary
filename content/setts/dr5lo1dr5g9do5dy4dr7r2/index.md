@@ -6,7 +6,7 @@ This is the **Leighton (Personal)** sett — one scale-free proportion (`dr5lo1d
 [BYBGBGBR](/stripes/bybgbgbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Leighton](/tartans/leighton-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Leighton](/tartans/l/le/leighton-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

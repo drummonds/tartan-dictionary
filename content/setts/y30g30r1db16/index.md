@@ -6,6 +6,8 @@ This is the **Barber Family 2011 (Personal)** sett — one scale-free proportion
 [BRGG](/stripes/brgg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Barber Family 2011](/tartans/b/ba/barber-family-2011/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

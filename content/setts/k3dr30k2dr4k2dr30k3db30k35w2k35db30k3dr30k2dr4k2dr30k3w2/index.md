@@ -6,6 +6,8 @@ This is the **Gwyn of Wales** sett — one scale-free proportion (`k3dr30k2dr4k2
 [KBKBKBKBKWKBKBKBKBKW](/stripes/kbkbkbkbkwkbkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gwyn of Wales](/tartans/g/gw/gwyn-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

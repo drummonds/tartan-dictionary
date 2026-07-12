@@ -7,7 +7,7 @@ This is the **Cairns of Finavon (Name)** sett — one scale-free proportion (`g1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
-Part of the [Cairns of Finavon](/tartans/cairns-of-finavon/) tartan — the named design grouping this sett with its kin.
+Part of the [Cairns of Finavon](/tartans/c/ca/cairns-of-finavon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

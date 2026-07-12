@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mill o Forest Primary School"
+  url: "/tartans/m/mi/mill-o-forest-primary-school/"
 - name: "Mill o Forest Primary School (Corp)"
   url: "/setts/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBWBGGBBBG](/stripes/bgrgbwbggbbbg/).
+
+Part of the [Mill o Forest Primary School](/tartans/m/mi/mill-o-forest-primary-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

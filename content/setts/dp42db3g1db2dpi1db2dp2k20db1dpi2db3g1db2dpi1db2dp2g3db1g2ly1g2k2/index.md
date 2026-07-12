@@ -6,6 +6,8 @@ This is the **Monarch of the Glen Fashion Tartan** sett — one scale-free propo
 [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Monarch of the Glen](/tartans/m/mo/monarch-of-the-glen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

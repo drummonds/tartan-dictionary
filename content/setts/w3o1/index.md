@@ -6,6 +6,8 @@ This is the **Vindolanda Check** sett — one scale-free proportion (`w3o1`), co
 [RW](/stripes/rw/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
+Part of the [Vindolanda Check](/tartans/v/vi/vindolanda-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

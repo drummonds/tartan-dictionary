@@ -6,6 +6,8 @@ This is the **Kerr of Ardgowan Red (Personal)** sett — one scale-free proporti
 [YGGWYYGYRGRGY](/stripes/yggwyygyrgrgy/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kerr of Ardgowan](/tartans/k/ke/kerr-of-ardgowan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

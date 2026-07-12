@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Palatine Union"
+  url: "/tartans/p/pa/palatine-union/"
 - name: "Palatine Union (Personal)"
   url: "/setts/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWWRWWKBKBKBKWWRWWKBKBKBKWWRWWKBKBK](/stripes/bkbkbkwwrwwkbkbkbkwwrwwkbkbkbkwwrwwkbkbk/).
+
+Part of the [Palatine Union](/tartans/p/pa/palatine-union/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

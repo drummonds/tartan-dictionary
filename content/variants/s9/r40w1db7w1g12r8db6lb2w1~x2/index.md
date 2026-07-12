@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spens"
-  url: "/tartans/spens/"
+  url: "/tartans/s/sp/spens/"
 - name: "Spens (Lochcarron)"
   url: "/setts/r40w1db7w1g12r8db6lb2w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r40w1db7w1g12r8db6lb2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWGRBWW](/stripes/rwbwgrbww/).
 
-Part of the [Spens](/tartans/spens/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spens](/tartans/s/sp/spens/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

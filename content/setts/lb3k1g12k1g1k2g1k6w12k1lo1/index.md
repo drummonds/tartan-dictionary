@@ -6,6 +6,8 @@ This is the **McCandlish Arisaid, Green (Name)** sett — one scale-free proport
 [WKGKGKGKWKY](/stripes/wkgkgkgkwky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [McCandlish Arisaid](/tartans/m/mc/mccandlish-arisaid-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

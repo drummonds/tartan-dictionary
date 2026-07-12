@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Gas"
+  url: "/tartans/s/sc/scottish-gas/"
+- name: "Scottish Gas"
   url: "/setts/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
+
+Part of the [Scottish Gas](/tartans/s/sc/scottish-gas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

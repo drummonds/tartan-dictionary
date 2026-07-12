@@ -6,7 +6,7 @@ This is the **Dutch Friendship (Fashion)** sett — one scale-free proportion (`
 [KGYGYKGGKR](/stripes/kgygykggkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Dutch Friendship](/tartans/dutch-friendship/) tartan — the named design grouping this sett with its kin.
+Part of the [Dutch Friendship](/tartans/d/du/dutch-friendship/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

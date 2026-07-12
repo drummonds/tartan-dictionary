@@ -6,6 +6,8 @@ This is the **Brooks Brothers Tattersall Blue** sett — one scale-free proporti
 [GBGBR](/stripes/gbgbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Brooks Brothers Tattersall](/tartans/b/br/brooks-brothers-tattersall-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

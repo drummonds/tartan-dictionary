@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carinthian National"
+  url: "/tartans/c/ca/carinthian-national/"
+- name: "Carinthian National"
   url: "/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/).
+
+Part of the [Carinthian National](/tartans/c/ca/carinthian-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

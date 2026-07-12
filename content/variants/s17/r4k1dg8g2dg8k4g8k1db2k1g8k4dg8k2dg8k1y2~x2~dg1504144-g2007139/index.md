@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Redmond"
-  url: "/tartans/redmond/"
+  url: "/tartans/r/re/redmond/"
 - name: "Redmond (2014)"
   url: "/setts/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4k1dg8g2dg8k4g8k1db2k1g8k4dg8k2dg8k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKBKGKGGGKR](/stripes/gkgkgkgkbkgkgggkr/).
 
-Part of the [Redmond](/tartans/redmond/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Redmond](/tartans/r/re/redmond/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

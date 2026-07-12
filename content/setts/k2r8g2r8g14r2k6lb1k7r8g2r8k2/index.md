@@ -6,6 +6,8 @@ This is the **Nicolson MacNicol Clan Tartan** sett — one scale-free proportion
 [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/). It is recorded as a single **variant**, below.
 First attested **1876**.
 
+Part of the [Nicolson MacNicol](/tartans/n/ni/nicolson-macnicol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

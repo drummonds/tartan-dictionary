@@ -6,7 +6,7 @@ This is the **Peter of Lee (Personal)** sett — one scale-free proportion (`r3g
 [KBKBGKGR](/stripes/kbkbgkgr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Peter of Lee](/tartans/peter-of-lee-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Peter of Lee](/tartans/p/pe/peter-of-lee-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

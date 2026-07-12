@@ -6,6 +6,8 @@ This is the **Baudoux et amis picards** sett — one scale-free proportion (`y4d
 [GBGBGKGWRWR](/stripes/gbgbgkgwrwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Baudoux et amis picards](/tartans/b/ba/baudoux-et-amis-picards/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

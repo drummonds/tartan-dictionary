@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carolina, States of"
+  url: "/tartans/c/ca/carolina-states-of/"
 - name: "Carolina, States of (District)"
   url: "/setts/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r32y14k16ly3k4lr4k4r1g28r13k4r4lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKYKYKRGRKRY](/stripes/rgkykykrgrkry/).
+
+Part of the [Carolina, States of](/tartans/c/ca/carolina-states-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

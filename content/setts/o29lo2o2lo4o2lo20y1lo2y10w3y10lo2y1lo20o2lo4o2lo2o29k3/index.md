@@ -6,6 +6,8 @@ This is the **Shenzhen** sett — one scale-free proportion (`o29lo2o2lo4o2lo20y
 [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Shenzhen](/tartans/s/sh/shenzhen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

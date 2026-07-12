@@ -6,7 +6,7 @@ This is the **Graham of Menteith (Red)** sett — one scale-free proportion (`r3
 [KBKRWR](/stripes/kbkrwr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Graham of Menteith](/tartans/graham-of-menteith-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Graham of Menteith](/tartans/g/gr/graham-of-menteith-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

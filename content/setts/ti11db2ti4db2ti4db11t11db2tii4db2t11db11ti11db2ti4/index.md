@@ -6,6 +6,8 @@ This is the **Scottish Gas** sett — one scale-free proportion (`ti11db2ti4db2t
 [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Scottish Gas](/tartans/s/sc/scottish-gas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

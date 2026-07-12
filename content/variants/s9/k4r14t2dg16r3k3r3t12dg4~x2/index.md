@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crook"
-  url: "/tartans/crook/"
+  url: "/tartans/c/cr/crook/"
 - name: "Crook"
   url: "/setts/k4r14t2dg16r3k3r3t12dg4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4r14t2dg16r3k3r3t12dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKRGBRK](/stripes/gbrkrgbrk/).
 
-Part of the [Crook](/tartans/crook/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crook](/tartans/c/cr/crook/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

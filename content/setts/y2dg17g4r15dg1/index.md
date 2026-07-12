@@ -6,7 +6,7 @@ This is the **Christmas** sett — one scale-free proportion (`y2dg17g4r15dg1`),
 [GGGRG](/stripes/gggrg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Christmas](/tartans/christmas/) tartan — the named design grouping this sett with its kin.
+Part of the [Christmas](/tartans/c/ch/christmas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

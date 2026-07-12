@@ -6,6 +6,8 @@ This is the **RAF Leuchars** sett — one scale-free proportion (`lr2y11r2y11k2d
 [YGRGKBWKWY](/stripes/ygrgkbwkwy/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [RAF Leuchars](/tartans/r/ra/raf-leuchars/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Stewart Grey Fancy Tartan** sett — one scale-free proportion (`r
 [GBKBKWKWBRBR](/stripes/gbkbkwkwbrbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Stewart Grey Fancy](/tartans/s/st/stewart-grey-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

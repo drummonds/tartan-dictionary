@@ -6,6 +6,8 @@ This is the **Glendinning (Personal)** sett — one scale-free proportion (`db5w
 [BWBKKKKKKGWKWKGK](/stripes/bwbkkkkkkgwkwkgk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Glendinning](/tartans/g/gl/glendinning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **American Scottish Foundation** sett — one scale-free proportion 
 [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [American Scottish Foundation](/tartans/a/am/american-scottish-foundation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

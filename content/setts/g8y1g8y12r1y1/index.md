@@ -6,7 +6,7 @@ This is the **Forget Family (Yonne)** sett — one scale-free proportion (`g8y1g
 [GGGGRG](/stripes/ggggrg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Forget](/tartans/forget-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Forget](/tartans/f/fo/forget-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

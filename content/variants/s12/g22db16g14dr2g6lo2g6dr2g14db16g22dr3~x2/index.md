@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Scouts"
+  url: "/tartans/s/sc/scottish-scouts-3/"
 - name: "Scottish Scouts #2"
   url: "/setts/g22db16g14dr2g6lo2g6dr2g14db16g22dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g22db16g14dr2g6lo2g6dr2g14db16g22dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGYGBGBG](/stripes/bgbgbgygbgbg/).
+
+Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

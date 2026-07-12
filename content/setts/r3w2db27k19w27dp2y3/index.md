@@ -6,6 +6,8 @@ This is the **Christian Dress (Personal)** sett — one scale-free proportion (`
 [GBWKBWR](/stripes/gbwkbwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Christian Dress](/tartans/c/ch/christian-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

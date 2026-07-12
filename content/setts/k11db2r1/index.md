@@ -6,6 +6,8 @@ This is the **Arrol (Corporate)** sett — one scale-free proportion (`k11db2r1`
 [KKKKBR](/stripes/kkkkbr/). It is recorded as a single **variant**, below.
 First attested **1900**.
 
+Part of the [Arrol](/tartans/a/ar/arrol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

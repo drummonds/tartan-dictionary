@@ -6,6 +6,8 @@ This is the **Women's Royal Army Corps Ass. (Corp.** sett — one scale-free pro
 [GGGGGGRGGGWG](/stripes/ggggggrgggwg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Women's Royal Army Corps Ass. (Corp.](/tartans/w/wo/women-s-royal-army-corps-ass-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

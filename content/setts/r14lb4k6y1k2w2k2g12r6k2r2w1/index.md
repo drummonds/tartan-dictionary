@@ -6,6 +6,8 @@ This is the **Stewart Prince Charles Edward Clan Tartan** sett — one scale-fre
 [RWKGKWKGRKRW](/stripes/rwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [Stewart Prince Charles Edward](/tartans/s/st/stewart-prince-charles-edward/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

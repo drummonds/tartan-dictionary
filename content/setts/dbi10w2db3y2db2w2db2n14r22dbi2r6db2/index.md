@@ -6,6 +6,8 @@ This is the **House of Edgar Shotts & Dykehead** sett — one scale-free proport
 [BWBGBWBBRBRBRBRBBWBGBW](/stripes/bwbgbwbbrbrbrbrbbwbgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [House of Edgar Shotts & Dykehead](/tartans/h/ho/house-of-edgar-shotts-dykehead/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

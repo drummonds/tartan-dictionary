@@ -6,6 +6,8 @@ This is the **Jenkins (Welsh Name)** sett — one scale-free proportion (`g8db3g
 [GBGBYBGBGBR](/stripes/gbgbybgbgbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Jenkins](/tartans/j/je/jenkins-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

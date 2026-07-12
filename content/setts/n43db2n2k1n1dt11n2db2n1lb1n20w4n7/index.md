@@ -6,6 +6,8 @@ This is the **Highland Sky (Fashion)** sett — one scale-free proportion (`n43d
 [BBBKBBBBBWBWB](/stripes/bbbkbbbbbwbwb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Highland Sky](/tartans/h/hi/highland-sky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

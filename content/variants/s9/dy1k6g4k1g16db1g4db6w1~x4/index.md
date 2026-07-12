@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Henderson"
-  url: "/tartans/henderson/"
+  url: "/tartans/h/he/henderson/"
 - name: "Henderson/MacKendrick"
   url: "/setts/dy1k6g4k1g16db1g4db6w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy1k6g4k1g16db1g4db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGBW](/stripes/gkgkgbgbw/).
 
-Part of the [Henderson](/tartans/henderson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Henderson](/tartans/h/he/henderson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

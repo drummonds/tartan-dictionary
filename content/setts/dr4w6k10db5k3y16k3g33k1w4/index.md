@@ -6,6 +6,8 @@ This is the **Fermanagh County, Crest Range** sett — one scale-free proportion
 [BWKBKGKGKW](/stripes/bwkbkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Fermanagh County, Crest Range](/tartans/f/fe/fermanagh-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

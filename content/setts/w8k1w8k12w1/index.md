@@ -6,6 +6,8 @@ This is the **MacLeod Black & White Clan Tartan** sett — one scale-free propor
 [WKWKW](/stripes/wkwkw/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [MacLeod Black &](/tartans/m/ma/macleod-black/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

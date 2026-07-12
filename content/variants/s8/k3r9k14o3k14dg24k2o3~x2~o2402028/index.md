@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cavan Irish County"
+  url: "/tartans/c/ca/cavan-irish-county/"
 - name: "Cavan Irish County Tartan"
   url: "/setts/k3r9k14o3k14dg24k2o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r9k14o3k14dg24k2o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKKRKKGKR](/stripes/krkkrkkgkr/).
+
+Part of the [Cavan Irish County](/tartans/c/ca/cavan-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

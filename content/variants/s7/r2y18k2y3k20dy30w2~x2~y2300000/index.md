@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bennett, John Paul"
+  url: "/tartans/b/be/bennett-john-paul/"
 - name: "Bennett, John Paul Personal Tartan"
   url: "/setts/r2y18k2y3k20dy30w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2y18k2y3k20dy30w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKGW](/stripes/rgkgkgw/).
+
+Part of the [Bennett, John Paul](/tartans/b/be/bennett-john-paul/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

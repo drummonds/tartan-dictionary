@@ -6,7 +6,7 @@ This is the **Ballantyne Personal Tartan** sett — one scale-free proportion (`
 [BGBRG](/stripes/bgbrg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Ballantyne](/tartans/ballantyne/) tartan — the named design grouping this sett with its kin.
+Part of the [Ballantyne](/tartans/b/ba/ballantyne/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

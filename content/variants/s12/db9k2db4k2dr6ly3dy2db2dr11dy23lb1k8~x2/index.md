@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kelvin"
+  url: "/tartans/k/ke/kelvin/"
 - name: "Kelvin Family (Personal)"
   url: "/setts/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBYGBBGWK](/stripes/bkbkbygbbgwk/).
+
+Part of the [Kelvin](/tartans/k/ke/kelvin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

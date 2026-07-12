@@ -6,6 +6,8 @@ This is the **Ferguson, Jerrfey S (Personal)** sett — one scale-free proportio
 [GBKRKY](/stripes/gbkrky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ferguson, Jerrfey S](/tartans/f/fe/ferguson-jerrfey-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

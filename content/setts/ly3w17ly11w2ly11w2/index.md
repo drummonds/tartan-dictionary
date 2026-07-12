@@ -6,6 +6,8 @@ This is the **Fallow Deer (Fashion)** sett — one scale-free proportion (`ly3w1
 [WYWYWY](/stripes/wywywy/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Fallow Deer](/tartans/f/fa/fallow-deer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

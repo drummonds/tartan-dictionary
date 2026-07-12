@@ -6,6 +6,8 @@ This is the **Sekai Fushigi Hakken** sett — one scale-free proportion (`w18ri2
 [BGRWRWGWRGBWGWRW](/stripes/bgrwrwgwrgbwgwrw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Sekai Fushigi Hakken](/tartans/s/se/sekai-fushigi-hakken/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

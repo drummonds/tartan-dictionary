@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gyle"
+  url: "/tartans/g/gy/gyle/"
+- name: "Gyle"
   url: "/setts/lb8dg1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8dg1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWG](/stripes/bgwg/).
+
+Part of the [Gyle](/tartans/g/gy/gyle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

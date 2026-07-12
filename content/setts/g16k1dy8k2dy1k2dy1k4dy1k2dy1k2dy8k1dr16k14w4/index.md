@@ -6,6 +6,8 @@ This is the **Ghana** sett — one scale-free proportion (`g16k1dy8k2dy1k2dy1k4d
 [GKGKGKGKGKGKGKBKKKW](/stripes/gkgkgkgkgkgkgkbkkkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ghana](/tartans/g/gh/ghana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

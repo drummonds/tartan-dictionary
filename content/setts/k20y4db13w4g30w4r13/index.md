@@ -6,6 +6,8 @@ This is the **South Africa 1994 (Fashion)** sett — one scale-free proportion (
 [KGBWGWR](/stripes/kgbwgwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [South Africa 1994](/tartans/s/so/south-africa-1994/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

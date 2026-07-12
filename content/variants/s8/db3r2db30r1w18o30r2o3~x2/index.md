@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Navy"
-  url: "/tartans/bannockbane-navy/"
+  url: "/tartans/b/ba/bannockbane-navy/"
 - name: "Bannockbane Navy"
   url: "/setts/db3r2db30r1w18o30r2o3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3r2db30r1w18o30r2o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRWRRR](/stripes/brbrwrrr/).
 
-Part of the [Bannockbane Navy](/tartans/bannockbane-navy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bannockbane Navy](/tartans/b/ba/bannockbane-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

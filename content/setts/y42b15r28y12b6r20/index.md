@@ -6,6 +6,8 @@ This is the **Kozlosky, Kilt** sett — one scale-free proportion (`y42b15r28y12
 [GBRGBR](/stripes/gbrgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kozlosky](/tartans/k/ko/kozlosky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

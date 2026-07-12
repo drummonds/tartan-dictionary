@@ -10,7 +10,7 @@ crumbs:
 - name: "MacDonald of Sleat"
   url: "/families/macdonald-of-sleat/"
 - name: "MacDonald of Sleat"
-  url: "/tartans/macdonald-of-sleat/"
+  url: "/tartans/m/ma/macdonald-of-sleat/"
 - name: "MacDonald of Sleat Clan Tartan"
   url: "/setts/r36g2r5g16/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r36g2r5g16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGR](/stripes/grgr/).
 
-Part of the [MacDonald of Sleat](/tartans/macdonald-of-sleat/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald of Sleat](/tartans/m/ma/macdonald-of-sleat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

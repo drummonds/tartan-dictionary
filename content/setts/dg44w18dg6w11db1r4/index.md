@@ -6,6 +6,8 @@ This is the **Westfalia (Corporate)** sett — one scale-free proportion (`dg44w
 [GWGWBR](/stripes/gwgwbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Westfalia](/tartans/w/we/westfalia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

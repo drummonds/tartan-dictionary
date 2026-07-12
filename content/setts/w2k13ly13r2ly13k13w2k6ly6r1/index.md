@@ -6,6 +6,8 @@ This is the **Westwood MacStone (Fashion)** sett — one scale-free proportion (
 [RYKWKYRYKW](/stripes/rykwkyrykw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Westwood MacStone](/tartans/w/we/westwood-macstone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

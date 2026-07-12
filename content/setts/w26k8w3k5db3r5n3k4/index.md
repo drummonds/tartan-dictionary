@@ -6,6 +6,8 @@ This is the **Lootens Jensen (Personal)** sett — one scale-free proportion (`w
 [KBRBKWKW](/stripes/kbrbkwkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lootens Jensen](/tartans/l/lo/lootens-jensen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

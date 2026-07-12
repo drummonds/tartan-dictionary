@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Douglas"
+  url: "/clan/douglas/"
+- name: "Douglas"
+  url: "/tartans/d/do/douglas/"
 - name: "Douglas, brown"
   url: "/setts/k7lb3o30b30w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7lb3o30b30w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRBW](/stripes/kwrbw/).
+
+Part of the [Douglas](/tartans/d/do/douglas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

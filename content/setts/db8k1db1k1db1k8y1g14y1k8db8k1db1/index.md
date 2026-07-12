@@ -7,7 +7,7 @@ This is the **Breadalbane Fencibles** sett — one scale-free proportion (`db8k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1890**.
 
-Part of the [Breadalbane Fencibles](/tartans/breadalbane-fencibles/) tartan — the named design grouping this sett with its kin.
+Part of the [Breadalbane Fencibles](/tartans/b/br/breadalbane-fencibles/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

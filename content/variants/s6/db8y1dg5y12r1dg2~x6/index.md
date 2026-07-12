@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCabe"
+  url: "/tartans/m/mc/mccabe/"
 - name: "McCabe (2016)"
   url: "/setts/db8y1dg5y12r1dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8y1dg5y12r1dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGRG](/stripes/bgggrg/).
+
+Part of the [McCabe](/tartans/m/mc/mccabe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

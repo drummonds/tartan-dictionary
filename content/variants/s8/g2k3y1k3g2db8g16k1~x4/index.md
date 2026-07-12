@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harley , Robert"
+  url: "/tartans/h/ha/harley-robert/"
 - name: "Harley (Leslie), Robert"
   url: "/setts/g2k3y1k3g2db8g16k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2k3y1k3g2db8g16k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGK](/stripes/gkgkgbgk/).
+
+Part of the [Harley , Robert](/tartans/h/ha/harley-robert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

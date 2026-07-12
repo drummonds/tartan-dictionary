@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Rome Pipe Band"
+  url: "/tartans/c/ci/city-of-rome-pipe-band/"
+- name: "City of Rome Pipe Band"
   url: "/setts/dr12lo6k88db45k6db6y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12lo6k88db45k6db6y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKBG](/stripes/bykbkbg/).
+
+Part of the [City of Rome Pipe Band](/tartans/c/ci/city-of-rome-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

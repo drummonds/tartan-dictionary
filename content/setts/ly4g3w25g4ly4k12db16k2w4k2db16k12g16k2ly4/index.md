@@ -6,6 +6,8 @@ This is the **Lochalsh (Fashion)** sett — one scale-free proportion (`ly4g3w25
 [YGWGYKBKWKBKGKY](/stripes/ygwgykbkwkbkgky/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Lochalsh](/tartans/l/lo/lochalsh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

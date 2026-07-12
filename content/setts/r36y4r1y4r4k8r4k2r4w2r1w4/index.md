@@ -6,6 +6,8 @@ This is the **Manchester Reds** sett — one scale-free proportion (`r36y4r1y4r4
 [RGRGRKRKRWRW](/stripes/rgrgrkrkrwrw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Manchester Reds](/tartans/m/ma/manchester-reds/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

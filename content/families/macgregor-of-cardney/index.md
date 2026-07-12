@@ -18,5 +18,5 @@ A family of [Clan MacGregor (Clan Gregor)](/clan/macgregor/).
 </tbody>
 </table>
 
-[See the MacGregor of Cardney tartan and all its setts →](/tartans/macgregor-of-cardney/)
+[See the MacGregor of Cardney tartan and all its setts →](/tartans/m/ma/macgregor-of-cardney/)
 

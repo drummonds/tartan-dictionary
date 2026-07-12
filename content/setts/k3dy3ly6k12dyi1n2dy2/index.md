@@ -6,6 +6,8 @@ This is the **Joe Strummer Commemorative** sett — one scale-free proportion (`
 [GBGKYGK](/stripes/gbgkygk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Joe Strummer Commemorative](/tartans/j/jo/joe-strummer-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

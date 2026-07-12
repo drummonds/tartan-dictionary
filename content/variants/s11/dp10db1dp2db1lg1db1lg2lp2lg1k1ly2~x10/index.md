@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lieuwen"
+  url: "/tartans/l/li/lieuwen/"
 - name: "Lieuwen (2013)"
   url: "/setts/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBYBYWYKY](/stripes/bbbbybywyky/).
+
+Part of the [Lieuwen](/tartans/l/li/lieuwen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

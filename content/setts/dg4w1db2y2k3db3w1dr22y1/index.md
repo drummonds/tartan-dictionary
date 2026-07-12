@@ -6,6 +6,8 @@ This is the **Town of Petawawa** sett — one scale-free proportion (`dg4w1db2y2
 [GBWBKGBWG](/stripes/gbwbkgbwg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Town of Petawawa](/tartans/t/to/town-of-petawawa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

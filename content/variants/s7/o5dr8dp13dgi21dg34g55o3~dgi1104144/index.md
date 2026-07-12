@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lunting Papi"
+  url: "/tartans/l/lu/lunting-papi/"
 - name: "Lunting Papi (Personal)"
   url: "/setts/o5dr8dp13dgi21dg34g55o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o5dr8dp13dgi21dg34g55o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGGGR](/stripes/rbbgggr/).
+
+Part of the [Lunting Papi](/tartans/l/lu/lunting-papi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

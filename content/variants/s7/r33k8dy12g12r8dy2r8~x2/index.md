@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tipperary, County"
+  url: "/tartans/t/ti/tipperary-county/"
+- name: "Tipperary, County"
   url: "/setts/r33k8dy12g12r8dy2r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r33k8dy12g12r8dy2r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGKR](/stripes/rgrggkr/).
+
+Part of the [Tipperary, County](/tartans/t/ti/tipperary-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Iberia Dress, Blue (Fashion)** sett — one scale-free proportion 
 [BWRGWRG](/stripes/bwrgwrg/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Iberia Dress](/tartans/i/ib/iberia-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

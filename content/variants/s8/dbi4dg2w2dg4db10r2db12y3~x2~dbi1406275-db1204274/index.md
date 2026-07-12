@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United Services Planning Assoc"
+  url: "/tartans/u/un/united-services-planning-assoc/"
 - name: "United Services, Planning Association"
   url: "/setts/dbi4dg2w2dg4db10r2db12y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi4dg2w2dg4db10r2db12y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGBRBG](/stripes/bgwgbrbg/).
+
+Part of the [United Services Planning Assoc](/tartans/u/un/united-services-planning-assoc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

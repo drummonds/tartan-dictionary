@@ -6,6 +6,8 @@ This is the **Dublin** sett — one scale-free proportion (`r3g8r2g18dr5g3do3g3d
 [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dublin](/tartans/d/du/dublin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

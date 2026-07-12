@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Devon 2000"
-  url: "/tartans/devon-2000/"
+  url: "/tartans/d/de/devon-2000/"
 - name: "Devon 2000"
   url: "/setts/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGBGRGWGRG](/stripes/bgggggbgrgwgrg/).
 
-Part of the [Devon 2000](/tartans/devon-2000/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Devon 2000](/tartans/d/de/devon-2000/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

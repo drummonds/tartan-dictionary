@@ -6,6 +6,8 @@ This is the **Invertere** sett — one scale-free proportion (`y5dg14o4db4o27dg3
 [GGRBRGRG](/stripes/ggrbrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Invertere](/tartans/i/in/invertere-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

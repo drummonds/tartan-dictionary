@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Earle's Flame"
+  url: "/tartans/e/ea/earle-s-flame-2/"
 - name: "Earle's Flame (Fashion)"
   url: "/setts/do10o24dr3o3dr24dg3o6do6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do10o24dr3o3dr24dg3o6do6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGRB](/stripes/brbrbgrb/).
+
+Part of the [Earle's Flame](/tartans/e/ea/earle-s-flame-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

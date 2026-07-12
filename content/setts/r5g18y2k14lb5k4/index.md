@@ -6,6 +6,8 @@ This is the **Dahlonega (District)** sett — one scale-free proportion (`r5g18y
 [KWKGGR](/stripes/kwkggr/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Dahlonega](/tartans/d/da/dahlonega/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

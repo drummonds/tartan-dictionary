@@ -6,6 +6,8 @@ This is the **Glen Shiel (Fashion)** sett — one scale-free proportion (`dr13w3
 [BWBGW](/stripes/bwbgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Glen Shiel](/tartans/g/gl/glen-shiel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

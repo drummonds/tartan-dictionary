@@ -6,6 +6,8 @@ This is the **Desert in Bloom** sett — one scale-free proportion (`lo3y12lo12w
 [GYRGWYGY](/stripes/gyrgwygy/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Desert in Bloom](/tartans/d/de/desert-in-bloom/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

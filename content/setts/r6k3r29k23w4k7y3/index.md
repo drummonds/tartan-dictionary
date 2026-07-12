@@ -6,6 +6,8 @@ This is the **MacPherson Red Cluny** sett — one scale-free proportion (`r6k3r2
 [GKWKRKR](/stripes/gkwkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPherson Red Cluny](/tartans/m/ma/macpherson-red-cluny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

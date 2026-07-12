@@ -6,6 +6,8 @@ This is the **Lennox Purple Dress District Tartan** sett — one scale-free prop
 [BBBBWKW](/stripes/bbbbwkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Lennox Purple Dress](/tartans/l/le/lennox-purple-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Nebraska"
+  url: "/tartans/s/st/state-seal-of-nebraska/"
 - name: "State Seal of Nebraska (Fashion)"
   url: "/setts/ly7g11db4lb31db4g11dy4db14w3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly7g11db4lb31db4g11dy4db14w3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGGBWBGY](/stripes/bwbggbwbgy/).
+
+Part of the [State Seal of Nebraska](/tartans/s/st/state-seal-of-nebraska/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

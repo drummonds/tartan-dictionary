@@ -6,7 +6,7 @@ This is the **Swiss National (Fashion)** sett — one scale-free proportion (`w1
 [WBRBRBRW](/stripes/wbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Swiss National](/tartans/swiss-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Swiss National](/tartans/s/sw/swiss-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

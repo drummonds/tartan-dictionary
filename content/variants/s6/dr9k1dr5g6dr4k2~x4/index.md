@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Macan"
+  url: "/clan/macan/"
+- name: "Macan of Lurgyvallan"
+  url: "/families/macan-of-lurgyvallan/"
+- name: "MacAn of Lurgyvallan"
+  url: "/tartans/m/ma/macan-of-lurgyvallan-2/"
 - name: "MacAn of Lurgyvallan (Hose)"
   url: "/setts/dr9k1dr5g6dr4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr9k1dr5g6dr4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBK](/stripes/bkbgbk/).
+
+Part of the [MacAn of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Creiff Highland Gathering** sett — one scale-free proportion (`k
 [KBGBBBKBW](/stripes/kbgbbbkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Creiff Highland Gathering](/tartans/c/cr/creiff-highland-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

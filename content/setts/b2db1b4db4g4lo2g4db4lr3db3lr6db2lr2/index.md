@@ -6,6 +6,8 @@ This is the **Calgary (Fashion)** sett — one scale-free proportion (`b2db1b4db
 [BBBBGYGBYBYBY](/stripes/bbbbgygbybyby/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Calgary](/tartans/c/ca/calgary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

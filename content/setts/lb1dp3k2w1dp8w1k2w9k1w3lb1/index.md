@@ -6,6 +6,8 @@ This is the **MacRae, Dress Purple (Dance)** sett — one scale-free proportion 
 [WBKWBWKWKWW](/stripes/wbkwbwkwkww/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

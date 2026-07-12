@@ -6,6 +6,8 @@ This is the **Arbroath Smokie** sett — one scale-free proportion (`ly1dr45dt23
 [YBBWBRYRY](/stripes/ybbwbryry/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Arbroath Smokie](/tartans/a/ar/arbroath-smokie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

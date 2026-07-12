@@ -6,6 +6,8 @@ This is the **Goldstraw (Personal)** sett — one scale-free proportion (`g5w2r8
 [GKYKRKGKGKYKRWGWRKYKGKGKRKYKGK](/stripes/gkykrkgkgkykrwgwrkykgkgkrkykgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Goldstraw](/tartans/g/go/goldstraw/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

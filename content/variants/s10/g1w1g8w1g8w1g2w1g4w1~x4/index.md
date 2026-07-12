@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cowper"
+  url: "/tartans/c/co/cowper/"
 - name: "Cowper (Personal)"
   url: "/setts/g1w1g8w1g8w1g2w1g4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1w1g8w1g8w1g2w1g4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGW](/stripes/gwgwgwgwgw/).
+
+Part of the [Cowper](/tartans/c/co/cowper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

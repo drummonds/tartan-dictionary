@@ -7,6 +7,8 @@ This is the **Shepherd** sett — one scale-free proportion (`k1w1`), colour ord
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~260**.
 
+Part of the [Shepherd](/tartans/s/sh/shepherd-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

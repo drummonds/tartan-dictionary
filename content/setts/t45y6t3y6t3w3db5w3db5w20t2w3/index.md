@@ -6,6 +6,8 @@ This is the **Dunn (Scotland) (Name)** sett — one scale-free proportion (`t45y
 [BGBGBWBWBWBW](/stripes/bgbgbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Dunn](/tartans/d/du/dunn-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wellecomme, Bernard"
+  url: "/tartans/w/we/wellecomme-bernard/"
 - name: "Wellecomme, Bernard (Personal)"
   url: "/setts/db4g8k8db4y3g21k3lb4k3lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g8k8db4y3g21k3lb4k3lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBGGKWKW](/stripes/bgkbggkwkw/).
+
+Part of the [Wellecomme, Bernard](/tartans/w/we/wellecomme-bernard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

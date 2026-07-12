@@ -6,6 +6,8 @@ This is the **International Highland Games Fed.** sett — one scale-free propor
 [BRGW](/stripes/brgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [International Highland Games Fed.](/tartans/i/in/international-highland-games-fed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

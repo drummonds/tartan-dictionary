@@ -6,6 +6,8 @@ This is the **Scottish Netball (1987) (Corporate)** sett — one scale-free prop
 [GBBBR](/stripes/gbbbr/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Scottish Netball](/tartans/s/sc/scottish-netball/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

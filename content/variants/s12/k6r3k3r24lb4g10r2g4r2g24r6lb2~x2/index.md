@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leach"
+  url: "/tartans/l/le/leach/"
 - name: "Leach (1999)"
   url: "/setts/k6r3k3r24lb4g10r2g4r2g24r6lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r3k3r24lb4g10r2g4r2g24r6lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWGRGRGRW](/stripes/krkrwgrgrgrw/).
+
+Part of the [Leach](/tartans/l/le/leach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

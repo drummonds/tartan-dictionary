@@ -6,6 +6,8 @@ This is the **Sturm (2016)** sett — one scale-free proportion (`k12g3y2k2g3k18
 [BGBKGKGKGGK](/stripes/bgbkgkgkggk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Sturm](/tartans/s/st/sturm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

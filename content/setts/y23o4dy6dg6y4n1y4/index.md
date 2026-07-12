@@ -6,7 +6,7 @@ This is the **Tricor (Corporate)** sett — one scale-free proportion (`y23o4dy6
 [GBGGGRG](/stripes/gbgggrg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Tricor](/tartans/tricor/) tartan — the named design grouping this sett with its kin.
+Part of the [Tricor](/tartans/t/tr/tricor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

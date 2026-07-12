@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Dunmore"
+  url: "/families/murray-of-dunmore/"
+- name: "Murray of Dunmore"
+  url: "/tartans/m/mu/murray-of-dunmore/"
 - name: "Murray of Dunmore (Clan)"
   url: "/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/).
+
+Part of the [Murray of Dunmore](/tartans/m/mu/murray-of-dunmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

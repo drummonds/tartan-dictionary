@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacAndrew Hunting"
+  url: "/tartans/m/ma/macandrew-hunting/"
 - name: "MacAndrew Hunting (Name)"
   url: "/setts/g72k8g4dy16g7n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g72k8g4dy16g7n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGKG](/stripes/bgggkg/).
+
+Part of the [MacAndrew Hunting](/tartans/m/ma/macandrew-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

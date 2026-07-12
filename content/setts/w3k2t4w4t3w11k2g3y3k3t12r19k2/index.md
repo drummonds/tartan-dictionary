@@ -6,6 +6,8 @@ This is the **Badminton Cup** sett — one scale-free proportion (`w3k2t4w4t3w11
 [KRBKGGKWBWBKW](/stripes/krbkggkwbwbkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Badminton Cup](/tartans/b/ba/badminton-cup/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

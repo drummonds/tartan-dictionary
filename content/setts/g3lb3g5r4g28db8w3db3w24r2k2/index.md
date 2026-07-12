@@ -6,6 +6,8 @@ This is the **Downie Dress** sett — one scale-free proportion (`g3lb3g5r4g28db
 [GWGRGBWBWRK](/stripes/gwgrgbwbwrk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Downie Dress](/tartans/d/do/downie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

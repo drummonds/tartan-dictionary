@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland"
+  url: "/tartans/h/hi/highland-4/"
 - name: "Highland Blue"
   url: "/setts/g13db5y3t6y3db5n6db28w2db28n6db5y3t6y3db5g13dp4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g13db5y3t6y3db5n6db28w2db28n6db5y3t6y3db5g13dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBBBWBBBGBGBG](/stripes/bgbgbgbbbwbbbgbgbg/).
+
+Part of the [Highland](/tartans/h/hi/highland-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

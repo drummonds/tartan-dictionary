@@ -6,6 +6,8 @@ This is the **Chartered Institute of Bankers** sett — one scale-free proportio
 [GKBKBKBWBWGWBWBKBKBK](/stripes/gkbkbkbwbwgwbwbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Chartered Institute of Bankers](/tartans/c/ch/chartered-institute-of-bankers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

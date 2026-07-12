@@ -6,6 +6,8 @@ This is the **Scout Mapping Service #1 (Corporate)** sett — one scale-free pro
 [BBGRGKY](/stripes/bbgrgky/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Scout Mapping Service](/tartans/s/sc/scout-mapping-service-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

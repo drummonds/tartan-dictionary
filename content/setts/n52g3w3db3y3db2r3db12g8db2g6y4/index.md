@@ -7,6 +7,8 @@ This is the **Barcelona English School** sett — one scale-free proportion (`n5
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [Barcelona English School](/tartans/b/ba/barcelona-english-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

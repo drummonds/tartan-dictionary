@@ -6,7 +6,7 @@ This is the **Frater (Name)** sett — one scale-free proportion (`n6r2ri15n15k2
 [BRRBKBRRRBW](/stripes/brrbkbrrrbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Frater](/tartans/frater/) tartan — the named design grouping this sett with its kin.
+Part of the [Frater](/tartans/f/fr/frater/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Fraser, Isabella (Artefact)** sett — one scale-free proportion (
 [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/). It is recorded as a single **variant**, below.
 First attested **1730**.
 
+Part of the [Fraser, Isabella](/tartans/f/fr/fraser-isabella-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

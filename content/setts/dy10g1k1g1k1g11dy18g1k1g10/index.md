@@ -6,6 +6,8 @@ This is the **Donachie of Brockloch Ancient Hunting** sett — one scale-free pr
 [GGKGKGGGKG](/stripes/ggkgkgggkg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Donachie of Brockloch Ancient Hunting](/tartans/d/do/donachie-of-brockloch-ancient-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

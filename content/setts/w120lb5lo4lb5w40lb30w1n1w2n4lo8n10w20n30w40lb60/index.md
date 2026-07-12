@@ -6,6 +6,8 @@ This is the **Langara College** sett — one scale-free proportion (`w120lb5lo4l
 [WWBWBYBWBWWWWYWW](/stripes/wwbwbybwbwwwwyww/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Langara College](/tartans/l/la/langara-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

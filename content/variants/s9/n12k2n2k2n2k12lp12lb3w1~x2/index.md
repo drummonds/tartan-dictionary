@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "de Franck, Matt"
+  url: "/tartans/d/de/de-franck-matt-2/"
 - name: "de Franck, Matt (Personal)"
   url: "/setts/n12k2n2k2n2k12lp12lb3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12k2n2k2n2k12lp12lb3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWWW](/stripes/bkbkbkwww/).
+
+Part of the [de Franck, Matt](/tartans/d/de/de-franck-matt-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

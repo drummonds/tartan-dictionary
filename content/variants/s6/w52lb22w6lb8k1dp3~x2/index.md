@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor Turquoise Dress"
+  url: "/tartans/m/ma/macgregor-turquoise-dress/"
 - name: "MacGregor Turquoise Dress Fashion Tartan"
   url: "/setts/w52lb22w6lb8k1dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w52lb22w6lb8k1dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWWKBKWWWW](/stripes/wwwkbkwwww/).
+
+Part of the [MacGregor Turquoise Dress](/tartans/m/ma/macgregor-turquoise-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

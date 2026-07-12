@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Red Lichtie"
-  url: "/tartans/red-lichtie/"
+  url: "/tartans/r/re/red-lichtie/"
 - name: "Red Lichtie (District)"
   url: "/setts/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r2dr1r9dr1r2dr2r1dr27db1lb2dr1db11lo1dr2lo1dr2lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRBRBRBBWBBYBYBY](/stripes/wrbrbrbrbbwbbybyby/).
 
-Part of the [Red Lichtie](/tartans/red-lichtie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Red Lichtie](/tartans/r/re/red-lichtie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

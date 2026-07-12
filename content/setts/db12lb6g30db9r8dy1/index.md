@@ -6,7 +6,7 @@ This is the **Wright , Anne (Personal)** sett — one scale-free proportion (`db
 [BWGBRG](/stripes/bwgbrg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Wright, Anne](/tartans/wright-anne/) tartan — the named design grouping this sett with its kin.
+Part of the [Wright, Anne](/tartans/w/wr/wright-anne/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

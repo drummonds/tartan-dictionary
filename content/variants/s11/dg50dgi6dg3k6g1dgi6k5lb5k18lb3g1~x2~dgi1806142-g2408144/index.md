@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Undiscovered Scotland"
+  url: "/tartans/u/un/undiscovered-scotland-2/"
 - name: "Undiscovered Scotland (Corporate)"
   url: "/setts/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGGKWKWG](/stripes/gggkggkwkwg/).
+
+Part of the [Undiscovered Scotland](/tartans/u/un/undiscovered-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

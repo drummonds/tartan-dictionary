@@ -6,6 +6,8 @@ This is the **Stewart Dress (Artefact)** sett — one scale-free proportion (`w5
 [WBWKGKWKGRKRW](/stripes/wbwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Stewart Dress](/tartans/s/st/stewart-dress-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

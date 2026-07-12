@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornish National"
+  url: "/tartans/c/co/cornish-national-2/"
+- name: "Cornish National"
   url: "/setts/k3lb7ly26k26w5k26ly26lb7k3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lb7ly26k26w5k26ly26lb7k3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWYKWKYWKR](/stripes/kwykwkywkr/).
+
+Part of the [Cornish National](/tartans/c/co/cornish-national-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

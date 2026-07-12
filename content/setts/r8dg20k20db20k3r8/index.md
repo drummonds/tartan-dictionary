@@ -6,6 +6,8 @@ This is the **Atholl Highlanders (Military)** sett — one scale-free proportion
 [RGKBKR](/stripes/rgkbkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Atholl Highlanders](/tartans/a/at/atholl-highlanders/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

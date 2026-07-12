@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thunderlord"
+  url: "/tartans/t/th/thunderlord/"
 - name: "Thunderlord (Corporate)"
   url: "/setts/n62w11k4lg17/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n62w11k4lg17/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKY](/stripes/bwky/).
+
+Part of the [Thunderlord](/tartans/t/th/thunderlord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

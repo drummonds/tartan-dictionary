@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Malaysian Unknown"
+  url: "/tartans/m/ma/malaysian-unknown/"
 - name: "Malaysian Unknown (Artefact)"
   url: "/setts/w45dr2g9w2dr30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w45dr2g9w2dr30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBW](/stripes/bwgbw/).
+
+Part of the [Malaysian Unknown](/tartans/m/ma/malaysian-unknown/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

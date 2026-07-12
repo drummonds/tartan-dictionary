@@ -6,6 +6,8 @@ This is the **Wilson (Janet)** sett — one scale-free proportion (`db45w4db6g6d
 [BWBGBGBGRGRGRGRGRGBRWRWRBGRGRGRGRGRGBGBGBW](/stripes/bwbgbgbgrgrgrgrgrgbrwrwrbgrgrgrgrgrgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **1780**.
 
+Part of the [Wilson](/tartans/w/wi/wilson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

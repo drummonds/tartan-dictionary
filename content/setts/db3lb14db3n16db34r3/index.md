@@ -6,6 +6,8 @@ This is the **Thorburn (Lochcarron)** sett — one scale-free proportion (`db3lb
 [BWBBBR](/stripes/bwbbbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Thorburn](/tartans/t/th/thorburn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

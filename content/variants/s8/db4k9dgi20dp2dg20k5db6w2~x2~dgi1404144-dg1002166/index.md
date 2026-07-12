@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Linden"
-  url: "/tartans/linden/"
+  url: "/tartans/l/li/linden/"
 - name: "Linden Family Tartan"
   url: "/setts/db4k9dgi20dp2dg20k5db6w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4k9dgi20dp2dg20k5db6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGKBW](/stripes/bkgbgkbw/).
 
-Part of the [Linden](/tartans/linden/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Linden](/tartans/l/li/linden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **MacGuire Irish Family Tartan** sett — one scale-free proportion 
 [BGRWRWRWRWRGBW](/stripes/bgrwrwrwrwrgbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [MacGuire](/tartans/m/ma/macguire-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

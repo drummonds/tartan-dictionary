@@ -6,6 +6,8 @@ This is the **MacDonald of Glenaladale - 1772 (Cla** sett — one scale-free pro
 [KWRKRWRGRKW](/stripes/kwrkrwrgrkw/). It is recorded as a single **variant**, below.
 First attested **1772**.
 
+Part of the [MacDonald of Glenaladale](/tartans/m/ma/macdonald-of-glenaladale-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

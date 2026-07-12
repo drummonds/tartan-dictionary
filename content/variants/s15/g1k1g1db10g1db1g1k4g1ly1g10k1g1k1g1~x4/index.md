@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Grant Distillery"
+  url: "/tartans/g/gl/glen-grant-distillery/"
 - name: "Glen Grant Distillery"
   url: "/setts/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGBGKGYGKGKG](/stripes/gkgbgbgkgygkgkg/).
+
+Part of the [Glen Grant Distillery](/tartans/g/gl/glen-grant-distillery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Moncrieff"
+  url: "/clan/moncrieff/"
+- name: "Moncrieff of Atholl"
+  url: "/families/moncrieff-of-atholl/"
+- name: "Moncrieff of Atholl"
+  url: "/tartans/m/mo/moncrieff-of-atholl/"
 - name: "Moncrieff of Atholl"
   url: "/setts/g9k1g2k2g2db7g9r2g9db9g7k1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9k1g2k2g2db7g9r2g9db9g7k1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBGRGBGKR](/stripes/gkgkgbgrgbgkr/).
+
+Part of the [Moncrieff of Atholl](/tartans/m/mo/moncrieff-of-atholl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

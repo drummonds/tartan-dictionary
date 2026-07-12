@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McCarthy, Old"
+  url: "/tartans/m/mc/mccarthy-old/"
+- name: "McCarthy, Old"
   url: "/setts/db7dr26db7dg24y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7dr26db7dg24y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGG](/stripes/bbbgg/).
+
+Part of the [McCarthy, Old](/tartans/m/mc/mccarthy-old/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

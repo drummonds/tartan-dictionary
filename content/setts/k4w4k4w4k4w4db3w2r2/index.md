@@ -6,6 +6,8 @@ This is the **Scott B/W (Sir Walter..) Tartan** sett — one scale-free proporti
 [KWKWKWBWR](/stripes/kwkwkwbwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Scott B/W](/tartans/s/sc/scott-b-w/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

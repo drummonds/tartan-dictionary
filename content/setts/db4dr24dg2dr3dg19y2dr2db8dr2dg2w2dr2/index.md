@@ -6,6 +6,8 @@ This is the **Michael from Appin (Personal)** sett — one scale-free proportion
 [BBGBGGBBBGWB](/stripes/bbgbggbbbgwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Michael from Appin](/tartans/m/mi/michael-from-appin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

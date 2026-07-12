@@ -6,6 +6,8 @@ This is the **Farquharson (Vestiarium Scoticum) or MacEwen/MacEwan** sett — on
 [BKBKBKBKBKGKGKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkgkgkbkbkbkgkrkgk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Farquharson or MacEwen/MacEwan](/tartans/f/fa/farquharson-or-macewen-macewan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -18,5 +18,5 @@ A family of [Clan Graham](/clan/graham/).
 </tbody>
 </table>
 
-[See the Graham of Montrose tartan and all its setts →](/tartans/graham-of-montrose-3/)
+[See the Graham of Montrose tartan and all its setts →](/tartans/g/gr/graham-of-montrose-3/)
 

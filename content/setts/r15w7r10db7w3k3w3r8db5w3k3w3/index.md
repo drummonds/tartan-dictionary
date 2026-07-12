@@ -6,6 +6,8 @@ This is the **Westgaard of Kileughterco (Personal)** sett — one scale-free pro
 [RWRBWKWRBWKW](/stripes/rwrbwkwrbwkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Westgaard of Kileughterco](/tartans/w/we/westgaard-of-kileughterco/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

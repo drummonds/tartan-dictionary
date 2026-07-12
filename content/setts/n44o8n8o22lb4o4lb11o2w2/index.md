@@ -6,6 +6,8 @@ This is the **Titanium (Fashion)** sett — one scale-free proportion (`n44o8n8o
 [BRBRWRWRW](/stripes/brbrwrwrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Titanium](/tartans/t/ti/titanium-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

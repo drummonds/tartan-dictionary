@@ -20,7 +20,7 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Ogg of Tarragann tartan and all its setts →](/tartans/ogg-of-tarragann/)
+[See the Ogg of Tarragann tartan and all its setts →](/tartans/o/og/ogg-of-tarragann/)
 
 ### Ogg of Tarragann Hunting
 
@@ -34,5 +34,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Ogg of Tarragann Hunting tartan and all its setts →](/tartans/ogg-of-tarragann-hunting/)
+[See the Ogg of Tarragann Hunting tartan and all its setts →](/tartans/o/og/ogg-of-tarragann-hunting/)
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Forget"
-  url: "/tartans/forget-2/"
+  url: "/tartans/f/fo/forget-2/"
 - name: "Forget Family (Personal)"
   url: "/setts/g8ly1g8ly12r1ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8ly1g8ly12r1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYRY](/stripes/gygyry/).
 
-Part of the [Forget](/tartans/forget-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forget](/tartans/f/fo/forget-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

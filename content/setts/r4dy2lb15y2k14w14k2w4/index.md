@@ -6,6 +6,8 @@ This is the **Culloden - 2000 (Fashion)** sett — one scale-free proportion (`r
 [RGWGKWKW](/stripes/rgwgkwkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Culloden](/tartans/c/cu/culloden-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

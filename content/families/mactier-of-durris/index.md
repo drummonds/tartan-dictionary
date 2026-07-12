@@ -19,5 +19,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the MacTier of Durris tartan and all its setts →](/tartans/mactier-of-durris/)
+[See the MacTier of Durris tartan and all its setts →](/tartans/m/ma/mactier-of-durris/)
 

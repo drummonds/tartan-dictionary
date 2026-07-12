@@ -6,6 +6,8 @@ This is the **Cumming Comyn Buchan Clan Tartan** sett — one scale-free proport
 [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Cumming Comyn Buchan](/tartans/c/cu/cumming-comyn-buchan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

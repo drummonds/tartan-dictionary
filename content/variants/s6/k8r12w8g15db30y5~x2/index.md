@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Reekie"
+  url: "/tartans/r/re/reekie/"
 - name: "Reekie (Edmonton)"
   url: "/setts/k8r12w8g15db30y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8r12w8g15db30y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWRK](/stripes/gbgwrk/).
+
+Part of the [Reekie](/tartans/r/re/reekie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

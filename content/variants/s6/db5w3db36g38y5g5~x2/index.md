@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Andrew Society, Sao Paulo"
+  url: "/tartans/s/st/st-andrew-society-sao-paulo/"
 - name: "St. Andrew Society, Sao Paulo (Corp)"
   url: "/setts/db5w3db36g38y5g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5w3db36g38y5g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGGG](/stripes/bwbggg/).
+
+Part of the [St. Andrew Society, Sao Paulo](/tartans/s/st/st-andrew-society-sao-paulo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

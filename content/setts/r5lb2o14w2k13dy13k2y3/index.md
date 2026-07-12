@@ -6,6 +6,8 @@ This is the **Culloden (Old and Rare) District Tartan** sett — one scale-free 
 [GKGKWRWR](/stripes/gkgkwrwr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Culloden](/tartans/c/cu/culloden-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

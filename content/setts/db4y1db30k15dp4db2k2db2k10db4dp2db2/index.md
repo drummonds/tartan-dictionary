@@ -6,7 +6,7 @@ This is the **Scotland's Own** sett — one scale-free proportion (`db4y1db30k15
 [BBBKBKBBKBGBGBKBBKBKBB](/stripes/bbbkbkbbkbgbgbkbbkbkbb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Scotland's Own](/tartans/scotland-s-own/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland's Own](/tartans/s/sc/scotland-s-own/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

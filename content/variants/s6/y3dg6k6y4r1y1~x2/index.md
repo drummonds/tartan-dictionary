@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Waterloo"
+  url: "/tartans/w/wa/waterloo/"
+- name: "Waterloo"
   url: "/setts/y3dg6k6y4r1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dg6k6y4r1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGRG](/stripes/ggkgrg/).
+
+Part of the [Waterloo](/tartans/w/wa/waterloo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

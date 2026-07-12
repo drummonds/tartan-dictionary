@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Delaware Fine Spirits Guild"
-  url: "/tartans/delaware-fine-spirits-guild/"
+  url: "/tartans/d/de/delaware-fine-spirits-guild/"
 - name: "Delaware Fine Spirits Guild (Corp)"
   url: "/setts/k5dg25k10g15y1g5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k5dg25k10g15y1g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGK](/stripes/gggkgk/).
 
-Part of the [Delaware Fine Spirits Guild](/tartans/delaware-fine-spirits-guild/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Delaware Fine Spirits Guild](/tartans/d/de/delaware-fine-spirits-guild/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

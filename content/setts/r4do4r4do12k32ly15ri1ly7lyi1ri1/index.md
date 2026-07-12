@@ -6,6 +6,8 @@ This is the **Hard Rock Cafe (Corporate)** sett — one scale-free proportion (`
 [RBRBKYRYYR](/stripes/rbrbkyryyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hard Rock Cafe](/tartans/h/ha/hard-rock-cafe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

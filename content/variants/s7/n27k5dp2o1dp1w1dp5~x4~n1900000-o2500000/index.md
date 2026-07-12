@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Mist"
+  url: "/tartans/c/ca/caledonian-mist-2/"
+- name: "Caledonian Mist"
   url: "/setts/n27k5dp2o1dp1w1dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n27k5dp2o1dp1w1dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBWB](/stripes/bkbrbwb/).
+
+Part of the [Caledonian Mist](/tartans/c/ca/caledonian-mist-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

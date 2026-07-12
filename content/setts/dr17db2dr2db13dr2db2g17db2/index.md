@@ -6,7 +6,7 @@ This is the **Remony (Red)** sett — one scale-free proportion (`dr17db2dr2db13
 [BBBBBBGB](/stripes/bbbbbbgb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Red Remony](/tartans/red-remony/) tartan — the named design grouping this sett with its kin.
+Part of the [Red Remony](/tartans/r/re/red-remony/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

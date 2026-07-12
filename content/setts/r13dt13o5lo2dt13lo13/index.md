@@ -6,6 +6,8 @@ This is the **Torana** sett — one scale-free proportion (`r13dt13o5lo2dt13lo13
 [RBRYBY](/stripes/rbryby/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Torana](/tartans/t/to/torana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

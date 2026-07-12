@@ -6,6 +6,8 @@ This is the **Burnfoot Check** sett — one scale-free proportion (`dr3dg2n2dg3k
 [BGBGKBYB](/stripes/bgbgkbyb/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Burnfoot Check](/tartans/b/bu/burnfoot-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

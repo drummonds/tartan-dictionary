@@ -6,6 +6,8 @@ This is the **Franklin Museum Unidentified 2** sett — one scale-free proportio
 [BRBRBRGR](/stripes/brbrbrgr/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Franklin Museum Unidentified 2](/tartans/f/fr/franklin-museum-unidentified-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

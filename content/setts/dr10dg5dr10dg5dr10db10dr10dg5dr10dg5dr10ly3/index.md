@@ -6,6 +6,8 @@ This is the **Capricornica (Fashion)** sett — one scale-free proportion (`dr10
 [BGBGBBBGBGBY](/stripes/bgbgbbbgbgby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Capricornica](/tartans/c/ca/capricornica/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lorne, Louise of** sett — one scale-free proportion (`db2r1g8k2g
 [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **1871**.
 
+Part of the [Louise](/tartans/l/lo/louise-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

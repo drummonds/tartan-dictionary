@@ -6,6 +6,8 @@ This is the **Etive, Burgundy (Dance)** sett — one scale-free proportion (`r15
 [RRGKWRGRW](/stripes/rrgkwrgrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Etive Burgundy](/tartans/e/et/etive-burgundy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **South Lanarkshire** sett — one scale-free proportion (`k2w1dp7k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2001**.
 
+Part of the [South Lanarkshire](/tartans/s/so/south-lanarkshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

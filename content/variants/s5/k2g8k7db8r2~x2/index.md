@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Denholme"
+  url: "/tartans/d/de/denholme/"
+- name: "Denholme"
   url: "/setts/k2g8k7db8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g8k7db8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBR](/stripes/kgkbr/).
+
+Part of the [Denholme](/tartans/d/de/denholme/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

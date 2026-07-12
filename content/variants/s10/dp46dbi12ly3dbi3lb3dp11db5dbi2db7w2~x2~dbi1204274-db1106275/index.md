@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diamond Jubilee"
+  url: "/tartans/d/di/diamond-jubilee/"
 - name: "Diamond Jubilee (Lochcarron) (Comm.)"
   url: "/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
+
+Part of the [Diamond Jubilee](/tartans/d/di/diamond-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

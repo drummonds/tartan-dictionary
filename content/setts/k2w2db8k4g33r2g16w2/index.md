@@ -6,6 +6,8 @@ This is the **Sarros (Personal) XX** sett — one scale-free proportion (`k2w2db
 [KWBKGRGW](/stripes/kwbkgrgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Sarros XX](/tartans/s/sa/sarros-xx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

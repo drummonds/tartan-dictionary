@@ -6,6 +6,8 @@ This is the **McWilliams Wedding (Personal)** sett — one scale-free proportion
 [GBKBYBKGR](/stripes/gbkbybkgr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [McWilliams Wedding](/tartans/m/mc/mcwilliams-wedding-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

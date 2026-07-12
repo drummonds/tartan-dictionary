@@ -6,7 +6,7 @@ This is the **Hunter of Hunterston Clan Tartan** sett — one scale-free proport
 [GBGBRBWGRGG](/stripes/gbgbrbwgrgg/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Hunter of Hunterston](/tartans/hunter-of-hunterston/) tartan — the named design grouping this sett with its kin.
+Part of the [Hunter of Hunterston](/tartans/h/hu/hunter-of-hunterston/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

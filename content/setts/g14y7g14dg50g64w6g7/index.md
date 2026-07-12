@@ -6,6 +6,8 @@ This is the **Freedom of Derry** sett — one scale-free proportion (`g14y7g14dg
 [GGGGGWG](/stripes/gggggwg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Freedom of Derry](/tartans/f/fr/freedom-of-derry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

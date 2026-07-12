@@ -6,6 +6,8 @@ This is the **Genet, Citizen (Commem)** sett — one scale-free proportion (`r2k
 [RKGBRBW](/stripes/rkgbrbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Genet, Citizen](/tartans/g/ge/genet-citizen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

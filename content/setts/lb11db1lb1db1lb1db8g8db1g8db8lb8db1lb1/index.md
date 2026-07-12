@@ -6,6 +6,8 @@ This is the **Sutherland #3** sett — one scale-free proportion (`lb11db1lb1db1
 [WBWBGBGBWBWBW](/stripes/wbwbgbgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Sutherland](/tartans/s/su/sutherland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

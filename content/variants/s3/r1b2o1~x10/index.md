@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenmorangie, Check"
+  url: "/tartans/g/gl/glenmorangie-check-2/"
+- name: "Glenmorangie, Check"
   url: "/setts/r1b2o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1b2o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBR](/stripes/rbr/).
+
+Part of the [Glenmorangie, Check](/tartans/g/gl/glenmorangie-check-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 

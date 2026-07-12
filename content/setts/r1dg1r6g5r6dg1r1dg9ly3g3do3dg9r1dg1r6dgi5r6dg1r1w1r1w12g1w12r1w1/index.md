@@ -6,7 +6,7 @@ This is the **Maple Leaf Dress (Lumsden)** sett — one scale-free proportion (`
 [RGRGRGRGYGBGRGRGRGRWRWGWRW](/stripes/rgrgrgrgygbgrgrgrgrwrwgwrw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Maple Leaf Dress](/tartans/maple-leaf-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Maple Leaf Dress](/tartans/m/ma/maple-leaf-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

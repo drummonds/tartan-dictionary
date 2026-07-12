@@ -6,6 +6,8 @@ This is the **MacHinery Dress** sett — one scale-free proportion (`lb6k2lb24w4
 [WBWBWWWBBWWWKW](/stripes/wbwbwwwbbwwwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacHinery Dress](/tartans/m/ma/machinery-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

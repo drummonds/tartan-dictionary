@@ -6,6 +6,8 @@ This is the **Dundee (2003)** sett — one scale-free proportion (`lo35dr3k21dr3
 [WKWWYWKWYGBKBY](/stripes/wkwwywkwygbkby/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Dundee](/tartans/d/du/dundee-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

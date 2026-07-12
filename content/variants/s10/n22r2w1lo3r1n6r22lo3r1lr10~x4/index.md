@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenburnie"
+  url: "/tartans/g/gl/glenburnie/"
 - name: "Glenburnie School"
   url: "/setts/n22r2w1lo3r1n6r22lo3r1lr10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n22r2w1lo3r1n6r22lo3r1lr10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWYRBRYRY](/stripes/brwyrbryry/).
+
+Part of the [Glenburnie](/tartans/g/gl/glenburnie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

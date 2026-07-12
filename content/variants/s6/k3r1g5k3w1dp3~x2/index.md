@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.194"
+  url: "/tartans/w/wi/wilson-s-no-194/"
+- name: "Wilson's No.194"
   url: "/setts/k3r1g5k3w1dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r1g5k3w1dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGRKRGKW](/stripes/bwkgrkrgkw/).
+
+Part of the [Wilson's No.194](/tartans/w/wi/wilson-s-no-194/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

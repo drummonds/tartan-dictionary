@@ -6,7 +6,7 @@ This is the **Ensign of Ontario (Fashion)** sett — one scale-free proportion (
 [GGGGYGGGGGGKRKG](/stripes/ggggyggggggkrkg/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Ensign of Ontario](/tartans/ensign-of-ontario/) tartan — the named design grouping this sett with its kin.
+Part of the [Ensign of Ontario](/tartans/e/en/ensign-of-ontario/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

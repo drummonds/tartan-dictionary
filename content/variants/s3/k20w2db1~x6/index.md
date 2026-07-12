@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fily"
-  url: "/tartans/fily/"
+  url: "/tartans/f/fi/fily/"
 - name: "Fily (Verneuil L'tang) (Personal)"
   url: "/setts/k20w2db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k20w2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWK](/stripes/bwk/).
 
-Part of the [Fily](/tartans/fily/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fily](/tartans/f/fi/fily/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

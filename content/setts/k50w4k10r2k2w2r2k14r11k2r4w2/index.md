@@ -6,6 +6,8 @@ This is the **Knights Templar Dress (Corporate)** sett — one scale-free propor
 [KWKRKWRKRKRW](/stripes/kwkrkwrkrkrw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Knights Templar Dress](/tartans/k/kn/knights-templar-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

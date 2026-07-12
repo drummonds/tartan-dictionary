@@ -6,6 +6,8 @@ This is the **Thistle and Kudzu Scottish Society** sett — one scale-free propo
 [BGGW](/stripes/bggw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Thistle and Kudzu Scottish Society](/tartans/t/th/thistle-and-kudzu-scottish-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

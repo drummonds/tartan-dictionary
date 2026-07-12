@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochnagar"
+  url: "/tartans/l/lo/lochnagar/"
 - name: "Lochnagar Trade Tartan"
   url: "/setts/w1dp1lb7n4lb1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1dp1lb7n4lb1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWW](/stripes/wbwbww/).
+
+Part of the [Lochnagar](/tartans/l/lo/lochnagar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

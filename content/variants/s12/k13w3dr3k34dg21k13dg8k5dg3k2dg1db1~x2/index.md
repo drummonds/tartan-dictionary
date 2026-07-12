@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alamudi"
+  url: "/tartans/a/al/alamudi/"
 - name: "Alamudi (Corporate)"
   url: "/setts/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGKGKBWK](/stripes/bgkgkgkgkbwk/).
+
+Part of the [Alamudi](/tartans/a/al/alamudi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

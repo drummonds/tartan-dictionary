@@ -6,6 +6,8 @@ This is the **MacQueen of Dalmagarry (Clan?)** sett — one scale-free proportio
 [GRKRGRBW](/stripes/grkrgrbw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [MacQueen of Dalmagarry](/tartans/m/ma/macqueen-of-dalmagarry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **MacPhail Red Clan Tartan** sett — one scale-free proportion (`r2
 [KWGRKR](/stripes/kwgrkr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [MacPhail](/tartans/macphail/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPhail](/tartans/m/ma/macphail/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

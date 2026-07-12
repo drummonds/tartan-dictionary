@@ -6,6 +6,8 @@ This is the **Spirit of Wales (Fashion)** sett — one scale-free proportion (`d
 [BBBKBBBKBW](/stripes/bbbkbbbkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Spirit of Wales](/tartans/s/sp/spirit-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

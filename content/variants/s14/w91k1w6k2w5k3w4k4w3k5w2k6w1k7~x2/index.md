@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heolbellva ha Materi"
+  url: "/tartans/h/he/heolbellva-ha-materi/"
 - name: "Heolbellva ha Materi (Fashion)"
   url: "/setts/w91k1w6k2w5k3w4k4w3k5w2k6w1k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w91k1w6k2w5k3w4k4w3k5w2k6w1k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/).
+
+Part of the [Heolbellva ha Materi](/tartans/h/he/heolbellva-ha-materi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

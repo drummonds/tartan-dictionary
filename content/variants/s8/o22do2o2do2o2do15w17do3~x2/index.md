@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Turnberry, Manx Snaefell"
+  url: "/tartans/t/tu/turnberry-manx-snaefell-2/"
+- name: "Turnberry, Manx Snaefell"
   url: "/setts/o22do2o2do2o2do15w17do3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o22do2o2do2o2do15w17do3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRBR](/stripes/bwbrbrbr/).
+
+Part of the [Turnberry, Manx Snaefell](/tartans/t/tu/turnberry-manx-snaefell-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

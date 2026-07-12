@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barnaby Brown Pibroch"
-  url: "/tartans/barnaby-brown-pibroch/"
+  url: "/tartans/b/ba/barnaby-brown-pibroch/"
 - name: "Brown, Barnaby (Personal)"
   url: "/setts/r2db10g1db2g1db2g8r1g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db10g1db2g1db2g8r1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
 
-Part of the [Barnaby Brown Pibroch](/tartans/barnaby-brown-pibroch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barnaby Brown Pibroch](/tartans/b/ba/barnaby-brown-pibroch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

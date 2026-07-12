@@ -6,6 +6,8 @@ This is the **Romsdal District Tartan** sett — one scale-free proportion (`g40
 [GKRKR](/stripes/gkrkr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Romsdal](/tartans/r/ro/romsdal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

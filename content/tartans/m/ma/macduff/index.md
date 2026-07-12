@@ -1,0 +1,39 @@
+---
+title: "MacDuff"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [RBKGRGR](/stripes/rbkgrgr/) — the page of every tartan sharing this colour sequence.
+
+Essentially Royal Stuart with white and yellow lines removed; first published by James Logan in 1831.
+
+The **MacDuff** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r10db6k8g10r6g3r6/">MacDuff</a></td><td><code>R/20 DB12 K16 G20 R12 G6 R/12</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r10db6k8g10r6g3r6/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacDuff #3
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">164</div><div class="nn-name nn-base"><a href="/variants/s7/r10db6k8g10r6g3r6~x2/">MacDuff</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x2&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">1.71</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s7/r8db3k4g6r4k1r4~x2/">MacDuff</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x4&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">1.71</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s7/r8db3k4g6r4k1r4~x4/">MacDuff Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8lb3k4g6r4k1r4~x2&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">1.71</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/">MacDuff #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8lb3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k10r10g10r3~x4&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">1.95</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/r3k10r10g10r3~x4/">Unidentified (Gow-like)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3k10r10g10r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3lb4k11r11g11do3r3~x4&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">344</div><div class="nn-name"><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/">Stewart /Stuart- Fragment Cf 1452 &amp; 1445</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3lb4k11r11g11do3r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6g1r6db1g3k3g3~x4&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">148</div><div class="nn-name nn-far"><a href="/variants/s7/r6g1r6db1g3k3g3~x4/">MacTavish</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6g1r6db1g3k3g3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2g4db8r9g9k2r2~x4&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/r2g4db8r9g9k2r2~x4/">Stewart (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2g4db8r9g9k2r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2g4db8r9g9k2r2~x2&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">136</div><div class="nn-name nn-far"><a href="/variants/s7/r2g4db8r9g9k2r2~x2/">Stewart, Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2g4db8r9g9k2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5r17dg16k10db10r17db5~x2&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/">MacNaughton Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db5r17dg16k10db10r17db5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r20dg29db10dg16r6dg10k19~x2&amp;base=r10db6k8g10r6g3r6~x2" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">362</div><div class="nn-name nn-far"><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/">MacDonagh (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r20dg29db10dg16r6dg10k19~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8db3k4g6r4k1r4~x2/"><circle cx="196.7" cy="221.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s7/r8db3k4g6r4k1r4~x4/"><circle cx="196.7" cy="221.7" r="4" fill="#3465a4"><title>MacDuff Clan Tartan</title></circle></a><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/"><circle cx="193.5" cy="221.1" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="152.8" cy="282.1" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.3" cy="228.1" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="208.8" cy="225.5" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="127.8" cy="269.6" r="4" fill="#3465a4"><title>MacNaughton Clan Tartan</title></circle></a><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/"><circle cx="184.6" cy="257.5" r="4" fill="#3465a4"><title>MacDonagh (Name)</title></circle></a><circle cx="111.6" cy="281.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

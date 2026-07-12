@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson"
+  url: "/tartans/m/ma/macpherson-2/"
 - name: "MacPherson (Crubin Plaid)"
   url: "/setts/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYRKGYRKRYGWKR](/stripes/gryrkgyrkrygwkr/).
+
+Part of the [MacPherson](/tartans/m/ma/macpherson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

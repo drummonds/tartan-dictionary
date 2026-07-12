@@ -7,6 +7,8 @@ This is the **Stewart/Stuart** sett — one scale-free proportion (`g34k2db2k2g3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1745**.
 
+Part of the [Stewart/Stuart](/tartans/s/st/stewart-stuart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Independence** sett — one scale-free proportion (`k2lo2b16lo2k2l
 [KYBYKYWYWYKY](/stripes/kybykywywyky/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Independence](/tartans/i/in/independence-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

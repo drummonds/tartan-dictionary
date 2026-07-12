@@ -6,7 +6,7 @@ This is the **Perry / Pirrie (Personal)** sett — one scale-free proportion (`k
 [GKWRK](/stripes/gkwrk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Perry](/tartans/perry/) tartan — the named design grouping this sett with its kin.
+Part of the [Perry](/tartans/p/pe/perry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Kilgour** sett — one scale-free proportion (`db14g21db4r21db14y2
 [BGBRBG](/stripes/bgbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kilgour](/tartans/k/ki/kilgour-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

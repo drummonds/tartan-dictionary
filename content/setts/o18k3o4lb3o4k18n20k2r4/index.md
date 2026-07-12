@@ -6,6 +6,8 @@ This is the **Heart of the Highlands** sett — one scale-free proportion (`o18k
 [RKBKRWRKR](/stripes/rkbkrwrkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Heart of the Highlands](/tartans/h/he/heart-of-the-highlands-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

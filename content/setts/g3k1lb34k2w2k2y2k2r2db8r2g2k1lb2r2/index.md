@@ -6,6 +6,8 @@ This is the **Australian Defence Force Academy (Co** sett — one scale-free pro
 [GKWKWKGKRBRGKWR](/stripes/gkwkwkgkrbrgkwr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Australian Defence Force Academy (Co](/tartans/a/au/australian-defence-force-academy-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **House of Timber Wolf (Personal)** sett — one scale-free proporti
 [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbgggbrbggbwgwbgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [House of Timber Wolf](/tartans/h/ho/house-of-timber-wolf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dugan (Personal)** sett — one scale-free proportion (`k10n4k34db
 [KBKBGBGBRW](/stripes/kbkbgbgbrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dugan](/tartans/d/du/dugan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

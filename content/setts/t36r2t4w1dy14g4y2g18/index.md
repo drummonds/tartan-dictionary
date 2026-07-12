@@ -6,6 +6,8 @@ This is the **Yorkland (Personal)** sett — one scale-free proportion (`t36r2t4
 [BRBWGGGG](/stripes/brbwgggg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Yorkland](/tartans/y/yo/yorkland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

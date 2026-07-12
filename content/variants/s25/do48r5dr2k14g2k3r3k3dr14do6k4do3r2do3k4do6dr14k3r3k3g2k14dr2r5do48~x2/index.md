@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Berwick, Orange"
+  url: "/tartans/b/be/berwick-orange/"
 - name: "Berwick, Orange (Fashion)"
   url: "/setts/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGKRKBBKBRBKBBKRKGKBRB](/stripes/brbkgkrkbbkbrbkbbkrkgkbrb/).
+
+Part of the [Berwick, Orange](/tartans/b/be/berwick-orange/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 

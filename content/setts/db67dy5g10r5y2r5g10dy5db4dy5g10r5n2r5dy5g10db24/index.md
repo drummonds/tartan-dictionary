@@ -6,6 +6,8 @@ This is the **Indianapolis MPD Emerald Society** sett — one scale-free proport
 [BGGRBRGGBGGRGRGGB](/stripes/bggrbrggbggrgrggb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Indianapolis MPD Emerald Society](/tartans/i/in/indianapolis-mpd-emerald-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

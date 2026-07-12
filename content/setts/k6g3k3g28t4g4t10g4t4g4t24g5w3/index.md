@@ -6,6 +6,8 @@ This is the **Mayhew (Personal)** sett — one scale-free proportion (`k6g3k3g28
 [KGKGBGBGBGBGW](/stripes/kgkgbgbgbgbgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Mayhew](/tartans/m/ma/mayhew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

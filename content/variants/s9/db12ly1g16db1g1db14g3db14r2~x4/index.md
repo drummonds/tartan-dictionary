@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orlando, City of"
-  url: "/tartans/orlando-city-of/"
+  url: "/tartans/o/or/orlando-city-of/"
 - name: "Orlando, City of (District)"
   url: "/setts/db12ly1g16db1g1db14g3db14r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12ly1g16db1g1db14g3db14r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGBGBGBR](/stripes/bygbgbgbr/).
 
-Part of the [Orlando, City of](/tartans/orlando-city-of/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Orlando, City of](/tartans/o/or/orlando-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

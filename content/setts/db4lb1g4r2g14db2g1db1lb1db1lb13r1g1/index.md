@@ -6,6 +6,8 @@ This is the **Maine Dirigo** sett — one scale-free proportion (`db4lb1g4r2g14d
 [BWGRGBGBWBWRG](/stripes/bwgrgbgbwbwrg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Maine Dirigo](/tartans/m/ma/maine-dirigo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

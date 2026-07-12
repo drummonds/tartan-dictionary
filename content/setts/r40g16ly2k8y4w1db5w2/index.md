@@ -6,6 +6,8 @@ This is the **Caledonian Soc., Ancient (Artefact)** sett — one scale-free prop
 [RGYKGWBW](/stripes/rgykgwbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Caledonian Soc.](/tartans/c/ca/caledonian-soc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

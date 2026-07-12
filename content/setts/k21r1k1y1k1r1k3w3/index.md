@@ -6,6 +6,8 @@ This is the **Black Country (District)** sett — one scale-free proportion (`k2
 [KRKGKRKW](/stripes/krkgkrkw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Black Country](/tartans/b/bl/black-country/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

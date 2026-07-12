@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heston"
+  url: "/tartans/h/he/heston-2/"
+- name: "Heston"
   url: "/setts/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRBWBKYKBWBRBRBGY](/stripes/gbrbrbwbkykbwbrbrbgy/).
+
+Part of the [Heston](/tartans/h/he/heston-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

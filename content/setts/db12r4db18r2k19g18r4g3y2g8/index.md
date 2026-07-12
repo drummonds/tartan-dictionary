@@ -6,6 +6,8 @@ This is the **Biskup (Personal)** sett — one scale-free proportion (`db12r4db1
 [BRBRKGRGGG](/stripes/brbrkgrggg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Biskup](/tartans/b/bi/biskup/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

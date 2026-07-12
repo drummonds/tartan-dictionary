@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow Islay"
+  url: "/tartans/g/gl/glasgow-islay/"
 - name: "Glasgow Islay, The"
   url: "/setts/db4lb50g4dp4w2y2k3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb50g4dp4w2y2k3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBWGKW](/stripes/bwgbwgkw/).
+
+Part of the [Glasgow Islay](/tartans/g/gl/glasgow-islay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

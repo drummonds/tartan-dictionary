@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Incorporation of Weavers"
+  url: "/tartans/i/in/incorporation-of-weavers/"
 - name: "Incorporation of Weavers (Glasgow)"
   url: "/setts/db3n3db36dbi7k3dbi6g5k1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3n3db36dbi7k3dbi6g5k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBGKG](/stripes/bbbbkbgkg/).
+
+Part of the [Incorporation of Weavers](/tartans/i/in/incorporation-of-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

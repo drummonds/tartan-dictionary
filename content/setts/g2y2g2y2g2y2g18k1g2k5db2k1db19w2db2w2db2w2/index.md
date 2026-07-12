@@ -6,7 +6,7 @@ This is the **Scottish Islamic** sett — one scale-free proportion (`g2y2g2y2g2
 [GGGGGGGKGKBKBWBWBW](/stripes/gggggggkgkbkbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Scottish Islamic](/tartans/scottish-islamic/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Islamic](/tartans/s/sc/scottish-islamic/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

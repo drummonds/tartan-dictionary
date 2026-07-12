@@ -6,6 +6,8 @@ This is the **Elvan** sett — one scale-free proportion (`ly42dy10b2dy2w2dy2ly1
 [YGBGWGYWGWY](/stripes/ygbgwgywgwy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Elvan](/tartans/e/el/elvan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

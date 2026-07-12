@@ -6,6 +6,8 @@ This is the **Auchmaliddie Samkoma** sett — one scale-free proportion (`db23w4
 [RWBW](/stripes/rwbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Auchmaliddie Samkoma](/tartans/a/au/auchmaliddie-samkoma/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

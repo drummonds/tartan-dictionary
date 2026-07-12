@@ -6,7 +6,7 @@ This is the **Telfer Green** sett — one scale-free proportion (`g7dy2g5dg37db6
 [BBBBGGGG](/stripes/bbbbgggg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Telfer](/tartans/telfer/) tartan — the named design grouping this sett with its kin.
+Part of the [Telfer](/tartans/t/te/telfer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

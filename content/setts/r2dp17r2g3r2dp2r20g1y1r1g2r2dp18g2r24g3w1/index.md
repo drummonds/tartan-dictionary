@@ -6,7 +6,7 @@ This is the **Plowman #2 (Personal)** sett — one scale-free proportion (`r2dp1
 [RBRGRBRGGRGRBGRGW](/stripes/rbrgrbrggrgrbgrgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Plowman](/tartans/plowman/) tartan — the named design grouping this sett with its kin.
+Part of the [Plowman](/tartans/p/pl/plowman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

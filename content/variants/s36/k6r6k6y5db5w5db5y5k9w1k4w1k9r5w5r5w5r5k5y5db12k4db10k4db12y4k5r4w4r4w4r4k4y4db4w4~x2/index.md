@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ogilvy or Drummond of Strathallen"
+  url: "/tartans/o/og/ogilvy-or-drummond-of-strathallen/"
+- name: "Ogilvy or Drummond of Strathallen"
   url: "/setts/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGBWBGKWKWKRWRWRKGBKBKBGKRWRWRKGBW](/stripes/krkgbwbgkwkwkrwrwrkgbkbkbgkrwrwrkgbw/).
+
+Part of the [Ogilvy or Drummond of Strathallen](/tartans/o/og/ogilvy-or-drummond-of-strathallen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

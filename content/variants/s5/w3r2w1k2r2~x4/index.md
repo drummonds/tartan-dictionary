@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oakland Centre"
+  url: "/tartans/o/oa/oakland-centre/"
+- name: "Oakland Centre"
   url: "/setts/w3r2w1k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3r2w1k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRW](/stripes/rkwrw/).
+
+Part of the [Oakland Centre](/tartans/o/oa/oakland-centre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

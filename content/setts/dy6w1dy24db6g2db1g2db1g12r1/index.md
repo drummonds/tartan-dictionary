@@ -6,6 +6,8 @@ This is the **Chisholm Hunting Clan Tartan** sett — one scale-free proportion 
 [GWGBGBGBGR](/stripes/gwgbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Chisholm Hunting](/tartans/c/ch/chisholm-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

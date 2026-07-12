@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Margaret's"
+  url: "/tartans/s/st/st-margaret-s/"
 - name: "St. Margaret's School Edinburgh"
   url: "/setts/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKRKRKGKWGWGGKW](/stripes/kggkrkrkgkwgwggkw/).
+
+Part of the [St. Margaret's](/tartans/s/st/st-margaret-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

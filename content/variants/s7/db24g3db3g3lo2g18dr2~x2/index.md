@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Greenways Marketing Intl"
+  url: "/tartans/g/gr/greenways-marketing-intl/"
 - name: "Greenways Marketing Intl (Corporate)"
   url: "/setts/db24g3db3g3lo2g18dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24g3db3g3lo2g18dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGYGB](/stripes/bgbgygb/).
+
+Part of the [Greenways Marketing Intl](/tartans/g/gr/greenways-marketing-intl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

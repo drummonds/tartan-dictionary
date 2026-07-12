@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Glengarry D"
+  url: "/families/macdonell-of-glengarry-d/"
+- name: "MacDonell of Glengarry D"
+  url: "/tartans/m/ma/macdonell-of-glengarry-d/"
 - name: "MacDonell of Glengarry D"
   url: "/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKGRGRGW](/stripes/brbrbrkgrgrgw/).
+
+Part of the [MacDonell of Glengarry D](/tartans/m/ma/macdonell-of-glengarry-d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

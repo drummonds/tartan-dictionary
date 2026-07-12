@@ -6,6 +6,8 @@ This is the **Eildon (1996)** sett — one scale-free proportion (`o19dg2db8dg4d
 [GRGYGKGKGBGBGR](/stripes/grgygkgkgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Eildon](/tartans/e/ei/eildon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

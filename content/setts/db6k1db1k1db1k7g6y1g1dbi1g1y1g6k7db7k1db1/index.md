@@ -6,6 +6,8 @@ This is the **Polaris** sett — one scale-free proportion (`db6k1db1k1db1k7g6y1
 [BKBKBKGGGBGGGKBKB](/stripes/bkbkbkgggbgggkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Polaris](/tartans/p/po/polaris-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

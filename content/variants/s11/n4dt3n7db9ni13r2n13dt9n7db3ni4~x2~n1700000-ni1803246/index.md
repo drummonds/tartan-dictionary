@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Paul Henry"
+  url: "/tartans/p/pa/paul-henry-2/"
 - name: "Paul Henry (Personal)"
   url: "/setts/n4dt3n7db9ni13r2n13dt9n7db3ni4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4dt3n7db9ni13r2n13dt9n7db3ni4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBBBBB](/stripes/bbbbbrbbbbb/).
+
+Part of the [Paul Henry](/tartans/p/pa/paul-henry-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

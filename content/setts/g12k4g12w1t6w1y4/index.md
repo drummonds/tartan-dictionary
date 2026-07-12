@@ -6,6 +6,8 @@ This is the **Pinder, Nigel (Personal)** sett — one scale-free proportion (`g1
 [GKGWBWG](/stripes/gkgwbwg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Pinder, Nigel](/tartans/p/pi/pinder-nigel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

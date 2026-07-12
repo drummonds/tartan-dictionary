@@ -6,6 +6,8 @@ This is the **Morgan in Maryland (USA)** sett — one scale-free proportion (`db
 [BKGBGBWKR](/stripes/bkgbgbwkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Morgan in Maryland](/tartans/m/mo/morgan-in-maryland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

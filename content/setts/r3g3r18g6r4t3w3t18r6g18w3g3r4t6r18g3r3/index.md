@@ -6,7 +6,7 @@ This is the **Reid of Straloch (Personal)** sett — one scale-free proportion (
 [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Reid of Straloch](/tartans/reid-of-straloch/) tartan — the named design grouping this sett with its kin.
+Part of the [Reid of Straloch](/tartans/r/re/reid-of-straloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

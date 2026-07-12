@@ -6,6 +6,8 @@ This is the **Spirit of Riverside (Corporate)** sett — one scale-free proporti
 [BWGK](/stripes/bwgk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Spirit of Riverside](/tartans/s/sp/spirit-of-riverside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Partick Thistle Football Club"
+  url: "/tartans/p/pa/partick-thistle-football-club/"
+- name: "Partick Thistle Football Club"
   url: "/setts/k53dy4k7dy2k4r30w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k53dy4k7dy2k4r30w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKRW](/stripes/kgkgkrw/).
+
+Part of the [Partick Thistle Football Club](/tartans/p/pa/partick-thistle-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

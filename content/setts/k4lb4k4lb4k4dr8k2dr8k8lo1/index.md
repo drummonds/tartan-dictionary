@@ -6,6 +6,8 @@ This is the **Little of Morton Rig Family/Clan Tartan** sett — one scale-free 
 [KWKWKBKBKY](/stripes/kwkwkbkbky/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Little of Morton Rig Family/Clan](/tartans/l/li/little-of-morton-rig-family-clan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

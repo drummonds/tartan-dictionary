@@ -7,6 +7,8 @@ This is the **Norwich No.052** sett — one scale-free proportion (`g19w1db12lb2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1870**.
 
+Part of the [Unidentified No 52](/tartans/u/un/unidentified-no-52/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

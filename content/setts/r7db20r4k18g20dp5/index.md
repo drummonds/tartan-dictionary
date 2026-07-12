@@ -6,7 +6,7 @@ This is the **Williamson (Personal)** sett — one scale-free proportion (`r7db2
 [BGKRBR](/stripes/bgkrbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Williamson](/tartans/williamson/) tartan — the named design grouping this sett with its kin.
+Part of the [Williamson](/tartans/w/wi/williamson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

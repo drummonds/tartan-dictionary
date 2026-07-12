@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th/"
 - name: "Unnamed C18th - Prince Charles Edward"
   url: "/setts/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGWBGGWGBWBBRWRBBWBGWGGBWGW](/stripes/rwgwbggwgbwbbrwrbbwbgwggbwgw/).
+
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

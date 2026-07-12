@@ -6,6 +6,8 @@ This is the **Murray of Tullibardine #3** sett — one scale-free proportion (`k
 [BRBRBRBRBRBRBRGRGRBRK](/stripes/brbrbrbrbrbrbrgrgrbrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Murray of Tullibardine 3](/tartans/m/mu/murray-of-tullibardine-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

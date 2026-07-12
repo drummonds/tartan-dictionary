@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Woodberry Forest School"
+  url: "/tartans/w/wo/woodberry-forest-school/"
 - name: "Woodberry Forest School (Corporate)"
   url: "/setts/o6k3w3k3w3k34o6g5o6k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o6k3w3k3w3k34o6g5o6k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRKWKWKR](/stripes/krgrkwkwkr/).
+
+Part of the [Woodberry Forest School](/tartans/w/wo/woodberry-forest-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **State Seal of Massachusetts Fash)** sett — one scale-free propor
 [BKWKYKBKBK](/stripes/bkwkykbkbk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Massachusetts Fash)](/tartans/s/st/state-seal-of-massachusetts-fash/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

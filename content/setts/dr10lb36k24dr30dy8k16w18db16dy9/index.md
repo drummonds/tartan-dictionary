@@ -6,6 +6,8 @@ This is the **Tipperary County, Crest Range** sett — one scale-free proportion
 [BWKBGKWBG](/stripes/bwkbgkwbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Tipperary County, Crest Range](/tartans/t/ti/tipperary-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

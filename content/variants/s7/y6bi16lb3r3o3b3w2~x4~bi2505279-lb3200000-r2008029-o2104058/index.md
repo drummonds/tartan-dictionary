@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Atikokan"
-  url: "/tartans/atikokan/"
+  url: "/tartans/a/at/atikokan/"
 - name: "Atikokan"
   url: "/setts/y6bi16lb3r3o3b3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y6bi16lb3r3o3b3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWRRBW](/stripes/gbwrrbw/).
 
-Part of the [Atikokan](/tartans/atikokan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Atikokan](/tartans/a/at/atikokan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

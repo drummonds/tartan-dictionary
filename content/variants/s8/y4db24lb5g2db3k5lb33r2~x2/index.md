@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Los Angeles"
+  url: "/tartans/l/lo/los-angeles-2/"
+- name: "Los Angeles"
   url: "/setts/y4db24lb5g2db3k5lb33r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4db24lb5g2db3k5lb33r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGBKWR](/stripes/gbwgbkwr/).
+
+Part of the [Los Angeles](/tartans/l/lo/los-angeles-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

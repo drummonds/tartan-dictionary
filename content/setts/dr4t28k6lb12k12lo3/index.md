@@ -6,6 +6,8 @@ This is the **MacTavish Dress** sett — one scale-free proportion (`dr4t28k6lb1
 [BBKWKY](/stripes/bbkwky/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacTavish Dress](/tartans/m/ma/mactavish-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

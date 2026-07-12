@@ -6,6 +6,8 @@ This is the **Braveheart Commemorative Tartan** sett — one scale-free proporti
 [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Braveheart Commemorative](/tartans/b/br/braveheart-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Crane"
+  url: "/clan/crane/"
+- name: "Crane of Cluny"
+  url: "/families/crane-of-cluny/"
+- name: "Crane of Cluny Hunting"
+  url: "/tartans/c/cr/crane-of-cluny-hunting/"
 - name: "Crane of Cluny Hunting (Personal)"
   url: "/setts/ly83k6ly3k9r2k5ly2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly83k6ly3k9r2k5ly2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKRKYKY](/stripes/gykrkyky/).
+
+Part of the [Crane of Cluny Hunting](/tartans/c/cr/crane-of-cluny-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

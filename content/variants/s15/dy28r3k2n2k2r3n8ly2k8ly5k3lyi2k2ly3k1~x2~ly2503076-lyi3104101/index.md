@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caithness"
+  url: "/tartans/c/ca/caithness/"
 - name: "Caithness (District)"
   url: "/setts/dy28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKBKRBYKYKYKYK](/stripes/grkbkrbykykykyk/).
+
+Part of the [Caithness](/tartans/c/ca/caithness/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

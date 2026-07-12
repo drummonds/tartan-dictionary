@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sinclair"
+  url: "/clan/sinclair/"
+- name: "Sinclair of Ulbster"
+  url: "/families/sinclair-of-ulbster/"
+- name: "Sinclair of Ulbster"
+  url: "/tartans/s/si/sinclair-of-ulbster/"
 - name: "Sinclair of Ulbster"
   url: "/setts/t12k4g6ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t12k4g6ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYGK](/stripes/bkgygk/).
+
+Part of the [Sinclair of Ulbster](/tartans/s/si/sinclair-of-ulbster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

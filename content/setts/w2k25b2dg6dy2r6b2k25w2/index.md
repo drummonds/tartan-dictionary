@@ -7,7 +7,7 @@ This is the **Stott (Personal)** sett — one scale-free proportion (`w2k25b2dg6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
-Part of the [Stott](/tartans/stott/) tartan — the named design grouping this sett with its kin.
+Part of the [Stott](/tartans/s/st/stott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

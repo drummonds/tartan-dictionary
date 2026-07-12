@@ -6,6 +6,8 @@ This is the **McGeorge (Personal)** sett — one scale-free proportion (`dy4r2dg
 [GRGGGR](/stripes/grgggr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [McGeorge](/tartans/m/mc/mcgeorge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Stirling Millennium** sett — one scale-free proportion (`lp2w1y1
 [GGGGGGGWW](/stripes/gggggggww/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Stirling Millennium](/tartans/s/st/stirling-millennium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

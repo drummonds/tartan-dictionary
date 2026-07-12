@@ -6,7 +6,7 @@ This is the **Newman** sett — one scale-free proportion (`db10k10db10dr2k20w1g
 [BKBBKWGBGBG](/stripes/bkbbkwgbgbg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Newman](/tartans/newman/) tartan — the named design grouping this sett with its kin.
+Part of the [Newman](/tartans/n/ne/newman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

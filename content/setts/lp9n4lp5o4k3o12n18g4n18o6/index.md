@@ -6,6 +6,8 @@ This is the **Jaggy Thistle (Fashion)** sett — one scale-free proportion (`lp9
 [RBGBRKRWBW](/stripes/rbgbrkrwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Jaggy Thistle](/tartans/j/ja/jaggy-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

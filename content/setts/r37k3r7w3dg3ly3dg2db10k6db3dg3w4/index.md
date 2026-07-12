@@ -6,6 +6,8 @@ This is the **Strathclyde Fire Services (Corporate** sett — one scale-free pro
 [RKRWGYGBKBGW](/stripes/rkrwgygbkbgw/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Strathclyde Fire Services (Corporate](/tartans/s/st/strathclyde-fire-services-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

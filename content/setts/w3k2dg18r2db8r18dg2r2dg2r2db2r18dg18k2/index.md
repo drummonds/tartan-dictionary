@@ -6,7 +6,7 @@ This is the **MacGuire (Personal)** sett — one scale-free proportion (`w3k2dg1
 [KGRBRGRGRBRGKW](/stripes/kgrbrgrgrbrgkw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [MacGuire](/tartans/macguire-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGuire](/tartans/m/ma/macguire-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

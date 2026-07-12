@@ -6,6 +6,8 @@ This is the **Forbes Dress (Clans Originaux)** sett — one scale-free proportio
 [WBWKWKW](/stripes/wbwkwkw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Forbes Dress](/tartans/f/fo/forbes-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

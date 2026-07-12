@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "STLTH"
+  url: "/tartans/s/st/stlth/"
+- name: "STLTH"
   url: "/setts/dt4k2dt4k45n2k3n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt4k2dt4k45n2k3n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
+
+Part of the [STLTH](/tartans/s/st/stlth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

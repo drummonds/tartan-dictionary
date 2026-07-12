@@ -6,7 +6,7 @@ This is the **Boucherville (Tartan de..) District Tartan** sett — one scale-fr
 [BBGBGWBGG](/stripes/bbgbgwbgg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Boucherville](/tartans/boucherville/) tartan — the named design grouping this sett with its kin.
+Part of the [Boucherville](/tartans/b/bo/boucherville/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

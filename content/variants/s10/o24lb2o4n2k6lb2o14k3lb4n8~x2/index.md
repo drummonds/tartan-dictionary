@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dobrain"
+  url: "/tartans/d/do/dobrain/"
 - name: "Dobrain (Personal)"
   url: "/setts/o24lb2o4n2k6lb2o14k3lb4n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o24lb2o4n2k6lb2o14k3lb4n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRWKBRWR](/stripes/bwkrwkbrwr/).
+
+Part of the [Dobrain](/tartans/d/do/dobrain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Carlisle (Family)** sett — one scale-free proportion (`t33lo6dr3
 [BYKYBYBYBYKY](/stripes/bykybybybyky/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Carlisle](/tartans/c/ca/carlisle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

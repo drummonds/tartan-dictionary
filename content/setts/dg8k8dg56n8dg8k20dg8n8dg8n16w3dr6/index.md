@@ -6,6 +6,8 @@ This is the **Kelly of Sleat Hunting (Name)** sett — one scale-free proportion
 [BWBGBGKGBGKG](/stripes/bwbgbgkgbgkg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Kelly of Sleat Hunting](/tartans/k/ke/kelly-of-sleat-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

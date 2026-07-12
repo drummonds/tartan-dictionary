@@ -6,6 +6,8 @@ This is the **Southern Lakes** sett — one scale-free proportion (`db32k2db4k2d
 [BKBKBYWK](/stripes/bkbkbywk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Southern Lakes](/tartans/s/so/southern-lakes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the MacCallum of Berwick tartan and all its setts →](/tartans/maccallum-of-berwick/)
+[See the MacCallum of Berwick tartan and all its setts →](/tartans/m/ma/maccallum-of-berwick/)
 

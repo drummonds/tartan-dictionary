@@ -6,6 +6,8 @@ This is the **Jenkins of Wales** sett — one scale-free proportion (`r4db37g4db
 [RBGBGBYBGBGBGBYBGBGBR](/stripes/rbgbgbybgbgbgbybgbgbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Jenkins of Wales](/tartans/j/je/jenkins-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

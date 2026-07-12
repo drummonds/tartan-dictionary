@@ -6,6 +6,8 @@ This is the **Tennessee Volunteer** sett — one scale-free proportion (`w12lo12
 [WYWKYKWY](/stripes/wywkykwy/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Tennessee Volunteer](/tartans/t/te/tennessee-volunteer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

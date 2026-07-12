@@ -6,6 +6,8 @@ This is the **Ross** sett — one scale-free proportion (`db18r2db18r18g2r4g2r18
 [BRBRGRGRGRGRGRBRBRBR](/stripes/brbrgrgrgrgrgrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ross](/tartans/r/ro/ross-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

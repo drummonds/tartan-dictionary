@@ -6,6 +6,8 @@ This is the **LP Cover (Dance)** sett — one scale-free proportion (`ly3k9lb1k9
 [YKKKWKY](/stripes/ykkkwky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [LP Cover](/tartans/l/lp/lp-cover-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

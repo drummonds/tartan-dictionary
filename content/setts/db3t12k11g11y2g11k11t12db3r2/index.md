@@ -6,6 +6,8 @@ This is the **Huntly Gordon 2000** sett — one scale-free proportion (`db3t12k1
 [BBKGGGKBBR](/stripes/bbkgggkbbr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Huntly Gordon 2000](/tartans/h/hu/huntly-gordon-2000/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

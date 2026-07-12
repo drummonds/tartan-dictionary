@@ -6,6 +6,8 @@ This is the **Victorian Highland Pipe Band Association (Australia)** sett — on
 [BYGGYBGY](/stripes/byggybgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Victorian Highland Pipe Band Association](/tartans/v/vi/victorian-highland-pipe-band-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

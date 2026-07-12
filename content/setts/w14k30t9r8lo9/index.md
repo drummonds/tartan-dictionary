@@ -6,6 +6,8 @@ This is the **Heidrick Family (Personal)** sett — one scale-free proportion (`
 [WKBRY](/stripes/wkbry/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Heidrick](/tartans/h/he/heidrick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

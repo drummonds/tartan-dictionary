@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacBeth"
-  url: "/tartans/macbeth/"
+  url: "/tartans/m/ma/macbeth/"
 - name: "MacBeth"
   url: "/setts/db36y4k6w1k1w1k1g8r6k1r3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db36y4k6w1k1w1k1g8r6k1r3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWKWKGRKRW](/stripes/bgkwkwkgrkrw/).
 
-Part of the [MacBeth](/tartans/macbeth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacBeth](/tartans/m/ma/macbeth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

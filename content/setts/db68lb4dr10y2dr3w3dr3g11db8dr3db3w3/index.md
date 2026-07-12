@@ -6,7 +6,7 @@ This is the **Shaughnessy (Fashion)** sett — one scale-free proportion (`db68l
 [BWBGBWBGBBBW](/stripes/bwbgbwbgbbbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Shaughnessy](/tartans/shaughnessy/) tartan — the named design grouping this sett with its kin.
+Part of the [Shaughnessy](/tartans/s/sh/shaughnessy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

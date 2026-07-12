@@ -6,6 +6,8 @@ This is the **University of North Carolina at Greensboro, The** sett — one sca
 [BGBGBGWGW](/stripes/bgbgbgwgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [University of North Carolina](/tartans/u/un/university-of-north-carolina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

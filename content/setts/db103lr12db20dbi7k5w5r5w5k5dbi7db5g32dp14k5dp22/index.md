@@ -6,7 +6,7 @@ This is the **Spirit of de Jong (Personal?)** sett — one scale-free proportion
 [BKBGBBKWRWKBBYB](/stripes/bkbgbbkwrwkbbyb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Spirit of de Jong](/tartans/spirit-of-de-jong/) tartan — the named design grouping this sett with its kin.
+Part of the [Spirit of de Jong](/tartans/s/sp/spirit-of-de-jong/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arbroath Smokie"
+  url: "/tartans/a/ar/arbroath-smokie/"
+- name: "Arbroath Smokie"
   url: "/setts/ly1dr45dt23w1dt6r2ly1r2ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly1dr45dt23w1dt6r2ly1r2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBBWBRYRY](/stripes/ybbwbryry/).
+
+Part of the [Arbroath Smokie](/tartans/a/ar/arbroath-smokie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

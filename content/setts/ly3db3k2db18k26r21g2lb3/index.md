@@ -6,7 +6,7 @@ This is the **Loch Etive** sett — one scale-free proportion (`ly3db3k2db18k26r
 [WGRKBKBY](/stripes/wgrkbkby/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Loch Etive](/tartans/loch-etive/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Etive](/tartans/l/lo/loch-etive/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

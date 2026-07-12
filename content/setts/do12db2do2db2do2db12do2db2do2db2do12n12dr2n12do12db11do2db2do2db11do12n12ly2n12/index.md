@@ -6,7 +6,7 @@ This is the **Bartlam (Personal)** sett — one scale-free proportion (`do12db2d
 [BBBBBBBBBBBBBBBBBBBBBBYB](/stripes/bbbbbbbbbbbbbbbbbbbbbbyb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Bartlam](/tartans/bartlam/) tartan — the named design grouping this sett with its kin.
+Part of the [Bartlam](/tartans/b/ba/bartlam/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

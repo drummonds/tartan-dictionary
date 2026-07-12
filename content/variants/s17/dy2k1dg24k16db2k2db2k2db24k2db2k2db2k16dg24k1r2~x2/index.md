@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Mary's Help of Christians Sch"
+  url: "/tartans/s/st/st-mary-s-help-of-christians-sch/"
 - name: "St. Mary's Help of... (School)"
   url: "/setts/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKBKBKBKBKGKR](/stripes/gkgkbkbkbkbkbkgkr/).
+
+Part of the [St. Mary's Help of Christians Sch](/tartans/s/st/st-mary-s-help-of-christians-sch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

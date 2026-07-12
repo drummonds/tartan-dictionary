@@ -6,6 +6,8 @@ This is the **Harris, Lilac (Dance)** sett — one scale-free proportion (`w3db2
 [WBWBWWWBWW](/stripes/wbwbwwwbww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Harris, Lilac](/tartans/h/ha/harris-lilac-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
+- name: "Dunbar, John Telfer"
+  url: "/tartans/d/du/dunbar-john-telfer/"
 - name: "Dunbar, John Telfer (Personal)"
   url: "/setts/do5k2do28k10do26k4do4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do5k2do28k10do26k4do4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
+
+Part of the [Dunbar, John Telfer](/tartans/d/du/dunbar-john-telfer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

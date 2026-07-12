@@ -7,6 +7,8 @@ This is the **Anderson** sett — one scale-free proportion (`r4g6r2g6r3db4r2k4d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1900**.
 
+Part of the [Anderson](/tartans/a/an/anderson-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

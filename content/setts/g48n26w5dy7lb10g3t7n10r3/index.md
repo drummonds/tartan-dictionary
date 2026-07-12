@@ -6,6 +6,8 @@ This is the **State Seal of Mississippi (Fashion)** sett — one scale-free prop
 [GBWGWGBBR](/stripes/gbwgwgbbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Mississippi](/tartans/s/st/state-seal-of-mississippi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

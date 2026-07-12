@@ -6,6 +6,8 @@ This is the **Raven (Fashion)** sett — one scale-free proportion (`k19db18w9r3
 [KBWR](/stripes/kbwr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Raven](/tartans/r/ra/raven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

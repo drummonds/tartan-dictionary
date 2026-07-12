@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Snowy Owl"
+  url: "/tartans/s/sn/snowy-owl-2/"
 - name: "Snowy Owl (Fashion)"
   url: "/setts/w40o1w6o3ly1o7ly3n1ly8n3k1n9k2w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w40o1w6o3ly1o7ly3n1ly8n3k1n9k2w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/).
+
+Part of the [Snowy Owl](/tartans/s/sn/snowy-owl-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

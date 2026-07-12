@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Crane"
+  url: "/clan/crane/"
+- name: "Crane of Cluny"
+  url: "/families/crane-of-cluny/"
+- name: "Crane of Cluny Dress"
+  url: "/tartans/c/cr/crane-of-cluny-dress/"
 - name: "Crane of Cluny Dress (Personal)"
   url: "/setts/w83k6w3k9r2k5w2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w83k6w3k9r2k5w2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKRKWKW](/stripes/gwkrkwkw/).
+
+Part of the [Crane of Cluny Dress](/tartans/c/cr/crane-of-cluny-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

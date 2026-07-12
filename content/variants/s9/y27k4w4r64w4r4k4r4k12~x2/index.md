@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Meehan"
+  url: "/tartans/o/o/o-meehan/"
+- name: "O'Meehan"
   url: "/setts/y27k4w4r64w4r4k4r4k12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y27k4w4r64w4r4k4r4k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWRWRKRK](/stripes/gkwrwrkrk/).
+
+Part of the [O'Meehan](/tartans/o/o/o-meehan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

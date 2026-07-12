@@ -6,7 +6,7 @@ This is the **Princess Elizabeth (Royal)** sett — one scale-free proportion (`
 [RGBGKWKR](/stripes/rgbgkwkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Princess Elizabeth](/tartans/princess-elizabeth/) tartan — the named design grouping this sett with its kin.
+Part of the [Princess Elizabeth](/tartans/p/pr/princess-elizabeth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

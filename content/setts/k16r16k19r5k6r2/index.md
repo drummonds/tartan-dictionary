@@ -6,6 +6,8 @@ This is the **Henry, W. A. (Commemorative)** sett — one scale-free proportion 
 [KRKRKR](/stripes/krkrkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Henry, W. A.](/tartans/h/he/henry-w-a-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

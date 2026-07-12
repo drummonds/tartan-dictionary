@@ -6,6 +6,8 @@ This is the **Gigha Lilac Fashion Tartan** sett — one scale-free proportion (`
 [RGRBWRWR](/stripes/rgrbwrwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Gigha Lilac](/tartans/g/gi/gigha-lilac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

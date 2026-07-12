@@ -6,6 +6,8 @@ This is the **Miyuki** sett — one scale-free proportion (`db40ly1db1r9db1ly1db
 [BYBRBYBYBR](/stripes/bybrbybybr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Miyuki](/tartans/m/mi/miyuki-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

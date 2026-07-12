@@ -6,6 +6,8 @@ This is the **Cetoloni Family Tartan** sett — one scale-free proportion (`db2r
 [BGYGRB](/stripes/bgygrb/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Cetoloni](/tartans/c/ce/cetoloni-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Pinafore"
+  url: "/tartans/u/un/unidentified-pinafore/"
+- name: "Unidentified Pinafore"
   url: "/setts/g24k4g24k24lb7r24lb7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g24k4g24k24lb7r24lb7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWRW](/stripes/gkgkwrw/).
+
+Part of the [Unidentified Pinafore](/tartans/u/un/unidentified-pinafore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Scotch House 2000 Antique** sett — one scale-free proportion (`d
 [BRBRBKGG](/stripes/brbrbkgg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Scotch House 2000 Antique](/tartans/s/sc/scotch-house-2000-antique/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

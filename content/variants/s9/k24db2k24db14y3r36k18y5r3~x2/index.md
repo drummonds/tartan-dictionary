@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Craigholme"
+  url: "/tartans/c/cr/craigholme/"
 - name: "Craigholme (Corporate)"
   url: "/setts/k24db2k24db14y3r36k18y5r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k24db2k24db14y3r36k18y5r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGRKGR](/stripes/kbkbgrkgr/).
+
+Part of the [Craigholme](/tartans/c/cr/craigholme/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

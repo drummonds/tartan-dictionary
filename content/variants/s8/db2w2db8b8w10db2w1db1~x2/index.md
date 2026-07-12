@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Laval , dress"
+  url: "/tartans/l/la/laval-dress/"
 - name: "Laval (Tartan de..), dress"
   url: "/setts/db2w2db8b8w10db2w1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2w2db8b8w10db2w1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWBWB](/stripes/bwbbwbwb/).
+
+Part of the [Laval , dress](/tartans/l/la/laval-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

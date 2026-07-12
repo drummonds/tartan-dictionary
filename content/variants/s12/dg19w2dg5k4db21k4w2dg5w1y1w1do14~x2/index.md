@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Womack"
-  url: "/tartans/womack/"
+  url: "/tartans/w/wo/womack/"
 - name: "Womack (2014)"
   url: "/setts/dg19w2dg5k4db21k4w2dg5w1y1w1do14/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg19w2dg5k4db21k4w2dg5w1y1w1do14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWGWKBKGWG](/stripes/bwgwgwkbkgwg/).
 
-Part of the [Womack](/tartans/womack/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Womack](/tartans/w/wo/womack/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

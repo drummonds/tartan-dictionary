@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Paisley"
-  url: "/tartans/paisley/"
+  url: "/tartans/p/pa/paisley/"
 - name: "Paisley"
   url: "/setts/g7r2g3r5g17y2k15y2t22g3w2t7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g7r2g3r5g17y2k15y2t22g3w2t7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBGKGGRGRG](/stripes/bwgbgkggrgrg/).
 
-Part of the [Paisley](/tartans/paisley/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Paisley](/tartans/p/pa/paisley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

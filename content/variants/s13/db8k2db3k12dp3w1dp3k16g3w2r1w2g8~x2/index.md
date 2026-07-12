@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKusick Family Tartan of North America"
+  url: "/tartans/m/ma/mackusick-family-tartan-of-north-america/"
+- name: "MacKusick Family Tartan of North America"
   url: "/setts/db8k2db3k12dp3w1dp3k16g3w2r1w2g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k2db3k12dp3w1dp3k16g3w2r1w2g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWBKGWRWG](/stripes/bkbkbwbkgwrwg/).
+
+Part of the [MacKusick Family Tartan of North America](/tartans/m/ma/mackusick-family-tartan-of-north-america/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

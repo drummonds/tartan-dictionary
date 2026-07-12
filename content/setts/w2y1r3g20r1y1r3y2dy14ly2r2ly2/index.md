@@ -6,7 +6,7 @@ This is the **Flodden** sett — one scale-free proportion (`w2y1r3g20r1y1r3y2dy
 [WGRGRGRGGYRY](/stripes/wgrgrgrggyry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Flodden](/tartans/flodden/) tartan — the named design grouping this sett with its kin.
+Part of the [Flodden](/tartans/f/fl/flodden/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Ferguson** sett — one scale-free proportion (`g2db12r1k12g12k2g1
 [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Ferguson](/tartans/f/fe/ferguson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,7 +7,7 @@ This is the **Baird (Modern)** sett — one scale-free proportion (`db3k2db8k8g8
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
-Part of the [Baird](/tartans/baird-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Baird](/tartans/b/ba/baird-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inches of Perth"
+  url: "/tartans/i/in/inches-of-perth/"
+- name: "Inches of Perth"
   url: "/setts/dy44y2k4dp2dy15r6k3lb3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy44y2k4dp2dy15r6k3lb3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBGRKWGWKRGBKG](/stripes/ggkbgrkwgwkrgbkg/).
+
+Part of the [Inches of Perth](/tartans/i/in/inches-of-perth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loevenstein Castle"
+  url: "/tartans/l/lo/loevenstein-castle/"
+- name: "Loevenstein Castle"
   url: "/setts/dr20k3dr4w2k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr20k3dr4w2k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWK](/stripes/bkbwk/).
+
+Part of the [Loevenstein Castle](/tartans/l/lo/loevenstein-castle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

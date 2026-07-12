@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
+- name: "Stirling & Bannockburn"
+  url: "/tartans/s/st/stirling-bannockburn/"
 - name: "Stirling & Bannockburn (District)"
   url: "/setts/r3g18r4db3r4k13r3db18g2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g18r4db3r4k13r3db18g2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRKRBRGR](/stripes/ggbrkrbrgr/).
+
+Part of the [Stirling & Bannockburn](/tartans/s/st/stirling-bannockburn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

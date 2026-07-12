@@ -6,6 +6,8 @@ This is the **State Seal of North Carolina (Fash.)** sett — one scale-free pro
 [GBGGBGW](/stripes/gbggbgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of North Carolina](/tartans/s/st/state-seal-of-north-carolina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

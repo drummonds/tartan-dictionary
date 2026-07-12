@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fong"
+  url: "/tartans/f/fo/fong/"
 - name: "Fong (Personal)"
   url: "/setts/r21db43dbi86w10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r21db43dbi86w10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBW](/stripes/rbbw/).
+
+Part of the [Fong](/tartans/f/fo/fong/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

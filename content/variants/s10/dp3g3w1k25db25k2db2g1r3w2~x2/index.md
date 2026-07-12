@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heart of Oak"
+  url: "/tartans/h/he/heart-of-oak/"
+- name: "Heart of Oak"
   url: "/setts/dp3g3w1k25db25k2db2g1r3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3g3w1k25db25k2db2g1r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWKBKBGRW](/stripes/bgwkbkbgrw/).
+
+Part of the [Heart of Oak](/tartans/h/he/heart-of-oak/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

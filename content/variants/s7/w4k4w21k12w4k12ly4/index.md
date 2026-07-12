@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mazda"
+  url: "/tartans/m/ma/mazda/"
+- name: "Mazda"
   url: "/setts/w4k4w21k12w4k12ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k4w21k12w4k12ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKY](/stripes/wkwkwky/).
+
+Part of the [Mazda](/tartans/m/ma/mazda/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

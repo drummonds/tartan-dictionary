@@ -6,6 +6,8 @@ This is the **Manson Family Tartan** sett — one scale-free proportion (`g1r9g3
 [GRGKGRKW](/stripes/grgkgrkw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Manson](/tartans/m/ma/manson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

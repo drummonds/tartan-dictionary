@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "George Heriot's"
+  url: "/tartans/g/ge/george-heriot-s/"
 - name: "George Heriot's School"
   url: "/setts/y3k1n24db10dbi24k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k1n24db10dbi24k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBBKW](/stripes/gkbbbkw/).
+
+Part of the [George Heriot's](/tartans/g/ge/george-heriot-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

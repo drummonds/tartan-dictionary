@@ -6,7 +6,7 @@ This is the **World Peace (Fashion)** sett — one scale-free proportion (`dp8g8
 [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [World Peace](/tartans/world-peace/) tartan — the named design grouping this sett with its kin.
+Part of the [World Peace](/tartans/w/wo/world-peace/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

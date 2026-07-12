@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Alexander-Johnstone"
-  url: "/tartans/alexander-johnstone/"
+  url: "/tartans/a/al/alexander-johnstone/"
 - name: "Alexander-Johnstone (Personal)"
   url: "/setts/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKBKGBGKW](/stripes/gbkbkbkbkgbgkw/).
 
-Part of the [Alexander-Johnstone](/tartans/alexander-johnstone/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Alexander-Johnstone](/tartans/a/al/alexander-johnstone/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

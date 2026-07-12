@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Korner-MacPherson"
+  url: "/tartans/k/ko/korner-macpherson/"
 - name: "Korner-Macpherson (Personal)"
   url: "/setts/n5r3n35k28n4k11n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n5r3n35k28n4k11n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBRB](/stripes/bkbkbrb/).
+
+Part of the [Korner-MacPherson](/tartans/k/ko/korner-macpherson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

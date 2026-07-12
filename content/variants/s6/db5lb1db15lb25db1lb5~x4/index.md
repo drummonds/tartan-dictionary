@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dram!"
+  url: "/tartans/d/dr/dram/"
 - name: "Dram! (Corporate)"
   url: "/setts/db5lb1db15lb25db1lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5lb1db15lb25db1lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
+
+Part of the [Dram!](/tartans/d/dr/dram/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

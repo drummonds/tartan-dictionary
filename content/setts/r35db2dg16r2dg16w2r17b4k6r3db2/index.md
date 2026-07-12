@@ -6,6 +6,8 @@ This is the **Chafee of Glenmary (Personal)** sett — one scale-free proportion
 [BRKBRWGRGBR](/stripes/brkbrwgrgbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Chafee of Glenmary](/tartans/c/ch/chafee-of-glenmary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Leung (Personal)** sett — one scale-free proportion (`o4k7o2db25
 [GKGWKBRKR](/stripes/gkgwkbrkr/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Leung](/tartans/l/le/leung-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

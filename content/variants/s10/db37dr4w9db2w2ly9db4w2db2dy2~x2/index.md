@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stuart/Stewart navy"
+  url: "/tartans/s/st/stuart-stewart-navy/"
+- name: "Stuart/Stewart navy"
   url: "/setts/db37dr4w9db2w2ly9db4w2db2dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db37dr4w9db2w2ly9db4w2db2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWYBWBG](/stripes/bbwbwybwbg/).
+
+Part of the [Stuart/Stewart navy](/tartans/s/st/stuart-stewart-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

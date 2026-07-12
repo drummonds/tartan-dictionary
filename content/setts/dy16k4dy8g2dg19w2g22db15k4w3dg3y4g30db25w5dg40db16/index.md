@@ -6,6 +6,8 @@ This is the **Les Cercles de Fermieres du Quebec** sett — one scale-free propo
 [BGWBGGGWKBGWGGGKG](/stripes/bgwbgggwkbgwgggkg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Cercles de Fermieres](/tartans/c/ce/cercles-de-fermieres/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

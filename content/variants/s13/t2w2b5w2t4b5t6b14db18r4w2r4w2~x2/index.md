@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daughters of the American Revolution"
-  url: "/tartans/daughters-of-the-american-revolution/"
+  url: "/tartans/d/da/daughters-of-the-american-revolution/"
 - name: "Daughters of the American Revolution Corporate Tartan"
   url: "/setts/t2w2b5w2t4b5t6b14db18r4w2r4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t2w2b5w2t4b5t6b14db18r4w2r4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/).
 
-Part of the [Daughters of the American Revolution](/tartans/daughters-of-the-american-revolution/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daughters of the American Revolution](/tartans/d/da/daughters-of-the-american-revolution/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

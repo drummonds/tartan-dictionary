@@ -6,6 +6,8 @@ This is the **Keogh Hunting (Name)** sett — one scale-free proportion (`dgii11
 [GGGGGGGGGGGGG](/stripes/ggggggggggggg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Keogh Hunting](/tartans/k/ke/keogh-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Todd** sett — one scale-free proportion (`dt40dg3k3dg12w3dg3w3dg
 [BGKGWGWGR](/stripes/bgkgwgwgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Todd](/tartans/t/to/todd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

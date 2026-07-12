@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New York Caledonian Club Dress"
-  url: "/tartans/new-york-caledonian-club-dress/"
+  url: "/tartans/n/ne/new-york-caledonian-club-dress/"
 - name: "New York Caledonian Club Dress"
   url: "/setts/r9db1r2db3r28k12lb1r6lb1db6ri1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r9db1r2db3r28k12lb1r6lb1db6ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRKWRWBR](/stripes/rbrbrkwrwbr/).
 
-Part of the [New York Caledonian Club Dress](/tartans/new-york-caledonian-club-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [New York Caledonian Club Dress](/tartans/n/ne/new-york-caledonian-club-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

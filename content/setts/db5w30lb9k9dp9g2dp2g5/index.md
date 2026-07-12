@@ -6,6 +6,8 @@ This is the **Alexander of Menstry Dress** sett — one scale-free proportion (`
 [BWWKBGBG](/stripes/bwwkbgbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Alexander of Menstry Dress](/tartans/a/al/alexander-of-menstry-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

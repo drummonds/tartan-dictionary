@@ -6,6 +6,8 @@ This is the **Roderick Dhu** sett — one scale-free proportion (`b3k2r2k12g10y1
 [BKRKGGKGW](/stripes/bkrkggkgw/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Roderick Dhu](/tartans/r/ro/roderick-dhu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

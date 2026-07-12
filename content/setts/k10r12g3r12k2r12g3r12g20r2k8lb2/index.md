@@ -6,6 +6,8 @@ This is the **Nicolson MacNicol** sett — one scale-free proportion (`k10r12g3r
 [KRGRKRGRGRKW](/stripes/krgrkrgrgrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Nicolson](/tartans/n/ni/nicolson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

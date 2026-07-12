@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Entrelacs"
+  url: "/tartans/e/en/entrelacs/"
+- name: "Entrelacs"
   url: "/setts/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWWWYWGWWWWY](/stripes/wgwwwywgwwwwy/).
+
+Part of the [Entrelacs](/tartans/e/en/entrelacs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

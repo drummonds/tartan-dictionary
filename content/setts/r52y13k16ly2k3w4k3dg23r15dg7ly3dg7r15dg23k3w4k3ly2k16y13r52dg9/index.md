@@ -6,6 +6,8 @@ This is the **Stewart/Stuart of Galloway (Wilsons)** sett — one scale-free pro
 [GRGKYKWKGRGYGRGKWKYKGR](/stripes/grgkykwkgrgygrgkwkykgr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Stewart/Stuart of Galloway](/tartans/s/st/stewart-stuart-of-galloway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

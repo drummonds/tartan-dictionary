@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Waggrall"
+  url: "/tartans/w/wa/waggrall-2/"
+- name: "Waggrall"
   url: "/setts/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b4w1r11b2w2dp11lb4w2lb4dp11w2dg4y4w1dp5w1y4dg4w2g10dg4w2dg4g10w2lb2dp6w1dp6lb2w2b2r11w1b4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBWBWWWBWGGWBWGGWGGWGGWWBWBWWBRWBW](/stripes/bwrbwbwwwbwggwbwggwggwggwwbwbwwbrwbw/).
+
+Part of the [Waggrall](/tartans/w/wa/waggrall-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 

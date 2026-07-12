@@ -6,6 +6,8 @@ This is the **State Seal of Arizona (Fashion)** sett — one scale-free proporti
 [GBYBYBBGBW](/stripes/gbybybbgbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Arizona](/tartans/s/st/state-seal-of-arizona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

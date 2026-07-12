@@ -6,7 +6,7 @@ This is the **Black Forest** sett — one scale-free proportion (`k20o4k20ly2o2l
 [KRKYRYKRYRYR](/stripes/krkyrykryryr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Black Forest](/tartans/black-forest/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Forest](/tartans/b/bl/black-forest/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

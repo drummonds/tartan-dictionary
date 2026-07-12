@@ -6,6 +6,8 @@ This is the **Lawsons' Whisky** sett — one scale-free proportion (`k9w38k22g31
 [GGKGKWK](/stripes/ggkgkwk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lawsons' Whisky](/tartans/l/la/lawsons-whisky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inchforth"
-  url: "/tartans/inchforth/"
+  url: "/tartans/i/in/inchforth/"
 - name: "Inchforth (Personal)"
   url: "/setts/o4dg2o7dt30o8dt7g5dg1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o4dg2o7dt30o8dt7g5dg1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRBGGW](/stripes/rgrbrbggw/).
 
-Part of the [Inchforth](/tartans/inchforth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inchforth](/tartans/i/in/inchforth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

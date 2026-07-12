@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "elCorte"
+  url: "/tartans/e/el/elcorte/"
+- name: "elCorte"
   url: "/setts/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWYRGRGYWGRGRYRWGW](/stripes/gwgwyrgrgywgrgryrwgw/).
+
+Part of the [elCorte](/tartans/e/el/elcorte/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

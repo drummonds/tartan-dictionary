@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hydesville Tower"
+  url: "/tartans/h/hy/hydesville-tower/"
 - name: "Hydesville Tower (Corporate)"
   url: "/setts/dg30db6r2db2dy2db15w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30db6r2db2dy2db15w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGBW](/stripes/gbrbgbw/).
+
+Part of the [Hydesville Tower](/tartans/h/hy/hydesville-tower/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

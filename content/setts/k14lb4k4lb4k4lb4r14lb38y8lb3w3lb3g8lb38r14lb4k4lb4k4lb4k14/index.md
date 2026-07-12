@@ -6,6 +6,8 @@ This is the **Emergency Medical Services Memorial Tartan** sett — one scale-fr
 [KWKWKWRWGWWWGWRWKWKWK](/stripes/kwkwkwrwgwwwgwrwkwkwk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Emergency Medical Services Memorial](/tartans/e/em/emergency-medical-services-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

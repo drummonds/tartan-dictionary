@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McPrato"
+  url: "/tartans/m/mc/mcprato/"
+- name: "McPrato"
   url: "/setts/r52db12n9y2n2g2n2dg11r7n2r3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r52db12n9y2n2g2n2dg11r7n2r3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGBGBGBBR](/stripes/brbrgbgbgbbr/).
+
+Part of the [McPrato](/tartans/m/mc/mcprato/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

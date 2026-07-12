@@ -6,6 +6,8 @@ This is the **Drumbeg** sett — one scale-free proportion (`o12n3o3dt4o16dr3o3d
 [RBBRBRBRBRBR](/stripes/rbbrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Drumbeg](/tartans/d/dr/drumbeg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

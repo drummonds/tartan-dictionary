@@ -10,7 +10,7 @@ crumbs:
 - name: "Drummond of Perth"
   url: "/families/drummond-of-perth/"
 - name: "Drummond of Perth Dress"
-  url: "/tartans/drummond-of-perth-dress/"
+  url: "/tartans/d/dr/drummond-of-perth-dress/"
 - name: "Drummond of Perth Dress #3"
   url: "/setts/r67y3n6lb3w25r10n6lb7w3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r67y3n6lb3w25r10n6lb7w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBWWRBWW](/stripes/rgbwwrbww/).
 
-Part of the [Drummond of Perth Dress](/tartans/drummond-of-perth-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drummond of Perth Dress](/tartans/d/dr/drummond-of-perth-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

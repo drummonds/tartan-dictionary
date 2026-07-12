@@ -6,6 +6,8 @@ This is the **Common Kilt Tartan** sett — one scale-free proportion (`r3k2db25
 [BRKGKBKR](/stripes/brkgkbkr/). It is recorded as a single **variant**, below.
 First attested **~1790**.
 
+Part of the [Common](/tartans/c/co/common/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

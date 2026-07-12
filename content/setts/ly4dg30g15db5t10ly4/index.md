@@ -6,6 +6,8 @@ This is the **MPS Emerald Society** sett — one scale-free proportion (`ly4dg30
 [YBBGGY](/stripes/ybbggy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [MPS Emerald Society](/tartans/m/mp/mps-emerald-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

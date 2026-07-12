@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGillivray Hunting"
-  url: "/tartans/macgillivray-hunting/"
+  url: "/tartans/m/ma/macgillivray-hunting/"
 - name: "MacGillivray Htg (Clan)"
   url: "/setts/g8o5g5o5g5o6db1o2g8o2db1o24db4o6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8o5g5o5g5o6db1o2g8o2db1o24db4o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
-Part of the [MacGillivray Hunting](/tartans/macgillivray-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGillivray Hunting](/tartans/m/ma/macgillivray-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Clergy "Two Spirit" (Personal)** sett — one scale-free proportio
 [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Clergy "Two Spirit"](/tartans/c/cl/clergy-two-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

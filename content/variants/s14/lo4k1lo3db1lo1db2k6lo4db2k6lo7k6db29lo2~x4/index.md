@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Agincourt"
+  url: "/tartans/a/ag/agincourt/"
 - name: "Agincourt (Fashion)"
   url: "/setts/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/).
+
+Part of the [Agincourt](/tartans/a/ag/agincourt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

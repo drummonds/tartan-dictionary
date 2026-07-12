@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "William & Mary GALA"
+  url: "/tartans/w/wi/william-mary-gala/"
 - name: "William and Mary GALA, Inc, The"
   url: "/setts/k3db10dg25y2dg2y3dg2y2dg25db10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db10dg25y2dg2y3dg2y2dg25db10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGGGGGGGBW](/stripes/kbgggggggbw/).
+
+Part of the [William & Mary GALA](/tartans/w/wi/william-mary-gala/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

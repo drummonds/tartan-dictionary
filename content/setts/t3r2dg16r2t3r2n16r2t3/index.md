@@ -6,6 +6,8 @@ This is the **MacPherson Gathering 1996** sett — one scale-free proportion (`t
 [BRBRBRGRB](/stripes/brbrbrgrb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [MacPherson Gathering 1996](/tartans/m/ma/macpherson-gathering-1996/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sverker** sett — one scale-free proportion (`w2t4dy3dt3dy3dt20dy
 [WBBGBGBGBW](/stripes/wbbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Sverker](/tartans/s/sv/sverker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

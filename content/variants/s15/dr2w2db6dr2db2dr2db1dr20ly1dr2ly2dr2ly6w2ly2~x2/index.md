@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Winthrop University"
-  url: "/tartans/winthrop-university/"
+  url: "/tartans/w/wi/winthrop-university/"
 - name: "Winthrop University (Corporate)"
   url: "/setts/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBBYBYBYWY](/stripes/bwbbbbbbybybywy/).
 
-Part of the [Winthrop University](/tartans/winthrop-university/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Winthrop University](/tartans/w/wi/winthrop-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

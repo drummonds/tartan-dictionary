@@ -6,6 +6,8 @@ This is the **Caig (Personal)** sett — one scale-free proportion (`w3r2db31dg3
 [GGGGBRW](/stripes/ggggbrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Caig](/tartans/c/ca/caig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bonnie Brae** sett — one scale-free proportion (`ri6db3y3r26db20
 [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

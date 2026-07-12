@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edinburgh Bus Company"
+  url: "/tartans/e/ed/edinburgh-bus-company/"
 - name: "Edinburgh Bus Company (Corporate)"
   url: "/setts/db3r2g5r8db12w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r2g5r8db12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBW](/stripes/brgrbw/).
+
+Part of the [Edinburgh Bus Company](/tartans/e/ed/edinburgh-bus-company/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

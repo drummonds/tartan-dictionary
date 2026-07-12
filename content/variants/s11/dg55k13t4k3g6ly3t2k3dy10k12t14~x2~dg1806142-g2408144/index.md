@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of South Carolina"
+  url: "/tartans/s/st/state-seal-of-south-carolina/"
 - name: "State Seal of South Carolina (Fash)"
   url: "/setts/dg55k13t4k3g6ly3t2k3dy10k12t14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg55k13t4k3g6ly3t2k3dy10k12t14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBYGKBKG](/stripes/bkgkbygkbkg/).
+
+Part of the [State Seal of South Carolina](/tartans/s/st/state-seal-of-south-carolina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

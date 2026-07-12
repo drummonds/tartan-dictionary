@@ -6,7 +6,7 @@ This is the **Tott (Personal))** sett — one scale-free proportion (`k51r21ly4r
 [KRYRGBR](/stripes/kryrgbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Totté](/tartans/tott/) tartan — the named design grouping this sett with its kin.
+Part of the [Totté](/tartans/t/to/tott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

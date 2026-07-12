@@ -6,6 +6,8 @@ This is the **Fraser Arisaid Clan Tartan** sett — one scale-free proportion (`
 [BWBBWBWBWB](/stripes/bwbbwbwbwb/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Fraser Arisaid](/tartans/f/fr/fraser-arisaid-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

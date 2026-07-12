@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queensferry High School: Ferry Fling"
+  url: "/tartans/q/qu/queensferry-high-school-ferry-fling/"
+- name: "Queensferry High School: Ferry Fling"
   url: "/setts/lb5w3lt7lb5lt27b8db43w3lt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5w3lt7lb5lt27b8db43w3lt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWBBWWWWW](/stripes/wwbbwwwww/).
+
+Part of the [Queensferry High School: Ferry Fling](/tartans/q/qu/queensferry-high-school-ferry-fling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Sterling, Rob (Florida) (Persona Name Tartan** sett — one scale-
 [GGBBW](/stripes/ggbbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sterling, Rob (Persona](/tartans/s/st/sterling-rob-persona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

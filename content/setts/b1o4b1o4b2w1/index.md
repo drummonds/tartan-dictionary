@@ -6,6 +6,8 @@ This is the **Hami** sett — one scale-free proportion (`b1o4b1o4b2w1`), colour
 [BRBRBW](/stripes/brbrbw/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
+Part of the [Hami](/tartans/h/ha/hami/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

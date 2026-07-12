@@ -6,6 +6,8 @@ This is the **McBain** sett — one scale-free proportion (`dr60w2lb5k2w2k2lb5w2
 [BWWKWKWWKGKWBRGRBGW](/stripes/bwwkwkwwkgkwbrgrbgw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [McBain](/tartans/m/mc/mcbain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

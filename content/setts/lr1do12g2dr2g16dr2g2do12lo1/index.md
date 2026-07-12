@@ -6,6 +6,8 @@ This is the **MacFie Hunting (Clan?)** sett — one scale-free proportion (`lr1d
 [YBGBGBGBY](/stripes/ybgbgbgby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacFie Hunting](/tartans/m/ma/macfie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

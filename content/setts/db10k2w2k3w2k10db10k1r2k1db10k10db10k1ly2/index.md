@@ -6,7 +6,7 @@ This is the **City of Sarnia (District)** sett — one scale-free proportion (`d
 [BKWKWKBKRKBKBKY](/stripes/bkwkwkbkrkbkbky/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
-Part of the [City of Sarnia](/tartans/city-of-sarnia/) tartan — the named design grouping this sett with its kin.
+Part of the [City of Sarnia](/tartans/c/ci/city-of-sarnia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

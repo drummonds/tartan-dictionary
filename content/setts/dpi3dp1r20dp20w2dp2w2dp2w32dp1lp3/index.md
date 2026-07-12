@@ -6,6 +6,8 @@ This is the **Sunart, Pink (Dance)** sett — one scale-free proportion (`dpi3dp
 [BBRBWBWBWBW](/stripes/bbrbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Sunart Pink](/tartans/s/su/sunart-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

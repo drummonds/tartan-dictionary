@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sir Billi"
+  url: "/tartans/s/si/sir-billi-2/"
 - name: "Sir Billi (Corporate)"
   url: "/setts/r8dg12lr5k11dg42k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8dg12lr5k11dg42k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKYGR](/stripes/kgkygr/).
+
+Part of the [Sir Billi](/tartans/s/si/sir-billi-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

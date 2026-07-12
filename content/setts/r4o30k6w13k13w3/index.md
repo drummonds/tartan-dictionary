@@ -6,6 +6,8 @@ This is the **Thom(p)son camel** sett — one scale-free proportion (`r4o30k6w13
 [RRKWKW](/stripes/rrkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Thomson camel](/tartans/t/th/thomson-camel-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

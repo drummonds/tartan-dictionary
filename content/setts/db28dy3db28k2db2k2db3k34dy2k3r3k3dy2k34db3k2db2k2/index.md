@@ -6,6 +6,8 @@ This is the **Cleikum** sett — one scale-free proportion (`db28dy3db28k2db2k2d
 [BGBKBKBKGKRKGKBKBK](/stripes/bgbkbkbkgkrkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Cleikum](/tartans/c/cl/cleikum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

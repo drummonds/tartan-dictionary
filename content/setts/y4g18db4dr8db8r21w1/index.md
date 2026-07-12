@@ -6,6 +6,8 @@ This is the **G P Bathija (Shikarpur, Sindh)** sett — one scale-free proportio
 [GGBBBRW](/stripes/ggbbbrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [G P Bathija](/tartans/g/g/g-p-bathija/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

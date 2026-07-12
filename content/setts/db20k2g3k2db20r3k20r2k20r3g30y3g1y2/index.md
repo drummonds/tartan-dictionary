@@ -6,6 +6,8 @@ This is the **Glynn of Glynstewart (Personal)** sett — one scale-free proporti
 [BKGKBRKRKRGGGG](/stripes/bkgkbrkrkrgggg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Glynn of Glynnstewart](/tartans/g/gl/glynn-of-glynnstewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

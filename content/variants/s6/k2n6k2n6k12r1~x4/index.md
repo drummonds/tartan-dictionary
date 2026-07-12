@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacSween"
+  url: "/tartans/m/ma/macsween/"
 - name: "MacSween, Black (Personal)"
   url: "/setts/k2n6k2n6k12r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2n6k2n6k12r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKR](/stripes/kbkbkr/).
+
+Part of the [MacSween](/tartans/m/ma/macsween/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

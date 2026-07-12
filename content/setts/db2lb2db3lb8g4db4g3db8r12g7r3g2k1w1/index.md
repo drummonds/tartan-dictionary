@@ -6,6 +6,8 @@ This is the **Jones-MacGregor** sett — one scale-free proportion (`db2lb2db3lb
 [BWBWGBGBRGRGKW](/stripes/bwbwgbgbrgrgkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Jones-MacGregor](/tartans/j/jo/jones-macgregor-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

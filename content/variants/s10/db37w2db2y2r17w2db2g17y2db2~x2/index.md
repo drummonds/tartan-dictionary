@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MDF"
+  url: "/tartans/m/md/mdf/"
 - name: "MDF (Personal)"
   url: "/setts/db37w2db2y2r17w2db2g17y2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db37w2db2y2r17w2db2g17y2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWRGBWB](/stripes/bggbwrgbwb/).
+
+Part of the [MDF](/tartans/m/md/mdf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

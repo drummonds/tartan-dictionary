@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Nevis"
+  url: "/tartans/g/gl/glen-nevis/"
 - name: "Glen Nevis #2 (Personal)"
   url: "/setts/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGKGKBBBY](/stripes/gygygkgkbbby/).
+
+Part of the [Glen Nevis](/tartans/g/gl/glen-nevis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

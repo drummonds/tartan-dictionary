@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Staffa"
+  url: "/tartans/s/st/staffa/"
 - name: "Staffa (Silk)"
   url: "/setts/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgrgrgr/).
+
+Part of the [Staffa](/tartans/s/st/staffa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

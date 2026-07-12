@@ -6,6 +6,8 @@ This is the **MacArthur-Fox 1993 (Personal)** sett — one scale-free proportion
 [KGKGKGKR](/stripes/kgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [MacArthur-Fox 1993](/tartans/m/ma/macarthur-fox-1993/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brady 60th, Keith James"
+  url: "/tartans/b/br/brady-60th-keith-james/"
 - name: "Brady 60th, Keith James (Personal)"
   url: "/setts/n1r1n7k3n1k1n1k1db9y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n1r1n7k3n1k1n1k1db9y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKBKBKBG](/stripes/brbkbkbkbg/).
+
+Part of the [Brady 60th, Keith James](/tartans/b/br/brady-60th-keith-james/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

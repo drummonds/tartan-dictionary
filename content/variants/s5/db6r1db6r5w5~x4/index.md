@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Coast Guard"
+  url: "/tartans/u/u/u-s-coast-guard-2/"
 - name: "U.S. Coast Guard (Corporate)"
   url: "/setts/db6r1db6r5w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r1db6r5w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
+
+Part of the [U.S. Coast Guard](/tartans/u/u/u-s-coast-guard-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

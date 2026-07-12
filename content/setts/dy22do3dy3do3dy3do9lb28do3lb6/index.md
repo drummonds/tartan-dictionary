@@ -6,6 +6,8 @@ This is the **Kildonan Brown (Fashion)** sett — one scale-free proportion (`dy
 [GBGBGBWBW](/stripes/gbgbgbwbw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Kildonan](/tartans/k/ki/kildonan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

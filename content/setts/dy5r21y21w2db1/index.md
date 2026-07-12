@@ -6,6 +6,8 @@ This is the **Haughey (2015)** sett — one scale-free proportion (`dy5r21y21w2d
 [BWGRG](/stripes/bwgrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Haughey](/tartans/h/ha/haughey-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

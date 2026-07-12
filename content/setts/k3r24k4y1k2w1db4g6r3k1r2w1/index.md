@@ -6,7 +6,7 @@ This is the **Stewart of Galloway** sett — one scale-free proportion (`k3r24k4
 [KRKGKWBGRKRW](/stripes/krkgkwbgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Stewart of Galloway](/tartans/stewart-of-galloway/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Galloway](/tartans/s/st/stewart-of-galloway/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

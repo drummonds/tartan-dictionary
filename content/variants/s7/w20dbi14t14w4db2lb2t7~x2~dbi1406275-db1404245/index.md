@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Earl of St. Andrews Dress"
-  url: "/tartans/earl-of-st-andrews-dress/"
+  url: "/tartans/e/ea/earl-of-st-andrews-dress/"
 - name: "Earl of St. Andrews Dress (Dance)"
   url: "/setts/w20dbi14t14w4db2lb2t7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w20dbi14t14w4db2lb2t7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBW](/stripes/bwbwbbw/).
 
-Part of the [Earl of St. Andrews Dress](/tartans/earl-of-st-andrews-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Earl of St. Andrews Dress](/tartans/e/ea/earl-of-st-andrews-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

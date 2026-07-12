@@ -6,6 +6,8 @@ This is the **Tartan Lassie (Fashion)** sett — one scale-free proportion (`w3d
 [GGBRBW](/stripes/ggbrbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Tartan Lassie](/tartans/t/ta/tartan-lassie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Knights Templar MTS"
+  url: "/tartans/s/sc/scottish-knights-templar-mts/"
 - name: "Scottish Knights Templar MTS (Corp)"
   url: "/setts/lb4r2db20k6lb5k4lb3k2r2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4r2db20k6lb5k4lb3k2r2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWKWKBRW](/stripes/brkwkwkbrw/).
+
+Part of the [Scottish Knights Templar MTS](/tartans/s/sc/scottish-knights-templar-mts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

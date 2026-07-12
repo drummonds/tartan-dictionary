@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "South African Air Force"
+  url: "/tartans/s/so/south-african-air-force/"
 - name: "South African Air Force (Military)"
   url: "/setts/db15k14lb1y2lb1k14db15k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15k14lb1y2lb1k14db15k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWGWKBK](/stripes/bkwgwkbk/).
+
+Part of the [South African Air Force](/tartans/s/so/south-african-air-force/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

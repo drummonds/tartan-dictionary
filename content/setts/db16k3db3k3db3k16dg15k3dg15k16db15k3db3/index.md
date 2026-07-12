@@ -6,6 +6,8 @@ This is the **93rd Regiment (Military)** sett — one scale-free proportion (`db
 [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **~1819**.
 
+Part of the [93rd Regiment](/tartans/0-9/0-9/93rd-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Rangers Football Club #2** sett — one scale-free proportion (`r3
 [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Rangers Football Club](/tartans/rangers-football-club/) tartan — the named design grouping this sett with its kin.
+Part of the [Rangers Football Club](/tartans/r/ra/rangers-football-club/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

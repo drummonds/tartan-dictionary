@@ -6,6 +6,8 @@ This is the **Schneidersohne Centenary** sett — one scale-free proportion (`r5
 [RKBKGKRKBKRBKBRKBKRKGKBKRW](/stripes/rkbkgkrkbkrbkbrkbkrkgkbkrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Schneidersohne Centenary](/tartans/s/sc/schneidersohne-centenary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

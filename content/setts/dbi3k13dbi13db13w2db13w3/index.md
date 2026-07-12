@@ -6,6 +6,8 @@ This is the **Brodie Countryfare (Corporate)** sett — one scale-free proportio
 [BKBBWBW](/stripes/bkbbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Brodie Countryfare](/tartans/b/br/brodie-countryfare/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

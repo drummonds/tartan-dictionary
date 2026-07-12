@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Swallow Hotels"
+  url: "/tartans/s/sw/swallow-hotels/"
+- name: "Swallow Hotels"
   url: "/setts/k4g21k10r2k10db21k4db4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4g21k10r2k10db21k4db4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRKGKGKRKBKBK](/stripes/bkbkrkgkgkrkbkbk/).
+
+Part of the [Swallow Hotels](/tartans/s/sw/swallow-hotels/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

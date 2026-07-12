@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hawaii"
+  url: "/tartans/h/ha/hawaii/"
 - name: "Hawaiian"
   url: "/setts/lb4r1y1lb12do4dg10y1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4r1y1lb12do4dg10y1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWBGGRGGBWGRW](/stripes/rgwbggrggbwgrw/).
+
+Part of the [Hawaii](/tartans/h/ha/hawaii/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Puccini"
+  url: "/tartans/p/pu/puccini/"
 - name: "Puccini (Fashion)"
   url: "/setts/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKRKRWYKWRKRWR](/stripes/rkwkrkrwykwrkrwr/).
+
+Part of the [Puccini](/tartans/p/pu/puccini/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

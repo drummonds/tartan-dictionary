@@ -6,6 +6,8 @@ This is the **Nigeria** sett — one scale-free proportion (`w4db24k1dg8w8dg8k1w
 [WBKGWGKWGWGWGW](/stripes/wbkgwgkwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Nigeria](/tartans/n/ni/nigeria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

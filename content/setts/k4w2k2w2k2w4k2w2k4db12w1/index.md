@@ -7,7 +7,7 @@ This is the **Napier** sett — one scale-free proportion (`k4w2k2w2k2w4k2w2k4db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1816**.
 
-Part of the [Napier](/tartans/napier/) tartan — the named design grouping this sett with its kin.
+Part of the [Napier](/tartans/n/na/napier/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

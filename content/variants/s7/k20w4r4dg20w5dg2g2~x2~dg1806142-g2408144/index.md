@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hackett"
+  url: "/tartans/h/ha/hackett/"
 - name: "Hackett (Personal)"
   url: "/setts/k20w4r4dg20w5dg2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20w4r4dg20w5dg2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGRWK](/stripes/ggwgrwk/).
+
+Part of the [Hackett](/tartans/h/ha/hackett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

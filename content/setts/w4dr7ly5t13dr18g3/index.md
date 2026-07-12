@@ -6,7 +6,7 @@ This is the **Ryan/Fehder (Personal)** sett — one scale-free proportion (`w4dr
 [GBBYBW](/stripes/gbbybw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Ryan/Fehder](/tartans/ryan-fehder/) tartan — the named design grouping this sett with its kin.
+Part of the [Ryan/Fehder](/tartans/r/ry/ryan-fehder/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

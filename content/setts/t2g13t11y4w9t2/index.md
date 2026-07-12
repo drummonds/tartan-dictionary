@@ -6,6 +6,8 @@ This is the **Loch Leven** sett — one scale-free proportion (`t2g13t11y4w9t2`)
 [BGBGWB](/stripes/bgbgwb/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Loch Leven](/tartans/l/lo/loch-leven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

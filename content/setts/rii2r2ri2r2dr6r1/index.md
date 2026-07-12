@@ -6,6 +6,8 @@ This is the **Youth on The Horizon (Fashion)** sett — one scale-free proportio
 [RBRRRR](/stripes/rbrrrr/). It is recorded as a single **variant**, below.
 First attested **~1972**.
 
+Part of the [Youth on The Horizon](/tartans/y/yo/youth-on-the-horizon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

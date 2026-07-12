@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Christopher Newport University"
+  url: "/tartans/c/ch/christopher-newport-university/"
+- name: "Christopher Newport University"
   url: "/setts/db5k1lb2k1w6k1lb2db25lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5k1lb2k1w6k1lb2db25lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKWBW](/stripes/bkwkwkwbw/).
+
+Part of the [Christopher Newport University](/tartans/c/ch/christopher-newport-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

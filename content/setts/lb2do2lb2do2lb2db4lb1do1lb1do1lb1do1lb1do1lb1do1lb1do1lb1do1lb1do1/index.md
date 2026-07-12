@@ -6,6 +6,8 @@ This is the **Prince of Wales (Estate Check)** sett — one scale-free proportio
 [BWBWBWBWBWBWBWBWBWBWBW](/stripes/bwbwbwbwbwbwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~1902**.
 
+Part of the [Prince of Wales](/tartans/p/pr/prince-of-wales-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

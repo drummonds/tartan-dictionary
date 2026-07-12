@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Smithers"
+  url: "/tartans/s/sm/smithers/"
+- name: "Smithers"
   url: "/setts/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBWBBBBBBBWBKGKG](/stripes/bgkgkbwbbbbbbbwbkgkg/).
+
+Part of the [Smithers](/tartans/s/sm/smithers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

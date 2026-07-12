@@ -6,6 +6,8 @@ This is the **Gearach Woodcock Tweed (Corporate)** sett — one scale-free propo
 [GWY](/stripes/gwy/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Gearach Woodcock Tweed](/tartans/g/ge/gearach-woodcock-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

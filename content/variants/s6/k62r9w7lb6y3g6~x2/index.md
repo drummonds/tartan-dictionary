@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tainsh"
+  url: "/tartans/t/ta/tainsh/"
 - name: "Tainsh (2016)"
   url: "/setts/k62r9w7lb6y3g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62r9w7lb6y3g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWWRK](/stripes/ggwwrk/).
+
+Part of the [Tainsh](/tartans/t/ta/tainsh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

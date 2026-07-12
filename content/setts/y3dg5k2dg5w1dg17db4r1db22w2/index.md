@@ -6,6 +6,8 @@ This is the **McAvoy (Personal)** sett — one scale-free proportion (`y3dg5k2dg
 [GGKGWGBRBW](/stripes/ggkgwgbrbw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [McAvoy](/tartans/m/mc/mcavoy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

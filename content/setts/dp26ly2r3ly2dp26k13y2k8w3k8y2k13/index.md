@@ -6,6 +6,8 @@ This is the **Curnow of Kernow (Personal)** sett — one scale-free proportion (
 [BYRYBKGKWKGK](/stripes/byrybkgkwkgk/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Curnow of Kernow](/tartans/c/cu/curnow-of-kernow-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Parliament Trade Tartan** sett — one scale-free proportion (`dbi
 [BGKGBBG](/stripes/bgkgbbg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Parliament](/tartans/p/pa/parliament/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

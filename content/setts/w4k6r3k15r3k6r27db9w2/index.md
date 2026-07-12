@@ -6,6 +6,8 @@ This is the **Memery (Reston, USA)** sett — one scale-free proportion (`w4k6r3
 [WBRKRKRKW](/stripes/wbrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Memery](/tartans/m/me/memery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

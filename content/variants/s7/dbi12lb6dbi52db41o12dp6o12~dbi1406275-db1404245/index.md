@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Great Scot"
+  url: "/tartans/g/gr/great-scot/"
+- name: "Great Scot"
   url: "/setts/dbi12lb6dbi52db41o12dp6o12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi12lb6dbi52db41o12dp6o12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBRBRBRBBW](/stripes/bwbbrbrbrbbw/).
+
+Part of the [Great Scot](/tartans/g/gr/great-scot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

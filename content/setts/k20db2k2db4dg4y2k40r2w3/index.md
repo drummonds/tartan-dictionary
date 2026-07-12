@@ -6,6 +6,8 @@ This is the **McCuaig (Glenelg and the Western Isles) Hunting** sett — one sca
 [KBKBGGKRW](/stripes/kbkbggkrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [McCuaig Hunting](/tartans/m/mc/mccuaig-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

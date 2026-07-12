@@ -6,6 +6,8 @@ This is the **Gonzaga University’s True Blue and White** sett — one scale-fr
 [RBGBWBW](/stripes/rbgbwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Gonzaga University's True Blue and W](/tartans/g/go/gonzaga-university-s-true-blue-and-w/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

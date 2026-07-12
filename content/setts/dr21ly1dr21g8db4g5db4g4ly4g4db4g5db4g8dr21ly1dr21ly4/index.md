@@ -6,6 +6,8 @@ This is the **Rice of Wales** sett — one scale-free proportion (`dr21ly1dr21g8
 [BYBGBGBGYGBGBGBYBY](/stripes/bybgbgbgygbgbgbyby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Rice of Wales](/tartans/r/ri/rice-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

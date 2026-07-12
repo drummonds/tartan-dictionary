@@ -6,6 +6,8 @@ This is the **Alich (Personal)** sett — one scale-free proportion (`k50r1db3dp
 [BBRK](/stripes/bbrk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Alich](/tartans/a/al/alich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

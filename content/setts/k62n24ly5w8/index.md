@@ -6,7 +6,7 @@ This is the **Perry, Alex (Personal)** sett — one scale-free proportion (`k62n
 [KBYW](/stripes/kbyw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Perry , Alex](/tartans/perry-alex/) tartan — the named design grouping this sett with its kin.
+Part of the [Perry , Alex](/tartans/p/pe/perry-alex/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

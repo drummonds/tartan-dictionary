@@ -6,6 +6,8 @@ This is the **Daks - Chino Check - B.11155** sett — one scale-free proportion 
 [RGKGBKBKGKRR](/stripes/rgkgbkbkgkrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Daks](/tartans/d/da/daks-15/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

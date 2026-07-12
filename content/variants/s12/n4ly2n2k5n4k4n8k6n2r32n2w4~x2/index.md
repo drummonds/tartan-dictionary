@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orr, Gerald William"
+  url: "/tartans/o/or/orr-gerald-william/"
 - name: "Orr, Gerald William (Personal)"
   url: "/setts/n4ly2n2k5n4k4n8k6n2r32n2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4ly2n2k5n4k4n8k6n2r32n2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/).
+
+Part of the [Orr, Gerald William](/tartans/o/or/orr-gerald-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

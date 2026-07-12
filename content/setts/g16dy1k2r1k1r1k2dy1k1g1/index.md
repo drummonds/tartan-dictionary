@@ -6,7 +6,7 @@ This is the **Forde Irish Family Tartan** sett — one scale-free proportion (`g
 [GGKRKRKGKG](/stripes/ggkrkrkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Forde](/tartans/forde/) tartan — the named design grouping this sett with its kin.
+Part of the [Forde](/tartans/f/fo/forde/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

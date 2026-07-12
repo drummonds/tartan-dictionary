@@ -6,6 +6,8 @@ This is the **Leitrim County, Crest Range** sett — one scale-free proportion (
 [GKGKGKGKBW](/stripes/gkgkgkgkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Leitrim County, Crest Range](/tartans/l/le/leitrim-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

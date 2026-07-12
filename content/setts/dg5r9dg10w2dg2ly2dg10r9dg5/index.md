@@ -6,6 +6,8 @@ This is the **Norwich No.077** sett — one scale-free proportion (`dg5r9dg10w2d
 [GRGWGYGRG](/stripes/grgwgygrg/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.077](/tartans/n/no/norwich-no-077/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Association for N.S."
+  url: "/tartans/s/sc/scottish-association-for-n-s/"
 - name: "Scottish Association for N.S. (Corp)"
   url: "/setts/db46y4db4y4db6k16n66w11r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db46y4db4y4db6k16n66w11r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKBWR](/stripes/bgbgbkbwr/).
+
+Part of the [Scottish Association for N.S.](/tartans/s/sc/scottish-association-for-n-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

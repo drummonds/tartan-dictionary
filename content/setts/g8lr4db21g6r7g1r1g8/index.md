@@ -6,6 +6,8 @@ This is the **Cathcart** sett — one scale-free proportion (`g8lr4db21g6r7g1r1g
 [GRGRGBYG](/stripes/grgrgbyg/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Cathcart](/tartans/c/ca/cathcart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

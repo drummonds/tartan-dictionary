@@ -6,7 +6,7 @@ This is the **MacDuff - 1819 (Clan)** sett — one scale-free proportion (`r36db
 [RBKGRKR](/stripes/rbkgrkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacDuff](/tartans/macduff-6/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDuff](/tartans/m/ma/macduff-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

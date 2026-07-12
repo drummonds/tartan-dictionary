@@ -6,6 +6,8 @@ This is the **Aguilar Gorrondona Family (Personal)** sett — one scale-free pro
 [GWKBGKGWBGR](/stripes/gwkbgkgwbgr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Aguilar Gorrondona](/tartans/a/ag/aguilar-gorrondona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

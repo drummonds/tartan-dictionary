@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buccleuch Check Regimental"
+  url: "/tartans/b/bu/buccleuch-check-regimental/"
 - name: "Buccleuch Check Regimental Tartan"
   url: "/setts/k1w1k1w1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1w1k1w1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKW](/stripes/bwkwkwkw/).
+
+Part of the [Buccleuch Check Regimental](/tartans/b/bu/buccleuch-check-regimental/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

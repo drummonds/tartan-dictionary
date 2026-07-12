@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie of Strathallan"
+  url: "/families/ogilvie-of-strathallan/"
+- name: "Ogilvie of Strathallan"
+  url: "/tartans/o/og/ogilvie-of-strathallan/"
 - name: "Ogilvie of Strathallan"
   url: "/setts/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWBWRKRBYWYKRWRKYKRWRKYWYBRKRWBWRWBWRKRBYKWBWKRWRWRKYKYKRWRWRKYW](/stripes/bwrwbwrkrbywykrwrkykrwrkywybrkrwbwrwbwrkrbykwbwkrwrwrkykykrwrwrkyw/).
+
+Part of the [Ogilvie of Strathallan](/tartans/o/og/ogilvie-of-strathallan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 

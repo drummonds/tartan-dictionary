@@ -6,7 +6,7 @@ This is the **Bruce** sett — one scale-free proportion (`y1r4g1r1g3r1g3r1g1r4w
 [GRGRGRGRGRW](/stripes/grgrgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bruce](/tartans/bruce-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce](/tartans/b/br/bruce-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

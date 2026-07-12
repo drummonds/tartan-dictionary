@@ -6,6 +6,8 @@ This is the **Bartlett from El Paso, Texas** sett — one scale-free proportion 
 [BGBYBYBYBWR](/stripes/bgbybybybwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bartlett from El Paso, Texas](/tartans/b/ba/bartlett-from-el-paso-texas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

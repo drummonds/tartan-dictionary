@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Auld Scotland"
+  url: "/tartans/a/au/auld-scotland/"
+- name: "Auld Scotland"
   url: "/setts/r2ly12r3ly3r12g12n12y12g1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly12r3ly3r12g12n12y12g1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYRGBGGW](/stripes/ryryrgbggw/).
+
+Part of the [Auld Scotland](/tartans/a/au/auld-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

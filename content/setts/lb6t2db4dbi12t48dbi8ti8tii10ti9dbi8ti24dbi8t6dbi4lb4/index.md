@@ -6,6 +6,8 @@ This is the **Ferring Pharmaceuticals** sett — one scale-free proportion (`lb6
 [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Ferring Pharmaceuticals](/tartans/f/fe/ferring-pharmaceuticals/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

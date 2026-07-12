@@ -6,6 +6,8 @@ This is the **University of Edinburgh** sett — one scale-free proportion (`k8d
 [KBKBWKW](/stripes/kbkbwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [University of Edinburgh](/tartans/u/un/university-of-edinburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

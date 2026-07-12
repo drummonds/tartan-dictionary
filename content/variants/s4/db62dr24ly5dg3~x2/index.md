@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Meaux"
+  url: "/tartans/m/me/meaux/"
 - name: "Meaux (Personal)"
   url: "/setts/db62dr24ly5dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db62dr24ly5dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYG](/stripes/bbyg/).
+
+Part of the [Meaux](/tartans/m/me/meaux/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

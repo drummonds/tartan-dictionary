@@ -6,6 +6,8 @@ This is the **Healy (Name)** sett — one scale-free proportion (`t9db2lb2t10db4
 [BBWBBGRBWBG](/stripes/bbwbbgrbwbg/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Healy](/tartans/h/he/healy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

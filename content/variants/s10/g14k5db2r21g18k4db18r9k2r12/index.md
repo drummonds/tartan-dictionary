@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ruben Delanghe"
+  url: "/tartans/r/ru/ruben-delanghe/"
 - name: "Ruben Delanghe (Personal)"
   url: "/setts/g14k5db2r21g18k4db18r9k2r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g14k5db2r21g18k4db18r9k2r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBRGKBRKR](/stripes/gkbrgkbrkr/).
+
+Part of the [Ruben Delanghe](/tartans/r/ru/ruben-delanghe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

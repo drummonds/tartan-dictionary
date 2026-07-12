@@ -6,6 +6,8 @@ This is the **British Judo Association** sett — one scale-free proportion (`dr
 [BGGBRB](/stripes/bggbrb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [British Judo Association](/tartans/b/br/british-judo-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rendell, Charles"
+  url: "/tartans/r/re/rendell-charles-2/"
 - name: "Rendell, Charles (Personal)"
   url: "/setts/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGBGBGBKBKBKBBR](/stripes/kgbgbgbgbkbkbkbbr/).
+
+Part of the [Rendell, Charles](/tartans/r/re/rendell-charles-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

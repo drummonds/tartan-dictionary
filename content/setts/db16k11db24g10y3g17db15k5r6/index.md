@@ -6,6 +6,8 @@ This is the **Glackin-McColgan (Personal)** sett — one scale-free proportion (
 [BKBGGGBKR](/stripes/bkbgggbkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Glackin-McColgan](/tartans/g/gl/glackin-mccolgan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

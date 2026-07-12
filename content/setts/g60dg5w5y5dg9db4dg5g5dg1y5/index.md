@@ -6,6 +6,8 @@ This is the **Hayden (Dublin) (Personal)** sett — one scale-free proportion (`
 [GGGGBGGWGG](/stripes/ggggbggwgg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Hayden](/tartans/h/ha/hayden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

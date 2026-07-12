@@ -6,6 +6,8 @@ This is the **Lanark (Fashion #1)** sett — one scale-free proportion (`r1db3dr
 [RBBGBW](/stripes/rbbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lanark](/tartans/l/la/lanark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

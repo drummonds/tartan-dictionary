@@ -6,6 +6,8 @@ This is the **Praetorian Imperatur (Fashion)** sett — one scale-free proportio
 [WKGBKWWWKWWBWW](/stripes/wkgbkwwwkwwbww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Praetorian Imperatur](/tartans/p/pr/praetorian-imperatur/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

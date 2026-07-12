@@ -6,6 +6,8 @@ This is the **Harvey** sett — one scale-free proportion (`db4r11g11db22y1g4`),
 [BRGBGG](/stripes/brgbgg/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Harvey](/tartans/h/ha/harvey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

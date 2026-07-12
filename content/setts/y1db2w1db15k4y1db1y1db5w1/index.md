@@ -6,6 +6,8 @@ This is the **SPA Association (Corporate)** sett — one scale-free proportion (
 [GBWBKGBGBW](/stripes/gbwbkgbgbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [SPA Association](/tartans/s/sp/spa-association-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

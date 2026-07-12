@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nithsdale"
+  url: "/tartans/n/ni/nithsdale-2/"
 - name: "Nithsdale (Dalgliesh)"
   url: "/setts/db16dr3g3dr10db24dr3db3dr3db3dr10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16dr3g3dr10db24dr3db3dr3db3dr10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGBB](/stripes/bbbbbbbgbb/).
+
+Part of the [Nithsdale](/tartans/n/ni/nithsdale-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

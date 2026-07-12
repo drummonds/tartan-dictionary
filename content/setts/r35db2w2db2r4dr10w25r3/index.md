@@ -6,6 +6,8 @@ This is the **Longniddry Dress, Red (Dance)** sett — one scale-free proportion
 [RBWBRBWR](/stripes/rbwbrbwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Longniddry Dress](/tartans/l/lo/longniddry-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

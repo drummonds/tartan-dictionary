@@ -6,6 +6,8 @@ This is the **Dickie (Glasgow)** sett — one scale-free proportion (`k5db1k1n1k
 [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dickie](/tartans/d/di/dickie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

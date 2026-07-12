@@ -6,7 +6,7 @@ This is the **Portosalvo** sett — one scale-free proportion (`g5w1g32db1g8db9g
 [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Portosalvo](/tartans/portosalvo/) tartan — the named design grouping this sett with its kin.
+Part of the [Portosalvo](/tartans/p/po/portosalvo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Whisky"
+  url: "/tartans/w/wh/whisky/"
+- name: "Whisky"
   url: "/setts/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGKYYWKGKWKGKWKG](/stripes/ggggggkyywkgkwkgkwkg/).
+
+Part of the [Whisky](/tartans/w/wh/whisky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,7 +6,7 @@ This is the **Dunbar of Pitgaveny Family Tartan** sett — one scale-free propor
 [RBW](/stripes/rbw/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
-Part of the [Dunbar of Pitgaveny](/tartans/dunbar-of-pitgaveny/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbar of Pitgaveny](/tartans/d/du/dunbar-of-pitgaveny/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

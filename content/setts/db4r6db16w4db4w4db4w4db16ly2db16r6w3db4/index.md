@@ -6,6 +6,8 @@ This is the **Parker (USA)** sett — one scale-free proportion (`db4r6db16w4db4
 [BRBWBWBWBYBRWB](/stripes/brbwbwbwbybrwb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Parker](/tartans/p/pa/parker-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacDonald of Kingsburgh Clan Tartan** sett — one scale-free prop
 [GGGGWRGGR](/stripes/ggggwrggr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [MacDonald of Kingsburgh](/tartans/m/ma/macdonald-of-kingsburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

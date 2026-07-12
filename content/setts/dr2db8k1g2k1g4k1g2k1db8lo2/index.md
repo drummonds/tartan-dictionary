@@ -6,7 +6,7 @@ This is the **MacCainsh** sett — one scale-free proportion (`dr2db8k1g2k1g4k1g
 [BBKGKGKGKBY](/stripes/bbkgkgkgkby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacCainsh](/tartans/maccainsh/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCainsh](/tartans/m/ma/maccainsh/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

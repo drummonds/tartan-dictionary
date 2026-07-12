@@ -6,6 +6,8 @@ This is the **Black Scottish National Tartan** sett — one scale-free proportio
 [BKRKGKGKGKRBRWR](/stripes/bkrkgkgkgkrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Black Scottish National](/tartans/b/bl/black-scottish-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

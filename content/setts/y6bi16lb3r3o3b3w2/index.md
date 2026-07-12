@@ -6,7 +6,7 @@ This is the **Atikokan** sett — one scale-free proportion (`y6bi16lb3r3o3b3w2`
 [GBWRRBW](/stripes/gbwrrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Atikokan](/tartans/atikokan/) tartan — the named design grouping this sett with its kin.
+Part of the [Atikokan](/tartans/a/at/atikokan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

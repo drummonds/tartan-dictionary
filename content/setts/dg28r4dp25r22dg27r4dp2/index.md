@@ -6,6 +6,8 @@ This is the **Glasgow, Ciity of (District)** sett — one scale-free proportion 
 [BRGRBRG](/stripes/brgrbrg/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Glasgow, Ciity of](/tartans/g/gl/glasgow-ciity-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

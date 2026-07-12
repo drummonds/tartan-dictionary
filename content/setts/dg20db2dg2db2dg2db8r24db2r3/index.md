@@ -7,6 +7,8 @@ This is the **Lindsay Clan Tartan** sett — one scale-free proportion (`dg20db2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Lindsay MINI Design](/tartans/l/li/lindsay-mini-design/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

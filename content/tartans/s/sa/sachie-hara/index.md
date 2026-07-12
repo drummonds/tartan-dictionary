@@ -1,0 +1,37 @@
+---
+title: "Sachie Hara"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KBGRW](/stripes/kbgrw/) — the page of every tartan sharing this colour sequence.
+
+The **Sachie Hara** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k5db4g24r21w3/">Sachie Hara</a></td><td><code>K/10 DB8 G48 R42 W/6</code></td><td>212</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k5db4g24r21w3/"><img src="/variants/s5/k5db4g24r21w3~x2/sett.png" alt="Sachie Hara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Sachie Hara Scottish Check
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">212</div><div class="nn-name nn-base"><a href="/variants/s5/k5db4g24r21w3~x2/">Sachie Hara</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k5db4g24r21w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6db3dg20r20y3~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">0.62</a></div><div class="nn-threads">190</div><div class="nn-name"><a href="/variants/s5/k6db3dg20r20y3~x2/">Douglas of Roxburgh</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k6db3dg20r20y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7db3g28r28y3~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">0.63</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s5/k7db3g28r28y3~x2/">Turnbull Dress Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7db3g28r28y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db1g10r10ly1~x6&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">0.67</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/k2db1g10r10ly1~x6/">Turnbull Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2db1g10r10ly1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g7k2lb1~x4&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">0.95</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s4/r5g7k2lb1~x4/">Wilson's No.195</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5g7k2lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r15w1db4y1g15~x4&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.17</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/r15w1db4y1g15~x4/">Eglinton, Duke of (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r15w1db4y1g15~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g24db2r25y2k3~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s5/g24db2r25y2k3~x2/">Bronte</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g24db2r25y2k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g24t2r25y2k3~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s5/g24t2r25y2k3~x2/">Bronte (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g24t2r25y2k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g37k22w4r15y3~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.45</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s5/g37k22w4r15y3~x2/">Oakley (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g37k22w4r15y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3t12k12r20g2~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.56</a></div><div class="nn-threads">186</div><div class="nn-name"><a href="/variants/s5/w3t12k12r20g2~x2/">Baillie of Polkemmet Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w3t12k12r20g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4lb3g13dp12w2~x2&amp;base=k5db4g24r21w3~x2" title="compare in the TTD">1.61</a></div><div class="nn-threads">124</div><div class="nn-name"><a href="/variants/s5/k4lb3g13dp12w2~x2/">Wilson's No 148</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4lb3g13dp12w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.0" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull Dress Clan Tartan</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.9" cy="187.5" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.3" cy="241.7" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="189.9" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.0" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="175.9" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.2" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.4" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.6" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><circle cx="175.2" cy="201.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

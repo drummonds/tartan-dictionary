@@ -6,6 +6,8 @@ This is the **Unnamed C19th** sett — one scale-free proportion (`n20w2dp70ly2k
 [BWBYKWBKBKBWKYBWKY](/stripes/bwbykwbkbkbwkybwky/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Unnamed C19th](/tartans/u/un/unnamed-c19th-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

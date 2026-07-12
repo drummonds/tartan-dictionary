@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Pilette"
+  url: "/clan/pilette/"
+- name: "Pilette of Kinnear"
+  url: "/families/pilette-of-kinnear/"
+- name: "Pilette of Kinnear"
+  url: "/tartans/p/pi/pilette-of-kinnear/"
 - name: "Pilette of Kinnear (Personal)"
   url: "/setts/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r2k10dg3k10dg30k8dg3r4y2r4lb2r4dg3k8dg30k10dg3k10r2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGKGRGRWRGKGKGKRK](/stripes/krkgkgkgrgrwrgkgkgkrk/).
+
+Part of the [Pilette of Kinnear](/tartans/p/pi/pilette-of-kinnear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

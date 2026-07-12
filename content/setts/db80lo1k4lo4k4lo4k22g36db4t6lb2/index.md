@@ -6,6 +6,8 @@ This is the **Swedish #2** sett — one scale-free proportion (`db80lo1k4lo4k4lo
 [BYKYKYKGBBW](/stripes/bykykykgbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Swedish Dance](/tartans/s/sw/swedish-dance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

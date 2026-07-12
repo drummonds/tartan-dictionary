@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenfalloch"
+  url: "/tartans/g/gl/glenfalloch-2/"
+- name: "Glenfalloch"
   url: "/setts/k4b1k12w1b4w1dg4w1dr4dg12k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4b1k12w1b4w1dg4w1dr4dg12k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWBWGWBGKW](/stripes/kbkwbwgwbgkw/).
+
+Part of the [Glenfalloch](/tartans/g/gl/glenfalloch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

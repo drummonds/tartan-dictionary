@@ -6,6 +6,8 @@ This is the **Trinity Bicycles** sett — one scale-free proportion (`dy4lb11dy1
 [GWGYR](/stripes/gwgyr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Trinity Bicycles](/tartans/t/tr/trinity-bicycles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

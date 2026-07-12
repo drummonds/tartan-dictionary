@@ -6,6 +6,8 @@ This is the **MacDevitt (Name)** sett — one scale-free proportion (`db12k2db2k
 [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacDevitt](/tartans/m/ma/macdevitt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

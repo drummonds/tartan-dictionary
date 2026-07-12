@@ -6,7 +6,7 @@ This is the **De Nardi (Personal)** sett — one scale-free proportion (`r68db26
 [BRGRGRBR](/stripes/brgrgrbr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [De Nardi](/tartans/de-nardi/) tartan — the named design grouping this sett with its kin.
+Part of the [De Nardi](/tartans/d/de/de-nardi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

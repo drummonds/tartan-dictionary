@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rankin, John"
+  url: "/tartans/r/ra/rankin-john/"
 - name: "Rankin, John (Personal)"
   url: "/setts/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGWGKBKRKBKBKBK](/stripes/bkgwgkbkrkbkbkbk/).
+
+Part of the [Rankin, John](/tartans/r/ra/rankin-john/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

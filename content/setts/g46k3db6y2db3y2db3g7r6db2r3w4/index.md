@@ -6,6 +6,8 @@ This is the **Seller (Personal)** sett — one scale-free proportion (`g46k3db6y
 [GKBGBGBGRBRWRBRGBGBGBK](/stripes/gkbgbgbgrbrwrbrgbgbgbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Seller](/tartans/s/se/seller/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

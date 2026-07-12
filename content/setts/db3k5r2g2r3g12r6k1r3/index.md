@@ -6,6 +6,8 @@ This is the **Fulton (1999) (Name)** sett — one scale-free proportion (`db3k5r
 [BKRGRGRKR](/stripes/bkrgrgrkr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Fulton](/tartans/f/fu/fulton-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Springbok (Fashion)** sett — one scale-free proportion (`dg3dgi2
 [GGGGGGWGGYYW](/stripes/ggggggwggyyw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Springbok](/tartans/s/sp/springbok/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Osborne, Luke Alexander (Personal)** sett — one scale-free propo
 [BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Osborne, Luke Alexander](/tartans/o/os/osborne-luke-alexander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

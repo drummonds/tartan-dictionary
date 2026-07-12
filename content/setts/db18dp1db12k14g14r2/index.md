@@ -6,6 +6,8 @@ This is the **Mackison** sett — one scale-free proportion (`db18dp1db12k14g14r
 [BBBKGR](/stripes/bbbkgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Mackison](/tartans/m/ma/mackison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Desert** sett — one scale-free proportion (`ly70w3k2y1k2y1k5r1k5
 [RKRKRKRKGKGKWY](/stripes/rkrkrkrkgkgkwy/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Desert](/tartans/d/de/desert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Norwich No.039 (Mackinlay)** sett — one scale-free proportion (`
 [GKGKGKGKGKGY](/stripes/gkgkgkgkgkgy/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.039](/tartans/n/no/norwich-no-039/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

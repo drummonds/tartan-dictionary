@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Alva"
+  url: "/tartans/s/sp/spirit-of-alva/"
+- name: "Spirit of Alva"
   url: "/setts/lb6db10dp4db12dg19dp4dg8k20db50lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6db10dp4db12dg19dp4dg8k20db50lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBGBGKBW](/stripes/wbbbgbgkbw/).
+
+Part of the [Spirit of Alva](/tartans/s/sp/spirit-of-alva/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

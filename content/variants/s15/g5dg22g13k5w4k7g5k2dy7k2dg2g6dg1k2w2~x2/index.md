@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ireland's National"
+  url: "/tartans/i/ir/ireland-s-national/"
+- name: "Ireland's National"
   url: "/setts/g5dg22g13k5w4k7g5k2dy7k2dg2g6dg1k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5dg22g13k5w4k7g5k2dy7k2dg2g6dg1k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKWKGKGKGGGKW](/stripes/gggkwkgkgkgggkw/).
+
+Part of the [Ireland's National](/tartans/i/ir/ireland-s-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

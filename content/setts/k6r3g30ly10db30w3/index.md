@@ -6,6 +6,8 @@ This is the **Turnbull of Thornton (Personal)** sett — one scale-free proporti
 [KRGYBW](/stripes/krgybw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Turnbull of Thornton](/tartans/t/tu/turnbull-of-thornton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

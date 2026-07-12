@@ -6,7 +6,7 @@ This is the **Falardeau-Murphy (Canada) (Personal)** sett — one scale-free pro
 [BBBRYWG](/stripes/bbbrywg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Falardeau-Murphy](/tartans/falardeau-murphy/) tartan — the named design grouping this sett with its kin.
+Part of the [Falardeau-Murphy](/tartans/f/fa/falardeau-murphy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allen"
+  url: "/tartans/a/al/allen-5/"
 - name: "Allen - 2001 (Personal)"
   url: "/setts/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGGWGGBGRG](/stripes/brbrbggwggbgrg/).
+
+Part of the [Allen](/tartans/a/al/allen-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

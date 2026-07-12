@@ -6,6 +6,8 @@ This is the **Kilkenny County, Crest Range** sett — one scale-free proportion 
 [GBKWGKWK](/stripes/gbkwgkwk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Kilkenny County, Crest Range](/tartans/k/ki/kilkenny-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

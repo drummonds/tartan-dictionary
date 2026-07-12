@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millennium"
+  url: "/tartans/m/mi/millennium-2/"
 - name: "Millennium (Langholm) (Corporate)"
   url: "/setts/dp35dt2dy1dt1lb1dt5dr2g5lo4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp35dt2dy1dt1lb1dt5dr2g5lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBBGY](/stripes/bbgbwbbgy/).
+
+Part of the [Millennium](/tartans/m/mi/millennium-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

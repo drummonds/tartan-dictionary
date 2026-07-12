@@ -6,6 +6,8 @@ This is the **Corryvrechan Dress (Corporate)** sett — one scale-free proportio
 [WBYBWBGWRW](/stripes/wbybwbgwrw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Corryvrechan Dress](/tartans/c/co/corryvrechan-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

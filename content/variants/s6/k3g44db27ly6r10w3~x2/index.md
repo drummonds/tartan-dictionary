@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shawlands International"
+  url: "/tartans/s/sh/shawlands-international/"
 - name: "Shawlands International (Commem.)"
   url: "/setts/k3g44db27ly6r10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g44db27ly6r10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBYRW](/stripes/kgbyrw/).
+
+Part of the [Shawlands International](/tartans/s/sh/shawlands-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

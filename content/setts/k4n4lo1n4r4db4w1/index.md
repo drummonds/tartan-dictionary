@@ -6,6 +6,8 @@ This is the **Blackdown Hills Corporate Tartan** sett — one scale-free proport
 [KBYBRBW](/stripes/kbybrbw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Blackdown Hills](/tartans/b/bl/blackdown-hills/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Conservatoire of Scotland** sett — one scale-free proporti
 [BWYWBYBW](/stripes/bwywbybw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Royal Conservatoire of Scotland](/tartans/r/ro/royal-conservatoire-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

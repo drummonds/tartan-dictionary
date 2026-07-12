@@ -6,6 +6,8 @@ This is the **Roscommon Irish County Tartan** sett — one scale-free proportion
 [BGBGBYBRYR](/stripes/bgbgbybryr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Roscommon Irish County](/tartans/r/ro/roscommon-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

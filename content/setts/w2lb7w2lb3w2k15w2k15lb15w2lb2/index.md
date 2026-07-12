@@ -6,7 +6,7 @@ This is the **Clark (Clan)** sett — one scale-free proportion (`w2lb7w2lb3w2k1
 [WWWKWKWWWWW](/stripes/wwwkwkwwwww/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Clark](/tartans/clark-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Clark](/tartans/c/cl/clark-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

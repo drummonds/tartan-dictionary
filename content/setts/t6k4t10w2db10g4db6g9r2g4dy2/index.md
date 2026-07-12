@@ -7,6 +7,8 @@ This is the **O'Sullivan** sett — one scale-free proportion (`t6k4t10w2db10g4d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [O'Sullivan](/tartans/o/o/o-sullivan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

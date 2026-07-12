@@ -6,6 +6,8 @@ This is the **Drumlithie, Rock and Wheel** sett — one scale-free proportion (`
 [RBGRBGBRBGR](/stripes/rbgrbgbrbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Drumlithie, Rock and Wheel](/tartans/d/dr/drumlithie-rock-and-wheel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

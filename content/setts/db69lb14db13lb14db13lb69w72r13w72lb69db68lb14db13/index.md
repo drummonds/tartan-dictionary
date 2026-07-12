@@ -6,7 +6,7 @@ This is the **Poulter Sonic** sett — one scale-free proportion (`db69lb14db13l
 [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Poulter Sonic](/tartans/poulter-sonic/) tartan — the named design grouping this sett with its kin.
+Part of the [Poulter Sonic](/tartans/p/po/poulter-sonic/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

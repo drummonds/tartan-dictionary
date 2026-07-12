@@ -6,7 +6,7 @@ This is the **Loch Awe** sett — one scale-free proportion (`ly3k2r3db20k24g20r
 [WKRGKBRKY](/stripes/wkrgkbrky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Loch Awe](/tartans/loch-awe/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Awe](/tartans/l/lo/loch-awe/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

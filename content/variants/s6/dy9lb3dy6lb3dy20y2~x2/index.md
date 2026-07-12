@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oman Sultanate of.. Regimental"
+  url: "/tartans/o/om/oman-sultanate-of-regimental/"
 - name: "Oman Sultanate of.. Regimental Tartan"
   url: "/setts/dy9lb3dy6lb3dy20y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy9lb3dy6lb3dy20y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGWG](/stripes/ggwgwg/).
+
+Part of the [Oman Sultanate of.. Regimental](/tartans/o/om/oman-sultanate-of-regimental/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

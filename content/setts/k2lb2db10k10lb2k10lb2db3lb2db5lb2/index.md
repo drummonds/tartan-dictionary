@@ -6,7 +6,7 @@ This is the **Clergy Blue Tartan** sett — one scale-free proportion (`k2lb2db1
 [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Clergy](/tartans/clergy-8/) tartan — the named design grouping this sett with its kin.
+Part of the [Clergy](/tartans/c/cl/clergy-8/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

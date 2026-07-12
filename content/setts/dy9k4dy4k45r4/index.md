@@ -6,6 +6,8 @@ This is the **Gwynn (Name)** sett — one scale-free proportion (`dy9k4dy4k45r4`
 [GKGKR](/stripes/gkgkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Gwynn](/tartans/g/gw/gwynn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carson"
+  url: "/clan/carson/"
+- name: "Carson"
+  url: "/tartans/c/ca/carson/"
 - name: "Carson Red (Personal)"
   url: "/setts/lb19r2lb3r2lb3k43r22g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb19r2lb3r2lb3k43r22g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKWRWRW](/stripes/grkwrwrw/).
+
+Part of the [Carson](/tartans/c/ca/carson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

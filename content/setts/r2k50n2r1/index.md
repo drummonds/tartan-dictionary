@@ -6,6 +6,8 @@ This is the **Galloway Family** sett — one scale-free proportion (`r2k50n2r1`)
 [RBKR](/stripes/rbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Galloway](/tartans/g/ga/galloway-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clan Inebriated"
-  url: "/tartans/clan-inebriated/"
+  url: "/tartans/c/cl/clan-inebriated/"
 - name: "Clan Inebriated (Corporate)"
   url: "/setts/k75dp6n2k2n2dp6k12db2n2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k75dp6n2k2n2dp6k12db2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBKBBK](/stripes/bbkbbkbbk/).
 
-Part of the [Clan Inebriated](/tartans/clan-inebriated/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clan Inebriated](/tartans/c/cl/clan-inebriated/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

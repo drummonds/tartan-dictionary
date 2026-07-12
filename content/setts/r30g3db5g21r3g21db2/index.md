@@ -6,6 +6,8 @@ This is the **Scottish Piping Soc. of London (Corp** sett — one scale-free pro
 [BGRGBGR](/stripes/bgrgbgr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Scottish Piping Soc. of London (Corp](/tartans/s/sc/scottish-piping-soc-of-london-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

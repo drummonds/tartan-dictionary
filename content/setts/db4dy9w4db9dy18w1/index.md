@@ -6,7 +6,7 @@ This is the **WVU Mountaineer Tartan** sett — one scale-free proportion (`db4d
 [BGWBGW](/stripes/bgwbgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [WVU Mountaineer](/tartans/wvu-mountaineer/) tartan — the named design grouping this sett with its kin.
+Part of the [WVU Mountaineer](/tartans/w/wv/wvu-mountaineer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

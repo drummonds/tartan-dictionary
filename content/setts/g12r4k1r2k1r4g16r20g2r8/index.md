@@ -6,7 +6,7 @@ This is the **Livingstone #2** sett — one scale-free proportion (`g12r4k1r2k1r
 [GRKRKRGRGR](/stripes/grkrkrgrgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [Livingston](/tartans/livingston/) tartan — the named design grouping this sett with its kin.
+Part of the [Livingston](/tartans/l/li/livingston/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

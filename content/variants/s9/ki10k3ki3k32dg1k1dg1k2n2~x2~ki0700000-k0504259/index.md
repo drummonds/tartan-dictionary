@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orman"
+  url: "/tartans/o/or/orman/"
 - name: "Orman (Personal)"
   url: "/setts/ki10k3ki3k32dg1k1dg1k2n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ki10k3ki3k32dg1k1dg1k2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKKKK](/stripes/bkgkgkkkk/).
+
+Part of the [Orman](/tartans/o/or/orman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

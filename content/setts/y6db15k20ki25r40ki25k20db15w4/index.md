@@ -6,6 +6,8 @@ This is the **Highland Titles** sett — one scale-free proportion (`y6db15k20ki
 [GBKKRKKBW](/stripes/gbkkrkkbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Highland Titles](/tartans/h/hi/highland-titles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

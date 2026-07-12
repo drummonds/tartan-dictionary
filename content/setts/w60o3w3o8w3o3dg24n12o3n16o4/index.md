@@ -6,6 +6,8 @@ This is the **Ben Ledi (Fashion)** sett — one scale-free proportion (`w60o3w3o
 [RBRBGRWRWRW](/stripes/rbrbgrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Ben Ledi](/tartans/b/be/ben-ledi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

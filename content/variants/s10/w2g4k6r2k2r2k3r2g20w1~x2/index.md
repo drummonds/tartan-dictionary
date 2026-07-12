@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keirnan"
+  url: "/tartans/k/ke/keirnan/"
 - name: "Keirnan Irish Family Tartan"
   url: "/setts/w2g4k6r2k2r2k3r2g20w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2g4k6r2k2r2k3r2g20w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKRKRKRGW](/stripes/wgkrkrkrgw/).
+
+Part of the [Keirnan](/tartans/k/ke/keirnan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

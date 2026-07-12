@@ -6,6 +6,8 @@ This is the **Titanic (Belfast)** sett — one scale-free proportion (`r1w4n2w4l
 [RWBWYKYKYGYRY](/stripes/rwbwykykygyry/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Titanic](/tartans/t/ti/titanic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

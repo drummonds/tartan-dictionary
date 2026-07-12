@@ -6,7 +6,7 @@ This is the **Junior Chamber International** sett — one scale-free proportion 
 [GBGBKGR](/stripes/gbgbkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Junior Chamber International](/tartans/junior-chamber-international-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Junior Chamber International](/tartans/j/ju/junior-chamber-international-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

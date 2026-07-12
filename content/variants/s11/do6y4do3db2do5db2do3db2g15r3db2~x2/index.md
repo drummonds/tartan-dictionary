@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Limerick"
+  url: "/tartans/l/li/limerick/"
+- name: "Limerick"
   url: "/setts/do6y4do3db2do5db2do3db2g15r3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do6y4do3db2do5db2do3db2g15r3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBGRB](/stripes/bgbbbbbbgrb/).
+
+Part of the [Limerick](/tartans/l/li/limerick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

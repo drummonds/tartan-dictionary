@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bro-Spirit of Northmen"
+  url: "/tartans/b/br/bro-spirit-of-northmen/"
 - name: "Bro-Spirit of Northmen (Corporate)"
   url: "/setts/dr3k1t27k27w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3k1t27k27w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKW](/stripes/bkbkw/).
+
+Part of the [Bro-Spirit of Northmen](/tartans/b/br/bro-spirit-of-northmen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -7,6 +7,8 @@ This is the **Argentina** sett — one scale-free proportion (`db5w3db33k3db3k36
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
+Part of the [Argentina](/tartans/a/ar/argentina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

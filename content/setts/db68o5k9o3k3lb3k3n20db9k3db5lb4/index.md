@@ -6,6 +6,8 @@ This is the **British Caledonian Airways #1** sett — one scale-free proportion
 [BRKRKWKBBKBW](/stripes/brkrkwkbbkbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [British Caledonian Airways](/tartans/b/br/british-caledonian-airways-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

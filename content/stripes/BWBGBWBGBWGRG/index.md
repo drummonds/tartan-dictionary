@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/">Holiday Inn Crown Plaza</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/"><img src="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/sett.png" alt="Holiday Inn Crown Plaza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/">Holiday Inn Crown Plaza</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/"><img src="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/sett.png" alt="Holiday Inn Crown Plaza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/">Holiday Inn Crown Plaza</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/"><img src="/variants/s13/g27r2g3w3db3y2db14w2db3y3db3w2db14~x2/sett.png" alt="Holiday Inn Crown Plaza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

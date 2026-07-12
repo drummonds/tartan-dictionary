@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eidart Scotch House"
+  url: "/tartans/e/ei/eidart-scotch-house/"
 - name: "Eidart Scotch House Trade Tartan"
   url: "/setts/n4w2n2w3n20db6r3db2r2db2r17db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4w2n2w3n20db6r3db2r2db2r17db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/).
+
+Part of the [Eidart Scotch House](/tartans/e/ei/eidart-scotch-house/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

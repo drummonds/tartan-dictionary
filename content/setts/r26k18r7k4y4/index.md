@@ -6,6 +6,8 @@ This is the **Haig & Haig Whisky** sett — one scale-free proportion (`r26k18r7
 [KRKGKRKR](/stripes/krkgkrkr/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Haig](/tartans/h/ha/haig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

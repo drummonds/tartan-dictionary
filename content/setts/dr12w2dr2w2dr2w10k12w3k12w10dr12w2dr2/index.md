@@ -6,6 +6,8 @@ This is the **Red, White, Blue Watch (Dance)** sett — one scale-free proportio
 [BWBWBWKWKWBWB](/stripes/bwbwbwkwkwbwb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Red, White, Blue Watch](/tartans/r/re/red-white-blue-watch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

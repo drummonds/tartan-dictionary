@@ -6,6 +6,8 @@ This is the **Falkirk** sett — one scale-free proportion (`k4lb4k2lb4k2lb22ly2
 [KWKWKWYGR](/stripes/kwkwkwygr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Falkirk](/tartans/f/fa/falkirk-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

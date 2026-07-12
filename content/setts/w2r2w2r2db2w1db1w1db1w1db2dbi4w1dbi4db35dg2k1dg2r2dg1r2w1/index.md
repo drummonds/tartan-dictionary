@@ -6,6 +6,8 @@ This is the **ASF Official (Corporate)** sett — one scale-free proportion (`w2
 [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [ASF Official](/tartans/a/as/asf-official/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

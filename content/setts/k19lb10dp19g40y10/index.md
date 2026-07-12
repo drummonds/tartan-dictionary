@@ -6,6 +6,8 @@ This is the **Gallowater Old District Tartan** sett — one scale-free proportio
 [GGBWK](/stripes/ggbwk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Gala Water Old](/tartans/g/ga/gala-water-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

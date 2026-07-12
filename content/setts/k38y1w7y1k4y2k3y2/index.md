@@ -6,6 +6,8 @@ This is the **Erck, Georges van (Personal),** sett — one scale-free proportion
 [GKGKGWGK](/stripes/gkgkgwgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Erck, Georges van](/tartans/e/er/erck-georges-van/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

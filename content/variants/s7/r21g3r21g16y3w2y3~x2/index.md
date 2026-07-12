@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Claus"
+  url: "/clan/claus/"
+- name: "Claus of the North Pole"
+  url: "/families/claus-of-the-north-pole/"
+- name: "Claus of the North Pole"
+  url: "/tartans/c/cl/claus-of-the-north-pole/"
 - name: "Claus of the North Pole (Restricted)"
   url: "/setts/r21g3r21g16y3w2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r21g3r21g16y3w2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGRGR](/stripes/gwggrgr/).
+
+Part of the [Claus of the North Pole](/tartans/c/cl/claus-of-the-north-pole/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

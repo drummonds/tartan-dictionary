@@ -6,7 +6,7 @@ This is the **Afternoon Tea / Earl Grey** sett — one scale-free proportion (`r
 [RWBYBW](/stripes/rwbybw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Afternoon Tea / Earl](/tartans/afternoon-tea-earl/) tartan — the named design grouping this sett with its kin.
+Part of the [Afternoon Tea / Earl](/tartans/a/af/afternoon-tea-earl/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

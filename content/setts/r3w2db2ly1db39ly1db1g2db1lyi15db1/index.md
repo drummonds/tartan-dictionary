@@ -6,6 +6,8 @@ This is the **Bartlett of El Paso (Name)** sett — one scale-free proportion (`
 [BYBGBYBYBWR](/stripes/bybgbybybwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bartlett of El Paso](/tartans/b/ba/bartlett-of-el-paso/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Daks (0600150)** sett — one scale-free proportion (`r5dt12g3db4g
 [RBGBGBGR](/stripes/rbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Daks](/tartans/d/da/daks-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

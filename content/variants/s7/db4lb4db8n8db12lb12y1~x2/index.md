@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "von Prondzynski"
+  url: "/tartans/v/vo/von-prondzynski/"
 - name: "von Prondzynski (2016)"
   url: "/setts/db4lb4db8n8db12lb12y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb4db8n8db12lb12y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBWG](/stripes/bwbbbwg/).
+
+Part of the [von Prondzynski](/tartans/v/vo/von-prondzynski/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

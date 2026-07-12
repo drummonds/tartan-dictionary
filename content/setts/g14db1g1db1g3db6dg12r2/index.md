@@ -6,6 +6,8 @@ This is the **Cranstoun Clan Tartan** sett — one scale-free proportion (`g14db
 [GBGBGBGR](/stripes/gbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Cranstoun](/tartans/c/cr/cranstoun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

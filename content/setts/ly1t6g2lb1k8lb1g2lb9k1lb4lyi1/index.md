@@ -6,6 +6,8 @@ This is the **Tiree** sett — one scale-free proportion (`ly1t6g2lb1k8lb1g2lb9k
 [YBGWKWGWKWY](/stripes/ybgwkwgwkwy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tiree](/tartans/t/ti/tiree-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

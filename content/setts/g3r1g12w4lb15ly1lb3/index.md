@@ -6,6 +6,8 @@ This is the **Postcode Lottery** sett — one scale-free proportion (`g3r1g12w4l
 [GRGWWYW](/stripes/grgwwyw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Postcode Lottery](/tartans/p/po/postcode-lottery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

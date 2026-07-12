@@ -7,7 +7,7 @@ This is the **Oliphant Dress (Clan)** sett — one scale-free proportion (`w25lb
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2010**.
 
-Part of the [Oliphant Dress](/tartans/oliphant-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Oliphant Dress](/tartans/o/ol/oliphant-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

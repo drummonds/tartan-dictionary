@@ -6,6 +6,8 @@ This is the **South Carolina, University of** sett — one scale-free proportion
 [BWBKBWKBWB](/stripes/bwbkbwkbwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [South Carolina, University of](/tartans/s/so/south-carolina-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

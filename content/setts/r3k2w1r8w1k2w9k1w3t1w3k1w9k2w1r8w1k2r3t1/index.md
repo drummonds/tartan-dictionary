@@ -6,6 +6,8 @@ This is the **MacRae Dress Red Fancy Tartan** sett — one scale-free proportion
 [BRKWRWKWKWBWKWKWRWKR](/stripes/brkwrwkwkwbwkwkwrwkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacRae Dress Red Fancy](/tartans/m/ma/macrae-dress-red-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

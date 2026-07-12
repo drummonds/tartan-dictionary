@@ -6,6 +6,8 @@ This is the **Crozier/Crosser** sett — one scale-free proportion (`w4db5r3db22
 [WBRBYKGRKRY](/stripes/wbrbykgrkry/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Crozier](/tartans/c/cr/crozier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Ailsa Red** sett — one scale-free proportion (`r8dr3r28w32dr3w4`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Ailsa](/tartans/a/ai/ailsa-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

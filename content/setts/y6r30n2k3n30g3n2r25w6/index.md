@@ -6,6 +6,8 @@ This is the **Virginia Military Institute, New Market** sett — one scale-free 
 [GRBKBGBRW](/stripes/grbkbgbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Virginia Military Institute, New Market](/tartans/v/vi/virginia-military-institute-new-market/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

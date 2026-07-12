@@ -6,6 +6,8 @@ This is the **Crane of Cluny Mourning** sett — one scale-free proportion (`k83
 [GKWRWKWK](/stripes/gkwrwkwk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Crane of Cluny Mourning](/tartans/c/cr/crane-of-cluny-mourning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

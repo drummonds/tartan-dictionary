@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Colgan, USA, Robert James"
+  url: "/tartans/c/co/colgan-usa-robert-james/"
+- name: "Colgan, USA, Robert James"
   url: "/setts/r7db2b5db2k24db2b10db28b10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r7db2b5db2k24db2b10db28b10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBKBBBBW](/stripes/rbbbkbbbbw/).
+
+Part of the [Colgan, USA, Robert James](/tartans/c/co/colgan-usa-robert-james/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -9,12 +9,16 @@ crumbs:
   url: "/groups/military/"
 - name: "Black Watch"
   url: "/groups/military/black-watch/"
+- name: "Black Watch Regimental"
+  url: "/tartans/b/bl/black-watch-regimental/"
 - name: "Black Watch Regimental Tartan"
   url: "/setts/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
+
+Part of the [Black Watch Regimental](/tartans/b/bl/black-watch-regimental/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

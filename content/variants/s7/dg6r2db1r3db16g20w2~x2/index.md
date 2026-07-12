@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCord / McCord"
+  url: "/tartans/m/ma/maccord-mccord/"
 - name: "MacCord / McCord (Personal)"
   url: "/setts/dg6r2db1r3db16g20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg6r2db1r3db16g20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBGW](/stripes/grbrbgw/).
+
+Part of the [MacCord / McCord](/tartans/m/ma/maccord-mccord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

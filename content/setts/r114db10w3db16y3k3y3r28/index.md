@@ -6,7 +6,7 @@ This is the **Inverness #2** sett — one scale-free proportion (`r114db10w3db16
 [RBWBGKGR](/stripes/rbwbgkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Inverness](/tartans/inverness/) tartan — the named design grouping this sett with its kin.
+Part of the [Inverness](/tartans/i/in/inverness/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Louisburg Canadian District Tartan** sett — one scale-free propo
 [BGWK](/stripes/bgwk/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Louisburg](/tartans/l/lo/louisburg-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hallstatt (Artefact)** sett — one scale-free proportion (`g16dy3
 [GGG](/stripes/ggg/). It is recorded as a single **variant**, below.
 First attested **~400 BCE**.
 
+Part of the [Hallstatt](/tartans/h/ha/hallstatt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

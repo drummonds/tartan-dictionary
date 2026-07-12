@@ -6,6 +6,8 @@ This is the **Unidentified Plaid #13** sett — one scale-free proportion (`n126
 [BBGBGBGBGBGBGBGBGBGBGRB](/stripes/bbgbgbgbgbgbgbgbgbgbgrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-14/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

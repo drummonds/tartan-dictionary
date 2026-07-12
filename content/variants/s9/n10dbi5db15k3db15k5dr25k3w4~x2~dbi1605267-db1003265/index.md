@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galway County, Crest Range"
+  url: "/tartans/g/ga/galway-county-crest-range/"
+- name: "Galway County, Crest Range"
   url: "/setts/n10dbi5db15k3db15k5dr25k3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n10dbi5db15k3db15k5dr25k3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBKBKW](/stripes/bbbkbkbkw/).
+
+Part of the [Galway County, Crest Range](/tartans/g/ga/galway-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

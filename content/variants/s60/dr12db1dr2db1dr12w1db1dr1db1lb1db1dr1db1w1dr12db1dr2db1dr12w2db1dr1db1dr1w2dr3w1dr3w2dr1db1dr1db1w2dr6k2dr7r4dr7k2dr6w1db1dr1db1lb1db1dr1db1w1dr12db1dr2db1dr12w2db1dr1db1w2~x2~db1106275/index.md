@@ -9,12 +9,16 @@ crumbs:
   url: "/groups/ancient/"
 - name: "Tarim Basin"
   url: "/groups/ancient/tarim-basin/"
+- name: "Takla Makan"
+  url: "/tartans/t/ta/takla-makan-2/"
 - name: "Takla Makan (Artefact)"
   url: "/setts/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBWBBBWBBBWBBBBBWBBBBWBWBWBBBBWBKBRBKBWBBBWBBBWBBBBBWBBBW](/stripes/bbbbbwbbbwbbbwbbbbbwbbbbwbwbwbbbbwbkbrbkbwbbbwbbbwbbbbbwbbbw/).
+
+Part of the [Takla Makan](/tartans/t/ta/takla-makan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [60 stripe tartan](/stripes/stripes60/).
 

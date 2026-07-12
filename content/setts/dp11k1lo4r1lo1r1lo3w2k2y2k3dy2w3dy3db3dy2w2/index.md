@@ -6,7 +6,7 @@ This is the **York Puppet Tartan** sett — one scale-free proportion (`dp11k1lo
 [BKYRYRYWKGKGWGBGW](/stripes/bkyryrywkgkgwgbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [York Puppet](/tartans/york-puppet/) tartan — the named design grouping this sett with its kin.
+Part of the [York Puppet](/tartans/y/yo/york-puppet/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

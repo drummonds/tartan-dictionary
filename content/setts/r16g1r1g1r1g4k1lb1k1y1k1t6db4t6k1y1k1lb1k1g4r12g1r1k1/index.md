@@ -6,7 +6,7 @@ This is the **Macan of Lurgyvallan** sett — one scale-free proportion (`r16g1r
 [KRGRGKWKGKBBBKGKWKGRGRGR](/stripes/krgrgkwkgkbbbkgkwkgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [MacAn of Lurgyvallan](/tartans/macan-of-lurgyvallan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAn of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

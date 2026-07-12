@@ -6,6 +6,8 @@ This is the **Parker Black (2009)** sett — one scale-free proportion (`k30r3db
 [KRBGKWBBRGKBWK](/stripes/krbgkwbbrgkbwk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Parker](/tartans/p/pa/parker-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

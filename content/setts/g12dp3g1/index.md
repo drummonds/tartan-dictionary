@@ -6,7 +6,7 @@ This is the **Elphinstone** sett — one scale-free proportion (`g12dp3g1`), col
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Elphinstone](/tartans/elphinstone/) tartan — the named design grouping this sett with its kin.
+Part of the [Elphinstone](/tartans/e/el/elphinstone/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

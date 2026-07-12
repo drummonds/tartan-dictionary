@@ -6,6 +6,8 @@ This is the **Smith of Pennylands** sett — one scale-free proportion (`dt30dg3
 [BGBRBGBYBYBGBGBGBYBY](/stripes/bgbrbgbybybgbgbgbyby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Smith of Pennylands](/tartans/s/sm/smith-of-pennylands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

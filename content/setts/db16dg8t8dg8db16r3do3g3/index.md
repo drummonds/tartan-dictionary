@@ -6,7 +6,7 @@ This is the **Glen Erin** sett — one scale-free proportion (`db16dg8t8dg8db16r
 [BGBGBRBG](/stripes/bgbgbrbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Glen Erin](/tartans/glen-erin/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Erin](/tartans/g/gl/glen-erin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

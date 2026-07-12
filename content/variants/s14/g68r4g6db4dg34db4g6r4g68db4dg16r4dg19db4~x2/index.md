@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "ASDA Wal-Mart"
+  url: "/tartans/a/as/asda-wal-mart/"
+- name: "ASDA Wal-Mart"
   url: "/setts/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBGRGBGBGRG](/stripes/bgrgbgrgbgbgrg/).
+
+Part of the [ASDA Wal-Mart](/tartans/a/as/asda-wal-mart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

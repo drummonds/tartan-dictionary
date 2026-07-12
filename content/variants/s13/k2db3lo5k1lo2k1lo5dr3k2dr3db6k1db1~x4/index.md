@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Franklin"
+  url: "/tartans/f/fr/franklin-2/"
 - name: "Franklin (District)"
   url: "/setts/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKBYKYKYBK](/stripes/bkbbkbykykybk/).
+
+Part of the [Franklin](/tartans/f/fr/franklin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

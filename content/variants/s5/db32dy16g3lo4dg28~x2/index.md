@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Corey in Balachuirn"
+  url: "/tartans/c/co/corey-in-balachuirn/"
+- name: "Corey in Balachuirn"
   url: "/setts/db32dy16g3lo4dg28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db32dy16g3lo4dg28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYG](/stripes/bggyg/).
+
+Part of the [Corey in Balachuirn](/tartans/c/co/corey-in-balachuirn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

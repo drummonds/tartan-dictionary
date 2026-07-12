@@ -6,6 +6,8 @@ This is the **Port Moresby City Pipes & Drums** sett — one scale-free proporti
 [GWKGR](/stripes/gwkgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Port Moresby City](/tartans/p/po/port-moresby-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

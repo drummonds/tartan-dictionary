@@ -6,6 +6,8 @@ This is the **Williams Lake, City of** sett — one scale-free proportion (`y6k1
 [GKGGWBKBBWBBKBWGGK](/stripes/gkggwbkbbwbbkbwggk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [City of Williams Lake](/tartans/c/ci/city-of-williams-lake/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

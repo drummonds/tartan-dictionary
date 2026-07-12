@@ -6,6 +6,8 @@ This is the **Johore** sett — one scale-free proportion (`n57w5g20n5lo10`), co
 [BWGBYBGW](/stripes/bwgbybgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Johore](/tartans/j/jo/johore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

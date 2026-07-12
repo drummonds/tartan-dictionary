@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Muir-Hill"
+  url: "/tartans/m/mu/muir-hill/"
 - name: "Muir-Hill (Personal)"
   url: "/setts/w2k2r1db20k15dg30ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k2r1db20k15dg30ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRBKGY](/stripes/wkrbkgy/).
+
+Part of the [Muir-Hill](/tartans/m/mu/muir-hill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

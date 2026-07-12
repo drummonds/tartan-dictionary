@@ -6,6 +6,8 @@ This is the **Westgate Fashion Tartan** sett — one scale-free proportion (`g14
 [GGKG](/stripes/ggkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Westgate](/tartans/w/we/westgate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

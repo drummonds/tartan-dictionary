@@ -6,6 +6,8 @@ This is the **Gillies Red Dress** sett — one scale-free proportion (`ly6k2r12d
 [WWWWKRGRKY](/stripes/wwwwkrgrky/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Gillies Red Dress](/tartans/g/gi/gillies-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

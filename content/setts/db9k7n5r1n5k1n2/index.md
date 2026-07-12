@@ -6,6 +6,8 @@ This is the **Greyhound Grenadiers #2** sett — one scale-free proportion (`db9
 [BKBRBKBKBRBK](/stripes/bkbrbkbkbrbk/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Greyhound Grenadiers](/tartans/g/gr/greyhound-grenadiers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

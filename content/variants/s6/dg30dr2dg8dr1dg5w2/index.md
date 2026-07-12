@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dewi Sant"
+  url: "/tartans/d/de/dewi-sant/"
+- name: "Dewi Sant"
   url: "/setts/dg30dr2dg8dr1dg5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30dr2dg8dr1dg5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGW](/stripes/gbgbgw/).
+
+Part of the [Dewi Sant](/tartans/d/de/dewi-sant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Campbell of Cawdor Dress (Clan)** sett — one scale-free proporti
 [BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWBWBWBWKBKRKBKGKBKGKWBWBWBWBWKGKBKGK](/stripes/bkgkbkgkwbwbwbwbwkgkbkgkbkrkbkwbwbwbwbwbwkbkrkbkgkbkgkwbwbwbwbwkgkbkgk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Campbell of Cawdor Dress](/tartans/c/ca/campbell-of-cawdor-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

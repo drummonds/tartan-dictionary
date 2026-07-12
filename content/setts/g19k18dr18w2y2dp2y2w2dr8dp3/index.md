@@ -6,7 +6,7 @@ This is the **McMuldroch (2014)** sett — one scale-free proportion (`g19k18dr1
 [BBWGBGWBKG](/stripes/bbwgbgwbkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [McMuldroch](/tartans/mcmuldroch/) tartan — the named design grouping this sett with its kin.
+Part of the [McMuldroch](/tartans/m/mc/mcmuldroch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

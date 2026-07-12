@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonald Lord of the Isles"
+  url: "/tartans/m/ma/macdonald-lord-of-the-isles-2/"
+- name: "MacDonald Lord of the Isles"
   url: "/setts/g24w1g2w2db2w1db1w1db2w2db2w1db12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g24w1g2w2db2w1db1w1db2w2db2w1db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
+
+Part of the [MacDonald Lord of the Isles](/tartans/m/ma/macdonald-lord-of-the-isles-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

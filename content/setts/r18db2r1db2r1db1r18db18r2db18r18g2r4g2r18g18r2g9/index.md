@@ -6,7 +6,7 @@ This is the **MacTier of Durris** sett — one scale-free proportion (`r18db2r1d
 [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
-Part of the [MacTier of Durris](/tartans/mactier-of-durris/) tartan — the named design grouping this sett with its kin.
+Part of the [MacTier of Durris](/tartans/m/ma/mactier-of-durris/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

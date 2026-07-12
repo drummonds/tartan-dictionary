@@ -6,6 +6,8 @@ This is the **MacDonald of Glencoe (Dance)** sett — one scale-free proportion 
 [BBBGBBBWBBRB](/stripes/bbbgbbbwbbrb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.112"
+  url: "/tartans/w/wi/wilson-s-no-112/"
 - name: "Wilson's No.112 (Blue)"
   url: "/setts/dg12k14db11r3db3r3db11k14dg12y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12k14db11r3db3r3db11k14dg12y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBRBRBKG](/stripes/ggkbrbrbkg/).
+
+Part of the [Wilson's No.112](/tartans/w/wi/wilson-s-no-112/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

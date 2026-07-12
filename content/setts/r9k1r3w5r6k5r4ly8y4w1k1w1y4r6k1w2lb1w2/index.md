@@ -6,7 +6,7 @@ This is the **Jacobite Old Sett** sett — one scale-free proportion (`r9k1r3w5r
 [RKRWRKRYGWKWGRKWWW](/stripes/rkrwrkrygwkwgrkwww/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Jacobite Old Sett](/tartans/jacobite-old-sett/) tartan — the named design grouping this sett with its kin.
+Part of the [Jacobite Old Sett](/tartans/j/ja/jacobite-old-sett/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

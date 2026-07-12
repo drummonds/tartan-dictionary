@@ -6,6 +6,8 @@ This is the **Ayrton of Laoch (Personal)** sett — one scale-free proportion (`
 [RBGBGBGGGR](/stripes/rbgbgbgggr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Ayrton of Laoch](/tartans/a/ay/ayrton-of-laoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

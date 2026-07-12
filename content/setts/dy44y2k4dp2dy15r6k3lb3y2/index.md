@@ -6,6 +6,8 @@ This is the **Inches of Perth** sett — one scale-free proportion (`dy44y2k4dp2
 [GGKBGRKWGWKRGBKG](/stripes/ggkbgrkwgwkrgbkg/). It is recorded as a single **variant**, below.
 First attested **1920**.
 
+Part of the [Inches of Perth](/tartans/i/in/inches-of-perth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

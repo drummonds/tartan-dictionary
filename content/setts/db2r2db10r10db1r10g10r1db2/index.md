@@ -6,6 +6,8 @@ This is the **Fraser (Wilson 1820)** sett — one scale-free proportion (`db2r2d
 [BRBRBRGRB](/stripes/brbrbrgrb/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Fraser](/tartans/f/fr/fraser-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

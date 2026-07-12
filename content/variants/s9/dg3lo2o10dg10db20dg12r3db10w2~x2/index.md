@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Patel"
-  url: "/tartans/patel/"
+  url: "/tartans/p/pa/patel/"
 - name: "Patel Name Tartan"
   url: "/setts/dg3lo2o10dg10db20dg12r3db10w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg3lo2o10dg10db20dg12r3db10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRGBGRBW](/stripes/gyrgbgrbw/).
 
-Part of the [Patel](/tartans/patel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Patel](/tartans/p/pa/patel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

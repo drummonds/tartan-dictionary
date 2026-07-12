@@ -6,6 +6,8 @@ This is the **Currens (2016)** sett — one scale-free proportion (`g27dp20r9db1
 [BBRBG](/stripes/bbrbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Currens](/tartans/c/cu/currens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

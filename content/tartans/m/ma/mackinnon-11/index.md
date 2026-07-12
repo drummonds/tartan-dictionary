@@ -1,0 +1,40 @@
+---
+title: "MacKinnon 11"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+---
+A tartan of [Clan MacKinnon](/clan/mackinnon/).
+Its design is pattern [RGRW](/stripes/rgrw/) — the page of every tartan sharing this colour sequence.
+
+The **MacKinnon 11** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r3g20r25w3/">MacKinnon 11</a></td><td><code>R/12 G80 R100 W/12</code></td><td>384</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g20r25w3/"><img src="/variants/s4/r3g20r25w3~x4/sett.png" alt="MacKinnon 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacKinnon #6
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">384</div><div class="nn-name nn-base"><a href="/variants/s4/r3g20r25w3~x4/">MacKinnon 11</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/r3g20r25w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g7r9y1~x4&amp;base=r3g20r25w3~x4" title="compare in the TTD">0.39</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s4/r1g7r9y1~x4/">Bryce Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r1g7r9y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r17g9r2~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.09</a></div><div class="nn-threads">74</div><div class="nn-name"><a href="/variants/s3/r17g9r2~x2/">MacGregor of Glenstrae #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r17g9r2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16r5g2r18k2~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.49</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s5/g16r5g2r18k2~x2/">MacDonald, Lord of The Isles (Artef)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g16r5g2r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16r5g2r18k2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.49</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s5/g16r5g2r18k2/">MacDonald of Sleat</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g16r5g2r18k2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g7r3g1r9k1~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.49</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s5/g7r3g1r9k1~x2/">MacDonald of Sleat</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g7r3g1r9k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg24r3dg16r33w4&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.50</a></div><div class="nn-threads">132</div><div class="nn-name"><a href="/variants/s5/dg24r3dg16r33w4/">Unidentified Plaid #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg24r3dg16r33w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g5w1lb2r5~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.55</a></div><div class="nn-threads">52</div><div class="nn-name"><a href="/variants/s5/r5g5w1lb2r5~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r5g5w1lb2r5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r22g17w2lb6r13~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.56</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s5/r22g17w2lb6r13~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r22g17w2lb6r13~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8r2g9r16w1~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.57</a></div><div class="nn-threads">126</div><div class="nn-name"><a href="/variants/s5/g8r2g9r16w1~x2/">MacGregor of Balquhidder</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g8r2g9r16w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r22g17w2lg6r19~x2&amp;base=r3g20r25w3~x4" title="compare in the TTD">1.61</a></div><div class="nn-threads">182</div><div class="nn-name"><a href="/variants/s5/r22g17w2lg6r19~x2/">Menzies #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r22g17w2lg6r19~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.2" cy="258.0" r="4" fill="#3465a4"><title>Bryce Family Tartan</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.6" cy="295.3" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.9" cy="221.0" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><a href="/variants/s5/g16r5g2r18k2/"><circle cx="315.9" cy="221.0" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.1" cy="222.3" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="316.8" cy="233.7" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.8" cy="278.2" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/g8r2g9r16w1~x2/"><circle cx="360.3" cy="228.3" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.5" cy="235.7" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><circle cx="350.4" cy="253.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

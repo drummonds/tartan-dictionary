@@ -6,6 +6,8 @@ This is the **Otago Peninsula** sett — one scale-free proportion (`dg4w1b4dr4k
 [BKBKBKBKBBWG](/stripes/bkbkbkbkbbwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Otago Peninsula](/tartans/o/ot/otago-peninsula/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

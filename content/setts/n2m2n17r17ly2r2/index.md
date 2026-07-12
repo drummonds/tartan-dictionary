@@ -6,6 +6,8 @@ This is the **Cypress** sett — one scale-free proportion (`n2m2n17r17ly2r2`), 
 [BRBRYR](/stripes/brbryr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Cypress](/tartans/c/cy/cypress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

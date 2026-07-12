@@ -6,6 +6,8 @@ This is the **Hibernian F.C.** sett — one scale-free proportion (`dp3dg6k9g11w
 [BGKGWGWGKGB](/stripes/bgkgwgwgkgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hibernian F.C.](/tartans/h/hi/hibernian-f-c-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

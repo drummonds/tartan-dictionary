@@ -1,0 +1,43 @@
+---
+title: "Denny Hunting"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BBGKGK](/stripes/bbgkgk/) — the page of every tartan sharing this colour sequence.
+
+Hunting variant remarkably similar to Wilson's of Bannockburn's Durham sett (c.1819), proportions possibly modified via name links.
+
+The **Denny Hunting** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k4g5k2g5dr17db2/">Denny Hunting</a> ★</td><td><code>K/8 G10 K4 G10 DR34 DB/4</code></td><td>128</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4g5k2g5dr17db2/"><img src="/variants/s6/k4g5k2g5dr17db2~x2/sett.png" alt="Denny Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k1g6k1g6r16db1/">Denny, hunting</a></td><td><code>K/2 G12 K2 G12 R32 DB/2</code></td><td>120</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1g6k1g6r16db1/"><img src="/variants/s6/k1g6k1g6r16db1~x2/sett.png" alt="Denny, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Denny Htg
+- Denny, hunting
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">128</div><div class="nn-name nn-base"><a href="/variants/s6/k4g5k2g5dr17db2~x2/">Denny Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k4g5k2g5dr17db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g25o3k15r24g3~x2&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">1.39</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s6/k3g25o3k15r24g3~x2/">Un-named (D C Dalgliesh) #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g25o3k15r24g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lr4k13g6dr16lb2dr2g2~x2~lr3200000-lb3103284&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/">Caledonian Brewery Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4dr28db6g10k10g3~x2&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">1.98</a></div><div class="nn-threads">230</div><div class="nn-name"><a href="/variants/s6/g4dr28db6g10k10g3~x2/">Canadian Autumn</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4dr28db6g10k10g3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do2o11do2k11do16w2~x4&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">1.98</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s6/do2o11do2k11do16w2~x4/">Portrait, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/do2o11do2k11do16w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3y18g6r17k31g3~x2&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s6/k3y18g6r17k31g3~x2/">MacMillan Varient (Unidentified)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3y18g6r17k31g3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3ly18g6dr17k31g3~x2&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s6/k3ly18g6dr17k31g3~x2/">MacMillan - 2002 (Black - Unofficial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3ly18g6dr17k31g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3k15dr8g2n8k2~x4&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s6/g3k15dr8g2n8k2~x4/">Lindsay Htg (Clan?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3k15dr8g2n8k2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3k15r8g2n8k2~x4&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s6/g3k15r8g2n8k2~x4/">Thompson Black (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3k15r8g2n8k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3w3k3dg10r1~x6&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s5/k3w3k3dg10r1~x6/">Burberry Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3w3k3dg10r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3dr22lb5g10k10g2~x2&amp;base=k4g5k2g5dr17db2~x2" title="compare in the TTD">2.15</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s6/g3dr22lb5g10k10g2~x2/">Strathspey (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3dr22lb5g10k10g2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.8" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="139.2" cy="180.9" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="224.4" cy="204.1" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s6/do2o11do2k11do16w2~x4/"><circle cx="205.0" cy="209.4" r="4" fill="#3465a4"><title>Portrait, The</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.0" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="163.1" cy="189.5" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.7" cy="214.2" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.8" cy="204.8" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.4" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.4" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><circle cx="239.7" cy="200.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

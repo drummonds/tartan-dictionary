@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Choinka"
+  url: "/tartans/c/ch/choinka-2/"
 - name: "Choinka Family (Personal)"
   url: "/setts/dy4k2lo3k2dy7k9g20k2lb3k2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4k2lo3k2dy7k9g20k2lb3k2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKGKYKG](/stripes/gkwkgkgkykg/).
+
+Part of the [Choinka](/tartans/c/ch/choinka-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

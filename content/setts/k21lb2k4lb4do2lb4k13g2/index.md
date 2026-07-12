@@ -6,6 +6,8 @@ This is the **Anzac (Fashion)** sett — one scale-free proportion (`k21lb2k4lb4
 [GKWBWKWK](/stripes/gkwbwkwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Anzac](/tartans/a/an/anzac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

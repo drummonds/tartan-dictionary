@@ -6,7 +6,7 @@ This is the **North West Mounted Police Corporate Tartan** sett — one scale-fr
 [RBWGWGRBRGWWBRGW](/stripes/rbwgwgrbrgwwbrgw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
-Part of the [North West Mounted Police](/tartans/north-west-mounted-police-2/) tartan — the named design grouping this sett with its kin.
+Part of the [North West Mounted Police](/tartans/n/no/north-west-mounted-police-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

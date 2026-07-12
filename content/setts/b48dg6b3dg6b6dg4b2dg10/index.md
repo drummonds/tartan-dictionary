@@ -6,6 +6,8 @@ This is the **Lochleven (Dance)** sett — one scale-free proportion (`b48dg6b3d
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Lochleven](/tartans/l/lo/lochleven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

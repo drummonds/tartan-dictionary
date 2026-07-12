@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mitchell, Cameron"
+  url: "/tartans/m/mi/mitchell-cameron/"
 - name: "Mitchell, Cameron (Personal)"
   url: "/setts/k16dg32k8n4dr11n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16dg32k8n4dr11n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGK](/stripes/bbbkgk/).
+
+Part of the [Mitchell, Cameron](/tartans/m/mi/mitchell-cameron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

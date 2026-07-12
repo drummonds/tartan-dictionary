@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guzzo Dress"
+  url: "/tartans/g/gu/guzzo-dress-2/"
 - name: "Guzzo Dress (Personal)"
   url: "/setts/w20k2w20lo5k3w3lo4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w20k2w20lo5k3w3lo4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYWKYWKW](/stripes/kywkywkw/).
+
+Part of the [Guzzo Dress](/tartans/g/gu/guzzo-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

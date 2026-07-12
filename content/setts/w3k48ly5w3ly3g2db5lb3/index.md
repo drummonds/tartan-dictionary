@@ -6,6 +6,8 @@ This is the **Pavelka Limited** sett — one scale-free proportion (`w3k48ly5w3l
 [WBGYWYKW](/stripes/wbgywykw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Pavelka Limited](/tartans/p/pa/pavelka-limited/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

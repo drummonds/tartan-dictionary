@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunbarton Weft"
+  url: "/tartans/d/du/dunbarton-weft/"
+- name: "Dunbarton Weft"
   url: "/setts/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGWGWKWRW](/stripes/wkwgwgwkwrw/).
+
+Part of the [Dunbarton Weft](/tartans/d/du/dunbarton-weft/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

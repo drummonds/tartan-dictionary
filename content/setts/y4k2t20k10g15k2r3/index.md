@@ -6,6 +6,8 @@ This is the **Green MacLeod** sett — one scale-free proportion (`y4k2t20k10g15
 [GKBKGKR](/stripes/gkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Green MacLeod](/tartans/g/gr/green-macleod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mayhew"
+  url: "/tartans/m/ma/mayhew/"
 - name: "Mayhew (Personal)"
   url: "/setts/k6g3k3g28t4g4t10g4t4g4t24g5w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6g3k3g28t4g4t10g4t4g4t24g5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBGBGBGBGW](/stripes/kgkgbgbgbgbgw/).
+
+Part of the [Mayhew](/tartans/m/ma/mayhew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

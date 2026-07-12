@@ -6,6 +6,8 @@ This is the **Emond, Kenneth (Personal)** sett — one scale-free proportion (`d
 [BBGBB](/stripes/bbgbb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Emond, Kenneth](/tartans/e/em/emond-kenneth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

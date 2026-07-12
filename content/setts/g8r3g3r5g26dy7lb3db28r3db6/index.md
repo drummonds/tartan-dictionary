@@ -6,7 +6,7 @@ This is the **Stewart of Appin Hunting** sett — one scale-free proportion (`g8
 [GRGRGGWBRBRBWGGRGR](/stripes/grgrggwbrbrbwggrgr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
-Part of the [Stewart of Appin Hunting](/tartans/stewart-of-appin-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Appin Hunting](/tartans/s/st/stewart-of-appin-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

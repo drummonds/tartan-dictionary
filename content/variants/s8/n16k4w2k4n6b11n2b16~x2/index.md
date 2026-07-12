@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sidney"
+  url: "/tartans/s/si/sidney/"
 - name: "Sidney, (Nova Scotia)"
   url: "/setts/n16k4w2k4n6b11n2b16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n16k4w2k4n6b11n2b16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKWKB](/stripes/bbbbkwkb/).
+
+Part of the [Sidney](/tartans/s/si/sidney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

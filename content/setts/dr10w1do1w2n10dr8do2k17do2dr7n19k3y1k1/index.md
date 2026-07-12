@@ -6,6 +6,8 @@ This is the **Scottish Wildcat** sett — one scale-free proportion (`dr10w1do1w
 [BWBWBBBKBBBKGK](/stripes/bwbwbbbkbbbkgk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Scottish Wildcat](/tartans/s/sc/scottish-wildcat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

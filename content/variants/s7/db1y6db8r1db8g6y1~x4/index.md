@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hill"
+  url: "/clan/hill/"
+- name: "Hill of Banchory Primary"
+  url: "/families/hill-of-banchory-primary/"
+- name: "Hill of Banchory Primary"
+  url: "/tartans/h/hi/hill-of-banchory-primary/"
 - name: "Hill of Banchory Primary School"
   url: "/setts/db1y6db8r1db8g6y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1y6db8r1db8g6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBGG](/stripes/bgbrbgg/).
+
+Part of the [Hill of Banchory Primary](/tartans/h/hi/hill-of-banchory-primary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

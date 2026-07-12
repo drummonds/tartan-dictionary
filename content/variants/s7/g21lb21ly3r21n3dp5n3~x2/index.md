@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Falardeau-Murphy"
-  url: "/tartans/falardeau-murphy/"
+  url: "/tartans/f/fa/falardeau-murphy/"
 - name: "Falardeau-Murphy (Canada) (Personal)"
   url: "/setts/g21lb21ly3r21n3dp5n3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g21lb21ly3r21n3dp5n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRYWG](/stripes/bbbrywg/).
 
-Part of the [Falardeau-Murphy](/tartans/falardeau-murphy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Falardeau-Murphy](/tartans/f/fa/falardeau-murphy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

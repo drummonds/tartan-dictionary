@@ -6,6 +6,8 @@ This is the **Highland Blue** sett — one scale-free proportion (`g13db5y3t6y3d
 [BGBGBGBBBWBBBGBGBG](/stripes/bgbgbgbbbwbbbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Highland](/tartans/h/hi/highland-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

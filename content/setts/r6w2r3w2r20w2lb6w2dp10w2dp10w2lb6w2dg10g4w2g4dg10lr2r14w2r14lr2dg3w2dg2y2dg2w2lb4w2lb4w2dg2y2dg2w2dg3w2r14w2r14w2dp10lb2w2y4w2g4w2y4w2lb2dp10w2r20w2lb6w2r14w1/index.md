@@ -6,6 +6,8 @@ This is the **Ritch Family Tartan** sett — one scale-free proportion (`r6w2r3w
 [RWRWRWWWBWBWWWGGWGGYRWRYGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggyrwrygwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Ritch](/tartans/r/ri/ritch-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

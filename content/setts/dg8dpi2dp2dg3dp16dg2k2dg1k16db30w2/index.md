@@ -6,6 +6,8 @@ This is the **Pride of Scotland General Tartan** sett — one scale-free proport
 [GBBGBGKGKBW](/stripes/gbbgbgkgkbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Pride of Scotland General](/tartans/p/pr/pride-of-scotland-general/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

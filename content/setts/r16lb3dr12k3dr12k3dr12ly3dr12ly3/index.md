@@ -6,6 +6,8 @@ This is the **Duffus Plaid, Lord** sett — one scale-free proportion (`r16lb3dr
 [RWBKBKBYBY](/stripes/rwbkbkbyby/). It is recorded as a single **variant**, below.
 First attested **1710**.
 
+Part of the [Duffus Plaid, Lord](/tartans/d/du/duffus-plaid-lord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

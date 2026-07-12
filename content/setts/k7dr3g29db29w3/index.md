@@ -6,6 +6,8 @@ This is the **Highlander, Highland Laddie Kilts** sett — one scale-free propor
 [KBGBW](/stripes/kbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Highlander, Highland Laddie Kilts](/tartans/h/hi/highlander-highland-laddie-kilts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

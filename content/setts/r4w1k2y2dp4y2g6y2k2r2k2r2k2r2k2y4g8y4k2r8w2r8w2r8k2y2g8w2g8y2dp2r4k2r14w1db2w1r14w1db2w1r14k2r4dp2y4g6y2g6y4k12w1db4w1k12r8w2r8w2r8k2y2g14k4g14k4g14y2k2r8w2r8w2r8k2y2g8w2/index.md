@@ -6,6 +6,8 @@ This is the **Ogilvie Clan Tartan** sett — one scale-free proportion (`r4w1k2y
 [RWKGBGGGKRKRKRKGGGKRWRWRKGGWGGBRKRWBWRWBWRKRBGGGGGKWBWKRWRWRKGGKGKGGKRWRWRKGGW](/stripes/rwkgbgggkrkrkrkgggkrwrwrkggwggbrkrwbwrwbwrkrbgggggkwbwkrwrwrkggkgkggkrwrwrkggw/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Ogilvie](/tartans/o/og/ogilvie-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

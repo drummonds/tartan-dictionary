@@ -6,6 +6,8 @@ This is the **MacRae The Princes Own Clan Tartan** sett — one scale-free propo
 [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgw/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
+Part of the [MacRae The Princes Own](/tartans/m/ma/macrae-the-princes-own/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Edinburgh, '86** sett — one scale-free proportion (`db6w2db2w2db
 [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Edinburgh '86](/tartans/edinburgh-86/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh '86](/tartans/e/ed/edinburgh-86/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

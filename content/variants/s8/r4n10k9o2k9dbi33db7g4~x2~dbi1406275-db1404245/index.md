@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Anne Arundel County"
+  url: "/tartans/a/an/anne-arundel-county-2/"
+- name: "Anne Arundel County"
   url: "/setts/r4n10k9o2k9dbi33db7g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4n10k9o2k9dbi33db7g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBKRKBR](/stripes/gbbkrkbr/).
+
+Part of the [Anne Arundel County](/tartans/a/an/anne-arundel-county-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

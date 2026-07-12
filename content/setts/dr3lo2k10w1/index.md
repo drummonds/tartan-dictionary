@@ -6,6 +6,8 @@ This is the **St. Eloi** sett — one scale-free proportion (`dr3lo2k10w1`), col
 [BYKWKY](/stripes/bykwky/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [St. Eloi](/tartans/s/st/st-eloi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

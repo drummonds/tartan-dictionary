@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Diana Princess of Wales Memorial, The"
+  url: "/tartans/d/di/diana-princess-of-wales-memorial-the/"
+- name: "Diana Princess of Wales Memorial, The"
   url: "/setts/b2w1b12db6k3dg1w1dg4w2k1w1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b2w1b12db6k3dg1w1dg4w2k1w1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBKGWGWKWR](/stripes/bwbbkgwgwkwr/).
+
+Part of the [Diana Princess of Wales Memorial, The](/tartans/d/di/diana-princess-of-wales-memorial-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

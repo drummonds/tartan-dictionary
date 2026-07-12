@@ -6,7 +6,7 @@ This is the **Ar Lenn Vor** sett — one scale-free proportion (`db15ly30w30k20w
 [BYWKWKWYBWR](/stripes/bywkwkwybwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Ar Lenn Vor](/tartans/ar-lenn-vor/) tartan — the named design grouping this sett with its kin.
+Part of the [Ar Lenn Vor](/tartans/a/ar/ar-lenn-vor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

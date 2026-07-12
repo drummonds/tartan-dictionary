@@ -6,6 +6,8 @@ This is the **Takla Makan (Red)** sett — one scale-free proportion (`db1r1w2r1
 [BRWRBRBRWBRBWBRBWRKRBRKRWBRBWBRBWRBRBRWR](/stripes/brwrbrbrwbrbwbrbwrkrbrkrwbrbwbrbwrbrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Takla Makan](/tartans/t/ta/takla-makan-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

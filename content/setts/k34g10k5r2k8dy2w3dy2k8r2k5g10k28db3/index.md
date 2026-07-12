@@ -6,6 +6,8 @@ This is the **Lambert (Front Royal) Dark Night** sett — one scale-free proport
 [BKGKRKGWGKRKGK](/stripes/bkgkrkgwgkrkgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lambert Dark Night](/tartans/l/la/lambert-dark-night/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

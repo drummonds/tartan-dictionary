@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maple Leaf"
+  url: "/tartans/m/ma/maple-leaf-2/"
 - name: "Maple Leaf Blue"
   url: "/setts/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGRYBBBBR](/stripes/bbbbgrybbbbr/).
+
+Part of the [Maple Leaf](/tartans/m/ma/maple-leaf-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

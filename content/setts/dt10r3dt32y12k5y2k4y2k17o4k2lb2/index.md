@@ -6,6 +6,8 @@ This is the **Scottish Spirit Fashion Tartan** sett — one scale-free proportio
 [BRBGKGKGKRKW](/stripes/brbgkgkgkrkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Scottish Spirit](/tartans/s/sc/scottish-spirit-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

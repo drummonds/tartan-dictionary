@@ -6,6 +6,8 @@ This is the **Dundhuin** sett — one scale-free proportion (`lr6o5k2y18r28w2`),
 [WRGKRY](/stripes/wrgkry/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dundhuin](/tartans/d/du/dundhuin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

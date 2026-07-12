@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dhillon"
+  url: "/tartans/d/dh/dhillon/"
 - name: "Dhillon (Personal)"
   url: "/setts/k35lo3w3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k35lo3w3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYK](/stripes/gwyk/).
+
+Part of the [Dhillon](/tartans/d/dh/dhillon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

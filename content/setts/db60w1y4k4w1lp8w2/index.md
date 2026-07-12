@@ -6,6 +6,8 @@ This is the **Nunavut Territory (District)** sett — one scale-free proportion 
 [BWGKWWW](/stripes/bwgkwww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Nunavut Territory](/tartans/n/nu/nunavut-territory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

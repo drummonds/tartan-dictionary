@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murphy & his Gang"
+  url: "/tartans/m/mu/murphy-his-gang/"
 - name: "Murphy & his Gang (Personal)"
   url: "/setts/g29t1g2t2g2t3g2t5r1k1r1t5g2t3g2t2g2t1g14ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g29t1g2t2g2t3g2t5r1k1r1t5g2t3g2t2g2t1g14ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
+
+Part of the [Murphy & his Gang](/tartans/m/mu/murphy-his-gang/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

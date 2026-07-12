@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cadenhead"
+  url: "/tartans/c/ca/cadenhead/"
 - name: "Cadenhead (2015)"
   url: "/setts/lb54dy4n4g12o4g8w1g8db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb54dy4n4g12o4g8w1g8db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGRGBGW](/stripes/bgwgrgbgw/).
+
+Part of the [Cadenhead](/tartans/c/ca/cadenhead/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

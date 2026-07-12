@@ -6,7 +6,7 @@ This is the **Large (Personal)** sett — one scale-free proportion (`k2dr15dg10
 [KBGKGKGBGKBKGKBK](/stripes/kbgkgkgbgkbkgkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Large](/tartans/large/) tartan — the named design grouping this sett with its kin.
+Part of the [Large](/tartans/l/la/large/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

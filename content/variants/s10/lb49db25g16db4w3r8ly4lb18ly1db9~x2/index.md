@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Hawaii"
+  url: "/tartans/s/st/state-seal-of-hawaii/"
 - name: "State Seal of Hawaii (Fashion)"
   url: "/setts/lb49db25g16db4w3r8ly4lb18ly1db9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb49db25g16db4w3r8ly4lb18ly1db9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYWYRWBGBW](/stripes/bywyrwbgbw/).
+
+Part of the [State Seal of Hawaii](/tartans/s/st/state-seal-of-hawaii/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

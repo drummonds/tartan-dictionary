@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ranking"
-  url: "/tartans/ranking/"
+  url: "/tartans/r/ra/ranking/"
 - name: "Ranking (Personal)"
   url: "/setts/db33k3r2k3g9r2g7w2g7r2g9k3r2k3db7r2db2r2db3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db33k3r2k3g9r2g7w2g7r2g9k3r2k3db7r2db2r2db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/).
 
-Part of the [Ranking](/tartans/ranking/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ranking](/tartans/r/ra/ranking/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

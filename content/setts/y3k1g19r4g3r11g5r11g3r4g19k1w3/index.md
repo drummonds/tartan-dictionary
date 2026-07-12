@@ -6,7 +6,7 @@ This is the **Bruce Hunting** sett — one scale-free proportion (`y3k1g19r4g3r1
 [GKGRGRGRGRGKW](/stripes/gkgrgrgrgrgkw/). It is recorded as a single **variant**, below.
 First attested **1939**.
 
-Part of the [Bruce Hunting](/tartans/bruce-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce Hunting](/tartans/b/br/bruce-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Tipperary County Crest (Fashion)** sett — one scale-free proport
 [BWKBYKWBY](/stripes/bwkbykwby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Tipperary County Crest](/tartans/t/ti/tipperary-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

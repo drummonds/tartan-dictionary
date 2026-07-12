@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Heritage Preservation"
+  url: "/tartans/s/sc/scottish-heritage-preservation/"
+- name: "Scottish Heritage Preservation"
   url: "/setts/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKBKBKGWGKBKBK](/stripes/bkbkbkgwgkbkbkbkgwgkbkbk/).
+
+Part of the [Scottish Heritage Preservation](/tartans/s/sc/scottish-heritage-preservation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

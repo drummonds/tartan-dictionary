@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Toon"
+  url: "/tartans/b/bl/blue-toon/"
 - name: "Blue Toon (Fashion)"
   url: "/setts/t49db11w2db2r2db2t10lb4db2lb2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t49db11w2db2r2db2t10lb4db2lb2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRBBWBWG](/stripes/bbwbrbbwbwg/).
+
+Part of the [Blue Toon](/tartans/b/bl/blue-toon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Reilly fae the Mearns"
-  url: "/tartans/reilly-fae-the-mearns/"
+  url: "/tartans/r/re/reilly-fae-the-mearns/"
 - name: "Reilly fae the Mearns"
   url: "/setts/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKWGKGGRGGGW](/stripes/gwgkwgkggrgggw/).
 
-Part of the [Reilly fae the Mearns](/tartans/reilly-fae-the-mearns/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Reilly fae the Mearns](/tartans/r/re/reilly-fae-the-mearns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

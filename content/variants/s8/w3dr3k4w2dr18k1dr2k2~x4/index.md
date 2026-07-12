@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lougheed"
+  url: "/tartans/l/lo/lougheed/"
+- name: "Lougheed"
   url: "/setts/w3dr3k4w2dr18k1dr2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dr3k4w2dr18k1dr2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBWKBW](/stripes/kbkbwkbw/).
+
+Part of the [Lougheed](/tartans/l/lo/lougheed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

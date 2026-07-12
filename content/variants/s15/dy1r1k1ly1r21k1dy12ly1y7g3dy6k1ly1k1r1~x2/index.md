@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Purdy, R Scott"
-  url: "/tartans/purdy-r-scott/"
+  url: "/tartans/p/pu/purdy-r-scott/"
 - name: "Purdy, R Scott (Personal)"
   url: "/setts/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKYRKGYGGGKYKR](/stripes/grkyrkgygggkykr/).
 
-Part of the [Purdy, R Scott](/tartans/purdy-r-scott/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Purdy, R Scott](/tartans/p/pu/purdy-r-scott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

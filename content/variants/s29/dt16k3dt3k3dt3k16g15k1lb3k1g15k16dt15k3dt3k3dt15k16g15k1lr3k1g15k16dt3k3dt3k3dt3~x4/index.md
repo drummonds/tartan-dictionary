@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Broun Hunting"
+  url: "/tartans/b/br/broun-hunting/"
 - name: "Broun Hunting (Personal?)"
   url: "/setts/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkbkb/).
+
+Part of the [Broun Hunting](/tartans/b/br/broun-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

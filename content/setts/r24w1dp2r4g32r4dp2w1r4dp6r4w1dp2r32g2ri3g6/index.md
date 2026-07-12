@@ -6,7 +6,7 @@ This is the **Dalziel #2** sett — one scale-free proportion (`r24w1dp2r4g32r4d
 [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
-Part of the [Dalziel](/tartans/dalziel/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalziel](/tartans/d/da/dalziel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

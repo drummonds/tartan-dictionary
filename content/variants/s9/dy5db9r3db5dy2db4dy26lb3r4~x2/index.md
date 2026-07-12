@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bracken"
-  url: "/tartans/bracken-2/"
+  url: "/tartans/b/br/bracken-2/"
 - name: "Bracken"
   url: "/setts/dy5db9r3db5dy2db4dy26lb3r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy5db9r3db5dy2db4dy26lb3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGBGWR](/stripes/gbrbgbgwr/).
 
-Part of the [Bracken](/tartans/bracken-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bracken](/tartans/b/br/bracken-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

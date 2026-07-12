@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNeill, Royce"
+  url: "/tartans/m/ma/macneill-royce/"
 - name: "MacNeill, Royce (Personal)"
   url: "/setts/k40g21w3r1y2k12db12k10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k40g21w3r1y2k12db12k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGRWGK](/stripes/kbkgrwgk/).
+
+Part of the [MacNeill, Royce](/tartans/m/ma/macneill-royce/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

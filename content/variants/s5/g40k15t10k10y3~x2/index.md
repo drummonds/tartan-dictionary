@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Border Patrol"
+  url: "/tartans/u/u/u-s-border-patrol-2/"
 - name: "U.S. Border Patrol (Corporate)"
   url: "/setts/g40k15t10k10y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40k15t10k10y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKG](/stripes/gkbkg/).
+
+Part of the [U.S. Border Patrol](/tartans/u/u/u-s-border-patrol-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

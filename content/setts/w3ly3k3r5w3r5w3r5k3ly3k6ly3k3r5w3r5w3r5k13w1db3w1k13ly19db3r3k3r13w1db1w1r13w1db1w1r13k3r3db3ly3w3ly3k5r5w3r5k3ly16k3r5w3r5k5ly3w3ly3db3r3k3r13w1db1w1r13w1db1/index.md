@@ -6,6 +6,8 @@ This is the **Ogilvie of Strathallan** sett — one scale-free proportion (`w3ly
 [BWRWBWRKRBYWYKRWRKYKRWRKYWYBRKRWBWRWBWRKRBYKWBWKRWRWRKYKYKRWRWRKYW](/stripes/bwrwbwrkrbywykrwrkykrwrkywybrkrwbwrwbwrkrbykwbwkrwrwrkykykrwrwrkyw/). It is recorded as a single **variant**, below.
 First attested **1812**.
 
+Part of the [Ogilvie of Strathallan](/tartans/o/og/ogilvie-of-strathallan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

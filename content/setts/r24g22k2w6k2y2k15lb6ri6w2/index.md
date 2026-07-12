@@ -6,7 +6,7 @@ This is the **Bruce of Kinnaird Clan Tartan** sett — one scale-free proportion
 [RGKWKGKWRW](/stripes/rgkwkgkwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bruce of Kinnaird](/tartans/bruce-of-kinnaird/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

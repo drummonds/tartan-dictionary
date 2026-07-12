@@ -7,7 +7,7 @@ This is the **MacAlister (Clan)** sett — one scale-free proportion (`r8g1dg2r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1845**.
 
-Part of the [MacAlister](/tartans/macalister-5/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAlister](/tartans/m/ma/macalister-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Hunter of Peebleshire** sett — one scale-free proportion (`g8k1g
 [GKGKRBWBRKRKRBWBRKGK](/stripes/gkgkrbwbrkrkrbwbrkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hunter of Peebleshire](/tartans/h/hu/hunter-of-peebleshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

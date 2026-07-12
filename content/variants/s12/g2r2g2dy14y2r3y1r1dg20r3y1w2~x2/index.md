@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Flodden"
-  url: "/tartans/flodden/"
+  url: "/tartans/f/fl/flodden/"
 - name: "Flodden"
   url: "/setts/g2r2g2dy14y2r3y1r1dg20r3y1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2r2g2dy14y2r3y1r1dg20r3y1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGRGRGRGW](/stripes/grgggrgrgrgw/).
 
-Part of the [Flodden](/tartans/flodden/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Flodden](/tartans/f/fl/flodden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

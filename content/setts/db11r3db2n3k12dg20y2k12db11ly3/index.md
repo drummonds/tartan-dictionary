@@ -7,6 +7,8 @@ This is the **Wisconsin (US State)** sett — one scale-free proportion (`db11r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Wisconsin](/tartans/w/wi/wisconsin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

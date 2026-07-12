@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Beck-McSorley"
+  url: "/tartans/b/be/beck-mcsorley/"
+- name: "Beck-McSorley"
   url: "/setts/r1dg1lp1lb7dg7lp1dg1lp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1dg1lp1lb7dg7lp1dg1lp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWWGWGW](/stripes/rgwwgwgw/).
+
+Part of the [Beck-McSorley](/tartans/b/be/beck-mcsorley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

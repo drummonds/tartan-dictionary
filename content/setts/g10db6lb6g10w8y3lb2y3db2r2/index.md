@@ -6,7 +6,7 @@ This is the **Northern College Corporate Tartan** sett — one scale-free propor
 [GBWGWGWGBR](/stripes/gbwgwgwgbr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Northern College](/tartans/northern-college/) tartan — the named design grouping this sett with its kin.
+Part of the [Northern College](/tartans/n/no/northern-college/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thompson, Dress"
+  url: "/tartans/t/th/thompson-dress/"
 - name: "Thompson, Dress (Clan)"
   url: "/setts/dr3n16k16lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3n16k16lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKW](/stripes/bbkw/).
+
+Part of the [Thompson, Dress](/tartans/t/th/thompson-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

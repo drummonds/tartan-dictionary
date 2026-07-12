@@ -6,6 +6,8 @@ This is the **Campbell of Argyll (Smiths)** sett — one scale-free proportion (
 [BKBKGW](/stripes/bkbkgw/). It is recorded as a single **variant**, below.
 First attested **1890**.
 
+Part of the [Campbell of Argyll](/tartans/c/ca/campbell-of-argyll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

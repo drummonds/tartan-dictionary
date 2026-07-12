@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNaughton Hunting"
+  url: "/tartans/m/ma/macnaughton-hunting/"
 - name: "MacNaughton Htg"
   url: "/setts/dg1r1g22dy21dg12r11g22r1dg1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg1r1g22dy21dg12r11g22r1dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGRGRG](/stripes/grgggrgrg/).
+
+Part of the [MacNaughton Hunting](/tartans/m/ma/macnaughton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Auld Lang Syne Brown Tartan** sett — one scale-free proportion (
 [BYBYBBBBBYBW](/stripes/bybybbbbbybw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

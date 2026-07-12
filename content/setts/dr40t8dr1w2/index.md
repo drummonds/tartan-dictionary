@@ -6,6 +6,8 @@ This is the **Lyon College (Corporate)** sett — one scale-free proportion (`dr
 [BBBWBB](/stripes/bbbwbb/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Lyon College](/tartans/l/ly/lyon-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

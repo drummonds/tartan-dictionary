@@ -6,6 +6,8 @@ This is the **Bennett, J P. (Personal)** sett — one scale-free proportion (`r2
 [RBKBKGW](/stripes/rbkbkgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bennett, J P.](/tartans/b/be/bennett-j-p/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

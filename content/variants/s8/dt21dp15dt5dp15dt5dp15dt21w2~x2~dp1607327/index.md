@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Spirit"
+  url: "/tartans/h/hi/highland-spirit/"
+- name: "Highland Spirit"
   url: "/setts/dt21dp15dt5dp15dt5dp15dt21w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt21dp15dt5dp15dt5dp15dt21w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBW](/stripes/bbbbbbbw/).
+
+Part of the [Highland Spirit](/tartans/h/hi/highland-spirit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

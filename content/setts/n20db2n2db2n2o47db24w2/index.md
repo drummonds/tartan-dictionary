@@ -6,6 +6,8 @@ This is the **Browne (Personal)** sett — one scale-free proportion (`n20db2n2d
 [BBBBBRBW](/stripes/bbbbbrbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Browne](/tartans/b/br/browne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

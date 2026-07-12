@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mull Millennium"
+  url: "/tartans/m/mu/mull-millennium/"
+- name: "Mull Millennium"
   url: "/setts/g92dy3k28n18r12db18w2g12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g92dy3k28n18r12db18w2g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBRBWG](/stripes/ggkbrbwg/).
+
+Part of the [Mull Millennium](/tartans/m/mu/mull-millennium/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leinster Ancestry"
-  url: "/tartans/leinster-ancestry/"
+  url: "/tartans/l/le/leinster-ancestry/"
 - name: "Leinster Ancestry (Fashion)"
   url: "/setts/k4dg33k18dy10g19dy3dg15k1ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4dg33k18dy10g19dy3dg15k1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGGGGKY](/stripes/kgkggggky/).
 
-Part of the [Leinster Ancestry](/tartans/leinster-ancestry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leinster Ancestry](/tartans/l/le/leinster-ancestry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

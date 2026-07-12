@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shepherd or Falkirk"
+  url: "/tartans/s/sh/shepherd-or-falkirk/"
+- name: "Shepherd or Falkirk"
   url: "/setts/k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+
+Part of the [Shepherd or Falkirk](/tartans/s/sh/shepherd-or-falkirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

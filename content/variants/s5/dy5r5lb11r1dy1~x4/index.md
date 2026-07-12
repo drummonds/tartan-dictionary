@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Connor Dress"
+  url: "/tartans/o/o/o-connor-dress/"
+- name: "O'Connor Dress"
   url: "/setts/dy5r5lb11r1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy5r5lb11r1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRG](/stripes/grwrg/).
+
+Part of the [O'Connor Dress](/tartans/o/o/o-connor-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

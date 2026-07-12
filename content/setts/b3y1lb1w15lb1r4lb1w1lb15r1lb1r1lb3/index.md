@@ -6,7 +6,7 @@ This is the **Federal Memorial Dress (Military)** sett — one scale-free propor
 [BGWWWRWWWRWRW](/stripes/bgwwwrwwwrwrw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Federal Memorial Dress](/tartans/federal-memorial-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Federal Memorial Dress](/tartans/f/fe/federal-memorial-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

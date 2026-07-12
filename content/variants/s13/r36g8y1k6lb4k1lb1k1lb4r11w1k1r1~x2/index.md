@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKintosh/MacPherson"
+  url: "/tartans/m/ma/mackintosh-macpherson/"
+- name: "MacKintosh/MacPherson"
   url: "/setts/r36g8y1k6lb4k1lb1k1lb4r11w1k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r36g8y1k6lb4k1lb1k1lb4r11w1k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGKWKWKWRWKR](/stripes/rggkwkwkwrwkr/).
+
+Part of the [MacKintosh/MacPherson](/tartans/m/ma/mackintosh-macpherson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

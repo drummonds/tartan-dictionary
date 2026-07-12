@@ -6,7 +6,7 @@ This is the **Maple Leaf Dress District Tartan** sett — one scale-free proport
 [GRGRGRGGGGGRGRGRGRWRWGWRWR](/stripes/grgrgrgggggrgrgrgrwrwgwrwr/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
-Part of the [Maple Leaf Dress](/tartans/maple-leaf-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Maple Leaf Dress](/tartans/m/ma/maple-leaf-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

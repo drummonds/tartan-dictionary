@@ -6,6 +6,8 @@ This is the **Canberra, City of District Tartan** sett — one scale-free propor
 [BKWKBKGKBK](/stripes/bkwkbkgkbk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Canberra, City of](/tartans/c/ca/canberra-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gothenburg** sett — one scale-free proportion (`b26w28b14y3k1y2k
 [BWBGKGK](/stripes/bwbgkgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Gothenburg](/tartans/g/go/gothenburg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

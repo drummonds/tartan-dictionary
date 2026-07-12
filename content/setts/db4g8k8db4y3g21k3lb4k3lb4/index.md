@@ -6,6 +6,8 @@ This is the **Wellecomme, Bernard (Personal)** sett — one scale-free proportio
 [BGKBGGKWKW](/stripes/bgkbggkwkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Wellecomme, Bernard](/tartans/w/we/wellecomme-bernard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

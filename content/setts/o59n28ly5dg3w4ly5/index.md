@@ -6,6 +6,8 @@ This is the **Dundhuin Gold** sett — one scale-free proportion (`o59n28ly5dg3w
 [RBYGWY](/stripes/rbygwy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dundhuin Gold](/tartans/d/du/dundhuin-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

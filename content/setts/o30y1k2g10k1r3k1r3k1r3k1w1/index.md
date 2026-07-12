@@ -6,6 +6,8 @@ This is the **Tweedmouth Middle School** sett — one scale-free proportion (`o3
 [RGKGKRKRKRKW](/stripes/rgkgkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tweedmouth Middle School](/tartans/t/tw/tweedmouth-middle-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

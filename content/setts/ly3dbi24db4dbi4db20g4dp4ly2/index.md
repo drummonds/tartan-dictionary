@@ -6,6 +6,8 @@ This is the **Blue Peter** sett — one scale-free proportion (`ly3dbi24db4dbi4d
 [YBBBBGBY](/stripes/ybbbbgby/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Blue Peter](/tartans/b/bl/blue-peter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

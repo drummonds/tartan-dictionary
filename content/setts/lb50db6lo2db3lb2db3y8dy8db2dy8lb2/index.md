@@ -6,6 +6,8 @@ This is the **Renfrew #2** sett — one scale-free proportion (`lb50db6lo2db3lb2
 [WBYBWBGGBGW](/stripes/wbybwbggbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Renfrew](/tartans/r/re/renfrew-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

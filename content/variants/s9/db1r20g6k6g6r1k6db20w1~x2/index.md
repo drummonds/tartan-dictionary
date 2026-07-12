@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bush Pilot"
+  url: "/tartans/b/bu/bush-pilot/"
+- name: "Bush Pilot"
   url: "/setts/db1r20g6k6g6r1k6db20w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r20g6k6g6r1k6db20w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGRKBW](/stripes/brgkgrkbw/).
+
+Part of the [Bush Pilot](/tartans/b/bu/bush-pilot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

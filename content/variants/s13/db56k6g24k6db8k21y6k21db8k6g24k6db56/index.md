@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Elibank"
+  url: "/families/murray-of-elibank/"
+- name: "Murray of Elibank"
+  url: "/tartans/m/mu/murray-of-elibank-2/"
 - name: "Murray of Elibank Clan Tartan"
   url: "/setts/db56k6g24k6db8k21y6k21db8k6g24k6db56/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db56k6g24k6db8k21y6k21db8k6g24k6db56/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKGKBKGKB](/stripes/bkgkbkgkbkgkb/).
+
+Part of the [Murray of Elibank](/tartans/m/mu/murray-of-elibank-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

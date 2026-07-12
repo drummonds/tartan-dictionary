@@ -6,6 +6,8 @@ This is the **Caledonian Oriental Airlines (Corporate)** sett — one scale-free
 [GBKBKBKBKRK](/stripes/gbkbkbkbkrk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Caledonian Oriental Airlines](/tartans/c/ca/caledonian-oriental-airlines/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

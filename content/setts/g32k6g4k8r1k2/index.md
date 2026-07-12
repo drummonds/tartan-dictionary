@@ -7,6 +7,8 @@ This is the **Fife, Duke Of** sett — one scale-free proportion (`g32k6g4k8r1k2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
+Part of the [Fife](/tartans/f/fi/fife-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

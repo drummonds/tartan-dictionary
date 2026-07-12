@@ -6,6 +6,8 @@ This is the **Bro-sant-Brieg** sett — one scale-free proportion (`db3g6db2y3db
 [BGBGBKW](/stripes/bgbgbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-sant-Brieg](/tartans/b/br/bro-sant-brieg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

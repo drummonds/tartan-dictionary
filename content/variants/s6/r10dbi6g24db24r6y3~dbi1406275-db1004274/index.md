@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canine All Dogs"
-  url: "/tartans/canine-all-dogs/"
+  url: "/tartans/c/ca/canine-all-dogs/"
 - name: "Canine All Dogs (Fashion)"
   url: "/setts/r10dbi6g24db24r6y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r10dbi6g24db24r6y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBR](/stripes/grbgbr/).
 
-Part of the [Canine All Dogs](/tartans/canine-all-dogs/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Canine All Dogs](/tartans/c/ca/canine-all-dogs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

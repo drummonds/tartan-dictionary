@@ -6,7 +6,7 @@ This is the **Kirkcaldy** sett — one scale-free proportion (`lb23w3k10r2db45y1
 [GBRKWW](/stripes/gbrkww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Kirkcaldy](/tartans/kirkcaldy/) tartan — the named design grouping this sett with its kin.
+Part of the [Kirkcaldy](/tartans/k/ki/kirkcaldy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

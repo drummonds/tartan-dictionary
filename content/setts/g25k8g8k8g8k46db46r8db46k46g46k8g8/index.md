@@ -6,6 +6,8 @@ This is the **Poulter SG 100 (Fashion)** sett — one scale-free proportion (`g2
 [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Poulter SG 100](/tartans/p/po/poulter-sg-100/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacPhee"
+  url: "/tartans/m/ma/macphee/"
 - name: "MacPhee (B&W) Clan Tartan"
   url: "/setts/k22w3k3w22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k22w3k3w22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+
+Part of the [MacPhee](/tartans/m/ma/macphee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

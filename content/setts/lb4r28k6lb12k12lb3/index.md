@@ -6,6 +6,8 @@ This is the **Thomson, Red (Name)** sett — one scale-free proportion (`lb4r28k
 [WKWKRW](/stripes/wkwkrw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Thomson](/tartans/t/th/thomson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

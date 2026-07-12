@@ -6,6 +6,8 @@ This is the **Norwegian Migration Period (Artefact** sett — one scale-free pro
 [BWBWBGBR](/stripes/bwbwbgbr/). It is recorded as a single **variant**, below.
 First attested **~600**.
 
+Part of the [Norwegian Migration Period](/tartans/n/no/norwegian-migration-period/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

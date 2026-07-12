@@ -6,6 +6,8 @@ This is the **Tennessee State (US State)** sett — one scale-free proportion (`
 [RBWBGRGBGW](/stripes/rbwbgrgbgw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Tennessee State](/tartans/t/te/tennessee-state/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Madras 2 (Fashion)** sett — one scale-free proportion (`g30k2w3k
 [GKWKWWW](/stripes/gkwkwww/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [Madras 2](/tartans/m/ma/madras-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

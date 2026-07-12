@@ -6,6 +6,8 @@ This is the **Crow (Name)** sett — one scale-free proportion (`g2db2g6db4g3db4
 [GBGBGBGY](/stripes/gbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
+Part of the [Crow](/tartans/c/cr/crow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

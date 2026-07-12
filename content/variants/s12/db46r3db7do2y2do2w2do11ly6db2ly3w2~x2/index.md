@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lady Diana"
-  url: "/tartans/lady-diana/"
+  url: "/tartans/l/la/lady-diana/"
 - name: "Lady Diana Plaid Trade or Fancy Tartan"
   url: "/setts/db46r3db7do2y2do2w2do11ly6db2ly3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db46r3db7do2y2do2w2do11ly6db2ly3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBGBWBYBYW](/stripes/brbbgbwbybyw/).
 
-Part of the [Lady Diana](/tartans/lady-diana/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lady Diana](/tartans/l/la/lady-diana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

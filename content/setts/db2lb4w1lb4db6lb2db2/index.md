@@ -6,7 +6,7 @@ This is the **Langdons** sett — one scale-free proportion (`db2lb4w1lb4db6lb2d
 [BWBWWWB](/stripes/bwbwwwb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Langdons](/tartans/langdons/) tartan — the named design grouping this sett with its kin.
+Part of the [Langdons](/tartans/l/la/langdons/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

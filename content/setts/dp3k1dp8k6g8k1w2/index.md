@@ -6,6 +6,8 @@ This is the **Baillie (Highland Society)** sett — one scale-free proportion (`
 [BKBKGKW](/stripes/bkbkgkw/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
+Part of the [Baillie](/tartans/b/ba/baillie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

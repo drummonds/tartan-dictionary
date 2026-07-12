@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sturch"
+  url: "/tartans/s/st/sturch/"
 - name: "Sturch (Corporate)"
   url: "/setts/r2db2g3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db2g3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBR](/stripes/ggbr/).
+
+Part of the [Sturch](/tartans/s/st/sturch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

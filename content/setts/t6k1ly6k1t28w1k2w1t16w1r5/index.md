@@ -6,6 +6,8 @@ This is the **Caledonian Railway (Commemorative)** sett — one scale-free propo
 [BKYKBWKWBWR](/stripes/bkykbwkwbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Caledonian Railway](/tartans/c/ca/caledonian-railway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

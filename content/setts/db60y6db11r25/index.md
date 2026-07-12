@@ -6,6 +6,8 @@ This is the **South Australian Pipes & Drums (Corp** sett — one scale-free pro
 [BGBRBG](/stripes/bgbrbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [South Australian Pipes & Drums (Corp](/tartans/s/so/south-australian-pipes-drums-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

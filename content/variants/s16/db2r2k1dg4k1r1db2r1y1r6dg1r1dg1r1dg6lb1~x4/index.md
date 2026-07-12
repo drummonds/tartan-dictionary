@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacInnes"
-  url: "/tartans/macinnes/"
+  url: "/tartans/m/ma/macinnes/"
 - name: "MacInnes (MacGregor Hastie) (Clan)"
   url: "/setts/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGKRBRGRGRGRGW](/stripes/brkgkrbrgrgrgrgw/).
 
-Part of the [MacInnes](/tartans/macinnes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacInnes](/tartans/m/ma/macinnes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

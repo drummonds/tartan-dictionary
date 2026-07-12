@@ -7,6 +7,8 @@ This is the **Agnew** sett — one scale-free proportion (`db53g42r14`), colour 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1976**.
 
+Part of the [Agnew](/tartans/a/ag/agnew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

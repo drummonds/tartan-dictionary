@@ -6,6 +6,8 @@ This is the **Edmonstone (Clan)** sett — one scale-free proportion (`g7r4g14db
 [BGBWBGBGRG](/stripes/bgbwbgbgrg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Edmonstone](/tartans/e/ed/edmonstone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

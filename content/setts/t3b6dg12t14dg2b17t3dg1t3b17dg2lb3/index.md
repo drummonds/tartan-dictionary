@@ -6,6 +6,8 @@ This is the **Reflections of the Sea** sett — one scale-free proportion (`t3b6
 [BBGBGBBGBBGW](/stripes/bbgbgbbgbbgw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Reflections of the Sea](/tartans/r/re/reflections-of-the-sea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

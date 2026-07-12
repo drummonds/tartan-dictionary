@@ -6,6 +6,8 @@ This is the **Kilmorie** sett — one scale-free proportion (`k3r30g10k3y2k3w2k6
 [KRGKGKWKRBW](/stripes/krgkgkwkrbw/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Kilmorie](/tartans/k/ki/kilmorie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

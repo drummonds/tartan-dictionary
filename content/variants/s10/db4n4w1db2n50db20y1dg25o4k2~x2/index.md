@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boisserolles de St-Julien, Baron of"
+  url: "/tartans/b/bo/boisserolles-de-st-julien-baron-of/"
+- name: "Boisserolles de St-Julien, Baron of"
   url: "/setts/db4n4w1db2n50db20y1dg25o4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4n4w1db2n50db20y1dg25o4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBBBGGRK](/stripes/bbwbbbggrk/).
+
+Part of the [Boisserolles de St-Julien, Baron of](/tartans/b/bo/boisserolles-de-st-julien-baron-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

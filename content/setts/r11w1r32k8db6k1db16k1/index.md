@@ -6,6 +6,8 @@ This is the **Ostermeier (2015)** sett — one scale-free proportion (`r11w1r32k
 [KBKBKRWR](/stripes/kbkbkrwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Ostermeier](/tartans/o/os/ostermeier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carolyn Melieres"
+  url: "/tartans/c/ca/carolyn-melieres/"
 - name: "Carolyn Melieres Family Tartan"
   url: "/setts/y4w2y2w8r16g3r3g8r6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4w2y2w8r16g3r3g8r6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWRGRGRK](/stripes/gwgwrgrgrk/).
+
+Part of the [Carolyn Melieres](/tartans/c/ca/carolyn-melieres/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

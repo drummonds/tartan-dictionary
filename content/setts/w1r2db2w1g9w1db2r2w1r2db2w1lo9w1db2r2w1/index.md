@@ -6,7 +6,7 @@ This is the **Jacobite General Tartan** sett — one scale-free proportion (`w1r
 [WRBWGWBRWRBWYWBRW](/stripes/wrbwgwbrwrbwywbrw/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
-Part of the [Jacobite](/tartans/jacobite-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Jacobite](/tartans/j/ja/jacobite-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

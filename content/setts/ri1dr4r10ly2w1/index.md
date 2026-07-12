@@ -6,7 +6,7 @@ This is the **Love (Fashion)** sett — one scale-free proportion (`ri1dr4r10ly2
 [RBRYW](/stripes/rbryw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
-Part of the [Love](/tartans/love/) tartan — the named design grouping this sett with its kin.
+Part of the [Love](/tartans/l/lo/love/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ottawa"
-  url: "/tartans/ottawa/"
+  url: "/tartans/o/ot/ottawa/"
 - name: "Ottawa"
   url: "/setts/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y7lb4y1lb4y1lb4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGWGWGBGBGBGWGWGR](/stripes/gwgwgwgwgwgwgbgbgbgwgwgr/).
 
-Part of the [Ottawa](/tartans/ottawa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ottawa](/tartans/o/ot/ottawa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 

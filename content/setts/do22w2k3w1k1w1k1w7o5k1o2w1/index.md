@@ -6,6 +6,8 @@ This is the **Waverley Check** sett — one scale-free proportion (`do22w2k3w1k1
 [BWKWKWKWRKRWRKRWKWKWKW](/stripes/bwkwkwkwrkrwrkrwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Waverley Check](/tartans/w/wa/waverley-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

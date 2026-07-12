@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Andrews Soc. of New York"
+  url: "/tartans/s/st/st-andrews-soc-of-new-york/"
 - name: "St. Andrews Soc. of New York (Corp)"
   url: "/setts/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKGKGKGKGKBKBKBKBKBKBWR](/stripes/rkgkgkgkgkgkgkbkbkbkbkbkbwr/).
+
+Part of the [St. Andrews Soc. of New York](/tartans/s/st/st-andrews-soc-of-new-york/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 

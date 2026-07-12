@@ -6,6 +6,8 @@ This is the **Down Irish County Tartan** sett — one scale-free proportion (`k6
 [KGRKBYYKY](/stripes/kgrkbyyky/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Down Irish County](/tartans/d/do/down-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

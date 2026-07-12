@@ -6,6 +6,8 @@ This is the **Lieuwen, Jeffrey Pascal (Personal)** sett — one scale-free propo
 [BBBBWBWRWKG](/stripes/bbbbwbwrwkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lieuwen, Jeffrey Pascal](/tartans/l/li/lieuwen-jeffrey-pascal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **World Corporate Golf Challenge** sett — one scale-free proportio
 [BYBKBKBKBKBBBBBW](/stripes/bybkbkbkbkbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [World Corporate Golf Challenge](/tartans/w/wo/world-corporate-golf-challenge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

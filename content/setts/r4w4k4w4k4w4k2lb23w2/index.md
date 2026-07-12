@@ -6,6 +6,8 @@ This is the **Virtuoso** sett — one scale-free proportion (`r4w4k4w4k4w4k2lb23
 [RWKWKWKWW](/stripes/rwkwkwkww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Virtuoso](/tartans/v/vi/virtuoso-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

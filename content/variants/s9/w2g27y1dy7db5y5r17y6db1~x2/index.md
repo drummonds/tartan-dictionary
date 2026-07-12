@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elystan Glodrydd"
+  url: "/tartans/e/el/elystan-glodrydd-2/"
 - name: "Elystan Glodrydd (Welsh Tribe)"
   url: "/setts/w2g27y1dy7db5y5r17y6db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2g27y1dy7db5y5r17y6db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBGGGW](/stripes/bgrgbgggw/).
+
+Part of the [Elystan Glodrydd](/tartans/e/el/elystan-glodrydd-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

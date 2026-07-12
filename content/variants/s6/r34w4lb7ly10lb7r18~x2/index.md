@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ploysongsang, Edward Thiravej (Pers"
+  url: "/tartans/p/pl/ploysongsang-edward-thiravej-pers/"
+- name: "Ploysongsang, Edward Thiravej (Pers"
   url: "/setts/r34w4lb7ly10lb7r18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r34w4lb7ly10lb7r18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWYWR](/stripes/rwwywr/).
+
+Part of the [Ploysongsang, Edward Thiravej (Pers](/tartans/p/pl/ploysongsang-edward-thiravej-pers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Lennox Primary School** sett — one scale-free proportion (`dp2o1
 [BKBBBRB](/stripes/bkbbbrb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Lennox Primary School](/tartans/l/le/lennox-primary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

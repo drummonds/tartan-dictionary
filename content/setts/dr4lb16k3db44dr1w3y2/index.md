@@ -6,7 +6,7 @@ This is the **Dress Blue** sett — one scale-free proportion (`dr4lb16k3db44dr1
 [BWKBBWG](/stripes/bwkbbwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Dress](/tartans/dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Dress](/tartans/d/dr/dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

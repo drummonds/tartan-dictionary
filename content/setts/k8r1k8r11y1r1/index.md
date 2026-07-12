@@ -6,6 +6,8 @@ This is the **Swanstrom (Personal)** sett — one scale-free proportion (`k8r1k8
 [KRKRGR](/stripes/krkrgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Swanstrom](/tartans/s/sw/swanstrom/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

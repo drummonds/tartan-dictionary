@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "205 Field Hospital"
+  url: "/tartans/0-9/0-9/205-field-hospital/"
 - name: "205 (Scottish) Field Hospital (Mil.)"
   url: "/setts/n3r18k2dg18k24ri1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3r18k2dg18k24ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGKR](/stripes/brkgkr/).
+
+Part of the [205 Field Hospital](/tartans/0-9/0-9/205-field-hospital/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

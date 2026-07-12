@@ -6,6 +6,8 @@ This is the **Sheffield, City of (District)** sett — one scale-free proportion
 [GBGBKGWR](/stripes/gbgbkgwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Sheffield, City of](/tartans/s/sh/sheffield-city-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

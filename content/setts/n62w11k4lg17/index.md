@@ -6,6 +6,8 @@ This is the **Thunderlord (Corporate)** sett — one scale-free proportion (`n62
 [BWKY](/stripes/bwky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Thunderlord](/tartans/t/th/thunderlord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

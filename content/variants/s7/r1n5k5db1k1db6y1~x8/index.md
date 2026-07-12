@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lopez-Gasparotto"
+  url: "/tartans/l/lo/lopez-gasparotto/"
+- name: "Lopez-Gasparotto"
   url: "/setts/r1n5k5db1k1db6y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1n5k5db1k1db6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBR](/stripes/gbkbkbr/).
+
+Part of the [Lopez-Gasparotto](/tartans/l/lo/lopez-gasparotto/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

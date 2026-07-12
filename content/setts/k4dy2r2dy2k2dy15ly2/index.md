@@ -7,6 +7,8 @@ This is the **Welsh National #2** sett — one scale-free proportion (`k4dy2r2dy
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
+Part of the [Welsh National](/tartans/w/we/welsh-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

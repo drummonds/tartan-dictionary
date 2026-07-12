@@ -10,7 +10,7 @@ crumbs:
 - name: "Graham of Montrose"
   url: "/families/graham-of-montrose/"
 - name: "Graham of Montrose"
-  url: "/tartans/graham-of-montrose-2/"
+  url: "/tartans/g/gr/graham-of-montrose-2/"
 - name: "Graham of Montrose - 1850 (Clan)"
   url: "/setts/k9g9w2g9k9db9k3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k9g9w2g9k9db9k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGWGK](/stripes/kbkgwgk/).
 
-Part of the [Graham of Montrose](/tartans/graham-of-montrose-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Graham of Montrose](/tartans/g/gr/graham-of-montrose-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

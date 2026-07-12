@@ -6,6 +6,8 @@ This is the **Laois County, Crest Range** sett — one scale-free proportion (`y
 [GGKGKBKBBKW](/stripes/ggkgkbkbbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Laois County, Crest Range](/tartans/l/la/laois-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

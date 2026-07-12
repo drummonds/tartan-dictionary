@@ -6,6 +6,8 @@ This is the **London Fog Black** sett — one scale-free proportion (`k10lb2w5lb
 [BKWWWK](/stripes/bkwwwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [London Fog](/tartans/l/lo/london-fog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

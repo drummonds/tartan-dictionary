@@ -6,6 +6,8 @@ This is the **Sands-Pingot (Name?)** sett — one scale-free proportion (`ly6r1l
 [BRYRY](/stripes/bryry/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sands-Pingot](/tartans/s/sa/sands-pingot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

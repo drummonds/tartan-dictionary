@@ -1,0 +1,39 @@
+---
+title: "Phinn"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GGBGW](/stripes/ggbgw/) — the page of every tartan sharing this colour sequence.
+
+Designed by Anthony Thomson in 2005 for a silk stole, later made into a heavyweight wool kilt.
+
+The **Phinn** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dg11dgi3dr4y2w2/">Phinn</a></td><td><code>DG/110 DGi30 DR40 Y20 W/20</code></td><td>310</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg11dgi3dr4y2w2/"><img src="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/sett.png" alt="Phinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Phinn Personal
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">310</div><div class="nn-name nn-base"><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/">Phinn</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g28db9dg18w3~x2&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.48</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s5/r3g28db9dg18w3~x2/">Simple Technology (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3g28db9dg18w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6y1r3~x10&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.66</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6y1r3~x10/">Delroeux, John Michael (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6y1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3dr11lb2~x2&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.70</a></div><div class="nn-threads">90</div><div class="nn-name"><a href="/variants/s4/g15r3dr11lb2~x2/">MacNab WI 2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3dr11lb2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3dr11lb2&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.70</a></div><div class="nn-threads">45</div><div class="nn-name"><a href="/variants/s4/g15r3dr11lb2/">MacNab WI2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3dr11lb2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6ly1r3~x10&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.78</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6ly1r3~x10/">Delroeux (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6ly1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15y3r3dp8w2~x6&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">1.95</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/g15y3r3dp8w2~x6/">ChuMac (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g15y3r3dp8w2~x6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10db2dr8lo2g5~x4&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s5/g10db2dr8lo2g5~x4/">Cub Scouts of America</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g10db2dr8lo2g5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp6g15dg15w2~x2&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">136</div><div class="nn-name nn-far"><a href="/variants/s4/dp6g15dg15w2~x2/">Thistle and Kudzu Scottish Society</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp6g15dg15w2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g25r9lb3y7w3dp11~x3&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/g25r9lb3y7w3dp11~x3/">Montessori School of Denver (School)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g25r9lb3y7w3dp11~x3/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g25r9lb3y7w3dp11&amp;base=dg11dgi3dr4y2w2~x10~dgi1803189" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">80</div><div class="nn-name nn-far"><a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g25r9lb3y7w3dp11/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="225.9" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/g10db2dr8lo2g5~x4/"><circle cx="296.7" cy="291.9" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/variants/s4/dp6g15dg15w2~x2/"><circle cx="241.0" cy="290.7" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><circle cx="253.4" cy="257.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fleming"
+  url: "/clan/fleming/"
+- name: "Fleming Commemorative"
+  url: "/tartans/f/fl/fleming-commemorative/"
 - name: "Fleming/Frisken/Flanders"
   url: "/setts/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKBKBKW](/stripes/bkbkbkbkgkbkbkw/).
+
+Part of the [Fleming Commemorative](/tartans/f/fl/fleming-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,6 +6,8 @@ This is the **Wimbledon** sett — one scale-free proportion (`g30w8db32y1db8`),
 [BGBWG](/stripes/bgbwg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Wimbledon](/tartans/w/wi/wimbledon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

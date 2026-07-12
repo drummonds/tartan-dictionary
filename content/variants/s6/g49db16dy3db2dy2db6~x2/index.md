@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal &"
+  url: "/tartans/r/ro/royal/"
 - name: "Royal and Ancient, The"
   url: "/setts/g49db16dy3db2dy2db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g49db16dy3db2dy2db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBG](/stripes/bgbgbg/).
+
+Part of the [Royal &](/tartans/r/ro/royal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Urquhart Broad Red Clan Tartan** sett — one scale-free proportio
 [KGKBKBKBR](/stripes/kgkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Urquhart](/tartans/urquhart-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Urquhart](/tartans/u/ur/urquhart-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

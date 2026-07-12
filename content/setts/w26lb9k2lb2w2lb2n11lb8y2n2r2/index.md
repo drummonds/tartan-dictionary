@@ -6,6 +6,8 @@ This is the **Manchester Blues Dress (Comm)** sett — one scale-free proportion
 [RBGWBWWWKWW](/stripes/rbgwbwwwkww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Manchester Blues Dress](/tartans/m/ma/manchester-blues-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

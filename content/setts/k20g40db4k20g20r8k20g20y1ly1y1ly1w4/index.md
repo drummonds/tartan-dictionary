@@ -7,6 +7,8 @@ This is the **Mississippi** sett — one scale-free proportion (`k20g40db4k20g20
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [Mississippi](/tartans/m/mi/mississippi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

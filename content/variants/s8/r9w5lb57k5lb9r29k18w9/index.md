@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yale College of Wrexham"
+  url: "/tartans/y/ya/yale-college-of-wrexham/"
 - name: "Yale College of Wrexham (Corporate)"
   url: "/setts/r9w5lb57k5lb9r29k18w9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9w5lb57k5lb9r29k18w9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWKWRKW](/stripes/rwwkwrkw/).
+
+Part of the [Yale College of Wrexham](/tartans/y/ya/yale-college-of-wrexham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

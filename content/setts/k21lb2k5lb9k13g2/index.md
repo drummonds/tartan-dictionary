@@ -6,7 +6,7 @@ This is the **New Zealand (2000)** sett — one scale-free proportion (`k21lb2k5
 [GKWKWK](/stripes/gkwkwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [New Zealand](/tartans/new-zealand/) tartan — the named design grouping this sett with its kin.
+Part of the [New Zealand](/tartans/n/ne/new-zealand/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

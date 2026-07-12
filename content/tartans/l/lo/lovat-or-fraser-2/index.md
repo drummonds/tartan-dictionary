@@ -1,0 +1,38 @@
+---
+title: "Lovat or Fraser"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BRGRBR](/stripes/brgrbr/) — the page of every tartan sharing this colour sequence.
+
+The **Lovat or Fraser** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r80dp19r8g36r10dp2/">Lovat or Fraser</a></td><td><code>R/160 DP38 R16 G72 R20 DP/4</code></td><td>456</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r80dp19r8g36r10dp2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Lovat or Fraser #2
+- Lovat, or Fraser
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">456</div><div class="nn-name nn-base"><a href="/variants/s6/r80dp19r8g36r10dp2~x2/">Lovat or Fraser</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r60dp20r8g45r8dp2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">0.49</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s6/r60dp20r8g45r8dp2/">Caledonian - 1819 (Fashion?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r60dp20r8g45r8dp2~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">0.49</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s6/r60dp20r8g45r8dp2~x2/">Caledonian District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r60dp20r8g45r8dp2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24db6r3g12r4db1&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.03</a></div><div class="nn-threads">75</div><div class="nn-name"><a href="/variants/s6/r24db6r3g12r4db1/">MacKintosh</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24db6r3g12r4db1~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.03</a></div><div class="nn-threads">150</div><div class="nn-name"><a href="/variants/s6/r24db6r3g12r4db1~x2/">MacKintosh</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r24db6r3g12r4db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r68db18r9g34r9db3~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.07</a></div><div class="nn-threads">422</div><div class="nn-name"><a href="/variants/s6/r68db18r9g34r9db3~x2/">MacKintosh #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r22db5r2g11r3db1&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.11</a></div><div class="nn-threads">65</div><div class="nn-name"><a href="/variants/s6/r22db5r2g11r3db1/">MacKintosh D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r22db5r2g11r3db1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r22db5r2g11r3db1~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.11</a></div><div class="nn-threads">130</div><div class="nn-name"><a href="/variants/s6/r22db5r2g11r3db1~x2/">MacKintosh Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r22db5r2g11r3db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r48db2r3g28r4db2~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.18</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/r48db2r3g28r4db2~x2/">MacKintosh #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r48db2r3g28r4db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24g5r3g9r3db1~x4&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s6/r24g5r3g9r3db1~x4/">MacKintosh, Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r24g5r3g9r3db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g20r2db8r36g1~x2&amp;base=r80dp19r8g36r10dp2~x2" title="compare in the TTD">1.87</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s6/r2g20r2db8r36g1~x2/">Robertson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2g20r2db8r36g1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r60dp20r8g45r8dp2/"><circle cx="373.6" cy="179.8" r="4" fill="#3465a4"><title>Caledonian - 1819 (Fashion?)</title></circle></a><a href="/variants/s6/r60dp20r8g45r8dp2~x2/"><circle cx="373.6" cy="179.8" r="4" fill="#3465a4"><title>Caledonian District Tartan</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.7" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.7" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.1" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh Clan Tartan</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="455.6" cy="165.5" r="4" fill="#3465a4"><title>MacKintosh #3</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.6" cy="177.6" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.2" r="4" fill="#3465a4"><title>Robertson</title></circle></a><circle cx="455.0" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

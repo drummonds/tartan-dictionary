@@ -7,6 +7,8 @@ This is the **Scott, Sir Walter** sett — one scale-free proportion (`w6k6w2k1w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1822**.
 
+Part of the [Scott](/tartans/s/sc/scott-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Stott Personal Tartan** sett — one scale-free proportion (`w2k25
 [WKBGGRBKW](/stripes/wkbggrbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Stott](/tartans/stott/) tartan — the named design grouping this sett with its kin.
+Part of the [Stott](/tartans/s/st/stott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

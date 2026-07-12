@@ -7,7 +7,7 @@ This is the **Lumsden Waistcoat** sett — one scale-free proportion (`g21w2g20r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1790**.
 
-Part of the [Lumsden](/tartans/lumsden-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Lumsden](/tartans/l/lu/lumsden-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

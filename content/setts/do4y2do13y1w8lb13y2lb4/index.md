@@ -6,6 +6,8 @@ This is the **Bannockbane, Dark Tan** sett — one scale-free proportion (`do4y2
 [BGBGWWGW](/stripes/bgbgwwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane, Dark Tan](/tartans/b/ba/bannockbane-dark-tan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

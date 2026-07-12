@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacArthur"
   url: "/clan/macarthur/"
 - name: "MacArthur"
-  url: "/tartans/macarthur/"
+  url: "/tartans/m/ma/macarthur/"
 - name: "MacArthur"
   url: "/setts/g18y2g18k4g2k15/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g18y2g18k4g2k15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGK](/stripes/gggkgk/).
 
-Part of the [MacArthur](/tartans/macarthur/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacArthur](/tartans/m/ma/macarthur/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -7,6 +7,8 @@ This is the **Fergusson** sett — one scale-free proportion (`db24k8g8r2g8k1w2`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
+Part of the [Fergusson](/tartans/f/fe/fergusson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Norris Hunting** sett — one scale-free proportion (`k2w1n8dr1lb2
 [BWBBWK](/stripes/bwbbwk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Norris Hunting](/tartans/n/no/norris-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Newfoundland"
-  url: "/tartans/newfoundland-2/"
+  url: "/tartans/n/ne/newfoundland-2/"
 - name: "Newfoundland (District)"
   url: "/setts/r6g4do14w4do7g30lo4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6g4do14w4do7g30lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBWBGY](/stripes/rgbwbgy/).
 
-Part of the [Newfoundland](/tartans/newfoundland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newfoundland](/tartans/n/ne/newfoundland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

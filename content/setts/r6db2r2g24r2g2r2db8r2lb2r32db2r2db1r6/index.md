@@ -6,6 +6,8 @@ This is the **Grant or Drummond Clan Tartan** sett — one scale-free proportion
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Grant or Drummond](/tartans/g/gr/grant-or-drummond/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

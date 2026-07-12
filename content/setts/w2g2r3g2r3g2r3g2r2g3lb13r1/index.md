@@ -6,7 +6,7 @@ This is the **Princess Marina (Fashion)** sett — one scale-free proportion (`w
 [RWGRGRGRGRGW](/stripes/rwgrgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Princess Marina](/tartans/princess-marina/) tartan — the named design grouping this sett with its kin.
+Part of the [Princess Marina](/tartans/p/pr/princess-marina/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

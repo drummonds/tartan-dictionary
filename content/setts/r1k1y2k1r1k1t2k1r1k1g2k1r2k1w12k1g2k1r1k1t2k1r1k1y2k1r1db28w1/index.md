@@ -6,6 +6,8 @@ This is the **Women's Wear Daily 'Clan' (Fashion)** sett — one scale-free prop
 [RKGKRKBKRKGKRKWKGKRKBKRKGKRBW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Women's Wear Daily](/tartans/w/wo/women-s-wear-daily/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

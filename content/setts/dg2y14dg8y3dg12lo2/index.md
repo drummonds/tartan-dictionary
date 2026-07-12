@@ -6,6 +6,8 @@ This is the **Confederate Cavalry (Military)** sett — one scale-free proportio
 [GGGGGY](/stripes/gggggy/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
+Part of the [Confederate Cavalry](/tartans/c/co/confederate-cavalry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

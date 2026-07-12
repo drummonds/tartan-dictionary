@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lochranza"
+  url: "/tartans/l/lo/lochranza/"
+- name: "Lochranza"
   url: "/setts/db3n1db10g3r1k3db5n2lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3n1db10g3r1k3db5n2lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGRKBBW](/stripes/bbbgrkbbw/).
+
+Part of the [Lochranza](/tartans/l/lo/lochranza/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

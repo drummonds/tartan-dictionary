@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Devon Companion"
+  url: "/tartans/d/de/devon-companion/"
+- name: "Devon Companion"
   url: "/setts/n5db4y1db4k4dy4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n5db4y1db4k4dy4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBKGW](/stripes/bbgbkgw/).
+
+Part of the [Devon Companion](/tartans/d/de/devon-companion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

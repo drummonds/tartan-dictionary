@@ -6,6 +6,8 @@ This is the **Duchess of York Family Tartan** sett — one scale-free proportion
 [BBGBKBGBW](/stripes/bbgbkbgbw/). It is recorded as a single **variant**, below.
 First attested **1941**.
 
+Part of the [Duchess of York](/tartans/d/du/duchess-of-york-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

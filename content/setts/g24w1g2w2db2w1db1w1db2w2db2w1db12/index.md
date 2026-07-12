@@ -6,6 +6,8 @@ This is the **MacDonald Lord of the Isles** sett — one scale-free proportion (
 [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDonald Lord of the Isles](/tartans/m/ma/macdonald-lord-of-the-isles-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Little Dress** sett — one scale-free proportion (`k4dr4k4dr4k4w8
 [KBKBKWKWKY](/stripes/kbkbkwkwky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Little Dress](/tartans/l/li/little-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

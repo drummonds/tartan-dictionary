@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Valley Forge Pipe Band"
+  url: "/tartans/v/va/valley-forge-pipe-band/"
+- name: "Valley Forge Pipe Band"
   url: "/setts/r2db5k5g5lr2g5k5lr2k2lr4k2lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db5k5g5lr2g5k5lr2k2lr4k2lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGYGKYKYKY](/stripes/rbkgygkykyky/).
+
+Part of the [Valley Forge Pipe Band](/tartans/v/va/valley-forge-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

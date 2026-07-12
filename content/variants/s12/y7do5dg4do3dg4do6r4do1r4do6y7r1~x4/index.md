@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buchanan Variation"
+  url: "/tartans/b/bu/buchanan-variation/"
 - name: "Buchanan Variation (Fashion)"
   url: "/setts/y7do5dg4do3dg4do6r4do1r4do6y7r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y7do5dg4do3dg4do6r4do1r4do6y7r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBRBGR](/stripes/gbgbgbrbrbgr/).
+
+Part of the [Buchanan Variation](/tartans/b/bu/buchanan-variation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

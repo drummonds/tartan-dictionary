@@ -6,7 +6,7 @@ This is the **Haughey (Personal)** sett — one scale-free proportion (`db6r2db2
 [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Haughey](/tartans/haughey/) tartan — the named design grouping this sett with its kin.
+Part of the [Haughey](/tartans/h/ha/haughey/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Hamworthy Association** sett — one scale-free proportion (`k41lg
 [KYGW](/stripes/kygw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hamworthy Association](/tartans/h/ha/hamworthy-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

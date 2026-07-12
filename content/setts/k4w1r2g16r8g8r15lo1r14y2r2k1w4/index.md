@@ -6,6 +6,8 @@ This is the **Melieres-Frost** sett — one scale-free proportion (`k4w1r2g16r8g
 [KWRGRGRYRGRKW](/stripes/kwrgrgryrgrkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Melieres-Frost](/tartans/m/me/melieres-frost/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

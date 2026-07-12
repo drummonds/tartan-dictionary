@@ -6,6 +6,8 @@ This is the **Rankin Grey (Personal)** sett — one scale-free proportion (`n14o
 [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Rankin](/tartans/r/ra/rankin-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

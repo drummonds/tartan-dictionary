@@ -6,6 +6,8 @@ This is the **Pride of Ireland Fashion Tartan** sett — one scale-free proporti
 [GKGGGKGGKG](/stripes/gkgggkggkg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Pride of Ireland](/tartans/p/pr/pride-of-ireland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

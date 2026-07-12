@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh Monarchs"
+  url: "/tartans/e/ed/edinburgh-monarchs/"
+- name: "Edinburgh Monarchs"
   url: "/setts/dt5db4dr1db14dt14dr1dt5lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt5db4dr1db14dt14dr1dt5lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBY](/stripes/bbbbbbby/).
+
+Part of the [Edinburgh Monarchs](/tartans/e/ed/edinburgh-monarchs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Moray"
+  url: "/clan/moray/"
+- name: "Moray"
+  url: "/tartans/m/mo/moray-2/"
 - name: "Moray (Corporate)"
   url: "/setts/db15dp3db30k22dg18dp3dg3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15dp3db30k22dg18dp3dg3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGBGW](/stripes/bbbkgbgw/).
+
+Part of the [Moray](/tartans/m/mo/moray-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

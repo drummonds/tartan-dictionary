@@ -7,6 +7,8 @@ This is the **MacLaine of Lochbuie Hunting** sett — one scale-free proportion 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1906**.
 
+Part of the [MacLaine of Lochbuie Hunting](/tartans/m/ma/maclaine-of-lochbuie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

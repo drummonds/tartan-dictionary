@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Seaside"
+  url: "/tartans/s/se/seaside-2/"
 - name: "Seaside (Fashion)"
   url: "/setts/w3lb2b4lb14g2t14lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3lb2b4lb14g2t14lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWBWGBY](/stripes/wwbwgby/).
+
+Part of the [Seaside](/tartans/s/se/seaside-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

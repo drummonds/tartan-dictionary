@@ -6,6 +6,8 @@ This is the **Ulster (Peat) (District** sett — one scale-free proportion (`y28
 [GKGKGKGKRK](/stripes/gkgkgkgkrk/). It is recorded as a single **variant**, below.
 First attested **1590**.
 
+Part of the [Ulster](/tartans/u/ul/ulster-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

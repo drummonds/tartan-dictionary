@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Matheson"
+  url: "/tartans/m/ma/matheson-2/"
 - name: "Matheson (Lochcarron)"
   url: "/setts/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7dr2g2dr2g2dr27db9g2dr2g2dr2g2dr6g2dr2g2dr2db10g6dr2db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBGBGBGBGBGBBGBGBG](/stripes/bbgbbgbgbgbgbgbbgbgbg/).
+
+Part of the [Matheson](/tartans/m/ma/matheson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

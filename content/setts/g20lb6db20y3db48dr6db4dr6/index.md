@@ -6,6 +6,8 @@ This is the **Warren Wilson College** sett — one scale-free proportion (`g20lb
 [GWBGBBBBBBBGBW](/stripes/gwbgbbbbbbbgbw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Warren Wilson College](/tartans/w/wa/warren-wilson-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

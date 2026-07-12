@@ -6,6 +6,8 @@ This is the **Kinnison (Clan?)** sett — one scale-free proportion (`k17t2k17w1
 [KBKWGWGWKRKWBWBW](/stripes/kbkwgwgwkrkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~1961**.
 
+Part of the [Kinnison](/tartans/k/ki/kinnison-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

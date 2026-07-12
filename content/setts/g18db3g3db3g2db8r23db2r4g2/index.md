@@ -6,6 +6,8 @@ This is the **McGlynn** sett — one scale-free proportion (`g18db3g3db3g2db8r23
 [GBGBGBRBRG](/stripes/gbgbgbrbrg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [McGlynn](/tartans/m/mc/mcglynn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

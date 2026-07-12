@@ -6,6 +6,8 @@ This is the **Hudson Valley Reg. Police P & D (Cor** sett — one scale-free pro
 [BKBKGG](/stripes/bkbkgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hudson Valley Reg. Police P & D (Cor](/tartans/h/hu/hudson-valley-reg-police-p-d-cor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

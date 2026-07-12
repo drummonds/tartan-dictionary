@@ -6,6 +6,8 @@ This is the **Portree** sett — one scale-free proportion (`n20t4n12y2n4w3n4dr1
 [BBBGBWBBBBBW](/stripes/bbbgbwbbbbbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Portree](/tartans/p/po/portree-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

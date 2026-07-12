@@ -6,6 +6,8 @@ This is the **St. Patrick (Fashion)** sett — one scale-free proportion (`dy4dg
 [GGWGWGWGWG](/stripes/ggwgwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [St. Patrick](/tartans/s/st/st-patrick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Progress Blue Lodge"
+  url: "/tartans/p/pr/progress-blue-lodge/"
 - name: "Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge"
   url: "/setts/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWBWGWWWBWGWRWBWKWKW](/stripes/wkwkwbwgwwwbwgwrwbwkwkw/).
+
+Part of the [Progress Blue Lodge](/tartans/p/pr/progress-blue-lodge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cairnbulg & Inverllocjy Fisher"
+  url: "/tartans/c/ca/cairnbulg-inverllocjy-fisher/"
 - name: "Rob Roy, Blue & Red (Fashion)"
   url: "/setts/dr1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BB](/stripes/bb/).
+
+Part of the [Cairnbulg & Inverllocjy Fisher](/tartans/c/ca/cairnbulg-inverllocjy-fisher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

@@ -6,7 +6,7 @@ This is the **Arran - 1978 (Fashion)** sett — one scale-free proportion (`dp86
 [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/). It is recorded as a single **variant**, below.
 First attested **~1981**.
 
-Part of the [Arran](/tartans/arran-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Arran](/tartans/a/ar/arran-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

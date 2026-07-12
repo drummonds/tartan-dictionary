@@ -6,7 +6,7 @@ This is the **MacHardy (Clans Originaux)** sett — one scale-free proportion (`
 [GRKWKGRK](/stripes/grkwkgrk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [MacHardy](/tartans/machardy-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacHardy](/tartans/m/ma/machardy-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

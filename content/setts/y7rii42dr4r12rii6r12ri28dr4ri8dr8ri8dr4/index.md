@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Rowanberry** sett — one scale-free proportion (
 [BRBRBRRRRBRG](/stripes/brbrbrrrrbrg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Kinloch Anderson Rowanberry](/tartans/k/ki/kinloch-anderson-rowanberry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

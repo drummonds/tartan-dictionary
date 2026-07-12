@@ -7,6 +7,8 @@ This is the **Harkness Htg (Name)** sett — one scale-free proportion (`g10t2w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1981**.
 
+Part of the [Harkness Hunting](/tartans/h/ha/harkness-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

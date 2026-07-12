@@ -6,6 +6,8 @@ This is the **Crane of Cluny Dress (Personal)** sett — one scale-free proporti
 [GWKRKWKW](/stripes/gwkrkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Crane of Cluny Dress](/tartans/c/cr/crane-of-cluny-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

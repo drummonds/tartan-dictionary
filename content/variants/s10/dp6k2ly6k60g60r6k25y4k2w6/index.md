@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "US Army Civil Affairs"
+  url: "/tartans/u/us/us-army-civil-affairs/"
+- name: "US Army Civil Affairs"
   url: "/setts/dp6k2ly6k60g60r6k25y4k2w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6k2ly6k60g60r6k25y4k2w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKGRKGKW](/stripes/bkykgrkgkw/).
+
+Part of the [US Army Civil Affairs](/tartans/u/us/us-army-civil-affairs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

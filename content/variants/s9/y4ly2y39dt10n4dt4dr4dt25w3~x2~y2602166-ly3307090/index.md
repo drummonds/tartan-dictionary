@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Blas Alba"
+  url: "/tartans/b/bl/blue-blas-alba/"
+- name: "Blue Blas Alba"
   url: "/setts/y4ly2y39dt10n4dt4dr4dt25w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4ly2y39dt10n4dt4dr4dt25w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBBBBBW](/stripes/gygbbbbbw/).
+
+Part of the [Blue Blas Alba](/tartans/b/bl/blue-blas-alba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

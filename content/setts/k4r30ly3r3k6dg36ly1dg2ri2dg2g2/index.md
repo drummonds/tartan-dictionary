@@ -6,6 +6,8 @@ This is the **Chelsea** sett — one scale-free proportion (`k4r30ly3r3k6dg36ly1
 [GGRGYGKRYRK](/stripes/ggrgygkryrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Chelsea](/tartans/c/ch/chelsea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

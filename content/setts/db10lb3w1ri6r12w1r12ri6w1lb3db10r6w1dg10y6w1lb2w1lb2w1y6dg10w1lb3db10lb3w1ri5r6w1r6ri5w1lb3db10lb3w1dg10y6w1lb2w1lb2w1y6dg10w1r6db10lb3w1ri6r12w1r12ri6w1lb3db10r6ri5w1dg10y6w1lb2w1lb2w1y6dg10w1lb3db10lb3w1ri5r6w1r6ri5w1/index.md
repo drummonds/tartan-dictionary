@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Cant Counts** sett — one scale-free proportion (
 [BWWRRWRRWWBRWGGWWWWWGGWWBWWRRWRRWWBWWGGWWWWWGGWRBWWRRWRRWWBRRWGGWWWWWGGWWBWWRRWRRW](/stripes/bwwrrwrrwwbrwggwwwwwggwwbwwrrwrrwwbwwggwwwwwggwrbwwrrwrrwwbrrwggwwwwwggwwbwwrrwrrw/). It is recorded as a single **variant**, below.
 First attested **1799**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

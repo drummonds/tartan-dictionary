@@ -6,6 +6,8 @@ This is the **Brazell (Personal)** sett — one scale-free proportion (`db7y1db7
 [BGBWR](/stripes/bgbwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Brazell](/tartans/b/br/brazell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

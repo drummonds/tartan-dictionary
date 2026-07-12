@@ -6,6 +6,8 @@ This is the **Chafyn House (School)** sett — one scale-free proportion (`k72r3
 [KRKWKRK](/stripes/krkwkrk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Chafyn House](/tartans/c/ch/chafyn-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

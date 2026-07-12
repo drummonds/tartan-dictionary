@@ -10,7 +10,7 @@ crumbs:
 - name: "Alexander of Menstry"
   url: "/families/alexander-of-menstry/"
 - name: "Alexander of Menstry"
-  url: "/tartans/alexander-of-menstry/"
+  url: "/tartans/a/al/alexander-of-menstry/"
 - name: "Alexander of Menstry"
   url: "/setts/g5o2g2o9k9lr9db30w5/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5o2g2o9k9lr9db30w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKYBW](/stripes/grgrkybw/).
 
-Part of the [Alexander of Menstry](/tartans/alexander-of-menstry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Alexander of Menstry](/tartans/a/al/alexander-of-menstry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

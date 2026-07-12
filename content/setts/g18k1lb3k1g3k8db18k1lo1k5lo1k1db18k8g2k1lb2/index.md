@@ -6,6 +6,8 @@ This is the **Weir** sett — one scale-free proportion (`g18k1lb3k1g3k8db18k1lo
 [GKWKGKBKYKYKBKGKWKGKBKYKYKBKGKWK](/stripes/gkwkgkbkykykbkgkwkgkbkykykbkgkwk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Weir](/tartans/w/we/weir-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

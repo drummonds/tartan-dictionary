@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Silver Mist"
+  url: "/tartans/s/si/silver-mist-2/"
 - name: "Silver Mist (Corporate)"
   url: "/setts/k13n2k13n31k1n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k13n2k13n31k1n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
+
+Part of the [Silver Mist](/tartans/s/si/silver-mist-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

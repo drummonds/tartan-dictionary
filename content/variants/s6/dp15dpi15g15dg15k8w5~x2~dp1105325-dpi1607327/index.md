@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams, Edmund"
+  url: "/tartans/w/wi/williams-edmund-2/"
 - name: "Williams, Edmund (Personal)"
   url: "/setts/dp15dpi15g15dg15k8w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp15dpi15g15dg15k8w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGKW](/stripes/bbggkw/).
+
+Part of the [Williams, Edmund](/tartans/w/wi/williams-edmund-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

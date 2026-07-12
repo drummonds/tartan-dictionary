@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Andrews"
+  url: "/tartans/s/st/st-andrews-3/"
 - name: "St. Andrews (Queens University)"
   url: "/setts/dy11db1dy11w10db1r11db1r11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy11db1dy11w10db1r11db1r11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWGBGBGWBRBR](/stripes/brbwgbgbgwbrbr/).
+
+Part of the [St. Andrews](/tartans/s/st/st-andrews-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

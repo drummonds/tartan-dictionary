@@ -6,6 +6,8 @@ This is the **Lordship of Greencastle (Personal)** sett — one scale-free propo
 [GRGKGKGGR](/stripes/grgkgkggr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lordship of Greencastle](/tartans/l/lo/lordship-of-greencastle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

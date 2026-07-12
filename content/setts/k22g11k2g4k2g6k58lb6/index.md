@@ -6,6 +6,8 @@ This is the **Stewart of Bute Hunting Clan/Family Tartan** sett — one scale-fr
 [KGKGKGKKW](/stripes/kgkgkgkkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart of Bute Hunting](/tartans/s/st/stewart-of-bute-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

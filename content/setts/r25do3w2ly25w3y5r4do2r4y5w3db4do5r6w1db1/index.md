@@ -6,6 +6,8 @@ This is the **MacGlashan Clan Tartan** sett — one scale-free proportion (`r25d
 [BWRBBWGRBRGWYWBR](/stripes/bwrbbwgrbrgwywbr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [MacGlashan](/tartans/m/ma/macglashan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

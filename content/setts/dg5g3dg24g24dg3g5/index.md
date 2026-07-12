@@ -6,6 +6,8 @@ This is the **Erskine Hunting** sett — one scale-free proportion (`dg5g3dg24g2
 [GGGGGG](/stripes/gggggg/). It is recorded as a single **variant**, below.
 First attested **1948**.
 
+Part of the [Erskine](/tartans/e/er/erskine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

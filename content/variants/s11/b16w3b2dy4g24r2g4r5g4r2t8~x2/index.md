@@ -10,7 +10,7 @@ crumbs:
 - name: "Currie of Arran"
   url: "/families/currie-of-arran/"
 - name: "Currie of Arran"
-  url: "/tartans/currie-of-arran/"
+  url: "/tartans/c/cu/currie-of-arran/"
 - name: "Currie of Arran"
   url: "/setts/b16w3b2dy4g24r2g4r5g4r2t8/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b16w3b2dy4g24r2g4r5g4r2t8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRGGBWB](/stripes/brgrgrggbwb/).
 
-Part of the [Currie of Arran](/tartans/currie-of-arran/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Currie of Arran](/tartans/c/cu/currie-of-arran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

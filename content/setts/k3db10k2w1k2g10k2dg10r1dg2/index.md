@@ -6,7 +6,7 @@ This is the **Rutledge (Name)** sett — one scale-free proportion (`k3db10k2w1k
 [GRGKGKWKBK](/stripes/grgkgkwkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Rutledge](/tartans/rutledge/) tartan — the named design grouping this sett with its kin.
+Part of the [Rutledge](/tartans/r/ru/rutledge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

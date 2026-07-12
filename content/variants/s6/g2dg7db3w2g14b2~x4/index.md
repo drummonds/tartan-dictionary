@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx, Ellan Vannin"
+  url: "/tartans/m/ma/manx-ellan-vannin-2/"
+- name: "Manx, Ellan Vannin"
   url: "/setts/g2dg7db3w2g14b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2dg7db3w2g14b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBGG](/stripes/bgwbgg/).
+
+Part of the [Manx, Ellan Vannin](/tartans/m/ma/manx-ellan-vannin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

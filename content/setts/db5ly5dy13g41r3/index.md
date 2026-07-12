@@ -6,6 +6,8 @@ This is the **Clare, Richard (Personal)** sett — one scale-free proportion (`d
 [BYGGR](/stripes/byggr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Clare, Richard](/tartans/c/cl/clare-richard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

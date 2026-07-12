@@ -6,6 +6,8 @@ This is the **Northern Guard Supporters** sett — one scale-free proportion (`k
 [BKGWKBKGBKGBWKBK](/stripes/bkgwkbkgbkgbwkbk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Northern Guard Supporters](/tartans/n/no/northern-guard-supporters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

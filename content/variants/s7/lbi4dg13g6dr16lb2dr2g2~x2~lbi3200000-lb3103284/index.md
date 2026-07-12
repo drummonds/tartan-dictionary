@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Brewery"
-  url: "/tartans/caledonian-brewery-2/"
+  url: "/tartans/c/ca/caledonian-brewery-2/"
 - name: "Caledonian Brewery (Corporate)"
   url: "/setts/lbi4dg13g6dr16lb2dr2g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lbi4dg13g6dr16lb2dr2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGGW](/stripes/gbwbggw/).
 
-Part of the [Caledonian Brewery](/tartans/caledonian-brewery-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caledonian Brewery](/tartans/c/ca/caledonian-brewery-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

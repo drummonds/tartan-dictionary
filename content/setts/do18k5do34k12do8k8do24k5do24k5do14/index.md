@@ -6,7 +6,7 @@ This is the **Black Shadow** sett — one scale-free proportion (`do18k5do34k12d
 [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Black Shadow](/tartans/black-shadow-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Shadow](/tartans/b/bl/black-shadow-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

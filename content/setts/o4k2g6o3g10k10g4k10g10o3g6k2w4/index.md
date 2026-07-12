@@ -6,6 +6,8 @@ This is the **Crihfield Family (Personal)** sett — one scale-free proportion (
 [RKGRGKGKGRGKW](/stripes/rkgrgkgkgrgkw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Crihfield](/tartans/c/cr/crihfield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

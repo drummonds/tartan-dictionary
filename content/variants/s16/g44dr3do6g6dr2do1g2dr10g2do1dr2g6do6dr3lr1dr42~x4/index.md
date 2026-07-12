@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gudbrandsdalen"
+  url: "/clan/gudbrandsdalen/"
+- name: "Gudbrandsdalen of Mannsdrakt"
+  url: "/families/gudbrandsdalen-of-mannsdrakt/"
+- name: "Gudbrandsdalen of Mannsdrakt"
+  url: "/tartans/g/gu/gudbrandsdalen-of-mannsdrakt/"
 - name: "Gudbrandsdalen of Mannsdrakt"
   url: "/setts/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBGBBGBGBBGBBG](/stripes/bybbgbbgbgbbgbbg/).
+
+Part of the [Gudbrandsdalen of Mannsdrakt](/tartans/g/gu/gudbrandsdalen-of-mannsdrakt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **Nolan (Personal)** sett — one scale-free proportion (`dr8g19dg42
 [BGGYR](/stripes/bggyr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Nolan](/tartans/n/no/nolan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

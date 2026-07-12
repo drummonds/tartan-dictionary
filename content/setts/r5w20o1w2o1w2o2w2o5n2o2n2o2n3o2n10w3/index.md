@@ -6,6 +6,8 @@ This is the **Nike Golf Light (Corporate)** sett — one scale-free proportion (
 [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Nike Golf Light](/tartans/n/ni/nike-golf-light-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

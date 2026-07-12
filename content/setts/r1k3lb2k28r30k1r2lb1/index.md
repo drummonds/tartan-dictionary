@@ -6,6 +6,8 @@ This is the **Las Vegas Fire Fighters** sett — one scale-free proportion (`r1k
 [RKWKRKRW](/stripes/rkwkrkrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Las Vegas Fire Fighters](/tartans/l/la/las-vegas-fire-fighters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Skene Clan Tartan** sett — one scale-free proportion (`db6r3g2r3
 [BRGRGRG](/stripes/brgrgrg/). It is recorded as a single **variant**, below.
 First attested **1886**.
 
-Part of the [Skene](/tartans/skene-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Skene](/tartans/s/sk/skene-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

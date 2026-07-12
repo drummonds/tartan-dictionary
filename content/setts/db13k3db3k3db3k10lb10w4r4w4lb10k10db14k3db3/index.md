@@ -6,6 +6,8 @@ This is the **Palatine Union Personal Tartan** sett — one scale-free proportio
 [BKBKBKWWRWWKBKB](/stripes/bkbkbkwwrwwkbkb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Palatine Union](/tartans/p/pa/palatine-union-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

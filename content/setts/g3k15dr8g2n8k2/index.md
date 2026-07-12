@@ -6,6 +6,8 @@ This is the **Lindsay Htg (Clan?)** sett — one scale-free proportion (`g3k15dr
 [GKBGBK](/stripes/gkbgbk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Lindsay Hunting](/tartans/l/li/lindsay-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

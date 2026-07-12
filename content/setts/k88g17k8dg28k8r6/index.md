@@ -6,6 +6,8 @@ This is the **Childers Regimental Tartan** sett — one scale-free proportion (`
 [KGKGKR](/stripes/kgkgkr/). It is recorded as a single **variant**, below.
 First attested **1907**.
 
+Part of the [Childers Regimental](/tartans/c/ch/childers-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

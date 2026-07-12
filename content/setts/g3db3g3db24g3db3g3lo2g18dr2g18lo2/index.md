@@ -6,6 +6,8 @@ This is the **Greenways Marketing Intl** sett — one scale-free proportion (`g3
 [GBGBGBGYGBGY](/stripes/gbgbgbgygbgy/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Greenways Marketing Intl](/tartans/g/gr/greenways-marketing-intl-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

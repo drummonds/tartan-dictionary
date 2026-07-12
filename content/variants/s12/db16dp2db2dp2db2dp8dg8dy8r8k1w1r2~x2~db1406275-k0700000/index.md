@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Salt Lake City Arts Council"
+  url: "/tartans/s/sa/salt-lake-city-arts-council/"
 - name: "Salt Lake City Arts Council (Corp)"
   url: "/setts/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGGRKWR](/stripes/bbbbbbggrkwr/).
+
+Part of the [Salt Lake City Arts Council](/tartans/s/sa/salt-lake-city-arts-council/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

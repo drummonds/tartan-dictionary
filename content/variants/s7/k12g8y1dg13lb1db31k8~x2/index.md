@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chesters, Eric"
+  url: "/tartans/c/ch/chesters-eric/"
 - name: "Chesters, Eric (Personal)"
   url: "/setts/k12g8y1dg13lb1db31k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k12g8y1dg13lb1db31k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWGGGK](/stripes/kbwgggk/).
+
+Part of the [Chesters, Eric](/tartans/c/ch/chesters-eric/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

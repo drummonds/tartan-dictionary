@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews Links"
-  url: "/tartans/st-andrews-links-2/"
+  url: "/tartans/s/st/st-andrews-links-2/"
 - name: "St Andrews Links"
   url: "/setts/db16g4db3g3y2g24r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16g4db3g3y2g24r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGR](/stripes/bgbgggr/).
 
-Part of the [St Andrews Links](/tartans/st-andrews-links-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Andrews Links](/tartans/s/st/st-andrews-links-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

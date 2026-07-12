@@ -6,6 +6,8 @@ This is the **Blackberry (Fashion)** sett — one scale-free proportion (`r8ly6k
 [RYKYKYR](/stripes/rykykyr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Blackberry](/tartans/b/bl/blackberry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

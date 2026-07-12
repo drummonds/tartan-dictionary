@@ -6,7 +6,7 @@ This is the **Borthwick (Clan)** sett — one scale-free proportion (`g17k1dr16k
 [BKBKBKBKG](/stripes/bkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Borthwick](/tartans/borthwick/) tartan — the named design grouping this sett with its kin.
+Part of the [Borthwick](/tartans/b/bo/borthwick/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

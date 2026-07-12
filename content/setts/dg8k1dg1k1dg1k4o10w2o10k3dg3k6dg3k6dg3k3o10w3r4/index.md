@@ -6,6 +6,8 @@ This is the **Pride of Loch Leven (Fashion?)** sett — one scale-free proportio
 [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Pride of Loch Leven](/tartans/p/pr/pride-of-loch-leven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

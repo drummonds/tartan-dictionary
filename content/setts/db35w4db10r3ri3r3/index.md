@@ -6,6 +6,8 @@ This is the **Steffen, Morris (Personal)** sett — one scale-free proportion (`
 [BWBRRR](/stripes/bwbrrr/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Steffen, Morris](/tartans/s/st/steffen-morris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

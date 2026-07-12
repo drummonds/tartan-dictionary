@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buchanan"
-  url: "/tartans/buchanan/"
+  url: "/tartans/b/bu/buchanan/"
 - name: "Buchanan (Wilson)"
   url: "/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKRWRKBKGKGKBKG](/stripes/bgkbkrwrkbkgkgkbkg/).
 
-Part of the [Buchanan](/tartans/buchanan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Buchanan](/tartans/b/bu/buchanan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

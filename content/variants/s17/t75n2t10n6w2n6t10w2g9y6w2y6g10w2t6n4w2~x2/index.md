@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dallas"
+  url: "/tartans/d/da/dallas/"
+- name: "Dallas"
   url: "/setts/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t75n2t10n6w2n6t10w2g9y6w2y6g10w2t6n4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBBWGGWGGWBBW](/stripes/bbbbwbbwggwggwbbw/).
+
+Part of the [Dallas](/tartans/d/da/dallas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

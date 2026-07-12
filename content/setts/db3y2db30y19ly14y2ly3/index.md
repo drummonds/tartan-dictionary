@@ -6,6 +6,8 @@ This is the **Bannockbane Brown #2** sett — one scale-free proportion (`db3y2d
 [BGBGYGY](/stripes/bgbgygy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane](/tartans/b/ba/bannockbane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

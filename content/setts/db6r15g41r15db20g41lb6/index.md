@@ -6,6 +6,8 @@ This is the **Bean Hunting** sett — one scale-free proportion (`db6r15g41r15db
 [BRGRBGW](/stripes/brgrbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bean Hunting](/tartans/b/be/bean-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

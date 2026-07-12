@@ -6,7 +6,7 @@ This is the **Semple (Name)** sett — one scale-free proportion (`r4t11k3t3k3t4
 [RBKBKBKGW](/stripes/rbkbkbkgw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Semple](/tartans/semple/) tartan — the named design grouping this sett with its kin.
+Part of the [Semple](/tartans/s/se/semple/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

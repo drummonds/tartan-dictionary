@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glendronach"
+  url: "/tartans/g/gl/glendronach-2/"
+- name: "Glendronach"
   url: "/setts/g21r2w1y3r2g5r21y1ly1y1r1g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g21r2w1y3r2g5r21y1ly1y1r1g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGYGRGRGWRG](/stripes/grgygrgrgwrg/).
+
+Part of the [Glendronach](/tartans/g/gl/glendronach-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

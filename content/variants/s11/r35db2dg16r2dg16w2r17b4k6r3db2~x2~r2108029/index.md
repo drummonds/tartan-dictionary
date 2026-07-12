@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Chafee"
+  url: "/clan/chafee/"
+- name: "Chafee of Glenmary"
+  url: "/families/chafee-of-glenmary/"
+- name: "Chafee of Glenmary"
+  url: "/tartans/c/ch/chafee-of-glenmary/"
 - name: "Chafee of Glenmary (Personal)"
   url: "/setts/r35db2dg16r2dg16w2r17b4k6r3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r35db2dg16r2dg16w2r17b4k6r3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBRWGRGBR](/stripes/brkbrwgrgbr/).
+
+Part of the [Chafee of Glenmary](/tartans/c/ch/chafee-of-glenmary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

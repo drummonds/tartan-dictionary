@@ -6,7 +6,7 @@ This is the **Loch Lochy (District)** sett — one scale-free proportion (`r6g14
 [RGRBRWRY](/stripes/rgrbrwry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Loch Lochy](/tartans/loch-lochy/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Lochy](/tartans/l/lo/loch-lochy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundas"
+  url: "/tartans/d/du/dundas-2/"
+- name: "Dundas"
   url: "/setts/db9r24g24k24db24y2db9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9r24g24k24db24y2db9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGRB](/stripes/bgbkgrb/).
+
+Part of the [Dundas](/tartans/d/du/dundas-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

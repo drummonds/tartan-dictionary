@@ -6,6 +6,8 @@ This is the **Murdoch Celebration (Personal)** sett — one scale-free proportio
 [BRBRBKWK](/stripes/brbrbkwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Murdoch Celebration](/tartans/m/mu/murdoch-celebration/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

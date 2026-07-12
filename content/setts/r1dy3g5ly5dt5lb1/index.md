@@ -6,6 +6,8 @@ This is the **Loch Fyne** sett — one scale-free proportion (`r1dy3g5ly5dt5lb1`
 [RGGYBW](/stripes/rggybw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Loch Fyne](/tartans/l/lo/loch-fyne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

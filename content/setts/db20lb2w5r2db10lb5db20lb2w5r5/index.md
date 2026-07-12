@@ -6,7 +6,7 @@ This is the **Mortell (Personal)** sett — one scale-free proportion (`db20lb2w
 [BWWRBWBWWR](/stripes/bwwrbwbwwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Mortell](/tartans/mortell/) tartan — the named design grouping this sett with its kin.
+Part of the [Mortell](/tartans/m/mo/mortell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

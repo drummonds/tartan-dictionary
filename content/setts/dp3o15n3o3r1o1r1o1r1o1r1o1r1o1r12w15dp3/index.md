@@ -6,6 +6,8 @@ This is the **Purple Thistle** sett — one scale-free proportion (`dp3o15n3o3r1
 [BRBRRRRRRRRRRRRWB](/stripes/brbrrrrrrrrrrrrwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Purple Thistle](/tartans/p/pu/purple-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

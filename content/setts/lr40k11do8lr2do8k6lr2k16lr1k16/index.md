@@ -6,6 +6,8 @@ This is the **Lebrun** sett — one scale-free proportion (`lr40k11do8lr2do8k6lr
 [KYKYKBYBKY](/stripes/kykykbybky/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Lebrun](/tartans/l/le/lebrun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

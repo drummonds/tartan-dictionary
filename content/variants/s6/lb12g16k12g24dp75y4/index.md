@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Widows Sons Scotland Dress"
-  url: "/tartans/widows-sons-scotland-dress/"
+  url: "/tartans/w/wi/widows-sons-scotland-dress/"
 - name: "Widows Sons Scotland Dress"
   url: "/setts/lb12g16k12g24dp75y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb12g16k12g24dp75y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGW](/stripes/gbgkgw/).
 
-Part of the [Widows Sons Scotland Dress](/tartans/widows-sons-scotland-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Widows Sons Scotland Dress](/tartans/w/wi/widows-sons-scotland-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

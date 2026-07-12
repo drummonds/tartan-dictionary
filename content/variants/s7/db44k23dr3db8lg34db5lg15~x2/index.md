@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "US Air Force Reserve Pipe Band"
-  url: "/tartans/us-air-force-reserve-pipe-band/"
+  url: "/tartans/u/us/us-air-force-reserve-pipe-band/"
 - name: "US Air Force Reserve Pipe Band Military Tartan"
   url: "/setts/db44k23dr3db8lg34db5lg15/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db44k23dr3db8lg34db5lg15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKKBBYBY](/stripes/bkkbbyby/).
 
-Part of the [US Air Force Reserve Pipe Band](/tartans/us-air-force-reserve-pipe-band/) tartan — the named design grouping this sett with its other cloths.
+Part of the [US Air Force Reserve Pipe Band](/tartans/u/us/us-air-force-reserve-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

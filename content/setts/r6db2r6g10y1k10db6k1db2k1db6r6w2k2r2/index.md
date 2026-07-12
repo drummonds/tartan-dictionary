@@ -6,6 +6,8 @@ This is the **MacPherson #7** sett — one scale-free proportion (`r6db2r6g10y1k
 [RBRGGKBKBKBRWKR](/stripes/rbrggkbkbkbrwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPherson 10](/tartans/m/ma/macpherson-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

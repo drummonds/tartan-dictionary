@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunlop Dress"
+  url: "/tartans/d/du/dunlop-dress/"
+- name: "Dunlop Dress"
   url: "/setts/w3db1w30db1dp28w1dp1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db1w30db1dp28w1dp1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBBWBW](/stripes/wbwbbwbw/).
+
+Part of the [Dunlop Dress](/tartans/d/du/dunlop-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harkness Dress"
+  url: "/tartans/h/ha/harkness-dress/"
+- name: "Harkness Dress"
   url: "/setts/t10r2w2r16g6r1g2r1g3r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t10r2w2r16g6r1g2r1g3r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRGRGRGR](/stripes/brwrgrgrgr/).
+
+Part of the [Harkness Dress](/tartans/h/ha/harkness-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

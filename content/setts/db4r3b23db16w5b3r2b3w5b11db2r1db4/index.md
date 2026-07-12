@@ -6,7 +6,7 @@ This is the **Illinois, St Andrews Society** sett — one scale-free proportion 
 [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Illinois, St Andrews Society](/tartans/illinois-st-andrews-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Illinois, St Andrews Society](/tartans/i/il/illinois-st-andrews-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

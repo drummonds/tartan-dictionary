@@ -6,6 +6,8 @@ This is the **Connecticut** sett — one scale-free proportion (`db20n2w1n5dg8y1
 [BBWBGGGRGB](/stripes/bbwbgggrgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Connecticut](/tartans/c/co/connecticut/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manitoba Masonic"
-  url: "/tartans/manitoba-masonic/"
+  url: "/tartans/m/ma/manitoba-masonic/"
 - name: "Manitoba Masonic (Corporate)"
   url: "/setts/ly3db8w3db34r34g4r4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly3db8w3db34r34g4r4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRBWBY](/stripes/wrgrbwby/).
 
-Part of the [Manitoba Masonic](/tartans/manitoba-masonic/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manitoba Masonic](/tartans/m/ma/manitoba-masonic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

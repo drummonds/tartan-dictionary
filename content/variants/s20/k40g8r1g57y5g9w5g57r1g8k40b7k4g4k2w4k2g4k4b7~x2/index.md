@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Phyllis Gordon"
-  url: "/tartans/unidentified-phyllis-gordon/"
+  url: "/tartans/u/un/unidentified-phyllis-gordon/"
 - name: "Unidentified, Phyllis Gordon"
   url: "/setts/k40g8r1g57y5g9w5g57r1g8k40b7k4g4k2w4k2g4k4b7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k40g8r1g57y5g9w5g57r1g8k40b7k4g4k2w4k2g4k4b7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWKGKBKGRGWGGGRGK](/stripes/bkgkwkgkbkgrgwgggrgk/).
 
-Part of the [Unidentified Phyllis Gordon](/tartans/unidentified-phyllis-gordon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Phyllis Gordon](/tartans/u/un/unidentified-phyllis-gordon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 

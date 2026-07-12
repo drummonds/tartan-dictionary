@@ -6,6 +6,8 @@ This is the **Kilbarchan Unidentified No. 2** sett — one scale-free proportion
 [RWWWWKGGGKWKRKWKGGGKWWWW](/stripes/rwwwwkgggkwkrkwkgggkwwww/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [Kilbarchan Unidentified No. 2](/tartans/k/ki/kilbarchan-unidentified-no-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

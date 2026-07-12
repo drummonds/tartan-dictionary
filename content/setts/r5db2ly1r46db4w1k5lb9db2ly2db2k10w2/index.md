@@ -6,6 +6,8 @@ This is the **Stratford City Police PB (Corp)** sett — one scale-free proporti
 [RBYRBWKWBYBKW](/stripes/rbyrbwkwbybkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Stratford City Police PB](/tartans/s/st/stratford-city-police-pb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

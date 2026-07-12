@@ -6,6 +6,8 @@ This is the **Taylor, dress** sett — one scale-free proportion (`g9k2b4g14w3dg
 [GGWGWGBKG](/stripes/ggwgwgbkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Taylor, dress](/tartans/t/ta/taylor-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

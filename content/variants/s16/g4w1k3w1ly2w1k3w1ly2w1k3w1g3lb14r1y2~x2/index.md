@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Dorvil"
+  url: "/tartans/c/ci/city-of-dorvil/"
 - name: "City of Dorvil (District)"
   url: "/setts/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWGWKWYWKWYWKWG](/stripes/grwgwkwywkwywkwg/).
+
+Part of the [City of Dorvil](/tartans/c/ci/city-of-dorvil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

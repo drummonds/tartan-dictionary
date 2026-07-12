@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Frogaletto"
+  url: "/tartans/f/fr/frogaletto/"
 - name: "Frogaletto (Personal)"
   url: "/setts/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBWBYBBKRKB](/stripes/bbbbbbbwbybbkrkb/).
+
+Part of the [Frogaletto](/tartans/f/fr/frogaletto/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

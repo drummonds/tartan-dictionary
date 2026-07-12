@@ -6,6 +6,8 @@ This is the **Dram! (Corporate)** sett — one scale-free proportion (`db5lb1db1
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Dram!](/tartans/d/dr/dram/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

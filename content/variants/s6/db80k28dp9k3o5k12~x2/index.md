@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Earl Blue Marl"
+  url: "/tartans/e/ea/earl-blue-marl/"
+- name: "Earl Blue Marl"
   url: "/setts/db80k28dp9k3o5k12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db80k28dp9k3o5k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRK](/stripes/bkbkrk/).
+
+Part of the [Earl Blue Marl](/tartans/e/ea/earl-blue-marl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

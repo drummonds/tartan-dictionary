@@ -6,6 +6,8 @@ This is the **Elmore (Personal)** sett — one scale-free proportion (`r29k1lo3d
 [KWGKBGWRKRWGYKR](/stripes/kwgkbgwrkrwgykr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Elmore](/tartans/e/el/elmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

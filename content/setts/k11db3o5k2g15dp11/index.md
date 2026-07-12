@@ -6,6 +6,8 @@ This is the **Saorsa Corporate Tartan** sett — one scale-free proportion (`k11
 [BGKRBK](/stripes/bgkrbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Saorsa](/tartans/s/sa/saorsa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

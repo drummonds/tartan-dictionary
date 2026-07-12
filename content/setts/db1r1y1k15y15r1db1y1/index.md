@@ -6,6 +6,8 @@ This is the **Pittsburgh St Andrew's Society** sett — one scale-free proportio
 [BRGKGRBG](/stripes/brgkgrbg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Pittsburgh St Andrew's Society](/tartans/p/pi/pittsburgh-st-andrew-s-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

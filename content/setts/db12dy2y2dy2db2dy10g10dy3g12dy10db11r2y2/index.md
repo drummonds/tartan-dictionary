@@ -6,6 +6,8 @@ This is the **MacVicker (Name)** sett — one scale-free proportion (`db12dy2y2d
 [BGGGBGGGGGBRG](/stripes/bgggbgggggbrg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [MacVicker](/tartans/m/ma/macvicker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

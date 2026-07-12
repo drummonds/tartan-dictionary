@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ulster"
+  url: "/tartans/u/ul/ulster/"
+- name: "Ulster"
   url: "/setts/o28k2o28k2o2k2do29k2r2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o28k2o28k2o2k2do29k2r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBKRKRKR](/stripes/krkbkrkrkr/).
+
+Part of the [Ulster](/tartans/u/ul/ulster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

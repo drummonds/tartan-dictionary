@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eidart 1990"
+  url: "/tartans/e/ei/eidart-1990/"
 - name: "Eidart 1990 (Fashion)"
   url: "/setts/n4dr20k2dr2k2dr3k6o26w3o2w2o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4dr20k2dr2k2dr3k6o26w3o2w2o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKRWRWR](/stripes/bbkbkbkrwrwr/).
+
+Part of the [Eidart 1990](/tartans/e/ei/eidart-1990/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

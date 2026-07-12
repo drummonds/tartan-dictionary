@@ -6,6 +6,8 @@ This is the **Allandale Blue Dress Tartan** sett — one scale-free proportion (
 [KWKWWBGWBWBW](/stripes/kwkwwbgwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Allandale Blue Dress](/tartans/a/al/allandale-blue-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

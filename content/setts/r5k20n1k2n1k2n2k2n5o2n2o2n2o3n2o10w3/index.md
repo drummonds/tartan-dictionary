@@ -7,6 +7,8 @@ This is the **Nike Golf Dark** sett — one scale-free proportion (`r5k20n1k2n1k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2012**.
 
+Part of the [Nike Golf Dark](/tartans/n/ni/nike-golf-dark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

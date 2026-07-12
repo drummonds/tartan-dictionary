@@ -6,6 +6,8 @@ This is the **Sligo, County** sett — one scale-free proportion (`db50do4db12do
 [BBBBYB](/stripes/bbbbyb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Sligo, County](/tartans/s/sl/sligo-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

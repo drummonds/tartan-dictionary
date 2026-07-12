@@ -7,6 +7,8 @@ This is the **Wilson's No.055** sett — one scale-free proportion (`g6dp5lb1`),
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Wilson's No.055](/tartans/w/wi/wilson-s-no-055/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

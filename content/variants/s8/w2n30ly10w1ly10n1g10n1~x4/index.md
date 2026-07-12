@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Evergreen"
+  url: "/tartans/e/ev/evergreen/"
+- name: "Evergreen"
   url: "/setts/w2n30ly10w1ly10n1g10n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2n30ly10w1ly10n1g10n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYWYBW](/stripes/bgbywybw/).
+
+Part of the [Evergreen](/tartans/e/ev/evergreen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

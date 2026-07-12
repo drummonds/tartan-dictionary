@@ -6,6 +6,8 @@ This is the **Scottish Register of Tartans' Tartan** sett — one scale-free pro
 [BBBBBBGBKBKBYBK](/stripes/bbbbbbgbkbkbybk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Scottish Register of Tartans'](/tartans/s/sc/scottish-register-of-tartans-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

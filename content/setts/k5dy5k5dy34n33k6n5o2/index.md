@@ -6,7 +6,7 @@ This is the **Brave for Men (Fashion)** sett — one scale-free proportion (`k5d
 [KGKGBKBR](/stripes/kgkgbkbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Brave for Men](/tartans/brave-for-men/) tartan — the named design grouping this sett with its kin.
+Part of the [Brave for Men](/tartans/b/br/brave-for-men/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

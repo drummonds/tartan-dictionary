@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of New Hampshire"
+  url: "/tartans/s/st/state-seal-of-new-hampshire/"
 - name: "State Seal of New Hampshire (Fash.)"
   url: "/setts/g49t6k12ly4dr6g29lyi4dy16g7ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g49t6k12ly4dr6g29lyi4dy16g7ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKYBGYGGY](/stripes/gbkybgyggy/).
+
+Part of the [State Seal of New Hampshire](/tartans/s/st/state-seal-of-new-hampshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

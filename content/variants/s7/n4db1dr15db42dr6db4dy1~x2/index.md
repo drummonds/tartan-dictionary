@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lion Brand Sportswear"
+  url: "/tartans/l/li/lion-brand-sportswear/"
+- name: "Lion Brand Sportswear"
   url: "/setts/n4db1dr15db42dr6db4dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4db1dr15db42dr6db4dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBG](/stripes/bbbbbbg/).
+
+Part of the [Lion Brand Sportswear](/tartans/l/li/lion-brand-sportswear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

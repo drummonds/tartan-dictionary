@@ -6,6 +6,8 @@ This is the **Battle of Prestonpans (1745) Herit** sett — one scale-free propo
 [BRGBW](/stripes/brgbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Battle of Prestonpans Herit](/tartans/b/ba/battle-of-prestonpans-herit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

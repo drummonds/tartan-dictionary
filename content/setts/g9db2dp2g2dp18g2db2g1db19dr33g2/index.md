@@ -6,6 +6,8 @@ This is the **Pride of Scotland Autumn** sett — one scale-free proportion (`g9
 [GBBGBGBGBBG](/stripes/gbbgbgbgbbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Pride of Scotland Autumn](/tartans/p/pr/pride-of-scotland-autumn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

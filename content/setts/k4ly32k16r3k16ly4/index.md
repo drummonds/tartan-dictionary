@@ -6,6 +6,8 @@ This is the **Unnamed C21st - Fashion** sett — one scale-free proportion (`k4l
 [KYKRKY](/stripes/kykrky/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Unnamed C21st](/tartans/u/un/unnamed-c21st/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Brydon (2013)** sett — one scale-free proportion (`dp2dg16k16db2
 [BGKBKBKBBG](/stripes/bgkbkbkbbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Brydon](/tartans/brydon/) tartan — the named design grouping this sett with its kin.
+Part of the [Brydon](/tartans/b/br/brydon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

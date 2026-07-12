@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser"
+  url: "/tartans/f/fr/fraser-4/"
 - name: "Fraser (Wilson 1820)"
   url: "/setts/db2r2db10r10db1r10g10r1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2r2db10r10db1r10g10r1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
+
+Part of the [Fraser](/tartans/f/fr/fraser-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Battle of Prestonpans (1745) Heritage Trust, The** sett — one sc
 [BBGBW](/stripes/bbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Battle of Prestonpans Heritage Trust, The](/tartans/b/ba/battle-of-prestonpans-heritage-trust-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

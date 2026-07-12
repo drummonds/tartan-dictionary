@@ -6,6 +6,8 @@ This is the **Grammar School at Leeds (School)** sett — one scale-free proport
 [BWBKBK](/stripes/bwbkbk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Grammar School at Leeds](/tartans/g/gr/grammar-school-at-leeds/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

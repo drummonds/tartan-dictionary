@@ -6,6 +6,8 @@ This is the **Glen Affric (Artefact)** sett — one scale-free proportion (`k2g2
 [GBBGBGBGBGBGK](/stripes/gbbgbgbgbgbgk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Glen Affric](/tartans/g/gl/glen-affric/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

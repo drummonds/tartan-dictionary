@@ -6,6 +6,8 @@ This is the **Queen Mary RMS** sett — one scale-free proportion (`db24y4n4dp4d
 [BGBBBRWKWRKW](/stripes/bgbbbrwkwrkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Queen Mary RMS](/tartans/q/qu/queen-mary-rms/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

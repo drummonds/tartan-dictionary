@@ -6,6 +6,8 @@ This is the **Greenock** sett — one scale-free proportion (`y2db17r2k16g17k2g2
 [GBRKGKG](/stripes/gbrkgkg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Greenock](/tartans/g/gr/greenock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

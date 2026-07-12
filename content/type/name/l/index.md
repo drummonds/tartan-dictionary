@@ -13,10 +13,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><img src="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/sett.png" alt="Lambert (Front Royal) Hunting" width="140"><br>Lambert (Front Royal) Hunting</a></li>
 <li><a class="tartan" href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert (Front Royal) Kai" width="140"><br>Lambert (Front Royal) Kai</a></li>
 <li><a class="tartan" href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><img src="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/sett.png" alt="Lamont" width="140"><br>Lamont</a></li>
-<li><a class="tartan" href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><img src="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/sett.png" alt="Lamquet (2015)" width="140"><br>Lamquet (2015)</a></li>
 <li><a class="tartan" href="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/"><img src="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/sett.png" alt="Lamquet (2015)" width="140"><br>Lamquet (2015)</a></li>
-<li><a class="tartan" href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><img src="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/sett.png" alt="Lander (2013)" width="140"><br>Lander (2013)</a></li>
+<li><a class="tartan" href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><img src="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/sett.png" alt="Lamquet (2015)" width="140"><br>Lamquet (2015)</a></li>
 <li><a class="tartan" href="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/"><img src="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/sett.png" alt="Lander (2013)" width="140"><br>Lander (2013)</a></li>
+<li><a class="tartan" href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><img src="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/sett.png" alt="Lander (2013)" width="140"><br>Lander (2013)</a></li>
 <li><a class="tartan" href="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/"><img src="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/sett.png" alt="Langerman (Anchorage)" width="140"><br>Langerman (Anchorage)</a></li>
 <li><a class="tartan" href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><img src="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/sett.png" alt="Langermann (Name)" width="140"><br>Langermann (Name)</a></li>
 <li><a class="tartan" href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><img src="/variants/s8/db35g10lb10k10db23y1db3r2~x2/sett.png" alt="Lapsley, The Tom" width="140"><br>Lapsley, The Tom</a></li>
@@ -57,13 +57,13 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><img src="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/sett.png" alt="Logan Rogers" width="140"><br>Logan Rogers</a></li>
 <li><a class="tartan" href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><img src="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/sett.png" alt="Logan Rogers Hunting" width="140"><br>Logan Rogers Hunting</a></li>
 <li><a class="tartan" href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><img src="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/sett.png" alt="Longmore" width="140"><br>Longmore</a></li>
-<li><a class="tartan" href="/variants/s6/k43dg8k8db21dg10w2~x2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><img src="/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
+<li><a class="tartan" href="/variants/s6/k43dg8k8db21dg10w2~x2/"><img src="/variants/s6/k43dg8k8db21dg10w2~x2/sett.png" alt="Longmuir (2014)" width="140"><br>Longmuir (2014)</a></li>
 <li><a class="tartan" href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><img src="/variants/s8/db4r1w1r1db4k2lb6y1~x6/sett.png" alt="Lopatinsky" width="140"><br>Lopatinsky</a></li>
 <li><a class="tartan" href="/variants/s7/r1n5k5db1k1db6y1~x8/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto" width="140"><br>Lopez-Gasparotto</a></li>
 <li><a class="tartan" href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><img src="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/sett.png" alt="Lovell (2014)" width="140"><br>Lovell (2014)</a></li>
-<li><a class="tartan" href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
+<li><a class="tartan" href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/"><img src="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/sett.png" alt="Lundie" width="140"><br>Lundie</a></li>
 <li><a class="tartan" href="/variants/s8/t18w1k3w1t9w1k45t4~x2/"><img src="/variants/s8/t18w1k3w1t9w1k45t4~x2/sett.png" alt="Lynn (Name)" width="140"><br>Lynn (Name)</a></li>
 </ul>

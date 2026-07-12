@@ -6,7 +6,7 @@ This is the **MacDonagh (Name)** sett — one scale-free proportion (`r20dg29db1
 [KGRGBGR](/stripes/kgrgbgr/). It is recorded as a single **variant**, below.
 First attested **~1850**.
 
-Part of the [MacDonagh](/tartans/macdonagh/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonagh](/tartans/m/ma/macdonagh/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

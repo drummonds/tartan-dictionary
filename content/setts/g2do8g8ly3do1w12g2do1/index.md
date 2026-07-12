@@ -6,7 +6,7 @@ This is the **National Trust** sett — one scale-free proportion (`g2do8g8ly3do
 [BGWBYGBG](/stripes/bgwbygbg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [National Trust](/tartans/national-trust-2/) tartan — the named design grouping this sett with its kin.
+Part of the [National Trust](/tartans/n/na/national-trust-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

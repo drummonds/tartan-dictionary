@@ -6,6 +6,8 @@ This is the **McDougall, Miss Anne (Personal)** sett — one scale-free proporti
 [WBRWBWGWRBRWBWGWBRW](/stripes/wbrwbwgwrbrwbwgwbrw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [McDougall, Miss Anne](/tartans/m/mc/mcdougall-miss-anne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

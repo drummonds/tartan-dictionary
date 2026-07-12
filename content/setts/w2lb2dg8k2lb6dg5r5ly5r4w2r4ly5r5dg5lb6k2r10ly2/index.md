@@ -6,7 +6,7 @@ This is the **Kutztown (Berks Co., PA) (District)** sett — one scale-free prop
 [WWGKWGRYRWRYRGWKRY](/stripes/wwgkwgryrwryrgwkry/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Kutztown](/tartans/kutztown/) tartan — the named design grouping this sett with its kin.
+Part of the [Kutztown](/tartans/k/ku/kutztown/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

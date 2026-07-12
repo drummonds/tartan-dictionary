@@ -6,6 +6,8 @@ This is the **Nassau County Firefighters (P&D)** sett — one scale-free proport
 [KWGRBRYRWK](/stripes/kwgrbryrwk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Nassau County Firefighters](/tartans/n/na/nassau-county-firefighters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

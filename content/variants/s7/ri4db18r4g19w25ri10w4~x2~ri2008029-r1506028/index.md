@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Fraser"
   url: "/clan/fraser/"
 - name: "Fraser Red Dress"
-  url: "/tartans/fraser-red-dress/"
+  url: "/tartans/f/fr/fraser-red-dress/"
 - name: "Fraser, Red dress"
   url: "/setts/ri4db18r4g19w25ri10w4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri4db18r4g19w25ri10w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGWRW](/stripes/rbrgwrw/).
 
-Part of the [Fraser Red Dress](/tartans/fraser-red-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fraser Red Dress](/tartans/f/fr/fraser-red-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

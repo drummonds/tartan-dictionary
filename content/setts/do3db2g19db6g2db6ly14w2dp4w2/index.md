@@ -6,6 +6,8 @@ This is the **Royal Pharmaceutical Society Commemorative Tartan** sett — one s
 [BBGBGBYWBW](/stripes/bbgbgbywbw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Royal Pharmaceutical Society Commemorative](/tartans/r/ro/royal-pharmaceutical-society-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

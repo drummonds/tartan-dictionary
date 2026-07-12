@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Pr Ch Ed Plaid?** sett — one scale-free proporti
 [RGGWKWGGWRW](/stripes/rggwkwggwrw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

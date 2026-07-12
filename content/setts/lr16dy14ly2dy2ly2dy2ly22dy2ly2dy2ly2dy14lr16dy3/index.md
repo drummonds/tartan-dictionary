@@ -6,6 +6,8 @@ This is the **Snaefell** sett — one scale-free proportion (`lr16dy14ly2dy2ly2d
 [GYGYGYGYGYGYGY](/stripes/gygygygygygygy/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Snaefell](/tartans/s/sn/snaefell-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

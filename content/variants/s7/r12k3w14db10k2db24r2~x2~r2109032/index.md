@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yusra"
+  url: "/tartans/y/yu/yusra/"
 - name: "Yusra Personal Tartan"
   url: "/setts/r12k3w14db10k2db24r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12k3w14db10k2db24r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBWKR](/stripes/rbkbwkr/).
+
+Part of the [Yusra](/tartans/y/yu/yusra/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

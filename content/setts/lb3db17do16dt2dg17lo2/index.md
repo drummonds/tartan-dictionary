@@ -6,6 +6,8 @@ This is the **Ancient Atlantic (Fashion)** sett — one scale-free proportion (`
 [WBBBGY](/stripes/wbbbgy/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [Ancient Atlantic](/tartans/a/an/ancient-atlantic-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

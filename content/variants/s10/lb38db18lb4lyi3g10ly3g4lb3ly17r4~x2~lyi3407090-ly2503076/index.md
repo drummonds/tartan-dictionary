@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Delaware"
+  url: "/tartans/s/st/state-seal-of-delaware/"
 - name: "State Seal of Delaware (Fashion)"
   url: "/setts/lb38db18lb4lyi3g10ly3g4lb3ly17r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb38db18lb4lyi3g10ly3g4lb3ly17r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYWGYGYWBW](/stripes/rywgygywbw/).
+
+Part of the [State Seal of Delaware](/tartans/s/st/state-seal-of-delaware/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

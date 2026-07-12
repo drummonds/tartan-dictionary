@@ -6,6 +6,8 @@ This is the **Christopher Newport University** sett — one scale-free proportio
 [BKWKWKWBW](/stripes/bkwkwkwbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Christopher Newport University](/tartans/c/ch/christopher-newport-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Scott Dress Tartan** sett — one scale-free proportion (`r4g5w2g5
 [GRKWRGRGWGR](/stripes/grkwrgrgwgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Scott Dress](/tartans/scott-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Scott Dress](/tartans/s/sc/scott-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

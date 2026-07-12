@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Tordarroch"
+  url: "/families/shaw-of-tordarroch/"
+- name: "Shaw of Tordarroch"
+  url: "/tartans/s/sh/shaw-of-tordarroch/"
 - name: "Shaw of Tordarroch Green (Hunting)"
   url: "/setts/lb5k1g30db15r8g30r8db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5k1g30db15r8g30r8db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBRGRBRGRBGKW](/stripes/kgbrgrbrgrbgkw/).
+
+Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

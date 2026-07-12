@@ -6,6 +6,8 @@ This is the **Särna District Tartan** sett — one scale-free proportion (`dy13
 [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1783**.
 
+Part of the [Sarna](/tartans/s/sa/sarna-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

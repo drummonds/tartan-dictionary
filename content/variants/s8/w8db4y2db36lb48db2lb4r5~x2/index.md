@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRaes"
+  url: "/clan/macraes/"
+- name: "MacRaes of America"
+  url: "/families/macraes-of-america/"
+- name: "MacRaes of America"
+  url: "/tartans/m/ma/macraes-of-america/"
 - name: "MacRaes of America"
   url: "/setts/w8db4y2db36lb48db2lb4r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8db4y2db36lb48db2lb4r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBGBW](/stripes/rwbwbgbw/).
+
+Part of the [MacRaes of America](/tartans/m/ma/macraes-of-america/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

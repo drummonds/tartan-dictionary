@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celkilt"
+  url: "/tartans/c/ce/celkilt/"
+- name: "Celkilt"
   url: "/setts/k80n2k160dt8n2dt5n3dt3n4dt2n5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k80n2k160dt8n2dt5n3dt3n4dt2n5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBBBBBBBW](/stripes/kbkbbbbbbbbw/).
+
+Part of the [Celkilt](/tartans/c/ce/celkilt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

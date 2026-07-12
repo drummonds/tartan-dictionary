@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "DeWolfe"
+  url: "/tartans/d/de/dewolfe/"
+- name: "DeWolfe"
   url: "/setts/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGKGBGBGBKW](/stripes/gbgbgbgkgbgbgbkw/).
+
+Part of the [DeWolfe](/tartans/d/de/dewolfe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

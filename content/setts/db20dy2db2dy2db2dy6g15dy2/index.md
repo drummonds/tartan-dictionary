@@ -6,6 +6,8 @@ This is the **Gammell (Brown) (Personal)** sett — one scale-free proportion (`
 [BGBGBGGG](/stripes/bgbgbggg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Gammell](/tartans/g/ga/gammell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

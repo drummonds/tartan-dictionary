@@ -6,6 +6,8 @@ This is the **Sanix Muted** sett — one scale-free proportion (`dr3dg40dy30dg3`
 [BGGG](/stripes/bggg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Sanix](/tartans/s/sa/sanix/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

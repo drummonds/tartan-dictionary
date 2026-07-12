@@ -6,6 +6,8 @@ This is the **Hudson Hunting (Personal)** sett — one scale-free proportion (`d
 [BWKBWGKGKWG](/stripes/bwkbwgkgkwg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Hudson Hunting](/tartans/h/hu/hudson-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

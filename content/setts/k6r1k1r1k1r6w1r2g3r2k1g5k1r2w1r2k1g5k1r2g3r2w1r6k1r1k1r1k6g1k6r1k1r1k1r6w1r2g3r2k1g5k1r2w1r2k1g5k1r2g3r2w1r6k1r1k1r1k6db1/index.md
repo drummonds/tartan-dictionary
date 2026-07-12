@@ -6,6 +6,8 @@ This is the **Innes of Cowie** sett — one scale-free proportion (`k6r1k1r1k1r6
 [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkgkrkrkrwrgrkgkrwrkgkrgrwrkrkrk/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [Innes of Cowie](/tartans/i/in/innes-of-cowie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

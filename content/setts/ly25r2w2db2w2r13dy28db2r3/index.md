@@ -6,6 +6,8 @@ This is the **Brousseau (Personal)** sett — one scale-free proportion (`ly25r2
 [RBGRWBWRY](/stripes/rbgrwbwry/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Brousseau](/tartans/b/br/brousseau/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

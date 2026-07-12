@@ -6,7 +6,7 @@ This is the **Halcrow Howell (Name)** sett — one scale-free proportion (`dbi4t
 [BBBKBGBGW](/stripes/bbbkbgbgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Halcrow Howell](/tartans/halcrow-howell/) tartan — the named design grouping this sett with its kin.
+Part of the [Halcrow Howell](/tartans/h/ha/halcrow-howell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

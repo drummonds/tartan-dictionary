@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cercle de Fermieres de St-Elie . . ."
+  url: "/tartans/c/ce/cercle-de-fermieres-de-st-elie/"
+- name: "Cercle de Fermieres de St-Elie . . ."
   url: "/setts/r2ly1t8r1g7ly1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly1t8r1g7ly1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBRGYR](/stripes/rybrgyr/).
+
+Part of the [Cercle de Fermieres de St-Elie . . .](/tartans/c/ce/cercle-de-fermieres-de-st-elie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

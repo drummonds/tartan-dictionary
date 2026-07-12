@@ -6,6 +6,8 @@ This is the **Hunter Clan Tartan** sett — one scale-free proportion (`k8r1db8w
 [GKGKRBWBRK](/stripes/gkgkrbwbrk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Hunter](/tartans/h/hu/hunter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

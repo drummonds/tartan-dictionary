@@ -6,6 +6,8 @@ This is the **Isle of Jura** sett — one scale-free proportion (`lb12lg12db7w1d
 [WYBWBRYY](/stripes/wybwbryy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Isle of Jura](/tartans/i/is/isle-of-jura/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

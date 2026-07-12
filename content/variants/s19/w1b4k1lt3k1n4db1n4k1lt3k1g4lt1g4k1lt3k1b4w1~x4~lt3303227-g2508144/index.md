@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caribou"
-  url: "/tartans/caribou/"
+  url: "/tartans/c/ca/caribou/"
 - name: "Caribou"
   url: "/setts/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKWKBBBKWKGWGKWKBW](/stripes/wbkwkbbbkwkgwgkwkbw/).
 
-Part of the [Caribou](/tartans/caribou/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caribou](/tartans/c/ca/caribou/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

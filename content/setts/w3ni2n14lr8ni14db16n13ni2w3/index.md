@@ -6,6 +6,8 @@ This is the **Caitriot** sett — one scale-free proportion (`w3ni2n14lr8ni14db1
 [WBBBBYBBW](/stripes/wbbbbybbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Caitriot](/tartans/c/ca/caitriot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

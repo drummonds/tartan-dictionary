@@ -7,6 +7,8 @@ This is the **MacLean, Black & White** sett — one scale-free proportion (`w20k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [MacLean](/tartans/m/ma/maclean-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

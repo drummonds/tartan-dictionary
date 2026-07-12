@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cardiff City Football Club"
+  url: "/tartans/c/ca/cardiff-city-football-club-2/"
+- name: "Cardiff City Football Club"
   url: "/setts/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKYKYKYWYKYKYKY](/stripes/rykykykywykykyky/).
+
+Part of the [Cardiff City Football Club](/tartans/c/ca/cardiff-city-football-club-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

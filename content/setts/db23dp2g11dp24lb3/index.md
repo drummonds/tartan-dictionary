@@ -6,6 +6,8 @@ This is the **Scottish Open Squash (Corporate)** sett — one scale-free proport
 [BBGBW](/stripes/bbgbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Scottish Open Squash](/tartans/s/sc/scottish-open-squash/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

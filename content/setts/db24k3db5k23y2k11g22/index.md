@@ -6,7 +6,7 @@ This is the **Mowat (Clans Originaux)** sett — one scale-free proportion (`db2
 [BKBKGKG](/stripes/bkbkgkg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Mowat](/tartans/mowat/) tartan — the named design grouping this sett with its kin.
+Part of the [Mowat](/tartans/m/mo/mowat/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

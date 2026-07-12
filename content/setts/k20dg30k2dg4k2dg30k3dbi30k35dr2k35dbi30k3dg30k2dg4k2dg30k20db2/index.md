@@ -6,6 +6,8 @@ This is the **Phillips of Wales** sett — one scale-free proportion (`k20dg30k2
 [BKGKGKGKBKBKBKGKGKGK](/stripes/bkgkgkgkbkbkbkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Phillips of Wales](/tartans/p/ph/phillips-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

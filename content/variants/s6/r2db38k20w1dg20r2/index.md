@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Waterfront"
+  url: "/tartans/w/wa/waterfront/"
+- name: "Waterfront"
   url: "/setts/r2db38k20w1dg20r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db38k20w1dg20r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWGR](/stripes/rbkwgr/).
+
+Part of the [Waterfront](/tartans/w/wa/waterfront/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

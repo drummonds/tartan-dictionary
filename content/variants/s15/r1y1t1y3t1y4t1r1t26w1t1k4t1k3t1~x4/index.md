@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Laing"
   url: "/clan/laing/"
 - name: "Laing"
-  url: "/tartans/laing/"
+  url: "/tartans/l/la/laing/"
 - name: "Laing (Clan)"
   url: "/setts/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWBRBGBGBGR](/stripes/bkbkbwbrbgbgbgr/).
 
-Part of the [Laing](/tartans/laing/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Laing](/tartans/l/la/laing/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

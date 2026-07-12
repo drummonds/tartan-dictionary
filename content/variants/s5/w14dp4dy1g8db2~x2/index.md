@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Laxey Dress"
-  url: "/tartans/manx-laxey-dress/"
+  url: "/tartans/m/ma/manx-laxey-dress/"
 - name: "Manx Laxey Dress Green"
   url: "/setts/w14dp4dy1g8db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w14dp4dy1g8db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBW](/stripes/bggbw/).
 
-Part of the [Manx Laxey Dress](/tartans/manx-laxey-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manx Laxey Dress](/tartans/m/ma/manx-laxey-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

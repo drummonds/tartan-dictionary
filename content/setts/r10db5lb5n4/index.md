@@ -6,7 +6,7 @@ This is the **Haggis Hostels** sett — one scale-free proportion (`r10db5lb5n4`
 [BWBR](/stripes/bwbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Haggis Hostels](/tartans/haggis-hostels/) tartan — the named design grouping this sett with its kin.
+Part of the [Haggis Hostels](/tartans/h/ha/haggis-hostels/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

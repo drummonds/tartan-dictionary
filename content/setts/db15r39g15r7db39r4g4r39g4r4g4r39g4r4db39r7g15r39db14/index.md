@@ -6,6 +6,8 @@ This is the **Na Fir Dileas** sett — one scale-free proportion (`db15r39g15r7d
 [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Na Fir Dileas](/tartans/n/na/na-fir-dileas-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

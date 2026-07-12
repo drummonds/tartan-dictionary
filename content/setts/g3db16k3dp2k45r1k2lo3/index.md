@@ -7,7 +7,7 @@ This is the **Cumnock** sett — one scale-free proportion (`g3db16k3dp2k45r1k2l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2011**.
 
-Part of the [Cumnock](/tartans/cumnock/) tartan — the named design grouping this sett with its kin.
+Part of the [Cumnock](/tartans/c/cu/cumnock/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

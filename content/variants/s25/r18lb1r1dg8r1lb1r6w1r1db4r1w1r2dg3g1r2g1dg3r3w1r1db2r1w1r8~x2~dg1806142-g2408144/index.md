@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAlister"
+  url: "/clan/macalister/"
+- name: "MacAlister"
+  url: "/tartans/m/ma/macalister-4/"
 - name: "MacAlister Modern (Lochcarron)"
   url: "/setts/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRBRWRGGRGGRWRBRWRWRGRWR](/stripes/rwrbrwrggrggrwrbrwrwrgrwr/).
+
+Part of the [MacAlister](/tartans/m/ma/macalister-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

@@ -6,6 +6,8 @@ This is the **Glasgow Warriors** sett — one scale-free proportion (`k16w30lb36
 [KWWKWKW](/stripes/kwwkwkw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Glasgow Warriors](/tartans/g/gl/glasgow-warriors/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

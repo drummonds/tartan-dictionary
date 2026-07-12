@@ -6,7 +6,7 @@ This is the **Hebridean Arisaid Blue (Dance) Fashion Tartan** sett — one scale
 [BKBBWWBKW](/stripes/bkbbwwbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Hebridean Arisaid](/tartans/hebridean-arisaid/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebridean Arisaid](/tartans/h/he/hebridean-arisaid/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

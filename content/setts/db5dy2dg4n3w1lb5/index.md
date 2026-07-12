@@ -6,6 +6,8 @@ This is the **Heriot Bay Local (Quadra Island, British Columbia)** sett — one 
 [BGGBWW](/stripes/bggbww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Heriot Bay Local](/tartans/h/he/heriot-bay-local/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

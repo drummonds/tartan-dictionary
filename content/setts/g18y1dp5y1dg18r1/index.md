@@ -6,6 +6,8 @@ This is the **Symonds (2016)** sett — one scale-free proportion (`g18y1dp5y1dg
 [GGBGGR](/stripes/ggbggr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Symonds](/tartans/s/sy/symonds/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

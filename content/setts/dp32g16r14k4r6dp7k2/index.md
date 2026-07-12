@@ -6,6 +6,8 @@ This is the **Aisteach** sett — one scale-free proportion (`dp32g16r14k4r6dp7k
 [BGRKRBK](/stripes/bgrkrbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Aisteach](/tartans/a/ai/aisteach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

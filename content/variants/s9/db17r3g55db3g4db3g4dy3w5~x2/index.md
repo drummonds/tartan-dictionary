@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bundanoon"
-  url: "/tartans/bundanoon/"
+  url: "/tartans/b/bu/bundanoon/"
 - name: "Bundanoon"
   url: "/setts/db17r3g55db3g4db3g4dy3w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db17r3g55db3g4db3g4dy3w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGBGGW](/stripes/brgbgbggw/).
 
-Part of the [Bundanoon](/tartans/bundanoon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bundanoon](/tartans/b/bu/bundanoon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

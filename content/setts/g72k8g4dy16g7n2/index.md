@@ -6,6 +6,8 @@ This is the **MacAndrew Hunting (Name)** sett — one scale-free proportion (`g7
 [BGGGKG](/stripes/bgggkg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [MacAndrew Hunting](/tartans/m/ma/macandrew-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Border Reiver, The** sett — one scale-free proportion (`r5k5r2k1
 [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Border Reiver, The](/tartans/b/bo/border-reiver-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

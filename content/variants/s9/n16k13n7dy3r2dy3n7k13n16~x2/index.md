@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Klappert"
+  url: "/tartans/k/kl/klappert/"
 - name: "Klappert, Denmark (Personal)"
   url: "/setts/n16k13n7dy3r2dy3n7k13n16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n16k13n7dy3r2dy3n7k13n16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGRGBKB](/stripes/bkbgrgbkb/).
+
+Part of the [Klappert](/tartans/k/kl/klappert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

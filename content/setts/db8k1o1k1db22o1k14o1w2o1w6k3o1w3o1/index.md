@@ -6,6 +6,8 @@ This is the **Anderson Blue** sett — one scale-free proportion (`db8k1o1k1db22
 [BKRKBRKRWRWKRWR](/stripes/bkrkbrkrwrwkrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anderson](/tartans/a/an/anderson-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

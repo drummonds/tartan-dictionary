@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manderson"
+  url: "/tartans/m/ma/manderson-3/"
 - name: "Manderson (Personal)"
   url: "/setts/k8n30dg16k24dr8dg32lb32dr7lb12lbi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8n30dg16k24dr8dg32lb32dr7lb12lbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKBGWBWW](/stripes/kbgkbgwbww/).
+
+Part of the [Manderson](/tartans/m/ma/manderson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

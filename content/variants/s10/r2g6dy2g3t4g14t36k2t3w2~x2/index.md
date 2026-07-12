@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sarasota"
+  url: "/tartans/s/sa/sarasota-2/"
 - name: "Sarasota - Dunfermline (Commemorat)"
   url: "/setts/r2g6dy2g3t4g14t36k2t3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g6dy2g3t4g14t36k2t3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGBGBKBW](/stripes/rgggbgbkbw/).
+
+Part of the [Sarasota](/tartans/s/sa/sarasota-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

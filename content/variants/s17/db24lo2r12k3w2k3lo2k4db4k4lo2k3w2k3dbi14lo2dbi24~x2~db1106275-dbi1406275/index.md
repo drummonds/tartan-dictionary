@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Total"
+  url: "/tartans/t/to/total/"
+- name: "Total"
   url: "/setts/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKWKYKBKYKWKRYB](/stripes/bybkwkykbkykwkryb/).
+
+Part of the [Total](/tartans/t/to/total/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

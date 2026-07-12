@@ -6,6 +6,8 @@ This is the **Ikelman #5 (Personal)** sett — one scale-free proportion (`db15g
 [BBGBWBWBWBGB](/stripes/bbgbwbwbwbgb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Ikelman](/tartans/i/ik/ikelman-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

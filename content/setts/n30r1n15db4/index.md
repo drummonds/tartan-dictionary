@@ -6,6 +6,8 @@ This is the **Kincardine Tweed** sett — one scale-free proportion (`n30r1n15db
 [BBRB](/stripes/bbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kincardine Tweed](/tartans/k/ki/kincardine-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

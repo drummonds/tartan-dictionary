@@ -6,7 +6,7 @@ This is the **Fitzgerald Blue Irish Family Tartan** sett — one scale-free prop
 [RBRBKBWBW](/stripes/rbrbkbwbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Fitzgerald](/tartans/fitzgerald-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Fitzgerald](/tartans/f/fi/fitzgerald-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

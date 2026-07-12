@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gaffney"
+  url: "/tartans/g/ga/gaffney/"
 - name: "Gaffney (2016)"
   url: "/setts/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRGGGRGRKRKRG](/stripes/grkrgrgggrgrkrkrg/).
+
+Part of the [Gaffney](/tartans/g/ga/gaffney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

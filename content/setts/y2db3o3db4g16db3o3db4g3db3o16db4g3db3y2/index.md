@@ -6,6 +6,8 @@ This is the **Kerry** sett — one scale-free proportion (`y2db3o3db4g16db3o3db4
 [GBGBRBGBRBGBRBG](/stripes/gbgbrbgbrbgbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kerry](/tartans/k/ke/kerry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Westgaard"
+  url: "/clan/westgaard/"
+- name: "Westgaard Ladies'"
+  url: "/tartans/w/we/westgaard-ladies/"
 - name: "Westgaard Ladies' (Personal)"
   url: "/setts/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWKWBBWKW](/stripes/bwbbwkwbbwkw/).
+
+Part of the [Westgaard Ladies'](/tartans/w/we/westgaard-ladies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

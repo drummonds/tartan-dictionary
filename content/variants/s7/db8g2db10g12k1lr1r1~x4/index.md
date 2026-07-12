@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nowell/Noel"
-  url: "/tartans/nowell-noel/"
+  url: "/tartans/n/no/nowell-noel/"
 - name: "Nowell/Noel"
   url: "/setts/db8g2db10g12k1lr1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8g2db10g12k1lr1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKYR](/stripes/bgbgkyr/).
 
-Part of the [Nowell/Noel](/tartans/nowell-noel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nowell/Noel](/tartans/n/no/nowell-noel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

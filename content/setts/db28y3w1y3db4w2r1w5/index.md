@@ -6,6 +6,8 @@ This is the **Baker Dress Family Tartan** sett — one scale-free proportion (`d
 [BGWGBWRW](/stripes/bgwgbwrw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Baker Dress](/tartans/b/ba/baker-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

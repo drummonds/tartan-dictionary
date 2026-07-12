@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queen of the South F.C."
+  url: "/tartans/q/qu/queen-of-the-south-f-c/"
 - name: "Queen of the South F.C. (Sports)"
   url: "/setts/lr6dr16db20dbi18lb5dbi18t6dbi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr6dr16db20dbi18lb5dbi18t6dbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBBY](/stripes/bbbwbbby/).
+
+Part of the [Queen of the South F.C.](/tartans/q/qu/queen-of-the-south-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

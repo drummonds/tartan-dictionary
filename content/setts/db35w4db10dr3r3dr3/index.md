@@ -6,6 +6,8 @@ This is the **Steffen, Markus (Personal)** sett — one scale-free proportion (`
 [BRBBWB](/stripes/brbbwb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Steffen, Markus](/tartans/s/st/steffen-markus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

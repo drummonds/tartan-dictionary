@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Andrews Management School"
+  url: "/tartans/s/st/st-andrews-management-school/"
+- name: "St. Andrews Management School"
   url: "/setts/r5w2db2w2y5w2lb2w2k7db14lb30w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5w2db2w2y5w2lb2w2k7db14lb30w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWGWWWKBWW](/stripes/rwbwgwwwkbww/).
+
+Part of the [St. Andrews Management School](/tartans/s/st/st-andrews-management-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

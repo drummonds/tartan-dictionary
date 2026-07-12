@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Montgomerie, Colin"
+  url: "/tartans/m/mo/montgomerie-colin/"
+- name: "Montgomerie, Colin"
   url: "/setts/lb2k1r5n3o12n4lb1k40db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb2k1r5n3o12n4lb1k40db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBRBRKW](/stripes/bkwbrbrkw/).
+
+Part of the [Montgomerie, Colin](/tartans/m/mo/montgomerie-colin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

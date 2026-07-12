@@ -6,6 +6,8 @@ This is the **Thompson/Thomson/MacTavish special grey** sett — one scale-free 
 [RBKYKR](/stripes/rbkykr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Thompson/Thomson/MacTavish special](/tartans/t/th/thompson-thomson-mactavish-special/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Paisley District Tartan** sett — one scale-free proportion (`db7
 [BWGBGKGGRGRG](/stripes/bwgbgkggrgrg/). It is recorded as a single **variant**, below.
 First attested **1952**.
 
-Part of the [Paisley](/tartans/paisley/) tartan — the named design grouping this sett with its kin.
+Part of the [Paisley](/tartans/p/pa/paisley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

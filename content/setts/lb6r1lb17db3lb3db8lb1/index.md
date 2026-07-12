@@ -6,6 +6,8 @@ This is the **Dominion (Fashion)** sett — one scale-free proportion (`lb6r1lb1
 [WBWBWRW](/stripes/wbwbwrw/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Dominion](/tartans/d/do/dominion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

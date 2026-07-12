@@ -6,6 +6,8 @@ This is the **Pride of Glencoe** sett — one scale-free proportion (`k3g2m3db30
 [KGRBBW](/stripes/kgrbbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Pride of Glencoe](/tartans/p/pr/pride-of-glencoe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

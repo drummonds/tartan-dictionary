@@ -6,6 +6,8 @@ This is the **Templar Grand Priory USA** sett — one scale-free proportion (`db
 [BKRW](/stripes/bkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Templar Grand Priory USA](/tartans/t/te/templar-grand-priory-usa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Brooks Bros Tattersall Blue (Fashion** sett — one scale-free pro
 [BBYBY](/stripes/bbyby/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Brooks Bros Tattersall Blue (Fashion](/tartans/b/br/brooks-bros-tattersall-blue-fashion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

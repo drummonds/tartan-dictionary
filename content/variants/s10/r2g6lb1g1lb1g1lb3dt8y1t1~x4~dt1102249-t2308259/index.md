@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Haines"
+  url: "/tartans/h/ha/haines/"
 - name: "Haines Family (Personal)"
   url: "/setts/r2g6lb1g1lb1g1lb3dt8y1t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g6lb1g1lb1g1lb3dt8y1t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGWGWGR](/stripes/bgbwgwgwgr/).
+
+Part of the [Haines](/tartans/h/ha/haines/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Kerr"
   url: "/clan/kerr/"
 - name: "Kerr Hunting"
-  url: "/tartans/kerr-hunting/"
+  url: "/tartans/k/ke/kerr-hunting/"
 - name: "Kerr Hunting Clan Tartan"
   url: "/setts/g14k2g2k2g3k10db16k1db2k2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g14k2g2k2g3k10db16k1db2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
 
-Part of the [Kerr Hunting](/tartans/kerr-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kerr Hunting](/tartans/k/ke/kerr-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

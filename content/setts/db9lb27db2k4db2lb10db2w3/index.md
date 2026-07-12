@@ -6,6 +6,8 @@ This is the **Alaska Highlanders Pipes & Drums Corporate Tartan** sett — one s
 [BWBKBWBW](/stripes/bwbkbwbw/). It is recorded as a single **variant**, below.
 First attested **~2001**.
 
+Part of the [Alaska Highlanders Pipes & Drums](/tartans/a/al/alaska-highlanders-pipes-drums/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

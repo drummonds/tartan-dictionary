@@ -6,6 +6,8 @@ This is the **Scott Autumn (Fashion)** sett — one scale-free proportion (`g16l
 [GBGBGYG](/stripes/gbgbgyg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Scott Autumn](/tartans/s/sc/scott-autumn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenlyon #2** sett — one scale-free proportion (`g3k2db2`), colo
 [BKG](/stripes/bkg/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
+Part of the [Glenlyon](/tartans/g/gl/glenlyon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

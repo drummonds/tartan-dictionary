@@ -6,7 +6,7 @@ This is the **Ogilvie of Inverquharity or Ohio** sett — one scale-free proport
 [BWRBYGYBG](/stripes/bwrbygybg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Ohio](/tartans/ohio/) tartan — the named design grouping this sett with its kin.
+Part of the [Ohio](/tartans/o/oh/ohio/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

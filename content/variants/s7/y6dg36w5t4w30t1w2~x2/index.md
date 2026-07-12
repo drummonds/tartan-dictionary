@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pearce Scotch Plaid 4"
+  url: "/tartans/p/pe/pearce-scotch-plaid-4/"
 - name: "Pearce Scotch Plaid 4 (Fashion)"
   url: "/setts/y6dg36w5t4w30t1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6dg36w5t4w30t1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWBWBW](/stripes/ggwbwbw/).
+
+Part of the [Pearce Scotch Plaid 4](/tartans/p/pe/pearce-scotch-plaid-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ This is the **Caribou** sett — one scale-free proportion (`w1b4k1lt3k1n4db1n4k
 [WBKWKBBBKWKGWGKWKBW](/stripes/wbkwkbbbkwkgwgkwkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Caribou](/tartans/caribou/) tartan — the named design grouping this sett with its kin.
+Part of the [Caribou](/tartans/c/ca/caribou/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

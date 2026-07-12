@@ -6,6 +6,8 @@ This is the **Royal College of Surgeons of Edinburgh** sett — one scale-free p
 [WBKBKBKGW](/stripes/wbkbkbkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal College of Surgeons of Edinburgh](/tartans/r/ro/royal-college-of-surgeons-of-edinburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

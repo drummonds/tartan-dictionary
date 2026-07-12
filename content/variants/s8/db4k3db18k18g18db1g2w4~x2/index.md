@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dress Watch"
+  url: "/tartans/d/dr/dress-watch/"
+- name: "Dress Watch"
   url: "/setts/db4k3db18k18g18db1g2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k3db18k18g18db1g2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGBGW](/stripes/bkbkgbgw/).
+
+Part of the [Dress Watch](/tartans/d/dr/dress-watch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

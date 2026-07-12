@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Binder Wedding"
-  url: "/tartans/binder-wedding/"
+  url: "/tartans/b/bi/binder-wedding/"
 - name: "Binder Wedding (Personal)"
   url: "/setts/g1b1k1b30k30w2b5lo1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g1b1k1b30k30w2b5lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKWBY](/stripes/gbkbkwby/).
 
-Part of the [Binder Wedding](/tartans/binder-wedding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Binder Wedding](/tartans/b/bi/binder-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

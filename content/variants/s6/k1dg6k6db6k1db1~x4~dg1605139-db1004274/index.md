@@ -10,7 +10,7 @@ crumbs:
 - name: "Black Watch"
   url: "/groups/military/black-watch/"
 - name: "Black Watch"
-  url: "/tartans/black-watch-3/"
+  url: "/tartans/b/bl/black-watch-3/"
 - name: "Black Watch (smallest sett)"
   url: "/setts/k1dg6k6db6k1db1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1dg6k6db6k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGK](/stripes/bkbkgk/).
 
-Part of the [Black Watch](/tartans/black-watch-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Watch](/tartans/b/bl/black-watch-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

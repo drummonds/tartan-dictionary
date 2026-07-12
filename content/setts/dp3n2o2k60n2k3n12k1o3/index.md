@@ -6,6 +6,8 @@ This is the **Grassi (Personal)** sett — one scale-free proportion (`dp3n2o2k6
 [BBRKBKBKR](/stripes/bbrkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Grassi](/tartans/g/gr/grassi-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

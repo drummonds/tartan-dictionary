@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenshee"
+  url: "/tartans/g/gl/glenshee-2/"
+- name: "Glenshee"
   url: "/setts/r12w1r2dg1b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12w1r2dg1b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRWR](/stripes/bgrwr/).
+
+Part of the [Glenshee](/tartans/g/gl/glenshee-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Grant of Lurg Artifact Tartan** sett — one scale-free proportion
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **~1859**.
 
+Part of the [Grant of Lurg](/tartans/g/gr/grant-of-lurg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

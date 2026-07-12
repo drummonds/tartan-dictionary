@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonia"
-  url: "/tartans/caledonia/"
+  url: "/tartans/c/ca/caledonia/"
 - name: "Caledonia - 1819 (Wilsons') No.155"
   url: "/setts/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKGGRKRWR](/stripes/rwkwkwkggrkrwr/).
 
-Part of the [Caledonia](/tartans/caledonia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caledonia](/tartans/c/ca/caledonia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

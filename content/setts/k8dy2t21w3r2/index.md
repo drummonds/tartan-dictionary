@@ -7,6 +7,8 @@ This is the **Oklahoma** sett — one scale-free proportion (`k8dy2t21w3r2`), co
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1998**.
 
+Part of the [Oklahoma](/tartans/o/ok/oklahoma/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

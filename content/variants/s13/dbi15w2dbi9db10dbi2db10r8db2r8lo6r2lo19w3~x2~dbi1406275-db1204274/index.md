@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Holland, Tartan of"
+  url: "/tartans/h/ho/holland-tartan-of/"
+- name: "Holland, Tartan of"
   url: "/setts/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBRBRYRYWYRYRBRBBBBW](/stripes/bwbbbbrbryrywyryrbrbbbbw/).
+
+Part of the [Holland, Tartan of](/tartans/h/ho/holland-tartan-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

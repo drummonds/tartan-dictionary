@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lamberton"
+  url: "/tartans/l/la/lamberton/"
 - name: "Lamberton (?)"
   url: "/setts/db30k5db5k5db5k24g24y6g24k24db24k5db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30k5db5k5db5k24g24y6g24k24db24k5db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/).
+
+Part of the [Lamberton](/tartans/l/la/lamberton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

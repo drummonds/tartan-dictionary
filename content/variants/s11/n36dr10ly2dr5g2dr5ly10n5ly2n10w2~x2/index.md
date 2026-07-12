@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Toyokawa Check"
+  url: "/tartans/t/to/toyokawa-check/"
+- name: "Toyokawa Check"
   url: "/setts/n36dr10ly2dr5g2dr5ly10n5ly2n10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n36dr10ly2dr5g2dr5ly10n5ly2n10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBGBYBYBW](/stripes/bbybgbybybw/).
+
+Part of the [Toyokawa Check](/tartans/t/to/toyokawa-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

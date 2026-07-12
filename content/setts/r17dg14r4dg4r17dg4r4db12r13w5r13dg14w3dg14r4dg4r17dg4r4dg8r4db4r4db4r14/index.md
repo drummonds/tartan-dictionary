@@ -6,6 +6,8 @@ This is the **Staffa (Silk)** sett — one scale-free proportion (`r17dg14r4dg4r
 [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Staffa](/tartans/s/st/staffa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

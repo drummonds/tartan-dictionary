@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "International College of Dentist"
+  url: "/tartans/i/in/international-college-of-dentist/"
 - name: "International College of Dentists (Canadian Section) Dress"
   url: "/setts/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2w15g1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6y6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2w15g1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGKYGYKYGYKYGYKGWGK](/stripes/gggkgkygykygykygykgwgk/).
+
+Part of the [International College of Dentist](/tartans/i/in/international-college-of-dentist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

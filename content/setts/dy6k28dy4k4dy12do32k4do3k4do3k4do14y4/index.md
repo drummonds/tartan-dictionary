@@ -6,6 +6,8 @@ This is the **Etihad Airways** sett — one scale-free proportion (`dy6k28dy4k4d
 [GBKBKBKBGKGKG](/stripes/gbkbkbkbgkgkg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Etihad Airways](/tartans/e/et/etihad-airways/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

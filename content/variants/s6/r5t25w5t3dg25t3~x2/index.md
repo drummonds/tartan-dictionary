@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thayer USA"
-  url: "/tartans/thayer-usa/"
+  url: "/tartans/t/th/thayer-usa/"
 - name: "Thayer USA"
   url: "/setts/r5t25w5t3dg25t3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5t25w5t3dg25t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBR](/stripes/bgbwbr/).
 
-Part of the [Thayer USA](/tartans/thayer-usa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Thayer USA](/tartans/t/th/thayer-usa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

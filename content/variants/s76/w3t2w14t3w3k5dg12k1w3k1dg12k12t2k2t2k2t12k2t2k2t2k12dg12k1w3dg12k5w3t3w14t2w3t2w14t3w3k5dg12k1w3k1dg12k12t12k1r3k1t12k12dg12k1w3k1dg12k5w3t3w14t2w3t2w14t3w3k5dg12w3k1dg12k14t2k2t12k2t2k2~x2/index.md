@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kilbarchan Unidentified No. 14"
+  url: "/tartans/k/ki/kilbarchan-unidentified-no-14/"
+- name: "Kilbarchan Unidentified No. 14"
   url: "/setts/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW](/stripes/kbkbkbkgkwgkwbwbwbwbwkgkwkgkbkrkbkgkwkgkwbwbwbwbwkgwkgkbkbkbkbkbkgkwkgkwbwbw/).
+
+Part of the [Kilbarchan Unidentified No. 14](/tartans/k/ki/kilbarchan-unidentified-no-14/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [76 stripe tartan](/stripes/stripes76/).
 

@@ -6,6 +6,8 @@ This is the **Flaumandrum** sett — one scale-free proportion (`n12k2n2k2n2k12d
 [BKBKBKBKGKBKBKR](/stripes/bkbkbkbkgkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Flaumandrum](/tartans/f/fl/flaumandrum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

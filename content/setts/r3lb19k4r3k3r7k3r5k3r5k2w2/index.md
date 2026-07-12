@@ -6,7 +6,7 @@ This is the **Duchess of Kent Family Tartan** sett — one scale-free proportion
 [RWKRKRKRKRKW](/stripes/rwkrkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
-Part of the [Duchess of Kent](/tartans/duchess-of-kent/) tartan — the named design grouping this sett with its kin.
+Part of the [Duchess of Kent](/tartans/d/du/duchess-of-kent/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

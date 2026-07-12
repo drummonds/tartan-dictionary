@@ -6,6 +6,8 @@ This is the **Unidentified (NZ)** sett — one scale-free proportion (`ly16k2ly2
 [YKYKRKRKYKYKY](/stripes/ykykrkrkykyky/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Cameron (Clan)** sett — one scale-free proportion (`r2dg6r2dg6r1
 [RGRGRY](/stripes/rgrgry/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Cameron](/tartans/cameron-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Cameron](/tartans/c/ca/cameron-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Hong Kong St Andrew's Society** sett — one scale-free proportion
 [BKRBKW](/stripes/bkrbkw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Hong Kong St Andrew's Society](/tartans/h/ho/hong-kong-st-andrew-s-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

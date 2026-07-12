@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Garvock"
+  url: "/tartans/g/ga/garvock/"
 - name: "Garvock (2015)"
   url: "/setts/g28db3g3k10r2k10r20y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g28db3g3k10r2k10r20y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRKRG](/stripes/gbgkrkrg/).
+
+Part of the [Garvock](/tartans/g/ga/garvock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

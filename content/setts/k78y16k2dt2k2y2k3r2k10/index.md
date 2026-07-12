@@ -6,6 +6,8 @@ This is the **Scotland's Lionheart** sett — one scale-free proportion (`k78y16
 [KGKBKGKRK](/stripes/kgkbkgkrk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Scotland's Lionheart](/tartans/s/sc/scotland-s-lionheart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

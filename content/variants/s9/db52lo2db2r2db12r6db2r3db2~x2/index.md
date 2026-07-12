@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Monar"
+  url: "/tartans/l/lo/loch-monar/"
 - name: "Loch Monar (Fashion)"
   url: "/setts/db52lo2db2r2db12r6db2r3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db52lo2db2r2db12r6db2r3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBYB](/stripes/brbrbrbyb/).
+
+Part of the [Loch Monar](/tartans/l/lo/loch-monar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

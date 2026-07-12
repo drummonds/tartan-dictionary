@@ -6,6 +6,8 @@ This is the **Korner-Macpherson (Personal)** sett — one scale-free proportion 
 [BKBKBRB](/stripes/bkbkbrb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Korner-MacPherson](/tartans/k/ko/korner-macpherson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Western Carolina University"
+  url: "/tartans/w/we/western-carolina-university/"
 - name: "Carolina University, Western"
   url: "/setts/dy1k2dp27k2dg1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1k2dp27k2dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKG](/stripes/gkbkg/).
+
+Part of the [Western Carolina University](/tartans/w/we/western-carolina-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

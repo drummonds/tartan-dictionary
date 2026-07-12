@@ -6,6 +6,8 @@ This is the **MacStumer Hunting** sett — one scale-free proportion (`k3dg14k8d
 [KGKGBGYGW](/stripes/kgkgbgygw/). It is recorded as a single **variant**, below.
 First attested **1884**.
 
+Part of the [MacStumer Hunting](/tartans/m/ma/macstumer-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

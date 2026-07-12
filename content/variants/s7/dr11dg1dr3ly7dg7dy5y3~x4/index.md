@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Maple"
-  url: "/tartans/caledonian-maple/"
+  url: "/tartans/c/ca/caledonian-maple/"
 - name: "Caledonian Maple"
   url: "/setts/dr11dg1dr3ly7dg7dy5y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr11dg1dr3ly7dg7dy5y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYGGG](/stripes/bgbyggg/).
 
-Part of the [Caledonian Maple](/tartans/caledonian-maple/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caledonian Maple](/tartans/c/ca/caledonian-maple/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

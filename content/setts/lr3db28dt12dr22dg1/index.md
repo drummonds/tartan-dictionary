@@ -6,6 +6,8 @@ This is the **Diaspora (Fashion)** sett — one scale-free proportion (`lr3db28d
 [GBBBY](/stripes/gbbby/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Diaspora](/tartans/d/di/diaspora-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

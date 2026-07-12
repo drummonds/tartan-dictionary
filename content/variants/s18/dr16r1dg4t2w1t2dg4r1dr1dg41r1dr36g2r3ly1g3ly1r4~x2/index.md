@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Belk Festive"
+  url: "/tartans/b/be/belk-festive/"
 - name: "Belk Festive (Fashion)"
   url: "/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/).
+
+Part of the [Belk Festive](/tartans/b/be/belk-festive/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

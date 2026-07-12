@@ -6,6 +6,8 @@ This is the **New House Highland (Corporate)** sett — one scale-free proportio
 [KGKBKGKBKGBGKBKBKY](/stripes/kgkbkgkbkgbgkbkbky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [New House Highland](/tartans/n/ne/new-house-highland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

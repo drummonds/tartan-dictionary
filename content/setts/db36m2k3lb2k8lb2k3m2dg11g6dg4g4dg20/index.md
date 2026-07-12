@@ -6,6 +6,8 @@ This is the **Carson of Rusco (Personal)** sett — one scale-free proportion (`
 [BRKWKWKRGGGGG](/stripes/brkwkwkrggggg/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
+Part of the [Carson of Rusco](/tartans/c/ca/carson-of-rusco/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

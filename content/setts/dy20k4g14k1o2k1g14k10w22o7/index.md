@@ -6,7 +6,7 @@ This is the **Border Union Cattle Show (Corporate)** sett — one scale-free pro
 [GKGKRKGKWR](/stripes/gkgkrkgkwr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Border Union Cattle Show](/tartans/border-union-cattle-show/) tartan — the named design grouping this sett with its kin.
+Part of the [Border Union Cattle Show](/tartans/b/bo/border-union-cattle-show/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

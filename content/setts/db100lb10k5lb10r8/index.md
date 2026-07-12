@@ -6,6 +6,8 @@ This is the **Waugh** sett — one scale-free proportion (`db100lb10k5lb10r8`), 
 [BWKWR](/stripes/bwkwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Waugh](/tartans/w/wa/waugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Edinburgh Napier University (Corp.)** sett — one scale-free prop
 [WYWYKGRY](/stripes/wywykgry/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Edinburgh Napier University](/tartans/e/ed/edinburgh-napier-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

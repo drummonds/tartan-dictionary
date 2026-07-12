@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Deeside, Royal"
+  url: "/tartans/d/de/deeside-royal/"
+- name: "Deeside, Royal"
   url: "/setts/lp4dy2dp4dy35t27r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lp4dy2dp4dy35t27r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGW](/stripes/rbgbgw/).
+
+Part of the [Deeside, Royal](/tartans/d/de/deeside-royal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

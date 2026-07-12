@@ -6,6 +6,8 @@ This is the **Clare County Crest (Fashion)** sett — one scale-free proportion 
 [BYKRBWYBKBYBBKW](/stripes/bykrbwybkbybbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Clare County Crest](/tartans/c/cl/clare-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

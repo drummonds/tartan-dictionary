@@ -6,6 +6,8 @@ This is the **Kalamazoo Caledonians** sett — one scale-free proportion (`m3db1
 [RBRBRBWRWR](/stripes/rbrbrbwrwr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kalamazoo Caledonians](/tartans/k/ka/kalamazoo-caledonians/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

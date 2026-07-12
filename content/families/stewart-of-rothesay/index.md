@@ -18,5 +18,5 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Rothesay tartan and all its setts →](/tartans/stewart-of-rothesay/)
+[See the Stewart of Rothesay tartan and all its setts →](/tartans/s/st/stewart-of-rothesay/)
 

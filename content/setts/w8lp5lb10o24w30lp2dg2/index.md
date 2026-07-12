@@ -6,7 +6,7 @@ This is the **Shiel, Magenta (Dance)** sett — one scale-free proportion (`w8lp
 [GWWRWWW](/stripes/gwwrwww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Shiel Magenta](/tartans/shiel-magenta/) tartan — the named design grouping this sett with its kin.
+Part of the [Shiel Magenta](/tartans/s/sh/shiel-magenta/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

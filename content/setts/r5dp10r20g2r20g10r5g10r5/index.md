@@ -6,6 +6,8 @@ This is the **Murray, Lord George (Plaid)** sett — one scale-free proportion (
 [RBRGRGRGR](/stripes/rbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Murray, Lord George](/tartans/m/mu/murray-lord-george-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

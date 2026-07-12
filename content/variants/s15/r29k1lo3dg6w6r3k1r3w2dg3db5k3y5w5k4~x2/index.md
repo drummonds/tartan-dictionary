@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elmore"
+  url: "/tartans/e/el/elmore/"
 - name: "Elmore (Personal)"
   url: "/setts/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKBGWRKRWGYKR](/stripes/kwgkbgwrkrwgykr/).
+
+Part of the [Elmore](/tartans/e/el/elmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

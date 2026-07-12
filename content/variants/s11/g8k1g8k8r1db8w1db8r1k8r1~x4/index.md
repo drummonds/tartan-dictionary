@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter of Peebleshire"
+  url: "/families/hunter-of-peebleshire/"
+- name: "Hunter of Peebleshire"
+  url: "/tartans/h/hu/hunter-of-peebleshire/"
 - name: "Hunter of Peebleshire"
   url: "/setts/g8k1g8k8r1db8w1db8r1k8r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8k1g8k8r1db8w1db8r1k8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRBWBRKRKRBWBRKGK](/stripes/gkgkrbwbrkrkrbwbrkgk/).
+
+Part of the [Hunter of Peebleshire](/tartans/h/hu/hunter-of-peebleshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

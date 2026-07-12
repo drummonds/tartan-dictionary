@@ -6,6 +6,8 @@ This is the **MacRae (Sample)** sett — one scale-free proportion (`g21r5g21r21
 [GRGRGRGRWRBR](/stripes/grgrgrgrwrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

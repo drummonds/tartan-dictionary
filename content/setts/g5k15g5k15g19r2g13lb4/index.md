@@ -6,6 +6,8 @@ This is the **Strath Hallidale (Fashion)** sett — one scale-free proportion (`
 [GKGKGRGW](/stripes/gkgkgrgw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Strath Hallidale](/tartans/s/st/strath-hallidale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pubcrawlers, The** sett — one scale-free proportion (`y3r16n5dy2
 [GRBGGGW](/stripes/grbgggw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Pubcrawlers, The](/tartans/p/pu/pubcrawlers-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

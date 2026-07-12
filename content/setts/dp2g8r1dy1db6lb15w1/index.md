@@ -6,7 +6,7 @@ This is the **Manx National District Tartan** sett — one scale-free proportion
 [BGRGBWW](/stripes/bgrgbww/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Manx National](/tartans/manx-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx National](/tartans/m/ma/manx-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

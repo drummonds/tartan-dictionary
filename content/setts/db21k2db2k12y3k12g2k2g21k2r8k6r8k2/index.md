@@ -6,7 +6,7 @@ This is the **Deas** sett — one scale-free proportion (`db21k2db2k12y3k12g2k2g
 [BKBKGKGKGKRKRK](/stripes/bkbkgkgkgkrkrk/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
-Part of the [Deas](/tartans/deas/) tartan — the named design grouping this sett with its kin.
+Part of the [Deas](/tartans/d/de/deas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

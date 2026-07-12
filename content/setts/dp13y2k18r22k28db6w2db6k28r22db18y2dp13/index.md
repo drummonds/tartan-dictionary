@@ -6,6 +6,8 @@ This is the **European Congress of Immunology 2012** sett — one scale-free pro
 [BGBRKBWBKRKGB](/stripes/bgbrkbwbkrkgb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [European Congress of Immunology 2012](/tartans/e/eu/european-congress-of-immunology-2012/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cameron Clan D** sett — one scale-free proportion (`r1g6r1g6r15y
 [GRGRGR](/stripes/grgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cameron Clan D](/tartans/c/ca/cameron-clan-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Selkirk High School"
+  url: "/tartans/s/se/selkirk-high-school/"
+- name: "Selkirk High School"
   url: "/setts/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGRBRGRBRGRBRGKRW](/stripes/rkgrbrgrbrgrbrgkrw/).
+
+Part of the [Selkirk High School](/tartans/s/se/selkirk-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hart"
+  url: "/clan/hart/"
+- name: "Hart of Scotland"
+  url: "/families/hart-of-scotland/"
+- name: "Hart of Scotland"
+  url: "/tartans/h/ha/hart-of-scotland/"
 - name: "Hart of Scotland"
   url: "/setts/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBGBGBGBGBGBGGBG](/stripes/bbbrbgbgbgbgbgbggbg/).
+
+Part of the [Hart of Scotland](/tartans/h/ha/hart-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

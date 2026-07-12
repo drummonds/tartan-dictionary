@@ -6,7 +6,7 @@ This is the **Birch Family Tartan** sett — one scale-free proportion (`g3dp4g2
 [GBGKRKWKW](/stripes/gbgkrkwkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Birch](/tartans/birch/) tartan — the named design grouping this sett with its kin.
+Part of the [Birch](/tartans/b/bi/birch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

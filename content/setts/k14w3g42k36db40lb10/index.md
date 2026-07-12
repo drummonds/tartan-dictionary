@@ -6,6 +6,8 @@ This is the **New York Firemen's Pipe Band Corporate Tartan** sett — one scale
 [KWGKBW](/stripes/kwgkbw/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
+Part of the [New York Firemen's Pipe Band](/tartans/n/ne/new-york-firemen-s-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

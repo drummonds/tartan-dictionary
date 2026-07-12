@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leslie"
+  url: "/tartans/l/le/leslie-3/"
 - name: "Leslie Red (VS)"
   url: "/setts/r16db8r2k3y1k3r2k3y1k3r2db8r16k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16db8r2k3y1k3r2k3y1k3r2db8r16k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRKGKRKGKRBR](/stripes/krbrkgkrkgkrbr/).
+
+Part of the [Leslie](/tartans/l/le/leslie-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,7 +6,7 @@ This is the **Delaware Fine Spirits Guild** sett — one scale-free proportion (
 [GGGKGK](/stripes/gggkgk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Delaware Fine Spirits Guild](/tartans/delaware-fine-spirits-guild/) tartan — the named design grouping this sett with its kin.
+Part of the [Delaware Fine Spirits Guild](/tartans/d/de/delaware-fine-spirits-guild/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

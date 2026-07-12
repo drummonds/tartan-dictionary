@@ -6,7 +6,7 @@ This is the **Highland Spring (1997) (Corporate)** sett — one scale-free propo
 [BGRG](/stripes/bgrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Highland Spring](/tartans/highland-spring-5/) tartan — the named design grouping this sett with its kin.
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

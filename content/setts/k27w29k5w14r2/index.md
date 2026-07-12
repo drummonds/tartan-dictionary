@@ -6,6 +6,8 @@ This is the **McPartlin (Personal)** sett — one scale-free proportion (`k27w29
 [KWKWR](/stripes/kwkwr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [McPartlin](/tartans/m/mc/mcpartlin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

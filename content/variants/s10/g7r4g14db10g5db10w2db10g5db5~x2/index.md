@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Edmonstone"
+  url: "/clan/edmonstone/"
+- name: "Edmonstone"
+  url: "/tartans/e/ed/edmonstone/"
 - name: "Edmonstone (Clan)"
   url: "/setts/g7r4g14db10g5db10w2db10g5db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7r4g14db10g5db10w2db10g5db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBGBGRG](/stripes/bgbwbgbgrg/).
+
+Part of the [Edmonstone](/tartans/e/ed/edmonstone/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

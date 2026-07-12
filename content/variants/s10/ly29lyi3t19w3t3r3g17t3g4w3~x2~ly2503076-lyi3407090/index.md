@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of California"
+  url: "/tartans/s/st/state-seal-of-california/"
 - name: "State Seal of California (Fashion)"
   url: "/setts/ly29lyi3t19w3t3r3g17t3g4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly29lyi3t19w3t3r3g17t3g4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGRBWBYY](/stripes/wgbgrbwbyy/).
+
+Part of the [State Seal of California](/tartans/s/st/state-seal-of-california/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

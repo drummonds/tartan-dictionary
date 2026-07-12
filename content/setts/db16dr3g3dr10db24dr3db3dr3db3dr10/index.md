@@ -6,6 +6,8 @@ This is the **Nithsdale (Dalgliesh)** sett — one scale-free proportion (`db16d
 [BBBBBBBGBB](/stripes/bbbbbbbgbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Nithsdale](/tartans/n/ni/nithsdale-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

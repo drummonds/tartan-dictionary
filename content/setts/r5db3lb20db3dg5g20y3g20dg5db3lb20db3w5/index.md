@@ -6,7 +6,7 @@ This is the **Hosey (Name)** sett — one scale-free proportion (`r5db3lb20db3dg
 [RBWBGGGGGBWBW](/stripes/rbwbgggggbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Hosey](/tartans/hosey/) tartan — the named design grouping this sett with its kin.
+Part of the [Hosey](/tartans/h/ho/hosey/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

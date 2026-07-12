@@ -6,6 +6,8 @@ This is the **Nicholson Clan Tartan** sett — one scale-free proportion (`db2r1
 [BRGRBWKRGRGRB](/stripes/brgrbwkrgrgrb/). It is recorded as a single **variant**, below.
 First attested **1845**.
 
+Part of the [Nicholson](/tartans/n/ni/nicholson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

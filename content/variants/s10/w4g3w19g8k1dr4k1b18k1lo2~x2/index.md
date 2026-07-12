@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Alberta Dress"
+  url: "/tartans/a/al/alberta-dress/"
+- name: "Alberta Dress"
   url: "/setts/w4g3w19g8k1dr4k1b18k1lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4g3w19g8k1dr4k1b18k1lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGKBKBKY](/stripes/wgwgkbkbky/).
+
+Part of the [Alberta Dress](/tartans/a/al/alberta-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Immanuel Presbyterian Church (Corp)** sett — one scale-free prop
 [KYBKWKWBWBW](/stripes/kybkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Immanuel Presbyterian Church](/tartans/i/im/immanuel-presbyterian-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

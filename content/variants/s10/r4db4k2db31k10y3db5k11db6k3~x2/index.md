@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacArthur"
+  url: "/clan/macarthur/"
+- name: "MacArthur Fox"
+  url: "/tartans/m/ma/macarthur-fox/"
 - name: "MacArthur Fox Green (Personal)"
   url: "/setts/r4db4k2db31k10y3db5k11db6k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4db4k2db31k10y3db5k11db6k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKBKBR](/stripes/kbkbgkbkbr/).
+
+Part of the [MacArthur Fox](/tartans/m/ma/macarthur-fox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Rikaco Morning Dew 1 (Fashion)** sett — one scale-free proportio
 [BWBWBWBWBR](/stripes/bwbwbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Rikaco Morning Dew](/tartans/r/ri/rikaco-morning-dew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Prince of Orange"
-  url: "/tartans/prince-of-orange/"
+  url: "/tartans/p/pr/prince-of-orange/"
 - name: "Prince of Orange #2"
   url: "/setts/db6lo25dy16k2db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6lo25dy16k2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYB](/stripes/bkgyb/).
 
-Part of the [Prince of Orange](/tartans/prince-of-orange/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Prince of Orange](/tartans/p/pr/prince-of-orange/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

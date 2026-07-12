@@ -6,6 +6,8 @@ This is the **Bonnie Prince Charlie (Vyella)** sett — one scale-free proportio
 [GRKRGRGRGRYRK](/stripes/grkrgrgrgryrk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bonnie Prince Charlie](/tartans/b/bo/bonnie-prince-charlie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

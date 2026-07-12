@@ -6,6 +6,8 @@ This is the **Drummond, Grey (Clans Originaux)** sett — one scale-free proport
 [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Drummond](/tartans/d/dr/drummond-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

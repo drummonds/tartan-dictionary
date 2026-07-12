@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stuart"
+  url: "/clan/stuart/"
+- name: "Stuart of Bute"
+  url: "/families/stuart-of-bute/"
+- name: "Stuart of Bute 2013"
+  url: "/tartans/s/st/stuart-of-bute-2013/"
 - name: "Stuart of Bute 2013 (Fashion)"
   url: "/setts/o16lb8n1lb2n1lb1n8o34w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o16lb8n1lb2n1lb1n8o34w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBWBRW](/stripes/rwbwbwbrw/).
+
+Part of the [Stuart of Bute 2013](/tartans/s/st/stuart-of-bute-2013/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

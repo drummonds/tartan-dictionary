@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas of Craigie"
+  url: "/families/thomas-of-craigie/"
+- name: "Thomas of Craigie"
+  url: "/tartans/t/th/thomas-of-craigie/"
 - name: "Thomas of Craigie (Personal)"
   url: "/setts/y2k4y1dg16k14db23k4r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2k4y1dg16k14db23k4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKBKR](/stripes/gkggkbkr/).
+
+Part of the [Thomas of Craigie](/tartans/t/th/thomas-of-craigie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

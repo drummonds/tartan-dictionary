@@ -6,6 +6,8 @@ This is the **Granton** sett — one scale-free proportion (`o3k2o4n15k2ly2k2ly2
 [BRKRBKYKYKRKRKYKYKBRKR](/stripes/brkrbkykykrkrkykykbrkr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Granton](/tartans/g/gr/granton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

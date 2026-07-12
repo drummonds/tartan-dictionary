@@ -6,7 +6,7 @@ This is the **MacLachlan Hunting** sett — one scale-free proportion (`g4k1g1k1
 [GKGKGKBRBRBGKGK](/stripes/gkgkgkbrbrbgkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacLachlan Hunting](/tartans/maclachlan-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLachlan Hunting](/tartans/m/ma/maclachlan-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

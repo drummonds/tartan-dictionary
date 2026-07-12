@@ -6,6 +6,8 @@ This is the **Smith of Pennilands (Clan)** sett — one scale-free proportion (`
 [BKGKBBBKGKY](/stripes/bkgkbbbkgky/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
+Part of the [Smith of Pennilands](/tartans/s/sm/smith-of-pennilands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

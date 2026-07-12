@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Salt Lake Scots"
+  url: "/tartans/s/sa/salt-lake-scots/"
+- name: "Salt Lake Scots"
   url: "/setts/o17b2w2b2o20oi18db3oi6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o17b2w2b2o20oi18db3oi6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRRBWBR](/stripes/krbrrbwbr/).
+
+Part of the [Salt Lake Scots](/tartans/s/sa/salt-lake-scots/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

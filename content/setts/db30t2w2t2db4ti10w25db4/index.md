@@ -6,6 +6,8 @@ This is the **Eildon/Longniddry Blue Dress Fashion Tartan** sett — one scale-f
 [BBWBBBWB](/stripes/bbwbbbwb/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Eildon/Longniddry Blue Dress](/tartans/e/ei/eildon-longniddry-blue-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

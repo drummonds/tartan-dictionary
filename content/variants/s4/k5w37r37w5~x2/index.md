@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae of Conchra"
+  url: "/families/macrae-of-conchra/"
+- name: "MacRae of Conchra"
+  url: "/tartans/m/ma/macrae-of-conchra-2/"
 - name: "MacRae of Conchra #2"
   url: "/setts/k5w37r37w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5w37r37w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRW](/stripes/kwrw/).
+
+Part of the [MacRae of Conchra](/tartans/m/ma/macrae-of-conchra-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,6 +6,8 @@ This is the **Laird Abdullah (Personal)** sett — one scale-free proportion (`k
 [KBKBKRKR](/stripes/kbkbkrkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Laird Abdullah](/tartans/l/la/laird-abdullah/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

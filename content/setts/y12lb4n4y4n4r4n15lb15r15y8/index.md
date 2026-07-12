@@ -6,6 +6,8 @@ This is the **Glasgow's Miles Better** sett — one scale-free proportion (`y12l
 [GRWBRBGBWG](/stripes/grwbrbgbwg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glasgow's Miles Better](/tartans/g/gl/glasgow-s-miles-better/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

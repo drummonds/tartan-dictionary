@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maver"
+  url: "/tartans/m/ma/maver/"
 - name: "Maver (Buckie)"
   url: "/setts/dg1y1dg1w1dg10r20y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg1y1dg1w1dg10r20y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGRG](/stripes/gggwgrg/).
+
+Part of the [Maver](/tartans/m/ma/maver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

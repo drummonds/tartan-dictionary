@@ -6,6 +6,8 @@ This is the **Shaw of Tordarroch Green (Hunting)** sett — one scale-free propo
 [KGBRGRBRGRBGKW](/stripes/kgbrgrbrgrbgkw/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Shaw of Tordarroch](/tartans/s/sh/shaw-of-tordarroch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

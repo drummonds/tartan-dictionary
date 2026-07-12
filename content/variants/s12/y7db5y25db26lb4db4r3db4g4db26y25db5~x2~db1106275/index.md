@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O Savanao"
+  url: "/tartans/o/o/o-savanao/"
 - name: "O Savaaoo"
   url: "/setts/y7db5y25db26lb4db4r3db4g4db26y25db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y7db5y25db26lb4db4r3db4g4db26y25db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRBWBGBG](/stripes/bgbgbrbwbgbg/).
+
+Part of the [O Savanao](/tartans/o/o/o-savanao/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

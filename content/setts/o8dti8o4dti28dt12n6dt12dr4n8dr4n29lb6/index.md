@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Granite (Corporate)** sett — one scale-free pro
 [RBRBBBBBBBBW](/stripes/rbrbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Kinloch Anderson Granite](/tartans/k/ki/kinloch-anderson-granite/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

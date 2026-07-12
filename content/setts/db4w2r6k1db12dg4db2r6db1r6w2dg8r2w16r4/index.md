@@ -6,7 +6,7 @@ This is the **MacFarlane Dress** sett — one scale-free proportion (`db4w2r6k1d
 [BWRKBGBRBRWGRWR](/stripes/bwrkbgbrbrwgrwr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [MacFarlane Dress](/tartans/macfarlane-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFarlane Dress](/tartans/m/ma/macfarlane-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

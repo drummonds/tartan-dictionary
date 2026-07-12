@@ -6,7 +6,7 @@ This is the **Westwater (Personal)** sett — one scale-free proportion (`k62t33
 [KBY](/stripes/kby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Westwater](/tartans/westwater/) tartan — the named design grouping this sett with its kin.
+Part of the [Westwater](/tartans/w/we/westwater/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Selkirk (Personal)** sett — one scale-free proportion (`dp27db4k
 [BBKGY](/stripes/bbkgy/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Selkirk](/tartans/selkirk-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Selkirk](/tartans/s/se/selkirk-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

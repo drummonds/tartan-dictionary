@@ -6,6 +6,8 @@ This is the **Thompson Black (Fashion)** sett — one scale-free proportion (`g3
 [GKRGBK](/stripes/gkrgbk/). It is recorded as a single **variant**, below.
 First attested **~1987**.
 
+Part of the [Thompson](/tartans/t/th/thompson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

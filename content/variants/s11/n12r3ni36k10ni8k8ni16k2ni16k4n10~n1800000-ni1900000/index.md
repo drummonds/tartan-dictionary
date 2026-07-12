@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bute Heather, Midnight"
+  url: "/tartans/b/bu/bute-heather-midnight-2/"
 - name: "Bute Heather, Midnight (Fashion)"
   url: "/setts/n12r3ni36k10ni8k8ni16k2ni16k4n10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12r3ni36k10ni8k8ni16k2ni16k4n10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBRB](/stripes/bkbkbkbkbrb/).
+
+Part of the [Bute Heather, Midnight](/tartans/b/bu/bute-heather-midnight-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

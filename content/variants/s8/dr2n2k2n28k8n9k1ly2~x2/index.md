@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Autumn"
+  url: "/tartans/h/hi/highland-autumn/"
 - name: "Highland Autumn (Fashion)"
   url: "/setts/dr2n2k2n28k8n9k1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2n2k2n28k8n9k1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKY](/stripes/bbkbkbky/).
+
+Part of the [Highland Autumn](/tartans/h/hi/highland-autumn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

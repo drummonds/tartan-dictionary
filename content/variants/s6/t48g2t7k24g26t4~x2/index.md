@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-33/"
 - name: "Unidentified (Kallmeyer 'B')"
   url: "/setts/t48g2t7k24g26t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t48g2t7k24g26t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGB](/stripes/bgbkgb/).
+
+Part of the [Unidentified](/tartans/u/un/unidentified-33/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

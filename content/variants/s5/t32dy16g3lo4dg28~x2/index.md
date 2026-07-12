@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Corey"
+  url: "/tartans/c/co/corey/"
 - name: "Corey (Name)"
   url: "/setts/t32dy16g3lo4dg28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t32dy16g3lo4dg28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYG](/stripes/bggyg/).
+
+Part of the [Corey](/tartans/c/co/corey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

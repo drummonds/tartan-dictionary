@@ -6,6 +6,8 @@ This is the **Highland Destiny (Fashion)** sett — one scale-free proportion (`
 [BKBKBRBRBGBKW](/stripes/bkbkbrbrbgbkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Highland Destiny](/tartans/h/hi/highland-destiny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

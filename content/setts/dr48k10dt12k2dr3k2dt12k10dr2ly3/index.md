@@ -6,6 +6,8 @@ This is the **Wcwm 1684** sett — one scale-free proportion (`dr48k10dt12k2dr3k
 [BKBKBKBKBY](/stripes/bkbkbkbkby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1684](/tartans/w/wc/wcwm-1684/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

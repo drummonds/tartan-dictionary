@@ -6,6 +6,8 @@ This is the **MacAlister of Glenbarr Clan Tartan** sett — one scale-free propo
 [GBGBGGGBGGGGGG](/stripes/gbgbgggbgggggg/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
+Part of the [MacAlister of Glenbarr](/tartans/m/ma/macalister-of-glenbarr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Oklahoma State University American Corporate Tartan** sett — one
 [RWKY](/stripes/rwky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Oklahoma State University](/tartans/o/ok/oklahoma-state-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

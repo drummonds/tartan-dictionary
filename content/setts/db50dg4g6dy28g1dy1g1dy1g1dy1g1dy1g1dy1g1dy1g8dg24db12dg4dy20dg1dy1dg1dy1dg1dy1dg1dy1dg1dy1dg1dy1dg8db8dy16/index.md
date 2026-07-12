@@ -6,7 +6,7 @@ This is the **Nova Scotia #2** sett — one scale-free proportion (`db50dg4g6dy2
 [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design grouping this sett with its kin.
+Part of the [Nova Scotia](/tartans/n/no/nova-scotia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

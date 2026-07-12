@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Children 1st"
+  url: "/tartans/c/ch/children-1st/"
 - name: "Children 1st (Corporate)"
   url: "/setts/y7db32dp4db4dp8db4dp8g32y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y7db32dp4db4dp8db4dp8g32y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBBGG](/stripes/gbbbbbbgg/).
+
+Part of the [Children 1st](/tartans/c/ch/children-1st/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

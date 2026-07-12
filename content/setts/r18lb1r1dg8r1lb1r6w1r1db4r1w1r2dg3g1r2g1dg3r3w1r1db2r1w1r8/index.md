@@ -6,6 +6,8 @@ This is the **MacAlister Modern (Lochcarron)** sett — one scale-free proportio
 [RWRBRWRGGRGGRWRBRWRWRGRWR](/stripes/rwrbrwrggrggrwrbrwrwrgrwr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [MacAlister](/tartans/m/ma/macalister-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

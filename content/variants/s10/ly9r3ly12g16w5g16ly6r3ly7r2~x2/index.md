@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "J & B Whisky"
+  url: "/tartans/j/j/j-b-whisky/"
 - name: "J & B Whisky (Original) (Corporate)"
   url: "/setts/ly9r3ly12g16w5g16ly6r3ly7r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly9r3ly12g16w5g16ly6r3ly7r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYGWGYRY](/stripes/ryrygwgyry/).
+
+Part of the [J & B Whisky](/tartans/j/j/j-b-whisky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

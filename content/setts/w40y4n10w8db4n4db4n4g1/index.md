@@ -6,6 +6,8 @@ This is the **Boucherville Formal District Tartan** sett — one scale-free prop
 [GBBBBWBGW](/stripes/gbbbbwbgw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Boucherville Formal](/tartans/b/bo/boucherville-formal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

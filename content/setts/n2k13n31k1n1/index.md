@@ -6,6 +6,8 @@ This is the **Silver Mist** sett — one scale-free proportion (`n2k13n31k1n1`),
 [BKBKB](/stripes/bkbkb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Silver Mist](/tartans/s/si/silver-mist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

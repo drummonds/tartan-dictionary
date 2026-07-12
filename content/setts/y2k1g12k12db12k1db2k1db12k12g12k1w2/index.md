@@ -6,6 +6,8 @@ This is the **Campbell of Loudoun Clan Tartan** sett — one scale-free proporti
 [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/). It is recorded as a single **variant**, below.
 First attested **1886**.
 
+Part of the [Campbell Loudon](/tartans/c/ca/campbell-loudon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,39 @@
+---
+title: "Blackstock Hunting"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KGGGKRK](/stripes/kgggkrk/) — the page of every tartan sharing this colour sequence.
+
+Hunting tartan commissioned 1983 by Herbert Earl Blackstock for Scotch-Irish family; designed by Bob Martin.
+
+The **Blackstock Hunting** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k2r7k6g12y1g1k2/">Blackstock Hunting</a></td><td><code>K/8 R28 K24 G48 Y4 G4 K/8</code></td><td>232</td><td>1982</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2r7k6g12y1g1k2/"><img src="/variants/s7/k2r7k6g12y1g1k2~x4/sett.png" alt="Blackstock Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Blackstock, hunting
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s7/k2r7k6g12y1g1k2~x4/">Blackstock Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/k2r7k6g12y1g1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6r2k2r2k6db7g20ly2g3r2~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.46</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/">Connolly Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g21w2g4k17dr14k3~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.76</a></div><div class="nn-threads">196</div><div class="nn-name"><a href="/variants/s6/g21w2g4k17dr14k3~x2/">Graham W</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g21w2g4k17dr14k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g21w2g4k17dr14k3&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.76</a></div><div class="nn-threads">98</div><div class="nn-name"><a href="/variants/s6/g21w2g4k17dr14k3/">Graham W</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g21w2g4k17dr14k3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r5k2y21g8k2~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.85</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s6/k4r5k2y21g8k2~x2/">MacDuck (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4r5k2y21g8k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7r3k27g27y3g3y3g3~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.87</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/">Brunton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k7r3k27g27y3g3y3g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5w2g18k17dr16k3~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.88</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k5w2g18k17dr16k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5w2g18k17dr16k3&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">1.88</a></div><div class="nn-threads">114</div><div class="nn-name"><a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k5w2g18k17dr16k3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg12g6dg6r15k1r1k2~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">2.15</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/">Cook (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg12g6dg6r15k1r1k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3dr22lb5g10k10g2~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s6/g3dr22lb5g10k10g2~x2/">Strathspey (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3dr22lb5g10k10g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g28db3g3k10r2k10r20y4~x2&amp;base=k2r7k6g12y1g1k2~x4" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/">Garvock (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g28db3g3k10r2k10r20y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="230.7" cy="181.9" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="165.3" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="175.2" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.4" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><circle cx="175.4" cy="171.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

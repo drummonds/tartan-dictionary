@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heartlands Fancy"
+  url: "/tartans/h/he/heartlands-fancy/"
 - name: "Heartlands Fancy Tartan"
   url: "/setts/db4t1dt20db2dt2db18dg2db2dg22k2dp4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4t1dt20db2dt2db18dg2db2dg22k2dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/).
+
+Part of the [Heartlands Fancy](/tartans/h/he/heartlands-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

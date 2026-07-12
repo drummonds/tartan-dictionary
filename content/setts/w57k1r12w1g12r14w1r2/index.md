@@ -6,6 +6,8 @@ This is the **McBrayer Dress** sett — one scale-free proportion (`w57k1r12w1g1
 [RWRGWRKW](/stripes/rwrgwrkw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [McBrayer Dress](/tartans/m/mc/mcbrayer-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

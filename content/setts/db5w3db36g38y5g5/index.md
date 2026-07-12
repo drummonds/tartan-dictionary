@@ -6,6 +6,8 @@ This is the **St. Andrew Society, Sao Paulo (Corp)** sett — one scale-free pro
 [BWBGGG](/stripes/bwbggg/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [St. Andrew Society, Sao Paulo](/tartans/s/st/st-andrew-society-sao-paulo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

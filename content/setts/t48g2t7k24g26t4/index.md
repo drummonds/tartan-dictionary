@@ -6,6 +6,8 @@ This is the **Unidentified (Kallmeyer 'B')** sett — one scale-free proportion 
 [BGBKGB](/stripes/bgbkgb/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-33/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

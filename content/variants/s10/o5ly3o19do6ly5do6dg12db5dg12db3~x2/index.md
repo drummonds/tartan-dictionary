@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roscommon, County"
+  url: "/tartans/r/ro/roscommon-county/"
+- name: "Roscommon, County"
   url: "/setts/o5ly3o19do6ly5do6dg12db5dg12db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o5ly3o19do6ly5do6dg12db5dg12db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBYBRYR](/stripes/bgbgbybryr/).
+
+Part of the [Roscommon, County](/tartans/r/ro/roscommon-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

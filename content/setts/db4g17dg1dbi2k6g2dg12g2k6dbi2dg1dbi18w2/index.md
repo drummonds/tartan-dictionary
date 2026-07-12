@@ -6,6 +6,8 @@ This is the **Clack (Personal)** sett — one scale-free proportion (`db4g17dg1d
 [BGGBKGGGKBGBW](/stripes/bggbkgggkbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clack](/tartans/c/cl/clack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

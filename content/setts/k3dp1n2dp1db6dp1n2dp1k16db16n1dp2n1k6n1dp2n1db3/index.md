@@ -6,6 +6,8 @@ This is the **Asile** sett — one scale-free proportion (`k3dp1n2dp1db6dp1n2dp1
 [BBBBKBBBBKBBBBBBBK](/stripes/bbbbkbbbbkbbbbbbbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Asile](/tartans/a/as/asile/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

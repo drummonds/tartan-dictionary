@@ -6,6 +6,8 @@ This is the **MacLaurin of Broich (Clan)** sett — one scale-free proportion (`
 [BKGBGKY](/stripes/bkgbgky/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [MacLaurin of Broich](/tartans/m/ma/maclaurin-of-broich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

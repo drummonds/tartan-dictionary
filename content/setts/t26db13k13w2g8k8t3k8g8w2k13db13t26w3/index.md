@@ -6,6 +6,8 @@ This is the **Moran Blue Family Tartan** sett — one scale-free proportion (`t2
 [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Moran](/tartans/m/mo/moran/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

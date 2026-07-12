@@ -6,7 +6,7 @@ This is the **Swiss Highlander (Corporate)** sett — one scale-free proportion 
 [GGBRWRBGGG](/stripes/ggbrwrbggg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Swiss Highlander](/tartans/swiss-highlander/) tartan — the named design grouping this sett with its kin.
+Part of the [Swiss Highlander](/tartans/s/sw/swiss-highlander/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

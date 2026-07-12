@@ -6,6 +6,8 @@ This is the **MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)** sett — one sca
 [RGRKBKRGRKR](/stripes/rgrkbkrgrkr/). It is recorded as a single **variant**, below.
 First attested **1869**.
 
+Part of the [MacNicol](/tartans/m/ma/macnicol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

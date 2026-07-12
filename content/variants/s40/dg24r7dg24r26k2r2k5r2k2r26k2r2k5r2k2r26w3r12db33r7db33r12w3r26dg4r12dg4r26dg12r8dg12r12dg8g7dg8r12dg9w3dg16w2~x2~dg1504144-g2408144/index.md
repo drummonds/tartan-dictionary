@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinnoull"
-  url: "/tartans/kinnoull-4/"
+  url: "/tartans/k/ki/kinnoull-4/"
 - name: "Kinnoull (MacRae)"
   url: "/setts/dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/).
 
-Part of the [Kinnoull](/tartans/kinnoull-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kinnoull](/tartans/k/ki/kinnoull-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

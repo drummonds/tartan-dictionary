@@ -6,6 +6,8 @@ This is the **Wanless (Personal)** sett — one scale-free proportion (`db25y5db
 [BGBGRWBGWBGWBGRWBGW](/stripes/bgbgrwbgwbgwbgrwbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Racing Wanless Australian](/tartans/r/ra/racing-wanless-australian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

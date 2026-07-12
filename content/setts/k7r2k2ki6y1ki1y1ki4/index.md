@@ -6,6 +6,8 @@ This is the **Printing Industries of America** sett — one scale-free proportio
 [KGKGKKRK](/stripes/kgkgkkrk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Printing Industries of America](/tartans/p/pr/printing-industries-of-america/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

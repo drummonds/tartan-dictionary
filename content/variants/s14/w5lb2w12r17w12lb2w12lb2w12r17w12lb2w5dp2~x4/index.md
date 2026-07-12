@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Milne"
+  url: "/clan/milne/"
+- name: "Milne Dress Fancy"
+  url: "/tartans/m/mi/milne-dress-fancy/"
 - name: "Milne Dress Fancy Tartan"
   url: "/setts/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWRWWWWWRWWW](/stripes/bwwwrwwwwwrwww/).
+
+Part of the [Milne Dress Fancy](/tartans/m/mi/milne-dress-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

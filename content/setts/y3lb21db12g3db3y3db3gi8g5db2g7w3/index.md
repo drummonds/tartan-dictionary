@@ -6,6 +6,8 @@ This is the **Holroyd, John (Personal)** sett — one scale-free proportion (`y3
 [GWBGBGBGGBGW](/stripes/gwbgbgbggbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Holroyd, John](/tartans/h/ho/holroyd-john-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

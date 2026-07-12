@@ -6,6 +6,8 @@ This is the **Hot Boontjie** sett — one scale-free proportion (`dr4g4k1w2k1g18
 [BGKWKGKR](/stripes/bgkwkgkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hot Boontjie](/tartans/h/ho/hot-boontjie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

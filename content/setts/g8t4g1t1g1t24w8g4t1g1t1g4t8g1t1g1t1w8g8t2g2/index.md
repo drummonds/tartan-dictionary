@@ -6,6 +6,8 @@ This is the **Matheson Hunting (Crowe 1974) (Personal)** sett — one scale-free
 [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Matheson Htg Dance](/tartans/m/ma/matheson-htg-dance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

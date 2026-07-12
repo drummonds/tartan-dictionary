@@ -6,6 +6,8 @@ This is the **Allen - Northumbrian Hunting (Personal)** sett — one scale-free 
 [BBBBBBBWBBBGBG](/stripes/bbbbbbbwbbbgbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Allen](/tartans/a/al/allen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

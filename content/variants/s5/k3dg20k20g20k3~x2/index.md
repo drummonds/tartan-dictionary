@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCormick Hunting"
+  url: "/tartans/m/ma/maccormick-hunting/"
 - name: "MacCormick Hunting (Name)"
   url: "/setts/k3dg20k20g20k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dg20k20g20k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGK](/stripes/kgkgk/).
+
+Part of the [MacCormick Hunting](/tartans/m/ma/maccormick-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

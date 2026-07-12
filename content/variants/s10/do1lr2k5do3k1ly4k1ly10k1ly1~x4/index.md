@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell 'Camel'"
+  url: "/tartans/c/ca/campbell-camel/"
 - name: "Campbell 'Camel'"
   url: "/setts/do1lr2k5do3k1ly4k1ly10k1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do1lr2k5do3k1ly4k1ly10k1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKBKYKYKY](/stripes/bykbkykyky/).
+
+Part of the [Campbell 'Camel'](/tartans/c/ca/campbell-camel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

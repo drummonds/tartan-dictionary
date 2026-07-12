@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boston Pipe Band, Greater"
+  url: "/tartans/b/bo/boston-pipe-band-greater/"
+- name: "Boston Pipe Band, Greater"
   url: "/setts/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGWKRWRWRW](/stripes/grgrgwkrwrwrw/).
+
+Part of the [Boston Pipe Band, Greater](/tartans/b/bo/boston-pipe-band-greater/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

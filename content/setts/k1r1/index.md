@@ -7,6 +7,8 @@ This is the **Rob Roy** sett — one scale-free proportion (`k1r1`), colour orde
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1704**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

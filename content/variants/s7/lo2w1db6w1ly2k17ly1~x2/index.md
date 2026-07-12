@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
+- name: "East Tennessee State University"
+  url: "/tartans/e/ea/east-tennessee-state-university-2/"
 - name: "East Tennessee State University"
   url: "/setts/lo2w1db6w1ly2k17ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2w1db6w1ly2k17ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKYWBWY](/stripes/ykywbwy/).
+
+Part of the [East Tennessee State University](/tartans/e/ea/east-tennessee-state-university-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

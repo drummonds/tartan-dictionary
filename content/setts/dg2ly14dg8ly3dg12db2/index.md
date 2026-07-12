@@ -6,6 +6,8 @@ This is the **Confederate Infantry** sett — one scale-free proportion (`dg2ly1
 [BGYGYG](/stripes/bgygyg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Confederate Infantry](/tartans/c/co/confederate-infantry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

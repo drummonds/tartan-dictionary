@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Muzzi, Massimiliano Baron of Striche"
+  url: "/tartans/m/mu/muzzi-massimiliano-baron-of-striche/"
+- name: "Muzzi, Massimiliano Baron of Striche"
   url: "/setts/ly2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRKBKBKGKGKRKRBY](/stripes/wrkbkbkgkgkrkrby/).
+
+Part of the [Muzzi, Massimiliano Baron of Striche](/tartans/m/mu/muzzi-massimiliano-baron-of-striche/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **Black Watch Dress (Fashion)** sett — one scale-free proportion (
 [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Black Watch Dress](/tartans/b/bl/black-watch-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

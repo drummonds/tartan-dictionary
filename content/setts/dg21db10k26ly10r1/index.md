@@ -6,7 +6,7 @@ This is the **Charles-Carberry (Personal)** sett — one scale-free proportion (
 [GBKYR](/stripes/gbkyr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Charles-Carberry](/tartans/charles-carberry/) tartan — the named design grouping this sett with its kin.
+Part of the [Charles-Carberry](/tartans/c/ch/charles-carberry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

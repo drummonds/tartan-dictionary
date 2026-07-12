@@ -6,6 +6,8 @@ This is the **Corstorphine Trial A** sett — one scale-free proportion (`k6y2g1
 [KGGWGKGKBW](/stripes/kggwgkgkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Corstorphine Trial A](/tartans/c/co/corstorphine-trial-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

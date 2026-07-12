@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
+- name: "Bell Rock Lighthouse 200th Aniversar"
+  url: "/tartans/b/be/bell-rock-lighthouse-200th-aniversar/"
 - name: "Bell Rock Lighthouse 200th Aniversar"
   url: "/setts/w5lb7db4lb2db25k13r1k2r4ri3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5lb7db4lb2db25k13r1k2r4ri3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKRKBWBWW](/stripes/rrkrkbwbww/).
+
+Part of the [Bell Rock Lighthouse 200th Aniversar](/tartans/b/be/bell-rock-lighthouse-200th-aniversar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

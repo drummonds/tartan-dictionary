@@ -6,6 +6,8 @@ This is the **Highland Mist** sett — one scale-free proportion (`db2g3dp1g2ly1
 [BGBGYGBBYBGBRBBGBGYGBRBRBGBGYGBBGBRBBBBYBGBRB](/stripes/bgbgygbbybgbrbbgbgygbrbrbgbgygbbgbrbbbbybgbrb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Highland Mist](/tartans/h/hi/highland-mist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

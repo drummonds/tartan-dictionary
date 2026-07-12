@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wandering Shepherd"
+  url: "/tartans/w/wa/wandering-shepherd/"
 - name: "Shepherd, Derek (Wandering)"
   url: "/setts/db2k2g2db1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k2g2db1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBK](/stripes/bkgbk/).
+
+Part of the [Wandering Shepherd](/tartans/w/wa/wandering-shepherd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

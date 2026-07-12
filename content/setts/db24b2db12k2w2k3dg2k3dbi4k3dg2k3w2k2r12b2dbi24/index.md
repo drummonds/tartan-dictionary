@@ -6,6 +6,8 @@ This is the **Selkirk** sett — one scale-free proportion (`db24b2db12k2w2k3dg2
 [BBBKWKGKBKGKWKRBB](/stripes/bbbkwkgkbkgkwkrbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Selkirk](/tartans/s/se/selkirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

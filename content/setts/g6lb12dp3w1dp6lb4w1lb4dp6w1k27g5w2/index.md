@@ -6,7 +6,7 @@ This is the **Willox** sett — one scale-free proportion (`g6lb12dp3w1dp6lb4w1l
 [GWBWBWWWBWKGW](/stripes/gwbwbwwwbwkgw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Willox](/tartans/willox/) tartan — the named design grouping this sett with its kin.
+Part of the [Willox](/tartans/w/wi/willox/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

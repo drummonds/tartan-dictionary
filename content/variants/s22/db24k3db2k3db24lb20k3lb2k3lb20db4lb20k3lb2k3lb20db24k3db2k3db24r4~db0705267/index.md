@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Roberts"
+  url: "/clan/roberts/"
+- name: "Roberts of Wales"
+  url: "/families/roberts-of-wales/"
+- name: "Roberts of Wales"
+  url: "/tartans/r/ro/roberts-of-wales/"
 - name: "Roberts of Wales"
   url: "/setts/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWKWKWBWKWKWBKBKBR](/stripes/bkbkbwkwkwbwkwkwbkbkbr/).
+
+Part of the [Roberts of Wales](/tartans/r/ro/roberts-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

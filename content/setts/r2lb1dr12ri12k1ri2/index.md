@@ -6,6 +6,8 @@ This is the **Grelloch** sett — one scale-free proportion (`r2lb1dr12ri12k1ri2
 [KRBWRWBRKR](/stripes/krbwrwbrkr/). It is recorded as a single **variant**, below.
 First attested **1951**.
 
+Part of the [Grelloch](/tartans/g/gr/grelloch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

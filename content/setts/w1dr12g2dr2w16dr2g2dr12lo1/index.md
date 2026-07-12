@@ -6,6 +6,8 @@ This is the **MacFie Dress** sett — one scale-free proportion (`w1dr12g2dr2w16
 [WBGBWBGBY](/stripes/wbgbwbgby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacFie Dress](/tartans/m/ma/macfie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

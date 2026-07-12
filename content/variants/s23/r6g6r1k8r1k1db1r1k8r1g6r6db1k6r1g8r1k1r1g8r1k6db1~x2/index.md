@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cumming Comyn Buchan"
+  url: "/tartans/c/cu/cumming-comyn-buchan/"
 - name: "Cumming Comyn Buchan Clan Tartan"
   url: "/setts/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
+
+Part of the [Cumming Comyn Buchan](/tartans/c/cu/cumming-comyn-buchan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 

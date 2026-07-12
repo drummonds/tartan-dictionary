@@ -6,6 +6,8 @@ This is the **31, Tartan (The.. )** sett — one scale-free proportion (`db2r21d
 [BRBWBWBWR](/stripes/brbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [31](/tartans/0-9/0-9/31/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

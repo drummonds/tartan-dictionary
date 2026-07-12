@@ -6,6 +6,8 @@ This is the **Canterbury (Fashion)** sett — one scale-free proportion (`r2k20r
 [GKRKRKGKRKR](/stripes/gkrkrkgkrkr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Canterbury](/tartans/c/ca/canterbury/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

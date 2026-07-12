@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McBrayer"
+  url: "/tartans/m/mc/mcbrayer/"
 - name: "McBrayer Blue (Personal)"
   url: "/setts/db57k1r12db1g12r14db1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db57k1r12db1g12r14db1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBGRBR](/stripes/bkrbgrbr/).
+
+Part of the [McBrayer](/tartans/m/mc/mcbrayer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

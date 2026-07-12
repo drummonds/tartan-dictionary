@@ -6,6 +6,8 @@ This is the **Philadelphia Police and Fire P&D** sett — one scale-free proport
 [BGBWBRWRWRBG](/stripes/bgbwbrwrwrbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Philadelphia Police and Fire P&D](/tartans/p/ph/philadelphia-police-and-fire-p-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

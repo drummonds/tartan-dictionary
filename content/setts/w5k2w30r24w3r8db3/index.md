@@ -6,6 +6,8 @@ This is the **Arduaine, Red (Dance)** sett — one scale-free proportion (`w5k2w
 [BRWRWKW](/stripes/brwrwkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Arduaine](/tartans/a/ar/arduaine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

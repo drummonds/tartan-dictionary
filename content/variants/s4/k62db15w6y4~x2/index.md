@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "C-Tec N.I. Ltd"
+  url: "/tartans/c/c/c-tec-n-i-ltd/"
+- name: "C-Tec N.I. Ltd"
   url: "/setts/k62db15w6y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62db15w6y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBK](/stripes/gwbk/).
+
+Part of the [C-Tec N.I. Ltd](/tartans/c/c/c-tec-n-i-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

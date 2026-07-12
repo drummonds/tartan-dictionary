@@ -6,7 +6,7 @@ This is the **Lowry Clan Tartan** sett — one scale-free proportion (`dp6y2dp1g
 [BGBGBKB](/stripes/bgbgbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Lowry](/tartans/lowry/) tartan — the named design grouping this sett with its kin.
+Part of the [Lowry](/tartans/l/lo/lowry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

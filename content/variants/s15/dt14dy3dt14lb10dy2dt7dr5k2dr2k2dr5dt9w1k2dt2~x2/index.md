@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Proven"
+  url: "/tartans/p/pr/proven/"
+- name: "Proven"
   url: "/setts/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGBBKBKBBWKB](/stripes/bgbwgbbkbkbbwkb/).
+
+Part of the [Proven](/tartans/p/pr/proven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

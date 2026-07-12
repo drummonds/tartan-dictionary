@@ -13,10 +13,12 @@ A family of [Clan Drummond](/clan/drummond/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r40y1k2n1w15r5k5n5w1/">Drummond of Perth Dress</a> ★</td><td><code>R/80 Y2 K4 N2 W30 R10 K10 N10 W/2</code></td><td>218</td><td>~2003</td></tr>
+<tr><td><a href="/setts/r40y1k2n1w15r5k5n5w1/">Drummond of Perth Dress</a></td><td><code>R/80 Y2 K4 N2 W30 R10 K10 N10 W/2</code></td><td>218</td><td>~2003</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r40y1k2n1w15r5k5n5w1/"><img src="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Drummond of Perth Dress tartan and all its setts →](/tartans/d/dr/drummond-of-perth-dress-2/)
 
 ### Drummond of Perth
 
@@ -33,5 +35,5 @@ A family of [Clan Drummond](/clan/drummond/).
 </tbody>
 </table>
 
-[See the Drummond of Perth tartan and all its setts →](/tartans/drummond-of-perth-2/)
+[See the Drummond of Perth tartan and all its setts →](/tartans/d/dr/drummond-of-perth-2/)
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Richardson"
-  url: "/tartans/richardson/"
+  url: "/tartans/r/ri/richardson/"
 - name: "Richardson"
   url: "/setts/r25k1y2k1y2k1r10db18w2db12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r25k1y2k1y2k1r10db18w2db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRKGKGKR](/stripes/bwbrkgkgkr/).
 
-Part of the [Richardson](/tartans/richardson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Richardson](/tartans/r/ri/richardson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

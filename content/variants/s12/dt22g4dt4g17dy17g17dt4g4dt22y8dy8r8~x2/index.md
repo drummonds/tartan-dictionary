@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Niagara Falls"
+  url: "/tartans/n/ni/niagara-falls-2/"
+- name: "Niagara Falls"
   url: "/setts/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/).
+
+Part of the [Niagara Falls](/tartans/n/ni/niagara-falls-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

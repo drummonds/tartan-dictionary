@@ -6,6 +6,8 @@ This is the **St Andrews Dress, Earl of.. District Tartan** sett — one scale-f
 [BWBWBWW](/stripes/bwbwbww/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [St Andrews Dress, Earl of..](/tartans/s/st/st-andrews-dress-earl-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

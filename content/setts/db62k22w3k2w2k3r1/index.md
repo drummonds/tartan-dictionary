@@ -6,6 +6,8 @@ This is the **Tyneside Blue, North Tyneside Pipe Band** sett — one scale-free 
 [BKWKWKR](/stripes/bkwkwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tyneside Blue, North Tyneside Pipe Band](/tartans/t/ty/tyneside-blue-north-tyneside-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

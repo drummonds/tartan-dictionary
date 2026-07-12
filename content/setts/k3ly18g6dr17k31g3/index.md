@@ -6,6 +6,8 @@ This is the **MacMillan - 2002 (Black - Unofficial** sett — one scale-free pro
 [GKBGYK](/stripes/gkbgyk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacMillan](/tartans/m/ma/macmillan-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

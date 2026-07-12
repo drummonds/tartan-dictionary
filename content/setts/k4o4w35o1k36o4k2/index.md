@@ -6,6 +6,8 @@ This is the **Gleneagles** sett — one scale-free proportion (`k4o4w35o1k36o4k2
 [KRKRWRK](/stripes/krkrwrk/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Gleneagles](/tartans/g/gl/gleneagles-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

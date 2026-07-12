@@ -6,6 +6,8 @@ This is the **Wilson's, No 195** sett — one scale-free proportion (`b5g7k1lb1`
 [BGKW](/stripes/bgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 195](/tartans/w/wi/wilson-s-no-195-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

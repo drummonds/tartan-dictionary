@@ -6,6 +6,8 @@ This is the **Callanish, The** sett — one scale-free proportion (`r2lr2dt2lo2l
 [RYBYYGBYYBGYR](/stripes/rybyygbyybgyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Callanish, The](/tartans/c/ca/callanish-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

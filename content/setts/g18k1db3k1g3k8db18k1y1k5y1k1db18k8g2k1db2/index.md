@@ -6,6 +6,8 @@ This is the **Hope-Vere/Weir** sett — one scale-free proportion (`g18k1db3k1g3
 [BKGKBKGKGKBKGKBKG](/stripes/bkgkbkgkgkbkgkbkg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Hope-Vere](/tartans/h/ho/hope-vere-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Anderson P** sett — one scale-free proportion (`r3g6k1r2k1g6db4r
 [RGKRKGBRKGKGKWKWKRKWR](/stripes/rgkrkgbrkgkgkwkwkrkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Anderson P](/tartans/anderson-p/) tartan — the named design grouping this sett with its kin.
+Part of the [Anderson P](/tartans/a/an/anderson-p/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

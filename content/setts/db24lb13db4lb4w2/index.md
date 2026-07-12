@@ -6,7 +6,7 @@ This is the **Gallaecia (Unofficial) (District)** sett — one scale-free propor
 [BWBWW](/stripes/bwbww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Gallaecia](/tartans/gallaecia/) tartan — the named design grouping this sett with its kin.
+Part of the [Gallaecia](/tartans/g/ga/gallaecia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

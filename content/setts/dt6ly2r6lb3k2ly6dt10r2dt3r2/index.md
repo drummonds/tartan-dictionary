@@ -6,6 +6,8 @@ This is the **Commonwealth** sett — one scale-free proportion (`dt6ly2r6lb3k2l
 [BYRWKYBRBR](/stripes/byrwkybrbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Commonwealth](/tartans/c/co/commonwealth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLaurin"
+  url: "/clan/maclaurin/"
+- name: "MacLaurin of Brioch"
+  url: "/families/maclaurin-of-brioch/"
+- name: "MacLaurin of Brioch"
+  url: "/tartans/m/ma/maclaurin-of-brioch/"
 - name: "MacLaurin of Brioch"
   url: "/setts/db36k10g3r3g6k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db36k10g3r3g6k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKG](/stripes/bkgrgkg/).
+
+Part of the [MacLaurin of Brioch](/tartans/m/ma/maclaurin-of-brioch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

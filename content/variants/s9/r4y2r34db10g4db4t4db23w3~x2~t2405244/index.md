@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heirloom Red Alba"
-  url: "/tartans/heirloom-red-alba/"
+  url: "/tartans/h/he/heirloom-red-alba/"
 - name: "Heirloom Red Alba"
   url: "/setts/r4y2r34db10g4db4t4db23w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4y2r34db10g4db4t4db23w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBBBWBBBGBRGR](/stripes/grbgbbbwbbbgbrgr/).
 
-Part of the [Heirloom Red Alba](/tartans/heirloom-red-alba/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heirloom Red Alba](/tartans/h/he/heirloom-red-alba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,7 +6,7 @@ This is the **Spar (UK) Ltd Corporate Tartan** sett — one scale-free proportio
 [BKBKBKGBGWGK](/stripes/bkbkbkgbgwgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Spar Ltd](/tartans/spar-ltd/) tartan — the named design grouping this sett with its kin.
+Part of the [Spar Ltd](/tartans/s/sp/spar-ltd/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

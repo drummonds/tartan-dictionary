@@ -6,6 +6,8 @@ This is the **Alan Stone Family (Personal)** sett — one scale-free proportion 
 [GBBKWR](/stripes/gbbkwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Alan Stone](/tartans/a/al/alan-stone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Stewart, Plaid** sett — one scale-free proportion (`r2g4db8r9g9k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Stewart](/tartans/s/st/stewart-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

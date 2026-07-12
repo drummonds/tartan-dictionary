@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFrog"
+  url: "/tartans/m/ma/macfrog/"
 - name: "MacFrog (Personal)"
   url: "/setts/r3db20g3k20db3g20w3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db20g3k20db3g20w3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBKGBR](/stripes/gwgbkgbr/).
+
+Part of the [MacFrog](/tartans/m/ma/macfrog/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

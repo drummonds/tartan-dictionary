@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "SOBHD"
+  url: "/tartans/s/so/sobhd/"
 - name: "S.O.B.H.D. (Corporate)"
   url: "/setts/r3w30b10k3dp15g2dp3g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w30b10k3dp15g2dp3g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBWR](/stripes/gbgbkbwr/).
+
+Part of the [SOBHD](/tartans/s/so/sobhd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

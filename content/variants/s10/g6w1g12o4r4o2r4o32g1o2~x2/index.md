@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Seton, hunting"
+  url: "/tartans/s/se/seton-hunting-2/"
+- name: "Seton, hunting"
   url: "/setts/g6w1g12o4r4o2r4o32g1o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6w1g12o4r4o2r4o32g1o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRRRRRGR](/stripes/gwgrrrrrgr/).
+
+Part of the [Seton, hunting](/tartans/s/se/seton-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

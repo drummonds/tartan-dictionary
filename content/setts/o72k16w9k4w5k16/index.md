@@ -6,6 +6,8 @@ This is the **Machair (warp)** sett — one scale-free proportion (`o72k16w9k4w5
 [KWKWKR](/stripes/kwkwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Machair](/tartans/m/ma/machair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

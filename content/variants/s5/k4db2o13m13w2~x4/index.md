@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Think Pink"
+  url: "/tartans/t/th/think-pink/"
 - name: "Think Pink (ICF)"
   url: "/setts/k4db2o13m13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db2o13m13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRRW](/stripes/kbrrw/).
+
+Part of the [Think Pink](/tartans/t/th/think-pink/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

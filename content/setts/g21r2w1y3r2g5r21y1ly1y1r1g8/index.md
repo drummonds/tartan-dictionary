@@ -6,6 +6,8 @@ This is the **Glendronach** sett — one scale-free proportion (`g21r2w1y3r2g5r2
 [GRGYGRGRGWRG](/stripes/grgygrgrgwrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glendronach](/tartans/g/gl/glendronach-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

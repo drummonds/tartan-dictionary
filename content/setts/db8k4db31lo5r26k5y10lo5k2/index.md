@@ -6,6 +6,8 @@ This is the **McGurk (Personal)** sett — one scale-free proportion (`db8k4db31
 [BKBYRKGYK](/stripes/bkbyrkgyk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [McGurk](/tartans/m/mc/mcgurk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

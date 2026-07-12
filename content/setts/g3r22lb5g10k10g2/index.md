@@ -6,6 +6,8 @@ This is the **Strathspey, Check** sett — one scale-free proportion (`g3r22lb5g
 [GKGWRG](/stripes/gkgwrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Strathspey, Check](/tartans/s/st/strathspey-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

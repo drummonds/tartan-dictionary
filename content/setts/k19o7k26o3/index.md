@@ -6,6 +6,8 @@ This is the **Crombie House Check** sett — one scale-free proportion (`k19o7k2
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Crombie House Check](/tartans/c/cr/crombie-house-check-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Walls, Steve C (Personal)** sett — one scale-free proportion (`k
 [KGKGGKBRWR](/stripes/kgkggkbrwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Walls, Steve C](/tartans/w/wa/walls-steve-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alberta Caledonia"
+  url: "/tartans/a/al/alberta-caledonia/"
 - name: "Alberta Caledonia (Corporate)"
   url: "/setts/r6db9k2db2k2db9k10y4n17r5k2r5w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db9k2db2k2db9k10y4n17r5k2r5w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKGBRKRW](/stripes/rbkbkbkgbrkrw/).
+
+Part of the [Alberta Caledonia](/tartans/a/al/alberta-caledonia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

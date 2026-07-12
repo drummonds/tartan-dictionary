@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Beechgrove Garden, The"
+  url: "/tartans/b/be/beechgrove-garden-the/"
+- name: "Beechgrove Garden, The"
   url: "/setts/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBGGGGGBGGGW](/stripes/wgbgbgggggbgggw/).
+
+Part of the [Beechgrove Garden, The](/tartans/b/be/beechgrove-garden-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

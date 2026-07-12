@@ -6,6 +6,8 @@ This is the **Bon Accord** sett — one scale-free proportion (`r6w3r17db3r3db25
 [RBRBRWR](/stripes/rbrbrwr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Bon Accord](/tartans/b/bo/bon-accord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jamestown Parish Church"
+  url: "/tartans/j/ja/jamestown-parish-church/"
 - name: "Jamestown Parish Church (Corporate)"
   url: "/setts/r3y2g12dp12db14w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3y2g12dp12db14w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGBBW](/stripes/rggbbw/).
+
+Part of the [Jamestown Parish Church](/tartans/j/ja/jamestown-parish-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

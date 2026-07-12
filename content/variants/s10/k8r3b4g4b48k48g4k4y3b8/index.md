@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kingsbarns Golf Links"
-  url: "/tartans/kingsbarns-golf-links/"
+  url: "/tartans/k/ki/kingsbarns-golf-links/"
 - name: "Kingsbarns Golf Links"
   url: "/setts/k8r3b4g4b48k48g4k4y3b8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8r3b4g4b48k48g4k4y3b8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBGBRK](/stripes/bgkgkbgbrk/).
 
-Part of the [Kingsbarns Golf Links](/tartans/kingsbarns-golf-links/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kingsbarns Golf Links](/tartans/k/ki/kingsbarns-golf-links/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

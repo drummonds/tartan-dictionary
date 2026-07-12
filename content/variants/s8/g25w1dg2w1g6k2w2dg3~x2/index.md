@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Marshall"
+  url: "/clan/marshall/"
+- name: "Marshall University"
+  url: "/tartans/m/ma/marshall-university/"
 - name: "Marshall University"
   url: "/setts/g25w1dg2w1g6k2w2dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g25w1dg2w1g6k2w2dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGKWG](/stripes/gwgwgkwg/).
+
+Part of the [Marshall University](/tartans/m/ma/marshall-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

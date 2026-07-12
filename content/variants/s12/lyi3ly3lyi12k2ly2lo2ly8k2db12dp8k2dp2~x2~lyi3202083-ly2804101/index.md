@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Merise and Lars"
+  url: "/tartans/m/me/merise-and-lars/"
 - name: "Merise and Lars (Personal)"
   url: "/setts/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKYYYKYYY](/stripes/bkbbkyyykyyy/).
+
+Part of the [Merise and Lars](/tartans/m/me/merise-and-lars/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

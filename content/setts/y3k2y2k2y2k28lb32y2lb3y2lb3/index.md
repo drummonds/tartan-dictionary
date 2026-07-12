@@ -6,6 +6,8 @@ This is the **General Choi** sett — one scale-free proportion (`y3k2y2k2y2k28l
 [GKGKGKWGWGW](/stripes/gkgkgkwgwgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [General Choi](/tartans/g/ge/general-choi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

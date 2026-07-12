@@ -6,6 +6,8 @@ This is the **Campbell of Lochlane** sett — one scale-free proportion (`k2dr1k
 [KBKBKBK](/stripes/kbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1730**.
 
+Part of the [Campbell of Lochlane](/tartans/c/ca/campbell-of-lochlane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

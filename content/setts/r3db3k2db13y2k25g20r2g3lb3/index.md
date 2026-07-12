@@ -6,7 +6,7 @@ This is the **Loch Freuchie** sett — one scale-free proportion (`r3db3k2db13y2
 [RBKBGKGRGW](/stripes/rbkbgkgrgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Loch Freuchie](/tartans/loch-freuchie/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Freuchie](/tartans/l/lo/loch-freuchie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

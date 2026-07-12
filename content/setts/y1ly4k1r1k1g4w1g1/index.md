@@ -6,6 +6,8 @@ This is the **Dunedin (NZ)** sett — one scale-free proportion (`y1ly4k1r1k1g4w
 [GWGKRKYG](/stripes/gwgkrkyg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Dunedin](/tartans/d/du/dunedin-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

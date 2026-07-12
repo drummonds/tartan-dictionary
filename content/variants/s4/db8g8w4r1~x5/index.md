@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Farooq in Livingston"
+  url: "/tartans/f/fa/farooq-in-livingston/"
 - name: "Farooq in Livingston (Personal)"
   url: "/setts/db8g8w4r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8g8w4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWR](/stripes/bgwr/).
+
+Part of the [Farooq in Livingston](/tartans/f/fa/farooq-in-livingston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

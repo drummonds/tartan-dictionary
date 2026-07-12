@@ -6,6 +6,8 @@ This is the **MacKnight (Name)** sett — one scale-free proportion (`k12lb1k2lb
 [KWKWKWKWR](/stripes/kwkwkwkwr/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [MacKnight](/tartans/m/ma/macknight/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

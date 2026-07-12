@@ -6,6 +6,8 @@ This is the **Serenade** sett — one scale-free proportion (`dp12lg3dp12t6db2t2
 [BBYBBBBBWBWBBBBBYB](/stripes/bbybbbbbwbwbbbbbyb/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Serenade](/tartans/s/se/serenade/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

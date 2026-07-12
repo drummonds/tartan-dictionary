@@ -6,6 +6,8 @@ This is the **Melrose (District)** sett — one scale-free proportion (`r64k2r2k
 [GKGRGBGKGKRKR](/stripes/gkgrgbgkgkrkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Melrose](/tartans/m/me/melrose-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

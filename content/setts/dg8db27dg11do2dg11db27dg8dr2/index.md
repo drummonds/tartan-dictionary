@@ -6,6 +6,8 @@ This is the **Hector, James** sett — one scale-free proportion (`dg8db27dg11do
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Hector, James](/tartans/h/he/hector-james-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

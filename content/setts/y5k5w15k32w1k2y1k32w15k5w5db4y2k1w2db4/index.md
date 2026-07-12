@@ -6,6 +6,8 @@ This is the **Deudon (2015)** sett — one scale-free proportion (`y5k5w15k32w1k
 [BWKGBWKWKGKWKWKG](/stripes/bwkgbwkwkgkwkwkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Deudon](/tartans/d/de/deudon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

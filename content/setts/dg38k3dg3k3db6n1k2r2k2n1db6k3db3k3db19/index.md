@@ -6,6 +6,8 @@ This is the **Doyel (Name)** sett — one scale-free proportion (`dg38k3dg3k3db6
 [BKBKBBKRKBBKGKG](/stripes/bkbkbbkrkbbkgkg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Doyel](/tartans/d/do/doyel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

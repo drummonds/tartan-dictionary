@@ -7,7 +7,7 @@ This is the **MacFarlane Red** sett — one scale-free proportion (`r98k3dg21w5r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
-Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFarlane](/tartans/m/ma/macfarlane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

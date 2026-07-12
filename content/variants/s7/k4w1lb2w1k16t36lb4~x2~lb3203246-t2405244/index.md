@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "NHS Grampian"
-  url: "/tartans/nhs-grampian/"
+  url: "/tartans/n/nh/nhs-grampian/"
 - name: "NHS Grampian (Corporate)"
   url: "/setts/k4w1lb2w1k16t36lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4w1lb2w1k16t36lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWWKBW](/stripes/kwwwkbw/).
 
-Part of the [NHS Grampian](/tartans/nhs-grampian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [NHS Grampian](/tartans/n/nh/nhs-grampian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

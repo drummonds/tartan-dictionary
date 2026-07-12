@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ghana"
+  url: "/tartans/g/gh/ghana/"
+- name: "Ghana"
   url: "/setts/g16k1dy8k2dy1k2dy1k4dy1k2dy1k2dy8k1dr16k14w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16k1dy8k2dy1k2dy1k4dy1k2dy1k2dy8k1dr16k14w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGKBKKKW](/stripes/gkgkgkgkgkgkgkbkkkw/).
+
+Part of the [Ghana](/tartans/g/gh/ghana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

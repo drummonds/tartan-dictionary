@@ -6,6 +6,8 @@ This is the **Jardine (Clan)** sett — one scale-free proportion (`n9dy9yi9r1y1
 [BGGRGGGR](/stripes/bggrgggr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Jardine](/tartans/j/ja/jardine-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

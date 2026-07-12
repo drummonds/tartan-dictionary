@@ -6,7 +6,7 @@ This is the **Matheson N** sett — one scale-free proportion (`r2g2r12db10w3g10
 [RGRBWGRGRGRGR](/stripes/rgrbwgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Matheson N](/tartans/matheson-n/) tartan — the named design grouping this sett with its kin.
+Part of the [Matheson N](/tartans/m/ma/matheson-n/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

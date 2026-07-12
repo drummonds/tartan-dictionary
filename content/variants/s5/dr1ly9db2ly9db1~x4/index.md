@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brooks Bros Tattersall Camel (Fashio"
+  url: "/tartans/b/br/brooks-bros-tattersall-camel-fashio/"
+- name: "Brooks Bros Tattersall Camel (Fashio"
   url: "/setts/dr1ly9db2ly9db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1ly9db2ly9db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYB](/stripes/bybyb/).
+
+Part of the [Brooks Bros Tattersall Camel (Fashio](/tartans/b/br/brooks-bros-tattersall-camel-fashio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

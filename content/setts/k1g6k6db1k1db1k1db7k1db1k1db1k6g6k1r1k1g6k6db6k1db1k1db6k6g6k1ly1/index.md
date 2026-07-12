@@ -6,6 +6,8 @@ This is the **MacEwen (Clans Originaux)** sett — one scale-free proportion (`k
 [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [MacEwen](/tartans/m/ma/macewen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

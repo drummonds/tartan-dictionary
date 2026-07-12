@@ -6,6 +6,8 @@ This is the **Loevenstein Castle #2** sett — one scale-free proportion (`lr20b
 [BYBY](/stripes/byby/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Loevenstein Castle 2](/tartans/l/lo/loevenstein-castle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

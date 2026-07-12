@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lundie"
-  url: "/tartans/lundie/"
+  url: "/tartans/l/lu/lundie/"
 - name: "Lundie (Personal)"
   url: "/setts/r4t2db5g2db2g2db2g13db2g2db2g2db5y2db3w2g6r5t3db4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4t2db5g2db2g2db2g13db2g2db2g2db5y2db3w2g6r5t3db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGBGBGBGBGBGBWGRBBW](/stripes/rbbgbgbgbgbgbgbwgrbbw/).
 
-Part of the [Lundie](/tartans/lundie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lundie](/tartans/l/lu/lundie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

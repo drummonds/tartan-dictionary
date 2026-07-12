@@ -6,6 +6,8 @@ This is the **McNiff, Kevin (Personal)** sett — one scale-free proportion (`g2
 [GRBW](/stripes/grbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [McNiff, Kevin](/tartans/m/mc/mcniff-kevin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

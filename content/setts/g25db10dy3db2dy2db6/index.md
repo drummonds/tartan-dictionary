@@ -6,6 +6,8 @@ This is the **Inkster** sett — one scale-free proportion (`g25db10dy3db2dy2db6
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Inkster](/tartans/i/in/inkster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

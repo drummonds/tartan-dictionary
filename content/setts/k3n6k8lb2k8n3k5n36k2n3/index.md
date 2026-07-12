@@ -7,6 +7,8 @@ This is the **City Building (Glasgow) LLP** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [City Building LLP](/tartans/c/ci/city-building-llp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

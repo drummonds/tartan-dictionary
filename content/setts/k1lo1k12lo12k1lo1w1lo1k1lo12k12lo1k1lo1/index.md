@@ -6,6 +6,8 @@ This is the **Johnston Orange/Black** sett — one scale-free proportion (`k1lo1
 [KYKYKYWYKYKYKY](/stripes/kykykywykykyky/). It is recorded as a single **variant**, below.
 First attested **1945**.
 
+Part of the [Johnston Orange/Black](/tartans/j/jo/johnston-orange-black/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

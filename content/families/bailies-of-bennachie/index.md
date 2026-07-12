@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Bailies of Bennachie tartan and all its setts →](/tartans/bailies-of-bennachie/)
+[See the Bailies of Bennachie tartan and all its setts →](/tartans/b/ba/bailies-of-bennachie/)
 

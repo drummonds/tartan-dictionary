@@ -7,7 +7,7 @@ This is the **MacPherson Hunting** sett — one scale-free proportion (`db1r1k8r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1893**.
 
-Part of the [MacPherson Hunting](/tartans/macpherson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson Hunting](/tartans/m/ma/macpherson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

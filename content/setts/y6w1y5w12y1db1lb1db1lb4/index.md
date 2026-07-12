@@ -6,6 +6,8 @@ This is the **MacGrath (Personal)** sett — one scale-free proportion (`y6w1y5w
 [GWGWGBWBW](/stripes/gwgwgbwbw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [MacGrath](/tartans/m/ma/macgrath/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

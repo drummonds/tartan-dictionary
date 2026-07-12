@@ -6,6 +6,8 @@ This is the **McHale, Barry** sett — one scale-free proportion (`db15k10n30dy1
 [BKBGWW](/stripes/bkbgww/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [McHale, Barry](/tartans/m/mc/mchale-barry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

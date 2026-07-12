@@ -6,6 +6,8 @@ This is the **Jolley (Personal)** sett — one scale-free proportion (`g4n2dg24d
 [GBGGYRYG](/stripes/gbggyryg/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Jolley](/tartans/j/jo/jolley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

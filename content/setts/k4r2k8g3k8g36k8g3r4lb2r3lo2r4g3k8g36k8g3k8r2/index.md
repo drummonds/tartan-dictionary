@@ -6,6 +6,8 @@ This is the **Kinnear, Barony of (Personal)** sett — one scale-free proportion
 [KRKGKGKGRWRYRGKGKGKR](/stripes/krkgkgkgrwryrgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Kinnear, Barony of](/tartans/k/ki/kinnear-barony-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

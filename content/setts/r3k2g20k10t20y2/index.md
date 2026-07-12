@@ -6,7 +6,7 @@ This is the **MacLeod of Assynt** sett — one scale-free proportion (`r3k2g20k1
 [GBKGKR](/stripes/gbkgkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [MacLeod of Assynt](/tartans/macleod-of-assynt/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Assynt](/tartans/m/ma/macleod-of-assynt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

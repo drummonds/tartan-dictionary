@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "S.I.D.E."
+  url: "/tartans/s/s/s-i-d-e/"
 - name: "S.I.D.E. (Corporate)"
   url: "/setts/y15r9lb30w3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y15r9lb30w3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWRG](/stripes/bwwrg/).
+
+Part of the [S.I.D.E.](/tartans/s/s/s-i-d-e/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

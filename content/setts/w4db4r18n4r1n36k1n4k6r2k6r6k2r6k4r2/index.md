@@ -6,7 +6,7 @@ This is the **Mehrtens (Personal)** sett — one scale-free proportion (`w4db4r1
 [RKRKRKRKBKBRBRBW](/stripes/rkrkrkrkbkbrbrbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Mehrtens](/tartans/mehrtens/) tartan — the named design grouping this sett with its kin.
+Part of the [Mehrtens](/tartans/m/me/mehrtens/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

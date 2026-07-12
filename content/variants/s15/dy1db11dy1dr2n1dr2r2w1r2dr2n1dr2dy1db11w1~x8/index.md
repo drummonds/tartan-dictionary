@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wisconsin in Scotland"
+  url: "/tartans/w/wi/wisconsin-in-scotland-2/"
 - name: "Wisconsin in Scotland (Corporate)"
   url: "/setts/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBRWRBBBGBW](/stripes/gbgbbbrwrbbbgbw/).
+
+Part of the [Wisconsin in Scotland](/tartans/w/wi/wisconsin-in-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

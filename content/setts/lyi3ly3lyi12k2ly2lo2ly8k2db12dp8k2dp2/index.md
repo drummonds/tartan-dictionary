@@ -6,6 +6,8 @@ This is the **Merise and Lars (Personal)** sett — one scale-free proportion (`
 [BKBBKYYYKYYY](/stripes/bkbbkyyykyyy/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Merise and Lars](/tartans/m/me/merise-and-lars/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

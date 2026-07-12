@@ -6,6 +6,8 @@ This is the **Queens University Kingston Ontario** sett — one scale-free propo
 [BGBGBWBBBGGW](/stripes/bgbgbwbbbggw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Queens University Kingston Ontario](/tartans/q/qu/queens-university-kingston-ontario/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

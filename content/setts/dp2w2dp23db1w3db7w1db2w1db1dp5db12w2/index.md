@@ -6,6 +6,8 @@ This is the **Meiji Rugby 1923** sett — one scale-free proportion (`dp2w2dp23d
 [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Meiji Rugby 1923](/tartans/m/me/meiji-rugby-1923/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hopetoun Rejected design** sett — one scale-free proportion (`g1
 [GBKGKGKGKGKGKG](/stripes/gbkgkgkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hopetoun Rejected design](/tartans/h/ho/hopetoun-rejected-design/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

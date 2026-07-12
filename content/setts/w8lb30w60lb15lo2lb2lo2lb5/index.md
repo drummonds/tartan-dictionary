@@ -6,6 +6,8 @@ This is the **Amazon** sett — one scale-free proportion (`w8lb30w60lb15lo2lb2l
 [WWWWYWYW](/stripes/wwwwywyw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Amazon](/tartans/a/am/amazon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

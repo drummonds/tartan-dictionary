@@ -6,6 +6,8 @@ This is the **Chan (Name?)** sett — one scale-free proportion (`dr2dg13dr2dg13
 [BGBGKBKG](/stripes/bgbgkbkg/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Chan](/tartans/c/ch/chan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

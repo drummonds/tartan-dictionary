@@ -6,6 +6,8 @@ This is the **MacNaughten** sett — one scale-free proportion (`k1lb1r16g16k12l
 [KWRGKWRWK](/stripes/kwrgkwrwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNaughten](/tartans/m/ma/macnaughten/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

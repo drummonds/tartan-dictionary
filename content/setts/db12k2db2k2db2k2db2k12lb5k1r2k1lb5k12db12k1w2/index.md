@@ -6,6 +6,8 @@ This is the **Donside Trampoline Club** sett — one scale-free proportion (`db1
 [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Donside Trampoline Club](/tartans/d/do/donside-trampoline-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Torridon, Saphire (Dance)** sett — one scale-free proportion (`y
 [GBKBWBW](/stripes/gbkbwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Torridon Saphire](/tartans/t/to/torridon-saphire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

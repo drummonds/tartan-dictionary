@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Matchpoint Hunting"
-  url: "/tartans/matchpoint-hunting/"
+  url: "/tartans/m/ma/matchpoint-hunting/"
 - name: "Matchpoint Hunting"
   url: "/setts/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBGBGBGBBBRBW](/stripes/bggbgbgbgbbbrbw/).
 
-Part of the [Matchpoint Hunting](/tartans/matchpoint-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Matchpoint Hunting](/tartans/m/ma/matchpoint-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

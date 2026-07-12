@@ -6,6 +6,8 @@ This is the **Island of Innis, The** sett — one scale-free proportion (`k15dg1
 [KGKRGRYK](/stripes/kgkrgryk/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Island of Innis, The](/tartans/i/is/island-of-innis-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

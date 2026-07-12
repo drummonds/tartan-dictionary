@@ -6,7 +6,7 @@ This is the **Kincaid of Kincaid (Clan)** sett — one scale-free proportion (`k
 [BGK](/stripes/bgk/). It is recorded as a single **variant**, below.
 First attested **~1960**.
 
-Part of the [Kincaid of Kincaid](/tartans/kincaid-of-kincaid/) tartan — the named design grouping this sett with its kin.
+Part of the [Kincaid of Kincaid](/tartans/k/ki/kincaid-of-kincaid/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

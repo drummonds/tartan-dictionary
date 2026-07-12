@@ -6,6 +6,8 @@ This is the **Clanedin (Commemorative)** sett — one scale-free proportion (`dr
 [BKWKWKWBWKWKWKWKW](/stripes/bkwkwkwbwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Clanedin](/tartans/c/cl/clanedin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

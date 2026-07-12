@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Swankie"
+  url: "/tartans/s/sw/swankie-2/"
 - name: "Swankie (Personal)"
   url: "/setts/r6k20y4dy10t21k4t21dy10y4k20r6t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6k20y4dy10t21k4t21dy10y4k20r6t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGGBKBGGKR](/stripes/brkggbkbggkr/).
+
+Part of the [Swankie](/tartans/s/sw/swankie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

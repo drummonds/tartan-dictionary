@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacWilliam Hunting"
-  url: "/tartans/macwilliam-hunting/"
+  url: "/tartans/m/ma/macwilliam-hunting/"
 - name: "MacWilliam Hunting"
   url: "/setts/dy2dg44k10r1db16r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy2dg44k10r1db16r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRBR](/stripes/ggkrbr/).
 
-Part of the [MacWilliam Hunting](/tartans/macwilliam-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacWilliam Hunting](/tartans/m/ma/macwilliam-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Calgary HOG"
-  url: "/tartans/calgary-hog/"
+  url: "/tartans/c/ca/calgary-hog/"
 - name: "Calgary HOG (Corporate)"
   url: "/setts/lb4n6k4ri2r10k44n1k1lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4n6k4ri2r10k44n1k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKRRKBKW](/stripes/wbkrrkbkw/).
 
-Part of the [Calgary HOG](/tartans/calgary-hog/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Calgary HOG](/tartans/c/ca/calgary-hog/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

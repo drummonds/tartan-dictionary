@@ -6,7 +6,7 @@ This is the **Glen Innes (District)** sett — one scale-free proportion (`dbii1
 [BBBWBWBR](/stripes/bbbwbwbr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [Glen Innes](/tartans/glen-innes/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Innes](/tartans/g/gl/glen-innes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

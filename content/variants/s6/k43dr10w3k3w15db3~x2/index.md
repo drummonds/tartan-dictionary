@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bro-Wened"
+  url: "/tartans/b/br/bro-wened/"
+- name: "Bro-Wened"
   url: "/setts/k43dr10w3k3w15db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k43dr10w3k3w15db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBK](/stripes/bwkwbk/).
+
+Part of the [Bro-Wened](/tartans/b/br/bro-wened/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

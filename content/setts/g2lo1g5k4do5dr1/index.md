@@ -6,6 +6,8 @@ This is the **Forres** sett — one scale-free proportion (`g2lo1g5k4do5dr1`), c
 [BBKGYG](/stripes/bbkgyg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Forres](/tartans/f/fo/forres/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

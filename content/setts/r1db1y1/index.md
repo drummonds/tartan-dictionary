@@ -6,6 +6,8 @@ This is the **Mothers Pride** sett — one scale-free proportion (`r1db1y1`), co
 [GBR](/stripes/gbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mothers Pride](/tartans/m/mo/mothers-pride/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

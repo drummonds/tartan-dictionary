@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fife Ethylene Plant"
+  url: "/tartans/f/fi/fife-ethylene-plant/"
+- name: "Fife Ethylene Plant"
   url: "/setts/dg35db40w11y3dg7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg35db40w11y3dg7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGG](/stripes/gbwgg/).
+
+Part of the [Fife Ethylene Plant](/tartans/f/fi/fife-ethylene-plant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

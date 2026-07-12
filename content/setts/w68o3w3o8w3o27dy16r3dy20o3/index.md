@@ -6,6 +6,8 @@ This is the **Ben Cleuch (Fashion)** sett — one scale-free proportion (`w68o3w
 [RGRGRWRWRW](/stripes/rgrgrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Ben Cleuch](/tartans/b/be/ben-cleuch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

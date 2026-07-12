@@ -6,6 +6,8 @@ This is the **MacWilliam** sett — one scale-free proportion (`dy2g12k10r1t16r2
 [GGKRBRBR](/stripes/ggkrbrbr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [MacWilliam](/tartans/m/ma/macwilliam-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

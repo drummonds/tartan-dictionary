@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Ambulance Service"
+  url: "/tartans/s/sc/scottish-ambulance-service/"
+- name: "Scottish Ambulance Service"
   url: "/setts/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKGBGYGBGKGKB](/stripes/bbkgkgbgygbgkgkb/).
+
+Part of the [Scottish Ambulance Service](/tartans/s/sc/scottish-ambulance-service/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

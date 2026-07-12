@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Catalunya Escocia"
-  url: "/tartans/catalunya-escocia/"
+  url: "/tartans/c/ca/catalunya-escocia/"
 - name: "Catalunya Escocia"
   url: "/setts/y6r6y6r6y6k1db18w2db1w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y6r6y6r6y6k1db18w2db1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKBWBW](/stripes/grgrgkbwbw/).
 
-Part of the [Catalunya Escocia](/tartans/catalunya-escocia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Catalunya Escocia](/tartans/c/ca/catalunya-escocia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

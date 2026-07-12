@@ -6,7 +6,7 @@ This is the **Brunnbauer (2015)** sett — one scale-free proportion (`w4lb32w12
 [WRYRKWWW](/stripes/wryrkwww/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Brunnbauer](/tartans/brunnbauer/) tartan — the named design grouping this sett with its kin.
+Part of the [Brunnbauer](/tartans/b/br/brunnbauer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

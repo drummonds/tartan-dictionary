@@ -6,6 +6,8 @@ This is the **MacNab (Macgregor - Hastie)** sett — one scale-free proportion (
 [GRGRRR](/stripes/grgrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNab (Macgregor](/tartans/m/ma/macnab-macgregor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

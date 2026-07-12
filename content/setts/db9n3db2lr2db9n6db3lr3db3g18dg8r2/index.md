@@ -6,6 +6,8 @@ This is the **Patterson, William John Magee (Personal)** sett — one scale-free
 [BBBYBBBYBGGR](/stripes/bbbybbbybggr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Patterson William John Magee](/tartans/p/pa/patterson-william-john-magee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

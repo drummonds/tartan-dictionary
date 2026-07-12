@@ -6,6 +6,8 @@ This is the **Gravesend Grammar School (Corp)** sett — one scale-free proporti
 [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gravesend Grammar School](/tartans/g/gr/gravesend-grammar-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Club World** sett — one scale-free proportion (`b14k7b21k2b2k2b2
 [BKBKBKBKBRWRKRBRKRKR](/stripes/bkbkbkbkbrwrkrbrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Club World](/tartans/club-world/) tartan — the named design grouping this sett with its kin.
+Part of the [Club World](/tartans/c/cl/club-world/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Marshall Field** sett — one scale-free proportion (`g10db1w1db1y
 [GBWBGBGR](/stripes/gbwbgbgr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Marshall Field](/tartans/m/ma/marshall-field/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

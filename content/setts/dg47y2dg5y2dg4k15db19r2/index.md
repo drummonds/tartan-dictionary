@@ -6,6 +6,8 @@ This is the **Unidentified, Toy Bear** sett — one scale-free proportion (`dg47
 [GGGGGKBR](/stripes/gggggkbr/). It is recorded as a single **variant**, below.
 First attested **1940**.
 
+Part of the [Unidentified, Toy Bear](/tartans/u/un/unidentified-toy-bear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Maple Leaf** sett — one scale-free proportion (`dg6r1dg1r4g4r4dg
 [GGRGRGRGRGRG](/stripes/ggrgrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Maple Leaf](/tartans/m/ma/maple-leaf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

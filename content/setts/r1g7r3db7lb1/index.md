@@ -6,6 +6,8 @@ This is the **Hebridean 4** sett — one scale-free proportion (`r1g7r3db7lb1`),
 [RGRBW](/stripes/rgrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hebridean 4](/tartans/h/he/hebridean-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

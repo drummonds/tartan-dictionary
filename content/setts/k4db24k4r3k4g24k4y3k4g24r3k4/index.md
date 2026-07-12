@@ -7,6 +7,8 @@ This is the **Skene N** sett — one scale-free proportion (`k4db24k4r3k4g24k4y3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Skene N](/tartans/s/sk/skene-n/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

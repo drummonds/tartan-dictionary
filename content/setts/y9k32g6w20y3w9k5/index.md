@@ -6,6 +6,8 @@ This is the **Black and White Golf** sett — one scale-free proportion (`y9k32g
 [GKGWGWK](/stripes/gkgwgwk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Black and White Golf](/tartans/b/bl/black-and-white-golf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Leask Family Tartan** sett — one scale-free proportion (`y2g3r2g
 [GGRGGGGGRKRWRG](/stripes/ggrgggggrkrwrg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Leask](/tartans/leask/) tartan — the named design grouping this sett with its kin.
+Part of the [Leask](/tartans/l/le/leask/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

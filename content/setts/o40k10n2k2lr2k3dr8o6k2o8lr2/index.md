@@ -6,6 +6,8 @@ This is the **Islay** sett — one scale-free proportion (`o40k10n2k2lr2k3dr8o6k
 [KBKYKBRKRYRKRBKYKBKR](/stripes/kbkykbrkryrkrbkykbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Islay](/tartans/i/is/islay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

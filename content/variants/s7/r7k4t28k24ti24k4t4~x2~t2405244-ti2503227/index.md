@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacCorquodale"
-  url: "/tartans/maccorquodale/"
+  url: "/tartans/m/ma/maccorquodale/"
 - name: "MacCorquodale"
   url: "/setts/r7k4t28k24ti24k4t4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r7k4t28k24ti24k4t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKR](/stripes/bkbkbkr/).
 
-Part of the [MacCorquodale](/tartans/maccorquodale/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacCorquodale](/tartans/m/ma/maccorquodale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

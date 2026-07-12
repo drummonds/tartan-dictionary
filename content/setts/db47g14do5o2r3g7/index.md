@@ -6,6 +6,8 @@ This is the **Round Table of Britain and Ireland, RtbI.** sett — one scale-fre
 [BGBRRG](/stripes/bgbrrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Round Table of Britain and Ireland, RtbI.](/tartans/r/ro/round-table-of-britain-and-ireland-rtbi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

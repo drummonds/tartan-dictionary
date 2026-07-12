@@ -6,6 +6,8 @@ This is the **Gallamore** sett — one scale-free proportion (`k3db14r2k14g14k3`
 [KBRKGK](/stripes/kbrkgk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Gallamore](/tartans/g/ga/gallamore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Air Force Lossiemouth** sett — one scale-free proportion (
 [BWRWGBKGKG](/stripes/bwrwgbkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal Air Force Lossiemouth](/tartans/r/ro/royal-air-force-lossiemouth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

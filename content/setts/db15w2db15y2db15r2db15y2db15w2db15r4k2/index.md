@@ -6,6 +6,8 @@ This is the **Royal National Lifeboat Inst. (Corp)** sett — one scale-free pro
 [BWBGBRBGBWBRK](/stripes/bwbgbrbgbwbrk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Royal National Lifeboat Institution](/tartans/r/ro/royal-national-lifeboat-institution/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

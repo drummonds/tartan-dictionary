@@ -6,6 +6,8 @@ This is the **Passion of Scotland (Fashion)** sett — one scale-free proportion
 [BBBBKGK](/stripes/bbbbkgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Passion of Scotland](/tartans/p/pa/passion-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

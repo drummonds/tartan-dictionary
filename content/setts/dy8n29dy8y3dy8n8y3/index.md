@@ -6,7 +6,7 @@ This is the **Lister (Misty Mountain)** sett — one scale-free proportion (`dy8
 [GBGGGBG](/stripes/gbgggbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Lister](/tartans/lister/) tartan — the named design grouping this sett with its kin.
+Part of the [Lister](/tartans/l/li/lister/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

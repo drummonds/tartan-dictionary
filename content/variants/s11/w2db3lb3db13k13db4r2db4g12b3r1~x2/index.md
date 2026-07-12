@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzgerald, hunting"
-  url: "/tartans/fitzgerald-hunting-3/"
+  url: "/tartans/f/fi/fitzgerald-hunting-3/"
 - name: "Fitzgerald, hunting"
   url: "/setts/w2db3lb3db13k13db4r2db4g12b3r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2db3lb3db13k13db4r2db4g12b3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRBKBWBW](/stripes/rbgbrbkbwbw/).
 
-Part of the [Fitzgerald, hunting](/tartans/fitzgerald-hunting-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fitzgerald, hunting](/tartans/f/fi/fitzgerald-hunting-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

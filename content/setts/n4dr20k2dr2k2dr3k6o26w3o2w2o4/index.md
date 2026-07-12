@@ -6,6 +6,8 @@ This is the **Eidart 1990 (Fashion)** sett — one scale-free proportion (`n4dr2
 [BBKBKBKRWRWR](/stripes/bbkbkbkrwrwr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Eidart 1990](/tartans/e/ei/eidart-1990/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

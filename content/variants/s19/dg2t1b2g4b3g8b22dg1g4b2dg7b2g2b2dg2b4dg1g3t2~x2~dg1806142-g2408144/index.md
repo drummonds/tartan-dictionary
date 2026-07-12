@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wiregrass"
+  url: "/tartans/w/wi/wiregrass/"
 - name: "Wiregrass (District)"
   url: "/setts/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBGBGBGBGGBGBGBBG](/stripes/bggbgbgbgbggbgbgbbg/).
+
+Part of the [Wiregrass](/tartans/w/wi/wiregrass/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

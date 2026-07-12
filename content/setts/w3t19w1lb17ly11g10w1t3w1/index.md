@@ -6,7 +6,7 @@ This is the **Bird Family (Australia) (Name)** sett — one scale-free proportio
 [WBWGYWWBW](/stripes/wbwgywwbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Bird](/tartans/bird-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Bird](/tartans/b/bi/bird-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

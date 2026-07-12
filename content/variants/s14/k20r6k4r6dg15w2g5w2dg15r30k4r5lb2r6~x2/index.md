@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond"
+  url: "/tartans/d/dr/drummond-3/"
 - name: "Drummond - 1739 Lord John (Artefact)"
   url: "/setts/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/).
+
+Part of the [Drummond](/tartans/d/dr/drummond-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

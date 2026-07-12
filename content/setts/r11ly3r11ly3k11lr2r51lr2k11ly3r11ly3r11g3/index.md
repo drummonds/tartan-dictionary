@@ -6,6 +6,8 @@ This is the **Hackston (Green stripe) or Halkerston** sett — one scale-free pr
 [GRYRYKYRYKYRYR](/stripes/gryrykyrykyryr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Hackston or Halkerston](/tartans/h/ha/hackston-or-halkerston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

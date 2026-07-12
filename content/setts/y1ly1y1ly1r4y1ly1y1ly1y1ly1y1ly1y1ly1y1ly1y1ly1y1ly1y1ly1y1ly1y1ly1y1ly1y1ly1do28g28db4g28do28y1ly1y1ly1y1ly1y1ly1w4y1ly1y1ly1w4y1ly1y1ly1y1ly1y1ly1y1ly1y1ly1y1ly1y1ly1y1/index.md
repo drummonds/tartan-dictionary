@@ -6,6 +6,8 @@ This is the **Hash House Harriers Trail (Corp)** sett — one scale-free proport
 [GYGYGYGYGYGYGYGYGWYGYGWYGYGYGYGBGBGBYGYGYGYGYGYGYGYGYGYGYGYGYGRYGYG](/stripes/gygygygygygygygygwygygwygygygygbgbgbygygygygygygygygygygygygygrygyg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Hash House Harriers Trail](/tartans/h/ha/hash-house-harriers-trail/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

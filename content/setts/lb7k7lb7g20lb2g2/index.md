@@ -6,6 +6,8 @@ This is the **Falconer of Labhdal (Personal)** sett — one scale-free proportio
 [GWGWKW](/stripes/gwgwkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Falconer of Labhdal](/tartans/f/fa/falconer-of-labhdal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

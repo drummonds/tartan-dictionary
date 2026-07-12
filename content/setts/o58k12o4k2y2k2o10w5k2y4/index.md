@@ -6,6 +6,8 @@ This is the **Unnamed C20th - Skirt** sett — one scale-free proportion (`o58k1
 [GKWRKGKRKR](/stripes/gkwrkgkrkr/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Unnamed C20th](/tartans/u/un/unnamed-c20th-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

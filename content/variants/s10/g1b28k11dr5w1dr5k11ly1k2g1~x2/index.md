@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scragg Moran"
-  url: "/tartans/scragg-moran/"
+  url: "/tartans/s/sc/scragg-moran/"
 - name: "Scragg, Moran (Personal)"
   url: "/setts/g1b28k11dr5w1dr5k11ly1k2g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g1b28k11dr5w1dr5k11ly1k2g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBWBKYKG](/stripes/gbkbwbkykg/).
 
-Part of the [Scragg Moran](/tartans/scragg-moran/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scragg Moran](/tartans/s/sc/scragg-moran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

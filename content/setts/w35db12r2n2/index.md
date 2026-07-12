@@ -6,6 +6,8 @@ This is the **Triplett, Jack Arnold** sett — one scale-free proportion (`w35db
 [BRBW](/stripes/brbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Triplett, Jack Arnold](/tartans/t/tr/triplett-jack-arnold-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

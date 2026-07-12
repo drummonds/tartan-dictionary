@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Orange Stripes"
+  url: "/tartans/b/ba/bannockbane-orange-stripes/"
+- name: "Bannockbane Orange Stripes"
   url: "/setts/do2lo2do15lo1w10ly15lo2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do2lo2do15lo1w10ly15lo2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYWYYY](/stripes/bybywyyy/).
+
+Part of the [Bannockbane Orange Stripes](/tartans/b/ba/bannockbane-orange-stripes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

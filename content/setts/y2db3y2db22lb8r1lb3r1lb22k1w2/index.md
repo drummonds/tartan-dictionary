@@ -6,6 +6,8 @@ This is the **Liddell (Newfane, New York)** sett — one scale-free proportion (
 [GBGBWRWRWKW](/stripes/gbgbwrwrwkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Liddell](/tartans/l/li/liddell-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Wicks (Personal)** sett — one scale-free proportion (`dp30n20dg8
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Wicks](/tartans/w/wi/wicks-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

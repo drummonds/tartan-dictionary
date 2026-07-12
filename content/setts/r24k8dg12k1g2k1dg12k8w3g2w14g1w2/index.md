@@ -7,6 +7,8 @@ This is the **Hohenzollern Staff** sett — one scale-free proportion (`r24k8dg1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Hohenzollern Staff](/tartans/h/ho/hohenzollern-staff/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

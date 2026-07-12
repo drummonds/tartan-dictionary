@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bell's Whisky"
+  url: "/tartans/b/be/bell-s-whisky-2/"
 - name: "Bell's Whisky (SA)"
   url: "/setts/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKGKGKBKBY](/stripes/gwgkgkgkbkby/).
+
+Part of the [Bell's Whisky](/tartans/b/be/bell-s-whisky-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

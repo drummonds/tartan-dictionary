@@ -6,6 +6,8 @@ This is the **MacKenzie MINI Clan Miniature Tartan** sett — one scale-free pro
 [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1778**.
 
+Part of the [MacKenzie MINI Clan Miniature](/tartans/m/ma/mackenzie-mini-clan-miniature/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

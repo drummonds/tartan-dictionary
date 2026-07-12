@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "South Australia"
+  url: "/tartans/s/so/south-australia/"
 - name: "South Australia (Disputed)"
   url: "/setts/r6t24r2db12r8db12y3g8y3g8db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6t24r2db12r8db12y3g8y3g8db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGBRBRBR](/stripes/bggggbrbrbr/).
+
+Part of the [South Australia](/tartans/s/so/south-australia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Westwood MacAndreas"
+  url: "/tartans/w/we/westwood-macandreas/"
+- name: "Westwood MacAndreas"
   url: "/setts/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKRWKWKYKYKRBRBR](/stripes/bwrkrwkwkykykrbrbr/).
+
+Part of the [Westwood MacAndreas](/tartans/w/we/westwood-macandreas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

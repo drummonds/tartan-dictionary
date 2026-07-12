@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bonnie Royal"
+  url: "/tartans/b/bo/bonnie-royal/"
+- name: "Bonnie Royal"
   url: "/setts/w5db32g12db2w30k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5db32g12db2w30k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBGBW](/stripes/kwbgbw/).
+
+Part of the [Bonnie Royal](/tartans/b/bo/bonnie-royal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

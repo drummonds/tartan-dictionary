@@ -6,6 +6,8 @@ This is the **Thom, Calum (Personal)** sett — one scale-free proportion (`ly3d
 [RBBBBBBBYBBBYBYBY](/stripes/rbbbbbbbybbbybyby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Thom, Calum](/tartans/t/th/thom-calum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Argentine Flag"
+  url: "/tartans/a/ar/argentine-flag/"
+- name: "Argentine Flag"
   url: "/setts/lb26w2y1w3y2w3y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb26w2y1w3y2w3y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWW](/stripes/gwgwgww/).
+
+Part of the [Argentine Flag](/tartans/a/ar/argentine-flag/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

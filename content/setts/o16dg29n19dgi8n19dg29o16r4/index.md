@@ -6,6 +6,8 @@ This is the **Styrian** sett — one scale-free proportion (`o16dg29n19dgi8n19dg
 [RGBGBGRR](/stripes/rgbgbgrr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Styrian](/tartans/s/st/styrian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

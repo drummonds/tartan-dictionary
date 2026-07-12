@@ -6,6 +6,8 @@ This is the **Wilson's No.212** sett — one scale-free proportion (`r2g9r2lb2`)
 [RGRW](/stripes/rgrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.212](/tartans/w/wi/wilson-s-no-212/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

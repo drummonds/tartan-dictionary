@@ -6,6 +6,8 @@ This is the **Russell (Clan)** sett — one scale-free proportion (`k3g10k10r3db
 [KGKRBW](/stripes/kgkrbw/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Russell](/tartans/r/ru/russell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

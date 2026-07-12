@@ -6,7 +6,7 @@ This is the **Dalzell** sett — one scale-free proportion (`r24w1db2r4g32r4db2w
 [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dalzell](/tartans/dalzell/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalzell](/tartans/d/da/dalzell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

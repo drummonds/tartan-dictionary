@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Borthwick D"
+  url: "/tartans/b/bo/borthwick-d/"
+- name: "Borthwick D"
   url: "/setts/g12k1r10k2y10k14y10k2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g12k1r10k2y10k14y10k2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKGKR](/stripes/gkrkgkgkr/).
+
+Part of the [Borthwick D](/tartans/b/bo/borthwick-d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

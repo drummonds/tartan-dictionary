@@ -6,7 +6,7 @@ This is the **Balmoral** sett — one scale-free proportion (`b9r5b47dg13k11b5dg
 [BRBGKBGBGBKBR](/stripes/brbgkbgbgbkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Balmoral](/tartans/balmoral/) tartan — the named design grouping this sett with its kin.
+Part of the [Balmoral](/tartans/b/ba/balmoral/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

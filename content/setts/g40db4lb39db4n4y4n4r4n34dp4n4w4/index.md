@@ -6,6 +6,8 @@ This is the **Glasgow Tattoo** sett — one scale-free proportion (`g40db4lb39db
 [GBWBBGBRBBBW](/stripes/gbwbbgbrbbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Glasgow Tattoo](/tartans/g/gl/glasgow-tattoo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

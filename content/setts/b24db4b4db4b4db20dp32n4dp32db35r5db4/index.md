@@ -6,6 +6,8 @@ This is the **Caledonian Club** sett — one scale-free proportion (`b24db4b4db4
 [BBBBBBBBBBRB](/stripes/bbbbbbbbbbrb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Caledonian Club](/tartans/c/ca/caledonian-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

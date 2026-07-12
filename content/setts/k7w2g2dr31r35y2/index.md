@@ -6,6 +6,8 @@ This is the **Mason, David Elsworth (Personal)** sett — one scale-free proport
 [GRBGWK](/stripes/grbgwk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Mason, David Elsworth](/tartans/m/ma/mason-david-elsworth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

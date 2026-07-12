@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Auld Reekie"
-  url: "/tartans/auld-reekie/"
+  url: "/tartans/a/au/auld-reekie/"
 - name: "Auld Reekie"
   url: "/setts/db4r3db3r22dg8r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4r3db3r22dg8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGR](/stripes/brbrgr/).
 
-Part of the [Auld Reekie](/tartans/auld-reekie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Auld Reekie](/tartans/a/au/auld-reekie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Samye Sangha #2** sett — one scale-free proportion (`dr32r3dr3r2
 [BRBRBR](/stripes/brbrbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Samye Sangha](/tartans/s/sa/samye-sangha/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

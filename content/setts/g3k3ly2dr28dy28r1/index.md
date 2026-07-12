@@ -6,6 +6,8 @@ This is the **Passchendaele (Commemorative)** sett — one scale-free proportion
 [GKYBGR](/stripes/gkybgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Passchendaele](/tartans/p/pa/passchendaele/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

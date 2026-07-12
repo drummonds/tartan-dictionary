@@ -1,0 +1,37 @@
+---
+title: "Knights Templar Hunting"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KWKRWRKW](/stripes/kwkrwrkw/) — the page of every tartan sharing this colour sequence.
+
+The **Knights Templar Hunting** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k22w1k12r43w1/">Knights Templar Hunting</a></td><td><code>K/44 W2 K24 R86 W2 R86 K24 W/2</code></td><td>270</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k22w1k12r43w1/"><img src="/variants/s5/k22w1k12r43w1~x2/sett.png" alt="Knights Templar Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Knights Templar Htg
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">270</div><div class="nn-name nn-base"><a href="/variants/s5/k22w1k12r43w1~x2/">Knights Templar Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k22w1k12r43w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r28k4w2k13~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.00</a></div><div class="nn-threads">106</div><div class="nn-name"><a href="/variants/s4/r28k4w2k13~x2/">Dunbar Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r28k4w2k13~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r48k12n7k5w3~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.27</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s5/r48k12n7k5w3~x2/">Turner (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r48k12n7k5w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r20k2r2k15w1~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.51</a></div><div class="nn-threads">118</div><div class="nn-name"><a href="/variants/s5/r20k2r2k15w1~x2/">Masai Shuka 15 (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r20k2r2k15w1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r36k18r4k7w2~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s5/r36k18r4k7w2~x2/">Hopkins (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r36k18r4k7w2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r42k2w2k18w2k5~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.67</a></div><div class="nn-threads">190</div><div class="nn-name"><a href="/variants/s6/r42k2w2k18w2k5~x2/">Forget Family (Red)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r42k2w2k18w2k5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r41k19r7k9w3~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.72</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s5/r41k19r7k9w3~x2/">MacGregor, Black (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r41k19r7k9w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k16r2k2r12w1~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.78</a></div><div class="nn-threads">98</div><div class="nn-name"><a href="/variants/s5/k16r2k2r12w1~x2/">MacIver</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k16r2k2r12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1k28r30dp1r3~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">254</div><div class="nn-name"><a href="/variants/s6/k4w1k28r30dp1r3~x2/">Ramsay (Red)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1k28r30dp1r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w2k28r30b1r3~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.91</a></div><div class="nn-threads">258</div><div class="nn-name"><a href="/variants/s6/k4w2k28r30b1r3~x2/">Ramsay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w2k28r30b1r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w2k28r30db1r3~x2&amp;base=k22w1k12r43w1~x2" title="compare in the TTD">1.91</a></div><div class="nn-threads">258</div><div class="nn-name"><a href="/variants/s6/k4w2k28r30db1r3~x2/">Ramsay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="156.0" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.5" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="324.5" cy="154.8" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s6/r42k2w2k18w2k5~x2/"><circle cx="343.7" cy="128.2" r="4" fill="#3465a4"><title>Forget Family (Red)</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.8" cy="176.7" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.9" cy="168.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="304.6" cy="112.9" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/variants/s6/k4w2k28r30b1r3~x2/"><circle cx="293.8" cy="114.6" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w2k28r30db1r3~x2/"><circle cx="294.1" cy="114.7" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><circle cx="348.4" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

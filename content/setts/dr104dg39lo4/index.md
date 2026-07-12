@@ -6,7 +6,7 @@ This is the **Scottish Watch** sett — one scale-free proportion (`dr104dg39lo4
 [BGYG](/stripes/bgyg/). It is recorded as a single **variant**, below.
 First attested **1932**.
 
-Part of the [Scottish Watch](/tartans/scottish-watch/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Watch](/tartans/s/sc/scottish-watch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

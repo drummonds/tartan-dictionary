@@ -6,7 +6,7 @@ This is the **Laidlaw's Highland Drovers (Corp)** sett — one scale-free propor
 [BKBWBRG](/stripes/bkbwbrg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
-Part of the [Laidlaw's Highland Drovers](/tartans/laidlaw-s-highland-drovers/) tartan — the named design grouping this sett with its kin.
+Part of the [Laidlaw's Highland Drovers](/tartans/l/la/laidlaw-s-highland-drovers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

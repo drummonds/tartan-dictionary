@@ -6,6 +6,8 @@ This is the **Cockburn #2** sett — one scale-free proportion (`r3k2g9db12w3db1
 [RKGBWBGKGKGKGKGBWBKGKGKRKGW](/stripes/rkgbwbgkgkgkgkgbwbkgkgkrkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cockburn](/tartans/c/co/cockburn-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

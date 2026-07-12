@@ -6,6 +6,8 @@ This is the **Fothergill, Baron of Kinross (Personal)** sett — one scale-free 
 [WBGGBRBWWWW](/stripes/wbggbrbwwww/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Fothergill, Baron of Kinross (P](/tartans/f/fo/fothergill-baron-of-kinross-p/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fife (McGill)** sett — one scale-free proportion (`db31lb4db6k19
 [BWBKRG](/stripes/bwbkrg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Fife](/tartans/f/fi/fife-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

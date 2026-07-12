@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Deloughery, Paul"
+  url: "/tartans/d/de/deloughery-paul/"
+- name: "Deloughery, Paul"
   url: "/setts/db20k6dy4db3k16g20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20k6dy4db3k16g20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBKGW](/stripes/bkgbkgw/).
+
+Part of the [Deloughery, Paul](/tartans/d/de/deloughery-paul/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

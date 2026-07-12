@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Islay"
+  url: "/tartans/i/is/islay/"
+- name: "Islay"
   url: "/setts/o40k10n2k2lr2k3dr8o6k2o8lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o40k10n2k2lr2k3dr8o6k2o8lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKYKBRKRYRKRBKYKBKR](/stripes/kbkykbrkryrkrbkykbkr/).
+
+Part of the [Islay](/tartans/i/is/islay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

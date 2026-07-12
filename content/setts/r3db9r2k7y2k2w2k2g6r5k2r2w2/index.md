@@ -7,6 +7,8 @@ This is the **Prince Albert #3** sett — one scale-free proportion (`r3db9r2k7y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Prince Albert](/tartans/p/pr/prince-albert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

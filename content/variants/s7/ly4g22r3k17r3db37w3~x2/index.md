@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Souza Nery"
-  url: "/tartans/souza-nery-2/"
+  url: "/tartans/s/so/souza-nery-2/"
 - name: "Souza Nery (Personal)"
   url: "/setts/ly4g22r3k17r3db37w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly4g22r3k17r3db37w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKRGY](/stripes/wbrkrgy/).
 
-Part of the [Souza Nery](/tartans/souza-nery-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Souza Nery](/tartans/s/so/souza-nery-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

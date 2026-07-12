@@ -6,6 +6,8 @@ This is the **McCandlish Dress, Grey (Name)** sett — one scale-free proportion
 [WKBKBKBKYKY](/stripes/wkbkbkbkyky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [McCandlish Dress](/tartans/m/mc/mccandlish-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

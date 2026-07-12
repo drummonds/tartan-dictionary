@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of the Nation"
+  url: "/tartans/p/pr/pride-of-the-nation/"
 - name: "Pride of the Nation (Fashion)"
   url: "/setts/lb12dbi6lb50db39b12dp6b6w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb12dbi6lb50db39b12dp6b6w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBWBW](/stripes/wbbbbwbw/).
+
+Part of the [Pride of the Nation](/tartans/p/pr/pride-of-the-nation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

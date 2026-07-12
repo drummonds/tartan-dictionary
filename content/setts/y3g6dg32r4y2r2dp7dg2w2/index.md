@@ -6,6 +6,8 @@ This is the **Pienaar (Personal)** sett — one scale-free proportion (`y3g6dg32
 [GGGRGRBGW](/stripes/gggrgrbgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Pienaar](/tartans/p/pi/pienaar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

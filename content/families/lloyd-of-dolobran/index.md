@@ -18,5 +18,5 @@ A family of [Clan LLoyd](/clan/lloyd/).
 </tbody>
 </table>
 
-[See the Lloyd of Dolobran tartan and all its setts →](/tartans/lloyd-of-dolobran/)
+[See the Lloyd of Dolobran tartan and all its setts →](/tartans/l/ll/lloyd-of-dolobran/)
 

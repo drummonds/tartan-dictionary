@@ -6,6 +6,8 @@ This is the **East Kilbride District Tartan** sett — one scale-free proportion
 [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [East Kilbride](/tartans/e/ea/east-kilbride/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

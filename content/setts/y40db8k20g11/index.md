@@ -6,6 +6,8 @@ This is the **Brun, Pierre Emmanuel (Personal)** sett — one scale-free proport
 [GBKG](/stripes/gbkg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Brun, Pierre Emmanuel](/tartans/b/br/brun-pierre-emmanuel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

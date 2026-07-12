@@ -6,7 +6,7 @@ This is the **Childers (Personal)** sett — one scale-free proportion (`k44g8k4
 [KGKGKW](/stripes/kgkgkw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Childers](/tartans/childers-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Childers](/tartans/c/ch/childers-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

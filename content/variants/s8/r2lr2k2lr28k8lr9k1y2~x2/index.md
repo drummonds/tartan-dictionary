@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Summer Spirit"
+  url: "/tartans/s/su/summer-spirit/"
+- name: "Summer Spirit"
   url: "/setts/r2lr2k2lr28k8lr9k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lr2k2lr28k8lr9k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKYKYRYKYKYK](/stripes/gkykykyrykykyk/).
+
+Part of the [Summer Spirit](/tartans/s/su/summer-spirit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

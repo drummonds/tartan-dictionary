@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacInroy"
+  url: "/tartans/m/ma/macinroy-4/"
 - name: "MacInroy (Rattray)"
   url: "/setts/k3dg17k9r2db17r2db2r17dg2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dg17k9r2db17r2db2r17dg2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRBRBRGW](/stripes/kgkrbrbrgw/).
+
+Part of the [MacInroy](/tartans/m/ma/macinroy-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

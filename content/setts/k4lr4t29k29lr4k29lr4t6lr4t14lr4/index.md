@@ -6,6 +6,8 @@ This is the **Clergy (Corporate)** sett — one scale-free proportion (`k4lr4t29
 [KYBKYKYBYBY](/stripes/kybkykybyby/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

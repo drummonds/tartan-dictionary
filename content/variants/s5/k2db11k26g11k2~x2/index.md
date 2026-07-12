@@ -10,7 +10,7 @@ crumbs:
 - name: "Campbell of Loch Awe"
   url: "/families/campbell-of-loch-awe/"
 - name: "Campbell of Loch Awe"
-  url: "/tartans/campbell-of-loch-awe/"
+  url: "/tartans/c/ca/campbell-of-loch-awe/"
 - name: "Campbell of Loch Awe"
   url: "/setts/k2db11k26g11k2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2db11k26g11k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGK](/stripes/kbkgk/).
 
-Part of the [Campbell of Loch Awe](/tartans/campbell-of-loch-awe/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell of Loch Awe](/tartans/c/ca/campbell-of-loch-awe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

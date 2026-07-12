@@ -6,6 +6,8 @@ This is the **North Sea Oil** sett — one scale-free proportion (`k12n3db38k4do
 [BKBKBKBKBKBGBKBBK](/stripes/bkbkbkbkbkbgbkbbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [North Sea Oil](/tartans/n/no/north-sea-oil-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ogilvie #3** sett — one scale-free proportion (`r6k6r6k6y7db7y7k
 [GBGKRKRWKWRWKWRKRKGBWBGKRWRWRKGBGKRKR](/stripes/gbgkrkrwkwrwkwrkrkgbwbgkrwrwrkgbgkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ogilvie 5](/tartans/o/og/ogilvie-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

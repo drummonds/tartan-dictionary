@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barbour -Modern"
+  url: "/tartans/b/ba/barbour-modern/"
+- name: "Barbour -Modern"
   url: "/setts/lb4ly2lb21k11w2n21r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4ly2lb21k11w2n21r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWKWYW](/stripes/rbwkwyw/).
+
+Part of the [Barbour -Modern](/tartans/b/ba/barbour-modern/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

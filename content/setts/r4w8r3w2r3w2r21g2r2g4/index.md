@@ -6,6 +6,8 @@ This is the **Queen Alexandra Tartan** sett — one scale-free proportion (`r4w8
 [GRGRWRWRWR](/stripes/grgrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Queen Alexandra](/tartans/q/qu/queen-alexandra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

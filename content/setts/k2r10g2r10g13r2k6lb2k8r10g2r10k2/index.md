@@ -7,7 +7,7 @@ This is the **MacNicol D** sett — one scale-free proportion (`k2r10g2r10g13r2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacNicol D](/tartans/macnicol-d/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNicol D](/tartans/m/ma/macnicol-d/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

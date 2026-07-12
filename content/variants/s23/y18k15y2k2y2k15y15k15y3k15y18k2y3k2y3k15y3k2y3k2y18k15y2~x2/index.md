@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Garwhal Rifles"
+  url: "/tartans/g/ga/garwhal-rifles/"
 - name: "Garwhal Rifles (Military)"
   url: "/setts/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkgkgkgkgkgkg/).
+
+Part of the [Garwhal Rifles](/tartans/g/ga/garwhal-rifles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

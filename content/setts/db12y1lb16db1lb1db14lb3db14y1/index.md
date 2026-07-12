@@ -7,6 +7,8 @@ This is the **Orlando Police Department** sett — one scale-free proportion (`d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Orlando Police Department (Corporate](/tartans/o/or/orlando-police-department-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

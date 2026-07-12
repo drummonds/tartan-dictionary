@@ -6,6 +6,8 @@ This is the **Wee Course, Blairgowrie Golf Club, The** sett — one scale-free p
 [WBGBBGBBGBW](/stripes/wbgbbgbbgbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Wee Course, Blairgowrie Golf Club, The](/tartans/w/we/wee-course-blairgowrie-golf-club-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

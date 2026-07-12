@@ -6,7 +6,7 @@ This is the **Kilgour (Cant)** sett — one scale-free proportion (`db6y1db6k3r1
 [BGBKRKGK](/stripes/bgbkrkgk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Kilgour](/tartans/kilgour/) tartan — the named design grouping this sett with its kin.
+Part of the [Kilgour](/tartans/k/ki/kilgour/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Crinnion (Middlesbrough) (Personal)** sett — one scale-free prop
 [BKBBG](/stripes/bkbbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Crinnion](/tartans/c/cr/crinnion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

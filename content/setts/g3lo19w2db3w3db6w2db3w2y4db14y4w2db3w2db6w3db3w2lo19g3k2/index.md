@@ -6,6 +6,8 @@ This is the **Unidentified Lindley #3** sett — one scale-free proportion (`g3l
 [GYWBWBWBWGBGWBWBWBWYGK](/stripes/gywbwbwbwgbgwbwbwbwygk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

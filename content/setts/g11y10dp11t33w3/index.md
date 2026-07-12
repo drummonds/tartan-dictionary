@@ -6,6 +6,8 @@ This is the **Sterling, Rob (Florida) (Personal)** sett — one scale-free propo
 [GGBBW](/stripes/ggbbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sterling, Rob](/tartans/s/st/sterling-rob/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

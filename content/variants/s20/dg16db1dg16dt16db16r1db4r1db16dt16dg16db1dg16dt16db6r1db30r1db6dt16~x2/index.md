@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Woolmark Plaid, The"
+  url: "/tartans/w/wo/woolmark-plaid-the/"
+- name: "Woolmark Plaid, The"
   url: "/setts/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBBGBGBBRBRBBGBG](/stripes/bbrbrbbgbgbbrbrbbgbg/).
+
+Part of the [Woolmark Plaid, The](/tartans/w/wo/woolmark-plaid-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

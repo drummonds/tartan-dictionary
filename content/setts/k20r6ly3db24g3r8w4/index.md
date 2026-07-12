@@ -6,6 +6,8 @@ This is the **Eichelberger (Perrsonal)** sett — one scale-free proportion (`k2
 [KRYBGRW](/stripes/krybgrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Eichelberger](/tartans/e/ei/eichelberger/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

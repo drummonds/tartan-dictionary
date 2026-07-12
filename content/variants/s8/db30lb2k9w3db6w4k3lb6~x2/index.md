@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Detroit Lions"
+  url: "/tartans/d/de/detroit-lions/"
+- name: "Detroit Lions"
   url: "/setts/db30lb2k9w3db6w4k3lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30lb2k9w3db6w4k3lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBWKW](/stripes/bwkwbwkw/).
+
+Part of the [Detroit Lions](/tartans/d/de/detroit-lions/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

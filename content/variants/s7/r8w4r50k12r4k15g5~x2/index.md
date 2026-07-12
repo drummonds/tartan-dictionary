@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Instakilt"
+  url: "/tartans/i/in/instakilt/"
 - name: "Instakilt, Red (Fashion)"
   url: "/setts/r8w4r50k12r4k15g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8w4r50k12r4k15g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRWR](/stripes/gkrkrwr/).
+
+Part of the [Instakilt](/tartans/i/in/instakilt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

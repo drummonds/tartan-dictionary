@@ -6,6 +6,8 @@ This is the **Holmston Primary (School)** sett — one scale-free proportion (`g
 [GWGRGGGWGW](/stripes/gwgrgggwgw/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
+Part of the [Holmston Primary](/tartans/h/ho/holmston-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

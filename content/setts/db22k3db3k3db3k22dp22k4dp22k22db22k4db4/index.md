@@ -6,6 +6,8 @@ This is the **Glasgow Academy Corporate Tartan** sett — one scale-free proport
 [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Glasgow Academy](/tartans/g/gl/glasgow-academy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

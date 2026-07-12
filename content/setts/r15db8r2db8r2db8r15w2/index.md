@@ -6,6 +6,8 @@ This is the **Hamilton** sett — one scale-free proportion (`r15db8r2db8r2db8r1
 [RBRBRBRW](/stripes/rbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Hamilton](/tartans/h/ha/hamilton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

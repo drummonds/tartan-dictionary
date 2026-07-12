@@ -6,6 +6,8 @@ This is the **Inverness - 2000 (Fashion)** sett — one scale-free proportion (`
 [BKWKWBWB](/stripes/bkwkwbwb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Inverness](/tartans/i/in/inverness-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

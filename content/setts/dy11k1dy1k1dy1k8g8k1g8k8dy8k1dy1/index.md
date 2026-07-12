@@ -6,7 +6,7 @@ This is the **Brown Watch Trade Tartan** sett — one scale-free proportion (`dy
 [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
-Part of the [Brown Watch](/tartans/brown-watch/) tartan — the named design grouping this sett with its kin.
+Part of the [Brown Watch](/tartans/b/br/brown-watch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

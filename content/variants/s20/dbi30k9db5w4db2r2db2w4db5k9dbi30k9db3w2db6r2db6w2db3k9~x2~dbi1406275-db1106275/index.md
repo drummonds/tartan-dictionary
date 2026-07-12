@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rangers F. C. Dress"
+  url: "/tartans/r/ra/rangers-f-c-dress/"
 - name: "Rangers F. C. Dress Corporate Tartan"
   url: "/setts/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBRBWBKBKBWBRBWBK](/stripes/bkbwbrbwbkbkbwbrbwbk/).
+
+Part of the [Rangers F. C. Dress](/tartans/r/ra/rangers-f-c-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Golden Pheasant"
+  url: "/tartans/g/go/golden-pheasant/"
+- name: "Golden Pheasant"
   url: "/setts/r12w4r3ly18r3lyi4g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12w4r3ly18r3lyi4g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRYRWR](/stripes/gyryrwr/).
+
+Part of the [Golden Pheasant](/tartans/g/go/golden-pheasant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

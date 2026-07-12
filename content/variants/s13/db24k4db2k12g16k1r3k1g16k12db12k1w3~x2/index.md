@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Craigclowan School"
+  url: "/tartans/c/cr/craigclowan-school/"
+- name: "Craigclowan School"
   url: "/setts/db24k4db2k12g16k1r3k1g16k12db12k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24k4db2k12g16k1r3k1g16k12db12k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKRKGKBKW](/stripes/bkbkgkrkgkbkw/).
+
+Part of the [Craigclowan School](/tartans/c/cr/craigclowan-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

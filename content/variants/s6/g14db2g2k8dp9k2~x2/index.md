@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacArthur"
+  url: "/clan/macarthur/"
+- name: "MacArthur of Milton"
+  url: "/families/macarthur-of-milton/"
+- name: "MacArthur of Milton Hunting"
+  url: "/tartans/m/ma/macarthur-of-milton-hunting/"
 - name: "MacArthur of Milton Hunting Clan Tartan"
   url: "/setts/g14db2g2k8dp9k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g14db2g2k8dp9k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKBK](/stripes/gbgkbk/).
+
+Part of the [MacArthur of Milton Hunting](/tartans/m/ma/macarthur-of-milton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbour"
+  url: "/tartans/b/ba/barbour-4/"
 - name: "Barbour - Cardinal Red"
   url: "/setts/r3ly2r18db8w1o18r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3ly2r18db8w1o18r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRWBRYR](/stripes/rrwbryr/).
+
+Part of the [Barbour](/tartans/b/ba/barbour-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

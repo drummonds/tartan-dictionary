@@ -13,10 +13,12 @@ A family of [Clan Shaw](/clan/shaw/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lb5k1g30db15r8g30r8db2/">Shaw of Tordarroch</a> ★</td><td><code>LB/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2</code></td><td>382</td><td>1971</td></tr>
+<tr><td><a href="/setts/lb5k1g30db15r8g30r8db2/">Shaw of Tordarroch</a></td><td><code>LB/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2</code></td><td>382</td><td>1971</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/lb5k1g30db15r8g30r8db2/"><img src="/variants/s8/lb5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Shaw of Tordarroch tartan and all its setts →](/tartans/s/sh/shaw-of-tordarroch/)
 
 ### Shaw of Tordarroch, hunting
 
@@ -30,5 +32,5 @@ A family of [Clan Shaw](/clan/shaw/).
 </tbody>
 </table>
 
-[See the Shaw of Tordarroch, hunting tartan and all its setts →](/tartans/shaw-of-tordarroch-hunting/)
+[See the Shaw of Tordarroch, hunting tartan and all its setts →](/tartans/s/sh/shaw-of-tordarroch-hunting/)
 

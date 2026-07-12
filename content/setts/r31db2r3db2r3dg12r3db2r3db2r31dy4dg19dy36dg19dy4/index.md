@@ -6,6 +6,8 @@ This is the **O'Brian #1 (Fashion)** sett — one scale-free proportion (`r31db2
 [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [O'Brian](/tartans/o/o/o-brian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

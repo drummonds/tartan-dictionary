@@ -6,7 +6,7 @@ This is the **Robieson Playfield (School)** sett — one scale-free proportion (
 [GKRBRGKBGGGKW](/stripes/gkrbrgkbgggkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Robieson Playfield](/tartans/robieson-playfield/) tartan — the named design grouping this sett with its kin.
+Part of the [Robieson Playfield](/tartans/r/ro/robieson-playfield/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

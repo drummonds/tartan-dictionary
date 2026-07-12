@@ -6,6 +6,8 @@ This is the **MacLamroc** sett — one scale-free proportion (`y4k1r16k16w3r1k16
 [GKGKRWKRKG](/stripes/gkgkrwkrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacLamroc](/tartans/m/ma/maclamroc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

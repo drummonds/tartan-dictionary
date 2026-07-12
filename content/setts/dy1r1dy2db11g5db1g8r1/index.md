@@ -7,6 +7,8 @@ This is the **New Mexico, State of** sett — one scale-free proportion (`dy1r1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
+Part of the [New Mexico, State of](/tartans/n/ne/new-mexico-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

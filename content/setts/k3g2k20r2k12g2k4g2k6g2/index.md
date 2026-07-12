@@ -6,6 +6,8 @@ This is the **Renwick** sett — one scale-free proportion (`k3g2k20r2k12g2k4g2k
 [GKGKGKRKGK](/stripes/gkgkgkrkgk/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Renwick](/tartans/r/re/renwick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Giants Causeway, The** sett — one scale-free proportion (`n38y8d
 [BGBBGKGKGWBGK](/stripes/bgbbgkgkgwbgk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Giants Causeway, The](/tartans/g/gi/giants-causeway-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

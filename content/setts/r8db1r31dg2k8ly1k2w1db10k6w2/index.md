@@ -6,6 +6,8 @@ This is the **Field Marshall Montgomery PB (Corp)** sett — one scale-free prop
 [RBRGKYKWBKW](/stripes/rbrgkykwbkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Field Marshall Montgomery PB](/tartans/f/fi/field-marshall-montgomery-pb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

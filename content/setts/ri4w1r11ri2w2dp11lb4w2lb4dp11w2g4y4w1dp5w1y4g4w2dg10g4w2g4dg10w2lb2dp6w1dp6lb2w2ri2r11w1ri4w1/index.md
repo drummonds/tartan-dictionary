@@ -6,6 +6,8 @@ This is the **Waggrall Family Tartan** sett — one scale-free proportion (`ri4w
 [RWRRWBWWWBWGGWBWGGWGGWGGWWBWBWWRRWRW](/stripes/rwrrwbwwwbwggwbwggwggwggwwbwbwwrrwrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Waggrall](/tartans/w/wa/waggrall-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

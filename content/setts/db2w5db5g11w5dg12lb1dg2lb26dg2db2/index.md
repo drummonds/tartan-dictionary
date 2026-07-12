@@ -6,6 +6,8 @@ This is the **Chalk (Personal)** sett — one scale-free proportion (`db2w5db5g1
 [BGWGWGWGBWB](/stripes/bgwgwgwgbwb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Chalk](/tartans/c/ch/chalk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

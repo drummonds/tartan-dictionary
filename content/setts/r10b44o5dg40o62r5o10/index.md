@@ -6,6 +6,8 @@ This is the **Ballintrae** sett — one scale-free proportion (`r10b44o5dg40o62r
 [RBRGRRR](/stripes/rbrgrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ballintrae](/tartans/b/ba/ballintrae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

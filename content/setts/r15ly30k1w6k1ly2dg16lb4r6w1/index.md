@@ -6,6 +6,8 @@ This is the **Westwood (Fashion?)** sett — one scale-free proportion (`r15ly30
 [RYKWKYGWRW](/stripes/rykwkygwrw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Westwood](/tartans/w/we/westwood-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

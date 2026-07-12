@@ -6,6 +6,8 @@ This is the **MacRae Grey (Fashion)** sett — one scale-free proportion (`dr2o9
 [BRWWBWWWBWB](/stripes/brwwbwwwbwb/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

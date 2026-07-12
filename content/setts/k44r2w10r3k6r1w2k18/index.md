@@ -6,6 +6,8 @@ This is the **Mull Rugby Club** sett — one scale-free proportion (`k44r2w10r3k
 [KRWRKRWK](/stripes/krwrkrwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Mull Rugby Club](/tartans/m/mu/mull-rugby-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

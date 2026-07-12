@@ -6,6 +6,8 @@ This is the **Alabama (Fashion)** sett — one scale-free proportion (`r3lb8k9g1
 [RWKGRBY](/stripes/rwkgrby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Alabama](/tartans/a/al/alabama-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

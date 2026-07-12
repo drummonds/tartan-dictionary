@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Smith"
   url: "/clan/smith/"
 - name: "Smith"
-  url: "/tartans/smith-4/"
+  url: "/tartans/s/sm/smith-4/"
 - name: "Smith Family Tartan"
   url: "/setts/r3k1g12k12db12lb3db12k12g12k1y3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3k1g12k12db12lb3db12k12g12k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBWBKGKR](/stripes/gkgkbwbkgkr/).
 
-Part of the [Smith](/tartans/smith-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smith](/tartans/s/sm/smith-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

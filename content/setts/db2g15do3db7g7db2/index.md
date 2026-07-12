@@ -6,6 +6,8 @@ This is the **Green Highland, The (Fashion)** sett — one scale-free proportion
 [BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
 First attested **~1972**.
 
+Part of the [Green Highland, The](/tartans/g/gr/green-highland-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Debbie Munro Memorial"
+  url: "/tartans/d/de/debbie-munro-memorial/"
 - name: "Debbie Munro Memorial (Corporate)"
   url: "/setts/t26lp11t3lp4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t26lp11t3lp4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWK](/stripes/bwbwk/).
+
+Part of the [Debbie Munro Memorial](/tartans/d/de/debbie-munro-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

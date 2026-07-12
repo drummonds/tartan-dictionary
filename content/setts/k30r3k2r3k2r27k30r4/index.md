@@ -6,6 +6,8 @@ This is the **Murray of Ochtertyre #2** sett — one scale-free proportion (`k30
 [KRKRKRKR](/stripes/krkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Murray of Ochtertyre](/tartans/m/mu/murray-of-ochtertyre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

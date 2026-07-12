@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "D'Andeville, Xavier"
+  url: "/tartans/d/d/d-andeville-xavier/"
 - name: "d'Andeville, Xavier (Personal)"
   url: "/setts/r13w9r13w16r10w2k1w2k1w2k1w2k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r13w9r13w16r10w2k1w2k1w2k1w2k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWKWKWKWKW](/stripes/rwrwrwkwkwkwkw/).
+
+Part of the [D'Andeville, Xavier](/tartans/d/d/d-andeville-xavier/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,7 +6,7 @@ This is the **MacMillan Dress** sett — one scale-free proportion (`dr3y2dr12y2
 [BGBGBGBGB](/stripes/bgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [MacMillan Dress](/tartans/macmillan-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan Dress](/tartans/m/ma/macmillan-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

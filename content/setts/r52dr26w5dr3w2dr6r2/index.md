@@ -6,6 +6,8 @@ This is the **St. Andrews School (Delaware) (Corp)** sett — one scale-free pro
 [RBWBWBR](/stripes/rbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [St. Andrews School](/tartans/s/st/st-andrews-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

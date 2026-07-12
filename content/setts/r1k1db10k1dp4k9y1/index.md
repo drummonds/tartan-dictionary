@@ -6,6 +6,8 @@ This is the **Graeme High School Homecoming 2009** sett — one scale-free propo
 [GKBKBKR](/stripes/gkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Graeme High School Homecoming 2009](/tartans/g/gr/graeme-high-school-homecoming-2009/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

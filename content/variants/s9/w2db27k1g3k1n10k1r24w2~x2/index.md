@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's Charity Air Ambulance"
+  url: "/tartans/s/sc/scotland-s-charity-air-ambulance/"
+- name: "Scotland's Charity Air Ambulance"
   url: "/setts/w2db27k1g3k1n10k1r24w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db27k1g3k1n10k1r24w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKBKRW](/stripes/wbkgkbkrw/).
+
+Part of the [Scotland's Charity Air Ambulance](/tartans/s/sc/scotland-s-charity-air-ambulance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

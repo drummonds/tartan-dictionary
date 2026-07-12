@@ -6,6 +6,8 @@ This is the **Craig Devlin (Dundee) (Personal)** sett — one scale-free proport
 [BBBBWG](/stripes/bbbbwg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Craig Devlin](/tartans/c/cr/craig-devlin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

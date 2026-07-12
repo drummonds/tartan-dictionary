@@ -6,6 +6,8 @@ This is the **British Columbia #2** sett — one scale-free proportion (`g4dr14g
 [BGWBYGBG](/stripes/bgwbygbg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [British Columbia](/tartans/b/br/british-columbia-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

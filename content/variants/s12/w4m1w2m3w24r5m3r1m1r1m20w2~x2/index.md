@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies Dress, Cerise"
+  url: "/tartans/m/me/menzies-dress-cerise/"
 - name: "Menzies Dress, Cerise (Dance)"
   url: "/setts/w4m1w2m3w24r5m3r1m1r1m20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4m1w2m3w24r5m3r1m1r1m20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRRRRRRWRWRW](/stripes/wrrrrrrwrwrw/).
+
+Part of the [Menzies Dress, Cerise](/tartans/m/me/menzies-dress-cerise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

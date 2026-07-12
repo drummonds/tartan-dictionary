@@ -6,6 +6,8 @@ This is the **Ramsay (Angus & Mearns)** sett — one scale-free proportion (`r64
 [RBRKRWRWKR](/stripes/rbrkrwrwkr/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [Ramsay](/tartans/r/ra/ramsay-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

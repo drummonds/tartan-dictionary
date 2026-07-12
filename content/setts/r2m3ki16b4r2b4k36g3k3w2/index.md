@@ -6,6 +6,8 @@ This is the **Fitzgerald Htg (Name)** sett — one scale-free proportion (`r2m3k
 [RRKBRBKGKW](/stripes/rrkbrbkgkw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Fitzgerald Hunting](/tartans/f/fi/fitzgerald-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

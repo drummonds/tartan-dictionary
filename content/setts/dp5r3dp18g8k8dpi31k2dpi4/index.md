@@ -6,6 +6,8 @@ This is the **By Storm** sett — one scale-free proportion (`dp5r3dp18g8k8dpi31
 [BKBKGBRB](/stripes/bkbkgbrb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [By Storm](/tartans/b/by/by-storm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

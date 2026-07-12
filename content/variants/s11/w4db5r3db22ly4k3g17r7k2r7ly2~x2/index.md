@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crozier"
+  url: "/tartans/c/cr/crozier/"
 - name: "Crozier/Crosser"
   url: "/setts/w4db5r3db22ly4k3g17r7k2r7ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db5r3db22ly4k3g17r7k2r7ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBYKGRKRY](/stripes/wbrbykgrkry/).
+
+Part of the [Crozier](/tartans/c/cr/crozier/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

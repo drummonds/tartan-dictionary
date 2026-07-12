@@ -6,6 +6,8 @@ This is the **Loch Tummel Trade Tartan** sett — one scale-free proportion (`ly
 [WBYWY](/stripes/wbywy/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Loch Tummel](/tartans/l/lo/loch-tummel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

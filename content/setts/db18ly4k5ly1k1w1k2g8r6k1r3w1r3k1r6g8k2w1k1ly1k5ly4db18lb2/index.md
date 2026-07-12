@@ -6,6 +6,8 @@ This is the **Bethune Name Tartan** sett — one scale-free proportion (`db18ly4
 [BYKYKWKGRKRWRKRGKWKYKYBW](/stripes/bykykwkgrkrwrkrgkwkykybw/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
+Part of the [Bethune](/tartans/b/be/bethune/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

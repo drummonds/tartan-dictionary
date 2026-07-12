@@ -6,6 +6,8 @@ This is the **Schneidersohne Centenary (Corporate)** sett — one scale-free pro
 [KBRKBKRKGKBKRW](/stripes/kbrkbkrkgkbkrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Schneidersohne Centenary](/tartans/s/sc/schneidersohne-centenary-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

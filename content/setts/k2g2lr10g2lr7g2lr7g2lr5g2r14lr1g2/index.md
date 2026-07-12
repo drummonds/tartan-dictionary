@@ -6,6 +6,8 @@ This is the **Glen Affric Fragment Artefact Tartan** sett — one scale-free pro
 [GYRGYGYGYGYGK](/stripes/gyrgygygygygk/). It is recorded as a single **variant**, below.
 First attested **~1800**.
 
+Part of the [Glen Affric Fragment Artefact](/tartans/g/gl/glen-affric-fragment-artefact/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

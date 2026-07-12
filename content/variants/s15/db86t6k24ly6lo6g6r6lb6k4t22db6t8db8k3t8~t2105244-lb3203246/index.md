@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Euler Hermes"
+  url: "/tartans/e/eu/euler-hermes-2/"
+- name: "Euler Hermes"
   url: "/setts/db86t6k24ly6lo6g6r6lb6k4t22db6t8db8k3t8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db86t6k24ly6lo6g6r6lb6k4t22db6t8db8k3t8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKYYGRWKBBBBKB](/stripes/bbkyygrwkbbbbkb/).
+
+Part of the [Euler Hermes](/tartans/e/eu/euler-hermes-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

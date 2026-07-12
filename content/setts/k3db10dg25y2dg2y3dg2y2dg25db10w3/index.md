@@ -6,6 +6,8 @@ This is the **William and Mary GALA, Inc, The** sett — one scale-free proporti
 [KBGGGGGGGBW](/stripes/kbgggggggbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [William & Mary GALA](/tartans/w/wi/william-mary-gala/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

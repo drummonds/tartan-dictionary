@@ -6,6 +6,8 @@ This is the **Spirit of India** sett — one scale-free proportion (`t32w2dt1w2t
 [BWBWBBGWGBBBW](/stripes/bwbwbbgwgbbbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Spirit of India](/tartans/s/sp/spirit-of-india/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

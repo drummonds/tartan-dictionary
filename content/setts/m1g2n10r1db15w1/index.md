@@ -6,6 +6,8 @@ This is the **Oren Peterson** sett — one scale-free proportion (`m1g2n10r1db15
 [RGBRBW](/stripes/rgbrbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Oren Peterson](/tartans/o/or/oren-peterson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

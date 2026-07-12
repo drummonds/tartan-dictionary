@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacShimsi"
-  url: "/tartans/macshimsi/"
+  url: "/tartans/m/ma/macshimsi/"
 - name: "MacShimsi"
   url: "/setts/m11r5g5k40y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/m11r5g5k40y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRR](/stripes/gkgrr/).
 
-Part of the [MacShimsi](/tartans/macshimsi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacShimsi](/tartans/m/ma/macshimsi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Mayer, Chris (Personal)** sett — one scale-free proportion (`db1
 [BBKR](/stripes/bbkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Mayer, Chris](/tartans/m/ma/mayer-chris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

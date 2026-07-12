@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tamer of Wolves"
+  url: "/tartans/t/ta/tamer-of-wolves/"
+- name: "Tamer of Wolves"
   url: "/setts/w9db2dy8n6dy9n15dy13n3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9db2dy8n6dy9n15dy13n3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
+
+Part of the [Tamer of Wolves](/tartans/t/ta/tamer-of-wolves/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

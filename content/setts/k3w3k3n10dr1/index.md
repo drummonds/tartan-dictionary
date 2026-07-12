@@ -6,6 +6,8 @@ This is the **Greystone (Burberry Grey)** sett — one scale-free proportion (`k
 [BBKWK](/stripes/bbkwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Greystone](/tartans/g/gr/greystone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

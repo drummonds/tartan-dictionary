@@ -6,6 +6,8 @@ This is the **Longniddry, dress Burgundy** sett — one scale-free proportion (`
 [RBWBRRWR](/stripes/rbwbrrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Longniddry, dress Burgundy](/tartans/l/lo/longniddry-dress-burgundy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

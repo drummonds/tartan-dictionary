@@ -6,6 +6,8 @@ This is the **Leach, Leech, Leitch, dress** sett — one scale-free proportion (
 [RWKWGRKBW](/stripes/rwkwgrkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leach, Leech, Leitch, dress](/tartans/l/le/leach-leech-leitch-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

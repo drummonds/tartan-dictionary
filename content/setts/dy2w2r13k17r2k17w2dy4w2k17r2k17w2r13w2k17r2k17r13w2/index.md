@@ -6,6 +6,8 @@ This is the **Holy Sepulchre Corporate Tartan** sett — one scale-free proporti
 [GWRKRKWGWKRKWRWKRKRW](/stripes/gwrkrkwgwkrkwrwkrkrw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Holy Sepulchre](/tartans/h/ho/holy-sepulchre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

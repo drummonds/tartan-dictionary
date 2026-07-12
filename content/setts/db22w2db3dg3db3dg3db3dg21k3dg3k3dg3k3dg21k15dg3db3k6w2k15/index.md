@@ -6,6 +6,8 @@ This is the **Wilson-Blyth** sett — one scale-free proportion (`db22w2db3dg3db
 [BWBGBGBGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgbkwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Wilson-Blyth](/tartans/w/wi/wilson-blyth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

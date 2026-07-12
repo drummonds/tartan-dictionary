@@ -6,6 +6,8 @@ This is the **Harbison (2015)** sett — one scale-free proportion (`db21g34r14w
 [BGRW](/stripes/bgrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Harbison](/tartans/h/ha/harbison-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

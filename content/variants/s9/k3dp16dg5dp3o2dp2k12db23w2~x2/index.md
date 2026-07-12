@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crieff Highland Gathering"
+  url: "/tartans/c/cr/crieff-highland-gathering/"
 - name: "Crieff Highland Gathering Corporate Tartan"
   url: "/setts/k3dp16dg5dp3o2dp2k12db23w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dp16dg5dp3o2dp2k12db23w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBRBKBW](/stripes/kbgbrbkbw/).
+
+Part of the [Crieff Highland Gathering](/tartans/c/cr/crieff-highland-gathering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

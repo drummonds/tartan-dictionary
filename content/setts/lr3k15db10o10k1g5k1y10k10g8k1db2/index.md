@@ -6,6 +6,8 @@ This is the **Blue Castlefield** sett — one scale-free proportion (`lr3k15db10
 [BKGKGKGKRBKY](/stripes/bkgkgkgkrbky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Blue Castlefield](/tartans/b/bl/blue-castlefield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

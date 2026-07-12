@@ -6,7 +6,7 @@ This is the **Faulkner (Personal)** sett — one scale-free proportion (`dp8k2dr
 [BKBYBKGWKBW](/stripes/bkbybkgwkbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Faulkner](/tartans/faulkner/) tartan — the named design grouping this sett with its kin.
+Part of the [Faulkner](/tartans/f/fa/faulkner/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

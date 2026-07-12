@@ -6,6 +6,8 @@ This is the **Wagga Wagga** sett — one scale-free proportion (`dg16k6dg16g32k2
 [GKGGKGGGGGBGGGGGKGGK](/stripes/gkggkgggggbgggggkggk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wagga Wagga](/tartans/w/wa/wagga-wagga/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

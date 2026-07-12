@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Naval Association"
+  url: "/tartans/r/ro/royal-naval-association/"
+- name: "Royal Naval Association"
   url: "/setts/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/).
+
+Part of the [Royal Naval Association](/tartans/r/ro/royal-naval-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

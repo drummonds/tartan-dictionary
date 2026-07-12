@@ -6,7 +6,7 @@ This is the **Forsyth (1795)** sett — one scale-free proportion (`k2g11y1k8t9r
 [KGGKBR](/stripes/kggkbr/). It is recorded as a single **variant**, below.
 First attested **1795**.
 
-Part of the [Forsyth](/tartans/forsyth/) tartan — the named design grouping this sett with its kin.
+Part of the [Forsyth](/tartans/f/fo/forsyth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

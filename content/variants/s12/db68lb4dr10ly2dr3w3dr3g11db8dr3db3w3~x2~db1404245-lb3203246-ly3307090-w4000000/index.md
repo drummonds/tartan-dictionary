@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shaughnessy"
-  url: "/tartans/shaughnessy/"
+  url: "/tartans/s/sh/shaughnessy/"
 - name: "Shaughnessy"
   url: "/setts/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBWBGBBBW](/stripes/bwbybwbgbbbw/).
 
-Part of the [Shaughnessy](/tartans/shaughnessy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shaughnessy](/tartans/s/sh/shaughnessy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

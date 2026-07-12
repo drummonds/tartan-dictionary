@@ -10,7 +10,7 @@ crumbs:
 - name: "MacDonald of Glencoe"
   url: "/families/macdonald-of-glencoe/"
 - name: "MacDonald of Glencoe"
-  url: "/tartans/macdonald-of-glencoe-3/"
+  url: "/tartans/m/ma/macdonald-of-glencoe-3/"
 - name: "MacDonald of Glencoe #3"
   url: "/setts/g8ri1r6g3r40y2k12r6g30r3k2ri1r6/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8ri1r6g3r40y2k12r6g30r3k2ri1r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRGKRGRKRR](/stripes/grrgrgkrgrkrr/).
 
-Part of the [MacDonald of Glencoe](/tartans/macdonald-of-glencoe-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

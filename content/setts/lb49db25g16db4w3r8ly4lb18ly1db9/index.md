@@ -6,6 +6,8 @@ This is the **State Seal of Hawaii (Fashion)** sett — one scale-free proportio
 [BYWYRWBGBW](/stripes/bywyrwbgbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Hawaii](/tartans/s/st/state-seal-of-hawaii/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

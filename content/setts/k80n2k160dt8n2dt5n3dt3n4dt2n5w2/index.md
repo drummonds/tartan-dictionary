@@ -6,6 +6,8 @@ This is the **Celkilt** sett — one scale-free proportion (`k80n2k160dt8n2dt5n3
 [KBKBBBBBBBBW](/stripes/kbkbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Celkilt](/tartans/c/ce/celkilt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

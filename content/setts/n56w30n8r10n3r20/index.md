@@ -6,6 +6,8 @@ This is the **Walsh, Michael Edward (Personal)** sett — one scale-free proport
 [BWBRBR](/stripes/bwbrbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Walsh, Michael Edward](/tartans/w/wa/walsh-michael-edward/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

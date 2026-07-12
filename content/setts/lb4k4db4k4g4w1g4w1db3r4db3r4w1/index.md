@@ -7,6 +7,8 @@ This is the **Stanners (Personal)** sett — one scale-free proportion (`lb4k4db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2009**.
 
+Part of the [Stanners](/tartans/s/st/stanners/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

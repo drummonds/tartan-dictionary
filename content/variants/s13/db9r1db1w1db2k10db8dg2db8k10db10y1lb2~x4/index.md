@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ontario Provincial Police"
+  url: "/tartans/o/on/ontario-provincial-police/"
+- name: "Ontario Provincial Police"
   url: "/setts/db9r1db1w1db2k10db8dg2db8k10db10y1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9r1db1w1db2k10db8dg2db8k10db10y1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBKBGBKBGW](/stripes/brbwbkbgbkbgw/).
+
+Part of the [Ontario Provincial Police](/tartans/o/on/ontario-provincial-police/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

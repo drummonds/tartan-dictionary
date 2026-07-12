@@ -7,6 +7,8 @@ This is the **MacIver** sett — one scale-free proportion (`y1r12k2r2k16r2k2r12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [MacIvor](/tartans/m/ma/macivor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

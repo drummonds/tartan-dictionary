@@ -6,6 +6,8 @@ This is the **Clemson University** sett — one scale-free proportion (`db11k2db
 [BKBKBKBYBKBKB](/stripes/bkbkbkbybkbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Clemson University](/tartans/c/cl/clemson-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

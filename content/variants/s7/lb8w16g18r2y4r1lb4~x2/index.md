@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lake Ainslie Heritage"
+  url: "/tartans/l/la/lake-ainslie-heritage/"
+- name: "Lake Ainslie Heritage"
   url: "/setts/lb8w16g18r2y4r1lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8w16g18r2y4r1lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRGWW](/stripes/wrgrgww/).
+
+Part of the [Lake Ainslie Heritage](/tartans/l/la/lake-ainslie-heritage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

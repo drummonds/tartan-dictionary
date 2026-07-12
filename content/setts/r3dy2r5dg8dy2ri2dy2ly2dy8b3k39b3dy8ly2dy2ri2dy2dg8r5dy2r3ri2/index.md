@@ -6,6 +6,8 @@ This is the **GRM** sett — one scale-free proportion (`r3dy2r5dg8dy2ri2dy2ly2d
 [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [GRM](/tartans/g/gr/grm-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

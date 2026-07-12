@@ -6,6 +6,8 @@ This is the **Murray of Polmaise** sett — one scale-free proportion (`g3r3lb9r
 [GRWRWRGRWGWRWRWRWRWRWRGRWRWRGRWRGRW](/stripes/grwrwrgrwgwrwrwrwrwrwrgrwrwrgrwrgrw/). It is recorded as a single **variant**, below.
 First attested **1957**.
 
+Part of the [Murray of Polmaise](/tartans/m/mu/murray-of-polmaise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

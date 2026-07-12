@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinnoull"
+  url: "/tartans/k/ki/kinnoull/"
+- name: "Kinnoull"
   url: "/setts/g23r6g23r25g4r10g4r25w3r10b31r6b31r10w3r25k2r2k4r2k2r25k2r2k4r2k2r25g23r6g23/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g23r6g23r25g4r10g4r25w3r10b31r6b31r10w3r25k2r2k4r2k2r25k2r2k4r2k2r25g23r6g23/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGRWRBRBRWRKRKRKRKRKRKRGRG](/stripes/grgrgrgrwrbrbrwrkrkrkrkrkrkrgrg/).
+
+Part of the [Kinnoull](/tartans/k/ki/kinnoull/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 

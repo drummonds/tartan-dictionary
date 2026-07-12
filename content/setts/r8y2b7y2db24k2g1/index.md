@@ -6,6 +6,8 @@ This is the **(4) Traill** sett — one scale-free proportion (`r8y2b7y2db24k2g1
 [GKBGBGR](/stripes/gkbgbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Traill](/tartans/t/tr/traill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

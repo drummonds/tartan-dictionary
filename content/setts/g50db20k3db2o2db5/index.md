@@ -6,6 +6,8 @@ This is the **St Andrews Hotel, Golf Resort, and SPA** sett — one scale-free p
 [BRBKBG](/stripes/brbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [St Andrews Hotel, Golf Resort, and SPA](/tartans/s/st/st-andrews-hotel-golf-resort-and-spa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

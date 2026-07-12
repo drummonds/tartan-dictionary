@@ -6,7 +6,7 @@ This is the **Burns Heritage Check** sett — one scale-free proportion (`k12w12
 [BGBWGWKWK](/stripes/bgbwgwkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Burns Heritage Check](/tartans/burns-heritage-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Burns Heritage Check](/tartans/b/bu/burns-heritage-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **McMeeken** sett — one scale-free proportion (`r7g20y2g4k5db4k2db
 [RGGGKBKBKW](/stripes/rgggkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [McMeeken](/tartans/mcmeeken/) tartan — the named design grouping this sett with its kin.
+Part of the [McMeeken](/tartans/m/mc/mcmeeken/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

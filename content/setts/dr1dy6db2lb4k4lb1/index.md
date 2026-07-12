@@ -6,7 +6,7 @@ This is the **Thompson's Fancy (Fashion)** sett — one scale-free proportion (`
 [BGBWKW](/stripes/bgbwkw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
-Part of the [Thompson's Fancy](/tartans/thompson-s-fancy/) tartan — the named design grouping this sett with its kin.
+Part of the [Thompson's Fancy](/tartans/t/th/thompson-s-fancy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

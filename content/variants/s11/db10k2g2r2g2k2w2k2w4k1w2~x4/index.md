@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highfield Dress"
+  url: "/tartans/h/hi/highfield-dress/"
+- name: "Highfield Dress"
   url: "/setts/db10k2g2r2g2k2w2k2w4k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10k2g2r2g2k2w2k2w4k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKWKWKWKWKWKGRGK](/stripes/bkgrgkwkwkwkwkwkgrgk/).
+
+Part of the [Highfield Dress](/tartans/h/hi/highfield-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

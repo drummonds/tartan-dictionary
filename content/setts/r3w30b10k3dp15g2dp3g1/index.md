@@ -6,6 +6,8 @@ This is the **S.O.B.H.D. (Corporate)** sett — one scale-free proportion (`r3w3
 [GBGBKBWR](/stripes/gbgbkbwr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [SOBHD](/tartans/s/so/sobhd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

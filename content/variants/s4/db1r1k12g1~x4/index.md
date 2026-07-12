@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNathair Sgianach"
+  url: "/tartans/m/ma/macnathair-sgianach/"
+- name: "MacNathair Sgianach"
   url: "/setts/db1r1k12g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r1k12g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKG](/stripes/brkg/).
+
+Part of the [MacNathair Sgianach](/tartans/m/ma/macnathair-sgianach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

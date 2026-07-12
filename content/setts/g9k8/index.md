@@ -6,6 +6,8 @@ This is the **Robin Hood Fancy Tartan** sett — one scale-free proportion (`g9k
 [GK](/stripes/gk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Robin Hood Fancy](/tartans/r/ro/robin-hood-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

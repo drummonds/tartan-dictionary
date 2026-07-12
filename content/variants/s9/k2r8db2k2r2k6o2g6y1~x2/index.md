@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Craigmoor"
-  url: "/tartans/craigmoor/"
+  url: "/tartans/c/cr/craigmoor/"
 - name: "Craigmoor"
   url: "/setts/k2r8db2k2r2k6o2g6y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2r8db2k2r2k6o2g6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKRKBRK](/stripes/ggrkrkbrk/).
 
-Part of the [Craigmoor](/tartans/craigmoor/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Craigmoor](/tartans/c/cr/craigmoor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Gow (Portrait)** sett — one scale-free proportion (`r3dg3r1db3r3
 [RBRGR](/stripes/rbrgr/). It is recorded as a single **variant**, below.
 First attested **1780**.
 
-Part of the [Gow](/tartans/gow/) tartan — the named design grouping this sett with its kin.
+Part of the [Gow](/tartans/g/go/gow/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

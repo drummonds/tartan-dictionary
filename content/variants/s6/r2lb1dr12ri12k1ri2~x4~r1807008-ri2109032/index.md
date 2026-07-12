@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Grelloch"
+  url: "/tartans/g/gr/grelloch/"
+- name: "Grelloch"
   url: "/setts/r2lb1dr12ri12k1ri2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lb1dr12ri12k1ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBWRWBRKR](/stripes/krbwrwbrkr/).
+
+Part of the [Grelloch](/tartans/g/gr/grelloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

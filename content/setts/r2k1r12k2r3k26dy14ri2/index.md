@@ -6,6 +6,8 @@ This is the **Booth (Fashion)** sett — one scale-free proportion (`r2k1r12k2r3
 [RGKRKRKR](/stripes/rgkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Booth](/tartans/b/bo/booth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDona"
+  url: "/tartans/m/ma/macdona/"
 - name: "MacDona Family Tartan"
   url: "/setts/r35g52db18g17r12g17k18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r35g52db18g17r12g17k18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGBGR](/stripes/kgrgbgr/).
+
+Part of the [MacDona](/tartans/m/ma/macdona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

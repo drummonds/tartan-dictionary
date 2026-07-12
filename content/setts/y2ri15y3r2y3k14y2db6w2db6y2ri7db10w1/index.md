@@ -7,6 +7,8 @@ This is the **Dalrymple, of Castleton** sett — one scale-free proportion (`y2r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1720**.
 
+Part of the [Dalrymple of Castleton](/tartans/d/da/dalrymple-of-castleton-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

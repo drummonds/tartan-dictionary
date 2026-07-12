@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orr Senior, Gerald William"
+  url: "/tartans/o/or/orr-senior-gerald-william/"
+- name: "Orr Senior, Gerald William"
   url: "/setts/n4y2n2k5n4k4n8k6n2r32n2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4y2n2k5n4k4n8k6n2r32n2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBKBKBRBW](/stripes/bgbkbkbkbrbw/).
+
+Part of the [Orr Senior, Gerald William](/tartans/o/or/orr-senior-gerald-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

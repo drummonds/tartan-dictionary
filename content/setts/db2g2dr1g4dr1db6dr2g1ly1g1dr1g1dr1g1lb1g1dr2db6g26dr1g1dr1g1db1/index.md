@@ -6,6 +6,8 @@ This is the **Ettrick Forest** sett — one scale-free proportion (`db2g2dr1g4dr
 [BGBGBBBGYGBGBGWGBBGBGBGB](/stripes/bgbgbbbgygbgbgwgbbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Ettrick Forest](/tartans/e/et/ettrick-forest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
+- name: "MacFie"
+  url: "/tartans/m/ma/macfie/"
 - name: "MacFie"
   url: "/setts/y1r12g162r1g2r12w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1r12g162r1g2r12w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRW](/stripes/grgrgrw/).
+
+Part of the [MacFie](/tartans/m/ma/macfie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

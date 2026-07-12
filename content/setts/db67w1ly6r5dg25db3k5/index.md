@@ -6,6 +6,8 @@ This is the **Guide Dogs (Corporate)** sett — one scale-free proportion (`db67
 [BWYRGBK](/stripes/bwyrgbk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Guide Dogs](/tartans/g/gu/guide-dogs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

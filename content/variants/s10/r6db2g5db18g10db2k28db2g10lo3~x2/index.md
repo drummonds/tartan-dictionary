@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ofally, County"
+  url: "/tartans/o/of/ofally-county/"
+- name: "Ofally, County"
   url: "/setts/r6db2g5db18g10db2k28db2g10lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db2g5db18g10db2k28db2g10lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBKBGY](/stripes/rbgbgbkbgy/).
+
+Part of the [Ofally, County](/tartans/o/of/ofally-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

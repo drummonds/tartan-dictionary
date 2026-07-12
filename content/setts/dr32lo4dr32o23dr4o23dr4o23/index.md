@@ -6,6 +6,8 @@ This is the **Hamilton, Red** sett — one scale-free proportion (`dr32lo4dr32o2
 [BYBRBRBR](/stripes/bybrbrbr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Hamilton](/tartans/h/ha/hamilton-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

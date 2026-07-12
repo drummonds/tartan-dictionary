@@ -7,6 +7,8 @@ This is the **MacCulloch Dress (Name)** sett — one scale-free proportion (`dy5
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [MacCulloch Dress](/tartans/m/ma/macculloch-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

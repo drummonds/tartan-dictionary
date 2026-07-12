@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arndt"
+  url: "/tartans/a/ar/arndt/"
 - name: "Arndt (Personal)"
   url: "/setts/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBKGKGKGKBKW](/stripes/wbrbkgkgkgkbkw/).
+
+Part of the [Arndt](/tartans/a/ar/arndt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thompson"
+  url: "/tartans/t/th/thompson/"
 - name: "Thompson Black (Fashion)"
   url: "/setts/g3k15r8g2n8k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3k15r8g2n8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGBK](/stripes/gkrgbk/).
+
+Part of the [Thompson](/tartans/t/th/thompson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

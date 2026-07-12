@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ryder Cup 2006"
+  url: "/tartans/r/ry/ryder-cup-2006/"
+- name: "Ryder Cup 2006"
   url: "/setts/k10ly1k3dt8dg8dgi1dg8dt8k15ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10ly1k3dt8dg8dgi1dg8dt8k15ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKBGGGBKY](/stripes/kykbgggbky/).
+
+Part of the [Ryder Cup 2006](/tartans/r/ry/ryder-cup-2006/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

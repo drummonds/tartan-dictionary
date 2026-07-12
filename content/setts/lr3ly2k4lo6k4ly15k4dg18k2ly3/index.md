@@ -6,6 +6,8 @@ This is the **Fitzsimmons** sett — one scale-free proportion (`lr3ly2k4lo6k4ly
 [YKGKYKYKYY](/stripes/ykgkykykyy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Fitzsimmons](/tartans/f/fi/fitzsimmons/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

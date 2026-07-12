@@ -6,6 +6,8 @@ This is the **Spirit of India (Fashion)** sett — one scale-free proportion (`d
 [BWBWBBGWYBBBW](/stripes/bwbwbbgwybbbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Spirit of India](/tartans/s/sp/spirit-of-india-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

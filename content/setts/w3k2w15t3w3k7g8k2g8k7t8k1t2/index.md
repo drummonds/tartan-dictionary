@@ -6,6 +6,8 @@ This is the **Campbell, 42nd Dress (Balhousie)** sett — one scale-free proport
 [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Campbell, 42nd Dress](/tartans/c/ca/campbell-42nd-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strath Hallidale"
+  url: "/tartans/s/st/strath-hallidale/"
 - name: "Strath Hallidale (Fashion)"
   url: "/setts/g5k15g5k15g19r2g13lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k15g5k15g19r2g13lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGRGW](/stripes/gkgkgrgw/).
+
+Part of the [Strath Hallidale](/tartans/s/st/strath-hallidale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

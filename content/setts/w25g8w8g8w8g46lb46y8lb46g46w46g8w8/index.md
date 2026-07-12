@@ -6,6 +6,8 @@ This is the **Poulter SG 096 (Fashion)** sett — one scale-free proportion (`w2
 [WGWGWGWGWGWGW](/stripes/wgwgwgwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Poulter SG 096](/tartans/p/po/poulter-sg-096/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

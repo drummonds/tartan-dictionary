@@ -6,7 +6,7 @@ This is the **Ville de Beauport** sett — one scale-free proportion (`g16k1db12
 [GKBKBKRGKGKBK](/stripes/gkbkbkrgkgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ville de Beauport](/tartans/ville-de-beauport/) tartan — the named design grouping this sett with its kin.
+Part of the [Ville de Beauport](/tartans/v/vi/ville-de-beauport/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **CI (Corporate)** sett — one scale-free proportion (`k100dp8n4k4n
 [BBKBBKBBK](/stripes/bbkbbkbbk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [CI](/tartans/c/ci/ci/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

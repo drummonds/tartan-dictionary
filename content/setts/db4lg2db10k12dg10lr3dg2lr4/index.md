@@ -6,6 +6,8 @@ This is the **Business Air** sett — one scale-free proportion (`db4lg2db10k12d
 [BYBKGYGY](/stripes/bybkgygy/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Business Air](/tartans/b/bu/business-air-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Shirra (2013)** sett — one scale-free proportion (`db40k32w1`), 
 [BKW](/stripes/bkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Shirra](/tartans/s/sh/shirra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

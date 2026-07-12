@@ -6,6 +6,8 @@ This is the **MacLeods Highlanders** sett — one scale-free proportion (`db12r2
 [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
+Part of the [MacLeod's Highlanders](/tartans/m/ma/macleod-s-highlanders/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

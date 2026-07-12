@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robitaille, Jean-Francois"
+  url: "/tartans/r/ro/robitaille-jean-francois/"
 - name: "Robitaille, Jean-Francois (Personal)"
   url: "/setts/db21w2ly3w2ly2w2k12w2g6db15r2lyi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db21w2ly3w2ly2w2k12w2g6db15r2lyi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYWYWKWGBRY](/stripes/bwywywkwgbry/).
+
+Part of the [Robitaille, Jean-Francois](/tartans/r/ro/robitaille-jean-francois/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

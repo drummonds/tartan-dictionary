@@ -6,6 +6,8 @@ This is the **Old Aberdeen Diamond Jubilee** sett — one scale-free proportion 
 [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Old Aberdeen Diamond Jubilee](/tartans/o/ol/old-aberdeen-diamond-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

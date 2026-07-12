@@ -7,7 +7,7 @@ This is the **Sinclair** sett — one scale-free proportion (`r30g12k5w2lb6r30`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1815**.
 
-Part of the [Sinclair](/tartans/sinclair/) tartan — the named design grouping this sett with its kin.
+Part of the [Sinclair](/tartans/s/si/sinclair/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

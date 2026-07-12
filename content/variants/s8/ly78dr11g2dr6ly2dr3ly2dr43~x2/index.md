@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Montreal Granate"
+  url: "/tartans/m/mo/montreal-granate/"
+- name: "Montreal Granate"
   url: "/setts/ly78dr11g2dr6ly2dr3ly2dr43/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly78dr11g2dr6ly2dr3ly2dr43/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBGBY](/stripes/bybybgby/).
+
+Part of the [Montreal Granate](/tartans/m/mo/montreal-granate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Order of the Holy Sepulchre of Jerusalem** sett — one scale-free
 [WRKRKWRWKRKWGWKRKRWY](/stripes/wrkrkwrwkrkwgwkrkrwy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Order of the Holy Sepulchre of Jerusalem](/tartans/o/or/order-of-the-holy-sepulchre-of-jerusalem/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

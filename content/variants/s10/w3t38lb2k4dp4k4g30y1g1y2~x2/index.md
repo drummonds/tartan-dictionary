@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pinewoods Jubilee"
+  url: "/tartans/p/pi/pinewoods-jubilee/"
+- name: "Pinewoods Jubilee"
   url: "/setts/w3t38lb2k4dp4k4g30y1g1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3t38lb2k4dp4k4g30y1g1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKBKWBW](/stripes/ggggkbkwbw/).
+
+Part of the [Pinewoods Jubilee](/tartans/p/pi/pinewoods-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

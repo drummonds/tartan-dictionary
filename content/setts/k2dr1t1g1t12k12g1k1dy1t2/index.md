@@ -6,7 +6,7 @@ This is the **Kingsbarns Golf Links (Corporate)** sett — one scale-free propor
 [BGKGKBGBBK](/stripes/bgkgkbgbbk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Kingsbarns Golf Links](/tartans/kingsbarns-golf-links/) tartan — the named design grouping this sett with its kin.
+Part of the [Kingsbarns Golf Links](/tartans/k/ki/kingsbarns-golf-links/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

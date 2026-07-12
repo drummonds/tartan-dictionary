@@ -6,6 +6,8 @@ This is the **City Of Dorval** sett — one scale-free proportion (`g4w1k3w1dy2w
 [GRBGWKWGWKWGWKWG](/stripes/grbgwkwgwkwgwkwg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [City Of Dorval](/tartans/c/ci/city-of-dorval/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

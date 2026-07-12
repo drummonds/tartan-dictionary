@@ -6,7 +6,7 @@ This is the **Nashotah House** sett — one scale-free proportion (`r2k2o6k10w2k
 [RKRKWKBGWGRGY](/stripes/rkrkwkbgwgrgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Nashotah House](/tartans/nashotah-house/) tartan — the named design grouping this sett with its kin.
+Part of the [Nashotah House](/tartans/n/na/nashotah-house/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

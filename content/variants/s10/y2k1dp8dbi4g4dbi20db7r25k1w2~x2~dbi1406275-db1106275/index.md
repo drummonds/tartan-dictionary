@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Guardian of Scotland"
+  url: "/tartans/g/gu/guardian-of-scotland/"
+- name: "Guardian of Scotland"
   url: "/setts/y2k1dp8dbi4g4dbi20db7r25k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2k1dp8dbi4g4dbi20db7r25k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBGBBRKW](/stripes/gkbbgbbrkw/).
+
+Part of the [Guardian of Scotland](/tartans/g/gu/guardian-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

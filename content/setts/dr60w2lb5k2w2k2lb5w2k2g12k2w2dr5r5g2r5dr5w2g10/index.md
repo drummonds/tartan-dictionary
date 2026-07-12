@@ -6,6 +6,8 @@ This is the **MacBean (Lord Lyon version)** sett — one scale-free proportion (
 [BWWKWKWWKGKWBRGRBWG](/stripes/bwwkwkwwkgkwbrgrbwg/). It is recorded as a single **variant**, below.
 First attested **~1960**.
 
+Part of the [MacBean](/tartans/m/ma/macbean-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

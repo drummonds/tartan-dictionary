@@ -6,7 +6,7 @@ This is the **Brandon, Manitoba** sett — one scale-free proportion (`y83k35w3g
 [GKWGKY](/stripes/gkwgky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Brandon Manitoba](/tartans/brandon-manitoba/) tartan — the named design grouping this sett with its kin.
+Part of the [Brandon Manitoba](/tartans/b/br/brandon-manitoba/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

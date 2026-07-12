@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Teylu Coleman"
+  url: "/tartans/t/te/teylu-coleman/"
 - name: "Teylu Coleman (Cornwall)"
   url: "/setts/y3dp17do9k25w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dp17do9k25w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBKW](/stripes/gbbkw/).
+
+Part of the [Teylu Coleman](/tartans/t/te/teylu-coleman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

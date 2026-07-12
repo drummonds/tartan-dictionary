@@ -6,6 +6,8 @@ This is the **St Brigid's Parish Triple Celebratio** sett — one scale-free pro
 [BGKBWBKGY](/stripes/bgkbwbkgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [St Brigid's Parish Triple Celebratio](/tartans/s/st/st-brigid-s-parish-triple-celebratio/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

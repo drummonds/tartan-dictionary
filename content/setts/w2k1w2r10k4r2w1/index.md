@@ -6,6 +6,8 @@ This is the **Russell, Ralph T. (Personal)** sett — one scale-free proportion 
 [WKWRKRW](/stripes/wkwrkrw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Russell, Ralph T.](/tartans/r/ru/russell-ralph-t/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

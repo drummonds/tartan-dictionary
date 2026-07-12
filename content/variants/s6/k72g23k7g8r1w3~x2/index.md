@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor"
+  url: "/tartans/m/ma/macgregor-5/"
 - name: "MacGregor, Black (Personal)"
   url: "/setts/k72g23k7g8r1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k72g23k7g8r1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGRW](/stripes/kgkgrw/).
+
+Part of the [MacGregor](/tartans/m/ma/macgregor-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Scottish Chieftain (Universal)** sett — one scale-free proportio
 [KRGKGKGW](/stripes/krgkgkgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Scottish Chieftain](/tartans/scottish-chieftain/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Chieftain](/tartans/s/sc/scottish-chieftain/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

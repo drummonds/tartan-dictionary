@@ -6,6 +6,8 @@ This is the **Reuben J Jolley Family (Personal)** sett — one scale-free propor
 [GWRWGGBY](/stripes/gwrwggby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Reuben J Jolley](/tartans/r/re/reuben-j-jolley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

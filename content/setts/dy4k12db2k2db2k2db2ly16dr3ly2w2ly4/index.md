@@ -6,6 +6,8 @@ This is the **Cailean (Pendleton)** sett — one scale-free proportion (`dy4k12d
 [GKBKBKBYBYWY](/stripes/gkbkbkbybywy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cailean](/tartans/c/ca/cailean-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

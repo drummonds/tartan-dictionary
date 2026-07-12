@@ -6,6 +6,8 @@ This is the **Scottish Highlander Dress** sett — one scale-free proportion (`b
 [BBBBBBWBWBBBBB](/stripes/bbbbbbwbwbbbbb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Scottish Highlander Dress](/tartans/s/sc/scottish-highlander-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

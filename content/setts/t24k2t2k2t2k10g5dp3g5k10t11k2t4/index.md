@@ -6,7 +6,7 @@ This is the **Blanton** sett — one scale-free proportion (`t24k2t2k2t2k10g5dp3
 [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Blanton](/tartans/blanton/) tartan — the named design grouping this sett with its kin.
+Part of the [Blanton](/tartans/b/bl/blanton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

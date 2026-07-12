@@ -7,6 +7,8 @@ This is the **Fletcher C** sett — one scale-free proportion (`db6k1db6k8r1g8r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1906**.
 
+Part of the [Fletcher C](/tartans/f/fl/fletcher-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

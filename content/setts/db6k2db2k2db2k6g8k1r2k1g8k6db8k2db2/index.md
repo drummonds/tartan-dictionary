@@ -6,7 +6,7 @@ This is the **MacKinlay Clan Tartan** sett — one scale-free proportion (`db6k2
 [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacKinlay](/tartans/mackinlay-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKinlay](/tartans/m/ma/mackinlay-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

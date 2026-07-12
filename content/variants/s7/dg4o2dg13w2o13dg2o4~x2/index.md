@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crossnor"
+  url: "/tartans/c/cr/crossnor/"
 - name: "Crossnor School"
   url: "/setts/dg4o2dg13w2o13dg2o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4o2dg13w2o13dg2o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWRGR](/stripes/grgwrgr/).
+
+Part of the [Crossnor](/tartans/c/cr/crossnor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

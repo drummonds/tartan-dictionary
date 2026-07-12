@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinnaird"
+  url: "/tartans/k/ki/kinnaird-3/"
 - name: "Kinnaird (Name)"
   url: "/setts/g15k10r30dp2r20w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g15k10r30dp2r20w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRW](/stripes/gkrbrw/).
+
+Part of the [Kinnaird](/tartans/k/ki/kinnaird-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

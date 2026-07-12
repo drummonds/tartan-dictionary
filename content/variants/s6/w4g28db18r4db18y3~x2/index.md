@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inglis"
-  url: "/tartans/inglis/"
+  url: "/tartans/i/in/inglis/"
 - name: "Inglis Family Tartan"
   url: "/setts/w4g28db18r4db18y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4g28db18r4db18y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGW](/stripes/gbrbgw/).
 
-Part of the [Inglis](/tartans/inglis/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inglis](/tartans/i/in/inglis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

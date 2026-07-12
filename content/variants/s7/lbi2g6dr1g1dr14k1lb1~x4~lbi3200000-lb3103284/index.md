@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacMaster"
+  url: "/tartans/m/ma/macmaster-4/"
 - name: "MacMaster (USA) #1"
   url: "/setts/lbi2g6dr1g1dr14k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lbi2g6dr1g1dr14k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBGBKW](/stripes/wgbgbkw/).
+
+Part of the [MacMaster](/tartans/m/ma/macmaster-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

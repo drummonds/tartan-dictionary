@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "WaterAid"
+  url: "/tartans/w/wa/wateraid/"
+- name: "WaterAid"
   url: "/setts/db23w8lb2k5w44db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db23w8lb2k5w44db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWWB](/stripes/bwkwwb/).
+
+Part of the [WaterAid](/tartans/w/wa/wateraid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

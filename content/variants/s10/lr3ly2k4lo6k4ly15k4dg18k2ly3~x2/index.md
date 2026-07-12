@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fitzsimmons"
+  url: "/tartans/f/fi/fitzsimmons/"
+- name: "Fitzsimmons"
   url: "/setts/lr3ly2k4lo6k4ly15k4dg18k2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr3ly2k4lo6k4ly15k4dg18k2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKGKYKYKYY](/stripes/ykgkykykyy/).
+
+Part of the [Fitzsimmons](/tartans/f/fi/fitzsimmons/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

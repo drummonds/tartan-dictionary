@@ -6,6 +6,8 @@ This is the **Bruce of Crionaich (Personal)** sett — one scale-free proportion
 [GGBGBGBGBGR](/stripes/ggbgbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Bruce of Crionaich](/tartans/b/br/bruce-of-crionaich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

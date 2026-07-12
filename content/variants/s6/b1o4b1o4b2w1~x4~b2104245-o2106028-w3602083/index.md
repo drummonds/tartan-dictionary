@@ -10,11 +10,15 @@ crumbs:
 - name: "Tarim Basin"
   url: "/groups/ancient/tarim-basin/"
 - name: "Hami"
+  url: "/tartans/h/ha/hami/"
+- name: "Hami"
   url: "/setts/b1o4b1o4b2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b1o4b1o4b2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBW](/stripes/brbrbw/).
+
+Part of the [Hami](/tartans/h/ha/hami/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from research.  It is a [6 stripe tartan](/stripes/stripes6/).
 

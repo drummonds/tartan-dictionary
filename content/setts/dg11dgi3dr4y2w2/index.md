@@ -6,6 +6,8 @@ This is the **Phinn (Personal)** sett — one scale-free proportion (`dg11dgi3dr
 [GGBGW](/stripes/ggbgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Phinn](/tartans/p/ph/phinn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Oman Sultanate of.. Regimental Tartan** sett — one scale-free pr
 [GGWGWG](/stripes/ggwgwg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Oman Sultanate of.. Regimental](/tartans/o/om/oman-sultanate-of-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

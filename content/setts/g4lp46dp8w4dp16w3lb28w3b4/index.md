@@ -6,7 +6,7 @@ This is the **Heather, (R.S.S.P.C.C.)** sett — one scale-free proportion (`g4l
 [BWWWBWBWG](/stripes/bwwwbwbwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Heather](/tartans/heather/) tartan — the named design grouping this sett with its kin.
+Part of the [Heather](/tartans/h/he/heather/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

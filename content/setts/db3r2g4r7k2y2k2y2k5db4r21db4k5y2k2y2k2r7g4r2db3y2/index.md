@@ -6,6 +6,8 @@ This is the **Hepburn** sett — one scale-free proportion (`db3r2g4r7k2y2k2y2k5
 [BRGRKGKGKBRBKGKGKRGRBG](/stripes/brgrkgkgkbrbkgkgkrgrbg/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Hepburn](/tartans/h/he/hepburn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

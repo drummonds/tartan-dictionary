@@ -6,6 +6,8 @@ This is the **MacGregor Dress Blue Fancy Tartan** sett — one scale-free propor
 [BWBKGKBWBW](/stripes/bwbkgkbwbw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [MacGregor Dress Blue Fancy](/tartans/m/ma/macgregor-dress-blue-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

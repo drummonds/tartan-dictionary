@@ -6,6 +6,8 @@ This is the **Waipu** sett — one scale-free proportion (`g8db16k5y2dp1y2k5db7r
 [GBKGBGKBRBGBRBKGBGKBGW](/stripes/gbkgbgkbrbgbrbkgbgkbgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Waipu](/tartans/w/wa/waipu-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

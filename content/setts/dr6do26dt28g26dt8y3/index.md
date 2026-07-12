@@ -6,6 +6,8 @@ This is the **House of Bruar (Corporate)** sett — one scale-free proportion (`
 [BBBGBG](/stripes/bbbgbg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [House of Bruar](/tartans/h/ho/house-of-bruar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

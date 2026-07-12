@@ -7,7 +7,7 @@ This is the **Dalziel** sett — one scale-free proportion (`ri24w1db2ri4g32ri4d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [Dalziel](/tartans/dalziel/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalziel](/tartans/d/da/dalziel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

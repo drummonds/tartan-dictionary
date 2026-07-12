@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCandlish Hunting"
+  url: "/tartans/m/mc/mccandlish-hunting/"
 - name: "McCandlish Htg, Green (Name)"
   url: "/setts/lb3k1dg12k1dg1k2dg1k6g12k1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3k1dg12k1dg1k2dg1k6g12k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGKGKGKGKY](/stripes/wkgkgkgkgky/).
+
+Part of the [McCandlish Hunting](/tartans/m/mc/mccandlish-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

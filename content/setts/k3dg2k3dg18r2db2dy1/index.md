@@ -6,6 +6,8 @@ This is the **Sevlon Bruce Personal Tartan** sett — one scale-free proportion 
 [GBRGKGK](/stripes/gbrgkgk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Sevlon Bruce](/tartans/s/se/sevlon-bruce/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

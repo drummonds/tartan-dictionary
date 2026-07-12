@@ -6,6 +6,8 @@ This is the **Innes of Learney Hunting (Personal)** sett — one scale-free prop
 [BKGKGKGYGBGBGKGWGKGBGBGYGKGKGK](/stripes/bkgkgkgygbgbgkgwgkgbgbgygkgkgk/). It is recorded as a single **variant**, below.
 First attested **1962**.
 
+Part of the [Innes of Learney Hunting](/tartans/i/in/innes-of-learney-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

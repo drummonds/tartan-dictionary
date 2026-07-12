@@ -6,6 +6,8 @@ This is the **Manhattan Ethnic** sett — one scale-free proportion (`ly36do15ly
 [RBYRYBY](/stripes/rbyryby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Manhattan Ethnic](/tartans/m/ma/manhattan-ethnic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

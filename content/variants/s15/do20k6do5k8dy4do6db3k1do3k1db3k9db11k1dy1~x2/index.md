@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Amble"
+  url: "/tartans/a/am/amble/"
+- name: "Amble"
   url: "/setts/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGBBKBKBKBKG](/stripes/bkbkgbbkbkbkbkg/).
+
+Part of the [Amble](/tartans/a/am/amble/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

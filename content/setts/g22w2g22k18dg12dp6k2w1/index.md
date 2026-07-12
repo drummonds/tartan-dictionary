@@ -6,6 +6,8 @@ This is the **Hibernian Football Club** sett — one scale-free proportion (`g22
 [GWGKGBKW](/stripes/gwgkgbkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Hibernian Football Club](/tartans/h/hi/hibernian-football-club-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leeds, University of"
+  url: "/tartans/l/le/leeds-university-of/"
 - name: "Leeds, University of (Dance) #1"
   url: "/setts/g34r4g4r4g4r12g20w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g34r4g4r4g4r12g20w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/).
+
+Part of the [Leeds, University of](/tartans/l/le/leeds-university-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

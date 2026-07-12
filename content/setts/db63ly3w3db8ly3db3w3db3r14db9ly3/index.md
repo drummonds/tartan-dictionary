@@ -6,6 +6,8 @@ This is the **Ottawa Fire Service (Corporate)** sett — one scale-free proporti
 [BYWBYBWBRBY](/stripes/bywbybwbrby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ottawa Fire Service](/tartans/o/ot/ottawa-fire-service/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

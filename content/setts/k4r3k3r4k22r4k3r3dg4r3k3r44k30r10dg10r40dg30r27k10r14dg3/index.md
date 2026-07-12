@@ -6,6 +6,8 @@ This is the **Murray of Tullibardine - Artefact** sett — one scale-free propor
 [GRKRGRGRKRKRGRKRKRKRK](/stripes/grkrgrgrkrkrgrkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **1900**.
 
+Part of the [Murray of Tullibardine](/tartans/m/mu/murray-of-tullibardine-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacLellan Blue McLellan Clan Tartan** sett — one scale-free prop
 [GWGRBRBWBRBRKBWK](/stripes/gwgrbrbwbrbrkbwk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [MacLellan Blue McLellan](/tartans/m/ma/maclellan-blue-mclellan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

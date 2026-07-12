@@ -6,6 +6,8 @@ This is the **Gordon Regimental Tartan** sett — one scale-free proportion (`db
 [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/). It is recorded as a single **variant**, below.
 First attested **1793**.
 
+Part of the [Gordon 4](/tartans/g/go/gordon-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

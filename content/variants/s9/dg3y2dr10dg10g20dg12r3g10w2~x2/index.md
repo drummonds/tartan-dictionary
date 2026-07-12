@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patel"
+  url: "/tartans/p/pa/patel-2/"
 - name: "Patel (2013)"
   url: "/setts/dg3y2dr10dg10g20dg12r3g10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3y2dr10dg10g20dg12r3g10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGGGRGW](/stripes/ggbgggrgw/).
+
+Part of the [Patel](/tartans/p/pa/patel-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

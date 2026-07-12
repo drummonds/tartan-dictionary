@@ -6,7 +6,7 @@ This is the **Douglas VS** sett — one scale-free proportion (`k16n1k1n1k8n16k1
 [BKBKBKBK](/stripes/bkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Douglas VS](/tartans/douglas-vs/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas VS](/tartans/d/do/douglas-vs/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

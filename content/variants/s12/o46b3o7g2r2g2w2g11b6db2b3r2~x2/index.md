@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diana, hunting"
+  url: "/tartans/d/di/diana-hunting-2/"
 - name: "Diana, hunting Plaid"
   url: "/setts/o46b3o7g2r2g2w2g11b6db2b3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o46b3o7g2r2g2w2g11b6db2b3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBGWGRGRBR](/stripes/rbbbgwgrgrbr/).
+
+Part of the [Diana, hunting](/tartans/d/di/diana-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

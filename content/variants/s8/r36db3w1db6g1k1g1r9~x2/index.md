@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inverness"
-  url: "/tartans/inverness/"
+  url: "/tartans/i/in/inverness/"
 - name: "Inverness"
   url: "/setts/r36db3w1db6g1k1g1r9/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r36db3w1db6g1k1g1r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBGKGR](/stripes/rbwbgkgr/).
 
-Part of the [Inverness](/tartans/inverness/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inverness](/tartans/i/in/inverness/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

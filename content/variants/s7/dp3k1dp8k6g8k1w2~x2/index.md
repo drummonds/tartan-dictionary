@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Baillie"
+  url: "/clan/baillie/"
+- name: "Baillie"
+  url: "/tartans/b/ba/baillie-2/"
 - name: "Baillie (Highland Society)"
   url: "/setts/dp3k1dp8k6g8k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3k1dp8k6g8k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKW](/stripes/bkbkgkw/).
+
+Part of the [Baillie](/tartans/b/ba/baillie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Swan 2015, Brian E (Personal)** sett — one scale-free proportion
 [KBKBKWK](/stripes/kbkbkwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Swan 2015, Brian E](/tartans/s/sw/swan-2015-brian-e/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

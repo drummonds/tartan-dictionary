@@ -6,6 +6,8 @@ This is the **MacAuliffe/McAucliffe** sett — one scale-free proportion (`g38w2
 [BRBRBGWG](/stripes/brbrbgwg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [MacAuliffe/McAucliffe](/tartans/m/ma/macauliffe-mcaucliffe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

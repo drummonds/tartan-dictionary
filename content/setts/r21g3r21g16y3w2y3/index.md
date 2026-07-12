@@ -6,6 +6,8 @@ This is the **Claus of the North Pole (Restricted)** sett — one scale-free pro
 [GWGGRGR](/stripes/gwggrgr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Claus of the North Pole](/tartans/c/cl/claus-of-the-north-pole/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

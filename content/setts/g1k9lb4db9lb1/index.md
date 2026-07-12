@@ -6,7 +6,7 @@ This is the **Wallace Blue Dress Tartan** sett — one scale-free proportion (`g
 [GKWBW](/stripes/gkwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Wallace Blue Dress](/tartans/wallace-blue-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Wallace Blue Dress](/tartans/w/wa/wallace-blue-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

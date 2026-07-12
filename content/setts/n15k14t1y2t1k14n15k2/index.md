@@ -6,6 +6,8 @@ This is the **South African Air Force** sett — one scale-free proportion (`n15
 [BKBGBKBK](/stripes/bkbgbkbk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [South African Air Force](/tartans/s/so/south-african-air-force-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

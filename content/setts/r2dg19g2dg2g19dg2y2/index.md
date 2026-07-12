@@ -6,6 +6,8 @@ This is the **Hunting Kenmore** sett — one scale-free proportion (`r2dg19g2dg2
 [GGGGGGR](/stripes/ggggggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hunting Kenmore](/tartans/h/hu/hunting-kenmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

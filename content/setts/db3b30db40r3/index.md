@@ -6,6 +6,8 @@ This is the **Sanix Large Muted** sett — one scale-free proportion (`db3b30db4
 [BBBR](/stripes/bbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Sanix Large](/tartans/s/sa/sanix-large/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

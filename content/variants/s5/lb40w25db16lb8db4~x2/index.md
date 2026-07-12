@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Louise"
+  url: "/clan/louise/"
+- name: "Louise Beveridge"
+  url: "/tartans/l/lo/louise-beveridge/"
 - name: "Louise Beveridge (Personal)"
   url: "/setts/lb40w25db16lb8db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb40w25db16lb8db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWW](/stripes/bwbww/).
+
+Part of the [Louise Beveridge](/tartans/l/lo/louise-beveridge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Cathedral"
+  url: "/tartans/h/hi/highland-cathedral/"
+- name: "Highland Cathedral"
   url: "/setts/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBBBBBBBGBBBBBBBBBBBBG](/stripes/bgbbbbbbbbbbbbgbbbbbbbbbbbbg/).
+
+Part of the [Highland Cathedral](/tartans/h/hi/highland-cathedral/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

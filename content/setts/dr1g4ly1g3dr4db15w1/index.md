@@ -6,7 +6,7 @@ This is the **Bressuire (District)** sett — one scale-free proportion (`dr1g4l
 [BGYGBBW](/stripes/bgygbbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Bressuire](/tartans/bressuire/) tartan — the named design grouping this sett with its kin.
+Part of the [Bressuire](/tartans/b/br/bressuire/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

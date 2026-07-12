@@ -6,6 +6,8 @@ This is the **Baillieville Family Tartan** sett — one scale-free proportion (`
 [GKGKGBGBGKGK](/stripes/gkgkgbgbgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Baillieville](/tartans/b/ba/baillieville/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

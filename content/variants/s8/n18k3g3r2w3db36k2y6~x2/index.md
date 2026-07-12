@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "M'Kleod"
+  url: "/tartans/m/m/m-kleod/"
+- name: "M'Kleod"
   url: "/setts/n18k3g3r2w3db36k2y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n18k3g3r2w3db36k2y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRWBKG](/stripes/bkgrwbkg/).
+
+Part of the [M'Kleod](/tartans/m/m/m-kleod/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

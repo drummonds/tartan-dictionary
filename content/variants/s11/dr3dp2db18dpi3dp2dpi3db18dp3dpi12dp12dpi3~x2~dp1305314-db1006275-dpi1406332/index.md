@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Delight"
+  url: "/tartans/r/ro/royal-delight/"
+- name: "Royal Delight"
   url: "/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/).
+
+Part of the [Royal Delight](/tartans/r/ro/royal-delight/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

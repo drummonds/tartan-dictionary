@@ -6,6 +6,8 @@ This is the **Bodog.com** sett — one scale-free proportion (`r3k25r25k10lb3`),
 [RKRKW](/stripes/rkrkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Bodog.com](/tartans/b/bo/bodog-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

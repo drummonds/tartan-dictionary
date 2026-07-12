@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Texas Lone Star"
-  url: "/tartans/texas-lone-star/"
+  url: "/tartans/t/te/texas-lone-star/"
 - name: "Texas Lone Star"
   url: "/setts/r50db14w6db9y3db4r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r50db14w6db9y3db4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBWBR](/stripes/rbgbwbr/).
 
-Part of the [Texas Lone Star](/tartans/texas-lone-star/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Texas Lone Star](/tartans/t/te/texas-lone-star/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **International Police Association (IPA 2010)** sett — one scale-f
 [BRBWBWG](/stripes/brbwbwg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [International Police Association](/tartans/i/in/international-police-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

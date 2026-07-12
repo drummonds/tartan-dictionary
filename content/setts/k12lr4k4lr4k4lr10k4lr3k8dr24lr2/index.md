@@ -6,6 +6,8 @@ This is the **Wcwm 9285 4906-1** sett — one scale-free proportion (`k12lr4k4lr
 [KYKYKYKYKBY](/stripes/kykykykykby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 9285 4906-1](/tartans/w/wc/wcwm-9285-4906-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

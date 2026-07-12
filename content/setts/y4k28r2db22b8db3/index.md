@@ -6,6 +6,8 @@ This is the **Loch Long One Design** sett — one scale-free proportion (`y4k28r
 [BBBRKG](/stripes/bbbrkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Loch Long One Design](/tartans/l/lo/loch-long-one-design/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

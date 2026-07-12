@@ -6,6 +6,8 @@ This is the **Meaux (Personal)** sett — one scale-free proportion (`db62dr24ly
 [BBYG](/stripes/bbyg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Meaux](/tartans/m/me/meaux/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

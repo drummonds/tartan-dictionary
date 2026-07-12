@@ -6,6 +6,8 @@ This is the **Royal Scottish Pipe Band Association** sett — one scale-free pro
 [BKWRGRKRGRKG](/stripes/bkwrgrkrgrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal Scottish Pipe Band Association](/tartans/r/ro/royal-scottish-pipe-band-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

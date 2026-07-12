@@ -6,7 +6,7 @@ This is the **Confederate Artillery (Military)** sett — one scale-free proport
 [GYGYGR](/stripes/gygygr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Confederate Artillery](/tartans/confederate-artillery/) tartan — the named design grouping this sett with its kin.
+Part of the [Confederate Artillery](/tartans/c/co/confederate-artillery/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

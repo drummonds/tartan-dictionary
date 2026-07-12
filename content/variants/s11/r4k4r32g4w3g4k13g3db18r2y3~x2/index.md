@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Norwell"
+  url: "/tartans/n/no/norwell/"
+- name: "Norwell"
   url: "/setts/r4k4r32g4w3g4k13g3db18r2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k4r32g4w3g4k13g3db18r2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGKGWGRKR](/stripes/grbgkgwgrkr/).
+
+Part of the [Norwell](/tartans/n/no/norwell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

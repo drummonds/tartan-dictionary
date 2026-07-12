@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gravesend Grammar School"
+  url: "/tartans/g/gr/gravesend-grammar-school/"
 - name: "Gravesend Grammar School (Corp)"
   url: "/setts/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/).
+
+Part of the [Gravesend Grammar School](/tartans/g/gr/gravesend-grammar-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

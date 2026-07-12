@@ -6,6 +6,8 @@ This is the **MacQuarrie Clan Tartan** sett — one scale-free proportion (`r16d
 [GRGRGR](/stripes/grgrgr/). It is recorded as a single **variant**, below.
 First attested **1886**.
 
+Part of the [MacQuarrie 7](/tartans/m/ma/macquarrie-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grass of Rasunda"
+  url: "/tartans/g/gr/grass-of-rasunda/"
 - name: "Grass of Rasunda (2009), The"
   url: "/setts/k14dg7k2g8k4y2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14dg7k2g8k4y2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGK](/stripes/kgkgkgk/).
+
+Part of the [Grass of Rasunda](/tartans/g/gr/grass-of-rasunda/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

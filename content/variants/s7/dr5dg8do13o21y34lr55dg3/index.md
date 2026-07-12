@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canadian Shield"
+  url: "/tartans/c/ca/canadian-shield/"
 - name: "Canadian Shield (Personal)"
   url: "/setts/dr5dg8do13o21y34lr55dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5dg8do13o21y34lr55dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRGYG](/stripes/bgbrgyg/).
+
+Part of the [Canadian Shield](/tartans/c/ca/canadian-shield/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

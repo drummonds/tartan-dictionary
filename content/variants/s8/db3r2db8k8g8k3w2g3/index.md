@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Davidson"
   url: "/clan/davidson/"
 - name: "Davidson Double"
-  url: "/tartans/davidson-double/"
+  url: "/tartans/d/da/davidson-double/"
 - name: "Davidson Double"
   url: "/setts/db3r2db8k8g8k3w2g3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3r2db8k8g8k3w2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGKWG](/stripes/brbkgkwg/).
 
-Part of the [Davidson Double](/tartans/davidson-double/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Davidson Double](/tartans/d/da/davidson-double/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

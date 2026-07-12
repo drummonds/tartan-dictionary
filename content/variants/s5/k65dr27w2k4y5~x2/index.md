@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Perry Dress"
+  url: "/tartans/p/pe/perry-dress/"
 - name: "Perry Dress (Personal)"
   url: "/setts/k65dr27w2k4y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k65dr27w2k4y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWBK](/stripes/gkwbk/).
+
+Part of the [Perry Dress](/tartans/p/pe/perry-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

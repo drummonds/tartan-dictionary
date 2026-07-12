@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hinnigan"
+  url: "/tartans/h/hi/hinnigan-2/"
 - name: "Hinnigan (Personal)"
   url: "/setts/y8g4db16g4k14y14db4t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y8g4db16g4k14y14db4t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKGBGG](/stripes/bbgkgbgg/).
+
+Part of the [Hinnigan](/tartans/h/hi/hinnigan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

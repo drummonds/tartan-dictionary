@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "StammBar"
-  url: "/tartans/stammbar/"
+  url: "/tartans/s/st/stammbar/"
 - name: "StammBar"
   url: "/setts/w4t8w4lg8w2lg2w4t42r1ly2r1t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4t8w4lg8w2lg2w4t42r1ly2r1t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRYRBWYWYWBW](/stripes/bryrbwywywbw/).
 
-Part of the [StammBar](/tartans/stammbar/) tartan — the named design grouping this sett with its other cloths.
+Part of the [StammBar](/tartans/s/st/stammbar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

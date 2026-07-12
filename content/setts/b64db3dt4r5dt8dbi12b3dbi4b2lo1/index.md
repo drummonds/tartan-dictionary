@@ -6,6 +6,8 @@ This is the **Bank of Scotland (2000)** sett — one scale-free proportion (`b64
 [BBBRBBBBBY](/stripes/bbbrbbbbby/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bank of Scotland](/tartans/b/ba/bank-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

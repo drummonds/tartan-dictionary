@@ -6,7 +6,7 @@ This is the **MacGillivray Htg (Clan)** sett — one scale-free proportion (`g8o
 [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **~1970**.
 
-Part of the [MacGillivray Hunting](/tartans/macgillivray-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGillivray Hunting](/tartans/m/ma/macgillivray-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

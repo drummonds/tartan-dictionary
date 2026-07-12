@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Haddrell"
-  url: "/tartans/haddrell/"
+  url: "/tartans/h/ha/haddrell/"
 - name: "Haddrell (2013)"
   url: "/setts/r2db4lb18n2lb2n41w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db4lb18n2lb2n41w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBWBW](/stripes/rbwbwbw/).
 
-Part of the [Haddrell](/tartans/haddrell/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Haddrell](/tartans/h/ha/haddrell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

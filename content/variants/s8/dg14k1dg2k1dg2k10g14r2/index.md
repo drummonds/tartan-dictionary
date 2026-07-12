@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manor"
+  url: "/tartans/m/ma/manor/"
 - name: "Manor (Corporate)"
   url: "/setts/dg14k1dg2k1dg2k10g14r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg14k1dg2k1dg2k10g14r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGR](/stripes/gkgkgkgr/).
+
+Part of the [Manor](/tartans/m/ma/manor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

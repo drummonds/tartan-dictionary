@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glencross"
+  url: "/tartans/g/gl/glencross-5/"
 - name: "Glencross (Kirkbampton) (Personal)"
   url: "/setts/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGBGBGW](/stripes/ggbgbgbgbgbgw/).
+
+Part of the [Glencross](/tartans/g/gl/glencross-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

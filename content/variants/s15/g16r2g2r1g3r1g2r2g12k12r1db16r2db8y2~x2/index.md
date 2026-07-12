@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Cochrane"
   url: "/clan/cochrane/"
 - name: "Cochrane"
-  url: "/tartans/cochrane/"
+  url: "/tartans/c/co/cochrane/"
 - name: "Cochrane"
   url: "/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRKGRGRGRGRG](/stripes/gbrbrkgrgrgrgrg/).
 
-Part of the [Cochrane](/tartans/cochrane/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cochrane](/tartans/c/co/cochrane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

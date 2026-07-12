@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria Highland Dress"
+  url: "/tartans/v/vi/victoria-highland-dress-3/"
 - name: "Victoria Highland Dress Artifact Tartan"
   url: "/setts/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKGKWKGRGRWRGRGKWKGKWBW](/stripes/rwbwkgkwkgrgrwrgrgkwkgkwbw/).
+
+Part of the [Victoria Highland Dress](/tartans/v/vi/victoria-highland-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 

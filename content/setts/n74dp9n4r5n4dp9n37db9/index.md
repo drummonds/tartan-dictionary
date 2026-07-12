@@ -6,6 +6,8 @@ This is the **Rikaco Vintage** sett — one scale-free proportion (`n74dp9n4r5n4
 [BBBBRBBB](/stripes/bbbbrbbb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Rikaco Vintage](/tartans/r/ri/rikaco-vintage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

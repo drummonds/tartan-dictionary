@@ -6,6 +6,8 @@ This is the **Caledonian Dragon (Corporate)** sett — one scale-free proportion
 [GBKBKBKBKRK](/stripes/gbkbkbkbkrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Caledonian Dragon](/tartans/c/ca/caledonian-dragon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fueglistal (Aargau) (Personal)** sett — one scale-free proportio
 [BRBRBRBGK](/stripes/brbrbrbgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Fueglistal](/tartans/f/fu/fueglistal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

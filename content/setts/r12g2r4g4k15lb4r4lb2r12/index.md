@@ -6,7 +6,7 @@ This is the **Alexander (Personal)** sett — one scale-free proportion (`r12g2r
 [RGRGKWRWR](/stripes/rgrgkwrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Alexander](/tartans/alexander-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Alexander](/tartans/a/al/alexander-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

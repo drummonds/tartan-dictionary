@@ -7,6 +7,8 @@ This is the **All Ireland Red** sett — one scale-free proportion (`r6y2db2r30d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
+Part of the [All Ireland](/tartans/a/al/all-ireland-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

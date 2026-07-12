@@ -6,6 +6,8 @@ This is the **Wyeth (Personal)** sett — one scale-free proportion (`db18r18dp2
 [BRBGBGBR](/stripes/brbgbgbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Wyeth](/tartans/w/wy/wyeth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

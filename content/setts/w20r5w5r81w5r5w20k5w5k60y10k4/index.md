@@ -6,6 +6,8 @@ This is the **Fish Hoek High School** sett — one scale-free proportion (`w20r5
 [KGKWKWRWRWRW](/stripes/kgkwkwrwrwrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Fish Hoek High School](/tartans/f/fi/fish-hoek-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

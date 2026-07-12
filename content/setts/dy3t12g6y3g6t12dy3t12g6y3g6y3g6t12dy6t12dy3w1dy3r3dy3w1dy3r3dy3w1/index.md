@@ -6,6 +6,8 @@ This is the **Sprouston** sett — one scale-free proportion (`dy3t12g6y3g6t12dy
 [GBGGGBGBGGGGGBGBGWGRGWGRGW](/stripes/gbgggbgbgggggbgbgwgrgwgrgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Sprouston](/tartans/s/sp/sprouston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

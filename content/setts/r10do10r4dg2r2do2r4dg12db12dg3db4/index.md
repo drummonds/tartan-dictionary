@@ -6,6 +6,8 @@ This is the **Hueg (Munich) Hunting (Personal)** sett — one scale-free proport
 [BGBGRBRGRBR](/stripes/bgbgrbrgrbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hueg Hunting](/tartans/h/hu/hueg-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

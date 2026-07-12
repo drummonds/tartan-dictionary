@@ -6,6 +6,8 @@ This is the **Hawaiian** sett — one scale-free proportion (`lb4r1y1lb12do4dg10
 [RGWBGGRGGBWGRW](/stripes/rgwbggrggbwgrw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Hawaii](/tartans/h/ha/hawaii/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

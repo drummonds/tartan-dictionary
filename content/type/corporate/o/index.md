@@ -51,8 +51,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><img src="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/sett.png" alt="Orvis Sports Company" width="140"><br>Orvis Sports Company</a></li>
 <li><a class="tartan" href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><img src="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/sett.png" alt="Orvis Sports Company (Corporate)" width="140"><br>Orvis Sports Company (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><img src="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/sett.png" alt="Ottawa Fire Service (Corporate)" width="140"><br>Ottawa Fire Service (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="Outlander #1" width="140"><br>Outlander #1</a></li>
 <li><a class="tartan" href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/"><img src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="Outlander #1" width="140"><br>Outlander #1</a></li>
+<li><a class="tartan" href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="Outlander #1" width="140"><br>Outlander #1</a></li>
 <li><a class="tartan" href="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y2400000-lt3304230/"><img src="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y2400000-lt3304230/sett.png" alt="Outlander #2" width="140"><br>Outlander #2</a></li>
 <li><a class="tartan" href="/variants/s9/o7n6lb1ly6n1ly6n6lb1o6~x8~o2500000-n1900000/"><img src="/variants/s9/o7n6lb1ly6n1ly6n6lb1o6~x8~o2500000-n1900000/sett.png" alt="Outlander #2" width="140"><br>Outlander #2</a></li>
 <li><a class="tartan" href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander #3" width="140"><br>Outlander #3</a></li>

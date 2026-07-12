@@ -6,6 +6,8 @@ This is the **Matheson Dress** sett — one scale-free proportion (`g8r4g1r1g1r2
 [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Matheson Dress](/tartans/m/ma/matheson-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

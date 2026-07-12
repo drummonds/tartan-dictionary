@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Newlands"
+  url: "/clan/newlands/"
+- name: "Newlands"
+  url: "/tartans/n/ne/newlands/"
 - name: "Newlands Family Tartan"
   url: "/setts/db9k9db9r2k18g12r2g4r2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k9db9r2k18g12r2g4r2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/).
+
+Part of the [Newlands](/tartans/n/ne/newlands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

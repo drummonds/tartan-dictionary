@@ -6,6 +6,8 @@ This is the **Polaris (Military)** sett — one scale-free proportion (`k17g6ly1
 [KGYKBKYGK](/stripes/kgykbkygk/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
+Part of the [Polaris](/tartans/p/po/polaris-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

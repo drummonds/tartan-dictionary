@@ -6,7 +6,7 @@ This is the **Catalan (92 Olympics)** sett — one scale-free proportion (`ly44d
 [WYGYBYBYBYBYBY](/stripes/wygybybybybyby/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Catalan](/tartans/catalan/) tartan — the named design grouping this sett with its kin.
+Part of the [Catalan](/tartans/c/ca/catalan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

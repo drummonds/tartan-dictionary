@@ -6,6 +6,8 @@ This is the **Weiss-Halliwell (Personal)** sett — one scale-free proportion (`
 [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbkbkbkbbkbgkbkbkbkgkbkbkgkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Weiss-Halliwell](/tartans/w/we/weiss-halliwell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

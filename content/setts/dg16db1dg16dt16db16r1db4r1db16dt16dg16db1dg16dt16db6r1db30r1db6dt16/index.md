@@ -6,6 +6,8 @@ This is the **Woolmark Plaid, The** sett — one scale-free proportion (`dg16db1
 [BBRBRBBGBGBBRBRBBGBG](/stripes/bbrbrbbgbgbbrbrbbgbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Woolmark Plaid, The](/tartans/w/wo/woolmark-plaid-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

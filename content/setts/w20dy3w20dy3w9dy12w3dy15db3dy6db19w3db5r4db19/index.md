@@ -6,6 +6,8 @@ This is the **Black and White Colourway** sett — one scale-free proportion (`w
 [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Black and White Colourway](/tartans/b/bl/black-and-white-colourway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

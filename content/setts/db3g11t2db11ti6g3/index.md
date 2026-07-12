@@ -6,6 +6,8 @@ This is the **Unidentified No 29** sett — one scale-free proportion (`db3g11t2
 [BGBBBG](/stripes/bgbbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 29](/tartans/u/un/unidentified-no-29/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **BlackRock (Symmetrical)** sett — one scale-free proportion (`k10
 [GWBKGKGK](/stripes/gwbkgkgk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [BlackRock](/tartans/b/bl/blackrock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

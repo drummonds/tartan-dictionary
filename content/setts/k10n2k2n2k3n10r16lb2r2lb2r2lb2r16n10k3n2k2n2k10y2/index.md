@@ -6,6 +6,8 @@ This is the **Dryburgh Clan Tartan** sett — one scale-free proportion (`k10n2k
 [GKBKBKBRWRWRWRBKBKBK](/stripes/gkbkbkbrwrwrwrbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Dryburgh](/tartans/d/dr/dryburgh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

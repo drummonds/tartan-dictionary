@@ -6,6 +6,8 @@ This is the **Monarch of Argyll (Corporate)** sett — one scale-free proportion
 [RBRBKBKBKRKR](/stripes/rbrbkbkbkrkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Monarch of Argyll](/tartans/m/mo/monarch-of-argyll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

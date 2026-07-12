@@ -6,6 +6,8 @@ This is the **Selkirk High School** sett — one scale-free proportion (`o18k18y
 [RKGRBRGRBRGRBRGKRW](/stripes/rkgrbrgrbrgrbrgkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Selkirk High School](/tartans/s/se/selkirk-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Malawi** sett — one scale-free proportion (`r16k4r2k4r2k8r8g8k1d
 [RKRKRKRGKBW](/stripes/rkrkrkrgkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Malawi](/tartans/m/ma/malawi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

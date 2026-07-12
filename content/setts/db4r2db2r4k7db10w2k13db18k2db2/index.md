@@ -6,6 +6,8 @@ This is the **Ibrox** sett — one scale-free proportion (`db4r2db2r4k7db10w2k13
 [BKBKWBKRBRB](/stripes/bkbkwbkrbrb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Ibrox](/tartans/i/ib/ibrox/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

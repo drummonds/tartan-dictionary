@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Austin College Page"
+  url: "/tartans/a/au/austin-college-page/"
+- name: "Austin College Page"
   url: "/setts/r3y2r2y3r3y7r3k7r14y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3y2r2y3r3y7r3k7r14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRGRGR](/stripes/grkrgrgrgr/).
+
+Part of the [Austin College Page](/tartans/a/au/austin-college-page/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

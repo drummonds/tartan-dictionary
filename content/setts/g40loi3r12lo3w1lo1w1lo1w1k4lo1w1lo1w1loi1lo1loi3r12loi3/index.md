@@ -6,6 +6,8 @@ This is the **Tenon Tours** sett — one scale-free proportion (`g40loi3r12lo3w1
 [GYRYWYWYWKYWYWYYYRY](/stripes/gyrywywywkywywyyyry/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Tenon Tours](/tartans/t/te/tenon-tours-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

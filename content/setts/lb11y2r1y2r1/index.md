@@ -6,6 +6,8 @@ This is the **Carlisle, Ancient** sett — one scale-free proportion (`lb11y2r1y
 [RGRGW](/stripes/rgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Carlisle](/tartans/c/ca/carlisle-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

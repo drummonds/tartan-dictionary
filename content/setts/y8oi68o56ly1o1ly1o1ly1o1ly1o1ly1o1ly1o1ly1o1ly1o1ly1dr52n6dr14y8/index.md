@@ -6,6 +6,8 @@ This is the **Lehbrink No. 1 (Fashion)** sett — one scale-free proportion (`y8
 [GBBBYRYRYRYRYRYRYRYRYRRG](/stripes/gbbbyryryryryryryryryrrg/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Lehbrink No. 1](/tartans/l/le/lehbrink-no-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

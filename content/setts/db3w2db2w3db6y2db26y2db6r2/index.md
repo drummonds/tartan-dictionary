@@ -6,6 +6,8 @@ This is the **Dundee Football Club** sett — one scale-free proportion (`db3w2d
 [BWBWBGBGBR](/stripes/bwbwbgbgbr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Dundee Football Club](/tartans/d/du/dundee-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

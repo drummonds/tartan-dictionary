@@ -6,6 +6,8 @@ This is the **Stand International** sett — one scale-free proportion (`lb6r1lb
 [WBWWBGWGWRW](/stripes/wbwwbgwgwrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Stand International](/tartans/s/st/stand-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

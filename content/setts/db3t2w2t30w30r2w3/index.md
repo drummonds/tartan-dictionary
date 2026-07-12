@@ -6,6 +6,8 @@ This is the **Torridon, Royal Blue (Dance)** sett — one scale-free proportion 
 [BBWBWRW](/stripes/bbwbwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Torridon Royal](/tartans/t/to/torridon-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

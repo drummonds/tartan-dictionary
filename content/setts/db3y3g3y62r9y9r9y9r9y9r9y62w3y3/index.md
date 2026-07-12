@@ -6,7 +6,7 @@ This is the **Catalan District Tartan** sett — one scale-free proportion (`db3
 [BGGGRGRGRGRGWG](/stripes/bgggrgrgrgrgwg/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [Catalan](/tartans/catalan/) tartan — the named design grouping this sett with its kin.
+Part of the [Catalan](/tartans/c/ca/catalan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

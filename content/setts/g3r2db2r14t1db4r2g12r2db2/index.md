@@ -6,7 +6,7 @@ This is the **MacKillop (Clan)** sett — one scale-free proportion (`g3r2db2r14
 [BRGRBBRBRG](/stripes/brgrbbrbrg/). It is recorded as a single **variant**, below.
 First attested **~1952**.
 
-Part of the [MacKillop](/tartans/mackillop-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKillop](/tartans/m/ma/mackillop-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

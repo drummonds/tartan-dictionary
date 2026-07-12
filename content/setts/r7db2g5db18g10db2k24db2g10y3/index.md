@@ -6,6 +6,8 @@ This is the **Offally** sett — one scale-free proportion (`r7db2g5db18g10db2k2
 [GGBKBGBGBR](/stripes/ggbkbgbgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Offally](/tartans/o/of/offally/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

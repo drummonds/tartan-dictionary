@@ -6,6 +6,8 @@ This is the **Equity Vision Ltd** sett — one scale-free proportion (`n12k8db15
 [BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Equity Vision Ltd](/tartans/e/eq/equity-vision-ltd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

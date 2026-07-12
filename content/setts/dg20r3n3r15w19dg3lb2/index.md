@@ -6,6 +6,8 @@ This is the **Glasgow** sett — one scale-free proportion (`dg20r3n3r15w19dg3lb
 [GRBRWGW](/stripes/grbrwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glasgow](/tartans/g/gl/glasgow-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

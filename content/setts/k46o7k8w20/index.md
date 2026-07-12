@@ -6,7 +6,7 @@ This is the **Lords, of Skye** sett — one scale-free proportion (`k46o7k8w20`)
 [KRKW](/stripes/krkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Lords of Skye](/tartans/lords-of-skye/) tartan — the named design grouping this sett with its kin.
+Part of the [Lords of Skye](/tartans/l/lo/lords-of-skye/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

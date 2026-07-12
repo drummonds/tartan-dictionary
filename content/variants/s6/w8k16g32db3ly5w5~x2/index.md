@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mellor"
+  url: "/tartans/m/me/mellor/"
 - name: "Mellor (Name)"
   url: "/setts/w8k16g32db3ly5w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8k16g32db3ly5w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGBYW](/stripes/wkgbyw/).
+
+Part of the [Mellor](/tartans/m/me/mellor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

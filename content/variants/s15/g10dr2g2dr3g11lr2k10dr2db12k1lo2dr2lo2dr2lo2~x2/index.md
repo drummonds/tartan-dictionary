@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Esteba-Quer"
-  url: "/tartans/esteba-quer/"
+  url: "/tartans/e/es/esteba-quer/"
 - name: "Esteba-Quer (Personal)"
   url: "/setts/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGYKBBKYBYBY](/stripes/gbgbgykbbkybyby/).
 
-Part of the [Esteba-Quer](/tartans/esteba-quer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Esteba-Quer](/tartans/e/es/esteba-quer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

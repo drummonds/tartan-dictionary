@@ -6,7 +6,7 @@ This is the **Virginia Quadricentennial (District)** sett — one scale-free pro
 [WBWBWKWKWYWYW](/stripes/wbwbwkwkwywyw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Virginia Quadricentennial](/tartans/virginia-quadricentennial/) tartan — the named design grouping this sett with its kin.
+Part of the [Virginia Quadricentennial](/tartans/v/vi/virginia-quadricentennial/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Traill Clan/Family Weavers Tartan** sett — one scale-free propor
 [BGGGBKG](/stripes/bgggbkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Traill Clan/Family Weavers](/tartans/t/tr/traill-clan-family-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

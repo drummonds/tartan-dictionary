@@ -6,6 +6,8 @@ This is the **McKirgan (Name)** sett — one scale-free proportion (`r2w1g18k12g
 [GKWRWKGKGWR](/stripes/gkwrwkgkgwr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [McKirgan](/tartans/m/mc/mckirgan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

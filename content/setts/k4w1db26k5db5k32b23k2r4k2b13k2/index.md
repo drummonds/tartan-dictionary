@@ -6,6 +6,8 @@ This is the **Naomia Melvina Young Wedding Dress** sett — one scale-free propo
 [KBKRKBKBKBWK](/stripes/kbkrkbkbkbwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Naomia Melvina Young Wedding Dress](/tartans/n/na/naomia-melvina-young-wedding-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

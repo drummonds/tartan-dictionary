@@ -6,6 +6,8 @@ This is the **Cornish Hunting** sett — one scale-free proportion (`k26ly2g24db
 [KYGBKRKBGYKW](/stripes/kygbkrkbgykw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Cornish Hunting](/tartans/c/co/cornish-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

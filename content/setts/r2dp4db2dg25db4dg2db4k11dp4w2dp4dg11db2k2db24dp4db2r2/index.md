@@ -6,6 +6,8 @@ This is the **Empire Golf Check (Fashion)** sett — one scale-free proportion (
 [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Empire Golf Check](/tartans/e/em/empire-golf-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

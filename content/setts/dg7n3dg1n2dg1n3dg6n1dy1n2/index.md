@@ -6,6 +6,8 @@ This is the **Twisted Kilt Society** sett — one scale-free proportion (`dg7n3d
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Twisted Kilt Society](/tartans/t/tw/twisted-kilt-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

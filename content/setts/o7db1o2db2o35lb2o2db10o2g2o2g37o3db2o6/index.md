@@ -6,7 +6,7 @@ This is the **Drummond of Megginch - 2023 BertieLexa** sett — one scale-free p
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
-Part of the [Drummond of Megginch](/tartans/drummond-of-megginch/) tartan — the named design grouping this sett with its kin.
+Part of the [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Methodist Church"
+  url: "/tartans/m/me/methodist-church/"
+- name: "Methodist Church"
   url: "/setts/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBBKGBYB](/stripes/bgbgkbbkgbyb/).
+
+Part of the [Methodist Church](/tartans/m/me/methodist-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

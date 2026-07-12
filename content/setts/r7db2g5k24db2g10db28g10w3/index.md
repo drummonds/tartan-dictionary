@@ -6,6 +6,8 @@ This is the **Colgan (Personal)** sett — one scale-free proportion (`r7db2g5k2
 [RBGKBGBGW](/stripes/rbgkbgbgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Colgan](/tartans/c/co/colgan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

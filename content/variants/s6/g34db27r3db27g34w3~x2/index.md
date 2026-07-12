@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "London Regiment"
-  url: "/tartans/london-regiment/"
+  url: "/tartans/l/lo/london-regiment/"
 - name: "London Regiment (Military)"
   url: "/setts/g34db27r3db27g34w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g34db27r3db27g34w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGW](/stripes/gbrbgw/).
 
-Part of the [London Regiment](/tartans/london-regiment/) tartan — the named design grouping this sett with its other cloths.
+Part of the [London Regiment](/tartans/l/lo/london-regiment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

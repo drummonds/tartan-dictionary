@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dignan Corporate School"
+  url: "/tartans/d/di/dignan-corporate-school/"
 - name: "Dignan School of Dancing"
   url: "/setts/lo4dr2t32k10dp4lb21dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo4dr2t32k10dp4lb21dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBBY](/stripes/bwbkbby/).
+
+Part of the [Dignan Corporate School](/tartans/d/di/dignan-corporate-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Glenshee Trade Tartan** sett — one scale-free proportion (`r12w1
 [BWRWR](/stripes/bwrwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Glenshee](/tartans/g/gl/glenshee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

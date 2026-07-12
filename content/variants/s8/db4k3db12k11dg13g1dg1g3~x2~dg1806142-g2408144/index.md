@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bedford High School"
+  url: "/tartans/b/be/bedford-high-school/"
+- name: "Bedford High School"
   url: "/setts/db4k3db12k11dg13g1dg1g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k3db12k11dg13g1dg1g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGGG](/stripes/bkbkgggg/).
+
+Part of the [Bedford High School](/tartans/b/be/bedford-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

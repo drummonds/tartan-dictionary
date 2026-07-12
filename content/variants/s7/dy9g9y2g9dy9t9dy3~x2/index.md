@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
+- name: "MacKay"
+  url: "/tartans/m/ma/mackay-2/"
 - name: "MacKay - 1800 (Reay Coat) (Artefact)"
   url: "/setts/dy9g9y2g9dy9t9dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy9g9y2g9dy9t9dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGGG](/stripes/gbggggg/).
+
+Part of the [MacKay](/tartans/m/ma/mackay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

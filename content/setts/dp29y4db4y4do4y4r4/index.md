@@ -6,6 +6,8 @@ This is the **Marino** sett — one scale-free proportion (`dp29y4db4y4do4y4r4`)
 [BGBGBGR](/stripes/bgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Marino](/tartans/m/ma/marino/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

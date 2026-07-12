@@ -6,6 +6,8 @@ This is the **Lanarkshire** sett — one scale-free proportion (`dg31y4dg6k19db1
 [GGGKBW](/stripes/gggkbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Lanark](/tartans/l/la/lanark-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

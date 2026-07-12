@@ -6,6 +6,8 @@ This is the **Forster (Personal)** sett — one scale-free proportion (`r1dg20ri
 [RGRGGGGGGYGYGY](/stripes/rgrggggggygygy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Forster](/tartans/f/fo/forster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

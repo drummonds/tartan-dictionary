@@ -6,6 +6,8 @@ This is the **Tiger of Sweden** sett — one scale-free proportion (`db3g1k1db2n
 [BGKBBBKGKBBBKG](/stripes/bgkbbbkgkbbbkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Tiger of Sweden](/tartans/t/ti/tiger-of-sweden-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

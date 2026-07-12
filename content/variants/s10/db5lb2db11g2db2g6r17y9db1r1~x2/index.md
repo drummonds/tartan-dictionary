@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clarks No.1"
+  url: "/tartans/c/cl/clarks-no-1-2/"
+- name: "Clarks No.1"
   url: "/setts/db5lb2db11g2db2g6r17y9db1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5lb2db11g2db2g6r17y9db1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGRGBR](/stripes/bwbgbgrgbr/).
+
+Part of the [Clarks No.1](/tartans/c/cl/clarks-no-1-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

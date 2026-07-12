@@ -18,5 +18,5 @@ A family of [Clan MacDonald](/clan/macdonald/).
 </tbody>
 </table>
 
-[See the MacDonald of Lochmaddy tartan and all its setts →](/tartans/macdonald-of-lochmaddy/)
+[See the MacDonald of Lochmaddy tartan and all its setts →](/tartans/m/ma/macdonald-of-lochmaddy/)
 

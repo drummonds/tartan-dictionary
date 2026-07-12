@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Womens Rural Institute (Cor"
+  url: "/tartans/s/sc/scottish-womens-rural-institute-cor/"
+- name: "Scottish Womens Rural Institute (Cor"
   url: "/setts/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWBYBKGWGY](/stripes/gkbwbybkgwgy/).
+
+Part of the [Scottish Womens Rural Institute (Cor](/tartans/s/sc/scottish-womens-rural-institute-cor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

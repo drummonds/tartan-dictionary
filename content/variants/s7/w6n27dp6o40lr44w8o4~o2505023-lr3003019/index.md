@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Susan G Komen"
+  url: "/tartans/s/su/susan-g-komen/"
 - name: "Susan G Komen 06"
   url: "/setts/w6n27dp6o40lr44w8o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6n27dp6o40lr44w8o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYRBBW](/stripes/rwyrbbw/).
+
+Part of the [Susan G Komen](/tartans/s/su/susan-g-komen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

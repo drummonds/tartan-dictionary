@@ -6,7 +6,7 @@ This is the **Kinfauns Castle** sett — one scale-free proportion (`r4dp12dg2dp
 [RBGBGW](/stripes/rbgbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Kinfauns Castle](/tartans/kinfauns-castle/) tartan — the named design grouping this sett with its kin.
+Part of the [Kinfauns Castle](/tartans/k/ki/kinfauns-castle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

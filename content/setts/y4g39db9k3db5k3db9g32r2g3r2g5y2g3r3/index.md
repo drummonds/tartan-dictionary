@@ -6,6 +6,8 @@ This is the **Holmes** sett — one scale-free proportion (`y4g39db9k3db5k3db9g3
 [GGGRGRGBKBKBGGGBKBKBGRGRGGGR](/stripes/gggrgrgbkbkbgggbkbkbgrgrgggr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Holmes](/tartans/h/ho/holmes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

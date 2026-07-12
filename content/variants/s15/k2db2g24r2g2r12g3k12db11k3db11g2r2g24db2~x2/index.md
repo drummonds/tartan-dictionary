@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacInroy Hunting"
+  url: "/tartans/m/ma/macinroy-hunting/"
+- name: "MacInroy Hunting"
   url: "/setts/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBKBKGRGRGBK](/stripes/bgrgbkbkgrgrgbk/).
+
+Part of the [MacInroy Hunting](/tartans/m/ma/macinroy-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

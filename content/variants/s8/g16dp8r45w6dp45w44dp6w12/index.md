@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden Red Dress"
+  url: "/tartans/c/cu/culloden-red-dress/"
 - name: "Culloden Red Dress (Dance)"
   url: "/setts/g16dp8r45w6dp45w44dp6w12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16dp8r45w6dp45w44dp6w12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRBGBRWBWBW](/stripes/bwbwrbgbrwbwbw/).
+
+Part of the [Culloden Red Dress](/tartans/c/cu/culloden-red-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **McMoosie** sett — one scale-free proportion (`g81r10y20`), colou
 [GRG](/stripes/grg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [McMoosie](/tartans/m/mc/mcmoosie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

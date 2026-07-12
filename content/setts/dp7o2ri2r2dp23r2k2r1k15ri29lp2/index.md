@@ -6,6 +6,8 @@ This is the **MacHatters of the Old Pueblo** sett — one scale-free proportion 
 [BRRRBRKRKRW](/stripes/brrrbrkrkrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacHatters of the Old Pueblo](/tartans/m/ma/machatters-of-the-old-pueblo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

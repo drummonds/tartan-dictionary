@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C20th"
+  url: "/tartans/u/un/unnamed-c20th/"
 - name: "Unnamed C20th - Unregistered Error"
   url: "/setts/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/).
+
+Part of the [Unnamed C20th](/tartans/u/un/unnamed-c20th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

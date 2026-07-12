@@ -6,6 +6,8 @@ This is the **Shadow Halls** sett — one scale-free proportion (`k1db8k7n8y1n4k
 [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Shadow Halls](/tartans/s/sh/shadow-halls/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Rugby Union (City of Nagasaki)** sett — one scale-free 
 [GKGKBRBRBKW](/stripes/gkgkbrbrbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Reidy Wedding"
+  url: "/tartans/r/re/reidy-wedding/"
+- name: "Reidy Wedding"
   url: "/setts/g31dg7y3dg14g8db18dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g31dg7y3dg14g8db18dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGGGG](/stripes/bbggggg/).
+
+Part of the [Reidy Wedding](/tartans/r/re/reidy-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

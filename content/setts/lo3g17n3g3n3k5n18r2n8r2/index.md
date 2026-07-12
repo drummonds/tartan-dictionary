@@ -6,6 +6,8 @@ This is the **Donegal Irish County Tartan** sett — one scale-free proportion (
 [RBRBKBGBGY](/stripes/rbrbkbgbgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Donegal Irish County](/tartans/d/do/donegal-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

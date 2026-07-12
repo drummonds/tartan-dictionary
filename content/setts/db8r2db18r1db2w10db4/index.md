@@ -6,6 +6,8 @@ This is the **Nike ACG Lunarstorm (Fashion)** sett — one scale-free proportion
 [BRBRBWB](/stripes/brbrbwb/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Nike ACG Lunarstorm](/tartans/n/ni/nike-acg-lunarstorm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Isle of Raasay** sett — one scale-free proportion (`dg60ly16dp8d
 [GBBYG](/stripes/gbbyg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Isle of Raasay](/tartans/i/is/isle-of-raasay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

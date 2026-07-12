@@ -6,6 +6,8 @@ This is the **Bird Family (Wales) (Personal)** sett — one scale-free proportio
 [KGWGKWBYKY](/stripes/kgwgkwbyky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bird](/tartans/b/bi/bird-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

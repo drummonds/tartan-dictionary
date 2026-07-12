@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Clercq, Christian"
+  url: "/tartans/d/de/de-clercq-christian/"
 - name: "De Clercq, Christian (Belgium)"
   url: "/setts/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWRWBRWBYBYW](/stripes/wbwrwbrwbybyw/).
+
+Part of the [De Clercq, Christian](/tartans/d/de/de-clercq-christian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

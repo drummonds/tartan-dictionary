@@ -6,6 +6,8 @@ This is the **Dobson Name Tartan** sett — one scale-free proportion (`dg36y3do
 [GGBBKK](/stripes/ggbbkk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dobson](/tartans/d/do/dobson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

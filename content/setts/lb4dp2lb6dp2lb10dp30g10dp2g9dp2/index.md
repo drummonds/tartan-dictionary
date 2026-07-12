@@ -6,6 +6,8 @@ This is the **Lang** sett — one scale-free proportion (`lb4dp2lb6dp2lb10dp30g1
 [BGBGBWBWBW](/stripes/bgbgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Lang](/tartans/l/la/lang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sustainability (Fashion)** sett — one scale-free proportion (`db
 [BKGRWRBG](/stripes/bkgrwrbg/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Sustainability](/tartans/s/su/sustainability/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

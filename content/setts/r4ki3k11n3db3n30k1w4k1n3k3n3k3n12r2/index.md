@@ -6,6 +6,8 @@ This is the **The Trew 40th** sett — one scale-free proportion (`r4ki3k11n3db3
 [RBKBKBKWKBBBKKR](/stripes/rbkbkbkwkbbbkkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [The Trew 40th](/tartans/t/th/the-trew-40th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

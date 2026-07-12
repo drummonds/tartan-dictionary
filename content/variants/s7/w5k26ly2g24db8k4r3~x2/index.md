@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornish Hunting"
-  url: "/tartans/cornish-hunting/"
+  url: "/tartans/c/co/cornish-hunting/"
 - name: "Cornish Htg (District)"
   url: "/setts/w5k26ly2g24db8k4r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w5k26ly2g24db8k4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBGYKW](/stripes/rkbgykw/).
 
-Part of the [Cornish Hunting](/tartans/cornish-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cornish Hunting](/tartans/c/co/cornish-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

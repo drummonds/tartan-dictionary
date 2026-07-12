@@ -7,6 +7,8 @@ This is the **Thain Dress #1** sett — one scale-free proportion (`y22w1y2w2k2w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1940**.
 
+Part of the [Thain Dress](/tartans/t/th/thain-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

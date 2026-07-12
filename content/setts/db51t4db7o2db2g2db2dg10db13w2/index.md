@@ -7,6 +7,8 @@ This is the **Visit Scotland** sett — one scale-free proportion (`db51t4db7o2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Visit Scotland Corporate)](/tartans/v/vi/visit-scotland-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

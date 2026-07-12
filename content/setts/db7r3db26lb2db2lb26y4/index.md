@@ -6,6 +6,8 @@ This is the **Int. Police Association (Official)** sett — one scale-free propo
 [BRBWBWG](/stripes/brbwbwg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Int. Police Association](/tartans/i/in/int-police-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

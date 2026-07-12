@@ -6,6 +6,8 @@ This is the **Manx Centenary** sett — one scale-free proportion (`db22g3db3g3d
 [BGBGBGBGB](/stripes/bgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Manx Centenary](/tartans/m/ma/manx-centenary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

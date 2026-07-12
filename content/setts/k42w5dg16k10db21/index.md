@@ -6,7 +6,7 @@ This is the **Givens (Arizona)** sett — one scale-free proportion (`k42w5dg16k
 [BKGWK](/stripes/bkgwk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Givens](/tartans/givens/) tartan — the named design grouping this sett with its kin.
+Part of the [Givens](/tartans/g/gi/givens/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

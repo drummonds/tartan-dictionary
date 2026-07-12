@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weston-McCue"
+  url: "/tartans/w/we/weston-mccue/"
 - name: "Weston-McCue (Personal)"
   url: "/setts/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/).
+
+Part of the [Weston-McCue](/tartans/w/we/weston-mccue/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

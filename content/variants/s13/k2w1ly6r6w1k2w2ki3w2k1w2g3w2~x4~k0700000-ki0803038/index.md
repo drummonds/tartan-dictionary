@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hovington"
+  url: "/tartans/h/ho/hovington-2/"
 - name: "Hovington (2014)"
   url: "/setts/k2w1ly6r6w1k2w2ki3w2k1w2g3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2w1ly6r6w1k2w2ki3w2k1w2g3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWYRWKWKWKWGW](/stripes/kwyrwkwkwkwgw/).
+
+Part of the [Hovington](/tartans/h/ho/hovington-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

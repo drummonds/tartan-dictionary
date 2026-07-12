@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coeur D'Alene Firefighters (Corporat"
+  url: "/tartans/c/co/coeur-d-alene-firefighters-corporat/"
 - name: "Coeur D'Alene Firefighters Richard Gaines Memorial"
   url: "/setts/k61w1k1r2k1w1k16w1r4k2r6k1y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k61w1k1r2k1w1k16w1r4k2r6k1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRWKWKRKWK](/stripes/gkrkrwkwkrkwk/).
+
+Part of the [Coeur D'Alene Firefighters (Corporat](/tartans/c/co/coeur-d-alene-firefighters-corporat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ This is the **Harmon of Plenderleith (Personal)** sett — one scale-free propor
 [GBGBGBKBBBGBBGBGBK](/stripes/gbgbgbkbbbgbbgbgbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Harmon of Plenderleith](/tartans/harmon-of-plenderleith/) tartan — the named design grouping this sett with its kin.
+Part of the [Harmon of Plenderleith](/tartans/h/ha/harmon-of-plenderleith/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

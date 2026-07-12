@@ -6,6 +6,8 @@ This is the **Huntly Old** sett — one scale-free proportion (`dg16w2r7w2k14w8d
 [GWRWKWGWGWGRKRK](/stripes/gwrwkwgwgwgrkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Huntly Old](/tartans/h/hu/huntly-old-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Brunswick"
-  url: "/tartans/new-brunswick-3/"
+  url: "/tartans/n/ne/new-brunswick-3/"
 - name: "New Brunswick (Lyon Court Books)"
   url: "/setts/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGGGGGGGWGWGWGRGBGWRGRGRGRGWGWGWGGGGGGGWGW](/stripes/wgwgggggggwgwgwgrgbgwrgrgrgrgwgwgwgggggggwgw/).
 
-Part of the [New Brunswick](/tartans/new-brunswick-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [New Brunswick](/tartans/n/ne/new-brunswick-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 

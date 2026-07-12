@@ -6,6 +6,8 @@ This is the **MacKinnon Hunting #3** sett — one scale-free proportion (`dy8w1d
 [GRGGGGGRGGWG](/stripes/grgggggrggwg/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [MacKinnon Hunting](/tartans/m/ma/mackinnon-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pride of Cleveland Fall** sett — one scale-free proportion (`lo1
 [YBWYWBY](/stripes/ybwywby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Pride of Cleveland Fall](/tartans/p/pr/pride-of-cleveland-fall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

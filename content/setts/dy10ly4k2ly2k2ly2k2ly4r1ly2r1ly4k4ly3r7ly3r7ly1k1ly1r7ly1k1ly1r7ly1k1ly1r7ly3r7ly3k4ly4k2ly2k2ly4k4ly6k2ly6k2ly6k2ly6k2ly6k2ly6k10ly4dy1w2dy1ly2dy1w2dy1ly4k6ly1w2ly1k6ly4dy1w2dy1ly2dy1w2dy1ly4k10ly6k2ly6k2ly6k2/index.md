@@ -6,6 +6,8 @@ This is the **Murray, Mungo** sett — one scale-free proportion (`dy10ly4k2ly2k
 [GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK](/stripes/gykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykygwgygwgykywykygwgygwgykykykyk/). It is recorded as a single **variant**, below.
 First attested **1670**.
 
+Part of the [Murray, Mungo](/tartans/m/mu/murray-mungo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

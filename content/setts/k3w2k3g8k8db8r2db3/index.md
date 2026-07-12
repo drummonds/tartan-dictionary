@@ -7,7 +7,7 @@ This is the **Davidson Double** sett — one scale-free proportion (`k3w2k3g8k8d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1847**.
 
-Part of the [Davidson Double](/tartans/davidson-double/) tartan — the named design grouping this sett with its kin.
+Part of the [Davidson Double](/tartans/d/da/davidson-double/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

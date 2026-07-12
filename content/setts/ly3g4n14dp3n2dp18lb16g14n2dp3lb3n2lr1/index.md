@@ -6,6 +6,8 @@ This is the **Enable (Corporate)** sett — one scale-free proportion (`ly3g4n14
 [YBWBBGWBBBBGY](/stripes/ybwbbgwbbbbgy/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Enable](/tartans/e/en/enable/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

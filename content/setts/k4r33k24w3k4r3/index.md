@@ -6,6 +6,8 @@ This is the **Monmouth College** sett — one scale-free proportion (`k4r33k24w3
 [KRKWKR](/stripes/krkwkr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Monmouth College](/tartans/m/mo/monmouth-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

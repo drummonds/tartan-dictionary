@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Boy Scouts of Canada"
+  url: "/tartans/b/bo/boy-scouts-of-canada/"
 - name: "Boy Scouts of Canada (Corporate)"
   url: "/setts/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/).
+
+Part of the [Boy Scouts of Canada](/tartans/b/bo/boy-scouts-of-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 

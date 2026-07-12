@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
+- name: "MacNeil 3"
+  url: "/tartans/m/ma/macneil-3/"
 - name: "MacNeil 3"
   url: "/setts/g45w2r3k15r3db15r3db15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g45w2r3k15r3db15r3db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRKRWG](/stripes/brbrkrwg/).
+
+Part of the [MacNeil 3](/tartans/m/ma/macneil-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

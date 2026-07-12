@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Limited** sett — one scale-free proportion (`r4
 [RKRKKRKGRGRR](/stripes/rkrkkrkgrgrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kinloch Anderson Limited](/tartans/k/ki/kinloch-anderson-limited/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

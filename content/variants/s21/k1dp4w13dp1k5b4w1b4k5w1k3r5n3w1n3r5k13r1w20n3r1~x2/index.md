@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aberdeen Dress"
+  url: "/tartans/a/ab/aberdeen-dress/"
 - name: "Aberdeen Dress (Dance)"
   url: "/setts/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBKBWBKWKRBWBRKRWBR](/stripes/kbwbkbwbkwkrbwbrkrwbr/).
+
+Part of the [Aberdeen Dress](/tartans/a/ab/aberdeen-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

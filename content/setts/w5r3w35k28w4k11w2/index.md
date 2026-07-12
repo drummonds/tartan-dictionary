@@ -6,6 +6,8 @@ This is the **MacPherson of Cluny (Black and White)** sett — one scale-free pr
 [WKWKWRW](/stripes/wkwkwrw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacPherson of Cluny](/tartans/m/ma/macpherson-of-cluny-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

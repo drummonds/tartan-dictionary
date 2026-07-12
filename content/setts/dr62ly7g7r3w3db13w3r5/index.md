@@ -6,6 +6,8 @@ This is the **Legion of Frontiersmen** sett — one scale-free proportion (`dr62
 [BYGRWBWR](/stripes/bygrwbwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Legion of Frontiersmen](/tartans/l/le/legion-of-frontiersmen-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

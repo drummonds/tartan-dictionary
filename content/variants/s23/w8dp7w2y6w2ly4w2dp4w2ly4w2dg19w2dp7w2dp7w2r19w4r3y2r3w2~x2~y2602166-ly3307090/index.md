@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lasting"
-  url: "/tartans/lasting/"
+  url: "/tartans/l/la/lasting/"
 - name: "Lasting"
   url: "/setts/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGWYWBWYWGWBWBWRWRGRW](/stripes/wbwgwywbwywgwbwbwrwrgrw/).
 
-Part of the [Lasting](/tartans/lasting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lasting](/tartans/l/la/lasting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

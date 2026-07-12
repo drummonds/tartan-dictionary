@@ -6,6 +6,8 @@ This is the **Loyalhanna** sett — one scale-free proportion (`db15w2g2ly15r3db
 [BWGYRBRG](/stripes/bwgyrbrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Loyalhanna](/tartans/l/lo/loyalhanna/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

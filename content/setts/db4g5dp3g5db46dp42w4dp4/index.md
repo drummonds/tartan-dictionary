@@ -6,6 +6,8 @@ This is the **Clans of Caledonia** sett — one scale-free proportion (`db4g5dp3
 [BGBGBBWB](/stripes/bgbgbbwb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Clans of Caledonia](/tartans/c/cl/clans-of-caledonia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

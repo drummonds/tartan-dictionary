@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University"
+  url: "/tartans/u/un/university/"
 - name: "University Plaid"
   url: "/setts/dr4dg3dr4y1db3y1db3y1dg3dr1dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4dg3dr4y1db3y1db3y1dg3dr1dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGGBG](/stripes/bgbgbgbggbg/).
+
+Part of the [University](/tartans/u/un/university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

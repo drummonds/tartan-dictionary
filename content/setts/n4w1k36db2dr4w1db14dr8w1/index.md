@@ -6,6 +6,8 @@ This is the **Midnight Balmoral (Personal)** sett — one scale-free proportion 
 [BWKBBWBBW](/stripes/bwkbbwbbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Midnight Balmoral](/tartans/m/mi/midnight-balmoral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

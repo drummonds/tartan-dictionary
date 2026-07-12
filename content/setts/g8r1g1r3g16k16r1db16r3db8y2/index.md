@@ -7,6 +7,8 @@ This is the **Cameron of Erracht** sett — one scale-free proportion (`g8r1g1r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1793**.
 
+Part of the [Cameron of Erracht](/tartans/c/ca/cameron-of-erracht/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ferrazza in Guidonia, Rome (Personal)** sett — one scale-free pr
 [BKGKGKGKGKGKGKBRKGKBKWK](/stripes/bkgkgkgkgkgkgkbrkgkbkwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Ferrazza in Guidonia, Rome](/tartans/f/fe/ferrazza-in-guidonia-rome/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

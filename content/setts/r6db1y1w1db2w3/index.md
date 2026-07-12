@@ -6,6 +6,8 @@ This is the **Winnipeg Embroiderers' Guild** sett — one scale-free proportion 
 [RBGWBW](/stripes/rbgwbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Winnipeg Embroiderers' Guild](/tartans/w/wi/winnipeg-embroiderers-guild/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burberry"
+  url: "/tartans/b/bu/burberry-3/"
 - name: "Burberry Grey (Original)"
   url: "/setts/k5w7k5n20db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5w7k5n20db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWK](/stripes/bbkwk/).
+
+Part of the [Burberry](/tartans/b/bu/burberry-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

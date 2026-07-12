@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British Lions"
+  url: "/tartans/b/br/british-lions/"
 - name: "Lions' Pride"
   url: "/setts/r46w2r2w3r2k3db7k2dy2r2g8w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r46w2r2w3r2k3db7k2dy2r2g8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRKBKGRGW](/stripes/rwrwrkbkgrgw/).
+
+Part of the [British Lions](/tartans/b/br/british-lions/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

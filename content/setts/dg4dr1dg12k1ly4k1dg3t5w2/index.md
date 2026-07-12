@@ -6,6 +6,8 @@ This is the **Lees-McRae College** sett — one scale-free proportion (`dg4dr1dg
 [GBGKYKGBW](/stripes/gbgkykgbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Lees-McRae College](/tartans/l/le/lees-mcrae-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

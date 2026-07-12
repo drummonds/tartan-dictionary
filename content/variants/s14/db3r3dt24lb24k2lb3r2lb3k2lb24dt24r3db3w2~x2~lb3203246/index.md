@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hamburg 2"
+  url: "/tartans/h/ha/hamburg-2/"
+- name: "Hamburg 2"
   url: "/setts/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWKWRWKWBRBW](/stripes/brbwkwrwkwbrbw/).
+
+Part of the [Hamburg 2](/tartans/h/ha/hamburg-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

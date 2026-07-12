@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Steffen, Morris"
+  url: "/tartans/s/st/steffen-morris/"
 - name: "Steffen, Morris (Personal)"
   url: "/setts/db35w4db10r3ri3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db35w4db10r3ri3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRRR](/stripes/bwbrrr/).
+
+Part of the [Steffen, Morris](/tartans/s/st/steffen-morris/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

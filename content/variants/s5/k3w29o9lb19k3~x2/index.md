@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Islander Dress"
+  url: "/tartans/i/is/islander-dress/"
+- name: "Islander Dress"
   url: "/setts/k3w29o9lb19k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3w29o9lb19k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRWK](/stripes/kwrwk/).
+
+Part of the [Islander Dress](/tartans/i/is/islander-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

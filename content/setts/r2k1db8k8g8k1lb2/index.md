@@ -7,6 +7,8 @@ This is the **Campbell of Cawdor** sett — one scale-free proportion (`r2k1db8k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1798**.
 
+Part of the [Argyll](/tartans/a/ar/argyll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

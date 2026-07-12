@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKeever"
+  url: "/tartans/m/ma/mackeever/"
+- name: "MacKeever"
   url: "/setts/y4k1r12db3r3db16r3db3r12k1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k1r12db3r3db16r3db3r12k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRBRBRKW](/stripes/gkrbrbrbrkw/).
+
+Part of the [MacKeever](/tartans/m/ma/mackeever/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

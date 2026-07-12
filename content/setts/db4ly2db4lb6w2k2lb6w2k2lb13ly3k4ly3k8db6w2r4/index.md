@@ -6,6 +6,8 @@ This is the **Clauwaert (Personal)** sett — one scale-free proportion (`db4ly2
 [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Clauwaert](/tartans/c/cl/clauwaert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

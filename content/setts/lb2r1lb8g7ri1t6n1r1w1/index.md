@@ -6,6 +6,8 @@ This is the **Kansai2** sett — one scale-free proportion (`lb2r1lb8g7ri1t6n1r1
 [RWGRBBRWRBBRGWRW](/stripes/rwgrbbrwrbbrgwrw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Kansai2](/tartans/k/ka/kansai2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

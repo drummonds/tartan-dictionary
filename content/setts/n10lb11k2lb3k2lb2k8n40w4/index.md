@@ -6,7 +6,7 @@ This is the **Doune (District)** sett — one scale-free proportion (`n10lb11k2l
 [BWKWKWKBW](/stripes/bwkwkwkbw/). It is recorded as a single **variant**, below.
 First attested **~1979**.
 
-Part of the [Doune](/tartans/doune/) tartan — the named design grouping this sett with its kin.
+Part of the [Doune](/tartans/d/do/doune/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

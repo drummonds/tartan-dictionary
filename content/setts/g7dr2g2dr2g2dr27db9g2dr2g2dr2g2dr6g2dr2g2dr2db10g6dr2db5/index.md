@@ -6,6 +6,8 @@ This is the **Matheson (Lochcarron)** sett — one scale-free proportion (`g7dr2
 [BBGBBGBGBGBGBGBBGBGBG](/stripes/bbgbbgbgbgbgbgbbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Matheson](/tartans/m/ma/matheson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

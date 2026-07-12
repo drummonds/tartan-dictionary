@@ -6,6 +6,8 @@ This is the **Mission** sett — one scale-free proportion (`dy2lb14k1dg11k2r2g2
 [GWKGKRGK](/stripes/gwkgkrgk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Mission](/tartans/m/mi/mission-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

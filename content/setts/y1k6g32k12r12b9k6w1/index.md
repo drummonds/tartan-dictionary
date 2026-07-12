@@ -6,6 +6,8 @@ This is the **McGeachie (Personal)** sett — one scale-free proportion (`y1k6g3
 [GKGKRBKW](/stripes/gkgkrbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [McGeachie](/tartans/m/mc/mcgeachie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

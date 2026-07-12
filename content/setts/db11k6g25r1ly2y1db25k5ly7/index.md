@@ -6,6 +6,8 @@ This is the **Army Ranger** sett — one scale-free proportion (`db11k6g25r1ly2y
 [BKGRYGBKY](/stripes/bkgrygbky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Army Ranger](/tartans/a/ar/army-ranger/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

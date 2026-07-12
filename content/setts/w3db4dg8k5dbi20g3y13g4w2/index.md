@@ -6,6 +6,8 @@ This is the **Armagh County Crest (Fashion)** sett — one scale-free proportion
 [WBGKBGGGW](/stripes/wbgkbgggw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Armagh County Crest](/tartans/a/ar/armagh-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Danzas** sett — one scale-free proportion (`y4t3y1t17db40t2db3`)
 [BBBBGBG](/stripes/bbbbgbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Danzas](/tartans/danzas/) tartan — the named design grouping this sett with its kin.
+Part of the [Danzas](/tartans/d/da/danzas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

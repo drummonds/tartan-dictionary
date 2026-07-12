@@ -7,7 +7,7 @@ This is the **MacKirdy** sett — one scale-free proportion (`k2g12k11t12w1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1950**.
 
-Part of the [MacKirdy](/tartans/mackirdy/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKirdy](/tartans/m/ma/mackirdy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

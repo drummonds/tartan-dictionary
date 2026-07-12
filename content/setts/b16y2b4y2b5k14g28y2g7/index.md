@@ -6,6 +6,8 @@ This is the **Marie Curie Fields of Hope** sett — one scale-free proportion (`
 [BGBGBKGGG](/stripes/bgbgbkggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Marie Curie Fields of Hope](/tartans/m/ma/marie-curie-fields-of-hope-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boucherville Dress"
-  url: "/tartans/boucherville-dress/"
+  url: "/tartans/b/bo/boucherville-dress/"
 - name: "Boucherville (Tartan de..), dress"
   url: "/setts/w40y4n10w8b4n4b4n4g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w40y4n10w8b4n4b4n4g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBWBGW](/stripes/gbbbbwbgw/).
 
-Part of the [Boucherville Dress](/tartans/boucherville-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Boucherville Dress](/tartans/b/bo/boucherville-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

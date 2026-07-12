@@ -6,6 +6,8 @@ This is the **Nisbet Family Tartan** sett — one scale-free proportion (`r5w2r2
 [RGKRWR](/stripes/rgkrwr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacKintosh 6](/tartans/m/ma/mackintosh-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

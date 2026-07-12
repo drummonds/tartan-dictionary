@@ -6,6 +6,8 @@ This is the **Bundy, Dress Black Personal)** sett — one scale-free proportion 
 [RBKBKBKR](/stripes/rbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Bundy, Dress](/tartans/b/bu/bundy-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

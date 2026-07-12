@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nunavut Territory"
+  url: "/tartans/n/nu/nunavut-territory/"
 - name: "Nunavut Territory (District)"
   url: "/setts/db60w1y4k4w1lp8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60w1y4k4w1lp8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKWWW](/stripes/bwgkwww/).
+
+Part of the [Nunavut Territory](/tartans/n/nu/nunavut-territory/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

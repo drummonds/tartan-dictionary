@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacBean"
+  url: "/clan/macbean/"
+- name: "MacBean Dress"
+  url: "/tartans/m/ma/macbean-dress/"
 - name: "MacBean Dress"
   url: "/setts/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRBGBRWGWWWWWKR](/stripes/gwrbgbrwgwwwwwkr/).
+
+Part of the [MacBean Dress](/tartans/m/ma/macbean-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

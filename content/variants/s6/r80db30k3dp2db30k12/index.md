@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Double Elvis Gallery"
-  url: "/tartans/double-elvis-gallery/"
+  url: "/tartans/d/do/double-elvis-gallery/"
 - name: "Double Elvis Gallery"
   url: "/setts/r80db30k3dp2db30k12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r80db30k3dp2db30k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBKBR](/stripes/kbbkbr/).
 
-Part of the [Double Elvis Gallery](/tartans/double-elvis-gallery/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Double Elvis Gallery](/tartans/d/do/double-elvis-gallery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

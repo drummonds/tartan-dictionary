@@ -6,6 +6,8 @@ This is the **MacPhee (B&W) Clan Tartan** sett — one scale-free proportion (`k
 [KWKW](/stripes/kwkw/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [MacPhee](/tartans/m/ma/macphee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

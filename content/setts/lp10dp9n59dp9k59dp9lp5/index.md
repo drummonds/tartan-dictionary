@@ -6,6 +6,8 @@ This is the **Central Newcastle School** sett — one scale-free proportion (`lp
 [WBBBKBW](/stripes/wbbbkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Central Newcastle High](/tartans/c/ce/central-newcastle-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

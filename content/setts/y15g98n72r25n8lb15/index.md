@@ -6,6 +6,8 @@ This is the **Afternoon Tea / Afternoon Tea** sett — one scale-free proportion
 [GGBRBW](/stripes/ggbrbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Afternoon Tea / Afternoon Tea](/tartans/a/af/afternoon-tea-afternoon-tea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

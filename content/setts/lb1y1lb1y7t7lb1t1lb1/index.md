@@ -6,6 +6,8 @@ This is the **Auld Lang Syne (Fashion)** sett — one scale-free proportion (`lb
 [WBWBGWGW](/stripes/wbwbgwgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

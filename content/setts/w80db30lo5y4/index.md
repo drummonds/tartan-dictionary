@@ -6,6 +6,8 @@ This is the **Tarbh Deargh (Red Bull)** sett — one scale-free proportion (`w80
 [GYBW](/stripes/gybw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Tarbh Deargh](/tartans/t/ta/tarbh-deargh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

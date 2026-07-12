@@ -7,7 +7,7 @@ This is the **Abercrombie** sett — one scale-free proportion (`g14w1g7k7db2k2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1805**.
 
-Part of the [Abercrombie](/tartans/abercrombie-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Abercrombie](/tartans/a/ab/abercrombie-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

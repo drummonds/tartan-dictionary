@@ -6,6 +6,8 @@ This is the **Strathmore District Tartan** sett — one scale-free proportion (`
 [GBGBGBGBGBGBKBKK](/stripes/gbgbgbgbgbgbkbkk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Strathmore](/tartans/s/st/strathmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

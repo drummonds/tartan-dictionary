@@ -6,6 +6,8 @@ This is the **Williams (New York) (Personal)** sett — one scale-free proportio
 [KBKBW](/stripes/kbkbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Williams](/tartans/w/wi/williams/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dice"
+  url: "/tartans/d/di/dice/"
 - name: "Dice (Name?)"
   url: "/setts/db1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BR](/stripes/br/).
+
+Part of the [Dice](/tartans/d/di/dice/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

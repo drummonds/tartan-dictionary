@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Paxton"
+  url: "/tartans/p/pa/paxton-2/"
 - name: "Paxton Tartan"
   url: "/setts/db30dp4db5dg3db2dg2db2dg10dp7k2dp9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30dp4db5dg3db2dg2db2dg10dp7k2dp9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGBKB](/stripes/bbbgbgbgbkb/).
+
+Part of the [Paxton](/tartans/p/pa/paxton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

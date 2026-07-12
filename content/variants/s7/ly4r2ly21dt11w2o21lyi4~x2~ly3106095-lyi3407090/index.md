@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbour"
+  url: "/tartans/b/ba/barbour-6/"
 - name: "Barbour - Muted"
   url: "/setts/ly4r2ly21dt11w2o21lyi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4r2ly21dt11w2o21lyi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YRWBYRY](/stripes/yrwbyry/).
+
+Part of the [Barbour](/tartans/b/ba/barbour-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

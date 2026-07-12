@@ -6,6 +6,8 @@ This is the **Young Presidents Organisation Dress** sett — one scale-free prop
 [RGBBGGRW](/stripes/rgbbggrw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Young Presidents Organisation Dress](/tartans/y/yo/young-presidents-organisation-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

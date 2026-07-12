@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lindley-Highfield"
-  url: "/tartans/lindley-highfield/"
+  url: "/tartans/l/li/lindley-highfield/"
 - name: "Lindley-Highfield Name Tartan"
   url: "/setts/dg7dp3w1g2dg1k2dp1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg7dp3w1g2dg1k2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGWBG](/stripes/bkggwbg/).
 
-Part of the [Lindley-Highfield](/tartans/lindley-highfield/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lindley-Highfield](/tartans/l/li/lindley-highfield/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

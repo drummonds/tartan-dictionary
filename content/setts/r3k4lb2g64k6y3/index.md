@@ -6,6 +6,8 @@ This is the **Braemar Royal Highland Gathering** sett — one scale-free proport
 [GKGWKR](/stripes/gkgwkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Braemar Royal Highland Gathering](/tartans/b/br/braemar-royal-highland-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

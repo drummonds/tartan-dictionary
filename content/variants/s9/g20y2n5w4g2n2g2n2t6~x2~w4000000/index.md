@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boucherville"
-  url: "/tartans/boucherville/"
+  url: "/tartans/b/bo/boucherville/"
 - name: "Boucherville"
   url: "/setts/g20y2n5w4g2n2g2n2t6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g20y2n5w4g2n2g2n2t6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGWBGG](/stripes/bbgbgwbgg/).
 
-Part of the [Boucherville](/tartans/boucherville/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Boucherville](/tartans/b/bo/boucherville/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

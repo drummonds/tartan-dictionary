@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Armadale"
+  url: "/tartans/c/ci/city-of-armadale/"
+- name: "City of Armadale"
   url: "/setts/k21g2k2g2k3g15r29g2r2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k21g2k2g2k3g15r29g2r2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKGKGK](/stripes/grgrgkgkgk/).
+
+Part of the [City of Armadale](/tartans/c/ci/city-of-armadale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -7,6 +7,8 @@ This is the **North Carolina State University** sett — one scale-free proporti
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2013**.
 
+Part of the [North Carolina State University](/tartans/n/no/north-carolina-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

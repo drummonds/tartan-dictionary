@@ -6,6 +6,8 @@ This is the **Digital Corporate Tartan** sett — one scale-free proportion (`lb
 [WKWYWYWYWW](/stripes/wkwywywyww/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Digital](/tartans/d/di/digital-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

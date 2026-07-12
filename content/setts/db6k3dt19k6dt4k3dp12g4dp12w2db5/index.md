@@ -6,7 +6,7 @@ This is the **Scotland Forever** sett — one scale-free proportion (`db6k3dt19k
 [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Scotland Forever](/tartans/scotland-forever/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland Forever](/tartans/s/sc/scotland-forever/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

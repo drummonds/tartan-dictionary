@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Erskine"
-  url: "/tartans/erskine-5/"
+  url: "/tartans/e/er/erskine-5/"
 - name: "Erskine Royal Blue Dress Clan Tartan"
   url: "/setts/db6w2db29w29db2w6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w2db29w29db2w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
-Part of the [Erskine](/tartans/erskine-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Erskine](/tartans/e/er/erskine-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Châine des Rôtisseurs, (Grande Bretagne)** sett — one scale-fr
 [GRGRGRGRBRGRW](/stripes/grgrgrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Châine des Rôtisseurs](/tartans/c/ch/ch-ine-des-r-tisseurs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

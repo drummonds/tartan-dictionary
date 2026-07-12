@@ -6,7 +6,7 @@ This is the **Cranston Dress** sett — one scale-free proportion (`r15db2r1db2r
 [GGBRBRBR](/stripes/ggbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Cranston Dress](/tartans/cranston-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Cranston Dress](/tartans/c/cr/cranston-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

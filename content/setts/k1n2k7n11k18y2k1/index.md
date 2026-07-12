@@ -6,6 +6,8 @@ This is the **DDB Canada (Fashion)** sett — one scale-free proportion (`k1n2k7
 [KBKBKGK](/stripes/kbkbkgk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [DDB Canada](/tartans/d/dd/ddb-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

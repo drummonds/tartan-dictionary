@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lister"
-  url: "/tartans/lister/"
+  url: "/tartans/l/li/lister/"
 - name: "Lister (Name)"
   url: "/setts/dy8n29dy8ly3dy8n8ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy8n29dy8ly3dy8n8ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGYGBY](/stripes/gbgygby/).
 
-Part of the [Lister](/tartans/lister/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lister](/tartans/l/li/lister/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

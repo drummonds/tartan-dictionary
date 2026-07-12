@@ -6,7 +6,7 @@ This is the **Womack (2014)** sett — one scale-free proportion (`dg19w2dg5k4db
 [BWGWGWKBKGWG](/stripes/bwgwgwkbkgwg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Womack](/tartans/womack/) tartan — the named design grouping this sett with its kin.
+Part of the [Womack](/tartans/w/wo/womack/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

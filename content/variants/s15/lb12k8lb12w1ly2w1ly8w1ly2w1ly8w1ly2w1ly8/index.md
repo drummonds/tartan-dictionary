@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bush"
+  url: "/tartans/b/bu/bush/"
 - name: "Bush (Artefact)"
   url: "/setts/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWWYWYWYWYWYWY](/stripes/wkwwywywywywywy/).
+
+Part of the [Bush](/tartans/b/bu/bush/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

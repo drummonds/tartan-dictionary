@@ -6,6 +6,8 @@ This is the **Cavan** sett — one scale-free proportion (`k3r9k5do9o3do9k5g24k2
 [KRKBRBKGKR](/stripes/krkbrbkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cavan](/tartans/c/ca/cavan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

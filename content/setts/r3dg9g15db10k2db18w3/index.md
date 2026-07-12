@@ -6,6 +6,8 @@ This is the **Coulthard (Personal)** sett — one scale-free proportion (`r3dg9g
 [RGGBKBW](/stripes/rggbkbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Coulthard](/tartans/c/co/coulthard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

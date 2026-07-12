@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crookdake Cheng"
-  url: "/tartans/crookdake-cheng/"
+  url: "/tartans/c/cr/crookdake-cheng/"
 - name: "Crookdake Cheng Family Tartan"
   url: "/setts/dr3db36w10k8g13y6g3y3g3y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr3db36w10k8g13y6g3y3g3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWKGGGGGG](/stripes/bbwkgggggg/).
 
-Part of the [Crookdake Cheng](/tartans/crookdake-cheng/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crookdake Cheng](/tartans/c/cr/crookdake-cheng/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

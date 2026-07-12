@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Livingstone MacLay MacLeay"
+  url: "/tartans/l/li/livingstone-maclay-macleay/"
 - name: "Livingstone MacLay MacLeay Clan Tartan"
   url: "/setts/r28g4k4g4k4lb6y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r28g4k4g4k4lb6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGKGR](/stripes/gwkgkgr/).
+
+Part of the [Livingstone MacLay MacLeay](/tartans/l/li/livingstone-maclay-macleay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

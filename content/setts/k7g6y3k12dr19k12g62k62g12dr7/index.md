@@ -6,7 +6,7 @@ This is the **Danareth** sett — one scale-free proportion (`k7g6y3k12dr19k12g6
 [BGKGKBKGGK](/stripes/bgkgkbkggk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Danareth](/tartans/danareth/) tartan — the named design grouping this sett with its kin.
+Part of the [Danareth](/tartans/d/da/danareth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

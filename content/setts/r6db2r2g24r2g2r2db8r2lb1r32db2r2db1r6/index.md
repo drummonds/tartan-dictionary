@@ -6,7 +6,7 @@ This is the **Grant, or Drummond** sett — one scale-free proportion (`r6db2r2g
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Grant](/tartans/grant/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant](/tartans/g/gr/grant/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

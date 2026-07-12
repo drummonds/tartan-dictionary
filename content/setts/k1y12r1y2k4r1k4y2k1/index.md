@@ -6,6 +6,8 @@ This is the **MacLeod (Snuffbox)** sett — one scale-free proportion (`k1y12r1y
 [KGKRKGRGK](/stripes/kgkrkgrgk/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [MacLeod](/tartans/m/ma/macleod-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

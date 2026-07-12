@@ -6,6 +6,8 @@ This is the **Bonnie Prince Charlie (Hudson Bay)** sett — one scale-free propo
 [WGBGYYWBWYGBWWW](/stripes/wgbgyywbwygbwww/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Bonnie Prince Charlie](/tartans/b/bo/bonnie-prince-charlie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

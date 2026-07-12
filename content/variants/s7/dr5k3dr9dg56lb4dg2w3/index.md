@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MTV"
-  url: "/tartans/mtv/"
+  url: "/tartans/m/mt/mtv/"
 - name: "MTV"
   url: "/setts/dr5k3dr9dg56lb4dg2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr5k3dr9dg56lb4dg2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGWGW](/stripes/bkbgwgw/).
 
-Part of the [MTV](/tartans/mtv/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MTV](/tartans/m/mt/mtv/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

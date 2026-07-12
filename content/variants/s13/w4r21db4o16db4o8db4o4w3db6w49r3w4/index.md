@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Largs Dress"
+  url: "/tartans/l/la/largs-dress/"
 - name: "Largs Dress (1983)"
   url: "/setts/w4r21db4o16db4o8db4o4w3db6w49r3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4r21db4o16db4o8db4o4w3db6w49r3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/).
+
+Part of the [Largs Dress](/tartans/l/la/largs-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

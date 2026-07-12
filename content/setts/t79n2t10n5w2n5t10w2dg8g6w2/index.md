@@ -6,7 +6,7 @@ This is the **Dallas (Lochcarron) (Personal)** sett — one scale-free proportio
 [BBBBWBBWGGW](/stripes/bbbbwbbwggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dallas](/tartans/dallas-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dallas](/tartans/d/da/dallas-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

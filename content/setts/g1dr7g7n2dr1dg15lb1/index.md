@@ -6,6 +6,8 @@ This is the **Ramsay (Green Fashion)** sett — one scale-free proportion (`g1dr
 [GBGBBGW](/stripes/gbgbbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ramsay](/tartans/r/ra/ramsay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

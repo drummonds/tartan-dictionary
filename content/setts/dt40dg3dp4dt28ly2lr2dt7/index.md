@@ -6,6 +6,8 @@ This is the **Pisniak (Personal)** sett — one scale-free proportion (`dt40dg3d
 [BGBBYYB](/stripes/bgbbyyb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Pisniak](/tartans/p/pi/pisniak/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

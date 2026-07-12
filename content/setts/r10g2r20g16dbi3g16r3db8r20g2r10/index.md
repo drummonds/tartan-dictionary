@@ -6,6 +6,8 @@ This is the **Peacock, Grahame (Name)** sett — one scale-free proportion (`r10
 [RGRBRGBGRGR](/stripes/rgrbrgbgrgr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Peacock, Grahame](/tartans/p/pe/peacock-grahame/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Dunbarton Trade Tartan** sett — one scale-free proportion (`y30r
 [GKGGGGGKGRG](/stripes/gkgggggkgrg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Dunbarton](/tartans/dunbarton/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbarton](/tartans/d/du/dunbarton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

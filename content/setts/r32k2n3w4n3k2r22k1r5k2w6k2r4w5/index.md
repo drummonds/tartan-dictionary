@@ -6,6 +6,8 @@ This is the **Alabama, University of** sett — one scale-free proportion (`r32k
 [RKBWBKRKRKWKRW](/stripes/rkbwbkrkrkwkrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [University of Alabama](/tartans/u/un/university-of-alabama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bowhunter"
-  url: "/tartans/bowhunter/"
+  url: "/tartans/b/bo/bowhunter/"
 - name: "Bowhunter"
   url: "/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b3g10b2db25dy3n4dy3dg10db3b2n3b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGGBGBBGB](/stripes/bbbbggbgbbgb/).
 
-Part of the [Bowhunter](/tartans/bowhunter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bowhunter](/tartans/b/bo/bowhunter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

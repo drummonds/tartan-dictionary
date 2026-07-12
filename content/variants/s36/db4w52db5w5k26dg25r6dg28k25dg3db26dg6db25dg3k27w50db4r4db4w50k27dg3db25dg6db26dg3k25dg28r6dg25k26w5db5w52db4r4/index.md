@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lauder Dress"
+  url: "/tartans/l/la/lauder-dress-2/"
 - name: "Lauder Dress (Can)"
   url: "/setts/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKGRGKGBGBGKWBRBWKGBGBGKGRGKWBWBR](/stripes/bwbwkgrgkgbgbgkwbrbwkgbgbgkgrgkwbwbr/).
+
+Part of the [Lauder Dress](/tartans/l/la/lauder-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

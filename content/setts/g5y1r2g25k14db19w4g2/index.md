@@ -6,7 +6,7 @@ This is the **Tooth Family Tartan** sett — one scale-free proportion (`g5y1r2g
 [GGRGKBWG](/stripes/ggrgkbwg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Tooth](/tartans/tooth/) tartan — the named design grouping this sett with its kin.
+Part of the [Tooth](/tartans/t/to/tooth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

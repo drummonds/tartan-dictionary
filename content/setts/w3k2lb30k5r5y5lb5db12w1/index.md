@@ -6,6 +6,8 @@ This is the **Wiegratz Alba (Personal)** sett — one scale-free proportion (`w3
 [WBWGRKWKW](/stripes/wbwgrkwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Wiegratz Alba](/tartans/w/wi/wiegratz-alba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

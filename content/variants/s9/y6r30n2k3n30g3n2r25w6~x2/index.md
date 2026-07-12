@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Virginia Military Institute, New Market"
+  url: "/tartans/v/vi/virginia-military-institute-new-market/"
+- name: "Virginia Military Institute, New Market"
   url: "/setts/y6r30n2k3n30g3n2r25w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6r30n2k3n30g3n2r25w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBKBGBRW](/stripes/grbkbgbrw/).
+
+Part of the [Virginia Military Institute, New Market](/tartans/v/vi/virginia-military-institute-new-market/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

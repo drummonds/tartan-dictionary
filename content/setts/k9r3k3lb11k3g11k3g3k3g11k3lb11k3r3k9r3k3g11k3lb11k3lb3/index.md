@@ -6,6 +6,8 @@ This is the **Ellenee** sett — one scale-free proportion (`k9r3k3lb11k3g11k3g3
 [KRKWKGKGKGKWKRKRKGKWKW](/stripes/krkwkgkgkgkwkrkrkgkwkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Ellene )](/tartans/e/el/ellene/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

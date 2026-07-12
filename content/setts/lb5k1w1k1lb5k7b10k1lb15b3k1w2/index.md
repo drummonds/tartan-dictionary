@@ -6,6 +6,8 @@ This is the **Faulds** sett — one scale-free proportion (`lb5k1w1k1lb5k7b10k1l
 [WKBWKBKWKWKW](/stripes/wkbwkbkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Faulds](/tartans/f/fa/faulds/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

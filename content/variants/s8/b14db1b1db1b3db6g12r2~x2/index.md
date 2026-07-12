@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cranstoun"
+  url: "/tartans/c/cr/cranstoun-2/"
+- name: "Cranstoun"
   url: "/setts/b14db1b1db1b3db6g12r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b14db1b1db1b3db6g12r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGR](/stripes/bbbbbbgr/).
+
+Part of the [Cranstoun](/tartans/c/cr/cranstoun-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

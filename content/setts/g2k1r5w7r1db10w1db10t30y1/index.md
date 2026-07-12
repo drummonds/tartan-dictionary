@@ -6,6 +6,8 @@ This is the **Festival Intercltico de Avils (Coror** sett — one scale-free pro
 [GBBWBRWRKG](/stripes/gbbwbrwrkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Festival Intercltico de Avils (Coror](/tartans/f/fe/festival-intercltico-de-avils-coror/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

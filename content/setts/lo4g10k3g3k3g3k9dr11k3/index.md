@@ -6,7 +6,7 @@ This is the **Martin** sett — one scale-free proportion (`lo4g10k3g3k3g3k9dr11
 [KBKGKGKGY](/stripes/kbkgkgkgy/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Martin](/tartans/martin/) tartan — the named design grouping this sett with its kin.
+Part of the [Martin](/tartans/m/ma/martin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

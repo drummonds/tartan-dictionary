@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Elgin"
+  url: "/tartans/e/el/elgin/"
+- name: "Elgin"
   url: "/setts/do4o1do5w4k1w1lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do4o1do5w4k1w1lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWKWY](/stripes/brbwkwy/).
+
+Part of the [Elgin](/tartans/e/el/elgin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

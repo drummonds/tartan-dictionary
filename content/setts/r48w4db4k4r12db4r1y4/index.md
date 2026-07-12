@@ -7,6 +7,8 @@ This is the **Brodie** sett — one scale-free proportion (`r48w4db4k4r12db4r1y4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
+Part of the [Brodie](/tartans/b/br/brodie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

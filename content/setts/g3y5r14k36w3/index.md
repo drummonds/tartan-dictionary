@@ -6,6 +6,8 @@ This is the **Papua New Guinea** sett — one scale-free proportion (`g3y5r14k36
 [GGRKW](/stripes/ggrkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Papua New Guinea](/tartans/p/pa/papua-new-guinea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

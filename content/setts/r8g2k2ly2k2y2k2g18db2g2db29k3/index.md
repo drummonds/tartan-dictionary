@@ -6,6 +6,8 @@ This is the **Cats Winter (Fashion)** sett — one scale-free proportion (`r8g2k
 [KBGBGKGKYKGR](/stripes/kbgbgkgkykgr/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Cats Winter](/tartans/c/ca/cats-winter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "American Soc.of Travel Agents"
+  url: "/tartans/a/am/american-soc-of-travel-agents-2/"
 - name: "American Soc.of Travel Agents (Corp)"
   url: "/setts/db2n10db1n1db10r1db10g10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2n10db1n1db10r1db10g10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBGW](/stripes/bbbbbrbgw/).
+
+Part of the [American Soc.of Travel Agents](/tartans/a/am/american-soc-of-travel-agents-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

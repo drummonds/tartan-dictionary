@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Tummel"
+  url: "/tartans/l/lo/loch-tummel-3/"
+- name: "Loch Tummel"
   url: "/setts/dy38w9dy3k9w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy38w9dy3k9w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
+
+Part of the [Loch Tummel](/tartans/l/lo/loch-tummel-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maguire"
-  url: "/tartans/maguire/"
+  url: "/tartans/m/ma/maguire/"
 - name: "Maguire, Black"
   url: "/setts/r29g2r2g2r6y21/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r29g2r2g2r6y21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGR](/stripes/grgrgr/).
 
-Part of the [Maguire](/tartans/maguire/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Maguire](/tartans/m/ma/maguire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

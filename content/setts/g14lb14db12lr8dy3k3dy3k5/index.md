@@ -6,6 +6,8 @@ This is the **Somerset #2** sett — one scale-free proportion (`g14lb14db12lr8d
 [GWBYGKGK](/stripes/gwbygkgk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Somerset](/tartans/s/so/somerset/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

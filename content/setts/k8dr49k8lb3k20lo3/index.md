@@ -6,7 +6,7 @@ This is the **Dunbar (District)** sett — one scale-free proportion (`k8dr49k8l
 [KBKWKY](/stripes/kbkwky/). It is recorded as a single **variant**, below.
 First attested **1860**.
 
-Part of the [Dunbar](/tartans/dunbar-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbar](/tartans/d/du/dunbar-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

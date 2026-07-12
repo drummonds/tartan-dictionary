@@ -7,6 +7,8 @@ This is the **US Navy Edzell** sett — one scale-free proportion (`db104dbi16w8
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1980**.
 
+Part of the [US Navy Edzell](/tartans/u/us/us-navy-edzell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Stirling, University of Corporate Univ Tartan** sett — one scale
 [GKWRGKRG](/stripes/gkwrgkrg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Stirling, University of Corporate Univ](/tartans/s/st/stirling-university-of-corporate-univ/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

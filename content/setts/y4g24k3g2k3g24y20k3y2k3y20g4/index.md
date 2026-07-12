@@ -6,6 +6,8 @@ This is the **Meredith of Wales** sett — one scale-free proportion (`y4g24k3g2
 [GGKGKGGKGKGG](/stripes/ggkgkggkgkgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Meredith](/tartans/m/me/meredith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lochranza** sett — one scale-free proportion (`db3n1db10g3r1k3db
 [BBBGRKBBW](/stripes/bbbgrkbbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Lochranza](/tartans/l/lo/lochranza/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McHeadley Society"
-  url: "/tartans/mcheadley-society/"
+  url: "/tartans/m/mc/mcheadley-society/"
 - name: "McHeadley Society Corporate Tartan"
   url: "/setts/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGKBGGGGGGR](/stripes/kkgkbggggggr/).
 
-Part of the [McHeadley Society](/tartans/mcheadley-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McHeadley Society](/tartans/m/mc/mcheadley-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

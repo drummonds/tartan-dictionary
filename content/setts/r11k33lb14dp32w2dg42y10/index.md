@@ -6,6 +6,8 @@ This is the **Gallowater, New (District)** sett — one scale-free proportion (`
 [GGWBWKR](/stripes/ggwbwkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Gallowater, New](/tartans/g/ga/gallowater-new/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

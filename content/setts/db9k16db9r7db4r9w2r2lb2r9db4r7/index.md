@@ -6,6 +6,8 @@ This is the **Tullis Russell** sett — one scale-free proportion (`db9k16db9r7d
 [BKBRBRWRWRBR](/stripes/bkbrbrwrwrbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Tullis Russell](/tartans/t/tu/tullis-russell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

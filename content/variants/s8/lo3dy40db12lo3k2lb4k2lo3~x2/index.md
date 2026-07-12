@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tunes of Glory"
+  url: "/tartans/t/tu/tunes-of-glory/"
 - name: "Tunes of Glory (Film)"
   url: "/setts/lo3dy40db12lo3k2lb4k2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo3dy40db12lo3k2lb4k2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBYKWKY](/stripes/ygbykwky/).
+
+Part of the [Tunes of Glory](/tartans/t/tu/tunes-of-glory/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

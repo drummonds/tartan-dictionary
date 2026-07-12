@@ -6,6 +6,8 @@ This is the **McCready (Name)** sett — one scale-free proportion (`db24w1r3k4w
 [BWRKWKWKWKWKWKWKWKWKWRK](/stripes/bwrkwkwkwkwkwkwkwkwkwrk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [McCready](/tartans/m/mc/mccready/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

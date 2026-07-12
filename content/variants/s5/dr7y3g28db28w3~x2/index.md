@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Turnbull"
   url: "/clan/turnbull/"
 - name: "Turnbull Hunting"
-  url: "/tartans/turnbull-hunting/"
+  url: "/tartans/t/tu/turnbull-hunting/"
 - name: "Turnbull Hunting"
   url: "/setts/dr7y3g28db28w3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr7y3g28db28w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBW](/stripes/bggbw/).
 
-Part of the [Turnbull Hunting](/tartans/turnbull-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Turnbull Hunting](/tartans/t/tu/turnbull-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

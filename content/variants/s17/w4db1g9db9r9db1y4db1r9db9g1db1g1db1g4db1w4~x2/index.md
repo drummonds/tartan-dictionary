@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Alaskan Scottish"
+  url: "/tartans/a/al/alaskan-scottish/"
+- name: "Alaskan Scottish"
   url: "/setts/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBGBGBRBGBRBGBW](/stripes/wbgbgbgbrbgbrbgbw/).
+
+Part of the [Alaskan Scottish](/tartans/a/al/alaskan-scottish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

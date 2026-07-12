@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cleland"
-  url: "/tartans/cleland/"
+  url: "/tartans/c/cl/cleland/"
 - name: "Cleland"
   url: "/setts/k2db36g12w3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2db36g12w3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGWR](/stripes/kbgwr/).
 
-Part of the [Cleland](/tartans/cleland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cleland](/tartans/c/cl/cleland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

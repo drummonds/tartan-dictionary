@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Kinloch"
   url: "/clan/kinloch/"
 - name: "Kinloch Anderson Thistle"
-  url: "/tartans/kinloch-anderson-thistle/"
+  url: "/tartans/k/ki/kinloch-anderson-thistle/"
 - name: "Kinloch Anderson Thistle (Fashion)"
   url: "/setts/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBKGBGBR](/stripes/bbbbkbkgbgbr/).
 
-Part of the [Kinloch Anderson Thistle](/tartans/kinloch-anderson-thistle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kinloch Anderson Thistle](/tartans/k/ki/kinloch-anderson-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

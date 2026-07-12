@@ -6,6 +6,8 @@ This is the **Valley of the Green #2** sett — one scale-free proportion (`w9r2
 [GGRGRGKRWRWRW](/stripes/ggrgrgkrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Valley of the](/tartans/v/va/valley-of-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

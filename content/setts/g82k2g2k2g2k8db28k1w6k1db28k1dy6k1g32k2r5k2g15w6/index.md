@@ -6,6 +6,8 @@ This is the **Unnamed No 38 Artifact Tartan** sett — one scale-free proportion
 [GKGKGKBKWKBKGKGKRKGW](/stripes/gkgkgkbkwkbkgkgkrkgw/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
+Part of the [Unnamed No 38](/tartans/u/un/unnamed-no-38/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

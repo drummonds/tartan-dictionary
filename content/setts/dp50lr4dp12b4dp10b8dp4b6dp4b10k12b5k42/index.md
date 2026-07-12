@@ -6,6 +6,8 @@ This is the **Institute of Directors (Scotland)** sett — one scale-free propor
 [BYBBBBBBBBKBK](/stripes/bybbbbbbbbkbk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Institute of Directors](/tartans/i/in/institute-of-directors-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

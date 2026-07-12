@@ -6,7 +6,7 @@ This is the **British Hills** sett — one scale-free proportion (`ly2db8r8g17r1
 [RGRBY](/stripes/rgrby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [British Hills](/tartans/british-hills/) tartan — the named design grouping this sett with its kin.
+Part of the [British Hills](/tartans/b/br/british-hills/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

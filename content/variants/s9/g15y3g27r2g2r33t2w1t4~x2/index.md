@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longmore"
+  url: "/tartans/l/lo/longmore/"
 - name: "Longmore (Name)"
   url: "/setts/g15y3g27r2g2r33t2w1t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g15y3g27r2g2r33t2w1t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRGRGGG](/stripes/bwbrgrggg/).
+
+Part of the [Longmore](/tartans/l/lo/longmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

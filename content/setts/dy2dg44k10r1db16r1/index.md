@@ -6,7 +6,7 @@ This is the **MacWilliam Hunting** sett — one scale-free proportion (`dy2dg44k
 [GGKRBR](/stripes/ggkrbr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [MacWilliam Hunting](/tartans/macwilliam-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacWilliam Hunting](/tartans/m/ma/macwilliam-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

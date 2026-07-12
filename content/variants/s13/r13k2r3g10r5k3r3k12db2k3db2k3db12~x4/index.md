@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bonnar"
+  url: "/tartans/b/bo/bonnar/"
 - name: "Bonnar (Name)"
   url: "/setts/r13k2r3g10r5k3r3k12db2k3db2k3db12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r13k2r3g10r5k3r3k12db2k3db2k3db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/).
+
+Part of the [Bonnar](/tartans/b/bo/bonnar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

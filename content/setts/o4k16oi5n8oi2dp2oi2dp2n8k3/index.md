@@ -6,6 +6,8 @@ This is the **Ryukoku University Heian JHS (Corp)** sett — one scale-free prop
 [KBBRBRBRKR](/stripes/kbbrbrbrkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ryukoku University Heian JHS](/tartans/r/ry/ryukoku-university-heian-jhs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

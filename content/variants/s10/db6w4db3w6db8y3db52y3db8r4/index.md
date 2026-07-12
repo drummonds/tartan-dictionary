@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee F.C."
-  url: "/tartans/dundee-f-c/"
+  url: "/tartans/d/du/dundee-f-c/"
 - name: "Dundee F.C."
   url: "/setts/db6w4db3w6db8y3db52y3db8r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w4db3w6db8y3db52y3db8r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBGBGBR](/stripes/bwbwbgbgbr/).
 
-Part of the [Dundee F.C.](/tartans/dundee-f-c/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dundee F.C.](/tartans/d/du/dundee-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

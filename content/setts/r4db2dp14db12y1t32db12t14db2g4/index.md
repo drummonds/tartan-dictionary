@@ -6,7 +6,7 @@ This is the **Timmins (2013)** sett — one scale-free proportion (`r4db2dp14db1
 [GBBBBGBBBR](/stripes/gbbbbgbbbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Timmins](/tartans/timmins-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Timmins](/tartans/t/ti/timmins-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

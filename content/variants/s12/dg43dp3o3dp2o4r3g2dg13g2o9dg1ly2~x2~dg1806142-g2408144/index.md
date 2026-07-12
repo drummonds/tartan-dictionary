@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Berry Tribute"
+  url: "/tartans/b/be/berry-tribute-2/"
+- name: "Berry Tribute"
   url: "/setts/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRRGGGRGY](/stripes/gbrbrrgggrgy/).
+
+Part of the [Berry Tribute](/tartans/b/be/berry-tribute-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

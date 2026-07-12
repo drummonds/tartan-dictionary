@@ -6,7 +6,7 @@ This is the **Asher (Personal)** sett — one scale-free proportion (`dg40dy2db3
 [GGBRBGGW](/stripes/ggbrbggw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Asher](/tartans/asher/) tartan — the named design grouping this sett with its kin.
+Part of the [Asher](/tartans/a/as/asher/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

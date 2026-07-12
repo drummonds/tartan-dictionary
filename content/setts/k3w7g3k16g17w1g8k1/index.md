@@ -6,6 +6,8 @@ This is the **Utah Valley University** sett — one scale-free proportion (`k3w7
 [KGWGKGWK](/stripes/kgwgkgwk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Utah Valley University](/tartans/u/ut/utah-valley-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

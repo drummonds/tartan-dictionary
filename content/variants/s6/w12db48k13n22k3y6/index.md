@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clunie"
-  url: "/tartans/clunie/"
+  url: "/tartans/c/cl/clunie/"
 - name: "Clunie (Personal)"
   url: "/setts/w12db48k13n22k3y6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w12db48k13n22k3y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBW](/stripes/gkbkbw/).
 
-Part of the [Clunie](/tartans/clunie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clunie](/tartans/c/cl/clunie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

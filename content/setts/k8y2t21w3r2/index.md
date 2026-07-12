@@ -6,6 +6,8 @@ This is the **Oklahoma State American District Tartan** sett — one scale-free 
 [KGBWR](/stripes/kgbwr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Oklahoma State](/tartans/o/ok/oklahoma-state/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

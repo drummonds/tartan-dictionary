@@ -6,7 +6,7 @@ This is the **Goldblatt, Joe, Jeff (Personal)** sett — one scale-free proporti
 [BBKBKBBGB](/stripes/bbkbkbbgb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Goldblatt, Joe Jeff](/tartans/goldblatt-joe-jeff/) tartan — the named design grouping this sett with its kin.
+Part of the [Goldblatt, Joe Jeff](/tartans/g/go/goldblatt-joe-jeff/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

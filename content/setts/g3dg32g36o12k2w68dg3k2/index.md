@@ -6,6 +6,8 @@ This is the **Kintail Dress** sett — one scale-free proportion (`g3dg32g36o12k
 [GGGRKWGK](/stripes/gggrkwgk/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kintail Dress](/tartans/k/ki/kintail-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

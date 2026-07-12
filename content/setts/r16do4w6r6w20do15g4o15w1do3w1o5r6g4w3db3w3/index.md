@@ -6,6 +6,8 @@ This is the **Jacobite, dress** sett — one scale-free proportion (`r16do4w6r6w
 [RBWRWBGRWBWRRGWBW](/stripes/rbwrwbgrwbwrrgwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Jacobite, dress](/tartans/j/ja/jacobite-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

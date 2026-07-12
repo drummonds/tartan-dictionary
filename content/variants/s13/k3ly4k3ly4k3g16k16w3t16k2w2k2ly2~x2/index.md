@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lotus Elan"
+  url: "/tartans/l/lo/lotus-elan/"
 - name: "Lotus Elan (Corporate)"
   url: "/setts/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKGKWBKWKY](/stripes/kykykgkwbkwky/).
+
+Part of the [Lotus Elan](/tartans/l/lo/lotus-elan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

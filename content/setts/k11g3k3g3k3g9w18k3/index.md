@@ -6,6 +6,8 @@ This is the **Lamont Dress** sett — one scale-free proportion (`k11g3k3g3k3g9w
 [KGKGKGWK](/stripes/kgkgkgwk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lamont Dress](/tartans/l/la/lamont-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

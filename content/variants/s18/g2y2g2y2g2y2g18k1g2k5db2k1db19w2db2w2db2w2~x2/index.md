@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Islamic"
-  url: "/tartans/scottish-islamic/"
+  url: "/tartans/s/sc/scottish-islamic/"
 - name: "Scottish Islamic"
   url: "/setts/g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGKGKBKBWBWBW](/stripes/gggggggkgkbkbwbwbw/).
 
-Part of the [Scottish Islamic](/tartans/scottish-islamic/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Islamic](/tartans/s/sc/scottish-islamic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

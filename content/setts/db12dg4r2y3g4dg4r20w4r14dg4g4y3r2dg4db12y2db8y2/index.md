@@ -6,6 +6,8 @@ This is the **Béguinot, Stéphane (Personal)** sett — one scale-free proporti
 [BGRGGGRWRGGGRGBGBG](/stripes/bgrgggrwrgggrgbgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Béguinot, Stéphane](/tartans/b/b/b-guinot-st-phane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

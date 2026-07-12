@@ -6,6 +6,8 @@ This is the **Scottish Knights Templar, of M.T.S. St Andrew** sett — one scale
 [BRKWKWKBRW](/stripes/brkwkwkbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Knights Templar, of M.T.S. St Andrew](/tartans/s/sc/scottish-knights-templar-of-m-t-s-st-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

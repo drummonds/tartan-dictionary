@@ -6,7 +6,7 @@ This is the **Crook** sett — one scale-free proportion (`k4r14t2dg16r3k3r3t12d
 [GBRKRGBRK](/stripes/gbrkrgbrk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Crook](/tartans/crook/) tartan — the named design grouping this sett with its kin.
+Part of the [Crook](/tartans/c/cr/crook/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Royal Highland Yacht Club (Corporate** sett — one scale-free pro
 [BBBBBBBBGBW](/stripes/bbbbbbbbgbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Royal Highland Yacht Club (Corporate](/tartans/r/ro/royal-highland-yacht-club-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

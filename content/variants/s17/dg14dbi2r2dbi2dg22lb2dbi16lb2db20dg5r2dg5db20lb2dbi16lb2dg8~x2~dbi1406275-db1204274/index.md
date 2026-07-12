@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Frangord"
+  url: "/tartans/f/fr/frangord/"
+- name: "Frangord"
   url: "/setts/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGWBWBGRGBWBWG](/stripes/gbrbgwbwbgrgbwbwg/).
+
+Part of the [Frangord](/tartans/f/fr/frangord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **Whisky** sett — one scale-free proportion (`y10k2w3k6dy4k2lb8k2d
 [GGGGGGKYYWKGKWKGKWKG](/stripes/ggggggkyywkgkwkgkwkg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Whisky](/tartans/w/wh/whisky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

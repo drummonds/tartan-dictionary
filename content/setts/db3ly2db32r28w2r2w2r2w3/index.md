@@ -6,6 +6,8 @@ This is the **Sea Dog Bamse, Pride of Norway** sett — one scale-free proportio
 [BYBRWRWRW](/stripes/bybrwrwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Sea Dog Bamse](/tartans/s/se/sea-dog-bamse/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

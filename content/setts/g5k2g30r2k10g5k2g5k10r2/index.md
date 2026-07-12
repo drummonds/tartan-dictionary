@@ -6,6 +6,8 @@ This is the **MacArthur-Fox 2000 (Personal)** sett — one scale-free proportion
 [GKGRKGKGKR](/stripes/gkgrkgkgkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacArthur-Fox 2000](/tartans/m/ma/macarthur-fox-2000/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

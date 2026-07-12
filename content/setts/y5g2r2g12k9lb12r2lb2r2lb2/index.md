@@ -6,6 +6,8 @@ This is the **Lobban (Personal)** sett — one scale-free proportion (`y5g2r2g12
 [GGRGKWRWRW](/stripes/ggrgkwrwrw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Lobban](/tartans/l/lo/lobban/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

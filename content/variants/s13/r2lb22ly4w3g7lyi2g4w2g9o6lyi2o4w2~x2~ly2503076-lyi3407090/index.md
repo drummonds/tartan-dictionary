@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Isle of Man"
+  url: "/tartans/i/is/isle-of-man/"
 - name: "Isle of Man (District)"
   url: "/setts/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYWGYGWGRYRW](/stripes/rwywgygwgryrw/).
+
+Part of the [Isle of Man](/tartans/i/is/isle-of-man/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

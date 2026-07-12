@@ -6,6 +6,8 @@ This is the **Warden** sett — one scale-free proportion (`w4r1w5dbi1w3db5y1db2
 [BRBBWBGBWBWRW](/stripes/brbbwbgbwbwrw/). It is recorded as a single **variant**, below.
 First attested **1835**.
 
+Part of the [Warden](/tartans/w/wa/warden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lorne Asymmetric"
+  url: "/tartans/l/lo/lorne-asymmetric/"
 - name: "Lorne Asymmetric (Artefact)"
   url: "/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
+
+Part of the [Lorne Asymmetric](/tartans/l/lo/lorne-asymmetric/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

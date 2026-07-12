@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Outlander"
+  url: "/tartans/o/ou/outlander-4/"
 - name: "Outlander #2"
   url: "/setts/o7n6lb1ly6n1ly6n6lb1o6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o7n6lb1ly6n1ly6n6lb1o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWYBYBWR](/stripes/rbwybybwr/).
+
+Part of the [Outlander](/tartans/o/ou/outlander-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

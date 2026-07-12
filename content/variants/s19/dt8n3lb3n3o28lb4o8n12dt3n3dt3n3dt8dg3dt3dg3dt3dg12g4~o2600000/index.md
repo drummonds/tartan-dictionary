@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenlea"
+  url: "/tartans/g/gl/glenlea/"
+- name: "Glenlea"
   url: "/setts/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRWRBBBBBBGBGBGG](/stripes/bbwbrwrbbbbbbgbgbgg/).
+
+Part of the [Glenlea](/tartans/g/gl/glenlea/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

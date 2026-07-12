@@ -6,6 +6,8 @@ This is the **Buchanan Clan Tartan** sett — one scale-free proportion (`w4r25k
 [WGKWKGKGKWKRW](/stripes/wgkwkgkgkwkrw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Buchanan 9](/tartans/b/bu/buchanan-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Tennant Family Tartan** sett — one scale-free proportion (`r1dy7
 [RGBKGGR](/stripes/rgbkggr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Tennant](/tartans/tennant-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Tennant](/tartans/t/te/tennant-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loughborough Sport"
+  url: "/tartans/l/lo/loughborough-sport/"
+- name: "Loughborough Sport"
   url: "/setts/r15n3w10n7dp40w3dp6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15n3w10n7dp40w3dp6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBWBR](/stripes/bwbbwbr/).
+
+Part of the [Loughborough Sport](/tartans/l/lo/loughborough-sport/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

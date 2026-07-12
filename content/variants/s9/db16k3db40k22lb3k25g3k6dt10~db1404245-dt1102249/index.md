@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Comme Ça Il Conte"
+  url: "/tartans/c/co/comme-a-il-conte/"
+- name: "Comme Ça Il Conte"
   url: "/setts/db16k3db40k22lb3k25g3k6dt10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16k3db40k22lb3k25g3k6dt10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKGKB](/stripes/bkbkwkgkb/).
+
+Part of the [Comme Ça Il Conte](/tartans/c/co/comme-a-il-conte/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

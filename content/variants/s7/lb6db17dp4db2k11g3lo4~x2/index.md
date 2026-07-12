@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan East"
   url: "/clan/east/"
 - name: "East Lothian"
-  url: "/tartans/east-lothian/"
+  url: "/tartans/e/ea/east-lothian/"
 - name: "East Lothian"
   url: "/setts/lb6db17dp4db2k11g3lo4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb6db17dp4db2k11g3lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBKGY](/stripes/wbbbkgy/).
 
-Part of the [East Lothian](/tartans/east-lothian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [East Lothian](/tartans/e/ea/east-lothian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Royal College of Physicians Corporate Tartan** sett — one scale-
 [GGRKRBRKRG](/stripes/ggrkrbrkrg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Royal College of Physicians](/tartans/r/ro/royal-college-of-physicians-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pentecostal Assemblies of Canada** sett — one scale-free proport
 [WBWBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbwbgbgbwbrbgggbrbggbwgwbgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Pentecostal Assemblies of Canada](/tartans/p/pe/pentecostal-assemblies-of-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

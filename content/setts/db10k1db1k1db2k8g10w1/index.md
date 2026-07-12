@@ -7,6 +7,8 @@ This is the **Lamont** sett — one scale-free proportion (`db10k1db1k1db2k8g10w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Lamont](/tartans/l/la/lamont-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

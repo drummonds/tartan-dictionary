@@ -6,6 +6,8 @@ This is the **Salaberry-de-Valleyfield (District)** sett — one scale-free prop
 [BWBWBWRGKGYWKW](/stripes/bwbwbwrgkgywkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Salaberry-de-Valleyfield](/tartans/s/sa/salaberry-de-valleyfield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

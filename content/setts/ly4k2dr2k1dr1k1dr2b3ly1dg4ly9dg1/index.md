@@ -6,7 +6,7 @@ This is the **California Firefighters (Corporate)** sett — one scale-free prop
 [GYGYBBKBKBKY](/stripes/gygybbkbkbky/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [California Firefighters](/tartans/california-firefighters/) tartan — the named design grouping this sett with its kin.
+Part of the [California Firefighters](/tartans/c/ca/california-firefighters/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

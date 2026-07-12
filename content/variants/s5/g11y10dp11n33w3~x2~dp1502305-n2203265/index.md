@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sterling, Rob (Persona"
+  url: "/tartans/s/st/sterling-rob-persona/"
 - name: "Sterling, Rob (Florida) (Persona Name Tartan"
   url: "/setts/g11y10dp11n33w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g11y10dp11n33w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBW](/stripes/ggbbw/).
+
+Part of the [Sterling, Rob (Persona](/tartans/s/st/sterling-rob-persona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

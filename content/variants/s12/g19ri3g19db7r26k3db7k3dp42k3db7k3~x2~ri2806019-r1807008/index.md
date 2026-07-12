@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "By Storm"
+  url: "/tartans/b/by/by-storm-2/"
 - name: "Tartan Spirit"
   url: "/setts/g19ri3g19db7r26k3db7k3dp42k3db7k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g19ri3g19db7r26k3db7k3dp42k3db7k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBRKBKBKBK](/stripes/grgbrkbkbkbk/).
+
+Part of the [By Storm](/tartans/b/by/by-storm-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

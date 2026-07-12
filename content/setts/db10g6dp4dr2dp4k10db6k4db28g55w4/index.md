@@ -6,6 +6,8 @@ This is the **1314 (Corporate)** sett — one scale-free proportion (`db10g6dp4d
 [BGBBBKBKBGW](/stripes/bgbbbkbkbgw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [1314](/tartans/0-9/0-9/1314/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

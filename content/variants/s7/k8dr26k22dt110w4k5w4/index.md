@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh, The University of"
+  url: "/tartans/e/ed/edinburgh-the-university-of/"
+- name: "Edinburgh, The University of"
   url: "/setts/k8dr26k22dt110w4k5w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8dr26k22dt110w4k5w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBWKW](/stripes/kbkbwkw/).
+
+Part of the [Edinburgh, The University of](/tartans/e/ed/edinburgh-the-university-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

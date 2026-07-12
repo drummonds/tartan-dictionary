@@ -6,6 +6,8 @@ This is the **Heartlands** sett — one scale-free proportion (`db4t1dt20db2dt2d
 [BBBBBBGBGRBRGBGBBBBB](/stripes/bbbbbbgbgrbrgbgbbbbb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Heartlands](/tartans/h/he/heartlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

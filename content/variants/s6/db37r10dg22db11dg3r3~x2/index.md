@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Perthshire, New /Tourist Board"
+  url: "/tartans/p/pe/perthshire-new-tourist-board/"
+- name: "Perthshire, New /Tourist Board"
   url: "/setts/db37r10dg22db11dg3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db37r10dg22db11dg3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBGR](/stripes/brgbgr/).
+
+Part of the [Perthshire, New /Tourist Board](/tartans/p/pe/perthshire-new-tourist-board/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

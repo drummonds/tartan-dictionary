@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pengelly, The Cornish"
-  url: "/tartans/pengelly-the-cornish/"
+  url: "/tartans/p/pe/pengelly-the-cornish/"
 - name: "Pengelly, The Cornish (Name)"
   url: "/setts/lb5k26y4lb24dp8k3r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k26y4lb24dp8k3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWGKW](/stripes/rkbwgkw/).
 
-Part of the [Pengelly, The Cornish](/tartans/pengelly-the-cornish/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pengelly, The Cornish](/tartans/p/pe/pengelly-the-cornish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow, City of"
+  url: "/tartans/g/gl/glasgow-city-of/"
 - name: "Glasgow, City of District Tartan"
   url: "/setts/dg28r4k25r22dg27r4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg28r4k25r22dg27r4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRK](/stripes/grkrgrk/).
+
+Part of the [Glasgow, City of](/tartans/g/gl/glasgow-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

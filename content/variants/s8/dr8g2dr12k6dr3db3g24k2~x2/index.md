@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McInery"
+  url: "/tartans/m/mc/mcinery/"
 - name: "McInery (Personal)"
   url: "/setts/dr8g2dr12k6dr3db3g24k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr8g2dr12k6dr3db3g24k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBBGK](/stripes/bgbkbbgk/).
+
+Part of the [McInery](/tartans/m/mc/mcinery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

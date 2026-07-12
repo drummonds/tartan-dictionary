@@ -6,7 +6,7 @@ This is the **Schwarzen Keiler, Die** sett — one scale-free proportion (`dg6k6
 [GGKWRKGKWRKG](/stripes/ggkwrkgkwrkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Schwarzen Keiler, Die](/tartans/schwarzen-keiler-die/) tartan — the named design grouping this sett with its kin.
+Part of the [Schwarzen Keiler, Die](/tartans/s/sc/schwarzen-keiler-die/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

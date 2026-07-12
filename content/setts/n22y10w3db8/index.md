@@ -6,6 +6,8 @@ This is the **Louisburg** sett — one scale-free proportion (`n22y10w3db8`), co
 [BGWB](/stripes/bgwb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Louisburg](/tartans/l/lo/louisburg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

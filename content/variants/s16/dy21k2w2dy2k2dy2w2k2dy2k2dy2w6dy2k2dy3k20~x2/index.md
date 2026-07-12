@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Corps Suevia Heidelburg"
+  url: "/tartans/c/co/corps-suevia-heidelburg/"
+- name: "Corps Suevia Heidelburg"
   url: "/setts/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGKGWKGKGWGKGKGKGWGKGKWGKGWK](/stripes/gkwgkgwkgkgwgkgkgkgwgkgkwgkgwk/).
+
+Part of the [Corps Suevia Heidelburg](/tartans/c/co/corps-suevia-heidelburg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

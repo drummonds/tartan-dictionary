@@ -6,7 +6,7 @@ This is the **Robbie (Stirling) (Personal)** sett — one scale-free proportion 
 [WGBBBBBGBBBGW](/stripes/wgbbbbbgbbbgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Robbie](/tartans/robbie/) tartan — the named design grouping this sett with its kin.
+Part of the [Robbie](/tartans/r/ro/robbie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

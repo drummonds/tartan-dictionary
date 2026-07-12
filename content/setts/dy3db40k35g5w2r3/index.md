@@ -6,6 +6,8 @@ This is the **Italian National** sett — one scale-free proportion (`dy3db40k35
 [GBKGWR](/stripes/gbkgwr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Italian National](/tartans/i/it/italian-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

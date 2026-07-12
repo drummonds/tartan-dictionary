@@ -6,7 +6,7 @@ This is the **Cooper Dress (Dalgleish #2) (Dance)** sett — one scale-free prop
 [BRGWBWBKRBRGBKBRBG](/stripes/brgwbwbkrbrgbkbrbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Cooper, dress](/tartans/cooper-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Cooper, dress](/tartans/c/co/cooper-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

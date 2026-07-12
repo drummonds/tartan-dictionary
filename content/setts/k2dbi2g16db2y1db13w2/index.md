@@ -7,7 +7,7 @@ This is the **Wishart, hunting** sett — one scale-free proportion (`k2dbi2g16d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Wishart Hunting](/tartans/wishart-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Wishart Hunting](/tartans/w/wi/wishart-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Oriflame** sett — one scale-free proportion (`w4lb6w6lb21w9n27w1
 [BRBRBWRRRRRWWBWBWWBWWWWW](/stripes/brbrbwrrrrrwwbwbwwbwwwww/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Oriflame](/tartans/o/or/oriflame/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Thompson Grey Dress** sett — one scale-free proportion (`dr1n6k1
 [BBKWKB](/stripes/bbkwkb/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Thompson Grey Dress](/tartans/t/th/thompson-grey-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

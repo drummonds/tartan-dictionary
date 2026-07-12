@@ -6,6 +6,8 @@ This is the **Antrim** sett — one scale-free proportion (`g5k2g17y2k5y2b5k17g2
 [GGKBGKGGKG](/stripes/ggkbgkggkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Antrim](/tartans/a/an/antrim/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

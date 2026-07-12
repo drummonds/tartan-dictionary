@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queen of Scots"
+  url: "/tartans/q/qu/queen-of-scots/"
+- name: "Queen of Scots"
   url: "/setts/r34db4r1db4g2k3g1k3g22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r34db4r1db4g2k3g1k3g22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGBRBR](/stripes/gkgkgbrbr/).
+
+Part of the [Queen of Scots](/tartans/q/qu/queen-of-scots/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

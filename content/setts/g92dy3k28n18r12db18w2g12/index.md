@@ -6,6 +6,8 @@ This is the **Mull Millennium** sett — one scale-free proportion (`g92dy3k28n1
 [GGKBRBWG](/stripes/ggkbrbwg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Mull Millennium](/tartans/m/mu/mull-millennium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

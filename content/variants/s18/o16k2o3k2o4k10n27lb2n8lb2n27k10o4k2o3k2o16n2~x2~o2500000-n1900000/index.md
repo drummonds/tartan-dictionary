@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Granite Weavers"
+  url: "/tartans/h/hi/highland-granite-weavers/"
 - name: "Highland Granite Weavers Tartan"
   url: "/setts/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRKRKBWBWBKRKRKR](/stripes/brkrkrkbwbwbkrkrkr/).
+
+Part of the [Highland Granite Weavers](/tartans/h/hi/highland-granite-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Rhun (Fashion)** sett — one scale-free proportion (`r12db68w7k39
 [GRGKWBR](/stripes/grgkwbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Rhun](/tartans/r/rh/rhun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

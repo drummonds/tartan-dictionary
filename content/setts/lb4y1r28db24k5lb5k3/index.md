@@ -6,7 +6,7 @@ This is the **McKnight #2 (Personal)** sett — one scale-free proportion (`lb4y
 [KWKBRGW](/stripes/kwkbrgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [McKnight](/tartans/mcknight/) tartan — the named design grouping this sett with its kin.
+Part of the [McKnight](/tartans/m/mc/mcknight/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

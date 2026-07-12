@@ -6,6 +6,8 @@ This is the **Mayo County Crest (Fashion)** sett — one scale-free proportion (
 [GGBRBGBWBGBW](/stripes/ggbrbgbwbgbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Mayo County Crest](/tartans/m/ma/mayo-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yorkshire, The Spirit of"
+  url: "/tartans/y/yo/yorkshire-the-spirit-of/"
+- name: "Yorkshire, The Spirit of"
   url: "/setts/db19ly2db3w7db3w7db9w3db2w19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db19ly2db3w7db3w7db9w3db2w19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWBWBWBW](/stripes/bybwbwbwbw/).
+
+Part of the [Yorkshire, The Spirit of](/tartans/y/yo/yorkshire-the-spirit-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "King, Garry"
+  url: "/tartans/k/ki/king-garry/"
 - name: "King, Garry (Personal)"
   url: "/setts/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKBKBKGKRKRG](/stripes/gggkbkbkgkrkrg/).
+
+Part of the [King, Garry](/tartans/k/ki/king-garry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

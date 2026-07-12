@@ -6,6 +6,8 @@ This is the **Diana Pink (Commemorative)** sett — one scale-free proportion (`
 [RWKWGWGWKBWWW](/stripes/rwkwgwgwkbwww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Diana Pink](/tartans/d/di/diana-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

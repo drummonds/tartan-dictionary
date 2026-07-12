@@ -6,6 +6,8 @@ This is the **Day (2016)** sett — one scale-free proportion (`r60k1r2y1g6db6r2
 [KGGBRRRBGGRKR](/stripes/kggbrrrbggrkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Day](/tartans/d/da/day/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Junor (Personal)** sett — one scale-free proportion (`r9lb2db2lb
 [KRWBWBGBRBGBWBWR](/stripes/krwbwbgbrbgbwbwr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Junor](/tartans/j/ju/junor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

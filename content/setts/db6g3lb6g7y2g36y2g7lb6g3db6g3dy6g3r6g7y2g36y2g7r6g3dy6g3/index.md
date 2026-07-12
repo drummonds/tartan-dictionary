@@ -6,6 +6,8 @@ This is the **Sea Bees Regimental Tartan** sett — one scale-free proportion (`
 [BGWGGGGGWGBGGGRGGGGGRGGG](/stripes/bgwgggggwgbgggrgggggrggg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Sea Bees Regimental](/tartans/s/se/sea-bees-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

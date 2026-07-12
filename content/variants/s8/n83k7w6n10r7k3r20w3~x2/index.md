@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "President High School"
+  url: "/tartans/p/pr/president-high-school-2/"
+- name: "President High School"
   url: "/setts/n83k7w6n10r7k3r20w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n83k7w6n10r7k3r20w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBRKRW](/stripes/bkwbrkrw/).
+
+Part of the [President High School](/tartans/p/pr/president-high-school-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

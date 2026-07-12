@@ -6,6 +6,8 @@ This is the **Farquharson** sett — one scale-free proportion (`r4k2db16k16g16l
 [RBKBKBKBKGYGKBKR](/stripes/rbkbkbkbkgygkbkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Farquharson](/tartans/f/fa/farquharson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ensign, of Ontario** sett — one scale-free proportion (`g21k1r4k
 [GKRKRGRGRGGGRGR](/stripes/gkrkrgrgrgggrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ensign, of Ontario](/tartans/e/en/ensign-of-ontario-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

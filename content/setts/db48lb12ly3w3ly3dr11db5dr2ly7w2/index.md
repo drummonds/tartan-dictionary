@@ -6,6 +6,8 @@ This is the **Holyrood Golden Jubilee II** sett — one scale-free proportion (`
 [BWYWYBBBYWYBBBYWYW](/stripes/bwywybbbywybbbywyw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Holyrood Golden Jubilee](/tartans/h/ho/holyrood-golden-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

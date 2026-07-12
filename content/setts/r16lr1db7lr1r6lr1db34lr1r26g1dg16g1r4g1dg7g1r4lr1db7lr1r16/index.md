@@ -6,6 +6,8 @@ This is the **MacDonald of Boisdale** sett — one scale-free proportion (`r16lr
 [RYBYRGGGRGGGRYBYRYBYR](/stripes/rybyrgggrgggrybyrybyr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
+Part of the [MacDonald of Boisdale](/tartans/m/ma/macdonald-of-boisdale-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

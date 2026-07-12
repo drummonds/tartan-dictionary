@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Marino"
+  url: "/tartans/m/ma/marino/"
+- name: "Marino"
   url: "/setts/dp29y4db4y4do4y4r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp29y4db4y4do4y4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGR](/stripes/bgbgbgr/).
+
+Part of the [Marino](/tartans/m/ma/marino/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

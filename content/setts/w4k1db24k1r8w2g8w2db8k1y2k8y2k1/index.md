@@ -6,6 +6,8 @@ This is the **South Africa** sett — one scale-free proportion (`w4k1db24k1r8w2
 [KGKGKBWGWRKBKW](/stripes/kgkgkbwgwrkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [South Africa](/tartans/s/so/south-africa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

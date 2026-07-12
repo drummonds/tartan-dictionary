@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pollock"
-  url: "/tartans/pollock-2/"
+  url: "/tartans/p/po/pollock-2/"
 - name: "Pollock (Name)"
   url: "/setts/g6lo2g32k8w6lo20g5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6lo2g32k8w6lo20g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKWYG](/stripes/gygkwyg/).
 
-Part of the [Pollock](/tartans/pollock-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pollock](/tartans/p/po/pollock-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

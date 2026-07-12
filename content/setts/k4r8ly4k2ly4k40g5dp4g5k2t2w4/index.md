@@ -6,6 +6,8 @@ This is the **MacMunn** sett — one scale-free proportion (`k4r8ly4k2ly4k40g5dp
 [KRYKYKGBGKBW](/stripes/krykykgbgkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [MacMunn](/tartans/m/ma/macmunn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

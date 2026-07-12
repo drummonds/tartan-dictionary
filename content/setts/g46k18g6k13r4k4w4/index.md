@@ -6,6 +6,8 @@ This is the **Page** sett — one scale-free proportion (`g46k18g6k13r4k4w4`), c
 [GKGKRKW](/stripes/gkgkrkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Page](/tartans/p/pa/page/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

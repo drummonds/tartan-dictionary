@@ -7,6 +7,8 @@ This is the **Keepers of the Quaich** sett — one scale-free proportion (`lo3dy
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1988**.
 
+Part of the [Keepers of the Quaich](/tartans/k/ke/keepers-of-the-quaich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

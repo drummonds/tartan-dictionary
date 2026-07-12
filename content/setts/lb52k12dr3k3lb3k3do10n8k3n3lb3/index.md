@@ -6,6 +6,8 @@ This is the **Stewart Dress, Grey #1 (Fashion)** sett — one scale-free proport
 [WBKBBKWKBKW](/stripes/wbkbbkwkbkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Stewart Dress](/tartans/s/st/stewart-dress-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

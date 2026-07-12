@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chalk, Robert"
+  url: "/tartans/c/ch/chalk-robert/"
 - name: "Chalk, Robert (Personal)"
   url: "/setts/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGWGWYBWB](/stripes/bbwgwgwybwb/).
+
+Part of the [Chalk, Robert](/tartans/c/ch/chalk-robert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

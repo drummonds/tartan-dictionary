@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "All Ireland"
-  url: "/tartans/all-ireland-2/"
+  url: "/tartans/a/al/all-ireland-2/"
 - name: "All Ireland Green (Fashion)"
   url: "/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGGGBGG](/stripes/bgggggggggbgg/).
 
-Part of the [All Ireland](/tartans/all-ireland-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [All Ireland](/tartans/a/al/all-ireland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

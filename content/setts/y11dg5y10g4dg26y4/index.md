@@ -6,6 +6,8 @@ This is the **North Dakota State University Bison** sett — one scale-free prop
 [GGGGGG](/stripes/gggggg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [North Dakota State University Bison](/tartans/n/no/north-dakota-state-university-bison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

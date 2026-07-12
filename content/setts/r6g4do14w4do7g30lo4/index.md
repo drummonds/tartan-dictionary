@@ -6,7 +6,7 @@ This is the **Newfoundland (District)** sett — one scale-free proportion (`r6g
 [RGBWBGY](/stripes/rgbwbgy/). It is recorded as a single **variant**, below.
 First attested **1955**.
 
-Part of the [Newfoundland](/tartans/newfoundland-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Newfoundland](/tartans/n/ne/newfoundland-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

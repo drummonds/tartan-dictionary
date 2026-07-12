@@ -6,7 +6,7 @@ This is the **Blair Dress Clan Tartan** sett — one scale-free proportion (`db1
 [BRBKGRGRGKWRW](/stripes/brbkgrgrgkwrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Blair Dress](/tartans/blair-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Blair Dress](/tartans/b/bl/blair-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

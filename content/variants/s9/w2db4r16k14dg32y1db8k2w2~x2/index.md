@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "National Millennium"
-  url: "/tartans/national-millennium/"
+  url: "/tartans/n/na/national-millennium/"
 - name: "National Millennium"
   url: "/setts/w2db4r16k14dg32y1db8k2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2db4r16k14dg32y1db8k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKGGBKW](/stripes/wbrkggbkw/).
 
-Part of the [National Millennium](/tartans/national-millennium/) tartan — the named design grouping this sett with its other cloths.
+Part of the [National Millennium](/tartans/n/na/national-millennium/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

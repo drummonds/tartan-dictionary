@@ -6,6 +6,8 @@ This is the **O'Kelly Family (Personal)** sett — one scale-free proportion (`g
 [GRBWRGBGBGBGBWGWBGR](/stripes/grbwrgbgbgbgbwgwbgr/). It is recorded as a single **variant**, below.
 First attested **1933**.
 
+Part of the [O'Kelly](/tartans/o/o/o-kelly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

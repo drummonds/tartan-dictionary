@@ -6,6 +6,8 @@ This is the **Hilton Check** sett — one scale-free proportion (`dg25k1y2k1dg4k
 [GKGKGKBKGKYKG](/stripes/gkgkgkbkgkykg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Hilton Check](/tartans/h/hi/hilton-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

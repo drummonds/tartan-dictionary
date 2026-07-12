@@ -7,6 +7,8 @@ This is the **Fraser Gathering Dress (1997)** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
+Part of the [Fraser Gathering Dress](/tartans/f/fr/fraser-gathering-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

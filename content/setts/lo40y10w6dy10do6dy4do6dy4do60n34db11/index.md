@@ -6,6 +6,8 @@ This is the **Angels' Share, The** sett — one scale-free proportion (`lo40y10w
 [BBBGBGBGWGY](/stripes/bbbgbgbgwgy/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Angels' Share, The](/tartans/a/an/angels-share-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

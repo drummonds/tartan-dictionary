@@ -6,6 +6,8 @@ This is the **Orr, Gerald William (Personal)** sett — one scale-free proportio
 [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Orr, Gerald William](/tartans/o/or/orr-gerald-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

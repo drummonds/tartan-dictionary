@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "John Hamilton Gray Commemorative"
+  url: "/tartans/j/jo/john-hamilton-gray-commemorative/"
 - name: "John Hamilton Gray Commemorative Tartan"
   url: "/setts/w8g14r6g24db30y10w40y10db7y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8g14r6g24db30y10w40y10db7y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGBGRGW](/stripes/gbgwgbgrgw/).
+
+Part of the [John Hamilton Gray Commemorative](/tartans/j/jo/john-hamilton-gray-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw, Miss Rebecca"
+  url: "/tartans/s/sh/shaw-miss-rebecca/"
 - name: "Shaw, Miss Rebecca (Personal)"
   url: "/setts/lb5k1w30dp15w8g30w8dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5k1w30dp15w8g30w8dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWBWKW](/stripes/bwgwbwkw/).
+
+Part of the [Shaw, Miss Rebecca](/tartans/s/sh/shaw-miss-rebecca/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **CBS (Corporate)** sett — one scale-free proportion (`db18n16o11n
 [BBRBKBKBKBKBRKR](/stripes/bbrbkbkbkbkbrkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [CBS](/tartans/c/cb/cbs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

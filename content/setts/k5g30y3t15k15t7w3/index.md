@@ -6,6 +6,8 @@ This is the **Dick (Personal)** sett — one scale-free proportion (`k5g30y3t15k
 [KGGBKBW](/stripes/kggbkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dick](/tartans/d/di/dick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

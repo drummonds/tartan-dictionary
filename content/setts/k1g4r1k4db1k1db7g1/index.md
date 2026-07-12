@@ -6,6 +6,8 @@ This is the **Brabender** sett — one scale-free proportion (`k1g4r1k4db1k1db7g
 [GBKBKRGK](/stripes/gbkbkrgk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Brabender](/tartans/b/br/brabender/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Brown"
   url: "/clan/brown/"
 - name: "Brown Watch"
-  url: "/tartans/brown-watch-2/"
+  url: "/tartans/b/br/brown-watch-2/"
 - name: "Brown, Watch"
   url: "/setts/o11k1o1k1o1k8g8k1g8k8o8k1o1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o11k1o1k1o1k8g8k1g8k8o8k1o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKGKGKRKRKR](/stripes/rkrkgkgkrkrkr/).
 
-Part of the [Brown Watch](/tartans/brown-watch-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brown Watch](/tartans/b/br/brown-watch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

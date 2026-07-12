@@ -6,6 +6,8 @@ This is the **Priest** sett — one scale-free proportion (`k1y1dp7k8y1k8y1dp2y1
 [GKGBGKGKBGK](/stripes/gkgbgkgkbgk/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Priest](/tartans/p/pr/priest-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fleming/Frisken/Flanders** sett — one scale-free proportion (`db
 [BKBKBKBKGKBKBKW](/stripes/bkbkbkbkgkbkbkw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Fleming Commemorative](/tartans/f/fl/fleming-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

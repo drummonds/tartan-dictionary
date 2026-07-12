@@ -6,7 +6,7 @@ This is the **Unidentified, Ross-shire** sett — one scale-free proportion (`w7
 [RWRRGRRW](/stripes/rwrrgrrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Unidentified Ross-shire](/tartans/unidentified-ross-shire/) tartan — the named design grouping this sett with its kin.
+Part of the [Unidentified Ross-shire](/tartans/u/un/unidentified-ross-shire/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

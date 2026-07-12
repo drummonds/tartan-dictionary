@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of South Lanarkshire (Distric"
+  url: "/tartans/s/sp/spirit-of-south-lanarkshire-distric/"
 - name: "Spirit of South Lanarkshire"
   url: "/setts/lb13g2lb12k8r1dt35ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb13g2lb12k8r1dt35ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWKRBY](/stripes/wgwkrby/).
+
+Part of the [Spirit of South Lanarkshire (Distric](/tartans/s/sp/spirit-of-south-lanarkshire-distric/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

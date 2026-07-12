@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jedforest"
+  url: "/tartans/j/je/jedforest/"
+- name: "Jedforest"
   url: "/setts/k4db2g24r1g2r1g2k20db24k1db2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db2g24r1g2r1g2k20db24k1db2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRGRGKBKBK](/stripes/kbgrgrgkbkbk/).
+
+Part of the [Jedforest](/tartans/j/je/jedforest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

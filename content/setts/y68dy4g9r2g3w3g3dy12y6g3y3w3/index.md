@@ -7,6 +7,8 @@ This is the **Kelly Dress** sett — one scale-free proportion (`y68dy4g9r2g3w3g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2004**.
 
+Part of the [Kelly Dress](/tartans/k/ke/kelly-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

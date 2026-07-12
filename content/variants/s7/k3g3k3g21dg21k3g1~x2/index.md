@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Granite City"
+  url: "/tartans/g/gr/granite-city/"
 - name: "Granite City (Silver Granite) Fashion Tartan"
   url: "/setts/k3g3k3g21dg21k3g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g3k3g21dg21k3g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKGK](/stripes/gkggkgk/).
+
+Part of the [Granite City](/tartans/g/gr/granite-city/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

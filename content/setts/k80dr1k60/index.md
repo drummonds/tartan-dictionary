@@ -6,6 +6,8 @@ This is the **Bodog** sett — one scale-free proportion (`k80dr1k60`), colour o
 [KBK](/stripes/kbk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Bodog](/tartans/b/bo/bodog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

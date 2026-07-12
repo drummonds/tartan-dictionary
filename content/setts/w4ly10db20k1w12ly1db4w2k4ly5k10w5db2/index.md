@@ -6,6 +6,8 @@ This is the **Dinarzh: (Fashion)** sett — one scale-free proportion (`w4ly10db
 [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Dinarzh:](/tartans/d/di/dinarzh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

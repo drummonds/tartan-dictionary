@@ -6,7 +6,7 @@ This is the **College of Radiographers Corporate Tartan** sett — one scale-fre
 [KGKBW](/stripes/kgkbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [College of Radiographers](/tartans/college-of-radiographers/) tartan — the named design grouping this sett with its kin.
+Part of the [College of Radiographers](/tartans/c/co/college-of-radiographers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

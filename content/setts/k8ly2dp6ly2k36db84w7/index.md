@@ -6,6 +6,8 @@ This is the **Grahame Laurie Band (Corporate)** sett — one scale-free proporti
 [KYBYKBW](/stripes/kybykbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Grahame Laurie Band](/tartans/g/gr/grahame-laurie-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

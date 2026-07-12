@@ -6,6 +6,8 @@ This is the **MacGlashan #3** sett — one scale-free proportion (`r20k3w2ly25w2
 [RKWYWGRKRGWWKRWW](/stripes/rkwywgrkrgwwkrww/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [MacGlashan](/tartans/m/ma/macglashan-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

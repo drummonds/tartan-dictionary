@@ -6,6 +6,8 @@ This is the **Strathspey District (District)** sett — one scale-free proportio
 [KBKBKGK](/stripes/kbkbkgk/). It is recorded as a single **variant**, below.
 First attested **1794**.
 
+Part of the [Strathspey District](/tartans/s/st/strathspey-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

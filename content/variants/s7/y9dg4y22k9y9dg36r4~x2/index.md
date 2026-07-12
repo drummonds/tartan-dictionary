@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harmer"
-  url: "/tartans/harmer-2/"
+  url: "/tartans/h/ha/harmer-2/"
 - name: "Harmer"
   url: "/setts/y9dg4y22k9y9dg36r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y9dg4y22k9y9dg36r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGGR](/stripes/gggkggr/).
 
-Part of the [Harmer](/tartans/harmer-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harmer](/tartans/h/ha/harmer-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

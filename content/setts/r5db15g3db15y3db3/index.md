@@ -6,6 +6,8 @@ This is the **Abertay University (Estimated threadcount)** sett — one scale-fr
 [BGBGBR](/stripes/bgbgbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Abertay University](/tartans/a/ab/abertay-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

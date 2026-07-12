@@ -6,6 +6,8 @@ This is the **Childers (Gurkha Rifles)** sett — one scale-free proportion (`k8
 [KGKGKGKGKR](/stripes/kgkgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **1907**.
 
+Part of the [Childers](/tartans/c/ch/childers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

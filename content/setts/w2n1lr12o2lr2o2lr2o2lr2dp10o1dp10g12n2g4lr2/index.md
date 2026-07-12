@@ -6,6 +6,8 @@ This is the **Cribb (2016)** sett — one scale-free proportion (`w2n1lr12o2lr2o
 [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Cribb](/tartans/c/cr/cribb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

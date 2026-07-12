@@ -6,6 +6,8 @@ This is the **Johnstons of Elgin Bicentennial (Com** sett — one scale-free pro
 [BRBGBBRBW](/stripes/brbgbbrbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Johnstons of Elgin Bicentennial (Com](/tartans/j/jo/johnstons-of-elgin-bicentennial-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

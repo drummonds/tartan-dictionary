@@ -6,7 +6,7 @@ This is the **Lowry** sett — one scale-free proportion (`dp6ly2dp1dg25db16k2db
 [BKBGBYB](/stripes/bkbgbyb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Lowry](/tartans/lowry/) tartan — the named design grouping this sett with its kin.
+Part of the [Lowry](/tartans/l/lo/lowry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

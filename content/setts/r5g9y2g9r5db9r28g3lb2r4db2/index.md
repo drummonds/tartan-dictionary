@@ -6,7 +6,7 @@ This is the **Loch Creran** sett — one scale-free proportion (`r5g9y2g9r5db9r2
 [BRWGRBRGGGR](/stripes/brwgrbrgggr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Loch Creran](/tartans/loch-creran/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Creran](/tartans/l/lo/loch-creran/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

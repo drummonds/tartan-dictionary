@@ -6,6 +6,8 @@ This is the **International College of Dentists (Canadian Section)** sett — on
 [GGGKGKYGYKYGYKYGYKGGGK](/stripes/gggkgkygykygykygykgggk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [International College of Dentists](/tartans/i/in/international-college-of-dentists/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

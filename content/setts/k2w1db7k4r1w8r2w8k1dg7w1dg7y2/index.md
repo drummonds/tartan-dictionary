@@ -6,6 +6,8 @@ This is the **MacLellan/McLellan Dress (Personal)** sett — one scale-free prop
 [GGWGKWRWRKBWK](/stripes/ggwgkwrwrkbwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacLellan Dress](/tartans/m/ma/maclellan-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

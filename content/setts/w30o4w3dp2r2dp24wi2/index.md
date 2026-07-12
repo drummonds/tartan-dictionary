@@ -6,6 +6,8 @@ This is the **St Andrews Links Dress** sett — one scale-free proportion (`w30o
 [WBRBWRW](/stripes/wbrbwrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [St Andrews Links Dress](/tartans/s/st/st-andrews-links-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

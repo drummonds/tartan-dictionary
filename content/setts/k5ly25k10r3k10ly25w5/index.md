@@ -6,6 +6,8 @@ This is the **Richmond de Ellel (Personal)** sett — one scale-free proportion 
 [KYKRKYW](/stripes/kykrkyw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Richmond de Ellel](/tartans/r/ri/richmond-de-ellel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

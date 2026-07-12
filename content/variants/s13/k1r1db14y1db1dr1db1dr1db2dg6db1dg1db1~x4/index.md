@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Merchant Company, The"
-  url: "/tartans/merchant-company-the/"
+  url: "/tartans/m/me/merchant-company-the/"
 - name: "Merchant Company, The"
   url: "/setts/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBBBBGBRK](/stripes/bgbgbbbbbgbrk/).
 
-Part of the [Merchant Company, The](/tartans/merchant-company-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Merchant Company, The](/tartans/m/me/merchant-company-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

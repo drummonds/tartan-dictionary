@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galego"
+  url: "/tartans/g/ga/galego/"
+- name: "Galego"
   url: "/setts/db16r4db2y4db8w8db2w24lb2w1lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16r4db2y4db8w8db2w24lb2w1lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBWWWW](/stripes/brbgbwbwwww/).
+
+Part of the [Galego](/tartans/g/ga/galego/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

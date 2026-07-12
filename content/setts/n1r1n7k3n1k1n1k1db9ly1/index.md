@@ -6,6 +6,8 @@ This is the **Brady 60th (Personal)** sett — one scale-free proportion (`n1r1n
 [BRBKBKBKBY](/stripes/brbkbkbkby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Brady 60th](/tartans/b/br/brady-60th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

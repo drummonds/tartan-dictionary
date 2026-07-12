@@ -6,6 +6,8 @@ This is the **Keogh (Name)** sett — one scale-free proportion (`r4t18r4lb3r4k1
 [RBRWRKRBKY](/stripes/rbrwrkrbky/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Keogh](/tartans/k/ke/keogh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shanghai Scottish"
+  url: "/tartans/s/sh/shanghai-scottish/"
+- name: "Shanghai Scottish"
   url: "/setts/y4r23db3r3db16lb15b27lb8b5lb13w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4r23db3r3db16lb15b27lb8b5lb13w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBWBWBWW](/stripes/grbrbwbwbww/).
+
+Part of the [Shanghai Scottish](/tartans/s/sh/shanghai-scottish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

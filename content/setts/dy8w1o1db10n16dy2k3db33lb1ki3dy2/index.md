@@ -6,6 +6,8 @@ This is the **Arran Mist** sett — one scale-free proportion (`dy8w1o1db10n16dy
 [GKWBKGBBRWG](/stripes/gkwbkgbbrwg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Arran Mist](/tartans/a/ar/arran-mist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

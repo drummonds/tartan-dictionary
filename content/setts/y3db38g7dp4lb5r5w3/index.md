@@ -6,6 +6,8 @@ This is the **Blairgowrie Golf Club, The** sett — one scale-free proportion (`
 [GBGBWRW](/stripes/gbgbwrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Blairgowrie Golf Club, The](/tartans/b/bl/blairgowrie-golf-club-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

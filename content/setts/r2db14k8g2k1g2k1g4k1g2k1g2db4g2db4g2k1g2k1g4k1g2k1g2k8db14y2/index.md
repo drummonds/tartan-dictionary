@@ -6,7 +6,7 @@ This is the **Duchess of Albany Family Tartan** sett — one scale-free proporti
 [GBKGKGKGKGKGBGBGKGKGKGKGKBR](/stripes/gbkgkgkgkgkgbgbgkgkgkgkgkbr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Duchess of Albany](/tartans/duchess-of-albany/) tartan — the named design grouping this sett with its kin.
+Part of the [Duchess of Albany](/tartans/d/du/duchess-of-albany/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

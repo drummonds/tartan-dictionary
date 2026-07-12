@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bute Heather, Glencallum"
+  url: "/tartans/b/bu/bute-heather-glencallum/"
 - name: "Bute Heather, Glencallum (Fashion)"
   url: "/setts/lb13t2dg38k13dg8k8dg17k2dg17k4w11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb13t2dg38k13dg8k8dg17k2dg17k4w11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGKGKGKW](/stripes/wbgkgkgkgkw/).
+
+Part of the [Bute Heather, Glencallum](/tartans/b/bu/bute-heather-glencallum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

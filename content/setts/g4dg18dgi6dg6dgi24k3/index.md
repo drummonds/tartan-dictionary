@@ -6,6 +6,8 @@ This is the **Park Estate** sett — one scale-free proportion (`g4dg18dgi6dg6dg
 [GGGGGK](/stripes/gggggk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Park Estate](/tartans/p/pa/park-estate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

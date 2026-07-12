@@ -6,7 +6,7 @@ This is the **Laval (Tartan de..) District Tartan** sett — one scale-free prop
 [BWBBW](/stripes/bwbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Laval](/tartans/laval/) tartan — the named design grouping this sett with its kin.
+Part of the [Laval](/tartans/l/la/laval/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

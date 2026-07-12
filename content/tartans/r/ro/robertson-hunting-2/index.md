@@ -1,0 +1,43 @@
+---
+title: "Robertson Hunting"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+---
+A tartan of [Clan Robertson](/clan/robertson/).
+Its design is pattern [BKGKRKGKBW](/stripes/bkgkrkgkbw/) — the page of every tartan sharing this colour sequence.
+
+Ancient hunting sett of the northern Robertsons, resembling the Athol Murray; specimen preserved in the Cockburn Collection.
+
+The **Robertson Hunting** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db18k10g9k2r2k2g9k10db9w2/">Robertson Hunting</a></td><td><code>DB/36 K20 G18 K4 R4 K4 G18 K20 DB18 W/4</code></td><td>252</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db18k10g9k2r2k2g9k10db9w2/"><img src="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Robertson Hunting #2
+- Robertson, hunting
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/">Robertson Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db33k16g17n3g17k16db15k3w3~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.24</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db10k9g9w1g2r1g9k9db10k1db2~x4&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.34</a></div><div class="nn-threads">504</div><div class="nn-name"><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/">Spar (UK) Ltd</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2db12k12g12k5ly1k5g12k12db12w1~x4&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.36</a></div><div class="nn-threads">676</div><div class="nn-name"><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/">MacNeil</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db20k2db4k2db20k17g18dr2g4lb2g18k18~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">432</div><div class="nn-name"><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/">Spar (UK) Ltd Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db9k1db1k1db1k7g8y2g8k7db8k1r2~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.63</a></div><div class="nn-threads">202</div><div class="nn-name"><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/">MacLeod of Gesto</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/">MacKenzie (Miniture) Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k1g7k8db7k1db2k1db7k8g7k1w1~x4&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">408</div><div class="nn-name"><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/">Campbell of Loudoun (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db8k4db8r2g10k1w2~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/">MacKean Green (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4db8k4db8r2g10k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g11lb3g5r3g5k22db22k5~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.73</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/">Wood (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g11lb3g5r3g5k22db22k5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6lb2db20k15g20y2g6lb2g20k15db20y4~x2&amp;base=db18k10g9k2r2k2g9k10db9w2~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">508</div><div class="nn-name"><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/">Scottish Women's Rural Institutes</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.9" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="115.0" cy="167.9" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="172.9" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.6" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="158.8" r="4" fill="#3465a4"><title>MacKenzie (Miniture) Clan Tartan</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.8" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="128.1" cy="188.3" r="4" fill="#3465a4"><title>MacKean Green (Personal)</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="185.9" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.2" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><circle cx="114.9" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

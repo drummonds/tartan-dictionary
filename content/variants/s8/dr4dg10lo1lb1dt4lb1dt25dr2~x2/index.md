@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Raymond"
+  url: "/clan/raymond/"
+- name: "Raymond of Doune"
+  url: "/families/raymond-of-doune/"
+- name: "Raymond of Doune"
+  url: "/tartans/r/ra/raymond-of-doune/"
 - name: "Raymond of Doune"
   url: "/setts/dr4dg10lo1lb1dt4lb1dt25dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4dg10lo1lb1dt4lb1dt25dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWYGB](/stripes/bbwbwygb/).
+
+Part of the [Raymond of Doune](/tartans/r/ra/raymond-of-doune/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

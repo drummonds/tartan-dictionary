@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Prince Charles Edward #4** sett — one scale-free
 [GGKGGGRWRGGGKGGR](/stripes/ggkgggrwrgggkggr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Prince Charles Edward](/tartans/p/pr/prince-charles-edward/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

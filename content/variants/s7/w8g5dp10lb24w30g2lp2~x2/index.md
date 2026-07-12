@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shiel Lavender"
+  url: "/tartans/s/sh/shiel-lavender/"
 - name: "Shiel, Purple V2 (Dance)"
   url: "/setts/w8g5dp10lb24w30g2lp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8g5dp10lb24w30g2lp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBWWGW](/stripes/wgbwwgw/).
+
+Part of the [Shiel Lavender](/tartans/s/sh/shiel-lavender/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

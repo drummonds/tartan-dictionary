@@ -6,6 +6,8 @@ This is the **Pompili, Antonio and Alessandro (Personal)** sett — one scale-fr
 [KRBWBRBWBW](/stripes/krbwbrbwbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Pompili, Antonio and Alessandro](/tartans/p/po/pompili-antonio-and-alessandro/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Spens (Lochcarron)** sett — one scale-free proportion (`r40w1db7
 [RWBWGRBWW](/stripes/rwbwgrbww/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Spens](/tartans/spens/) tartan — the named design grouping this sett with its kin.
+Part of the [Spens](/tartans/s/sp/spens/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

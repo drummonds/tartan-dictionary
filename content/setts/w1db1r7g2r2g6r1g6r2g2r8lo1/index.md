@@ -6,7 +6,7 @@ This is the **Bruce County (District)** sett — one scale-free proportion (`w1d
 [WBRGRGRGRGRY](/stripes/wbrgrgrgrgry/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
-Part of the [Bruce County](/tartans/bruce-county/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce County](/tartans/b/br/bruce-county/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

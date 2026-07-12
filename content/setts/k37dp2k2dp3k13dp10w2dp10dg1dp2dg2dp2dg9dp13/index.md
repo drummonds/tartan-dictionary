@@ -6,6 +6,8 @@ This is the **Strathtummel District Tartan** sett — one scale-free proportion 
 [BGBGBGBWBKBKBK](/stripes/bgbgbgbwbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Strathtummel](/tartans/s/st/strathtummel-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

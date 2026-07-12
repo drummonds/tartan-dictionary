@@ -7,6 +7,8 @@ This is the **Forbes LC** sett — one scale-free proportion (`db1k6db6k6g6k1w1`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
+Part of the [Forbes LC](/tartans/f/fo/forbes-lc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

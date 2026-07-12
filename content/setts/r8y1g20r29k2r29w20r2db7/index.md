@@ -6,6 +6,8 @@ This is the **Unidentified Travelling costume** sett — one scale-free proporti
 [BRWRKRGGR](/stripes/brwrkrggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Travelling costume](/tartans/u/un/unidentified-travelling-costume/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

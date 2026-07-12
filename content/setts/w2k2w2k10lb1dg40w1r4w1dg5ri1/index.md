@@ -6,6 +6,8 @@ This is the **Knox, David Paul (Personal)** sett — one scale-free proportion (
 [RGWRWGWKWKW](/stripes/rgwrwgwkwkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Knox, David Paul](/tartans/k/kn/knox-david-paul/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

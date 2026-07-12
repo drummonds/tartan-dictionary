@@ -6,7 +6,7 @@ This is the **Clyde (Personal)** sett — one scale-free proportion (`r64k30g30t
 [RKGBWBW](/stripes/rkgbwbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Clyde](/tartans/clyde/) tartan — the named design grouping this sett with its kin.
+Part of the [Clyde](/tartans/c/cl/clyde/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

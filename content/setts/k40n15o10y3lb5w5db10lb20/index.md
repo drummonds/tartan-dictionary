@@ -6,6 +6,8 @@ This is the **Julien Pigeut Tartan** sett — one scale-free proportion (`k40n15
 [KBRGWWBW](/stripes/kbrgwwbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Julien Pigeut](/tartans/j/ju/julien-pigeut/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

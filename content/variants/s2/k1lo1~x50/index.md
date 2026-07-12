@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Justus Check"
+  url: "/tartans/j/ju/justus-check/"
 - name: "Justus Check (Personal)"
   url: "/setts/k1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KY](/stripes/ky/).
+
+Part of the [Justus Check](/tartans/j/ju/justus-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

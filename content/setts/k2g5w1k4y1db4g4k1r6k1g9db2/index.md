@@ -6,6 +6,8 @@ This is the **Moskova** sett — one scale-free proportion (`k2g5w1k4y1db4g4k1r6
 [BGKRKGBGKWGK](/stripes/bgkrkgbgkwgk/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Moskova](/tartans/m/mo/moskova/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Scottish Country Dance Society** sett — one scale-free pro
 [RBKWKWKWKBKBKBGR](/stripes/rbkwkwkwkbkbkbgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [RSCDS](/tartans/r/rs/rscds/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

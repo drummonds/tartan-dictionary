@@ -6,6 +6,8 @@ This is the **Myles, Lee (Name)** sett — one scale-free proportion (`r2lb3r1lb
 [RKWKWKWRWR](/stripes/rkwkwkwrwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Myles, Lee](/tartans/m/my/myles-lee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

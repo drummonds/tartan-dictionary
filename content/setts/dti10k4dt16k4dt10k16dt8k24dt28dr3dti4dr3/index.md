@@ -6,6 +6,8 @@ This is the **St. Mirren (Corporate)** sett — one scale-free proportion (`dti1
 [BBBBKBKBKBKB](/stripes/bbbbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [St. Mirren](/tartans/s/st/st-mirren/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

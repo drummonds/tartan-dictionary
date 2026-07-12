@@ -6,7 +6,7 @@ This is the **McHeadley Society** sett — one scale-free proportion (`r2dg18g2d
 [GGKGKBGGGGGGR](/stripes/ggkgkbggggggr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [McHeadley Society](/tartans/mcheadley-society/) tartan — the named design grouping this sett with its kin.
+Part of the [McHeadley Society](/tartans/m/mc/mcheadley-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

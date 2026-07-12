@@ -10,7 +10,7 @@ crumbs:
 - name: "Graham of Menteith"
   url: "/families/graham-of-menteith/"
 - name: "Graham of Menteith"
-  url: "/tartans/graham-of-menteith/"
+  url: "/tartans/g/gr/graham-of-menteith/"
 - name: "Graham of Menteith"
   url: "/setts/g8lb1g1k6db6k1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8lb1g1k6db6k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBK](/stripes/gwgkbk/).
 
-Part of the [Graham of Menteith](/tartans/graham-of-menteith/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Graham of Menteith](/tartans/g/gr/graham-of-menteith/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

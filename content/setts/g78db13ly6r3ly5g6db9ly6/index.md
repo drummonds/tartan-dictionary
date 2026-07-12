@@ -6,7 +6,7 @@ This is the **Walterstrm (2014))** sett — one scale-free proportion (`g78db13l
 [GBYRYGBY](/stripes/gbyrygby/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Walterström](/tartans/walterstr-m/) tartan — the named design grouping this sett with its kin.
+Part of the [Walterström](/tartans/w/wa/walterstr-m/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

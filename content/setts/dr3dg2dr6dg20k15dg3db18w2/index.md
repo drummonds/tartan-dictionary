@@ -6,7 +6,7 @@ This is the **Curry (Irish) (Name)** sett — one scale-free proportion (`dr3dg2
 [BGBGKGBW](/stripes/bgbgkgbw/). It is recorded as a single **variant**, below.
 First attested **1955**.
 
-Part of the [Curry](/tartans/curry/) tartan — the named design grouping this sett with its kin.
+Part of the [Curry](/tartans/c/cu/curry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

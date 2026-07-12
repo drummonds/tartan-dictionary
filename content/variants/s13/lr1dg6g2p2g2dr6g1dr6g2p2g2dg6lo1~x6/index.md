@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crosby"
+  url: "/tartans/c/cr/crosby/"
 - name: "Crosby (Personal)"
   url: "/setts/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGGBGBGBGBGGY](/stripes/yggbgbgbgbggy/).
+
+Part of the [Crosby](/tartans/c/cr/crosby/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

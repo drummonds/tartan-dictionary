@@ -6,6 +6,8 @@ This is the **Lyons** sett — one scale-free proportion (`lb9db3g11k7dg3k3dg32r
 [RWRGKGKGBW](/stripes/rwrgkgkgbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lyons](/tartans/l/ly/lyons/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

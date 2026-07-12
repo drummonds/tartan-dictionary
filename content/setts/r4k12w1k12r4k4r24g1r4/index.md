@@ -7,6 +7,8 @@ This is the **Wemyss** sett — one scale-free proportion (`r4k12w1k12r4k4r24g1r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Wemyss](/tartans/w/we/wemyss/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

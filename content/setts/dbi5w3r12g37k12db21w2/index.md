@@ -6,6 +6,8 @@ This is the **Bergen Scottish** sett — one scale-free proportion (`dbi5w3r12g3
 [BWRGKBW](/stripes/bwrgkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bergen Scottish](/tartans/b/be/bergen-scottish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

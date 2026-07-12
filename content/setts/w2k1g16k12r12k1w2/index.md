@@ -6,6 +6,8 @@ This is the **Prince Edward Island District Tartan** sett — one scale-free pro
 [WKGKRKW](/stripes/wkgkrkw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

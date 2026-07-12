@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clanedin Commemorative"
+  url: "/tartans/c/cl/clanedin-commemorative/"
 - name: "Clanedin Commemorative Tartan"
   url: "/setts/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKWKWBWKWGWGGGW](/stripes/rkwkwkwbwkwgwgggw/).
+
+Part of the [Clanedin Commemorative](/tartans/c/cl/clanedin-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

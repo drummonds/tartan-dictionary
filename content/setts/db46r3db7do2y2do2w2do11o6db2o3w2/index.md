@@ -6,7 +6,7 @@ This is the **Lady Diana, Plaid** sett — one scale-free proportion (`db46r3db7
 [BRBBGBWBRBRW](/stripes/brbbgbwbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Lady Diana](/tartans/lady-diana/) tartan — the named design grouping this sett with its kin.
+Part of the [Lady Diana](/tartans/l/la/lady-diana/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

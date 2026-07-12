@@ -6,6 +6,8 @@ This is the **Fiona** sett — one scale-free proportion (`w16n2w2ly2w2n24wi2ly1
 [WBWYWBWYWYWBY](/stripes/wbwywbwywywby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Fiona](/tartans/f/fi/fiona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

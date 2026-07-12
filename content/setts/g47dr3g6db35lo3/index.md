@@ -6,7 +6,7 @@ This is the **Gracie** sett — one scale-free proportion (`g47dr3g6db35lo3`), c
 [BGBYBGBG](/stripes/bgbybgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Gracie](/tartans/gracie/) tartan — the named design grouping this sett with its kin.
+Part of the [Gracie](/tartans/g/gr/gracie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

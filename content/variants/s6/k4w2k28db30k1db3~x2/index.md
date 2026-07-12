@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
+- name: "Ramsay"
+  url: "/tartans/r/ra/ramsay/"
 - name: "Ramsay Blue Clan Tartan"
   url: "/setts/k4w2k28db30k1db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4w2k28db30k1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWK](/stripes/bkbkwk/).
+
+Part of the [Ramsay](/tartans/r/ra/ramsay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

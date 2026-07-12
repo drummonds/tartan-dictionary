@@ -6,6 +6,8 @@ This is the **Thom(p)son, Navy** sett — one scale-free proportion (`r3db15w13o
 [RBWRBRR](/stripes/rbwrbrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Thomson, Navy](/tartans/t/th/thomson-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

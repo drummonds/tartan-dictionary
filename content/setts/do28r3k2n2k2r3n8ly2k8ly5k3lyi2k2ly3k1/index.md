@@ -6,6 +6,8 @@ This is the **Caithness** sett — one scale-free proportion (`do28r3k2n2k2r3n8l
 [BRKBKRBYKYKYKYK](/stripes/brkbkrbykykykyk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Caithness](/tartans/c/ca/caithness-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

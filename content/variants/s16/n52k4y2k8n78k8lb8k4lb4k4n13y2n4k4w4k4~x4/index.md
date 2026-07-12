@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maxem Eyewear"
-  url: "/tartans/maxem-eyewear/"
+  url: "/tartans/m/ma/maxem-eyewear/"
 - name: "Maxem Eyewear (Corporate)"
   url: "/setts/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n52k4y2k8n78k8lb8k4lb4k4n13y2n4k4w4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKWKWKBGBKWK](/stripes/bkgkbkwkwkbgbkwk/).
 
-Part of the [Maxem Eyewear](/tartans/maxem-eyewear/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Maxem Eyewear](/tartans/m/ma/maxem-eyewear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

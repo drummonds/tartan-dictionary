@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Finzean's Fancy"
+  url: "/tartans/f/fi/finzean-s-fancy-2/"
+- name: "Finzean's Fancy"
   url: "/setts/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/).
+
+Part of the [Finzean's Fancy](/tartans/f/fi/finzean-s-fancy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

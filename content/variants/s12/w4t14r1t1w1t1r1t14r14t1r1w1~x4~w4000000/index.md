@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Frame"
-  url: "/tartans/frame/"
+  url: "/tartans/f/fr/frame/"
 - name: "Frame"
   url: "/setts/w4t14r1t1w1t1r1t14r14t1r1w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4t14r1t1w1t1r1t14r14t1r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBWBRBRBRW](/stripes/wbrbwbrbrbrw/).
 
-Part of the [Frame](/tartans/frame/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Frame](/tartans/f/fr/frame/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

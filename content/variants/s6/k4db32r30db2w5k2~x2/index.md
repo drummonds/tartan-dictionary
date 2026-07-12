@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 17"
+  url: "/tartans/m/ma/masai-shuka-17/"
 - name: "Masai Shuka 17 (Artefact)"
   url: "/setts/k4db32r30db2w5k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db32r30db2w5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRBWK](/stripes/kbrbwk/).
+
+Part of the [Masai Shuka 17](/tartans/m/ma/masai-shuka-17/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Herbage of Laggan"
+  url: "/tartans/h/he/herbage-of-laggan/"
 - name: "Herbage of Laggan (Personal)"
   url: "/setts/g68k22n28dr3n12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g68k22n28dr3n12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKG](/stripes/bbbkg/).
+
+Part of the [Herbage of Laggan](/tartans/h/he/herbage-of-laggan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

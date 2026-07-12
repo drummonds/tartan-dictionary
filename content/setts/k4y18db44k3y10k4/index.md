@@ -6,7 +6,7 @@ This is the **Stutterheim** sett — one scale-free proportion (`k4y18db44k3y10k
 [KGBKGK](/stripes/kgbkgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Stutterheim](/tartans/stutterheim/) tartan — the named design grouping this sett with its kin.
+Part of the [Stutterheim](/tartans/s/st/stutterheim/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

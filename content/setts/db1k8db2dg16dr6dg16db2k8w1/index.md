@@ -6,6 +6,8 @@ This is the **Basel Tattoo (Official)** sett — one scale-free proportion (`db1
 [BKBGBGBKW](/stripes/bkbgbgbkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Basel Tattoo](/tartans/b/ba/basel-tattoo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

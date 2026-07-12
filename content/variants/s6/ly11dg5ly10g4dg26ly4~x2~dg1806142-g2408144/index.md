@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North Dakota State University (Corp."
+  url: "/tartans/n/no/north-dakota-state-university-corp/"
 - name: "North Dakota State University (Corp."
   url: "/setts/ly11dg5ly10g4dg26ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly11dg5ly10g4dg26ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGGYGY](/stripes/yggygy/).
+
+Part of the [North Dakota State University (Corp.](/tartans/n/no/north-dakota-state-university-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Spirit of Hoxa** sett — one scale-free proportion (`dg2dpi19dg2d
 [GBGBWBGRR](/stripes/gbgbwbgrr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Spirit of Hoxa](/tartans/spirit-of-hoxa/) tartan — the named design grouping this sett with its kin.
+Part of the [Spirit of Hoxa](/tartans/s/sp/spirit-of-hoxa/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

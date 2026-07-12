@@ -7,6 +7,8 @@ This is the **Hart of Scotland** sett — one scale-free proportion (`dr5db3dr3r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [Hart of Scotland](/tartans/h/ha/hart-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

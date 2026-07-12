@@ -6,7 +6,7 @@ This is the **Dinwiddie Clan Tartan** sett — one scale-free proportion (`dy4n2
 [GBKBKGBKRK](/stripes/gbkbkgbkrk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Dinwiddie](/tartans/dinwiddie/) tartan — the named design grouping this sett with its kin.
+Part of the [Dinwiddie](/tartans/d/di/dinwiddie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

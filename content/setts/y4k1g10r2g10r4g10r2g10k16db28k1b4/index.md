@@ -6,6 +6,8 @@ This is the **California** sett — one scale-free proportion (`y4k1g10r2g10r4g1
 [BKBKGRGRGRGKG](/stripes/bkbkgrgrgrgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [California](/tartans/c/ca/california/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

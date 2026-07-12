@@ -6,6 +6,8 @@ This is the **MacDougall Plaid** sett — one scale-free proportion (`db3dp12w6r
 [BBWRGRGRBBWRWBGRGRBRBWRB](/stripes/bbwrgrgrbbwrwbgrgrbrbwrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDougall](/tartans/m/ma/macdougall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

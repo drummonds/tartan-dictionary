@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Otago Peninsula"
+  url: "/tartans/o/ot/otago-peninsula-2/"
+- name: "Otago Peninsula"
   url: "/setts/dg4db4dr4db2dg12db2dg12db2dr4dg4w1r4dbi2dr4db4dg4db4dr4db2dg12db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4db4dr4db2dg12db2dg12db2dr4dg4w1r4dbi2dr4db4dg4db4dr4db2dg12db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBBGWRBBBGBBBGBGBBBGBBBRWGBBGBGBBBG](/stripes/bbbgbgbbgwrbbbgbbbgbgbbbgbbbrwgbbgbgbbbg/).
+
+Part of the [Otago Peninsula](/tartans/o/ot/otago-peninsula-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

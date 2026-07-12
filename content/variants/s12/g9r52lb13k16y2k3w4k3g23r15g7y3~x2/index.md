@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Galloway"
+  url: "/families/stewart-of-galloway/"
+- name: "Stewart of Galloway"
+  url: "/tartans/s/st/stewart-of-galloway-2/"
 - name: "Stewart of Galloway Clan Tartan"
   url: "/setts/g9r52lb13k16y2k3w4k3g23r15g7y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9r52lb13k16y2k3w4k3g23r15g7y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGKWKGKWRG](/stripes/ggrgkwkgkwrg/).
+
+Part of the [Stewart of Galloway](/tartans/s/st/stewart-of-galloway-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

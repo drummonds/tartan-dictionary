@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kilgour"
+  url: "/tartans/k/ki/kilgour-2/"
+- name: "Kilgour"
   url: "/setts/db14g21db4r21db14y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db14g21db4r21db14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
+
+Part of the [Kilgour](/tartans/k/ki/kilgour-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

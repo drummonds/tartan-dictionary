@@ -6,6 +6,8 @@ This is the **Crieff Red Dress (Dance)** sett — one scale-free proportion (`k2
 [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Crieff Red Dress](/tartans/c/cr/crieff-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

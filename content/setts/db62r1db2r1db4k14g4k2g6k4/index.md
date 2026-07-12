@@ -6,6 +6,8 @@ This is the **Park** sett — one scale-free proportion (`db62r1db2r1db4k14g4k2g
 [BRBRBKGKGK](/stripes/brbrbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Park](/tartans/p/pa/park-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lang"
+  url: "/clan/lang/"
+- name: "Lang of Sherbrooke"
+  url: "/families/lang-of-sherbrooke/"
+- name: "Lang of Sherbrooke"
+  url: "/tartans/l/la/lang-of-sherbrooke/"
 - name: "Lang of Sherbrooke (Personal)"
   url: "/setts/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGKBW](/stripes/ggbgbgbgkbw/).
+
+Part of the [Lang of Sherbrooke](/tartans/l/la/lang-of-sherbrooke/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

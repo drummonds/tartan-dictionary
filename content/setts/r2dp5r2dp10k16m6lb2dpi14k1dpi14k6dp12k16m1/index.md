@@ -6,6 +6,8 @@ This is the **Katie Targett-Adams** sett — one scale-free proportion (`r2dp5r2
 [RBRBKRWBKBKBKR](/stripes/rbrbkrwbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Katie Targett-Adams](/tartans/k/ka/katie-targett-adams/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

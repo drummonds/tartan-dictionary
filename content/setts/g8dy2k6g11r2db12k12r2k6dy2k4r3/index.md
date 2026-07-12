@@ -6,6 +6,8 @@ This is the **Mandela Commemorative** sett — one scale-free proportion (`g8dy2
 [GGKGRBKRKGKR](/stripes/ggkgrbkrkgkr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Mandela](/tartans/m/ma/mandela/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

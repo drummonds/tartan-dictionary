@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New Mexico"
+  url: "/tartans/n/ne/new-mexico-3/"
 - name: "New Mexico (Fashion)"
   url: "/setts/g10dp42r5dg42g42ly5g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10dp42r5dg42g42ly5g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGGYG](/stripes/gbrggyg/).
+
+Part of the [New Mexico](/tartans/n/ne/new-mexico-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

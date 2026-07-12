@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Army Medical Services"
+  url: "/tartans/a/ar/army-medical-services/"
+- name: "Army Medical Services"
   url: "/setts/r16db2r2db2r2db16g16dy1r16db16r2n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16db2r2db2r2db16g16dy1r16db16r2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGGBRBRBR](/stripes/brbrggbrbrbr/).
+
+Part of the [Army Medical Services](/tartans/a/ar/army-medical-services/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

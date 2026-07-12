@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Bahrain"
+  url: "/tartans/r/ro/royal-bahrain/"
 - name: "Royal Bahrain (Royal)"
   url: "/setts/db16dr1db2dr3db1dr9db1dr3db2dr1db6dg3lb3dg5dr28w3dr3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16dr1db2dr3db1dr9db1dr3db2dr1db6dg3lb3dg5dr28w3dr3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBGWGBWBW](/stripes/bbbbbbbbbbbgwgbwbw/).
+
+Part of the [Royal Bahrain](/tartans/r/ro/royal-bahrain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Longmore (Name)** sett — one scale-free proportion (`g15y3g27r2g
 [BWBRGRGGG](/stripes/bwbrgrggg/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Longmore](/tartans/l/lo/longmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

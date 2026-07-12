@@ -7,6 +7,8 @@ This is the **Young** sett — one scale-free proportion (`db3lb3g30db25dp4r3y2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1992**.
 
+Part of the [Young](/tartans/y/yo/young-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

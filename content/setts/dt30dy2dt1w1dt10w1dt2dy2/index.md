@@ -6,7 +6,7 @@ This is the **Royal Warrant Holders (Corporate)** sett — one scale-free propor
 [BGBWBWBG](/stripes/bgbwbwbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Royal Warrant Holders](/tartans/royal-warrant-holders/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Warrant Holders](/tartans/r/ro/royal-warrant-holders/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

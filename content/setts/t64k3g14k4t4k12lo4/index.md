@@ -6,6 +6,8 @@ This is the **Murray of Elibank** sett — one scale-free proportion (`t64k3g14k
 [BKGKBKY](/stripes/bkgkbky/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Murray of Elibank](/tartans/m/mu/murray-of-elibank/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

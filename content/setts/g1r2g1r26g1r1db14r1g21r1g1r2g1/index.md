@@ -6,7 +6,7 @@ This is the **MacQuarrie 1815** sett — one scale-free proportion (`g1r2g1r26g1
 [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacQuarrie 1815](/tartans/macquarrie-1815/) tartan — the named design grouping this sett with its kin.
+Part of the [MacQuarrie 1815](/tartans/m/ma/macquarrie-1815/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

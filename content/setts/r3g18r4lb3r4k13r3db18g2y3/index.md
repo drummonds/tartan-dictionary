@@ -6,6 +6,8 @@ This is the **Stirling and Bannockburn District Tartan** sett — one scale-free
 [GGBRKRWRGR](/stripes/ggbrkrwrgr/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Stirling and Bannockburn](/tartans/s/st/stirling-and-bannockburn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

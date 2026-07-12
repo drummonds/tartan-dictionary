@@ -6,7 +6,7 @@ This is the **Munster Ancestry** sett — one scale-free proportion (`n4db48n21d
 [BBBBGBBG](/stripes/bbbbgbbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Munster Ancestry](/tartans/munster-ancestry/) tartan — the named design grouping this sett with its kin.
+Part of the [Munster Ancestry](/tartans/m/mu/munster-ancestry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Confrerie de Vouvray"
+  url: "/tartans/c/co/confrerie-de-vouvray-2/"
 - name: "Confrerie de Vouvray Corporate Tartan"
   url: "/setts/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGBBBGBGBGBGBGBGBGBGBGBBBGBRGR](/stripes/brgrbgbbbgbgbgbgbgbgbgbgbgbbbgbrgr/).
+
+Part of the [Confrerie de Vouvray](/tartans/c/co/confrerie-de-vouvray-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 

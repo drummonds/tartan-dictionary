@@ -6,6 +6,8 @@ This is the **Penman Grey (Personal)** sett — one scale-free proportion (`o38k
 [BWKBKBKWKR](/stripes/bwkbkbkwkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Penman](/tartans/p/pe/penman-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

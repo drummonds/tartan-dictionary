@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Del Forno Wolf"
+  url: "/tartans/d/de/del-forno-wolf/"
 - name: "Del Forno Wolf (Personal)"
   url: "/setts/g38n8t3db4n12ly1g4n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g38n8t3db4n12ly1g4n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBBBBG](/stripes/bgybbbbg/).
+
+Part of the [Del Forno Wolf](/tartans/d/de/del-forno-wolf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

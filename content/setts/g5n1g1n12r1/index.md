@@ -6,6 +6,8 @@ This is the **Ceredigion (Personal)** sett — one scale-free proportion (`g5n1g
 [GBGBR](/stripes/gbgbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Ceredigion](/tartans/c/ce/ceredigion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

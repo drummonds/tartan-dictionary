@@ -6,6 +6,8 @@ This is the **Canadian Legion Branch 50 Corporate Tartan** sett — one scale-fr
 [GBGBWBR](/stripes/gbgbwbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Canadian Legion Branch 50](/tartans/c/ca/canadian-legion-branch-50/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

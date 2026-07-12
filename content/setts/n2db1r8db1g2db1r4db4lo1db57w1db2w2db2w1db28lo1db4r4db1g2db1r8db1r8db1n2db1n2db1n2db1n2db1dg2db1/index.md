@@ -6,6 +6,8 @@ This is the **New York Tartan Day Parade** sett — one scale-free proportion (`
 [BBRBGBRBYBWBWBWBYBRBGBRBRBBBBBBBBBGB](/stripes/bbrbgbrbybwbwbwbybrbgbrbrbbbbbbbbbgb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [New York Tartan Day Parade](/tartans/n/ne/new-york-tartan-day-parade/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

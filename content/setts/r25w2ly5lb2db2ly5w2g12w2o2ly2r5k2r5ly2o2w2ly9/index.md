@@ -6,6 +6,8 @@ This is the **Campbell, New Louden** sett — one scale-free proportion (`r25w2l
 [RWYWBYWGWRYRKRYRWY](/stripes/rwywbywgwryrkryrwy/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Campbell, New Louden](/tartans/c/ca/campbell-new-louden-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

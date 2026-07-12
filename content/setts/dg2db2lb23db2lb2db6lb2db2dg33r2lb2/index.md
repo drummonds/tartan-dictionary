@@ -6,6 +6,8 @@ This is the **Maine, Original State of (Fashion)** sett — one scale-free propo
 [GBWBWBWBGRW](/stripes/gbwbwbwbgrw/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
+Part of the [Maine, Original State of](/tartans/m/ma/maine-original-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

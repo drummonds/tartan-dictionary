@@ -6,6 +6,8 @@ This is the **St Georges Check** sett — one scale-free proportion (`r35w94k6`)
 [KWR](/stripes/kwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [St Georges Check](/tartans/s/st/st-georges-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

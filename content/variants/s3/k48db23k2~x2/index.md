@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McTear's Auctioneers"
+  url: "/tartans/m/mc/mctear-s-auctioneers/"
+- name: "McTear's Auctioneers"
   url: "/setts/k48db23k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k48db23k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKKK](/stripes/kbkkk/).
+
+Part of the [McTear's Auctioneers](/tartans/m/mc/mctear-s-auctioneers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

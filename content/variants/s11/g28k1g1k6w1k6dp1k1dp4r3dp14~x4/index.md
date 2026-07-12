@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Hampshire"
+  url: "/tartans/n/ne/new-hampshire/"
+- name: "New Hampshire"
   url: "/setts/g28k1g1k6w1k6dp1k1dp4r3dp14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g28k1g1k6w1k6dp1k1dp4r3dp14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKBKWKGKG](/stripes/brbkbkwkgkg/).
+
+Part of the [New Hampshire](/tartans/n/ne/new-hampshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Service of Drymen"
-  url: "/tartans/service-of-drymen/"
+  url: "/tartans/s/se/service-of-drymen/"
 - name: "Service of Drymen (Personal)"
   url: "/setts/dr2db14k2n5g3lb1g3lb1g3k1g3k1g3n5k2db14lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr2db14k2n5g3lb1g3lb1g3k1g3k1g3n5k2db14lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGWGWGKGKGBKBY](/stripes/bbkbgwgwgkgkgbkby/).
 
-Part of the [Service of Drymen](/tartans/service-of-drymen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Service of Drymen](/tartans/s/se/service-of-drymen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

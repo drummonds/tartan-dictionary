@@ -7,6 +7,8 @@ This is the **Baluch Regiment (Military)** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1993**.
 
+Part of the [Baluch Regiment](/tartans/b/ba/baluch-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Shaughnessy"
+  url: "/tartans/o/o/o-shaughnessy/"
 - name: "O'Shaughnessy (Estimated threadcount)"
   url: "/setts/db60w3dp8y2k2w2k2g14db4dy10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60w3dp8y2k2w2k2g14db4dy10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGKWKGBGW](/stripes/bwbgkwkgbgw/).
+
+Part of the [O'Shaughnessy](/tartans/o/o/o-shaughnessy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

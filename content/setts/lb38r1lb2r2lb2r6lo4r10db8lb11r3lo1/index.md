@@ -6,7 +6,7 @@ This is the **Spirit of Dunkeld (Fashion)** sett — one scale-free proportion (
 [WRWRWRYRBWRY](/stripes/wrwrwryrbwry/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Spirit of Dunkeld](/tartans/spirit-of-dunkeld/) tartan — the named design grouping this sett with its kin.
+Part of the [Spirit of Dunkeld](/tartans/s/sp/spirit-of-dunkeld/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

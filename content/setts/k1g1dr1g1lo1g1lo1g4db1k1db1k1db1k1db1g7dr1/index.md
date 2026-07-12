@@ -6,7 +6,7 @@ This is the **Myron** sett — one scale-free proportion (`k1g1dr1g1lo1g1lo1g4db
 [BGBKBKBKBGYGYGBGK](/stripes/bgbkbkbkbgygygbgk/). It is recorded as a single **variant**, below.
 First attested **1920**.
 
-Part of the [Myron](/tartans/myron/) tartan — the named design grouping this sett with its kin.
+Part of the [Myron](/tartans/m/my/myron/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

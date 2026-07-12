@@ -6,6 +6,8 @@ This is the **McGillivray, Pauline (Personal)** sett — one scale-free proporti
 [BWWWGWBWWWBWW](/stripes/bwwwgwbwwwbww/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [MacGillivray](/tartans/m/ma/macgillivray-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

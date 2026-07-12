@@ -7,6 +7,8 @@ This is the **Starr** sett — one scale-free proportion (`w1lb4t4db3w3t20lb1`),
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2004**.
 
+Part of the [Starr](/tartans/s/st/starr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

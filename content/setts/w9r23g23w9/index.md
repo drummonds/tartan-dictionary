@@ -6,6 +6,8 @@ This is the **Quaboos Pipers Plaid Regimental Tartan** sett — one scale-free p
 [WGRW](/stripes/wgrw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Qaboos](/tartans/q/qa/qaboos/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

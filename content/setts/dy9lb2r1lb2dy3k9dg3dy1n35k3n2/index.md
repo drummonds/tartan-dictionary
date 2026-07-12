@@ -6,6 +6,8 @@ This is the **Donohoe Grey, Peter** sett — one scale-free proportion (`dy9lb2r
 [BKBGGKGWRWG](/stripes/bkbggkgwrwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Donohoe Grey, Peter](/tartans/d/do/donohoe-grey-peter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

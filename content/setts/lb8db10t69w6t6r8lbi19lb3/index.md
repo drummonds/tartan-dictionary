@@ -6,7 +6,7 @@ This is the **Virginia International Tattoo Hixon** sett — one scale-free prop
 [WBBWBRWW](/stripes/wbbwbrww/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Virginia International Tattoo Hixon](/tartans/virginia-international-tattoo-hixon/) tartan — the named design grouping this sett with its kin.
+Part of the [Virginia International Tattoo Hixon](/tartans/v/vi/virginia-international-tattoo-hixon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

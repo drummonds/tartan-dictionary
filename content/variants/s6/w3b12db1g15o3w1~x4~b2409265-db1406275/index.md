@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eeraerts, Laurent"
+  url: "/tartans/e/ee/eeraerts-laurent/"
 - name: "Eeraerts, Laurent (Personal)"
   url: "/setts/w3b12db1g15o3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3b12db1g15o3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBGRW](/stripes/wbbgrw/).
+
+Part of the [Eeraerts, Laurent](/tartans/e/ee/eeraerts-laurent/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

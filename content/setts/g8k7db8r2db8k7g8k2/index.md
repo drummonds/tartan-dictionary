@@ -6,6 +6,8 @@ This is the **Denholm** sett — one scale-free proportion (`g8k7db8r2db8k7g8k2`
 [GKBRBKGK](/stripes/gkbrbkgk/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Denholm](/tartans/d/de/denholm-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

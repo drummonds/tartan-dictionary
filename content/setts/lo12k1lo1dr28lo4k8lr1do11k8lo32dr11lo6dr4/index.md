@@ -6,6 +6,8 @@ This is the **Aboyne** sett — one scale-free proportion (`lo12k1lo1dr28lo4k8lr
 [BYBYKBYKYBYKY](/stripes/bybykbykybyky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Aboyne](/tartans/a/ab/aboyne-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

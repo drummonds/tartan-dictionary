@@ -6,6 +6,8 @@ This is the **Scottish Cultural Society (Corporate** sett — one scale-free pro
 [BGKYKBWBW](/stripes/bgkykbwbw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Scottish Cultural Society (Corporate](/tartans/s/sc/scottish-cultural-society-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

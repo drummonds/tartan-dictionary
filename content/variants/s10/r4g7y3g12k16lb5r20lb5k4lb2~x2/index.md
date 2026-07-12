@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified 25"
+  url: "/tartans/u/un/unidentified-25/"
 - name: "Unidentified Canadian Tartan"
   url: "/setts/r4g7y3g12k16lb5r20lb5k4lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g7y3g12k16lb5r20lb5k4lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGKWRWKW](/stripes/rgggkwrwkw/).
+
+Part of the [Unidentified 25](/tartans/u/un/unidentified-25/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

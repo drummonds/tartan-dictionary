@@ -7,6 +7,8 @@ This is the **Conlon** sett — one scale-free proportion (`dgi4db2dgi17dg2dr4dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Conlon](/tartans/c/co/conlon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

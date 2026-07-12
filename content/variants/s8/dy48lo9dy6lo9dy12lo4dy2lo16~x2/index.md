@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yellow Pencil"
+  url: "/tartans/y/ye/yellow-pencil-2/"
 - name: "Yellow Pencil (Corporate)"
   url: "/setts/dy48lo9dy6lo9dy12lo4dy2lo16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy48lo9dy6lo9dy12lo4dy2lo16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGYGY](/stripes/gygygygy/).
+
+Part of the [Yellow Pencil](/tartans/y/ye/yellow-pencil-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

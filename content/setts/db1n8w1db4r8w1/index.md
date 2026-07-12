@@ -6,6 +6,8 @@ This is the **Little's (Corporate)** sett — one scale-free proportion (`db1n8w
 [BBWBRW](/stripes/bbwbrw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Little's](/tartans/l/li/little-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

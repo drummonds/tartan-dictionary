@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hueg Scottish Thistle"
-  url: "/tartans/hueg-scottish-thistle/"
+  url: "/tartans/h/hu/hueg-scottish-thistle/"
 - name: "Hueg Scottish Thistle (Personal)"
   url: "/setts/r2db2k3dg25k2db3dg4dy2dg2w2dg6db2r7k2r3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db2k3dg25k2db3dg4dy2dg2w2dg6db2r7k2r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKBGGGWGBRKRW](/stripes/rbkgkbgggwgbrkrw/).
 
-Part of the [Hueg Scottish Thistle](/tartans/hueg-scottish-thistle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hueg Scottish Thistle](/tartans/h/hu/hueg-scottish-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

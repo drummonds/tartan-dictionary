@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Chisholm"
+  url: "/clan/chisholm/"
+- name: "Chisholm, Christopher"
+  url: "/tartans/c/ch/chisholm-christopher/"
 - name: "Chisholm, Christopher (Personal)"
   url: "/setts/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBKBBBBBKR](/stripes/bbbbbbkbbbbbkr/).
+
+Part of the [Chisholm, Christopher](/tartans/c/ch/chisholm-christopher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

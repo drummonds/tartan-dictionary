@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Land's End Maroon"
+  url: "/tartans/l/la/land-s-end-maroon/"
+- name: "Land's End Maroon"
   url: "/setts/db23ly2dr3dbi7dr3ly2g15dr21ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db23ly2dr3dbi7dr3ly2g15dr21ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBBYGBY](/stripes/bybbbygby/).
+
+Part of the [Land's End Maroon](/tartans/l/la/land-s-end-maroon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

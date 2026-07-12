@@ -6,6 +6,8 @@ This is the **Lochaber #2** sett — one scale-free proportion (`g3r1g18k20r1db1
 [GRGKRBWG](/stripes/grgkrbwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lochaber](/tartans/l/lo/lochaber-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

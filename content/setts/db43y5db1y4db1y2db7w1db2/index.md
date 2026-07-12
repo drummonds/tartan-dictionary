@@ -6,6 +6,8 @@ This is the **University of Delaware Fightin' Blue Hen** sett — one scale-free
 [BGBGBGBWB](/stripes/bgbgbgbwb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [University of Delaware Fightin' Blue Hen](/tartans/u/un/university-of-delaware-fightin-blue-hen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

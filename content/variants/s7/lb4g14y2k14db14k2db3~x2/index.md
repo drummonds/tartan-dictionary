@@ -10,7 +10,7 @@ crumbs:
 - name: "Hogarth of Firhill"
   url: "/families/hogarth-of-firhill/"
 - name: "Hogarth of Firhill"
-  url: "/tartans/hogarth-of-firhill/"
+  url: "/tartans/h/ho/hogarth-of-firhill/"
 - name: "Hogarth of Firhill (Clan)"
   url: "/setts/lb4g14y2k14db14k2db3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4g14y2k14db14k2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGW](/stripes/bkbkggw/).
 
-Part of the [Hogarth of Firhill](/tartans/hogarth-of-firhill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hogarth of Firhill](/tartans/h/ho/hogarth-of-firhill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

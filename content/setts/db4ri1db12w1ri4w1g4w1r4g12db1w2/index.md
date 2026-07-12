@@ -6,7 +6,7 @@ This is the **Glenfalloch Corporate Tartan** sett — one scale-free proportion 
 [BRBWRWGWRGBW](/stripes/brbwrwgwrgbw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Glenfalloch](/tartans/glenfalloch/) tartan — the named design grouping this sett with its kin.
+Part of the [Glenfalloch](/tartans/g/gl/glenfalloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

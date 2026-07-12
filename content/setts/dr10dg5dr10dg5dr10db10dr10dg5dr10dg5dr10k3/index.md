@@ -6,6 +6,8 @@ This is the **Capricornica / Capricornia** sett — one scale-free proportion (`
 [BGBGBBBGBGBK](/stripes/bgbgbbbgbgbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Capricornica / Capricornia](/tartans/c/ca/capricornica-capricornia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

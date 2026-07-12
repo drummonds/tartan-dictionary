@@ -6,6 +6,8 @@ This is the **First Command Fin. Planning (Corp)** sett — one scale-free propo
 [GBBBGWGBGWG](/stripes/gbbbgwgbgwg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [First Command Fin. Planning](/tartans/f/fi/first-command-fin-planning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

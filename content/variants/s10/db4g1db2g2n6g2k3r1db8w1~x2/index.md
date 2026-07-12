@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "EAIE 2015"
+  url: "/tartans/e/ea/eaie-2015/"
+- name: "EAIE 2015"
   url: "/setts/db4g1db2g2n6g2k3r1db8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g1db2g2n6g2k3r1db8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKRBW](/stripes/bgbgbgkrbw/).
+
+Part of the [EAIE 2015](/tartans/e/ea/eaie-2015/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

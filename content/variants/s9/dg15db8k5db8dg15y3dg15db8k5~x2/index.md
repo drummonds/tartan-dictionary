@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robert Dewar"
+  url: "/tartans/r/ro/robert-dewar/"
 - name: "Dewar, Robert Alexander"
   url: "/setts/dg15db8k5db8dg15y3dg15db8k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg15db8k5db8dg15y3dg15db8k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGGGBK](/stripes/gbkbgggbk/).
+
+Part of the [Robert Dewar](/tartans/r/ro/robert-dewar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

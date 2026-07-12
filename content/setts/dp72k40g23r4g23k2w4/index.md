@@ -6,6 +6,8 @@ This is the **Ferguson Unidentified** sett — one scale-free proportion (`dp72k
 [BKGRGKW](/stripes/bkgrgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ferguson Unidentified](/tartans/f/fe/ferguson-unidentified/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

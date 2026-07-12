@@ -6,7 +6,7 @@ This is the **Ruthven Clan Tartan** sett — one scale-free proportion (`w3g15db
 [RGRBGW](/stripes/rgrbgw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Ruthven](/tartans/ruthven/) tartan — the named design grouping this sett with its kin.
+Part of the [Ruthven](/tartans/r/ru/ruthven/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

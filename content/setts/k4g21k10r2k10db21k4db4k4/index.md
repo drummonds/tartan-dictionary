@@ -6,6 +6,8 @@ This is the **Swallow Hotels** sett — one scale-free proportion (`k4g21k10r2k1
 [BKBKRKGKGKRKBKBK](/stripes/bkbkrkgkgkrkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Swallow Hotels](/tartans/s/sw/swallow-hotels/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

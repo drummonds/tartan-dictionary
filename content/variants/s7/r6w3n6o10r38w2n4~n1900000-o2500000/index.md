@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Washington State University Cougar"
-  url: "/tartans/washington-state-university-cougar/"
+  url: "/tartans/w/wa/washington-state-university-cougar/"
 - name: "Washington State University Cougar"
   url: "/setts/r6w3n6o10r38w2n4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6w3n6o10r38w2n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRRBWR](/stripes/bwrrbwr/).
 
-Part of the [Washington State University Cougar](/tartans/washington-state-university-cougar/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Washington State University Cougar](/tartans/w/wa/washington-state-university-cougar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

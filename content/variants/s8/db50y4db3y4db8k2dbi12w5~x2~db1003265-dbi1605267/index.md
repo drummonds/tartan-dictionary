@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Indiana"
+  url: "/tartans/i/in/indiana/"
 - name: "Indiana #2"
   url: "/setts/db50y4db3y4db8k2dbi12w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50y4db3y4db8k2dbi12w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKBW](/stripes/bgbgbkbw/).
+
+Part of the [Indiana](/tartans/i/in/indiana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

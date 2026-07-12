@@ -6,6 +6,8 @@ This is the **Arizona Jones** sett — one scale-free proportion (`dg18k1dr9k12d
 [GBKGKBKBKG](/stripes/gbkgkbkbkg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Arizona Jones](/tartans/a/ar/arizona-jones/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hibernian F. C. (2004) (C orporate)** sett — one scale-free prop
 [GWGKGBKW](/stripes/gwgkgbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hibernian F. C.](/tartans/h/hi/hibernian-f-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

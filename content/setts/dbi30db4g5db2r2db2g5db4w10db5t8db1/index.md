@@ -6,6 +6,8 @@ This is the **Lyon (Personal)** sett — one scale-free proportion (`dbi30db4g5d
 [BBBWBGBRBGBB](/stripes/bbbwbgbrbgbb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lyon](/tartans/l/ly/lyon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

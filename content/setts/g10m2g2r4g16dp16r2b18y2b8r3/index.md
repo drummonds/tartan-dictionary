@@ -6,7 +6,7 @@ This is the **Commonwealth Games 1998 (Corporate)** sett — one scale-free prop
 [GRGRGBRBGBR](/stripes/grgrgbrbgbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Commonwealth Games 1998](/tartans/commonwealth-games-1998/) tartan — the named design grouping this sett with its kin.
+Part of the [Commonwealth Games 1998](/tartans/c/co/commonwealth-games-1998/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

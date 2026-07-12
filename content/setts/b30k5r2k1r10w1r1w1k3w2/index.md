@@ -6,6 +6,8 @@ This is the **Masai Shuka 11 (Artefact)** sett — one scale-free proportion (`b
 [BKRKRWRWKW](/stripes/bkrkrwrwkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 11](/tartans/m/ma/masai-shuka-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

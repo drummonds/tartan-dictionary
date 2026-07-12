@@ -6,6 +6,8 @@ This is the **German National (US) (Fashion)** sett — one scale-free proportio
 [GRKRKRKRKRKR](/stripes/grkrkrkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [German National](/tartans/g/ge/german-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

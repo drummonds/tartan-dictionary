@@ -6,6 +6,8 @@ This is the **MacAlister (Cockburn Collection 1810-20)** sett — one scale-free
 [RGRGRBRWRGRWRWRGRWRGRWR](/stripes/rgrgrbrwrgrwrwrgrwrgrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacAlister](/tartans/m/ma/macalister-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

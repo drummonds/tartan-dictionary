@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Madder"
-  url: "/tartans/madder/"
+  url: "/tartans/m/ma/madder/"
 - name: "Madder"
   url: "/setts/g28r4dp27r27g28r5dp2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g28r4dp27r27g28r5dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRG](/stripes/brgrbrg/).
 
-Part of the [Madder](/tartans/madder/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Madder](/tartans/m/ma/madder/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

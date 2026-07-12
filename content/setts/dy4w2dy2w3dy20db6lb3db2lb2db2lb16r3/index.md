@@ -6,6 +6,8 @@ This is the **Callum Scotch House Trade Tartan** sett — one scale-free proport
 [GWGWGBWBWBWR](/stripes/gwgwgbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Callum Scotch House](/tartans/c/ca/callum-scotch-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

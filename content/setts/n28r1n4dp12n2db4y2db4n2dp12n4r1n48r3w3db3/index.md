@@ -6,6 +6,8 @@ This is the **Wallenberg, Nicolas Dress (Personal)** sett — one scale-free pro
 [BRBBBBGBBBBRBRWB](/stripes/brbbbbgbbbbrbrwb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Wallenberg, Nicolas Dress](/tartans/w/wa/wallenberg-nicolas-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Talisman"
-  url: "/tartans/talisman/"
+  url: "/tartans/t/ta/talisman/"
 - name: "Talisman (Fashion)"
   url: "/setts/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKGBBYKYKBY](/stripes/ybkgbbykykby/).
 
-Part of the [Talisman](/tartans/talisman/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Talisman](/tartans/t/ta/talisman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

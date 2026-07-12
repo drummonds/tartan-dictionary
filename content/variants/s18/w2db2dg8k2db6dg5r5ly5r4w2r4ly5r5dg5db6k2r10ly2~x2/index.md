@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kutztown"
-  url: "/tartans/kutztown/"
+  url: "/tartans/k/ku/kutztown/"
 - name: "Kutztown (Berks County, PA)"
   url: "/setts/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
 
-Part of the [Kutztown](/tartans/kutztown/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kutztown](/tartans/k/ku/kutztown/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Lions International** sett — one scale-free proportion (`p60lb2k
 [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lions International](/tartans/l/li/lions-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

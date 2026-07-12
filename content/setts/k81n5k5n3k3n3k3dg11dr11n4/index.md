@@ -6,7 +6,7 @@ This is the **Racing Stewart (Stealth)** sett — one scale-free proportion (`k8
 [BBGKBKBKBK](/stripes/bbgkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Racing Stewart](/tartans/racing-stewart/) tartan — the named design grouping this sett with its kin.
+Part of the [Racing Stewart](/tartans/r/ra/racing-stewart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

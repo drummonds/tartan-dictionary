@@ -6,6 +6,8 @@ This is the **MacNab 7** sett — one scale-free proportion (`g15r3dp11lb2`), co
 [GRBW](/stripes/grbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNab 7](/tartans/m/ma/macnab-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

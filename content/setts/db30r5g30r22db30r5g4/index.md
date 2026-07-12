@@ -6,6 +6,8 @@ This is the **GS Gaelic School (School)** sett — one scale-free proportion (`d
 [BRGRBRG](/stripes/brgrbrg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [GS Gaelic School](/tartans/g/gs/gs-gaelic-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

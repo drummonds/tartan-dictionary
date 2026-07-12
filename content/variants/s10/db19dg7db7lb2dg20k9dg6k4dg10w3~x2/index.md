@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Connell, William Benedict"
+  url: "/tartans/o/o/o-connell-william-benedict/"
 - name: "O'Connell, William Benedict (Personal)"
   url: "/setts/db19dg7db7lb2dg20k9dg6k4dg10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db19dg7db7lb2dg20k9dg6k4dg10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGKGKGW](/stripes/bgbwgkgkgw/).
+
+Part of the [O'Connell, William Benedict](/tartans/o/o/o-connell-william-benedict/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

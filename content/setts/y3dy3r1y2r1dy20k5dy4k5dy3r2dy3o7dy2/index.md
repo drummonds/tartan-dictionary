@@ -6,6 +6,8 @@ This is the **Balnagowan (Harrods)** sett — one scale-free proportion (`y3dy3r
 [GGRGRGKGKGRGRG](/stripes/ggrgrgkgkgrgrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Balnagowan](/tartans/b/ba/balnagowan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

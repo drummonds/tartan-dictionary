@@ -6,6 +6,8 @@ This is the **US Forces (Thurso) Regimental Tartan** sett — one scale-free pro
 [BRKGWWW](/stripes/brkgwww/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [US Forces Regimental](/tartans/u/us/us-forces-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

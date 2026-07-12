@@ -6,6 +6,8 @@ This is the **Neumann - GPS German Pipe Smokers** sett — one scale-free propor
 [KRGKGBGGGKGRK](/stripes/krgkgbgggkgrk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Neumann](/tartans/n/ne/neumann-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

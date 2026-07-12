@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Norsemen, The"
+  url: "/tartans/n/no/norsemen-the/"
+- name: "Norsemen, The"
   url: "/setts/db65k2db4k2db10dr24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db65k2db4k2db10dr24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKB](/stripes/bbkbkb/).
+
+Part of the [Norsemen, The](/tartans/n/no/norsemen-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

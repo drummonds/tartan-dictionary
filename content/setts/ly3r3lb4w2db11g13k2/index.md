@@ -6,6 +6,8 @@ This is the **Kentucky, State of (District)** sett — one scale-free proportion
 [KGBWWRY](/stripes/kgbwwry/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kentucky, State of](/tartans/k/ke/kentucky-state-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

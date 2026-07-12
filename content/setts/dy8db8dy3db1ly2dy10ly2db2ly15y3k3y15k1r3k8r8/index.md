@@ -6,6 +6,8 @@ This is the **Du Lion** sett — one scale-free proportion (`dy8db8dy3db1ly2dy10
 [GBGBYGYBYGKGKRKR](/stripes/gbgbygybygkgkrkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Du Lion](/tartans/d/du/du-lion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

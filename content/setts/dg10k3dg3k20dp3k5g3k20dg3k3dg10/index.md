@@ -6,6 +6,8 @@ This is the **Pike (Personal)** sett — one scale-free proportion (`dg10k3dg3k2
 [GKGKBKGKGKG](/stripes/gkgkbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Pike](/tartans/p/pi/pike/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

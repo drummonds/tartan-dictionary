@@ -6,6 +6,8 @@ This is the **Bonner (Name)** sett — one scale-free proportion (`db15k2db2k2db
 [BKBKBKGKGKGKBR](/stripes/bkbkbkgkgkgkbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Bonner](/tartans/b/bo/bonner-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

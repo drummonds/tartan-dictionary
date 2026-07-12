@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barnes"
-  url: "/tartans/barnes/"
+  url: "/tartans/b/ba/barnes/"
 - name: "Barnes Hunting (Personal)"
   url: "/setts/db20k3db3k3db3k16g3lo3g12dr2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20k3db3k3db3k16g3lo3g12dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGKBKBKB](/stripes/bgygkbkbkb/).
 
-Part of the [Barnes](/tartans/barnes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barnes](/tartans/b/ba/barnes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lysaght Hunting"
+  url: "/tartans/l/ly/lysaght-hunting/"
+- name: "Lysaght Hunting"
   url: "/setts/dy6db4dy6db11k1db3k3db1k11dg6k4dg6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy6db4dy6db11k1db3k3db1k11dg6k4dg6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBKBKGKG](/stripes/gbgbkbkbkgkg/).
+
+Part of the [Lysaght Hunting](/tartans/l/ly/lysaght-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

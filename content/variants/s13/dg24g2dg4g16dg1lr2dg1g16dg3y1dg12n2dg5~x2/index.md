@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Neill"
+  url: "/tartans/o/o/o-neill/"
 - name: "O'Neill (Personal)"
   url: "/setts/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGGGYGGGGG](/stripes/gbgggggyggggg/).
+
+Part of the [O'Neill](/tartans/o/o/o-neill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

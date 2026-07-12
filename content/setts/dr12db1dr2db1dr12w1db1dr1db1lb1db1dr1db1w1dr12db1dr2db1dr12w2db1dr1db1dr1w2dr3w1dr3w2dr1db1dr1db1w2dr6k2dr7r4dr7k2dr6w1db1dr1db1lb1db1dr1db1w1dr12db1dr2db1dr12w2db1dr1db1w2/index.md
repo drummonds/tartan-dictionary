@@ -6,6 +6,8 @@ This is the **Takla Makan (Artefact)** sett — one scale-free proportion (`dr12
 [BBBBBWBBBWBBBWBBBBBWBBBBWBWBWBBBBWBKBRBKBWBBBWBBBWBBBBBWBBBW](/stripes/bbbbbwbbbwbbbwbbbbbwbbbbwbwbwbbbbwbkbrbkbwbbbwbbbwbbbbbwbbbw/). It is recorded as a single **variant**, below.
 First attested **~700 BCE**.
 
+Part of the [Takla Makan](/tartans/t/ta/takla-makan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

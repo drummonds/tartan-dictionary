@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacCoul"
-  url: "/tartans/maccoul/"
+  url: "/tartans/m/ma/maccoul/"
 - name: "MacCoul"
   url: "/setts/r12ri2r2dg2r4dg2r4dp12ri6r2ri6dg12r12dg12r2dp1r36ri4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r12ri2r2dg2r4dg2r4dp12ri6r2ri6dg12r12dg12r2dp1r36ri4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBRGRGRRRBRGRGRRR](/stripes/rrbrgrgrrrbrgrgrrr/).
 
-Part of the [MacCoul](/tartans/maccoul/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacCoul](/tartans/m/ma/maccoul/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

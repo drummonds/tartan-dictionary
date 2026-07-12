@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cutter"
+  url: "/tartans/c/cu/cutter/"
 - name: "Cutter (Name)"
   url: "/setts/r2ri2r14db2r2db5r2db2r2db12r1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ri2r14db2r2db5r2db2r2db12r1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRBRBRRR](/stripes/grbrbrbrbrrr/).
+
+Part of the [Cutter](/tartans/c/cu/cutter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Campbell Hunting** sett — one scale-free proportion (`r4dy12k12d
 [BKWKGBGKGR](/stripes/bkwkgbgkgr/). It is recorded as a single **variant**, below.
 First attested **1945**.
 
+Part of the [Campbell Hunting](/tartans/c/ca/campbell-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

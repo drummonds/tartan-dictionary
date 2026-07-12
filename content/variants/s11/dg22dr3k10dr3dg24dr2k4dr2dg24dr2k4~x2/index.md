@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C19th"
+  url: "/tartans/u/un/unnamed-c19th-3/"
 - name: "Unnamed C19th - Portrait by Ansdell"
   url: "/setts/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGBKBGBK](/stripes/gbkbgbkbgbk/).
+
+Part of the [Unnamed C19th](/tartans/u/un/unnamed-c19th-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

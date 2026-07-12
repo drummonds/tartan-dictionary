@@ -6,6 +6,8 @@ This is the **Khalsa** sett — one scale-free proportion (`db5w1db5w1db5w1db5w1
 [BWBWBWBWBWYBGBYGKWBWKW](/stripes/bwbwbwbwbwybgbygkwbwkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Khalsa](/tartans/k/kh/khalsa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

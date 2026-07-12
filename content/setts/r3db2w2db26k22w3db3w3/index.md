@@ -6,6 +6,8 @@ This is the **DeCloud-McMasters (Personal)** sett — one scale-free proportion 
 [RBWBKWBW](/stripes/rbwbkwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [DeCloud-McMasters](/tartans/d/de/decloud-mcmasters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

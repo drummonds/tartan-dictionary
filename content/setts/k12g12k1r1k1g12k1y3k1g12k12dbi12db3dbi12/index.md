@@ -6,7 +6,7 @@ This is the **Gow Hunting Family Tartan** sett — one scale-free proportion (`k
 [BBBKGKGKGKRKGK](/stripes/bbbkgkgkgkrkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Gow Hunting](/tartans/gow-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Gow Hunting](/tartans/g/go/gow-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

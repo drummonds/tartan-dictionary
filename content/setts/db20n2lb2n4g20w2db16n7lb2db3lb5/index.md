@@ -6,6 +6,8 @@ This is the **U.S.I. Limited** sett — one scale-free proportion (`db20n2lb2n4g
 [BBWBGWBBWBW](/stripes/bbwbgwbbwbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [U.S.I. Limited](/tartans/u/u/u-s-i-limited/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

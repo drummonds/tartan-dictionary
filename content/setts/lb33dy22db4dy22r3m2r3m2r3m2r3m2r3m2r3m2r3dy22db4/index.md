@@ -6,6 +6,8 @@ This is the **Commonwealth Games Scotland, Team Scotland 2014** sett — one sca
 [BGRRRRRRRRRRRRRGBGW](/stripes/bgrrrrrrrrrrrrrgbgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Commonwealth Games Scotland, Team Scotland 2014](/tartans/c/co/commonwealth-games-scotland-team-scotland-2014/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

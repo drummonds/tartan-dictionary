@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Westgaard"
+  url: "/clan/westgaard/"
+- name: "Westgaard Captain"
+  url: "/tartans/w/we/westgaard-captain/"
 - name: "Westgaard Captain (Personal)"
   url: "/setts/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBYKWBBYKW](/stripes/bwbbykwbbykw/).
+
+Part of the [Westgaard Captain](/tartans/w/we/westgaard-captain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

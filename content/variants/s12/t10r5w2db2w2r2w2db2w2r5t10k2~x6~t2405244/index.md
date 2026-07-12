@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Postal Service"
+  url: "/tartans/u/u/u-s-postal-service/"
+- name: "U.S. Postal Service"
   url: "/setts/t10r5w2db2w2r2w2db2w2r5t10k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t10r5w2db2w2r2w2db2w2r5t10k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/).
+
+Part of the [U.S. Postal Service](/tartans/u/u/u-s-postal-service/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

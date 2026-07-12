@@ -6,7 +6,7 @@ This is the **Ogg of Tarragann (Personal)** sett — one scale-free proportion (
 [KWWRKRWKGYGY](/stripes/kwwrkrwkgygy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Ogg of Tarragann](/tartans/ogg-of-tarragann/) tartan — the named design grouping this sett with its kin.
+Part of the [Ogg of Tarragann](/tartans/o/og/ogg-of-tarragann/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

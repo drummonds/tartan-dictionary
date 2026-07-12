@@ -7,6 +7,8 @@ This is the **Watt** sett — one scale-free proportion (`k96db8k12dp3k3dp3k3g20
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Watt](/tartans/w/wa/watt-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

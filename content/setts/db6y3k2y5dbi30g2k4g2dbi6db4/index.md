@@ -6,6 +6,8 @@ This is the **St. Andrews University (Corporate)** sett — one scale-free propo
 [BBGKGBGKGB](/stripes/bbgkgbgkgb/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [St. Andrews University](/tartans/s/st/st-andrews-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Beatrice Princess.. (Hunting) Royal Family Tartan** sett — one s
 [BRGRGBGBGKGKGG](/stripes/brgrgbgbgkgkgg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Beatrice Princess.. Royal](/tartans/b/be/beatrice-princess-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

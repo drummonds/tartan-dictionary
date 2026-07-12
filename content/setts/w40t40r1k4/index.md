@@ -6,7 +6,7 @@ This is the **Kimon Andreou Family (Personal)** sett — one scale-free proporti
 [KRBW](/stripes/krbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Kimon Andreou](/tartans/kimon-andreou/) tartan — the named design grouping this sett with its kin.
+Part of the [Kimon Andreou](/tartans/k/ki/kimon-andreou/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **MacDona Family Tartan** sett — one scale-free proportion (`r35g5
 [KGRGBGR](/stripes/kgrgbgr/). It is recorded as a single **variant**, below.
 First attested **1892**.
 
+Part of the [MacDona](/tartans/m/ma/macdona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

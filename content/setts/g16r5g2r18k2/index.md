@@ -7,7 +7,7 @@ This is the **MacDonald of Sleat** sett — one scale-free proportion (`g16r5g2r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1750**.
 
-Part of the [MacDonald of Sleat](/tartans/macdonald-of-sleat/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald of Sleat](/tartans/m/ma/macdonald-of-sleat/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

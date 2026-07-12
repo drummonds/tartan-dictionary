@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chafyn House"
+  url: "/tartans/c/ch/chafyn-house/"
 - name: "Chafyn House (School)"
   url: "/setts/k72r3k11lb9k11r3k37/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k72r3k11lb9k11r3k37/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKRK](/stripes/krkwkrk/).
+
+Part of the [Chafyn House](/tartans/c/ch/chafyn-house/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

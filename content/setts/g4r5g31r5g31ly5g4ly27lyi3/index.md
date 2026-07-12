@@ -6,6 +6,8 @@ This is the **Campbell & Co (Beauly) (Corporate)** sett — one scale-free propo
 [GRGRGYGYY](/stripes/grgrgygyy/). It is recorded as a single **variant**, below.
 First attested **1937**.
 
+Part of the [Campbell & Co](/tartans/c/ca/campbell-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

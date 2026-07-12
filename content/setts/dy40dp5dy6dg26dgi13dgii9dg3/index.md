@@ -6,6 +6,8 @@ This is the **de Meuron (Neuchâtel) Day, The** sett — one scale-free proporti
 [GBGGGGG](/stripes/gbggggg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [de Meuron Day, The](/tartans/d/de/de-meuron-day-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

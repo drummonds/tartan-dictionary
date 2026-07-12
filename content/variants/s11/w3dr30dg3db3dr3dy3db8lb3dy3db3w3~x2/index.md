@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lansdowne Course, Blairgowrie Golf Club"
+  url: "/tartans/l/la/lansdowne-course-blairgowrie-golf-club/"
+- name: "Lansdowne Course, Blairgowrie Golf Club"
   url: "/setts/w3dr30dg3db3dr3dy3db8lb3dy3db3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dr30dg3db3dr3dy3db8lb3dy3db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBBGBWGBW](/stripes/wbgbbgbwgbw/).
+
+Part of the [Lansdowne Course, Blairgowrie Golf Club](/tartans/l/la/lansdowne-course-blairgowrie-golf-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

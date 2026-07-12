@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ballintrae"
+  url: "/tartans/b/ba/ballintrae/"
+- name: "Ballintrae"
   url: "/setts/r10b44o5dg40o62r5o10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10b44o5dg40o62r5o10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRRR](/stripes/rbrgrrr/).
+
+Part of the [Ballintrae](/tartans/b/ba/ballintrae/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

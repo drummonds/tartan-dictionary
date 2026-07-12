@@ -7,7 +7,7 @@ This is the **Fredericton** sett — one scale-free proportion (`y2g16lb2w2lb2w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1961**.
 
-Part of the [Fredericton](/tartans/fredericton/) tartan — the named design grouping this sett with its kin.
+Part of the [Fredericton](/tartans/f/fr/fredericton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

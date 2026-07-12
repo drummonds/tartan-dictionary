@@ -6,6 +6,8 @@ This is the **Cape Breton (yellow stripes) (Dist)** sett — one scale-free prop
 [GKGKWKG](/stripes/gkgkwkg/). It is recorded as a single **variant**, below.
 First attested **1957**.
 
+Part of the [Cape Breton](/tartans/c/ca/cape-breton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Power Corporate Tartan** sett — one scale-free proporti
 [BGBGKBGGGBKGBG](/stripes/bgbgkbgggbkgbg/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
+Part of the [Scottish Power](/tartans/s/sc/scottish-power/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

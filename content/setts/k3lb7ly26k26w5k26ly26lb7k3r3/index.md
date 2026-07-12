@@ -6,6 +6,8 @@ This is the **Cornish National** sett — one scale-free proportion (`k3lb7ly26k
 [KWYKWKYWKR](/stripes/kwykwkywkr/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Cornish National](/tartans/c/co/cornish-national-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

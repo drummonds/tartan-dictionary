@@ -6,6 +6,8 @@ This is the **MacBeth (Fashion)** sett — one scale-free proportion (`db42k6lo2
 [BKYKYGBK](/stripes/bkykygbk/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [MacBeth](/tartans/m/ma/macbeth-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Tullibardine"
+  url: "/families/murray-of-tullibardine/"
+- name: "Murray of Tullibardine 5"
+  url: "/tartans/m/mu/murray-of-tullibardine-5/"
 - name: "Murray of Tullibardine #4"
   url: "/setts/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrbrbrkrbrbrgrgrbrk/).
+
+Part of the [Murray of Tullibardine 5](/tartans/m/mu/murray-of-tullibardine-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

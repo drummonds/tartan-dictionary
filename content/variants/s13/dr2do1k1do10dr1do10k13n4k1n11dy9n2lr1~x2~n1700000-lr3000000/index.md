@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bruma"
+  url: "/tartans/b/br/bruma/"
+- name: "Bruma"
   url: "/setts/dr2do1k1do10dr1do10k13n4k1n11dy9n2lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2do1k1do10dr1do10k13n4k1n11dy9n2lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBBKBKBGBY](/stripes/bbkbbbkbkbgby/).
+
+Part of the [Bruma](/tartans/b/br/bruma/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

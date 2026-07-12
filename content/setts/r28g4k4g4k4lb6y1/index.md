@@ -6,6 +6,8 @@ This is the **Livingstone MacLay MacLeay Clan Tartan** sett — one scale-free p
 [GWKGKGR](/stripes/gwkgkgr/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
+Part of the [Livingstone MacLay MacLeay](/tartans/l/li/livingstone-maclay-macleay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

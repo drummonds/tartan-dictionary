@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Victorian fancy"
+  url: "/tartans/u/un/unidentified-victorian-fancy/"
+- name: "Unidentified Victorian fancy"
   url: "/setts/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGBGGBGGBGGBGGBGYGWGRGRWRGR](/stripes/bgbggbggbggbggbggbgygwgrgrwrgr/).
+
+Part of the [Unidentified Victorian fancy](/tartans/u/un/unidentified-victorian-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

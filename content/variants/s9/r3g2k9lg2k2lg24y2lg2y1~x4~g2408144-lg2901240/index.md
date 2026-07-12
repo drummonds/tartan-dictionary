@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
+- name: "Bell of the Borders"
+  url: "/families/bell-of-the-borders/"
+- name: "Bell of the Borders"
+  url: "/tartans/b/be/bell-of-the-borders/"
 - name: "Bell of the Borders"
   url: "/setts/r3g2k9lg2k2lg24y2lg2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g2k9lg2k2lg24y2lg2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYKYKGR](/stripes/gygykykgr/).
+
+Part of the [Bell of the Borders](/tartans/b/be/bell-of-the-borders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

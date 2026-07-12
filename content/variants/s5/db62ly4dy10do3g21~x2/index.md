@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McGovern"
+  url: "/tartans/m/mc/mcgovern/"
 - name: "McGovern (2016)"
   url: "/setts/db62ly4dy10do3g21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db62ly4dy10do3g21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGBG](/stripes/bygbg/).
+
+Part of the [McGovern](/tartans/m/mc/mcgovern/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

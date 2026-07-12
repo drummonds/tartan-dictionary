@@ -6,7 +6,7 @@ This is the **Tricor** sett — one scale-free proportion (`y23o4dy6dg6y4lb1y4`)
 [GWGGGRGRGGGW](/stripes/gwgggrgrgggw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Tricor](/tartans/tricor/) tartan — the named design grouping this sett with its kin.
+Part of the [Tricor](/tartans/t/tr/tricor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

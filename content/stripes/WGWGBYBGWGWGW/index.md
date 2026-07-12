@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/">Poulter Hoylake</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><img src="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/sett.png" alt="Poulter Hoylake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/">Poulter Hoylake</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><img src="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/sett.png" alt="Poulter Hoylake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/">Poulter Hoylake</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><img src="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/sett.png" alt="Poulter Hoylake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

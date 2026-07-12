@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mulholland"
+  url: "/tartans/m/mu/mulholland/"
 - name: "Mulholland (Personal)"
   url: "/setts/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKYGKGYKBKY](/stripes/bkbkbkygkgykbky/).
+
+Part of the [Mulholland](/tartans/m/mu/mulholland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,6 +6,8 @@ This is the **Mellor (Name)** sett — one scale-free proportion (`w8k16g32db3ly
 [WKGBYW](/stripes/wkgbyw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Mellor](/tartans/m/me/mellor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

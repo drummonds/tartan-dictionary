@@ -6,7 +6,7 @@ This is the **Kilgour (Symmetrical)** sett — one scale-free proportion (`db6k3
 [BKGKRKBG](/stripes/bkgkrkbg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Kilgour](/tartans/kilgour/) tartan — the named design grouping this sett with its kin.
+Part of the [Kilgour](/tartans/k/ki/kilgour/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Allen Northumbrian Family Tartan** sett — one scale-free proport
 [BRBRBBGWGBBGRG](/stripes/brbrbbgwgbbgrg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Allen Northumbrian](/tartans/a/al/allen-northumbrian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

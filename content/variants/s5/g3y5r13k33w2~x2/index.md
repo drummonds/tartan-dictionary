@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Papua New Guinea Pipes and Drums"
+  url: "/tartans/p/pa/papua-new-guinea-pipes-and-drums/"
+- name: "Papua New Guinea Pipes and Drums"
   url: "/setts/g3y5r13k33w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3y5r13k33w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKW](/stripes/ggrkw/).
+
+Part of the [Papua New Guinea Pipes and Drums](/tartans/p/pa/papua-new-guinea-pipes-and-drums/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

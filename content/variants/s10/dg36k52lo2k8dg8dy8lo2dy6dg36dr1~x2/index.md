@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Grenauld"
+  url: "/tartans/g/gr/grenauld/"
+- name: "Grenauld"
   url: "/setts/dg36k52lo2k8dg8dy8lo2dy6dg36dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg36k52lo2k8dg8dy8lo2dy6dg36dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYGGKYKG](/stripes/bggyggkykg/).
+
+Part of the [Grenauld](/tartans/g/gr/grenauld/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

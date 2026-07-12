@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murdoch, Ellis"
+  url: "/tartans/m/mu/murdoch-ellis/"
 - name: "Murdoch, Ellis (Personal)"
   url: "/setts/dp20db25w3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp20db25w3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWK](/stripes/bbwk/).
+
+Part of the [Murdoch, Ellis](/tartans/m/mu/murdoch-ellis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

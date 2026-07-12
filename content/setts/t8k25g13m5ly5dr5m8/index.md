@@ -6,6 +6,8 @@ This is the **Bro-Menez Are (Corporate)** sett — one scale-free proportion (`t
 [BKGRYBR](/stripes/bkgrybr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bro-Menez Are](/tartans/b/br/bro-menez-are/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

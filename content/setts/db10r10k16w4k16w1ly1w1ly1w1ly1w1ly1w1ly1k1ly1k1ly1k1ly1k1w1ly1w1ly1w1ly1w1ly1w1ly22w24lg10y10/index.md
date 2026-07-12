@@ -6,6 +6,8 @@ This is the **All breeds Dairy Goats (Version 2)** sett — one scale-free propo
 [BRKWKWYWYWYWYWYKYKYKYKWYWYWYWYWYWYG](/stripes/brkwkwywywywywykykykykwywywywywywyg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [All breeds Dairy Goats](/tartans/a/al/all-breeds-dairy-goats-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

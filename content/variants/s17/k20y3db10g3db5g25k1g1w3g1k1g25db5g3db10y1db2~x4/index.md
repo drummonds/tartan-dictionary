@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blairgowrie"
+  url: "/tartans/b/bl/blairgowrie/"
+- name: "Blairgowrie"
   url: "/setts/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKGWGKGBGBGK](/stripes/bgbgbgkgwgkgbgbgk/).
+
+Part of the [Blairgowrie](/tartans/b/bl/blairgowrie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

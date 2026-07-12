@@ -6,6 +6,8 @@ This is the **Lachine Historic** sett — one scale-free proportion (`w13g13lb13
 [RGWKWGW](/stripes/rgwkwgw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Lachine](/tartans/l/la/lachine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

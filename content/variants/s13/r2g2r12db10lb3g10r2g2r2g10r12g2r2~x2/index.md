@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Matheson N"
-  url: "/tartans/matheson-n/"
+  url: "/tartans/m/ma/matheson-n/"
 - name: "Matheson N"
   url: "/setts/r2g2r12db10lb3g10r2g2r2g10r12g2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2g2r12db10lb3g10r2g2r2g10r12g2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBWGRGRGRGR](/stripes/rgrbwgrgrgrgr/).
 
-Part of the [Matheson N](/tartans/matheson-n/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Matheson N](/tartans/m/ma/matheson-n/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

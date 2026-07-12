@@ -6,6 +6,8 @@ This is the **Campbell of Loch Neil Dress** sett — one scale-free proportion (
 [BKBKBKGKWKGKWBWBWBWBWKGKGKGK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell of Loch Neil Dress](/tartans/c/ca/campbell-of-loch-neil-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

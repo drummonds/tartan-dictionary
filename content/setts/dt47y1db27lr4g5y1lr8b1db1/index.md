@@ -6,6 +6,8 @@ This is the **Brighton Mac Dermotte** sett — one scale-free proportion (`dt47y
 [BBYGGYBGB](/stripes/bbyggybgb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Brighton Mac Dermotte](/tartans/b/br/brighton-mac-dermotte/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

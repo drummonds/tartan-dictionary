@@ -6,6 +6,8 @@ This is the **Roslin Roseline Da Vinci** sett — one scale-free proportion (`g6
 [GBWBGRBBYBBR](/stripes/gbwbgrbbybbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Roslin Roseline Da Vinci](/tartans/r/ro/roslin-roseline-da-vinci/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

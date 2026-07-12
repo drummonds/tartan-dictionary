@@ -10,7 +10,7 @@ crumbs:
 - name: "Ogg of Tarragann"
   url: "/families/ogg-of-tarragann/"
 - name: "Ogg of Tarragann"
-  url: "/tartans/ogg-of-tarragann/"
+  url: "/tartans/o/og/ogg-of-tarragann/"
 - name: "Ogg of Tarragann"
   url: "/setts/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWRKRWKGYGY](/stripes/kwwrkrwkgygy/).
 
-Part of the [Ogg of Tarragann](/tartans/ogg-of-tarragann/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ogg of Tarragann](/tartans/o/og/ogg-of-tarragann/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

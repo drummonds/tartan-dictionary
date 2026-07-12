@@ -7,7 +7,7 @@ This is the **Bowie (Name)** sett — one scale-free proportion (`dg10lo2dg3r4dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1978**.
 
-Part of the [Bowie](/tartans/bowie-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowie](/tartans/b/bo/bowie-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

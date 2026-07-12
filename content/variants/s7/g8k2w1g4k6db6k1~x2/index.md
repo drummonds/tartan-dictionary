@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacCallum,"
   url: "/clan/maccallum/"
 - name: "MacCallum"
-  url: "/tartans/maccallum-2/"
+  url: "/tartans/m/ma/maccallum-2/"
 - name: "MacCallum"
   url: "/setts/g8k2w1g4k6db6k1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8k2w1g4k6db6k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGKBK](/stripes/gkwgkbk/).
 
-Part of the [MacCallum](/tartans/maccallum-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacCallum](/tartans/m/ma/maccallum-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

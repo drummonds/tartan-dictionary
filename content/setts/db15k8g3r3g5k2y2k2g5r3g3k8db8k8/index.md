@@ -6,7 +6,7 @@ This is the **MacLellan** sett — one scale-free proportion (`db15k8g3r3g5k2y2k
 [BKGRGKGKGRGKBK](/stripes/bkgrgkgkgrgkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacLellan](/tartans/maclellan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLellan](/tartans/m/ma/maclellan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

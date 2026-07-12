@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Columbian"
-  url: "/tartans/royal-columbian/"
+  url: "/tartans/r/ro/royal-columbian/"
 - name: "Royal Columbian Canadian Tartan"
   url: "/setts/db25w2db25lb25r2lb25g25dy2g25/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db25w2db25lb25r2lb25g25dy2g25/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRWGGG](/stripes/bwbwrwggg/).
 
-Part of the [Royal Columbian](/tartans/royal-columbian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Columbian](/tartans/r/ro/royal-columbian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

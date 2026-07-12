@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brocliande )"
+  url: "/tartans/b/br/brocliande/"
 - name: "Brocliande (Fashion))"
   url: "/setts/k3lb11g15dgi5g10dg14dgi14lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lb11g15dgi5g10dg14dgi14lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGGGGGY](/stripes/kwgggggy/).
+
+Part of the [Brocliande )](/tartans/b/br/brocliande/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

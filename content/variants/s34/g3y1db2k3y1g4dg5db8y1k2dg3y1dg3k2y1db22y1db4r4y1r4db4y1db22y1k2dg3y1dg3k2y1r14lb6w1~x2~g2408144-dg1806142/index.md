@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebrides, Inner"
-  url: "/tartans/hebrides-inner-2/"
+  url: "/tartans/h/he/hebrides-inner-2/"
 - name: "Hebrides Inner.. Artifact Tartan"
   url: "/setts/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKGGGBGKGGGKGBGBRGRBGBGKGGGKGRWW](/stripes/ggbkgggbgkgggkgbgbrgrbgbgkgggkgrww/).
 
-Part of the [Hebrides, Inner](/tartans/hebrides-inner-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hebrides, Inner](/tartans/h/he/hebrides-inner-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 

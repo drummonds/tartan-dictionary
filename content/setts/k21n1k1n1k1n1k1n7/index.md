@@ -6,6 +6,8 @@ This is the **Lunar (Fashion)** sett — one scale-free proportion (`k21n1k1n1k1
 [BKBKBKBKK](/stripes/bkbkbkbkk/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Lunar](/tartans/l/lu/lunar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

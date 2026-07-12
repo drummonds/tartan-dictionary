@@ -6,6 +6,8 @@ This is the **Queens University Alumni (Corporate)** sett — one scale-free pro
 [RYRYBWBBRYKW](/stripes/ryrybwbbrykw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Queens University Alumni](/tartans/q/qu/queens-university-alumni/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

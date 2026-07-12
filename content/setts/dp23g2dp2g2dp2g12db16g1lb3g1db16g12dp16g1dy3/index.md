@@ -6,7 +6,7 @@ This is the **Pitlochry** sett — one scale-free proportion (`dp23g2dp2g2dp2g12
 [BGBGBGBGWGBGBGG](/stripes/bgbgbgbgwgbgbgg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Pitlochry](/tartans/pitlochry/) tartan — the named design grouping this sett with its kin.
+Part of the [Pitlochry](/tartans/p/pi/pitlochry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

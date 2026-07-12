@@ -6,6 +6,8 @@ This is the **Little of Morton Rigg** sett — one scale-free proportion (`k4w4k
 [KWKWKBKBKY](/stripes/kwkwkbkbky/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Little of Morton Rigg](/tartans/l/li/little-of-morton-rigg-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

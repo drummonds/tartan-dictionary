@@ -6,6 +6,8 @@ This is the **Caledonian Brewery Corporate Tartan** sett — one scale-free prop
 [GBWBGKW](/stripes/gbwbgkw/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
+Part of the [Caledonian Brewery](/tartans/c/ca/caledonian-brewery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

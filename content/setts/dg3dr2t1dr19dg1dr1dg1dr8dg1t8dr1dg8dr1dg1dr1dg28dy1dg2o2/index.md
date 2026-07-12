@@ -6,6 +6,8 @@ This is the **Brewer** sett — one scale-free proportion (`dg3dr2t1dr19dg1dr1dg
 [GBBBGBGBGBBGBGBGGGR](/stripes/gbbbgbgbgbbgbgbgggr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Brewer](/tartans/b/br/brewer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

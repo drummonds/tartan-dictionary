@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathtummel"
+  url: "/tartans/s/st/strathtummel/"
 - name: "Strathtummel (District?)"
   url: "/setts/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBWBGBGBGB](/stripes/bbbbkbwbgbgbgb/).
+
+Part of the [Strathtummel](/tartans/s/st/strathtummel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

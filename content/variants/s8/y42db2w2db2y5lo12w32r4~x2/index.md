@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Comrie Gold"
+  url: "/tartans/c/co/comrie-gold/"
 - name: "Comrie, Gold (Dance)"
   url: "/setts/y42db2w2db2y5lo12w32r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y42db2w2db2y5lo12w32r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGYWR](/stripes/gbwbgywr/).
+
+Part of the [Comrie Gold](/tartans/c/co/comrie-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

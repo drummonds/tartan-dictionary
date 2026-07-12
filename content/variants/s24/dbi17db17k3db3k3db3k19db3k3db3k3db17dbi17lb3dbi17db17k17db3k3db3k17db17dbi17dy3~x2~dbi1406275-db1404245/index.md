@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allied Facenna"
+  url: "/tartans/a/al/allied-facenna/"
 - name: "Allied Facenna (Corporate)"
   url: "/setts/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKBKBKBBWBBKBKBKBBG](/stripes/bbkbkbkbkbkbbwbbkbkbkbbg/).
+
+Part of the [Allied Facenna](/tartans/a/al/allied-facenna/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

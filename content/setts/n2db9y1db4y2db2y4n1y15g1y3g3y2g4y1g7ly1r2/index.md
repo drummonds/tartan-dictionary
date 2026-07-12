@@ -6,6 +6,8 @@ This is the **Norwegian Night (Fashion)** sett — one scale-free proportion (`n
 [BBGBGBGBGGGGGGGGYR](/stripes/bbgbgbgbggggggggyr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Norwegian Night](/tartans/n/no/norwegian-night/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

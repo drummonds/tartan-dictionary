@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heil, Rudiger"
+  url: "/tartans/h/he/heil-rudiger/"
 - name: "Heil, Rudiger (Personal)"
   url: "/setts/ly6n2ly2n2ly18n13db13n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly6n2ly2n2ly18n13db13n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBYBY](/stripes/bbbybyby/).
+
+Part of the [Heil, Rudiger](/tartans/h/he/heil-rudiger/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

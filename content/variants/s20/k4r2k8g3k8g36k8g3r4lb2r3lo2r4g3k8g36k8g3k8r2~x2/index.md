@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinnear, Barony of"
+  url: "/tartans/k/ki/kinnear-barony-of-2/"
 - name: "Kinnear, Barony of (Personal)"
   url: "/setts/k4r2k8g3k8g36k8g3r4lb2r3lo2r4g3k8g36k8g3k8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r2k8g3k8g36k8g3r4lb2r3lo2r4g3k8g36k8g3k8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGKGRWRYRGKGKGKR](/stripes/krkgkgkgrwryrgkgkgkr/).
+
+Part of the [Kinnear, Barony of](/tartans/k/ki/kinnear-barony-of-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

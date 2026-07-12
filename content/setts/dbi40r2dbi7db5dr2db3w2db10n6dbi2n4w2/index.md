@@ -6,6 +6,8 @@ This is the **Plymouth Armada Special event Tartan** sett — one scale-free pro
 [BRBBBBWBBBBW](/stripes/brbbbbwbbbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Plymouth Armada Special event](/tartans/p/pl/plymouth-armada-special-event/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

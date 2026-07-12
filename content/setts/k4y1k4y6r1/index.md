@@ -6,6 +6,8 @@ This is the **MacLeod Dress Clan Tartan** sett — one scale-free proportion (`k
 [KGKGR](/stripes/kgkgr/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [MacLeod Dress](/tartans/m/ma/macleod-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

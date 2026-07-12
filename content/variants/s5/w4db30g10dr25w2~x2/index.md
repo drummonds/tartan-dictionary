@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Spring Dress"
+  url: "/tartans/h/hi/highland-spring-dress-2/"
 - name: "Highland Spring Dress (2004) (Corp)"
   url: "/setts/w4db30g10dr25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db30g10dr25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBW](/stripes/wbgbw/).
+
+Part of the [Highland Spring Dress](/tartans/h/hi/highland-spring-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

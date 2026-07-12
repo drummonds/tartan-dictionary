@@ -6,6 +6,8 @@ This is the **Loton (Personal)** sett — one scale-free proportion (`dr6dg2b2dg
 [BGBGB](/stripes/bgbgb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Loton](/tartans/l/lo/loton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

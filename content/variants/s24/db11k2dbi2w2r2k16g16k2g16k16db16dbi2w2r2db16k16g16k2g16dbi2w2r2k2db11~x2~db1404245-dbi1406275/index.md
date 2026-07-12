@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish American Military"
-  url: "/tartans/scottish-american-military/"
+  url: "/tartans/s/sc/scottish-american-military/"
 - name: "Scottish American Military (Fashion)"
   url: "/setts/db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWRKGKGKBBWRBKGKGBWRKB](/stripes/bkbwrkgkgkbbwrbkgkgbwrkb/).
 
-Part of the [Scottish American Military](/tartans/scottish-american-military/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish American Military](/tartans/s/sc/scottish-american-military/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

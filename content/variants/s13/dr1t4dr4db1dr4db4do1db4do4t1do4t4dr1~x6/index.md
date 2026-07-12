@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vincent"
+  url: "/tartans/v/vi/vincent/"
+- name: "Vincent"
   url: "/setts/dr1t4dr4db1dr4db4do1db4do4t1do4t4dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1t4dr4db1dr4db4do1db4do4t1do4t4dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbb/).
+
+Part of the [Vincent](/tartans/v/vi/vincent/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant or New Bruce"
+  url: "/tartans/g/gr/grant-or-new-bruce/"
 - name: "Grant or New Bruce Clan Tartan"
   url: "/setts/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGRGRBRWRBRBR](/stripes/bbrgrgrbrwrbrbr/).
+
+Part of the [Grant or New Bruce](/tartans/g/gr/grant-or-new-bruce/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

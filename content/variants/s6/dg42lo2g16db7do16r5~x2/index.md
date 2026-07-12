@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Waterford, County"
-  url: "/tartans/waterford-county/"
+  url: "/tartans/w/wa/waterford-county/"
 - name: "Waterford, County"
   url: "/setts/dg42lo2g16db7do16r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg42lo2g16db7do16r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBBR](/stripes/gygbbr/).
 
-Part of the [Waterford, County](/tartans/waterford-county/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Waterford, County](/tartans/w/wa/waterford-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

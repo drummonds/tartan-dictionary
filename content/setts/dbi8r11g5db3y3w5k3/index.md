@@ -6,6 +6,8 @@ This is the **Nicolson of Assynt & Coigach (Name)** sett — one scale-free prop
 [BRGBGWK](/stripes/brgbgwk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Nicolson of Assynt & Coigach](/tartans/n/ni/nicolson-of-assynt-coigach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

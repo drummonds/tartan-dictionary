@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heriot"
-  url: "/tartans/heriot/"
+  url: "/tartans/h/he/heriot/"
 - name: "Heriot (Fashion)"
   url: "/setts/o20db2o2db2ly3db12w18db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o20db2o2db2ly3db12w18db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBRBR](/stripes/bwbybrbr/).
 
-Part of the [Heriot](/tartans/heriot/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heriot](/tartans/h/he/heriot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

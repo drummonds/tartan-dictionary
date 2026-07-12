@@ -6,6 +6,8 @@ This is the **Bruntsfield Links Golfing Society** sett — one scale-free propor
 [RGGGGGGBWBY](/stripes/rggggggbwby/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Bruntsfield Links Golfing Society](/tartans/b/br/bruntsfield-links-golfing-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

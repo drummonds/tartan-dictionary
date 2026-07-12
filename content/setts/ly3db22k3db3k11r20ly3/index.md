@@ -6,7 +6,7 @@ This is the **Biffy Clyro** sett — one scale-free proportion (`ly3db22k3db3k11
 [YBKBKRY](/stripes/ybkbkry/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Biffy Clyro](/tartans/biffy-clyro/) tartan — the named design grouping this sett with its kin.
+Part of the [Biffy Clyro](/tartans/b/bi/biffy-clyro/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

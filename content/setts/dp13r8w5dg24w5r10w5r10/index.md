@@ -6,6 +6,8 @@ This is the **Chaudhri (Name)** sett — one scale-free proportion (`dp13r8w5dg2
 [BRWGWRWR](/stripes/brwgwrwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Chaudhri](/tartans/c/ch/chaudhri/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

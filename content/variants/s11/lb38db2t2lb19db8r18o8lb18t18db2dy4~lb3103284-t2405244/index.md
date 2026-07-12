@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cian"
+  url: "/clan/cian/"
+- name: "Cian"
+  url: "/tartans/c/ci/cian/"
 - name: "Cian Clan Irish Family Tartan"
   url: "/setts/lb38db2t2lb19db8r18o8lb18t18db2dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb38db2t2lb19db8r18o8lb18t18db2dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBWRRBWBBW](/stripes/gbbwrrbwbbw/).
+
+Part of the [Cian](/tartans/c/ci/cian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

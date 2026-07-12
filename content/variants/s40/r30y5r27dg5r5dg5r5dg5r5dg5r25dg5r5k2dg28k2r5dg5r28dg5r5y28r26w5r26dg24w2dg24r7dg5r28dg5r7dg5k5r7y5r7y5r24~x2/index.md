@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Donald"
+  url: "/clan/donald/"
+- name: "Donald of Staffa's Sett"
+  url: "/families/donald-of-staffa-s-sett/"
+- name: "Donald of Staffa's Sett"
+  url: "/tartans/d/do/donald-of-staffa-s-sett/"
 - name: "Donald of Staffa's Sett"
   url: "/setts/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR](/stripes/rgrgrgrgrgrgrkgkrgrgrgrwrgwgrgrgrgkrgrgr/).
+
+Part of the [Donald of Staffa's Sett](/tartans/d/do/donald-of-staffa-s-sett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

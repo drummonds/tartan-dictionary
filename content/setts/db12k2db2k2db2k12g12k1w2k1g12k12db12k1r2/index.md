@@ -7,7 +7,7 @@ This is the **MacKenzie** sett — one scale-free proportion (`db12k2db2k2db2k12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1778**.
 
-Part of the [MacKenzie](/tartans/mackenzie-7/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKenzie](/tartans/m/ma/mackenzie-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

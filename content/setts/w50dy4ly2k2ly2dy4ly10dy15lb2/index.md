@@ -6,6 +6,8 @@ This is the **Australian Dress District Tartan** sett — one scale-free proport
 [WGYGYKYGW](/stripes/wgygykygw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Australian Dress](/tartans/a/au/australian-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

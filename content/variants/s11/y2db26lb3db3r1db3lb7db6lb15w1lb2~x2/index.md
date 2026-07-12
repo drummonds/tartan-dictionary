@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vilaro-Thomas"
+  url: "/tartans/v/vi/vilaro-thomas/"
 - name: "Vilaro-Thomas (Personal)"
   url: "/setts/y2db26lb3db3r1db3lb7db6lb15w1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db26lb3db3r1db3lb7db6lb15w1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBRBWBWWW](/stripes/gbwbrbwbwww/).
+
+Part of the [Vilaro-Thomas](/tartans/v/vi/vilaro-thomas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

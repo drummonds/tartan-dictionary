@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Warwick"
+  url: "/tartans/w/wa/warwick/"
 - name: "Warwick (Fashion)"
   url: "/setts/k13n8k15dp2k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k13n8k15dp2k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBK](/stripes/kbkbk/).
+
+Part of the [Warwick](/tartans/w/wa/warwick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

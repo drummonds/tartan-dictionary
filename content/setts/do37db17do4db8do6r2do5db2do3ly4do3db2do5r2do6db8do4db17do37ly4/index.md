@@ -6,6 +6,8 @@ This is the **Griffith of Wales** sett — one scale-free proportion (`do37db17d
 [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Griffith of Wales](/tartans/g/gr/griffith-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

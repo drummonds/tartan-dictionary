@@ -6,6 +6,8 @@ This is the **MacDonald of Borrodale (Clan)** sett — one scale-free proportion
 [RBRBKGGR](/stripes/rbrbkggr/). It is recorded as a single **variant**, below.
 First attested **~1746**.
 
+Part of the [MacDonald of Borrodale](/tartans/m/ma/macdonald-of-borrodale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Contreceour Dress"
-  url: "/tartans/contreceour-dress/"
+  url: "/tartans/c/co/contreceour-dress/"
 - name: "Contreceour Dress Corporate Tartan"
   url: "/setts/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKWRWKGKGWRWW](/stripes/gwgkwrwkgkgwrww/).
 
-Part of the [Contreceour Dress](/tartans/contreceour-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Contreceour Dress](/tartans/c/co/contreceour-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

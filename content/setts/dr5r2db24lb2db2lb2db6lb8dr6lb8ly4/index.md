@@ -6,6 +6,8 @@ This is the **Tasmania (District)** sett — one scale-free proportion (`dr5r2db
 [BRBWBWBWBWY](/stripes/brbwbwbwbwy/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Tasmania](/tartans/t/ta/tasmania/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

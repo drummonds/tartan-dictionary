@@ -6,6 +6,8 @@ This is the **Tainsh (2016)** sett — one scale-free proportion (`k62r9w7lb6y3g
 [GGWWRK](/stripes/ggwwrk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Tainsh](/tartans/t/ta/tainsh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

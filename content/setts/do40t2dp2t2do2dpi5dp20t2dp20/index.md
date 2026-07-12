@@ -6,6 +6,8 @@ This is the **Phillips Name Tartan** sett — one scale-free proportion (`do40t2
 [BBBBBBBBB](/stripes/bbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Phillips](/tartans/p/ph/phillips/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

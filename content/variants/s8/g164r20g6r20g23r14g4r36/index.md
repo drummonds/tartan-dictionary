@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aukland & District Pipe Band"
+  url: "/tartans/a/au/aukland-district-pipe-band/"
 - name: "Aukland & District Pipe Band (Corp)"
   url: "/setts/g164r20g6r20g23r14g4r36/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g164r20g6r20g23r14g4r36/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRGR](/stripes/grgrgrgr/).
+
+Part of the [Aukland & District Pipe Band](/tartans/a/au/aukland-district-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Modowny** sett — one scale-free proportion (`dr1n6k1n1k2n1k1n6dy
 [BBKBKBKBG](/stripes/bbkbkbkbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Modowny](/tartans/modowny/) tartan — the named design grouping this sett with its kin.
+Part of the [Modowny](/tartans/m/mo/modowny/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

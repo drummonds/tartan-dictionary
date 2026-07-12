@@ -6,6 +6,8 @@ This is the **MacShane (Clan)** sett — one scale-free proportion (`dg9w2dg9k2l
 [GWGKYYWR](/stripes/gwgkyywr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacShane](/tartans/m/ma/macshane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hirstwood (Name)** sett — one scale-free proportion (`ly28dr24dg
 [BGBY](/stripes/bgby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Hirstwood](/tartans/h/hi/hirstwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

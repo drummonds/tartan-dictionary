@@ -6,6 +6,8 @@ This is the **Chapman (Personal)** sett — one scale-free proportion (`k36dg2k2
 [KGKGKRKWKRKGKGKRKR](/stripes/kgkgkrkwkrkgkgkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Chapman](/tartans/c/ch/chapman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

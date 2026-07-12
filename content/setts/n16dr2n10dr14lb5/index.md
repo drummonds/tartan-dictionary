@@ -6,7 +6,7 @@ This is the **Mowbray (Personal)** sett — one scale-free proportion (`n16dr2n1
 [BBBBW](/stripes/bbbbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Mowbray](/tartans/mowbray/) tartan — the named design grouping this sett with its kin.
+Part of the [Mowbray](/tartans/m/mo/mowbray/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

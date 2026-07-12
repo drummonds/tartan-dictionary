@@ -7,6 +7,8 @@ This is the **Swiss Red** sett — one scale-free proportion (`w18r9w1r1w2r1w1r9
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Swiss](/tartans/s/sw/swiss/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

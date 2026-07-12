@@ -20,5 +20,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Hogarth of Firhill tartan and all its setts →](/tartans/hogarth-of-firhill/)
+[See the Hogarth of Firhill tartan and all its setts →](/tartans/h/ho/hogarth-of-firhill/)
 

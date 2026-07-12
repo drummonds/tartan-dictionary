@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Morris"
+  url: "/clan/morris/"
+- name: "Morris"
+  url: "/tartans/m/mo/morris/"
 - name: "Morris (Welsh Name)"
   url: "/setts/w6y3db3y2db3y4db48y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6y3db3y2db3y4db48y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGW](/stripes/gbgbgbgw/).
+
+Part of the [Morris](/tartans/m/mo/morris/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

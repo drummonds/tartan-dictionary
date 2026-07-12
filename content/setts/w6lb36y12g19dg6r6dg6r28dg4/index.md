@@ -6,7 +6,7 @@ This is the **Derry Family (Olney, Buckinghamshire) (Personal)** sett — one sc
 [GRGRGGGWW](/stripes/grgrgggww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Derry](/tartans/derry/) tartan — the named design grouping this sett with its kin.
+Part of the [Derry](/tartans/d/de/derry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

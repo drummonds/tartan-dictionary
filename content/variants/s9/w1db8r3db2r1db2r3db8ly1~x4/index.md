@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Louisville Fire & Rescue P&D"
+  url: "/tartans/l/lo/louisville-fire-rescue-p-d/"
+- name: "Louisville Fire & Rescue P&D"
   url: "/setts/w1db8r3db2r1db2r3db8ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1db8r3db2r1db2r3db8ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBRBRBY](/stripes/wbrbrbrby/).
+
+Part of the [Louisville Fire & Rescue P&D](/tartans/l/lo/louisville-fire-rescue-p-d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

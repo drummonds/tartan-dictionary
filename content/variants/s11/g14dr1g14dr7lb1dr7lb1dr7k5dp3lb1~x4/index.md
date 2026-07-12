@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hynde"
-  url: "/tartans/hynde/"
+  url: "/tartans/h/hy/hynde/"
 - name: "Hynde (Sir John) (Artefact)"
   url: "/setts/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWBWBKBW](/stripes/gbgbwbwbkbw/).
 
-Part of the [Hynde](/tartans/hynde/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hynde](/tartans/h/hy/hynde/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

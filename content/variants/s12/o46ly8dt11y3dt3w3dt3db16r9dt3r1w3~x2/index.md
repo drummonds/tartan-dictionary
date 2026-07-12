@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maciocia"
+  url: "/tartans/m/ma/maciocia/"
 - name: "Maciocia (Personal)"
   url: "/setts/o46ly8dt11y3dt3w3dt3db16r9dt3r1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o46ly8dt11y3dt3w3dt3db16r9dt3r1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBGBWBBRBRW](/stripes/rybgbwbbrbrw/).
+
+Part of the [Maciocia](/tartans/m/ma/maciocia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

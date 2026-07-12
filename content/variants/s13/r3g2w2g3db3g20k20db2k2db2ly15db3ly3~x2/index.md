@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Ancient Order of Hibernians (Co"
+  url: "/tartans/u/u/u-s-ancient-order-of-hibernians-co/"
+- name: "U.S. Ancient Order of Hibernians (Co"
   url: "/setts/r3g2w2g3db3g20k20db2k2db2ly15db3ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g2w2g3db3g20k20db2k2db2ly15db3ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWGBGKBKBYBY](/stripes/rgwgbgkbkbyby/).
+
+Part of the [U.S. Ancient Order of Hibernians (Co](/tartans/u/u/u-s-ancient-order-of-hibernians-co/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

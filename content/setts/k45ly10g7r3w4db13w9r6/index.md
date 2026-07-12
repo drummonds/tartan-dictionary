@@ -6,6 +6,8 @@ This is the **Legion of Frontiersmen (Corporate)** sett — one scale-free propo
 [KYGRWBWR](/stripes/kygrwbwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Legion of Frontiersmen](/tartans/l/le/legion-of-frontiersmen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

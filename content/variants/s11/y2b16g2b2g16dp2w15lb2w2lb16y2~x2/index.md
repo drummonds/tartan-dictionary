@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robinson, Barbara Ann"
+  url: "/tartans/r/ro/robinson-barbara-ann-2/"
 - name: "Robinson, Barbara Ann (Personal)"
   url: "/setts/y2b16g2b2g16dp2w15lb2w2lb16y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2b16g2b2g16dp2w15lb2w2lb16y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWWWWG](/stripes/gbgbgbwwwwg/).
+
+Part of the [Robinson, Barbara Ann](/tartans/r/ro/robinson-barbara-ann-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Riley's Theme** sett — one scale-free proportion (`db20k4g5dp14w
 [BKGBWB](/stripes/bkgbwb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Riley's Theme](/tartans/r/ri/riley-s-theme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

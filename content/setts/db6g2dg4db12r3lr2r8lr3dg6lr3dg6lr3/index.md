@@ -6,6 +6,8 @@ This is the **Rainbow (Canada)** sett — one scale-free proportion (`db6g2dg4db
 [BGGBRYRYGYGY](/stripes/bggbryrygygy/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Rainbow](/tartans/r/ra/rainbow-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

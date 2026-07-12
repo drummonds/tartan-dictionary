@@ -6,7 +6,7 @@ This is the **Grant of Ballindalloch Clan Tartan** sett — one scale-free propo
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Grant of Ballindalloch](/tartans/grant-of-ballindalloch/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

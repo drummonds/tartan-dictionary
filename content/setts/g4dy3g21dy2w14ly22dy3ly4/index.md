@@ -6,6 +6,8 @@ This is the **Bannock Bane M.406** sett — one scale-free proportion (`g4dy3g21
 [GGGGWYGY](/stripes/ggggwygy/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bannock Bane M.406](/tartans/b/ba/bannock-bane-m-406/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

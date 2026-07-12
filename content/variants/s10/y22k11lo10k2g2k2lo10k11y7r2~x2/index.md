@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Project, Faith Inc"
+  url: "/tartans/p/pr/project-faith-inc/"
 - name: "Project, Faith Inc (Corporate)"
   url: "/setts/y22k11lo10k2g2k2lo10k11y7r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y22k11lo10k2g2k2lo10k11y7r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKGKYKGR](/stripes/gkykgkykgr/).
+
+Part of the [Project, Faith Inc](/tartans/p/pr/project-faith-inc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

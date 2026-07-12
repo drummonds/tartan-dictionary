@@ -6,6 +6,8 @@ This is the **Tyrone, County** sett — one scale-free proportion (`dr50y6do7dg2
 [BGBGBWBGBGBG](/stripes/bgbgbwbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Tyrone, County](/tartans/t/ty/tyrone-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

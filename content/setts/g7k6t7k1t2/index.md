@@ -7,7 +7,7 @@ This is the **Campbell of Glenlyon** sett — one scale-free proportion (`g7k6t7
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
-Part of the [Campbell of Glenlyon](/tartans/campbell-of-glenlyon/) tartan — the named design grouping this sett with its kin.
+Part of the [Campbell of Glenlyon](/tartans/c/ca/campbell-of-glenlyon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

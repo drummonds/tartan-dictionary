@@ -6,6 +6,8 @@ This is the **Glen Lyon (Fashion)** sett — one scale-free proportion (`n3db1n1
 [BBBWKBY](/stripes/bbbwkby/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Glen Lyon](/tartans/g/gl/glen-lyon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

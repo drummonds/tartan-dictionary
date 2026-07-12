@@ -6,6 +6,8 @@ This is the **American** sett — one scale-free proportion (`r2w2b2w2b7w4b1r21b
 [BRBWBWBWR](/stripes/brbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [American](/tartans/a/am/american/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

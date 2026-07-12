@@ -6,6 +6,8 @@ This is the **Walker, Michael (Personal)** sett — one scale-free proportion (`
 [BGBWBWRWWBWBWWRWBWBGBW](/stripes/bgbwbwrwwbwbwwrwbwbgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Walker, Michael](/tartans/w/wa/walker-michael/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

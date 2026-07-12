@@ -6,6 +6,8 @@ This is the **Shepherd, Derek (Piping)** sett — one scale-free proportion (`k5
 [KRGYGW](/stripes/krgygw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Shepherd, Derek](/tartans/s/sh/shepherd-derek/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

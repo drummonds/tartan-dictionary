@@ -6,7 +6,7 @@ This is the **Langtree** sett — one scale-free proportion (`k86n6k4w3k3r3k3n22
 [KBKWKRKBRKRW](/stripes/kbkwkrkbrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Langtree](/tartans/langtree/) tartan — the named design grouping this sett with its kin.
+Part of the [Langtree](/tartans/l/la/langtree/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

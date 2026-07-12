@@ -6,7 +6,7 @@ This is the **Washington District Tartan** sett — one scale-free proportion (`
 [GKWGBRW](/stripes/gkwgbrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Washington](/tartans/washington/) tartan — the named design grouping this sett with its kin.
+Part of the [Washington](/tartans/w/wa/washington/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

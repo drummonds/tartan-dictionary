@@ -6,6 +6,8 @@ This is the **Green Thistle** sett — one scale-free proportion (`lb3dg15n12ly1
 [WGBYBYBYBYBYBYYYW](/stripes/wgbybybybybybyyyw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Green Thistle](/tartans/g/gr/green-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

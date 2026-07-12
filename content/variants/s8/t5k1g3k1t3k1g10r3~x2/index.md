@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ayrton"
+  url: "/clan/ayrton/"
+- name: "Ayrton 1979 No. 2"
+  url: "/tartans/a/ay/ayrton-1979-no-2/"
 - name: "Ayrton 1979 No. 2 (Personal)"
   url: "/setts/t5k1g3k1t3k1g10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t5k1g3k1t3k1g10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKGR](/stripes/bkgkbkgr/).
+
+Part of the [Ayrton 1979 No. 2](/tartans/a/ay/ayrton-1979-no-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Doon Valley Crafters** sett — one scale-free proportion (`y3k1g1
 [GKGKBGBGBKGKW](/stripes/gkgkbgbgbkgkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Doon Valley Crafters](/tartans/doon-valley-crafters/) tartan — the named design grouping this sett with its kin.
+Part of the [Doon Valley Crafters](/tartans/d/do/doon-valley-crafters/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

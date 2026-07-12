@@ -6,7 +6,7 @@ This is the **Paisley** sett — one scale-free proportion (`g7r2g3r5g17y2k15y2t
 [BWGBGKGGRGRG](/stripes/bwgbgkggrgrg/). It is recorded as a single **variant**, below.
 First attested **1952**.
 
-Part of the [Paisley](/tartans/paisley/) tartan — the named design grouping this sett with its kin.
+Part of the [Paisley](/tartans/p/pa/paisley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

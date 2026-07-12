@@ -6,6 +6,8 @@ This is the **Ben Vorlich (Fashion)** sett — one scale-free proportion (`w68lb
 [WBRBRWWWWWW](/stripes/wbrbrwwwwww/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Ben Vorlich](/tartans/b/be/ben-vorlich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

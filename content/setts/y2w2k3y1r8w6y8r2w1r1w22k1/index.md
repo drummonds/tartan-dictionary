@@ -6,6 +6,8 @@ This is the **Turblin, Jean Pierre (Personal)** sett — one scale-free proporti
 [GWKGRWGRWRWK](/stripes/gwkgrwgrwrwk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Turblin, Jean Pierre](/tartans/t/tu/turblin-jean-pierre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

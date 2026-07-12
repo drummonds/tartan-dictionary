@@ -6,6 +6,8 @@ This is the **Little of Morton Rigg Red (Personal)** sett — one scale-free pro
 [KWKBKBKR](/stripes/kwkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Little of Morton Rigg](/tartans/l/li/little-of-morton-rigg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

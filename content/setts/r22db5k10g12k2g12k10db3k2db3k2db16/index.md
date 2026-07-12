@@ -7,6 +7,8 @@ This is the **Young Presidents Organisation** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [Young Presidents Organisation](/tartans/y/yo/young-presidents-organisation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

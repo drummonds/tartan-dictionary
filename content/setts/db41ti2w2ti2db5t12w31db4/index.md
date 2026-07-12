@@ -6,7 +6,7 @@ This is the **Harmony Eildon** sett — one scale-free proportion (`db41ti2w2ti2
 [BBWBBBWBWBBBWB](/stripes/bbwbbbwbwbbbwb/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Harmony Eildon](/tartans/harmony-eildon/) tartan — the named design grouping this sett with its kin.
+Part of the [Harmony Eildon](/tartans/h/ha/harmony-eildon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

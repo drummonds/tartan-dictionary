@@ -6,6 +6,8 @@ This is the **Strakan** sett — one scale-free proportion (`db18n5db18ly14k3w3k
 [BBBYKWKYB](/stripes/bbbykwkyb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Strakan](/tartans/s/st/strakan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

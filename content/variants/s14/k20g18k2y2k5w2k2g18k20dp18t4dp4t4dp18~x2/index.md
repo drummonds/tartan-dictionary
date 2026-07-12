@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shandon"
+  url: "/tartans/s/sh/shandon/"
 - name: "Shandon (Personal)"
   url: "/setts/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKGKWKGKGK](/stripes/bbbbbkgkwkgkgk/).
+
+Part of the [Shandon](/tartans/s/sh/shandon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

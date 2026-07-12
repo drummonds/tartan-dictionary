@@ -6,6 +6,8 @@ This is the **Spirit of South Korea** sett — one scale-free proportion (`w8k4w
 [KWRBWRWBWKWKW](/stripes/kwrbwrwbwkwkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Spirit of South Korea](/tartans/s/sp/spirit-of-south-korea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

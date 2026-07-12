@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Press & Journal"
+  url: "/tartans/p/pr/press-journal/"
+- name: "Press & Journal"
   url: "/setts/k9db3k28db25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9db3k28db25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
+
+Part of the [Press & Journal](/tartans/p/pr/press-journal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carrick"
+  url: "/tartans/c/ca/carrick-3/"
+- name: "Carrick"
   url: "/setts/r28db12r3g20m1g2m1g2r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r28db12r3g20m1g2m1g2r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
+
+Part of the [Carrick](/tartans/c/ca/carrick-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

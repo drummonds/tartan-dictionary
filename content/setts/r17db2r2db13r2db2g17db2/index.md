@@ -6,7 +6,7 @@ This is the **Red Remony Trade Tartan** sett — one scale-free proportion (`r17
 [BGBRBRBR](/stripes/bgbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
-Part of the [Red Remony](/tartans/red-remony/) tartan — the named design grouping this sett with its kin.
+Part of the [Red Remony](/tartans/r/re/red-remony/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

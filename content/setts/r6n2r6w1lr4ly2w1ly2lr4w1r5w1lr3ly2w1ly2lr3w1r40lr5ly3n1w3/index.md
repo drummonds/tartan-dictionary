@@ -6,6 +6,8 @@ This is the **B & Q (Corporate)** sett — one scale-free proportion (`r6n2r6w1l
 [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [B & Q](/tartans/b/b/b-q/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

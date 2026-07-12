@@ -6,6 +6,8 @@ This is the **Brown, George** sett — one scale-free proportion (`y3g24k18r4g22
 [GGKRGRKRW](/stripes/ggkrgrkrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Brown, George](/tartans/b/br/brown-george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

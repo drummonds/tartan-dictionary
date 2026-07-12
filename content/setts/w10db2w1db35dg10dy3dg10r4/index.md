@@ -6,7 +6,7 @@ This is the **Sandelin #2 (Personal)** sett — one scale-free proportion (`w10d
 [RGGGBWBW](/stripes/rgggbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Sandelin](/tartans/sandelin/) tartan — the named design grouping this sett with its kin.
+Part of the [Sandelin](/tartans/s/sa/sandelin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

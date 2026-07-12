@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Scotland"
+  url: "/tartans/s/sp/spirit-of-scotland-2/"
+- name: "Spirit of Scotland"
   url: "/setts/db96dp8db12b3db3b3db3dg20dp8k3dp14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db96dp8db12b3db3b3db3dg20dp8k3dp14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGBKBKBGBBBBBB](/stripes/bbbbbbbgbkbkbgbbbbbb/).
+
+Part of the [Spirit of Scotland](/tartans/s/sp/spirit-of-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

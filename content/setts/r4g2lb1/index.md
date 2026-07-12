@@ -6,6 +6,8 @@ This is the **Wilson's, No 188** sett — one scale-free proportion (`r4g2lb1`),
 [RGW](/stripes/rgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 188](/tartans/w/wi/wilson-s-no-188-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

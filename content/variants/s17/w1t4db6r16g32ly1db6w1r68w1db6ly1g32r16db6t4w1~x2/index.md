@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond"
+  url: "/tartans/d/dr/drummond-8/"
 - name: "Drummond"
   url: "/setts/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
+
+Part of the [Drummond](/tartans/d/dr/drummond-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 

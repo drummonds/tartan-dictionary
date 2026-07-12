@@ -6,7 +6,7 @@ This is the **Inglis Family Tartan** sett — one scale-free proportion (`w4g28d
 [GBRBGW](/stripes/gbrbgw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Inglis](/tartans/inglis/) tartan — the named design grouping this sett with its kin.
+Part of the [Inglis](/tartans/i/in/inglis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

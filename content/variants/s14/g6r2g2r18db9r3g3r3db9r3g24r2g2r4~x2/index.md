@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Urrard"
+  url: "/families/stewart-of-urrard/"
+- name: "Stewart of Urrard"
+  url: "/tartans/s/st/stewart-of-urrard/"
 - name: "Stewart of Urrard Clan Tartan"
   url: "/setts/g6r2g2r18db9r3g3r3db9r3g24r2g2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6r2g2r18db9r3g3r3db9r3g24r2g2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRGRBRGRGR](/stripes/grgrbrgrbrgrgr/).
+
+Part of the [Stewart of Urrard](/tartans/s/st/stewart-of-urrard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

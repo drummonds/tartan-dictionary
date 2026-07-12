@@ -6,7 +6,7 @@ This is the **Contreceour dress** sett — one scale-free proportion (`y10w1g2n2
 [BWRWGRGBWRWBGWG](/stripes/bwrwgrgbwrwbgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Contreceour Dress](/tartans/contreceour-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Contreceour Dress](/tartans/c/co/contreceour-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

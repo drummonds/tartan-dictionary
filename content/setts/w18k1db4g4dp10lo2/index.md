@@ -6,6 +6,8 @@ This is the **Edgar-Feyen** sett — one scale-free proportion (`w18k1db4g4dp10l
 [WKBGBY](/stripes/wkbgby/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Edgar-Feyen](/tartans/e/ed/edgar-feyen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

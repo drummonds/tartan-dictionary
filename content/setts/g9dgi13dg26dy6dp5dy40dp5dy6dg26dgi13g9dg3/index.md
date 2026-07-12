@@ -6,6 +6,8 @@ This is the **de Meuron (Family)** sett — one scale-free proportion (`g9dgi13d
 [GGGGBGBGGGGG](/stripes/ggggbgbggggg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [de Meuron](/tartans/d/de/de-meuron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

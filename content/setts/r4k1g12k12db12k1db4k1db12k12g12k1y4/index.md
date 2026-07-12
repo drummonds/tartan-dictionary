@@ -6,7 +6,7 @@ This is the **MacEwan** sett — one scale-free proportion (`r4k1g12k12db12k1db4
 [GKGKBKBKBKGKR](/stripes/gkgkbkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacEwan](/tartans/macewan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacEwan](/tartans/m/ma/macewan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

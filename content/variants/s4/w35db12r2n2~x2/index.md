@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Triplett, Jack Arnold"
+  url: "/tartans/t/tr/triplett-jack-arnold-2/"
+- name: "Triplett, Jack Arnold"
   url: "/setts/w35db12r2n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w35db12r2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBW](/stripes/brbw/).
+
+Part of the [Triplett, Jack Arnold](/tartans/t/tr/triplett-jack-arnold-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

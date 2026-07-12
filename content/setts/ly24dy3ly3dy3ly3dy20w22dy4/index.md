@@ -6,6 +6,8 @@ This is the **Baillie Dress** sett — one scale-free proportion (`ly24dy3ly3dy3
 [GWGYGYGY](/stripes/gwgygygy/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Baillie Dress](/tartans/b/ba/baillie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New Hampshire"
+  url: "/tartans/n/ne/new-hampshire-2/"
 - name: "New Hampshire District Tartan"
   url: "/setts/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWKBKBRBRBKBKWKGKG](/stripes/gkgkwkbkbrbrbkbkwkgkg/).
+
+Part of the [New Hampshire](/tartans/n/ne/new-hampshire-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 

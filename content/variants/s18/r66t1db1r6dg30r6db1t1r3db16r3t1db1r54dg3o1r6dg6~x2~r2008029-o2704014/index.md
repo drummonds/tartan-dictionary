@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ramada"
-  url: "/tartans/ramada/"
+  url: "/tartans/r/ra/ramada/"
 - name: "Ramada"
   url: "/setts/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/).
 
-Part of the [Ramada](/tartans/ramada/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ramada](/tartans/r/ra/ramada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **College of New Caledonia (Corporate)** sett — one scale-free pro
 [BGGGWR](/stripes/bgggwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [College of New Caledonia](/tartans/c/co/college-of-new-caledonia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

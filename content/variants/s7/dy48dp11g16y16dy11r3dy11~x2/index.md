@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shannon"
+  url: "/tartans/s/sh/shannon/"
 - name: "Shannon (?)"
   url: "/setts/dy48dp11g16y16dy11r3dy11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy48dp11g16y16dy11r3dy11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGRG](/stripes/gbgggrg/).
+
+Part of the [Shannon](/tartans/s/sh/shannon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Hannah (Personal)** sett — one scale-free proportion (`y2k9w3k9d
 [GKWKBW](/stripes/gkwkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Hannah](/tartans/h/ha/hannah/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

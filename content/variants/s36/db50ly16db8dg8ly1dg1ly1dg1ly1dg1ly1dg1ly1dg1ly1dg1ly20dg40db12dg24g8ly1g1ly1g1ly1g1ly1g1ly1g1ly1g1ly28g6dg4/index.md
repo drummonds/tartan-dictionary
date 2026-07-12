@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nova Scotia"
-  url: "/tartans/nova-scotia/"
+  url: "/tartans/n/no/nova-scotia/"
 - name: "Nova Scotia (Commemorative)"
   url: "/setts/db50ly16db8dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly20dg40db12dg24g8ly1g1ly1g1ly1g1ly1g1ly1g1ly1g1ly28g6dg4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db50ly16db8dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly20dg40db12dg24g8ly1g1ly1g1ly1g1ly1g1ly1g1ly1g1ly28g6dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG](/stripes/bybgygygygygygygygbggygygygygygygygg/).
 
-Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nova Scotia](/tartans/n/no/nova-scotia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

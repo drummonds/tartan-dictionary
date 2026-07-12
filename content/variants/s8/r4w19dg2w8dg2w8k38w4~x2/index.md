@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St Piran Dress"
+  url: "/tartans/s/st/st-piran-dress/"
 - name: "St Piran Dress District Tartan"
   url: "/setts/r4w19dg2w8dg2w8k38w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4w19dg2w8dg2w8k38w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGWGWKW](/stripes/rwgwgwkw/).
+
+Part of the [St Piran Dress](/tartans/s/st/st-piran-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

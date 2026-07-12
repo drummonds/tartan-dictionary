@@ -1,0 +1,31 @@
+---
+title: "Tokharian"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BRBRBW](/stripes/brbrbw/) — the page of every tartan sharing this colour sequence.
+
+The **Tokharian** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db1o5db1o5db2w1/">Tokharian</a></td><td><code>DB/4 O20 DB4 O20 DB8 W/4</code></td><td>112</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1o5db1o5db2w1/"><img src="/variants/s6/db1o5db1o5db2w1~x4/sett.png" alt="Tokharian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">112</div><div class="nn-name nn-base"><a href="/variants/s6/db1o5db1o5db2w1~x4/">Tokharian</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db1o5db1o5db2w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb15do15lb15do80r6&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">1.95</a></div><div class="nn-threads">241</div><div class="nn-name"><a href="/variants/s5/lb15do15lb15do80r6/">Coca Cola (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb15do15lb15do80r6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db16o2db16o19r4~x3&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">2.42</a></div><div class="nn-threads nn-far">282</div><div class="nn-name nn-far"><a href="/variants/s5/db16o2db16o19r4~x3/">Unidentified 17</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db16o2db16o19r4~x3/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o11db1o3n1db9r1~x4~db0805267-n1604274&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/">Dege, of Saville Row</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t1o4t1o4t2w1~x4~t2104245-o2106028-w3602083&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">3.13</a></div><div class="nn-threads nn-far2">96</div><div class="nn-name nn-far2"><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/">Hami</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg5r9dg10w2dg2ly2dg10r9dg5~x2&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">3.90</a></div><div class="nn-threads nn-far2">196</div><div class="nn-name nn-far2"><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/">Norwich No.077</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db1r3db1r3db6g1~x4&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">3.91</a></div><div class="nn-threads nn-far2">112</div><div class="nn-name nn-far2"><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db3ly9db3ly9db20r3~x2&amp;base=db1o5db1o5db2w1~x4" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">176</div><div class="nn-name nn-far2"><a href="/variants/s6/db3ly9db3ly9db20r3~x2/">Latin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3ly9db3ly9db20r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.8" cy="200.3" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.6" cy="194.1" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.3" cy="295.6" r="4" fill="#3465a4"><title>Hami</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="276.6" cy="244.8" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.3" cy="251.5" r="4" fill="#3465a4"><title>Robbins Family Tartan</title></circle></a><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.9" cy="239.5" r="4" fill="#3465a4"><title>Latin</title></circle></a><circle cx="370.8" cy="258.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

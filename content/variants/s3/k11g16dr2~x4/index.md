@@ -10,7 +10,7 @@ crumbs:
 - name: "Kincaid of Kincaid"
   url: "/families/kincaid-of-kincaid/"
 - name: "Kincaid of Kincaid"
-  url: "/tartans/kincaid-of-kincaid/"
+  url: "/tartans/k/ki/kincaid-of-kincaid/"
 - name: "Kincaid of Kincaid (Clan)"
   url: "/setts/k11g16dr2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k11g16dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGK](/stripes/bgk/).
 
-Part of the [Kincaid of Kincaid](/tartans/kincaid-of-kincaid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kincaid of Kincaid](/tartans/k/ki/kincaid-of-kincaid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

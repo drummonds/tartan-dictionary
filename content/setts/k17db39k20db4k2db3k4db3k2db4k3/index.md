@@ -6,7 +6,7 @@ This is the **Azabu Tailor** sett — one scale-free proportion (`k17db39k20db4k
 [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Azabu Tailor](/tartans/azabu-tailor/) tartan — the named design grouping this sett with its kin.
+Part of the [Azabu Tailor](/tartans/a/az/azabu-tailor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

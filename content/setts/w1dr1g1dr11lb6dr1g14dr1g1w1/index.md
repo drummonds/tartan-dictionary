@@ -6,7 +6,7 @@ This is the **Glen Tilt #2** sett — one scale-free proportion (`w1dr1g1dr11lb6
 [WBGBWBGBGW](/stripes/wbgbwbgbgw/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
-Part of the [Glen Tilt](/tartans/glen-tilt/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Tilt](/tartans/g/gl/glen-tilt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

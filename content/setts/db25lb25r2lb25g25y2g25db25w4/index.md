@@ -6,7 +6,7 @@ This is the **Royal Columbian** sett — one scale-free proportion (`db25lb25r2l
 [BWRWGGGBW](/stripes/bwrwgggbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Royal Columbian](/tartans/royal-columbian/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Columbian](/tartans/r/ro/royal-columbian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

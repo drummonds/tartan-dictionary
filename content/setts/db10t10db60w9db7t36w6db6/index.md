@@ -6,6 +6,8 @@ This is the **Salem Scottish Dancer's Wee Bluet** sett — one scale-free propor
 [BBBWBBWB](/stripes/bbbwbbwb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Salem Scottish Dancer's Wee Bluet](/tartans/s/sa/salem-scottish-dancer-s-wee-bluet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

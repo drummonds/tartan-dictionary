@@ -6,7 +6,7 @@ This is the **Dunbartonshire** sett — one scale-free proportion (`g11k2g1dr4db
 [BBBBBBGKG](/stripes/bbbbbbgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dunbartonshire](/tartans/dunbartonshire/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbartonshire](/tartans/d/du/dunbartonshire/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

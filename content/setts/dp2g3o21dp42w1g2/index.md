@@ -6,6 +6,8 @@ This is the **SiMBA** sett — one scale-free proportion (`dp2g3o21dp42w1g2`), c
 [BGRBWG](/stripes/bgrbwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [SiMBA](/tartans/s/si/simba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Stuart / Stewart** sett — one scale-free proportion (`k14w
 [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal Stuart / Stewart](/tartans/r/ro/royal-stuart-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sarna** sett — one scale-free proportion (`o13r1o2r2o2r1o2r5o11r
 [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Sarna](/tartans/s/sa/sarna/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

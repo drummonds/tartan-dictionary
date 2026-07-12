@@ -6,6 +6,8 @@ This is the **Lenaghan (Personal)** sett — one scale-free proportion (`db10dg5
 [BGGKGKB](/stripes/bggkgkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lenaghan](/tartans/l/le/lenaghan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

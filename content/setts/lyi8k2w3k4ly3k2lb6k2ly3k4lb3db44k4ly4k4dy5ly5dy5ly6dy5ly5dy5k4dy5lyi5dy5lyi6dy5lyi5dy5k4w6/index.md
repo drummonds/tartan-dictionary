@@ -6,6 +6,8 @@ This is the **Whiskey & Bourbon (Corporate)** sett — one scale-free proportion
 [WKGYGYGYGKGYGYGYGKYKBWKYKWKYKWKY](/stripes/wkgygygygkgygygygkykbwkykwkykwky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Whiskey & Bourbon](/tartans/w/wh/whiskey-bourbon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

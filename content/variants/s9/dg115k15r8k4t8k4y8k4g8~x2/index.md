@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Granvert"
+  url: "/tartans/g/gr/granvert/"
+- name: "Granvert"
   url: "/setts/dg115k15r8k4t8k4y8k4g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg115k15r8k4t8k4y8k4g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKRKG](/stripes/gkgkbkrkg/).
+
+Part of the [Granvert](/tartans/g/gr/granvert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

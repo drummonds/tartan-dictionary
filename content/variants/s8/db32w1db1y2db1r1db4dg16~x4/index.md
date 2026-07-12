@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Agricultural Winter Fair"
+  url: "/tartans/r/ro/royal-agricultural-winter-fair/"
+- name: "Royal Agricultural Winter Fair"
   url: "/setts/db32w1db1y2db1r1db4dg16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db32w1db1y2db1r1db4dg16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBRBG](/stripes/bwbgbrbg/).
+
+Part of the [Royal Agricultural Winter Fair](/tartans/r/ro/royal-agricultural-winter-fair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

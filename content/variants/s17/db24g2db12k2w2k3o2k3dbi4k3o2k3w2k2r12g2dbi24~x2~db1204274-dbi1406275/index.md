@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Selkirk Corporate"
+  url: "/tartans/s/se/selkirk-corporate/"
 - name: "Selkirk Corporate District Tartan"
   url: "/setts/db24g2db12k2w2k3o2k3dbi4k3o2k3w2k2r12g2dbi24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24g2db12k2w2k3o2k3dbi4k3o2k3w2k2r12g2dbi24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKWKRKBKRKWKRGB](/stripes/bgbkwkrkbkrkwkrgb/).
+
+Part of the [Selkirk Corporate](/tartans/s/se/selkirk-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

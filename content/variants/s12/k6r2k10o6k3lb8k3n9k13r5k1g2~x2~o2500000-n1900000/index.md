@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dilanan"
+  url: "/tartans/d/di/dilanan/"
 - name: "Dilanan (Musselburgh) (Personal)"
   url: "/setts/k6r2k10o6k3lb8k3n9k13r5k1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r2k10o6k3lb8k3n9k13r5k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKBKWKRKRK](/stripes/gkrkbkwkrkrk/).
+
+Part of the [Dilanan](/tartans/d/di/dilanan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

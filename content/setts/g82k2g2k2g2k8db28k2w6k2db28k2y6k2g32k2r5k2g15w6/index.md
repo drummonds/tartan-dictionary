@@ -6,6 +6,8 @@ This is the **Ayre Personal Tartan** sett — one scale-free proportion (`g82k2g
 [GKGKGKBKWKBKGKGKRKGWGKRKGKGKBKWKBKGKGK](/stripes/gkgkgkbkwkbkgkgkrkgwgkrkgkgkbkwkbkgkgk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Ayre](/tartans/a/ay/ayre-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

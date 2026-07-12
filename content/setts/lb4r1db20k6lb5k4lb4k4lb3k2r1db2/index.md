@@ -7,6 +7,8 @@ This is the **Scottish Knights Templar St. A (Corp** sett — one scale-free pro
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1978**.
 
+Part of the [Scottish Knights Templar St. A (Corp](/tartans/s/sc/scottish-knights-templar-st-a-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

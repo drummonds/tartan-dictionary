@@ -7,7 +7,7 @@ This is the **Bank of Scotland (1995)** sett — one scale-free proportion (`lo1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1994**.
 
-Part of the [Bank of Scotland](/tartans/bank-of-scotland/) tartan — the named design grouping this sett with its kin.
+Part of the [Bank of Scotland](/tartans/b/ba/bank-of-scotland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

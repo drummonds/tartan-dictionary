@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Silk scarf"
+  url: "/tartans/u/un/unidentified-silk-scarf/"
+- name: "Unidentified Silk scarf"
   url: "/setts/w3ri10dy6y8lb8g32r8ri10r6w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3ri10dy6y8lb8g32r8ri10r6w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGGWGRRRW](/stripes/wrggwgrrrw/).
+
+Part of the [Unidentified Silk scarf](/tartans/u/un/unidentified-silk-scarf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

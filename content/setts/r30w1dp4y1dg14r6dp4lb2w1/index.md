@@ -6,6 +6,8 @@ This is the **Perth - 1819 (District)** sett — one scale-free proportion (`r30
 [RWBGGRBWW](/stripes/rwbggrbww/). It is recorded as a single **variant**, below.
 First attested **1775**.
 
+Part of the [Perth](/tartans/p/pe/perth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

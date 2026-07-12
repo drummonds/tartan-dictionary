@@ -6,6 +6,8 @@ This is the **Elwyn Glen (Scottish Borders)** sett — one scale-free proportion
 [BGGRGRGRGBY](/stripes/bggrgrgrgby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Elwyn Glen](/tartans/e/el/elwyn-glen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **St Ninian's Day** sett — one scale-free proportion (`w4dg1g31y1g
 [WBRBGBGGGGGW](/stripes/wbrbgbgggggw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [St Ninian's Day](/tartans/s/st/st-ninian-s-day/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

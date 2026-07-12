@@ -6,6 +6,8 @@ This is the **Tartan TV** sett — one scale-free proportion (`r19k3r19k32g3k8`)
 [KGKRKR](/stripes/kgkrkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Tartan TV](/tartans/t/ta/tartan-tv/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

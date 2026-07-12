@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gleneil"
-  url: "/tartans/gleneil/"
+  url: "/tartans/g/gl/gleneil/"
 - name: "Gleneil"
   url: "/setts/k2r2k2r24g31k1g2y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2r2k2r24g31k1g2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGRKRK](/stripes/ggkgrkrk/).
 
-Part of the [Gleneil](/tartans/gleneil/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gleneil](/tartans/g/gl/gleneil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

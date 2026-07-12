@@ -6,6 +6,8 @@ This is the **Boy Scouts of Canada (Corporate)** sett — one scale-free proport
 [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Boy Scouts of Canada](/tartans/b/bo/boy-scouts-of-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

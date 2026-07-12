@@ -6,6 +6,8 @@ This is the **John.W.Mackay, Restricted** sett — one scale-free proportion (`k
 [KGGKGBRGR](/stripes/kggkgbrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [John.W.Mackay, Restricted](/tartans/j/jo/john-w-mackay-restricted/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

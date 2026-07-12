@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Glenaladale"
+  url: "/families/macdonald-of-glenaladale/"
+- name: "MacDonald of Glenaladale"
+  url: "/tartans/m/ma/macdonald-of-glenaladale/"
 - name: "MacDonald of Glenaladale Artifact Tartan"
   url: "/setts/db3lb1r30db32r3w1r3g23r31db3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3lb1r30db32r3w1r3g23r31db3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRWRGRBW](/stripes/bwrbrwrgrbw/).
+
+Part of the [MacDonald of Glenaladale](/tartans/m/ma/macdonald-of-glenaladale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

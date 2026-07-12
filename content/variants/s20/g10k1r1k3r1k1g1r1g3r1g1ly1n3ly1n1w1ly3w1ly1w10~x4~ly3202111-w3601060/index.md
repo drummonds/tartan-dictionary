@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spice of Life"
+  url: "/tartans/s/sp/spice-of-life/"
 - name: "Spice of Life (Fashion)"
   url: "/setts/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/).
+
+Part of the [Spice of Life](/tartans/s/sp/spice-of-life/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

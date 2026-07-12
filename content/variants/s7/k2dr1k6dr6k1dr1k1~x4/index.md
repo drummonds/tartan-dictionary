@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Lochlane"
+  url: "/families/campbell-of-lochlane/"
+- name: "Campbell of Lochlane"
+  url: "/tartans/c/ca/campbell-of-lochlane/"
 - name: "Campbell of Lochlane"
   url: "/setts/k2dr1k6dr6k1dr1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2dr1k6dr6k1dr1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBK](/stripes/kbkbkbk/).
+
+Part of the [Campbell of Lochlane](/tartans/c/ca/campbell-of-lochlane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

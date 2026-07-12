@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Schuster , Benedikt"
+  url: "/tartans/s/sc/schuster-benedikt/"
 - name: "Schuster (Bavaria) (Personal), Benedikt"
   url: "/setts/g1w1g39r2w3b13w3dy2r1dy2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1w1g39r2w3b13w3dy2r1dy2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRWBWGRGW](/stripes/gwgrwbwgrgw/).
+
+Part of the [Schuster , Benedikt](/tartans/s/sc/schuster-benedikt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

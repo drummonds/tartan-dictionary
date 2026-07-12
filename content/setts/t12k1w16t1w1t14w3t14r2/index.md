@@ -6,6 +6,8 @@ This is the **Orlando Dress, City of** sett — one scale-free proportion (`t12k
 [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Orlando Dress, City of](/tartans/o/or/orlando-dress-city-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Makhtoum"
+  url: "/tartans/m/ma/makhtoum/"
 - name: "Makhtoum Regimental Tartan"
   url: "/setts/w11r40g13r5g12r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w11r40g13r5g12r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRW](/stripes/rgrgrw/).
+
+Part of the [Makhtoum](/tartans/m/ma/makhtoum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

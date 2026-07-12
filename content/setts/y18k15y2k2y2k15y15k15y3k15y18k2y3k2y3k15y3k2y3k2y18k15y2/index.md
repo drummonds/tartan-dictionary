@@ -6,6 +6,8 @@ This is the **Garwhal Rifles (Military)** sett — one scale-free proportion (`y
 [GKGKGKGKGKGKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkgkgkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Garwhal Rifles](/tartans/g/ga/garwhal-rifles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

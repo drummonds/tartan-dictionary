@@ -6,6 +6,8 @@ This is the **Wilson's No.112 (Light Blue)** sett — one scale-free proportion 
 [GGKGBGBGKG](/stripes/ggkgbgbgkg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.112](/tartans/w/wi/wilson-s-no-112-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

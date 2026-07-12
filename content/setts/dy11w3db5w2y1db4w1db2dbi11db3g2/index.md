@@ -6,6 +6,8 @@ This is the **Scottish Bear (Mathan Albannach)** sett — one scale-free proport
 [GBBBWBGWBWG](/stripes/gbbbwbgwbwg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Scottish Bear](/tartans/s/sc/scottish-bear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

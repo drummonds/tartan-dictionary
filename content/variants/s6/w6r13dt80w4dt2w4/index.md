@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Montrose"
+  url: "/clan/montrose/"
+- name: "Montrose Football Club"
+  url: "/tartans/m/mo/montrose-football-club/"
 - name: "Montrose Football Club"
   url: "/setts/w6r13dt80w4dt2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6r13dt80w4dt2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBRW](/stripes/wbwbrw/).
+
+Part of the [Montrose Football Club](/tartans/m/mo/montrose-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gretna"
-  url: "/tartans/gretna/"
+  url: "/tartans/g/gr/gretna/"
 - name: "Gretna Green Fashion Tartan"
   url: "/setts/db2g2k1g30db20r2db2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2g2k1g30db20r2db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGBRBR](/stripes/bgkgbrbr/).
 
-Part of the [Gretna](/tartans/gretna/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gretna](/tartans/g/gr/gretna/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

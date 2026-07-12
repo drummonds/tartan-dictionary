@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Border Union Cattle Show"
-  url: "/tartans/border-union-cattle-show/"
+  url: "/tartans/b/bo/border-union-cattle-show/"
 - name: "Border Union Cattle Show (Corporate)"
   url: "/setts/dy20k4g14k1o2k1g14k10w22o7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy20k4g14k1o2k1g14k10w22o7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRKGKWR](/stripes/gkgkrkgkwr/).
 
-Part of the [Border Union Cattle Show](/tartans/border-union-cattle-show/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Border Union Cattle Show](/tartans/b/bo/border-union-cattle-show/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

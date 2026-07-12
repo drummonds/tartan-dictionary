@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Love Hunting"
+  url: "/tartans/l/lo/love-hunting/"
 - name: "Love Htg (Personal)"
   url: "/setts/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGBRBGWG](/stripes/brbgbgbrbgwg/).
+
+Part of the [Love Hunting](/tartans/l/lo/love-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Robb Dress (Personal)** sett — one scale-free proportion (`dp2r1
 [BRGBRGRB](/stripes/brgbrgrb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Robb Dress](/tartans/r/ro/robb-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

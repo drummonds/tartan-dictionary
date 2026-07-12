@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Freedom"
+  url: "/tartans/f/fr/freedom/"
 - name: "Gold Brothers"
   url: "/setts/db6g27db3k19dp27w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6g27db3k19dp27w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBW](/stripes/bgbkbw/).
+
+Part of the [Freedom](/tartans/f/fr/freedom/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

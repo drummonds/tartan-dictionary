@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tasmania"
+  url: "/tartans/t/ta/tasmania/"
 - name: "Tasmania (District)"
   url: "/setts/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWBWY](/stripes/brbwbwbwbwy/).
+
+Part of the [Tasmania](/tartans/t/ta/tasmania/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

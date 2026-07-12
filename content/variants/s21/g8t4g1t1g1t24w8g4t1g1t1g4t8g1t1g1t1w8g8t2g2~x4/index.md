@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Matheson Htg Dance"
+  url: "/tartans/m/ma/matheson-htg-dance/"
 - name: "Matheson Hunting (Crowe 1974) (Personal)"
   url: "/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8t4g1t1g1t24w8g4t1g1t1g4t8g1t1g1t1w8g8t2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/).
+
+Part of the [Matheson Htg Dance](/tartans/m/ma/matheson-htg-dance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

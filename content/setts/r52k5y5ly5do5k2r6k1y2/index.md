@@ -7,7 +7,7 @@ This is the **Braemar Castle** sett — one scale-free proportion (`r52k5y5ly5do
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1989**.
 
-Part of the [Braemar Castle](/tartans/braemar-castle/) tartan — the named design grouping this sett with its kin.
+Part of the [Braemar Castle](/tartans/b/br/braemar-castle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

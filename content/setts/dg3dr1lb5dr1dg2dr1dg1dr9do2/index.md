@@ -6,7 +6,7 @@ This is the **Redwood Dress (Fashion)** sett — one scale-free proportion (`dg3
 [BBGBGBWBG](/stripes/bbgbgbwbg/). It is recorded as a single **variant**, below.
 First attested **~1972**.
 
-Part of the [Redwood Dress](/tartans/redwood-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Redwood Dress](/tartans/r/re/redwood-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

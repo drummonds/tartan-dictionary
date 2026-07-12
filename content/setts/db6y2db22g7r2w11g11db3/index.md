@@ -6,7 +6,7 @@ This is the **Bahamas District Tartan** sett — one scale-free proportion (`db6
 [BGBGRWGB](/stripes/bgbgrwgb/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [Bahamas](/tartans/bahamas/) tartan — the named design grouping this sett with its kin.
+Part of the [Bahamas](/tartans/b/ba/bahamas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

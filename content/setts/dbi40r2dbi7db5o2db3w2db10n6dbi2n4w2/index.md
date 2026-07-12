@@ -6,6 +6,8 @@ This is the **Plymouth/Armada 400, Armada** sett — one scale-free proportion (
 [BRBBRBWBBBBW](/stripes/brbbrbwbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Plymouth/Armada 400, Armada](/tartans/p/pl/plymouth-armada-400-armada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

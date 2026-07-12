@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Am Yisrael Chair"
+  url: "/tartans/a/am/am-yisrael-chair/"
 - name: "Am Yisrael Chair (Corporate)"
   url: "/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/).
+
+Part of the [Am Yisrael Chair](/tartans/a/am/am-yisrael-chair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

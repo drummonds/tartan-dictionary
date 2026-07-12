@@ -6,6 +6,8 @@ This is the **Ramsay Hunting Family Tartan** sett — one scale-free proportion 
 [KGKGGGW](/stripes/kgkgggw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Ramsay Hunting](/tartans/r/ra/ramsay-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

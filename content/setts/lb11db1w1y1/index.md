@@ -6,6 +6,8 @@ This is the **Varrie** sett — one scale-free proportion (`lb11db1w1y1`), colou
 [GWBW](/stripes/gwbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Varrie](/tartans/v/va/varrie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

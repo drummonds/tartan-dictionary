@@ -6,6 +6,8 @@ This is the **Yarns to Yearn For** sett — one scale-free proportion (`ri3r23db
 [GBGBRBRBRR](/stripes/gbgbrbrbrr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Yarns to Yearn For](/tartans/y/ya/yarns-to-yearn-for/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

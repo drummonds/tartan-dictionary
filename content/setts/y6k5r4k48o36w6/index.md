@@ -6,6 +6,8 @@ This is the **Drambuie dress** sett — one scale-free proportion (`y6k5r4k48o36
 [GKRKRW](/stripes/gkrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Drambuie dress](/tartans/d/dr/drambuie-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

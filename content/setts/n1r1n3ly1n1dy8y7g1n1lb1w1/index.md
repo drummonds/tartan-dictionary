@@ -6,6 +6,8 @@ This is the **Porcupine** sett — one scale-free proportion (`n1r1n3ly1n1dy8y7g
 [BRBYBGGGBWW](/stripes/brbybgggbww/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
+Part of the [Porcupine](/tartans/p/po/porcupine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

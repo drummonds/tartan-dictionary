@@ -1,0 +1,40 @@
+---
+title: "Glen Shee"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+---
+A tartan of [Clan Glen](/clan/glen/).
+Its design is pattern [BRRWR](/stripes/brrwr/) — the page of every tartan sharing this colour sequence.
+
+The **Glen Shee** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r12w1r2o1n3/">Glen Shee</a></td><td><code>R/48 W4 R8 O4 N/12</code></td><td>92</td><td>~1974</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r12w1r2o1n3/"><img src="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/sett.png" alt="Glen Shee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Glen Shee Plaid
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">92</div><div class="nn-name nn-base"><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/">Glen Shee</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r12w1r2lb1n3~x4&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">0.60</a></div><div class="nn-threads">92</div><div class="nn-name"><a href="/variants/s5/r12w1r2lb1n3~x4/">Glenshee Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r12w1r2lb1n3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6w3n6o10r38w2n4~n1900000-o2500000&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.20</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/">Washington State University Cougar</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r27w3r6w2dg3~x4&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.27</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s5/r27w3r6w2dg3~x4/">Martin, Robert N (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r27w3r6w2dg3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r27w3r6w2dg3~x4~r1506028&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.27</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/">Martin Family, Robert N Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r27w3r6w2dg3~x4~r1506028/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r25dt5ri2r12n1w1~x2~r1506019-ri2607041&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.30</a></div><div class="nn-threads">132</div><div class="nn-name"><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/">Fernie (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6w3n6lb10r38w2n4&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.50</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s7/r6w3n6lb10r38w2n4/">Washington State University Cougar</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6w3n6lb10r38w2n4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r30g12k5w2lb6r30&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.57</a></div><div class="nn-threads">110</div><div class="nn-name"><a href="/variants/s6/r30g12k5w2lb6r30/">Sinclair Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r30g12k5w2lb6r30/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r30g12k5w2lb6r30~x2&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.57</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s6/r30g12k5w2lb6r30~x2/">Sinclair</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r30g12k5w2lb6r30~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r38w9r3do9w3~x2&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.72</a></div><div class="nn-threads">166</div><div class="nn-name"><a href="/variants/s5/r38w9r3do9w3~x2/">Loch Morar Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r38w9r3do9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r48w3k3g2y6g2r6~x4&amp;base=r12w1r2o1n3~x4~o2500000-n1900000" title="compare in the TTD">1.99</a></div><div class="nn-threads">344</div><div class="nn-name"><a href="/variants/s7/r48w3k3g2y6g2r6~x4/">Ferguson the Astronomer</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r48w3k3g2y6g2r6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="512.0" cy="197.3" r="4" fill="#3465a4"><title>Glenshee Trade Tartan</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.7" cy="160.5" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.4" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><circle cx="525.3" cy="136.1" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair Clan Tartan</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="411.2" cy="193.0" r="4" fill="#3465a4"><title>Loch Morar Trade Tartan</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="516.5" cy="196.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

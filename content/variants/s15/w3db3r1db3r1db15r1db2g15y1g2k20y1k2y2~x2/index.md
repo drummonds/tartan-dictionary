@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Joseph Linn"
+  url: "/tartans/j/jo/joseph-linn/"
 - name: "Joseph Linn Family (Monohon 2012) (Personal)"
   url: "/setts/w3db3r1db3r1db15r1db2g15y1g2k20y1k2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db3r1db3r1db15r1db2g15y1g2k20y1k2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGGGBRBRBRBW](/stripes/gkgkgggbrbrbrbw/).
+
+Part of the [Joseph Linn](/tartans/j/jo/joseph-linn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

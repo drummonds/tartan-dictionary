@@ -6,6 +6,8 @@ This is the **McCabe (2016)** sett — one scale-free proportion (`db8y1dg5y12r1
 [BGGGRG](/stripes/bgggrg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [McCabe](/tartans/m/mc/mccabe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

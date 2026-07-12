@@ -6,6 +6,8 @@ This is the **McKerrell of Hillhouse Dress** sett — one scale-free proportion 
 [GWBWBW](/stripes/gwbwbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [McKerrell of Hillhouse Dress](/tartans/m/mc/mckerrell-of-hillhouse-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

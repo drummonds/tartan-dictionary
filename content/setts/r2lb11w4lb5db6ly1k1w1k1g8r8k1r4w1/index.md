@@ -6,6 +6,8 @@ This is the **Albert (Silk)** sett — one scale-free proportion (`r2lb11w4lb5db
 [RWWWBYKWKGRKRW](/stripes/rwwwbykwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Albert](/tartans/a/al/albert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

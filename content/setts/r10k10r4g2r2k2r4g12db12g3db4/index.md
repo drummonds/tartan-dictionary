@@ -6,6 +6,8 @@ This is the **Hueg (Personal)** sett — one scale-free proportion (`r10k10r4g2r
 [BGBGRKRGRKR](/stripes/bgbgrkrgrkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hueg](/tartans/h/hu/hueg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

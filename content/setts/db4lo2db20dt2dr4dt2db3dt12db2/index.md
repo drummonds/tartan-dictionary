@@ -6,6 +6,8 @@ This is the **Stone of Destiny, The (Commemorative** sett — one scale-free pro
 [BBBBBBBYB](/stripes/bbbbbbbyb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Stone of Destiny, The (Commemorative](/tartans/s/st/stone-of-destiny-the-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tanzania"
+  url: "/tartans/t/ta/tanzania/"
+- name: "Tanzania"
   url: "/setts/db4lb1db2lb16y2k8y2g16k1db24k1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb1db2lb16y2k8y2g16k1db24k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGKGGKBKW](/stripes/bwbwgkggkbkw/).
+
+Part of the [Tanzania](/tartans/t/ta/tanzania/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Abercrombie (Wilsons No 2/64)** sett — one scale-free proportion
 [KBKGGGK](/stripes/kbkgggk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Abercrombie](/tartans/a/ab/abercrombie-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

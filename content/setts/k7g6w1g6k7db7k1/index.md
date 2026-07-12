@@ -6,7 +6,7 @@ This is the **MacLaggan Artifact Tartan** sett — one scale-free proportion (`k
 [KBKGWGK](/stripes/kbkgwgk/). It is recorded as a single **variant**, below.
 First attested **~1856**.
 
-Part of the [MacLaggan](/tartans/maclaggan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaggan](/tartans/m/ma/maclaggan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

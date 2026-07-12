@@ -6,6 +6,8 @@ This is the **Hunter Portrait/Artefact Tartan** sett — one scale-free proporti
 [RRGYRRYRYYBGYYYYYGBYYRRGRRYGYGYGYGYGYGYGYGYRRGRRYGYYYGYGYBYBYGYRRY](/stripes/rrgyrryryybgyyyyygbyyrrgrrygygygygygygygygyrrgrrygyyygygybybygyrry/). It is recorded as a single **variant**, below.
 First attested **1775**.
 
+Part of the [Hunter Portrait/Artefact](/tartans/h/hu/hunter-portrait-artefact/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

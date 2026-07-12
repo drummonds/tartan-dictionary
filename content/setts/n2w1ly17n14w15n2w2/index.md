@@ -6,6 +6,8 @@ This is the **North American Sheep Breeders Association** sett — one scale-fre
 [BWYBWBW](/stripes/bwybwbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [NASSA](/tartans/n/na/nassa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

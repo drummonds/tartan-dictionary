@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Llama"
+  url: "/tartans/l/ll/llama/"
 - name: "Llama (Fashion)"
   url: "/setts/dy2w19r2w2dy3w3dy3r6ly25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2w19r2w2dy3w3dy3r6ly25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRWGWGRYW](/stripes/gwrwgwgryw/).
+
+Part of the [Llama](/tartans/l/ll/llama/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

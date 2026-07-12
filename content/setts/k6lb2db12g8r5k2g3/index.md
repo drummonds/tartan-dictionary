@@ -6,7 +6,7 @@ This is the **Cooke (Personal)** sett — one scale-free proportion (`k6lb2db12g
 [GKRGBWK](/stripes/gkrgbwk/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Cooke](/tartans/cooke/) tartan — the named design grouping this sett with its kin.
+Part of the [Cooke](/tartans/c/co/cooke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

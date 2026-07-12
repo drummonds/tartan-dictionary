@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Providence Presbyterian Church"
+  url: "/tartans/n/ne/new-providence-presbyterian-church/"
+- name: "New Providence Presbyterian Church"
   url: "/setts/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBBRBBRGRGRBWBWBW](/stripes/wbwbwbbrbbrgrgrbwbwbw/).
+
+Part of the [New Providence Presbyterian Church](/tartans/n/ne/new-providence-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

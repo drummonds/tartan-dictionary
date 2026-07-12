@@ -6,6 +6,8 @@ This is the **Lyon, Jeffrey M (Personal)** sett — one scale-free proportion (`
 [BKGKRKGKWKBK](/stripes/bkgkrkgkwkbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lyon, Jeffrey M](/tartans/l/ly/lyon-jeffrey-m-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

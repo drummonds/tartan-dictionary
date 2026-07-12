@@ -6,7 +6,7 @@ This is the **Lermontov Family Tartan** sett — one scale-free proportion (`k2d
 [BWBBRGKGK](/stripes/bwbbrgkgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Lermontov](/tartans/lermontov/) tartan — the named design grouping this sett with its kin.
+Part of the [Lermontov](/tartans/l/le/lermontov/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

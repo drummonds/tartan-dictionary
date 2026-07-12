@@ -7,7 +7,7 @@ This is the **MacArthur** sett — one scale-free proportion (`k32g6k12g30y3`), 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
-Part of the [MacArthur](/tartans/macarthur-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacArthur](/tartans/m/ma/macarthur-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longford, County"
+  url: "/tartans/l/lo/longford-county/"
+- name: "Longford, County"
   url: "/setts/db5k3db18dg6k6dg6dy12r5dy12r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5k3db18dg6k6dg6dy12r5dy12r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKGGRGR](/stripes/bkbgkggrgr/).
+
+Part of the [Longford, County](/tartans/l/lo/longford-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

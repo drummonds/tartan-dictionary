@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British Caledonian Airways"
+  url: "/tartans/b/br/british-caledonian-airways/"
 - name: "British Caledonian Airways #4"
   url: "/setts/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r68n5k9y3k3lb3k3dg20r9k3r5lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGRKRW](/stripes/rbkgkwkgrkrw/).
+
+Part of the [British Caledonian Airways](/tartans/b/br/british-caledonian-airways/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

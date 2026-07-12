@@ -6,7 +6,7 @@ This is the **Stirling (Clan)** sett — one scale-free proportion (`lb4k2g20lr2
 [RYBYKYGKW](/stripes/rybykygkw/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
-Part of the [Stirling](/tartans/stirling/) tartan — the named design grouping this sett with its kin.
+Part of the [Stirling](/tartans/s/st/stirling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

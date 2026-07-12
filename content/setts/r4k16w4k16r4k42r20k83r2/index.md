@@ -6,7 +6,7 @@ This is the **Brand Ambassador** sett — one scale-free proportion (`r4k16w4k16
 [RKRKRKWKR](/stripes/rkrkrkwkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Brand Ambassador](/tartans/brand-ambassador/) tartan — the named design grouping this sett with its kin.
+Part of the [Brand Ambassador](/tartans/b/br/brand-ambassador/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

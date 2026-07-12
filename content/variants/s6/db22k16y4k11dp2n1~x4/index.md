@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Martinez, Clément"
+  url: "/tartans/m/ma/martinez-cl-ment/"
 - name: "Martinez, Clément (Personal)"
   url: "/setts/db22k16y4k11dp2n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22k16y4k11dp2n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKB](/stripes/bbkgkb/).
+
+Part of the [Martinez, Clément](/tartans/m/ma/martinez-cl-ment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

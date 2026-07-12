@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Miller Hargreaves"
+  url: "/tartans/m/mi/miller-hargreaves/"
 - name: "Miller Hargreaves (Personal)"
   url: "/setts/n40db4n4dp5g5n3y6r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n40db4n4dp5g5n3y6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBGR](/stripes/bbbbgbgr/).
+
+Part of the [Miller Hargreaves](/tartans/m/mi/miller-hargreaves/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

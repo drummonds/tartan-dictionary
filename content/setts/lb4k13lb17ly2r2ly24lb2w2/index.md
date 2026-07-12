@@ -6,6 +6,8 @@ This is the **Lalage (Personal)** sett — one scale-free proportion (`lb4k13lb1
 [WKWYRYWW](/stripes/wkwyryww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Lalage](/tartans/l/la/lalage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

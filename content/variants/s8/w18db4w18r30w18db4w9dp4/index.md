@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Milne"
   url: "/clan/milne/"
 - name: "Milne, Dress"
-  url: "/tartans/milne-dress-2/"
+  url: "/tartans/m/mi/milne-dress-2/"
 - name: "Milne Dress Family Tartan"
   url: "/setts/w18db4w18r30w18db4w9dp4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w18db4w18r30w18db4w9dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRWBW](/stripes/bwbwrwbw/).
 
-Part of the [Milne, Dress](/tartans/milne-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Milne, Dress](/tartans/m/mi/milne-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

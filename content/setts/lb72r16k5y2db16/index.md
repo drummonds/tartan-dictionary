@@ -6,6 +6,8 @@ This is the **Thomas, Jean Marc (Personal)** sett — one scale-free proportion 
 [BGKRW](/stripes/bgkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Thomas Jean Marc](/tartans/t/th/thomas-jean-marc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

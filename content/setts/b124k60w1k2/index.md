@@ -6,6 +6,8 @@ This is the **Pride of New Zealand, The** sett — one scale-free proportion (`b
 [BKWK](/stripes/bkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Pride of New Zealand, The](/tartans/p/pr/pride-of-new-zealand-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

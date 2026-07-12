@@ -6,6 +6,8 @@ This is the **Bruce - 1819 (New)** sett — one scale-free proportion (`r15dp1r2
 [RBRBRYRBRGRGRBR](/stripes/rbrbryrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **~1819**.
 
+Part of the [Bruce](/tartans/b/br/bruce-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

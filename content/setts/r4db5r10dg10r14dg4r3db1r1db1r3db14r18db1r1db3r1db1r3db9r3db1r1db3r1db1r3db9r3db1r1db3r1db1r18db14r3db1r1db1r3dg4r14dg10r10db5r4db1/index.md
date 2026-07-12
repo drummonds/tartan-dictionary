@@ -6,6 +6,8 @@ This is the **Campbell of Loudoun Plaid** sett — one scale-free proportion (`r
 [BRBRGRGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRGRGRBR](/stripes/brbrgrgrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1747**.
 
+Part of the [Campbell of Loudoun](/tartans/c/ca/campbell-of-loudoun-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

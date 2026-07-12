@@ -7,7 +7,7 @@ This is the **Boyd** sett — one scale-free proportion (`y5g22k2db2k2db2k10r38g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1956**.
 
-Part of the [Boyd](/tartans/boyd/) tartan — the named design grouping this sett with its kin.
+Part of the [Boyd](/tartans/b/bo/boyd/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

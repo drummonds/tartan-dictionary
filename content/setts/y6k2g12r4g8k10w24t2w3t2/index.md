@@ -6,7 +6,7 @@ This is the **Gillies Dress, Green (Dance)** sett — one scale-free proportion 
 [BWBWKGRGKG](/stripes/bwbwkgrgkg/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [Gillies Dress](/tartans/gillies-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Gillies Dress](/tartans/g/gi/gillies-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

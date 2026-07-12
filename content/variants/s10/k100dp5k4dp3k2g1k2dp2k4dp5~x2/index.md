@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Webster, Colin Wesley"
+  url: "/tartans/w/we/webster-colin-wesley/"
 - name: "Webster, Colin Wesley (Personal)"
   url: "/setts/k100dp5k4dp3k2g1k2dp2k4dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k100dp5k4dp3k2g1k2dp2k4dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKBKBK](/stripes/bkbkgkbkbk/).
+
+Part of the [Webster, Colin Wesley](/tartans/w/we/webster-colin-wesley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

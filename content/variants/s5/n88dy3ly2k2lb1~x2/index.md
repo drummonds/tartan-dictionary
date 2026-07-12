@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Eternity"
-  url: "/tartans/eternity/"
+  url: "/tartans/e/et/eternity/"
 - name: "Eternity, Dedicated 2 Weddings"
   url: "/setts/n88dy3ly2k2lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n88dy3ly2k2lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYKW](/stripes/bgykw/).
 
-Part of the [Eternity](/tartans/eternity/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Eternity](/tartans/e/et/eternity/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

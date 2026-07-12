@@ -6,7 +6,7 @@ This is the **Dean/Dundas (Personal)** sett — one scale-free proportion (`r17k
 [RKWKYBKGW](/stripes/rkwkybkgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Dean/Dundas](/tartans/dean-dundas/) tartan — the named design grouping this sett with its kin.
+Part of the [Dean/Dundas](/tartans/d/de/dean-dundas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Harmon"
   url: "/clan/harmon/"
 - name: "Harmon Dress"
-  url: "/tartans/harmon-dress/"
+  url: "/tartans/h/ha/harmon-dress/"
 - name: "Harmon Dress (Personal)"
   url: "/setts/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBKBYBGBYGYGYK](/stripes/ggbgbgbkbybgbygygyk/).
 
-Part of the [Harmon Dress](/tartans/harmon-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harmon Dress](/tartans/h/ha/harmon-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

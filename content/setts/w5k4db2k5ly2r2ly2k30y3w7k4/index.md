@@ -6,6 +6,8 @@ This is the **Braddock Family (Northumberland) (Personal)** sett — one scale-f
 [KWGKYRYKBKW](/stripes/kwgkyrykbkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Braddock](/tartans/b/br/braddock-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

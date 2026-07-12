@@ -6,7 +6,7 @@ This is the **Oliver Hunting Family Tartan** sett — one scale-free proportion 
 [BGBGKGGGK](/stripes/bgbgkgggk/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
-Part of the [Oliver Hunting](/tartans/oliver-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Oliver Hunting](/tartans/o/ol/oliver-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Carolina, States of (District)** sett — one scale-free proportio
 [RGKYKYKRGRKRY](/stripes/rgkykykrgrkry/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Carolina, States of](/tartans/c/ca/carolina-states-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

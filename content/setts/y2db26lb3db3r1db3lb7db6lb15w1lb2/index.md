@@ -6,6 +6,8 @@ This is the **Vilaro-Thomas (Personal)** sett — one scale-free proportion (`y2
 [GBWBRBWBWWW](/stripes/gbwbrbwbwww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Vilaro-Thomas](/tartans/v/vi/vilaro-thomas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

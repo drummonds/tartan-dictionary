@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Semple"
-  url: "/tartans/semple/"
+  url: "/tartans/s/se/semple/"
 - name: "Semple Family Tartan"
   url: "/setts/r4db11k3db3k3db4k15g36w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4db11k3db3k3db4k15g36w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKGW](/stripes/rbkbkbkgw/).
 
-Part of the [Semple](/tartans/semple/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Semple](/tartans/s/se/semple/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

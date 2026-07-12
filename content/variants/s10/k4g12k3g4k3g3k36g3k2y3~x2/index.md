@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Reagan"
+  url: "/tartans/r/re/reagan-2/"
 - name: "Reagan (Personal)"
   url: "/setts/k4g12k3g4k3g3k36g3k2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4g12k3g4k3g3k36g3k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGK](/stripes/gkgkgkgkgk/).
+
+Part of the [Reagan](/tartans/r/re/reagan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

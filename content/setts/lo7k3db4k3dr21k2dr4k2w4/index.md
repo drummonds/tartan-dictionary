@@ -6,6 +6,8 @@ This is the **Castle Stewart (District)** sett — one scale-free proportion (`l
 [WKBKBKBKY](/stripes/wkbkbkbky/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Castle Stewart](/tartans/c/ca/castle-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

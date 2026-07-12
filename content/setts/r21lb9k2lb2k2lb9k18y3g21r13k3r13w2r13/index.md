@@ -6,6 +6,8 @@ This is the **Caledonia No 155 District Tartan** sett — one scale-free proport
 [RWKWKWKGGRKRWR](/stripes/rwkwkwkggrkrwr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Caledonia No 155](/tartans/c/ca/caledonia-no-155/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

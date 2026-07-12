@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dark Island"
+  url: "/tartans/d/da/dark-island/"
 - name: "Dark Island Black (Fashion)"
   url: "/setts/dt4k2dt2k4dt20k43dt2k4dt2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt4k2dt2k4dt20k43dt2k4dt2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
+
+Part of the [Dark Island](/tartans/d/da/dark-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

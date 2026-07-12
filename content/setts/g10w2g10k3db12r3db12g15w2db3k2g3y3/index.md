@@ -6,6 +6,8 @@ This is the **Greylock Corporate Tartan** sett — one scale-free proportion (`g
 [GGKBWGBRBKGWG](/stripes/ggkbwgbrbkgwg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Greylock](/tartans/g/gr/greylock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

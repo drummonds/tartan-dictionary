@@ -6,7 +6,7 @@ This is the **Chieftain's** sett — one scale-free proportion (`dg8db8ly1r1k1dg
 [BGKRYBGKRYBG](/stripes/bgkrybgkrybg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Chieftain's](/tartans/chieftain-s/) tartan — the named design grouping this sett with its kin.
+Part of the [Chieftain's](/tartans/c/ch/chieftain-s/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacCaskill (Personal)** sett — one scale-free proportion (`k2r1d
 [KGBKGRK](/stripes/kgbkgrk/). It is recorded as a single **variant**, below.
 First attested **1951**.
 
-Part of the [MacCaskill](/tartans/maccaskill/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCaskill](/tartans/m/ma/maccaskill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

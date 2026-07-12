@@ -6,6 +6,8 @@ This is the **Royal College of General Practitioners** sett — one scale-free p
 [RBBBGBKY](/stripes/rbbbgbky/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Royal College of General Practitioners](/tartans/r/ro/royal-college-of-general-practitioners/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

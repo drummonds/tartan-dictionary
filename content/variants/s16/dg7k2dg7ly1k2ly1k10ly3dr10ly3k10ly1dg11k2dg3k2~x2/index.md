@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blackburn Appalachian Hunting"
-  url: "/tartans/blackburn-appalachian-hunting/"
+  url: "/tartans/b/bl/blackburn-appalachian-hunting/"
 - name: "Blackburn Appalachian Htg (Personal)"
   url: "/setts/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGYKYKYBYKYGKGK](/stripes/gkgykykybykygkgk/).
 
-Part of the [Blackburn Appalachian Hunting](/tartans/blackburn-appalachian-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blackburn Appalachian Hunting](/tartans/b/bl/blackburn-appalachian-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

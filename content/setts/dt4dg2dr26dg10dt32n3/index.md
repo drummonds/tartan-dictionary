@@ -6,6 +6,8 @@ This is the **Dempster Family Tartan** sett — one scale-free proportion (`dt4d
 [BBGBGB](/stripes/bbgbgb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Dempster](/tartans/d/de/dempster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

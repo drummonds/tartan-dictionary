@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Congo, The Democratic Republic of the"
+  url: "/tartans/c/co/congo-the-democratic-republic-of-the/"
+- name: "Congo, The Democratic Republic of the"
   url: "/setts/y4lb1y2lb20y2r8y2lb20db16k1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4lb1y2lb20y2r8y2lb20db16k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGRGWBKW](/stripes/gwgwgrgwbkw/).
+
+Part of the [Congo, The Democratic Republic of the](/tartans/c/co/congo-the-democratic-republic-of-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

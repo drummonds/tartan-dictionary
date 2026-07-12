@@ -6,6 +6,8 @@ This is the **Strathgaela** sett — one scale-free proportion (`dg3db3dg11n8r8d
 [BGBGBRBGRRRRRRRGBRBGBG](/stripes/bgbgbrbgrrrrrrrgbrbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Strathgaela](/tartans/s/st/strathgaela-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

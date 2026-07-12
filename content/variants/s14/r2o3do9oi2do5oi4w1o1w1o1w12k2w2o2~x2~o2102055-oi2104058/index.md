@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harrods"
+  url: "/tartans/h/ha/harrods-2/"
+- name: "Harrods"
   url: "/setts/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBRBRWRWRWKWR](/stripes/rrbrbrwrwrwkwr/).
+
+Part of the [Harrods](/tartans/h/ha/harrods-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

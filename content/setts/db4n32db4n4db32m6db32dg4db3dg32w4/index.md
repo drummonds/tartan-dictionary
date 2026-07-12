@@ -6,7 +6,7 @@ This is the **American Society of Travel Agents, The (2001)** sett — one scale
 [BBBBBRBGBGW](/stripes/bbbbbrbgbgw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [American Society of Travel Agents, The](/tartans/american-society-of-travel-agents-the/) tartan — the named design grouping this sett with its kin.
+Part of the [American Society of Travel Agents, The](/tartans/a/am/american-society-of-travel-agents-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

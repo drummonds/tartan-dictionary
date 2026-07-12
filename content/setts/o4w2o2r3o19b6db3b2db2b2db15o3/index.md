@@ -6,6 +6,8 @@ This is the **Scotch, House Cailean** sett — one scale-free proportion (`o4w2o
 [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scotch, House Cailean](/tartans/s/sc/scotch-house-cailean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

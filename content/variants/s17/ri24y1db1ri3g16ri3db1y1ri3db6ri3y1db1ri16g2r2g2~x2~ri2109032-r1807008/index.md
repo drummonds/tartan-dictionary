@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Munro"
   url: "/clan/munro/"
 - name: "Munro"
-  url: "/tartans/munro/"
+  url: "/tartans/m/mu/munro/"
 - name: "Munro"
   url: "/setts/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/).
 
-Part of the [Munro](/tartans/munro/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Munro](/tartans/m/mu/munro/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

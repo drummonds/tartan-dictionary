@@ -6,7 +6,7 @@ This is the **MacDiarmid** sett — one scale-free proportion (`k12r2k28dg12k1w3
 [KRKGKWKGR](/stripes/krkgkwkgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacDiarmid](/tartans/macdiarmid-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDiarmid](/tartans/m/ma/macdiarmid-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

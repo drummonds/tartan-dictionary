@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canadian Centennial"
-  url: "/tartans/canadian-centennial/"
+  url: "/tartans/c/ca/canadian-centennial/"
 - name: "Canadian Centennial (Commemorative)"
   url: "/setts/r3w6r2dg32db36k2db4lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3w6r2dg32db36k2db4lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGBKBY](/stripes/rwrgbkby/).
 
-Part of the [Canadian Centennial](/tartans/canadian-centennial/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Canadian Centennial](/tartans/c/ca/canadian-centennial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Curd"
+  url: "/tartans/c/cu/curd/"
 - name: "Curd (2013)"
   url: "/setts/db1lb9w3y3db9y1g1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1lb9w3y3db9y1g1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGBGGR](/stripes/bwwgbggr/).
+
+Part of the [Curd](/tartans/c/cu/curd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

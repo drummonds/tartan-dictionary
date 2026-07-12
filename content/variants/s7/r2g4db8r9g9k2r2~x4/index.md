@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/tartans/s/st/stewart-6/"
 - name: "Stewart, Plaid"
   url: "/setts/r2g4db8r9g9k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g4db8r9g9k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBRGKR](/stripes/rgbrgkr/).
+
+Part of the [Stewart](/tartans/s/st/stewart-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

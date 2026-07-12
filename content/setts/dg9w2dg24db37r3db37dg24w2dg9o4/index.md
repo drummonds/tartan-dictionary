@@ -6,6 +6,8 @@ This is the **Hardie** sett — one scale-free proportion (`dg9w2dg24db37r3db37d
 [GWGBRBGWGR](/stripes/gwgbrbgwgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hardie](/tartans/h/ha/hardie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wyckoff"
+  url: "/tartans/w/wy/wyckoff/"
 - name: "Wyckoff (Commemorative)"
   url: "/setts/lb70t5lb3ri5lb3w5t3r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb70t5lb3ri5lb3w5t3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWWRWBW](/stripes/rbwwrwbw/).
+
+Part of the [Wyckoff](/tartans/w/wy/wyckoff/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

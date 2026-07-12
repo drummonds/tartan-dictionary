@@ -6,6 +6,8 @@ This is the **Unnamed C18th - S.Uist** sett — one scale-free proportion (`dr3d
 [BBBGBBBGYBGBBBGBGW](/stripes/bbbgbbbgybgbbbgbgw/). It is recorded as a single **variant**, below.
 First attested **1730**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

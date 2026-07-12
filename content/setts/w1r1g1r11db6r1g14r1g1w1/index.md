@@ -6,7 +6,7 @@ This is the **Glen Tilt District Tartan** sett — one scale-free proportion (`w
 [WGRGRBRGRW](/stripes/wgrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **~1923**.
 
-Part of the [Glen Tilt](/tartans/glen-tilt/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Tilt](/tartans/g/gl/glen-tilt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

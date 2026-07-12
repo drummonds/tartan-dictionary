@@ -7,7 +7,7 @@ This is the **Tune Hotels** sett — one scale-free proportion (`ri3r18dr6ri15r4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2012**.
 
-Part of the [Tune Hotels](/tartans/tune-hotels/) tartan — the named design grouping this sett with its kin.
+Part of the [Tune Hotels](/tartans/t/tu/tune-hotels/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Basque (Corporate)** sett — one scale-free proportion (`r44g6k3g
 [RGKGW](/stripes/rgkgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Basque](/tartans/b/ba/basque/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

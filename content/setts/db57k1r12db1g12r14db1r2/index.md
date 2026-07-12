@@ -6,6 +6,8 @@ This is the **McBrayer Blue (Personal)** sett — one scale-free proportion (`db
 [BKRBGRBR](/stripes/bkrbgrbr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [McBrayer](/tartans/m/mc/mcbrayer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

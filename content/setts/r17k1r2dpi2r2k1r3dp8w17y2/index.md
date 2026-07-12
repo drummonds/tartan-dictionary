@@ -6,6 +6,8 @@ This is the **Kyle, Pink (Dance)** sett — one scale-free proportion (`r17k1r2d
 [GWBRKRBRKR](/stripes/gwbrkrbrkr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Kyle Pink](/tartans/k/ky/kyle-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

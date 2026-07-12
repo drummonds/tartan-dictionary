@@ -6,7 +6,7 @@ This is the **Princess Margaret Rose (Royal)** sett — one scale-free proportio
 [GRGRKW](/stripes/grgrkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Princess Margaret Rose](/tartans/princess-margaret-rose/) tartan — the named design grouping this sett with its kin.
+Part of the [Princess Margaret Rose](/tartans/p/pr/princess-margaret-rose/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

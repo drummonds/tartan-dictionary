@@ -6,7 +6,7 @@ This is the **Martinez (2014)** sett — one scale-free proportion (`db6k20r3t2k
 [BKRBKYKYRYB](/stripes/bkrbkykyryb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Martinez](/tartans/martinez/) tartan — the named design grouping this sett with its kin.
+Part of the [Martinez](/tartans/m/ma/martinez/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

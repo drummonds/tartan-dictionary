@@ -6,6 +6,8 @@ This is the **Abaco Loyalist** sett — one scale-free proportion (`db60r2db2r6d
 [BBRBRBRBRBRBRB](/stripes/bbrbrbrbrbrbrb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Abaco Loyalist](/tartans/a/ab/abaco-loyalist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

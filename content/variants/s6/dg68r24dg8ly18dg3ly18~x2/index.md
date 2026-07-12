@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacMillan/Isetan"
-  url: "/tartans/macmillan-isetan/"
+  url: "/tartans/m/ma/macmillan-isetan/"
 - name: "MacMillan/Isetan (Corporate)"
   url: "/setts/dg68r24dg8ly18dg3ly18/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg68r24dg8ly18dg3ly18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGYGY](/stripes/grgygy/).
 
-Part of the [MacMillan/Isetan](/tartans/macmillan-isetan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacMillan/Isetan](/tartans/m/ma/macmillan-isetan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

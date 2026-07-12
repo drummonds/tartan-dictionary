@@ -6,6 +6,8 @@ This is the **Marchioness of Huntly's** sett — one scale-free proportion (`g32
 [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Marchioness of Huntly's](/tartans/m/ma/marchioness-of-huntly-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

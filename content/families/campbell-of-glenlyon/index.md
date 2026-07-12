@@ -19,5 +19,5 @@ A family of [Clan Campbell](/clan/campbell/).
 </tbody>
 </table>
 
-[See the Campbell of Glenlyon tartan and all its setts →](/tartans/campbell-of-glenlyon/)
+[See the Campbell of Glenlyon tartan and all its setts →](/tartans/c/ca/campbell-of-glenlyon/)
 

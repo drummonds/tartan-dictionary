@@ -6,6 +6,8 @@ This is the **Highlander** sett — one scale-free proportion (`g33t4g4t4g18dg13
 [BGBGBGGBGBG](/stripes/bgbgbggbgbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Highlander](/tartans/h/hi/highlander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

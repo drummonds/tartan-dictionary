@@ -6,6 +6,8 @@ This is the **Prince of Denmark** sett — one scale-free proportion (`r51dy2r2d
 [RGRGRWBWBW](/stripes/rgrgrwbwbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Prince of Denmark](/tartans/p/pr/prince-of-denmark-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

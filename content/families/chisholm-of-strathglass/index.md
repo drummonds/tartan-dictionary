@@ -18,5 +18,5 @@ A family of [Clan Chisholm](/clan/chisholm/).
 </tbody>
 </table>
 
-[See the Chisholm of Strathglass tartan and all its setts →](/tartans/chisholm-of-strathglass/)
+[See the Chisholm of Strathglass tartan and all its setts →](/tartans/c/ch/chisholm-of-strathglass/)
 

@@ -6,7 +6,7 @@ This is the **Stewart Victoria (Royal)** sett — one scale-free proportion (`dr
 [BWBWKYKWKGBKBW](/stripes/bwbwkykwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **1881**.
 
-Part of the [Stewart Victoria](/tartans/stewart-victoria-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart Victoria](/tartans/s/st/stewart-victoria-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

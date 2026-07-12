@@ -10,7 +10,7 @@ crumbs:
 - name: "Burnett of Leys"
   url: "/families/burnett-of-leys/"
 - name: "Burnett of Leys"
-  url: "/tartans/burnett-of-leys/"
+  url: "/tartans/b/bu/burnett-of-leys/"
 - name: "Burnett of Leys"
   url: "/setts/r92db10r8w3r8g4r8lo3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r92db10r8w3r8g4r8lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRWRGRY](/stripes/rbrwrgry/).
 
-Part of the [Burnett of Leys](/tartans/burnett-of-leys/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Burnett of Leys](/tartans/b/bu/burnett-of-leys/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

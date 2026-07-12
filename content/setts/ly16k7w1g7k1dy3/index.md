@@ -6,6 +6,8 @@ This is the **Hamilton of Brandon** sett — one scale-free proportion (`ly16k7w
 [GKGWKYKWGK](/stripes/gkgwkykwgk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Hamilton of Brandon](/tartans/h/ha/hamilton-of-brandon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

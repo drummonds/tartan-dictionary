@@ -6,6 +6,8 @@ This is the **Racing Stewart, Stealth (Corporate)** sett — one scale-free prop
 [BBGKBKBKBK](/stripes/bbgkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Racing Stewart, Stealth](/tartans/r/ra/racing-stewart-stealth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

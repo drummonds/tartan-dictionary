@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Lochcarron"
   url: "/clan/lochcarron/"
 - name: "Lochcarron Camel"
-  url: "/tartans/lochcarron-camel/"
+  url: "/tartans/l/lo/lochcarron-camel/"
 - name: "Lochcarron, Camel (Fashion)"
   url: "/setts/ly12w1k2ly1k1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly12w1k2ly1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKWY](/stripes/kykwy/).
 
-Part of the [Lochcarron Camel](/tartans/lochcarron-camel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lochcarron Camel](/tartans/l/lo/lochcarron-camel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

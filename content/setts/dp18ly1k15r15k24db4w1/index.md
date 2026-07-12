@@ -6,6 +6,8 @@ This is the **European Congress of Immunology (Cor** sett — one scale-free pro
 [BYKRKBW](/stripes/bykrkbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [European Congress of Immunology (Cor](/tartans/e/eu/european-congress-of-immunology-cor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

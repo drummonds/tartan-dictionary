@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Castlefield"
+  url: "/tartans/b/bl/blue-castlefield-2/"
 - name: "Blue Castlefield (Fashion)"
   url: "/setts/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKGKYKGKGKKW](/stripes/kkgkykgkgkkw/).
+
+Part of the [Blue Castlefield](/tartans/b/bl/blue-castlefield-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

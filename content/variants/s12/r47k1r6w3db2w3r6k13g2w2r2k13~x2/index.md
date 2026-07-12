@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Trevison"
+  url: "/tartans/t/tr/trevison/"
+- name: "Trevison"
   url: "/setts/r47k1r6w3db2w3r6k13g2w2r2k13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r47k1r6w3db2w3r6k13g2w2r2k13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWGKRWBWRKR](/stripes/krwgkrwbwrkr/).
+
+Part of the [Trevison](/tartans/t/tr/trevison/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

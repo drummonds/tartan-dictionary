@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the West of Wells tartan and all its setts →](/tartans/west-of-wells/)
+[See the West of Wells tartan and all its setts →](/tartans/w/we/west-of-wells/)
 

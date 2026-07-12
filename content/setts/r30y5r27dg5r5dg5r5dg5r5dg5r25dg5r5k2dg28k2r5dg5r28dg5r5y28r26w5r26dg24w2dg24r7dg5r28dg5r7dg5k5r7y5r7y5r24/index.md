@@ -6,6 +6,8 @@ This is the **Donald of Staffa's Sett** sett — one scale-free proportion (`r30
 [RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR](/stripes/rgrgrgrgrgrgrkgkrgrgrgrwrgwgrgrgrgkrgrgr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Donald of Staffa's Sett](/tartans/d/do/donald-of-staffa-s-sett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

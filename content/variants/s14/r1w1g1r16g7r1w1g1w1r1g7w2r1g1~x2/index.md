@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mordente"
-  url: "/tartans/mordente/"
+  url: "/tartans/m/mo/mordente/"
 - name: "Mordente Family Tartan"
   url: "/setts/r1w1g1r16g7r1w1g1w1r1g7w2r1g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1w1g1r16g7r1w1g1w1r1g7w2r1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/).
 
-Part of the [Mordente](/tartans/mordente/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mordente](/tartans/m/mo/mordente/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

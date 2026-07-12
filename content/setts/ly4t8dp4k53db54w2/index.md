@@ -6,6 +6,8 @@ This is the **Pipers' Trail (Corporate)** sett — one scale-free proportion (`l
 [WBKBBY](/stripes/wbkbby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Pipers' Trail](/tartans/p/pi/pipers-trail/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

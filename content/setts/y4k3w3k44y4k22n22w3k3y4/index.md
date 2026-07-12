@@ -6,6 +6,8 @@ This is the **Ashers of Nairn** sett — one scale-free proportion (`y4k3w3k44y4
 [GKWBKGKWKG](/stripes/gkwbkgkwkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ashers of Nairn](/tartans/a/as/ashers-of-nairn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

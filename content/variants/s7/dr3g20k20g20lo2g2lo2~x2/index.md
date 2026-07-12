@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Paton"
-  url: "/tartans/paton/"
+  url: "/tartans/p/pa/paton/"
 - name: "Paton (Personal)"
   url: "/setts/dr3g20k20g20lo2g2lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr3g20k20g20lo2g2lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGYGY](/stripes/bgkgygy/).
 
-Part of the [Paton](/tartans/paton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Paton](/tartans/p/pa/paton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

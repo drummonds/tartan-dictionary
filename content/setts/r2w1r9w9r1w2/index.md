@@ -6,6 +6,8 @@ This is the **Erskine Red & White (Dance)** sett — one scale-free proportion (
 [RWRWRW](/stripes/rwrwrw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Erskine Red &](/tartans/e/er/erskine-red/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

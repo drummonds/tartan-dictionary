@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Braemar House"
+  url: "/tartans/b/br/braemar-house/"
 - name: "Braemar House Corporate Tartan"
   url: "/setts/dg3dy2gi12g12w1dg1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3dy2gi12g12w1dg1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWGG](/stripes/ggggwgg/).
+
+Part of the [Braemar House](/tartans/b/br/braemar-house/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

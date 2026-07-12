@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barton-Watson de Bavidge"
+  url: "/tartans/b/ba/barton-watson-de-bavidge/"
 - name: "Barton-Watson de Bavidge (Personal)"
   url: "/setts/dp3k16r3dg17ki16k26dy1dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3k16r3dg17ki16k26dy1dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKKGRKB](/stripes/bgkkgrkb/).
+
+Part of the [Barton-Watson de Bavidge](/tartans/b/ba/barton-watson-de-bavidge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

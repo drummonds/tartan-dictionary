@@ -6,6 +6,8 @@ This is the **Rhys (Welsh Name)** sett — one scale-free proportion (`lyi6ly3ly
 [WBYBYBYYYY](/stripes/wbybybyyyy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Rhys](/tartans/r/rh/rhys/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

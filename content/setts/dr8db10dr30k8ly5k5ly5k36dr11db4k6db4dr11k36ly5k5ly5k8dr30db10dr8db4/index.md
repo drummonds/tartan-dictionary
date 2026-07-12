@@ -6,6 +6,8 @@ This is the **Johnnie Walker (2003)** sett — one scale-free proportion (`dr8db
 [BBBBKYKYKBBKBBKYKYKBBB](/stripes/bbbbkykykbbkbbkykykbbb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Johnnie Walker](/tartans/j/jo/johnnie-walker-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

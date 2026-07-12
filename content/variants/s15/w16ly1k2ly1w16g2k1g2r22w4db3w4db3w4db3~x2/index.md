@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Salaberry-de-Valleyfield Cer."
+  url: "/tartans/s/sa/salaberry-de-valleyfield-cer/"
 - name: "Salaberry-de-Valleyfield Cer. (Dis )"
   url: "/setts/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWRGKGWYKYW](/stripes/bwbwbwrgkgwykyw/).
+
+Part of the [Salaberry-de-Valleyfield Cer.](/tartans/s/sa/salaberry-de-valleyfield-cer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce Special 1985 XXX"
+  url: "/tartans/b/br/bruce-special-1985-xxx/"
 - name: "Bruce Special 1985 XXX"
   url: "/setts/t1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BW](/stripes/bw/).
+
+Part of the [Bruce Special 1985 XXX](/tartans/b/br/bruce-special-1985-xxx/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 

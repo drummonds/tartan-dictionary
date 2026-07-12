@@ -6,6 +6,8 @@ This is the **Scottish Canals (Corporate)** sett — one scale-free proportion (
 [GBBBGBG](/stripes/gbbbgbg/). It is recorded as a single **variant**, below.
 First attested **~2001**.
 
+Part of the [Scottish Canals](/tartans/s/sc/scottish-canals/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

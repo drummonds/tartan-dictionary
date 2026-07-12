@@ -6,6 +6,8 @@ This is the **Bradwell, Amy (Personal) XXXXXXXXXX** sett — one scale-free prop
 [RBBWBWBWBWBWBWWY](/stripes/rbbwbwbwbwbwbwwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Bradwell, Amy XXXXXXXXXX](/tartans/b/br/bradwell-amy-xxxxxxxxxx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

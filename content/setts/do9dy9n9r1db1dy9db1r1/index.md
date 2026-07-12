@@ -6,7 +6,7 @@ This is the **Jardine of Castlemilk Family Tartan** sett — one scale-free prop
 [BGBRBGBR](/stripes/bgbrbgbr/). It is recorded as a single **variant**, below.
 First attested **~1978**.
 
-Part of the [Jardine of Castlemilk](/tartans/jardine-of-castlemilk/) tartan — the named design grouping this sett with its kin.
+Part of the [Jardine of Castlemilk](/tartans/j/ja/jardine-of-castlemilk/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

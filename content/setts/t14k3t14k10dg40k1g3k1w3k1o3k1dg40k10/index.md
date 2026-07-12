@@ -7,6 +7,8 @@ This is the **Irish Diaspora** sett — one scale-free proportion (`t14k3t14k10d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Irish Diaspora](/tartans/i/ir/irish-diaspora/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

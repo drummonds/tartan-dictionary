@@ -6,6 +6,8 @@ This is the **Tupper, Sir Charles** sett — one scale-free proportion (`k4dy6ly
 [KGYGBRKRBR](/stripes/kgygbrkrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tupper, Sir Charles](/tartans/t/tu/tupper-sir-charles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

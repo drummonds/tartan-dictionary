@@ -6,7 +6,7 @@ This is the **Dollar Academy (1999) (Corporate)** sett — one scale-free propor
 [KBGKBKBW](/stripes/kbgkbkbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Dollar Academy](/tartans/dollar-academy/) tartan — the named design grouping this sett with its kin.
+Part of the [Dollar Academy](/tartans/d/do/dollar-academy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

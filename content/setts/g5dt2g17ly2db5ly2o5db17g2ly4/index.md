@@ -6,6 +6,8 @@ This is the **Antrim Irish County Tartan** sett — one scale-free proportion (`
 [GBGYBYRBGY](/stripes/gbgybyrbgy/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Antrim Irish County](/tartans/a/an/antrim-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

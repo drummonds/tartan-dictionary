@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Pharmaceutical Society"
-  url: "/tartans/royal-pharmaceutical-society/"
+  url: "/tartans/r/ro/royal-pharmaceutical-society/"
 - name: "Royal Pharmaceutical Society (Corp)"
   url: "/setts/dy2n2dg19n6dg2n6lo14dr4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy2n2dg19n6dg2n6lo14dr4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBYBW](/stripes/gbgbgbybw/).
 
-Part of the [Royal Pharmaceutical Society](/tartans/royal-pharmaceutical-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Pharmaceutical Society](/tartans/r/ro/royal-pharmaceutical-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

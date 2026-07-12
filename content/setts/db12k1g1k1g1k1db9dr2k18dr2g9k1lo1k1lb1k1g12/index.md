@@ -6,6 +6,8 @@ This is the **Nicolson Green Hunting** sett — one scale-free proportion (`db12
 [BKGKGKBBKBGKYKWKG](/stripes/bkgkgkbbkbgkykwkg/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Nicolson](/tartans/n/ni/nicolson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

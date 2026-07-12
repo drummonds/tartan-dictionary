@@ -6,6 +6,8 @@ This is the **Humphries (Name)** sett — one scale-free proportion (`g18r1w2k1w
 [GRWKWRRK](/stripes/grwkwrrk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Humphries](/tartans/h/hu/humphries-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

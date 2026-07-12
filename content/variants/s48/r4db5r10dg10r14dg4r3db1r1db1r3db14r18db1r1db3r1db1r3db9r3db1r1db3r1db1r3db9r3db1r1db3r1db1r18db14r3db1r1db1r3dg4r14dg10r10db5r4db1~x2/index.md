@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Loudoun"
+  url: "/families/campbell-of-loudoun/"
+- name: "Campbell of Loudoun"
+  url: "/tartans/c/ca/campbell-of-loudoun-3/"
 - name: "Campbell of Loudoun Plaid"
   url: "/setts/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRGRGRBR](/stripes/brbrgrgrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrgrgrbr/).
+
+Part of the [Campbell of Loudoun](/tartans/c/ca/campbell-of-loudoun-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
 

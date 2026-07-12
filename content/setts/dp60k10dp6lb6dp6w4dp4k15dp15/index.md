@@ -6,6 +6,8 @@ This is the **Kansas State University** sett — one scale-free proportion (`dp6
 [BKBWBWBKB](/stripes/bkbwbwbkb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Kansas State University](/tartans/k/ka/kansas-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

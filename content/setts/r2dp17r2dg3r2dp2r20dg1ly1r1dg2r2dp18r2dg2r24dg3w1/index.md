@@ -7,7 +7,7 @@ This is the **Plowman (Personal)** sett — one scale-free proportion (`r2dp17r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1730**.
 
-Part of the [Plowman](/tartans/plowman/) tartan — the named design grouping this sett with its kin.
+Part of the [Plowman](/tartans/p/pl/plowman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

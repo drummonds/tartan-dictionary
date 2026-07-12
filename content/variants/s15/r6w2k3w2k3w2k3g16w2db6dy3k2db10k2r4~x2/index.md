@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Webb"
+  url: "/tartans/w/we/webb/"
 - name: "Webb (Personal)"
   url: "/setts/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGBWGKWKWKWRWKWKWKGWBGKBKR](/stripes/kbkgbwgkwkwkwrwkwkwkgwbgkbkr/).
+
+Part of the [Webb](/tartans/w/we/webb/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

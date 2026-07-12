@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray, Mungo"
+  url: "/tartans/m/mu/murray-mungo/"
 - name: "Murray, Mungo"
   url: "/setts/dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k1ly1r7ly3r7ly3k4ly4k2ly2k2ly4k4ly6k2ly6k2ly6k2ly6k2ly6k2ly6k10ly4dy1w2dy1ly2dy1w2dy1ly4k6ly1w2ly1k6ly4dy1w2dy1ly2dy1w2dy1ly4k10ly6k2ly6k2ly6k2/"
 slug_full: "dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k1ly1r7ly3r7ly3k4ly4k2ly2k2ly4k4ly6k2ly6k2ly6k2ly6k2ly6k2ly6k10ly4dy1w2dy1ly2dy1w2dy1ly4k6ly1w2ly1k6ly4dy1w2dy1ly2dy1w2dy1ly4k10ly6k2ly6k2ly6k2~x2~dy1603076-ly3307090"
@@ -12,6 +16,8 @@ slug_full: "dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k1ly1r7ly3r7ly3k4ly4k2ly2k2ly4k4ly6k2ly6k2ly6k2ly6k2ly6k2ly6k10ly4dy1w2dy1ly2dy1w2dy1ly4k6ly1w2ly1k6ly4dy1w2dy1ly2dy1w2dy1ly4k10ly6k2ly6k2ly6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK](/stripes/gykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykygwgygwgykywykygwgygwgykykykyk/).
+
+Part of the [Murray, Mungo](/tartans/m/mu/murray-mungo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 

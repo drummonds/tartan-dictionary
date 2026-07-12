@@ -6,6 +6,8 @@ This is the **Tipperary, County** sett — one scale-free proportion (`r33k8dy12
 [RGRGGKR](/stripes/rgrggkr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Tipperary, County](/tartans/t/ti/tipperary-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Unnamed 19th Century Plaid** sett — one scale-free proportion (`
 [BKBKGWG](/stripes/bkbkgwg/). It is recorded as a single **variant**, below.
 First attested **1860**.
 
+Part of the [Unnamed 19th Century](/tartans/u/un/unnamed-19th-century/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

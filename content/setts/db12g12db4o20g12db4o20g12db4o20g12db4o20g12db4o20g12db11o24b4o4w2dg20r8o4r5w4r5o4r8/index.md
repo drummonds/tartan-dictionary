@@ -6,6 +6,8 @@ This is the **Unidentified, Victorian fancy** sett — one scale-free proportion
 [BGBRGBRGBRGBRGBRGBRBRWGRRRWRRR](/stripes/bgbrgbrgbrgbrgbrgbrbrwgrrrwrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified, Victorian fancy](/tartans/u/un/unidentified-victorian-fancy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

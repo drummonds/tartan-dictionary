@@ -6,7 +6,7 @@ This is the **Watkins (Welsh Name)** sett — one scale-free proportion (`g2dg2d
 [GBBBWBGBGGGBGBBGBGG](/stripes/gbbbwbgbgggbgbbgbgg/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
-Part of the [Watkins](/tartans/watkins/) tartan — the named design grouping this sett with its kin.
+Part of the [Watkins](/tartans/w/wa/watkins/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

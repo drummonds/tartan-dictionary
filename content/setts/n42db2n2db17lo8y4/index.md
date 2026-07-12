@@ -6,6 +6,8 @@ This is the **Connecticut State Police PB (Cor.)** sett — one scale-free propo
 [BBBBYG](/stripes/bbbbyg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Connecticut State Police PB](/tartans/c/co/connecticut-state-police-pb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

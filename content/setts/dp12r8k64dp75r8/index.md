@@ -6,6 +6,8 @@ This is the **Laurel Cadre, The** sett — one scale-free proportion (`dp12r8k64
 [BRKBR](/stripes/brkbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Laurel Cadre, The](/tartans/l/la/laurel-cadre-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

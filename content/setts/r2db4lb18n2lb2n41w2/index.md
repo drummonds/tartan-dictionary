@@ -6,7 +6,7 @@ This is the **Haddrell (2013)** sett — one scale-free proportion (`r2db4lb18n2
 [RBWBWBW](/stripes/rbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Haddrell](/tartans/haddrell/) tartan — the named design grouping this sett with its kin.
+Part of the [Haddrell](/tartans/h/ha/haddrell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

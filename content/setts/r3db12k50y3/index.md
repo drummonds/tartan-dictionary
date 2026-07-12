@@ -6,7 +6,7 @@ This is the **Rogues (United States), The** sett — one scale-free proportion (
 [GKBR](/stripes/gkbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Rogues , The](/tartans/rogues-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Rogues , The](/tartans/r/ro/rogues-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

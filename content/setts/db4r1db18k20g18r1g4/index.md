@@ -6,7 +6,7 @@ This is the **Blair (Name)** sett — one scale-free proportion (`db4r1db18k20g1
 [BRBKGRG](/stripes/brbkgrg/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
-Part of the [Blair](/tartans/blair/) tartan — the named design grouping this sett with its kin.
+Part of the [Blair](/tartans/b/bl/blair/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

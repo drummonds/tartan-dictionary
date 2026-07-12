@@ -6,6 +6,8 @@ This is the **MacPherson #10** sett — one scale-free proportion (`r1w14k6w1k3y
 [GKWKWR](/stripes/gkwkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPherson 8](/tartans/m/ma/macpherson-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

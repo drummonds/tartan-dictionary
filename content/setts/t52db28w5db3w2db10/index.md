@@ -6,6 +6,8 @@ This is the **St. Andrews, Earl of** sett — one scale-free proportion (`t52db2
 [BBWBWBWBWB](/stripes/bbwbwbwbwb/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [St. Andrews, Earl of](/tartans/s/st/st-andrews-earl-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

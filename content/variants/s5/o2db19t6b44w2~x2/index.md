@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "World Fed. of Bldg Contractors (Corp"
+  url: "/tartans/w/wo/world-fed-of-bldg-contractors-corp/"
+- name: "World Fed. of Bldg Contractors (Corp"
   url: "/setts/o2db19t6b44w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2db19t6b44w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBW](/stripes/rbbbw/).
+
+Part of the [World Fed. of Bldg Contractors (Corp](/tartans/w/wo/world-fed-of-bldg-contractors-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

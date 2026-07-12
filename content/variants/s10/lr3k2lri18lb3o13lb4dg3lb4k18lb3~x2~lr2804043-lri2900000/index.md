@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leitrim Irish County"
+  url: "/tartans/l/le/leitrim-irish-county/"
 - name: "Leitrim Irish County Tartan"
   url: "/setts/lr3k2lri18lb3o13lb4dg3lb4k18lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr3k2lri18lb3o13lb4dg3lb4k18lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGWRWYKY](/stripes/wkwgwrwyky/).
+
+Part of the [Leitrim Irish County](/tartans/l/le/leitrim-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

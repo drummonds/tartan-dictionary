@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celtic Women International"
+  url: "/tartans/c/ce/celtic-women-international/"
+- name: "Celtic Women International"
   url: "/setts/r3db16o2db2o12k8g12k12w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db16o2db2o12k8g12k12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRKGKW](/stripes/rbrbrkgkw/).
+
+Part of the [Celtic Women International](/tartans/c/ce/celtic-women-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

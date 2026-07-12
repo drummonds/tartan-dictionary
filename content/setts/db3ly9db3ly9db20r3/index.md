@@ -6,6 +6,8 @@ This is the **Latin** sett — one scale-free proportion (`db3ly9db3ly9db20r3`),
 [BYBYBR](/stripes/bybybr/). It is recorded as a single **variant**, below.
 First attested **1689**.
 
+Part of the [Latin](/tartans/l/la/latin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

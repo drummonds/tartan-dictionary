@@ -6,6 +6,8 @@ This is the **Ryukoku University Heian Junior High School** sett — one scale-f
 [KBBWBWBWKR](/stripes/kbbwbwbwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ryukoku University Heian Junior High School](/tartans/r/ry/ryukoku-university-heian-junior-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

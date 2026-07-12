@@ -6,6 +6,8 @@ This is the **Anderson (Highland Society of London)** sett — one scale-free pr
 [RGRBRBRGRBRKGKGKWKWRKRWR](/stripes/rgrbrbrgrbrkgkgkwkwrkrwr/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
+Part of the [Anderson](/tartans/a/an/anderson-16/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

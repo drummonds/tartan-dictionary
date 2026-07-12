@@ -7,7 +7,7 @@ This is the **Fraser** sett — one scale-free proportion (`db16r1db1r1g12r16g2r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Fraser](/tartans/fraser-7/) tartan — the named design grouping this sett with its kin.
+Part of the [Fraser](/tartans/f/fr/fraser-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **St. Lawrence** sett — one scale-free proportion (`k3db2g2db26t1d
 [KBGBBBBBBBBYKBGKR](/stripes/kbgbbbbbbbbykbgkr/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
-Part of the [St. Lawrence](/tartans/st-lawrence/) tartan — the named design grouping this sett with its kin.
+Part of the [St. Lawrence](/tartans/s/st/st-lawrence/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

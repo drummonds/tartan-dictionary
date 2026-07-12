@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Holmes"
+  url: "/tartans/h/ho/holmes/"
+- name: "Holmes"
   url: "/setts/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRGBKBKBGGGBKBKBGRGRGGGR](/stripes/gggrgrgbkbkbgggbkbkbgrgrgggr/).
+
+Part of the [Holmes](/tartans/h/ho/holmes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

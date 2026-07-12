@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Perry , Alex"
-  url: "/tartans/perry-alex/"
+  url: "/tartans/p/pe/perry-alex/"
 - name: "Perry, Alex (Personal)"
   url: "/setts/k62n24ly5w8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k62n24ly5w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYW](/stripes/kbyw/).
 
-Part of the [Perry , Alex](/tartans/perry-alex/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Perry , Alex](/tartans/p/pe/perry-alex/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

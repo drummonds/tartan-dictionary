@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Club World"
-  url: "/tartans/club-world/"
+  url: "/tartans/c/cl/club-world/"
 - name: "Club World"
   url: "/setts/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBRWRKRBRKRKR](/stripes/bkbkbkbkbrwrkrbrkrkr/).
 
-Part of the [Club World](/tartans/club-world/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Club World](/tartans/c/cl/club-world/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 

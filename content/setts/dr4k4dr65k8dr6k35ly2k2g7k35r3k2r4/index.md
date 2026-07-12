@@ -6,6 +6,8 @@ This is the **Firefighters' Memorial** sett — one scale-free proportion (`dr4k
 [BKBKBKYKGKRKR](/stripes/bkbkbkykgkrkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Firefighters' Memorial](/tartans/f/fi/firefighters-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wood Dress** sett — one scale-free proportion (`k1y1k2g1k1g10db8
 [KGKGKGBRGRGRGRGRBGKGKWK](/stripes/kgkgkgbrgrgrgrgrbgkgkwk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Wood Dress](/tartans/w/wo/wood-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connell"
+  url: "/tartans/c/co/connell/"
 - name: "Connell (Personal?)"
   url: "/setts/r2g2r1g12r3k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g2r1g12r3k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGR](/stripes/krgrgr/).
+
+Part of the [Connell](/tartans/c/co/connell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

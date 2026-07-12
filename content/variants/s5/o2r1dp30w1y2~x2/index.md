@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wedding"
-  url: "/tartans/wedding/"
+  url: "/tartans/w/we/wedding/"
 - name: "Wedding"
   url: "/setts/o2r1dp30w1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o2r1dp30w1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBRR](/stripes/gwbrr/).
 
-Part of the [Wedding](/tartans/wedding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wedding](/tartans/w/we/wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

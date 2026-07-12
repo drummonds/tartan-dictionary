@@ -6,6 +6,8 @@ This is the **Shiel, Purple V2 (Dance)** sett — one scale-free proportion (`w8
 [WGBWWGW](/stripes/wgbwwgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Shiel Lavender](/tartans/s/sh/shiel-lavender/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

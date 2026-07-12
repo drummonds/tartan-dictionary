@@ -6,6 +6,8 @@ This is the **MacKessog** sett — one scale-free proportion (`r1ly8dy2ly2db6w1d
 [RYGYBWBYGYR](/stripes/rygybwbygyr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [MacKessog](/tartans/m/ma/mackessog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

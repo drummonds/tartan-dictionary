@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leach Hunting"
+  url: "/tartans/l/le/leach-hunting/"
+- name: "Leach Hunting"
   url: "/setts/k3lb1g21k2dr3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lb1g21k2dr3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKBW](/stripes/kwgkbw/).
+
+Part of the [Leach Hunting](/tartans/l/le/leach-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

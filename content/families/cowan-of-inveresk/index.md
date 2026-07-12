@@ -19,5 +19,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Cowan of Inveresk tartan and all its setts →](/tartans/cowan-of-inveresk/)
+[See the Cowan of Inveresk tartan and all its setts →](/tartans/c/co/cowan-of-inveresk/)
 

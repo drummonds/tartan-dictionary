@@ -6,6 +6,8 @@ This is the **MacBeth Dress (Dance)** sett — one scale-free proportion (`w50k1
 [BGKWBWGBKW](/stripes/bgkwbwgbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacBeth Dress](/tartans/m/ma/macbeth-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Haughdale** sett — one scale-free proportion (`k2dr12w2dp6w2dr3g
 [KBWBWBBBGBGBWBWBK](/stripes/kbwbwbbbgbgbwbwbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Haughdale](/tartans/h/ha/haughdale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Unidentified Locket** sett — one scale-free proportion (`db4r50g
 [BRGW](/stripes/brgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Locket](/tartans/u/un/unidentified-locket/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

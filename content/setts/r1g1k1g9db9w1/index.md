@@ -6,6 +6,8 @@ This is the **Irving of Bonshaw Tower** sett — one scale-free proportion (`r1g
 [RGKGBW](/stripes/rgkgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Irving of Bonshaw Tower](/tartans/i/ir/irving-of-bonshaw-tower/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

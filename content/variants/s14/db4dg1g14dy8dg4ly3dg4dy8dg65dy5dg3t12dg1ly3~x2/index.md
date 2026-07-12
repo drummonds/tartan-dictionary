@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Vermont"
+  url: "/tartans/s/st/state-seal-of-vermont/"
 - name: "State Seal of Vermont (Fashion)"
   url: "/setts/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGYGGGGGBGY](/stripes/bggggygggggbgy/).
+
+Part of the [State Seal of Vermont](/tartans/s/st/state-seal-of-vermont/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

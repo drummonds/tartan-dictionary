@@ -7,6 +7,8 @@ This is the **Reid, Green** sett — one scale-free proportion (`w1r2g10r2g2k8g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1991**.
 
+Part of the [Reid](/tartans/r/re/reid-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

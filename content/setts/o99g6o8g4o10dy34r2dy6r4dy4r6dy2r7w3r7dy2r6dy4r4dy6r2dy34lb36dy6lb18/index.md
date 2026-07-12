@@ -6,6 +6,8 @@ This is the **Unidentified Cant #11** sett — one scale-free proportion (`o99g6
 [GWGRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRWRGRGRGRGWGW](/stripes/gwgrgrgrgrwrgrgrgrgrgrgrgrgrgrgrgrgrwrgrgrgrgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

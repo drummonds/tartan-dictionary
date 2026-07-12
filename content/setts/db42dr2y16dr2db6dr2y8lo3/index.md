@@ -6,6 +6,8 @@ This is the **Prince George's Police Pipe Band** sett — one scale-free proport
 [BBGBBBGY](/stripes/bbgbbbgy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Prince George's Police](/tartans/p/pr/prince-george-s-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

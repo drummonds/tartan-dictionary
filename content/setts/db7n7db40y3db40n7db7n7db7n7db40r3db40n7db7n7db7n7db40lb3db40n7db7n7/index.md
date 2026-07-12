@@ -6,7 +6,7 @@ This is the **Colliers International (Corporate)** sett — one scale-free propo
 [BBBBWBBBBBBBRBBBBBBBGBBB](/stripes/bbbbwbbbbbbbrbbbbbbbgbbb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Colliers International](/tartans/colliers-international/) tartan — the named design grouping this sett with its kin.
+Part of the [Colliers International](/tartans/c/co/colliers-international/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

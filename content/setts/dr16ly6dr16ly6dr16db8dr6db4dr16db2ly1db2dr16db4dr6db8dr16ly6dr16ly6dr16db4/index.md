@@ -6,6 +6,8 @@ This is the **Thomas Blake Glover Corporate Tartan** sett — one scale-free pro
 [BBYBYBBBBBBYBBBBBBYBYB](/stripes/bbybybbbbbbybbbbbbybyb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Thomas Blake Glover](/tartans/t/th/thomas-blake-glover/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

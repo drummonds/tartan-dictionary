@@ -6,6 +6,8 @@ This is the **Fong (Personal)** sett — one scale-free proportion (`r21db43dbi8
 [RBBW](/stripes/rbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Fong](/tartans/f/fo/fong/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

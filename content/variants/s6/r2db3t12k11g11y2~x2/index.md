@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Huntly Gordon 2000"
+  url: "/tartans/h/hu/huntly-gordon-2000-2/"
 - name: "Huntly Gordon 2000 (Commem)"
   url: "/setts/r2db3t12k11g11y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db3t12k11g11y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBBR](/stripes/ggkbbr/).
+
+Part of the [Huntly Gordon 2000](/tartans/h/hu/huntly-gordon-2000-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

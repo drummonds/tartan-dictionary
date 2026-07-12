@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Charleston Police Department"
+  url: "/tartans/c/ch/charleston-police-department/"
+- name: "Charleston Police Department"
   url: "/setts/dp22ly10dp6lb18dp50db71k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp22ly10dp6lb18dp50db71k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWBBK](/stripes/bybwbbk/).
+
+Part of the [Charleston Police Department](/tartans/c/ch/charleston-police-department/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

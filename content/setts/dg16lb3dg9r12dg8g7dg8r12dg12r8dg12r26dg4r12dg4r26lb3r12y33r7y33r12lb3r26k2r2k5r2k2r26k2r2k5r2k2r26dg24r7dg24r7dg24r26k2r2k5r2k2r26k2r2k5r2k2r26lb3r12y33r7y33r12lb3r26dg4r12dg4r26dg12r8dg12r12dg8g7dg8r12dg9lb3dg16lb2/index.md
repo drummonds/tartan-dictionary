@@ -6,6 +6,8 @@ This is the **Kinnoull** sett — one scale-free proportion (`dg16lb3dg9r12dg8g7
 [GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW](/stripes/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Kinnoull](/tartans/k/ki/kinnoull-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

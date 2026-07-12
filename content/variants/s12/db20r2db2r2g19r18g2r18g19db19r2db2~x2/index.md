@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser of Stratherrick"
+  url: "/families/fraser-of-stratherrick/"
+- name: "Fraser of Stratherrick"
+  url: "/tartans/f/fr/fraser-of-stratherrick/"
 - name: "Fraser of Stratherrick"
   url: "/setts/db20r2db2r2g19r18g2r18g19db19r2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20r2db2r2g19r18g2r18g19db19r2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
+
+Part of the [Fraser of Stratherrick](/tartans/f/fr/fraser-of-stratherrick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

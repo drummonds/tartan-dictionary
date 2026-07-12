@@ -6,7 +6,7 @@ This is the **Lloyd of Astargus** sett — one scale-free proportion (`r2db61k13
 [RBKWBY](/stripes/rbkwby/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Lloyd of Astargus](/tartans/lloyd-of-astargus/) tartan — the named design grouping this sett with its kin.
+Part of the [Lloyd of Astargus](/tartans/l/ll/lloyd-of-astargus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

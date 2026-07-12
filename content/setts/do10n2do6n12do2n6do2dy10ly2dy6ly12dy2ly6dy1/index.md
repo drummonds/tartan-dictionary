@@ -6,6 +6,8 @@ This is the **Lochaber (Scrapbook)** sett — one scale-free proportion (`do10n2
 [BBBBBBBGYGYGYG](/stripes/bbbbbbbgygygyg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Lochaber](/tartans/l/lo/lochaber-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Easton (2014)** sett — one scale-free proportion (`n3db2w1db50y1
 [BBWBGBR](/stripes/bbwbgbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Easton](/tartans/easton/) tartan — the named design grouping this sett with its kin.
+Part of the [Easton](/tartans/e/ea/easton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Scott Red Clan Tartan** sett — one scale-free proportion (`r4g4w
 [GRKRGRGWGR](/stripes/grkrgrgwgr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Scott](/tartans/scott-6/) tartan — the named design grouping this sett with its kin.
+Part of the [Scott](/tartans/s/sc/scott-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

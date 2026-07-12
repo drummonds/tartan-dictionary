@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gillies"
-  url: "/tartans/gillies/"
+  url: "/tartans/g/gi/gillies/"
 - name: "Gillies (House of Edgar)"
   url: "/setts/t32k12t12g6r6g18k2y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t32k12t12g6r6g18k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGRGKG](/stripes/bkbgrgkg/).
 
-Part of the [Gillies](/tartans/gillies/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gillies](/tartans/g/gi/gillies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

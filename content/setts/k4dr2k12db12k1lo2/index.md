@@ -6,6 +6,8 @@ This is the **Robert Gordon University** sett — one scale-free proportion (`k4
 [KBKBKY](/stripes/kbkbky/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Robert Gordon University](/tartans/r/ro/robert-gordon-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

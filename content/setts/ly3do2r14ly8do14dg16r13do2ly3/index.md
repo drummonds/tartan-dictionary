@@ -6,6 +6,8 @@ This is the **Monaghan, County** sett — one scale-free proportion (`ly3do2r14l
 [BRGBYRBYBRYBGRBY](/stripes/brgbyrbybrybgrby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Monaghan, County](/tartans/m/mo/monaghan-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

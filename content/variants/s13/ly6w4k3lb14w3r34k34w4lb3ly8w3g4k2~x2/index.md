@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mazarian"
+  url: "/tartans/m/ma/mazarian/"
+- name: "Mazarian"
   url: "/setts/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWYWWKRWWKWY](/stripes/kgwywwkrwwkwy/).
+
+Part of the [Mazarian](/tartans/m/ma/mazarian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

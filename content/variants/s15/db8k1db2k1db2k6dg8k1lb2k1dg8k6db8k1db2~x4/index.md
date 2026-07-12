@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rogers"
+  url: "/tartans/r/ro/rogers/"
 - name: "Rogers Family (Kilkeel) (Personal)"
   url: "/setts/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
+
+Part of the [Rogers](/tartans/r/ro/rogers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

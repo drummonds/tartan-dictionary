@@ -6,6 +6,8 @@ This is the **Scottish Tourist Guides Assoc. (Corp** sett — one scale-free pro
 [GBWBWBBBBBBYW](/stripes/gbwbwbbbbbbyw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Scottish Tourist Guides Assoc. (Corp](/tartans/s/sc/scottish-tourist-guides-assoc-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **State Seal of Alaska (Fashion)** sett — one scale-free proportio
 [WKWGKGGGWW](/stripes/wkwgkgggww/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Alaska](/tartans/s/st/state-seal-of-alaska/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams, Jodi"
+  url: "/tartans/w/wi/williams-jodi/"
 - name: "Williams, Jodi (Personal)"
   url: "/setts/n2k20r2g3r4g35r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2k20r2g3r4g35r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGRGR](/stripes/bkrgrgr/).
+
+Part of the [Williams, Jodi](/tartans/w/wi/williams-jodi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

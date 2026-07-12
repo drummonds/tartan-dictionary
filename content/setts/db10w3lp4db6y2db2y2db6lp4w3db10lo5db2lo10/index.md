@@ -6,6 +6,8 @@ This is the **Denver Broncos (Sports)** sett — one scale-free proportion (`db1
 [BWWBGBGBWWBYBY](/stripes/bwwbgbgbwwbyby/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Denver Broncos](/tartans/d/de/denver-broncos/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

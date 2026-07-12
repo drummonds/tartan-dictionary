@@ -6,6 +6,8 @@ This is the **Bryson (2000)** sett — one scale-free proportion (`g5dp2db5dp10d
 [GBBBG](/stripes/gbbbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bryson](/tartans/b/br/bryson-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

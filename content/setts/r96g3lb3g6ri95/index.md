@@ -6,7 +6,7 @@ This is the **MacNab - 1800 (Portrait)** sett — one scale-free proportion (`r9
 [RGWGR](/stripes/rgwgr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacNab](/tartans/macnab-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNab](/tartans/m/ma/macnab-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Cochrane Azure** sett — one scale-free proportion (`lb27r4lb3r2l
 [GBRBRKWRWRWRWRW](/stripes/gbrbrkwrwrwrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cochrane](/tartans/c/co/cochrane-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

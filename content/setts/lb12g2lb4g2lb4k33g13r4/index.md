@@ -6,6 +6,8 @@ This is the **Brown of the Southeast (Personal)** sett — one scale-free propor
 [RGKWGWGW](/stripes/rgkwgwgw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Brown of the Southeast](/tartans/b/br/brown-of-the-southeast/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

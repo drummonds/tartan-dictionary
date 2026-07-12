@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish American Soc. of Michigan"
+  url: "/tartans/s/sc/scottish-american-soc-of-michigan/"
+- name: "Scottish American Soc. of Michigan"
   url: "/setts/r48t16ly5g17w8dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r48t16ly5g17w8dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGYBR](/stripes/gwgybr/).
+
+Part of the [Scottish American Soc. of Michigan](/tartans/s/sc/scottish-american-soc-of-michigan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

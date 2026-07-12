@@ -6,6 +6,8 @@ This is the **Ballintrae Trade Tartan** sett — one scale-free proportion (`dy1
 [GRGGGGR](/stripes/grggggr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Ballintrae](/tartans/b/ba/ballintrae-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

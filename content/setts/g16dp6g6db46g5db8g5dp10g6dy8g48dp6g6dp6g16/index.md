@@ -6,7 +6,7 @@ This is the **Aberlour Bicentenary** sett — one scale-free proportion (`g16dp6
 [GBGBGBGBGGGBGBG](/stripes/gbgbgbgbgggbgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Aberlour Bicentenary](/tartans/aberlour-bicentenary/) tartan — the named design grouping this sett with its kin.
+Part of the [Aberlour Bicentenary](/tartans/a/ab/aberlour-bicentenary/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Spring"
-  url: "/tartans/highland-spring-2/"
+  url: "/tartans/h/hi/highland-spring-2/"
 - name: "Highland Spring Corporate Tartan"
   url: "/setts/dp5g2dp19r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp5g2dp19r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBR](/stripes/bgbr/).
 
-Part of the [Highland Spring](/tartans/highland-spring-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,6 +6,8 @@ This is the **Robieson, Graham Alexander (Personal)** sett — one scale-free pr
 [GKGBGKGBGKGKW](/stripes/gkgbgkgbgkgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Robieson, Graham Alexander](/tartans/r/ro/robieson-graham-alexander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

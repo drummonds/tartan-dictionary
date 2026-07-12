@@ -6,7 +6,7 @@ This is the **Drambuie** sett — one scale-free proportion (`dy6k5ly4k48dr36w6`
 [GKYKBW](/stripes/gkykbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Drambuie](/tartans/drambuie/) tartan — the named design grouping this sett with its kin.
+Part of the [Drambuie](/tartans/d/dr/drambuie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

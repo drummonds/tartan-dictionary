@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Joss"
-  url: "/tartans/joss/"
+  url: "/tartans/j/jo/joss/"
 - name: "Joss"
   url: "/setts/r3g1db2g4db30k2db4k2db30g27y3k3w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3g1db2g4db30k2db4k2db30g27y3k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBKBKBGGKW](/stripes/rgbgbkbkbggkw/).
 
-Part of the [Joss](/tartans/joss/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Joss](/tartans/j/jo/joss/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

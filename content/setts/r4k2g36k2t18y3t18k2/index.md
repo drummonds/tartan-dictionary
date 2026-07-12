@@ -6,6 +6,8 @@ This is the **Fox Hunting** sett — one scale-free proportion (`r4k2g36k2t18y3t
 [KBGBKGKR](/stripes/kbgbkgkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Fox Hunting](/tartans/f/fo/fox-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

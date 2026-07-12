@@ -6,6 +6,8 @@ This is the **Limerick County, Crest Range** sett — one scale-free proportion 
 [GKWGKW](/stripes/gkwgkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Limerick County, Crest Range](/tartans/l/li/limerick-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

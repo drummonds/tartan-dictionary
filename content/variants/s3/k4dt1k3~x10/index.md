@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ben Dubh"
+  url: "/tartans/b/be/ben-dubh-2/"
 - name: "Ben Dubh (Fashion)"
   url: "/setts/k4dt1k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dt1k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBK](/stripes/kbk/).
+
+Part of the [Ben Dubh](/tartans/b/be/ben-dubh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

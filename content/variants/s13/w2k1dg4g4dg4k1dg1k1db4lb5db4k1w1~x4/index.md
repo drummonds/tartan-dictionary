@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dyer"
+  url: "/tartans/d/dy/dyer/"
+- name: "Dyer"
   url: "/setts/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWBKGKGGGKW](/stripes/wkbwbkgkgggkw/).
+
+Part of the [Dyer](/tartans/d/dy/dyer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

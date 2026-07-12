@@ -6,7 +6,7 @@ This is the **Taggart Name Tartan** sett — one scale-free proportion (`r4k6r2k
 [RKKRKKBRKRKRBWKRKWR](/stripes/rkkrkkbrkrkrbwkrkwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Taggart](/tartans/taggart/) tartan — the named design grouping this sett with its kin.
+Part of the [Taggart](/tartans/t/ta/taggart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

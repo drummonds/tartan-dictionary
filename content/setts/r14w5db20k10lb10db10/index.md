@@ -7,6 +7,8 @@ This is the **Gandy of Myrton (Name)** sett — one scale-free proportion (`r14w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Gandy of Myrton](/tartans/g/ga/gandy-of-myrton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

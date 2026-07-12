@@ -6,7 +6,7 @@ This is the **Delta Lambda Phi (Corporate)** sett — one scale-free proportion 
 [YKGWGWGWGYKY](/stripes/ykgwgwgwgyky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Delta Lambda Phi](/tartans/delta-lambda-phi/) tartan — the named design grouping this sett with its kin.
+Part of the [Delta Lambda Phi](/tartans/d/de/delta-lambda-phi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

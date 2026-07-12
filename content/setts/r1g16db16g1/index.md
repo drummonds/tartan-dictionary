@@ -7,6 +7,8 @@ This is the **Barclay** sett — one scale-free proportion (`r1g16db16g1`), colo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Barclay Hunting](/tartans/b/ba/barclay-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

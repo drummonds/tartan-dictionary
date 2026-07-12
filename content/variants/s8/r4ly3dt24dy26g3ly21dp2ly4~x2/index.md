@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Goddin mab Gododdin"
+  url: "/tartans/g/go/goddin-mab-gododdin/"
 - name: "Goddin mab Gododdin (Personal)"
   url: "/setts/r4ly3dt24dy26g3ly21dp2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4ly3dt24dy26g3ly21dp2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBGGYBY](/stripes/rybggyby/).
+
+Part of the [Goddin mab Gododdin](/tartans/g/go/goddin-mab-gododdin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

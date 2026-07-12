@@ -6,6 +6,8 @@ This is the **Makhtoum Regimental Tartan** sett — one scale-free proportion (`
 [RGRGRW](/stripes/rgrgrw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Makhtoum](/tartans/m/ma/makhtoum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

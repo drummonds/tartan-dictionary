@@ -6,6 +6,8 @@ This is the **Murray of Elibank Clan Tartan** sett — one scale-free proportion
 [BKGKBKGKBKGKB](/stripes/bkgkbkgkbkgkb/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Murray of Elibank](/tartans/m/mu/murray-of-elibank-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

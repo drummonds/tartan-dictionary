@@ -6,6 +6,8 @@ This is the **Head of The Lakes** sett — one scale-free proportion (`g7lb2db28
 [BBWBWBGBWG](/stripes/bbwbwbgbwg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Head of The Lakes](/tartans/h/he/head-of-the-lakes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

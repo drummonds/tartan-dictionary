@@ -6,6 +6,8 @@ This is the **Barbecue Plaid (Fashion)** sett — one scale-free proportion (`y2
 [GKRWKRKRKR](/stripes/gkrwkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~1964**.
 
+Part of the [Barbecue](/tartans/b/ba/barbecue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Leitrim** sett — one scale-free proportion (`n3do18n4do3n4r13n21
 [BBBBBRBBB](/stripes/bbbbbrbbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leitrim](/tartans/l/le/leitrim/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

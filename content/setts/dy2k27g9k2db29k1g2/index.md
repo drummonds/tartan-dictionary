@@ -6,6 +6,8 @@ This is the **Caledonian Canals (Corporate)** sett — one scale-free proportion
 [GKBKGKG](/stripes/gkbkgkg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Caledonian Canals](/tartans/c/ca/caledonian-canals/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

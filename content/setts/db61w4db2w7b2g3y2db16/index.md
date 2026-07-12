@@ -6,6 +6,8 @@ This is the **Boat of Garten (District)** sett — one scale-free proportion (`d
 [BGGBWBWB](/stripes/bggbwbwb/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Boat of Garten](/tartans/b/bo/boat-of-garten/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

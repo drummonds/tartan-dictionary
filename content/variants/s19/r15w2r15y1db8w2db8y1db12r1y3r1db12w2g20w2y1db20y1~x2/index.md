@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebert Kitenge"
+  url: "/tartans/h/he/hebert-kitenge/"
 - name: "Hébert Kitenge Family (Personal)"
   url: "/setts/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15w2r15y1db8w2db8y1db12r1y3r1db12w2g20w2y1db20y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGWBRGRBGBWBGRWR](/stripes/gbgwgwbrgrbgbwbgrwr/).
+
+Part of the [Hebert Kitenge](/tartans/h/he/hebert-kitenge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

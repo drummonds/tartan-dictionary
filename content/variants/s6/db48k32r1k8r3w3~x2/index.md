@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Koot Wedding"
+  url: "/tartans/k/ko/koot-wedding/"
 - name: "Koot Wedding (Personal)"
   url: "/setts/db48k32r1k8r3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48k32r1k8r3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRW](/stripes/bkrkrw/).
+
+Part of the [Koot Wedding](/tartans/k/ko/koot-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clergy, or Priest"
+  url: "/tartans/c/cl/clergy-or-priest/"
+- name: "Clergy, or Priest"
   url: "/setts/k1b1dg7k8b1k8b1dg2b1k4b1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1b1dg7k8b1k8b1dg2b1k4b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBKBKGBK](/stripes/bkbgbkbkgbk/).
+
+Part of the [Clergy, or Priest](/tartans/c/cl/clergy-or-priest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

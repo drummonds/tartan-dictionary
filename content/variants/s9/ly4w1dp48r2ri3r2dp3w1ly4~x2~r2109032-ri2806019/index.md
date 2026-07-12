@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wedding Day"
-  url: "/tartans/wedding-day/"
+  url: "/tartans/w/we/wedding-day/"
 - name: "Wedding Day (Fashion)"
   url: "/setts/ly4w1dp48r2ri3r2dp3w1ly4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly4w1dp48r2ri3r2dp3w1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YWBRRRBWY](/stripes/ywbrrrbwy/).
 
-Part of the [Wedding Day](/tartans/wedding-day/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wedding Day](/tartans/w/we/wedding-day/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

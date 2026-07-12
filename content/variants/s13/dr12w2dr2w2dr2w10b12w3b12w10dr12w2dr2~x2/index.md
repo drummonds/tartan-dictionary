@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Red, White, Blue Watch"
+  url: "/tartans/r/re/red-white-blue-watch/"
 - name: "Red, White, Blue Watch (Dance)"
   url: "/setts/dr12w2dr2w2dr2w10b12w3b12w10dr12w2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12w2dr2w2dr2w10b12w3b12w10dr12w2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWB](/stripes/bwbwbwbwbwbwb/).
+
+Part of the [Red, White, Blue Watch](/tartans/r/re/red-white-blue-watch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hogmany"
+  url: "/tartans/h/ho/hogmany/"
 - name: "Hogmany Plaid"
   url: "/setts/r4w13k6w6k6w6k5w1k24b28r2b2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4w13k6w6k6w6k5w1k24b28r2b2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKWKWKWKWR](/stripes/rbrbkwkwkwkwr/).
+
+Part of the [Hogmany](/tartans/h/ho/hogmany/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

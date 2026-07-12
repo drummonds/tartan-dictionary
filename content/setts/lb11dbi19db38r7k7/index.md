@@ -6,6 +6,8 @@ This is the **Rose, Danny and Hanna (Personal)** sett — one scale-free proport
 [KRBBW](/stripes/krbbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Rose, Danny and Hanna](/tartans/r/ro/rose-danny-and-hanna-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

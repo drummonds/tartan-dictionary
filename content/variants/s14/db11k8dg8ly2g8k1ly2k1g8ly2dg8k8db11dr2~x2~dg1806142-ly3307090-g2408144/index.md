@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scout Mapping Service"
+  url: "/tartans/s/sc/scout-mapping-service-3/"
 - name: "Scout Mapping Service #2"
   url: "/setts/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGYGKYKGYGKB](/stripes/bbkgygkykgygkb/).
+
+Part of the [Scout Mapping Service](/tartans/s/sc/scout-mapping-service-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

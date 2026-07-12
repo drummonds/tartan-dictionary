@@ -6,6 +6,8 @@ This is the **Uddingston Rugby Club Centenary (Cor** sett — one scale-free pro
 [RBYBKBRYY](/stripes/rbybkbryy/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Uddingston Rugby Club Centenary (Cor](/tartans/u/ud/uddingston-rugby-club-centenary-cor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **MacPherson Htg** sett — one scale-free proportion (`t1r1k8r1t1r1
 [BRBRBRKRB](/stripes/brbrbrkrb/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [MacPherson Hunting](/tartans/macpherson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson Hunting](/tartans/m/ma/macpherson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

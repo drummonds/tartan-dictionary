@@ -6,6 +6,8 @@ This is the **Melieres, Michel (Personal)** sett — one scale-free proportion (
 [KRGRGRGRW](/stripes/krgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Melieres Michel..](/tartans/m/me/melieres-michel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

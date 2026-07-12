@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Adam Smith"
+  url: "/tartans/a/ad/adam-smith/"
 - name: "Adam Smith (Corporate)"
   url: "/setts/r2k1db8k7g8y2g8k7db8k1t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1db8k7g8y2g8k7db8k1t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGGKBKR](/stripes/bkbkgggkbkr/).
+
+Part of the [Adam Smith](/tartans/a/ad/adam-smith/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

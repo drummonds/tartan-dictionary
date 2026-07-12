@@ -6,6 +6,8 @@ This is the **MacQuarrie** sett — one scale-free proportion (`r28g64r20db48r60
 [RBRBRBRBRGR](/stripes/rbrbrbrbrgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacQuarrie](/tartans/m/ma/macquarrie-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

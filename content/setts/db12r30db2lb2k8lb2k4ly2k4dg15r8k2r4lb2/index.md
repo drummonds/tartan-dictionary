@@ -6,6 +6,8 @@ This is the **Brown of Castledean (Artefact)** sett — one scale-free proportio
 [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/). It is recorded as a single **variant**, below.
 First attested **1728**.
 
+Part of the [Brown of Castledean](/tartans/b/br/brown-of-castledean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

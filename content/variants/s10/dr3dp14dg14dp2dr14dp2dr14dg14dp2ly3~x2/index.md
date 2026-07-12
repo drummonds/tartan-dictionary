@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clare, County"
+  url: "/tartans/c/cl/clare-county/"
+- name: "Clare, County"
   url: "/setts/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3dp14dg14dp2dr14dp2dr14dg14dp2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBBGBY](/stripes/bbgbbbbgby/).
+
+Part of the [Clare, County](/tartans/c/cl/clare-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

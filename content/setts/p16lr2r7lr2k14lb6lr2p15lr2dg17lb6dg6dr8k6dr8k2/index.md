@@ -6,6 +6,8 @@ This is the **Huntly #2** sett — one scale-free proportion (`p16lr2r7lr2k14lb6
 [BYRYKWYBYGWGBKBKBKBGWGYBYWKYRY](/stripes/byrykwybygwgbkbkbkbgwgybywkyry/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Huntly](/tartans/h/hu/huntly-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

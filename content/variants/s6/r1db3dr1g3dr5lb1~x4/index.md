@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lanark"
+  url: "/tartans/l/la/lanark/"
 - name: "Lanark (Fashion #1)"
   url: "/setts/r1db3dr1g3dr5lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1db3dr1g3dr5lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBGBW](/stripes/rbbgbw/).
+
+Part of the [Lanark](/tartans/l/la/lanark/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

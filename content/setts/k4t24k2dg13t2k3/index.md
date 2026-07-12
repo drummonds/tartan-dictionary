@@ -6,6 +6,8 @@ This is the **Vance (Family Association) Corporate Family Tartan** sett — one 
 [KBGKBK](/stripes/kbgkbk/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Vance Corporate](/tartans/v/va/vance-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

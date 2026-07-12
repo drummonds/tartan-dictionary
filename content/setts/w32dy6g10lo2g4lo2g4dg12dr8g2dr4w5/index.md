@@ -6,6 +6,8 @@ This is the **Seller Dress (Dance)** sett — one scale-free proportion (`w32dy6
 [GGYGYGGBGBWBGBGGYGYGGW](/stripes/ggygyggbgbwbgbggygyggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Seller Dress](/tartans/s/se/seller-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

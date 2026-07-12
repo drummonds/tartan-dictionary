@@ -6,6 +6,8 @@ This is the **World Federation of Building Contractors** sett — one scale-free
 [RBBWW](/stripes/rbbww/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [World Federation of Building Contractors](/tartans/w/wo/world-federation-of-building-contractors/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

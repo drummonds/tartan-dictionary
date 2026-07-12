@@ -6,6 +6,8 @@ This is the **Bannatyne (Corporate)** sett — one scale-free proportion (`k8dr8
 [KBKKKKKKGKGW](/stripes/kbkkkkkkgkgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Bannatyne](/tartans/b/ba/bannatyne-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

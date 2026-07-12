@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manor of Wrentnall"
-  url: "/tartans/manor-of-wrentnall/"
+  url: "/tartans/m/ma/manor-of-wrentnall/"
 - name: "Manor of Wrentnall (Personal)"
   url: "/setts/r31db33dg12w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r31db33dg12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGW](/stripes/rbgw/).
 
-Part of the [Manor of Wrentnall](/tartans/manor-of-wrentnall/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manor of Wrentnall](/tartans/m/ma/manor-of-wrentnall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

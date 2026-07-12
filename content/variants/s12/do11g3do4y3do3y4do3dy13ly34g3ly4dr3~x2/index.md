@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony 1"
+  url: "/tartans/h/ha/harmony-1-2/"
 - name: "Harmony 1 Trade Tartan"
   url: "/setts/do11g3do4y3do3y4do3dy13ly34g3ly4dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do11g3do4y3do3y4do3dy13ly34g3ly4dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGYGYB](/stripes/bgbgbgbgygyb/).
+
+Part of the [Harmony 1](/tartans/h/ha/harmony-1-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

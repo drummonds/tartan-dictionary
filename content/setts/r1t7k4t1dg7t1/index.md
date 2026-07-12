@@ -7,6 +7,8 @@ This is the **Flower of Scotland MINI Tartan** sett — one scale-free proportio
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
+Part of the [Flower of Scotland MINI](/tartans/f/fl/flower-of-scotland-mini/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

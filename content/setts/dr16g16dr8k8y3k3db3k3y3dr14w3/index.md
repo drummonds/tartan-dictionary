@@ -6,7 +6,7 @@ This is the **Mars (Personal)** sett — one scale-free proportion (`dr16g16dr8k
 [BGBKGKBKGBW](/stripes/bgbkgkbkgbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Mars](/tartans/mars/) tartan — the named design grouping this sett with its kin.
+Part of the [Mars](/tartans/m/ma/mars/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

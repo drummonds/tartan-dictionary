@@ -6,6 +6,8 @@ This is the **Ryder Cup, The** sett — one scale-free proportion (`y3db5lb12t1l
 [GBWBWBWBWBWBWBBW](/stripes/gbwbwbwbwbwbwbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ryder Cup, The](/tartans/r/ry/ryder-cup-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

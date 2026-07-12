@@ -6,6 +6,8 @@ This is the **Unidentified #10** sett — one scale-free proportion (`r3k2db10k1
 [BKBKGKGKGKBKR](/stripes/bkbkgkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unnamed 5](/tartans/u/un/unnamed-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

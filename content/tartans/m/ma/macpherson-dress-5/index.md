@@ -1,0 +1,44 @@
+---
+title: "MacPherson Dress"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+---
+A tartan of [Clan MacPherson](/clan/macpherson/).
+Its design is pattern [WBWBWKW](/stripes/wbwbwkw/) — the page of every tartan sharing this colour sequence.
+
+Modern trade variant of Dress MacPherson, supplied by Edinburgh kiltmaker Hugh Macpherson around 1980; popular with country dancers.
+
+The **MacPherson Dress** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w5k3w31dp26w4dp10lb4/">MacPherson Dress</a></td><td><code>W/10 K6 W62 DP52 W8 DP20 LB/8</code></td><td>314</td><td>1980</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/w5k3w31dp26w4dp10lb4/"><img src="/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacPherson Dress Purple
+- MacPherson Dress, Purple
+- MacPherson, dress
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">314</div><div class="nn-name nn-base"><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/">MacPherson Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/w5k3w31dp26w4dp10lb4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp8db2dp24db5w26k2w8~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">1.59</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/">Lennox Purple Dress District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5dp2w34dp34k2dp2lb4~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">314</div><div class="nn-name nn-far"><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/">Cunningham Dress Purple (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2dp1w20dp20k1dp1lb2~x4&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">360</div><div class="nn-name nn-far"><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/">Cunningham Dress Purple (Dance) Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8k6w54db16m6db8m49w6&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/w8k6w54db16m6db8m49w6/">Meridia Dance</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w8k6w54db16m6db8m49w6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3k9w3k20w30dp3w3~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/">MacPherson Dress (1951)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y3k9w3k20w30dp3w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5k3w26db21w3db8y3~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s7/w5k3w26db21w3db8y3~x2/">MacPherson Dress Blue (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5k3w26db21w3db8y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r12ly3w14db10ly2db24r2~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s7/r12ly3w14db10ly2db24r2~x2/">Yusra (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12ly3w14db10ly2db24r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w4k2w25dr21w3dr8y3~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.81</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/">MacPherson Dress Burgundy (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w4k2w25dr21w3dr8y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8k4w54db18r6db8r49w6&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/w8k4w54db18r6db8r49w6/">Merida Dance</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w8k4w54db18r6db8r49w6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r12y3w14db10y2db24r2~x2&amp;base=w5k3w31dp26w4dp10lb4~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s7/r12y3w14db10y2db24r2~x2/">Yusra (Malay) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12y3w14db10y2db24r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="222.8" cy="173.4" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/"><circle cx="261.7" cy="137.3" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/"><circle cx="272.0" cy="127.2" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.8" cy="171.5" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.0" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s7/r12ly3w14db10ly2db24r2~x2/"><circle cx="228.4" cy="189.6" r="4" fill="#3465a4"><title>Yusra (Personal)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="168.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><circle cx="220.4" cy="156.6" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/variants/s7/r12y3w14db10y2db24r2~x2/"><circle cx="231.1" cy="190.0" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><circle cx="236.6" cy="178.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Festival Intercltico de Avils (Coror"
+  url: "/tartans/f/fe/festival-intercltico-de-avils-coror/"
+- name: "Festival Intercltico de Avils (Coror"
   url: "/setts/g2k1r5w7r1db10w1db10t30y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2k1r5w7r1db10w1db10t30y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBWBRWRKG](/stripes/gbbwbrwrkg/).
+
+Part of the [Festival Intercltico de Avils (Coror](/tartans/f/fe/festival-intercltico-de-avils-coror/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

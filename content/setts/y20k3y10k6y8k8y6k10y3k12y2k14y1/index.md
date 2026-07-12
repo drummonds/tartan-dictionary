@@ -6,6 +6,8 @@ This is the **Yamaguchi Tsutomu** sett — one scale-free proportion (`y20k3y10k
 [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Yamaguchi Tsutomu](/tartans/y/ya/yamaguchi-tsutomu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

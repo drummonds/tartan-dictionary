@@ -6,6 +6,8 @@ This is the **Angus Dress 1992 (Dance)** sett — one scale-free proportion (`k3
 [KRKBWBRBRBR](/stripes/krkbwbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Angus Dress 1992](/tartans/a/an/angus-dress-1992/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

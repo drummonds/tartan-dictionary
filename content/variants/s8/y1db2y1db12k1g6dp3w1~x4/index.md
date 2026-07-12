@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lambert, Patrice"
-  url: "/tartans/lambert-patrice/"
+  url: "/tartans/l/la/lambert-patrice/"
 - name: "Lambert, Patrice (Personal)"
   url: "/setts/y1db2y1db12k1g6dp3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1db2y1db12k1g6dp3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKGBW](/stripes/gbgbkgbw/).
 
-Part of the [Lambert, Patrice](/tartans/lambert-patrice/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lambert, Patrice](/tartans/l/la/lambert-patrice/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

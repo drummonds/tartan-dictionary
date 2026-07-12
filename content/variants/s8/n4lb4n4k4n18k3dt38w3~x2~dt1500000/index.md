@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotch Mist"
+  url: "/tartans/s/sc/scotch-mist/"
+- name: "Scotch Mist"
   url: "/setts/n4lb4n4k4n18k3dt38w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4lb4n4k4n18k3dt38w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBW](/stripes/bwbkbkbw/).
+
+Part of the [Scotch Mist](/tartans/s/sc/scotch-mist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

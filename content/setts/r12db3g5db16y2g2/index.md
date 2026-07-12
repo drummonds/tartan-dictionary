@@ -6,6 +6,8 @@ This is the **Dunbog Primary School** sett — one scale-free proportion (`r12db
 [BGBGGGBGBR](/stripes/bgbgggbgbr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Dunbog Primary](/tartans/d/du/dunbog-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

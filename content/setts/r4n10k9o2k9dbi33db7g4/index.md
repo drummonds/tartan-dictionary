@@ -6,6 +6,8 @@ This is the **Anne Arundel County** sett — one scale-free proportion (`r4n10k9
 [GBBKRKBR](/stripes/gbbkrkbr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Anne Arundel County](/tartans/a/an/anne-arundel-county-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

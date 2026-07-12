@@ -6,7 +6,7 @@ This is the **Porteous** sett — one scale-free proportion (`k3y3db20g25lb18w3`
 [KGBGWW](/stripes/kgbgww/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [Porteous](/tartans/porteous/) tartan — the named design grouping this sett with its kin.
+Part of the [Porteous](/tartans/p/po/porteous/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,6 +7,8 @@ This is the **Glen Esk (1993)** sett — one scale-free proportion (`dg2r1dg8r5g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
+Part of the [Glen Esk](/tartans/g/gl/glen-esk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

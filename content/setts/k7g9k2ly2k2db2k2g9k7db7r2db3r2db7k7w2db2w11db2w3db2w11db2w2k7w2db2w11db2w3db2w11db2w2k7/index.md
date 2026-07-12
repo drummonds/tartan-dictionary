@@ -6,6 +6,8 @@ This is the **Malcolm Dress (Lochcarron 2005)** sett — one scale-free proporti
 [KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK](/stripes/kgkykbkgkbrbrbkwbwbwbwbwkwbwbwbwbwk/). It is recorded as a single **variant**, below.
 First attested **1888**.
 
+Part of the [Malcolm Dress](/tartans/m/ma/malcolm-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

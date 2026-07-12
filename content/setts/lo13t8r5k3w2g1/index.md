@@ -7,6 +7,8 @@ This is the **Ball** sett — one scale-free proportion (`lo13t8r5k3w2g1`), colo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Ball](/tartans/b/ba/ball/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

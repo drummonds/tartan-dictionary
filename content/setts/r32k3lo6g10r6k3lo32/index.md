@@ -6,6 +6,8 @@ This is the **Scrimgeour of Glassary** sett — one scale-free proportion (`r32k
 [KYGRKYKRGYKR](/stripes/kygrkykrgykr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scrimgeour of Glassary](/tartans/s/sc/scrimgeour-of-glassary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

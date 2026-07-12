@@ -6,6 +6,8 @@ This is the **Munro Old Artifact Tartan** sett — one scale-free proportion (`d
 [BRBRGRBRGRBRBR](/stripes/brbrgrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Munro Old](/tartans/m/mu/munro-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

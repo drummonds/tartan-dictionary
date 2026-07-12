@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Skene"
   url: "/clan/skene/"
 - name: "Skene"
-  url: "/tartans/skene-3/"
+  url: "/tartans/s/sk/skene-3/"
 - name: "Skene"
   url: "/setts/db24k4r3k4g24k4b4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24k4r3k4g24k4b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKB](/stripes/bkgkrkb/).
 
-Part of the [Skene](/tartans/skene-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Skene](/tartans/s/sk/skene-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Tilburg Hunting (District)** sett — one scale-free proportion (`
 [BKBGWGW](/stripes/bkbgwgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Tilburg Hunting](/tartans/t/ti/tilburg-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

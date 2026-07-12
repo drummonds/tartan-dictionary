@@ -6,6 +6,8 @@ This is the **Beckett Beaumont** sett — one scale-free proportion (`w54dti7w19
 [WBWBWGWGBGWRGBGW](/stripes/wbwbwgwgbgwrgbgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Beckett Beaumont](/tartans/b/be/beckett-beaumont/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

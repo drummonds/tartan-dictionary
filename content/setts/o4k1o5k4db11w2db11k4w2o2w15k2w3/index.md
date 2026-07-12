@@ -6,6 +6,8 @@ This is the **Tommy** sett — one scale-free proportion (`o4k1o5k4db11w2db11k4w
 [RKRKBWBKWRWKW](/stripes/rkrkbwbkwrwkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Tommy](/tartans/t/to/tommy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Edmunds"
+  url: "/tartans/s/st/st-edmunds/"
 - name: "St. Edmunds (School)"
   url: "/setts/r4t3lb11db8t2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4t3lb11db8t2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBWBR](/stripes/rbbwbr/).
+
+Part of the [St. Edmunds](/tartans/s/st/st-edmunds/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

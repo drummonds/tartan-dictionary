@@ -6,6 +6,8 @@ This is the **Hebridean Arisaid, Red/White (Dance)** sett — one scale-free pro
 [RWRYWGBKW](/stripes/rwrywgbkw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Hebridean Arisaid, Red/White](/tartans/h/he/hebridean-arisaid-red-white/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

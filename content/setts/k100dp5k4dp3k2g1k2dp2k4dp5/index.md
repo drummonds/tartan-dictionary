@@ -6,6 +6,8 @@ This is the **Webster, Colin Wesley (Personal)** sett — one scale-free proport
 [BKBKGKBKBK](/stripes/bkbkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Webster, Colin Wesley](/tartans/w/we/webster-colin-wesley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

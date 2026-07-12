@@ -6,6 +6,8 @@ This is the **Canadian Dental Association (Corp.)** sett — one scale-free prop
 [KRKGKYKRKWKBKWKBKR](/stripes/krkgkykrkwkbkwkbkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Canadian Dental Association](/tartans/c/ca/canadian-dental-association-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

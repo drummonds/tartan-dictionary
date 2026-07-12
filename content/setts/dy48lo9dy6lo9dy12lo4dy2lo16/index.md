@@ -6,6 +6,8 @@ This is the **Yellow Pencil (Corporate)** sett — one scale-free proportion (`d
 [GYGYGYGY](/stripes/gygygygy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Yellow Pencil](/tartans/y/ye/yellow-pencil-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

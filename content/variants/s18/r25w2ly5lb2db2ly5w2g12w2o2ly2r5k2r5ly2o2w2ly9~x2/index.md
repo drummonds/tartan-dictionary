@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell, New Louden"
+  url: "/tartans/c/ca/campbell-new-louden-2/"
 - name: "Campbell, New Louden"
   url: "/setts/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYWBYWGWRYRKRYRWY](/stripes/rwywbywgwryrkryrwy/).
+
+Part of the [Campbell, New Louden](/tartans/c/ca/campbell-new-louden-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

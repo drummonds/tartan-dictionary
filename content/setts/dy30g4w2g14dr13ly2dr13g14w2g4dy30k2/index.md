@@ -6,6 +6,8 @@ This is the **Red Rum** sett — one scale-free proportion (`dy30g4w2g14dr13ly2d
 [GGWGBYBGWGGK](/stripes/ggwgbybgwggk/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Red Rum](/tartans/r/re/red-rum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

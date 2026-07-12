@@ -6,7 +6,7 @@ This is the **Guthrie (Name)** sett — one scale-free proportion (`k1g12k12r1k1
 [KGKRKRKBR](/stripes/kgkrkrkbr/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
-Part of the [Guthrie](/tartans/guthrie-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Guthrie](/tartans/g/gu/guthrie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

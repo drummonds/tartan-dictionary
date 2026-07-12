@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Justerini & Brooks"
+  url: "/tartans/j/ju/justerini-brooks/"
+- name: "Justerini & Brooks"
   url: "/setts/o48ly14o9dg14k6o11g6o10dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o48ly14o9dg14k6o11g6o10dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKGRYR](/stripes/grgrkgryr/).
+
+Part of the [Justerini & Brooks](/tartans/j/ju/justerini-brooks/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Breon (Personal)** sett — one scale-free proportion (`t25g25k6db
 [BGKBR](/stripes/bgkbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Breon](/tartans/breon/) tartan — the named design grouping this sett with its kin.
+Part of the [Breon](/tartans/b/br/breon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

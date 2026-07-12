@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKean"
-  url: "/tartans/mackean-3/"
+  url: "/tartans/m/ma/mackean-3/"
 - name: "MacKean"
   url: "/setts/r2k4r2k4db1w1db4r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k4r2k4db1w1db4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBKRKR](/stripes/rbwbkrkr/).
 
-Part of the [MacKean](/tartans/mackean-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKean](/tartans/m/ma/mackean-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

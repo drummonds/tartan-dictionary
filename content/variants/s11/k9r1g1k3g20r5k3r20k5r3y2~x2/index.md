@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Army Cadet Force"
+  url: "/tartans/a/ar/army-cadet-force/"
 - name: "Army Cadet Force (Military)"
   url: "/setts/k9r1g1k3g20r5k3r20k5r3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9r1g1k3g20r5k3r20k5r3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRGKGRK](/stripes/grkrkrgkgrk/).
+
+Part of the [Army Cadet Force](/tartans/a/ar/army-cadet-force/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

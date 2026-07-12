@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Culloden, Gold"
+  url: "/tartans/c/cu/culloden-gold/"
+- name: "Culloden, Gold"
   url: "/setts/r5lb2b14w2k13y13k2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5lb2b14w2k13y13k2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKGKY](/stripes/rwbwkgky/).
+
+Part of the [Culloden, Gold](/tartans/c/cu/culloden-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

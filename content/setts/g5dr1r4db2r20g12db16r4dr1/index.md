@@ -6,6 +6,8 @@ This is the **Diana Princess of Wales** sett — one scale-free proportion (`g5d
 [BRBGRBRBG](/stripes/brbgrbrbg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Diana Princess of Wales](/tartans/d/di/diana-princess-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

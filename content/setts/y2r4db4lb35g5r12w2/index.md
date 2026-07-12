@@ -6,6 +6,8 @@ This is the **Nicolson of the Isles (Personal)** sett — one scale-free proport
 [GRBWGRW](/stripes/grbwgrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Nicolson of the Isles](/tartans/n/ni/nicolson-of-the-isles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

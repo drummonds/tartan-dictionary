@@ -6,6 +6,8 @@ This is the **Unidentified Furnishing** sett — one scale-free proportion (`db2
 [BKYKWKGBBBK](/stripes/bkykwkgbbbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Furnishing](/tartans/u/un/unidentified-furnishing-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cowal Highland Gathering"
+  url: "/tartans/c/co/cowal-highland-gathering/"
+- name: "Cowal Highland Gathering"
   url: "/setts/dg2g8dt1g1dt1g1dt8db9n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2g8dt1g1dt1g1dt8db9n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGG](/stripes/bbbgbgbgg/).
+
+Part of the [Cowal Highland Gathering](/tartans/c/co/cowal-highland-gathering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

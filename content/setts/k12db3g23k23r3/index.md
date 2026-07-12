@@ -6,7 +6,7 @@ This is the **Douglas, (Black)** sett — one scale-free proportion (`k12db3g23k
 [KBGKR](/stripes/kbgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Douglas](/tartans/douglas-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/d/do/douglas-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

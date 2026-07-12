@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Indigo Blue Works"
+  url: "/tartans/i/in/indigo-blue-works/"
+- name: "Indigo Blue Works"
   url: "/setts/db9k1dbi4k1db18b5k1b1k1b5db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k1dbi4k1db18b5k1b1k1b5db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/).
+
+Part of the [Indigo Blue Works](/tartans/i/in/indigo-blue-works/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

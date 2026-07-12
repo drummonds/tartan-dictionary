@@ -6,7 +6,7 @@ This is the **Hughes** sett — one scale-free proportion (`g20dg14db9y2db9k1w2`
 [GGBGBKW](/stripes/ggbgbkw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Hughes](/tartans/hughes-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Hughes](/tartans/h/hu/hughes-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

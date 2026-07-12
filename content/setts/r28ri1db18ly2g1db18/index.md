@@ -6,6 +6,8 @@ This is the **European Judo Union** sett — one scale-free proportion (`r28ri1d
 [BGYBRR](/stripes/bgybrr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [European Judo Union](/tartans/e/eu/european-judo-union/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

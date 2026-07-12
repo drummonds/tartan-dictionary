@@ -6,6 +6,8 @@ This is the **Thompson (Dance)** sett — one scale-free proportion (`lb1w6b1lb3
 [WKWBWW](/stripes/wkwbww/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Thompson](/tartans/t/th/thompson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Wirth, Iwan (Personal)** sett — one scale-free proportion (`do96
 [BBGGRBWBBGGWBGWGGBWBGGGGG](/stripes/bbggrbwbbggwbgwggbwbggggg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Wirth, Iwan](/tartans/wirth-iwan/) tartan — the named design grouping this sett with its kin.
+Part of the [Wirth, Iwan](/tartans/w/wi/wirth-iwan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

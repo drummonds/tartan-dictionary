@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacEwan"
-  url: "/tartans/macewan/"
+  url: "/tartans/m/ma/macewan/"
 - name: "MacEwen Clan Tartan"
   url: "/setts/r2k1g12k12db12k1db2k1db12k12g12k1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k1g12k12db12k1db2k1db12k12g12k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKBKBKGKR](/stripes/gkgkbkbkbkgkr/).
 
-Part of the [MacEwan](/tartans/macewan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacEwan](/tartans/m/ma/macewan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leatherneck U.S.Marine Corps"
-  url: "/tartans/leatherneck-u-s-marine-corps/"
+  url: "/tartans/l/le/leatherneck-u-s-marine-corps/"
 - name: "Leatherneck, U.S.Marine Corps"
   url: "/setts/g28r2g2r2g8db24y3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g28r2g2r2g8db24y3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBGR](/stripes/grgrgbgr/).
 
-Part of the [Leatherneck U.S.Marine Corps](/tartans/leatherneck-u-s-marine-corps/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leatherneck U.S.Marine Corps](/tartans/l/le/leatherneck-u-s-marine-corps/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

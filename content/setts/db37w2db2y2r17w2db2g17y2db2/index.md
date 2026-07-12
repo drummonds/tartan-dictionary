@@ -6,6 +6,8 @@ This is the **MDF (Personal)** sett — one scale-free proportion (`db37w2db2y2r
 [BGGBWRGBWB](/stripes/bggbwrgbwb/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [MDF](/tartans/m/md/mdf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

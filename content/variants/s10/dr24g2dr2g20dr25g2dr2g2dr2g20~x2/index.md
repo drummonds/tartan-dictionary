@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Donachie"
+  url: "/clan/donachie/"
+- name: "Donachie of Brockloch"
+  url: "/families/donachie-of-brockloch/"
+- name: "Donachie of Brockloch"
+  url: "/tartans/d/do/donachie-of-brockloch/"
 - name: "Donachie of Brockloch"
   url: "/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
+
+Part of the [Donachie of Brockloch](/tartans/d/do/donachie-of-brockloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Marshall University** sett — one scale-free proportion (`g25w1dg
 [GWGWGKWG](/stripes/gwgwgkwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Marshall University](/tartans/m/ma/marshall-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

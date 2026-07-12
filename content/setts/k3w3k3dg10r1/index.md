@@ -6,6 +6,8 @@ This is the **Burberry Hunting** sett — one scale-free proportion (`k3w3k3dg10
 [KWKGR](/stripes/kwkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Burberry Hunting](/tartans/b/bu/burberry-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

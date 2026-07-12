@@ -6,6 +6,8 @@ This is the **London Scottish Rugby Club Corporate Sport Tartan** sett — one s
 [GBWBRBWBGK](/stripes/gbwbrbwbgk/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [London Scottish Rugby Club Corporate Sport](/tartans/l/lo/london-scottish-rugby-club-corporate-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

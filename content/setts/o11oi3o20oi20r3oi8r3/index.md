@@ -6,6 +6,8 @@ This is the **Miyuki, House Check Tan, 1004A** sett — one scale-free proportio
 [RRRRRRR](/stripes/rrrrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Miyuki, House Check Tan, 1004A](/tartans/m/mi/miyuki-house-check-tan-1004a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

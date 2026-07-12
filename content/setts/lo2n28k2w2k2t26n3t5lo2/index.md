@@ -6,6 +6,8 @@ This is the **Clyde (WCWM Fashion)** sett — one scale-free proportion (`lo2n28
 [YBBBKWKBY](/stripes/ybbbkwkby/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Clyde](/tartans/c/cl/clyde-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **O'Mahony, The** sett — one scale-free proportion (`g2r2g18o6db40
 [GRGRBYBYWYBYBRGRGW](/stripes/grgrbybywybybrgrgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [O'Mahony, The](/tartans/o/o/o-mahony-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

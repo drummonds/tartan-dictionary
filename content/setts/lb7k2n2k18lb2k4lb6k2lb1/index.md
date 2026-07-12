@@ -6,6 +6,8 @@ This is the **Wcwm 972-2** sett — one scale-free proportion (`lb7k2n2k18lb2k4l
 [WKKBKWKKKWKKW](/stripes/wkkbkwkkkwkkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 972-2](/tartans/w/wc/wcwm-972-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

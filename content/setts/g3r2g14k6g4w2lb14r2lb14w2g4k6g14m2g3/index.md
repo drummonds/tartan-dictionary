@@ -6,6 +6,8 @@ This is the **Scottish Heritage USA (SHUSA)** sett — one scale-free proportion
 [GRGKGWWRWWGKGRGRGKGWWRWWGKGR](/stripes/grgkgwwrwwgkgrgrgkgwwrwwgkgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Scottish Heritage USA](/tartans/s/sc/scottish-heritage-usa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

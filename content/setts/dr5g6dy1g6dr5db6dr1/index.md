@@ -6,7 +6,7 @@ This is the **Gleneagles Group Corporate Tartan** sett — one scale-free propor
 [BBBGGGB](/stripes/bbbgggb/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [Gleneagles Group](/tartans/gleneagles-group/) tartan — the named design grouping this sett with its kin.
+Part of the [Gleneagles Group](/tartans/g/gl/gleneagles-group/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

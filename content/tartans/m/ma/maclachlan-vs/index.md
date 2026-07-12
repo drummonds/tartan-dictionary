@@ -1,0 +1,41 @@
+---
+title: "MacLachlan VS"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
+---
+A tartan of [Clan MacLachlan](/clan/maclachlan/).
+Its design is pattern [GKGKGKGK](/stripes/gkgkgkgk/) — the page of every tartan sharing this colour sequence.
+
+The **MacLachlan VS** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></td><td><code>K/6 Y2 K21 Y2 K6 Y24 K2 Y/6</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k6y2k21y2k6y24k2y6/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a> · <a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacLachlan 4
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">126</div><div class="nn-name nn-base"><a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6y2k21y2k6y24k2y6~x2&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">0.00</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k6y2k21y2k6y24k2y6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6ly2k21ly2k6ly24k2ly6~x2&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">0.18</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/">MacLachlan (Chief's Dress)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4y2k27y2k8y31k2y4~x2&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">0.30</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/">Watertown Library Assoc.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3ly1k8ly9k1ly1k1ly1k2~x4&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">1.66</a></div><div class="nn-threads">196</div><div class="nn-name"><a href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/">Justus Black &amp; Gold (Angus) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6y20k6y4k4y10k8y2k5~x2&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">1.68</a></div><div class="nn-threads">238</div><div class="nn-name"><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/">Bute Heather, Black</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1k4y1k4y11dr1y1~x4&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">176</div><div class="nn-name nn-far"><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/">Baileville (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y1k4y1k4y11dr1y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k10n1k2n1k4n10k1n2~x4&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/">Douglas, Grey (Vestiarium Scoticum)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k9n1k2n1k4n9k1n2~x4&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/">Douglas, Grey Clan/Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k9n1k2n1k4n9k1n2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y12r1y2k4r1k4y2k1~x4&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/">MacLeod (Snuffbox)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k2y6k2y11k9r1~x2&amp;base=k6y2k21y2k6y24k2y6" title="compare in the TTD">3.03</a></div><div class="nn-threads nn-far2">118</div><div class="nn-name nn-far2"><a href="/variants/s6/k2y6k2y11k9r1~x2/">Porter Drinkers', The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2y6k2y11k9r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/"><circle cx="305.5" cy="186.5" r="4" fill="#3465a4"><title>MacLachlan 4</title></circle></a><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><circle cx="292.2" cy="187.2" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress)</title></circle></a><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="308.8" cy="146.4" r="4" fill="#3465a4"><title>Watertown Library Assoc.</title></circle></a><a href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/"><circle cx="272.9" cy="164.3" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/"><circle cx="289.3" cy="206.7" r="4" fill="#3465a4"><title>Bute Heather, Black</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.5" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/"><circle cx="327.9" cy="198.5" r="4" fill="#3465a4"><title>Douglas, Grey (Vestiarium Scoticum)</title></circle></a><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><circle cx="322.9" cy="206.3" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan</title></circle></a><a href="/variants/s9/k1y12r1y2k4r1k4y2k1~x4/"><circle cx="295.4" cy="154.3" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.8" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><circle cx="305.5" cy="186.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

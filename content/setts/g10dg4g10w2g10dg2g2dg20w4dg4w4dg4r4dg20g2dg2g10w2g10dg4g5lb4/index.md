@@ -7,6 +7,8 @@ This is the **Toshach** sett — one scale-free proportion (`g10dg4g10w2g10dg2g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Toshach](/tartans/t/to/toshach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

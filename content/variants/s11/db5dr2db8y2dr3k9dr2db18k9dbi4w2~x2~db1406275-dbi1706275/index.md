@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Gourock Yacht Club, The"
-  url: "/tartans/royal-gourock-yacht-club-the/"
+  url: "/tartans/r/ro/royal-gourock-yacht-club-the/"
 - name: "Royal Gourock Yacht Club, The"
   url: "/setts/db5dr2db8y2dr3k9dr2db18k9dbi4w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db5dr2db8y2dr3k9dr2db18k9dbi4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBKBBKBW](/stripes/bbbgbkbbkbw/).
 
-Part of the [Royal Gourock Yacht Club, The](/tartans/royal-gourock-yacht-club-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Gourock Yacht Club, The](/tartans/r/ro/royal-gourock-yacht-club-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

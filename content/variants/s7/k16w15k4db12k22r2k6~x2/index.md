@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sanley-Cantamessa"
+  url: "/tartans/s/sa/sanley-cantamessa/"
 - name: "Sanley-Cantamessa (Personal)"
   url: "/setts/k16w15k4db12k22r2k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16w15k4db12k22r2k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBKWK](/stripes/krkbkwk/).
+
+Part of the [Sanley-Cantamessa](/tartans/s/sa/sanley-cantamessa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

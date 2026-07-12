@@ -6,6 +6,8 @@ This is the **Orkney District Tartan** sett — one scale-free proportion (`o3g1
 [RGWKGRKY](/stripes/rgwkgrky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Orkney](/tartans/o/or/orkney-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

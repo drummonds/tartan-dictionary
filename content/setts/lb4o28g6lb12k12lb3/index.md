@@ -6,6 +6,8 @@ This is the **MacTavish / Thom(p)son, hunting** sett — one scale-free proporti
 [WKWGRW](/stripes/wkwgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Thomson, Lord](/tartans/t/th/thomson-lord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Mariverain** sett — one scale-free proportion (`db3b8db5r1db5b2y
 [BBBRBBGBRBG](/stripes/bbbrbbgbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mariverain](/tartans/m/ma/mariverain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

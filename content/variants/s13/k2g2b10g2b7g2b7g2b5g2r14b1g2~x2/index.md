@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Affric, Fragment"
+  url: "/tartans/g/gl/glen-affric-fragment/"
 - name: "Glen Affric, Fragment"
   url: "/setts/k2g2b10g2b7g2b7g2b5g2r14b1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g2b10g2b7g2b7g2b5g2r14b1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGBGBGBGBGK](/stripes/gbrgbgbgbgbgk/).
+
+Part of the [Glen Affric, Fragment](/tartans/g/gl/glen-affric-fragment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

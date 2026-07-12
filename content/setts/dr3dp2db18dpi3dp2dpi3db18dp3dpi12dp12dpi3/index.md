@@ -6,6 +6,8 @@ This is the **Royal Delight** sett — one scale-free proportion (`dr3dp2db18dpi
 [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Royal Delight](/tartans/r/ro/royal-delight/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

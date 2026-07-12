@@ -6,6 +6,8 @@ This is the **MacAulay of Lewis** sett — one scale-free proportion (`g6k16r3k1
 [GKRKGKGW](/stripes/gkrkgkgw/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [MacAulay of Lewis](/tartans/m/ma/macaulay-of-lewis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

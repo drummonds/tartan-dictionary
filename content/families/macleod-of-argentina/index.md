@@ -18,5 +18,5 @@ A family of [Clan MacLeod](/clan/macleod/).
 </tbody>
 </table>
 
-[See the MacLeod of Argentina tartan and all its setts →](/tartans/macleod-of-argentina/)
+[See the MacLeod of Argentina tartan and all its setts →](/tartans/m/ma/macleod-of-argentina/)
 

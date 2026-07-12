@@ -6,6 +6,8 @@ This is the **Dutch Football (Corporate)** sett — one scale-free proportion (`
 [BWRY](/stripes/bwry/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Dutch Football](/tartans/d/du/dutch-football/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

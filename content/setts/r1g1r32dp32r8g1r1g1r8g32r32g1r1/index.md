@@ -6,7 +6,7 @@ This is the **Unnamed 18th century plaid from Rothiemurchus** sett — one scale
 [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
-Part of the [Grant of Rothiemurchus](/tartans/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Rothiemurchus](/tartans/g/gr/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Meath, County** sett — one scale-free proportion (`ly5db2r14do9d
 [YBRBGBRBRBGY](/stripes/ybrbgbrbrbgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Meath, County](/tartans/m/me/meath-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

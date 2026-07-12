@@ -6,7 +6,7 @@ This is the **Lasting** sett — one scale-free proportion (`w8dp7w2y6w2ly4w2dp4
 [WBWGWYWBWYWGWBWBWRWRGRW](/stripes/wbwgwywbwywgwbwbwrwrgrw/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
-Part of the [Lasting](/tartans/lasting/) tartan — the named design grouping this sett with its kin.
+Part of the [Lasting](/tartans/l/la/lasting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

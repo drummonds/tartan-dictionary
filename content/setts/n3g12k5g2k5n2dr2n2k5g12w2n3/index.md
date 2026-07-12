@@ -6,6 +6,8 @@ This is the **Wilcox, Yu, Cruikshank Reunion** sett — one scale-free proportio
 [BGKGKBBBKGWB](/stripes/bgkgkbbbkgwb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Wilcox, Yu, Cruikshank Reunion](/tartans/w/wi/wilcox-yu-cruikshank-reunion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

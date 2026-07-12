@@ -6,6 +6,8 @@ This is the **Madewell** sett — one scale-free proportion (`r2k2w2k14dg13g6y2k
 [RKWKGGGKW](/stripes/rkwkgggkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Madewell](/tartans/m/ma/madewell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Estonian National Tartan Estonian District Tartan** sett — one s
 [BGRGBKBKWKBKBKWKBK](/stripes/bgrgbkbkwkbkbkwkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Estonian National Tartan Estonian](/tartans/e/es/estonian-national-tartan-estonian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

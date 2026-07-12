@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Minnick"
+  url: "/tartans/m/mi/minnick/"
 - name: "Minnock (Name)"
   url: "/setts/db50k14g3dr2g3dr2g3dr2g3k2lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50k14g3dr2g3dr2g3dr2g3k2lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBGKY](/stripes/bkgbgbgbgky/).
+
+Part of the [Minnick](/tartans/m/mi/minnick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

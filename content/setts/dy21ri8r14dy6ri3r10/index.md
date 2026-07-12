@@ -6,6 +6,8 @@ This is the **Kozlosky (Personal)** sett — one scale-free proportion (`dy21ri8
 [RGRRGRRGRR](/stripes/rgrrgrrgrr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Kozlosky](/tartans/k/ko/kozlosky-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

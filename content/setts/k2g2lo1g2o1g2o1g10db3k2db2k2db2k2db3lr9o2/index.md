@@ -6,6 +6,8 @@ This is the **Kennedy Dress, (Pendleton)** sett — one scale-free proportion (`
 [KGYGRGRGBKBKBKBYR](/stripes/kgygrgrgbkbkbkbyr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Kennedy Dress](/tartans/k/ke/kennedy-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

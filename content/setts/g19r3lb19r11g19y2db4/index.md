@@ -6,7 +6,7 @@ This is the **Rotary Corporate Tartan** sett — one scale-free proportion (`g19
 [BGGRWRG](/stripes/bggrwrg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Rotary](/tartans/rotary-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Rotary](/tartans/r/ro/rotary-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

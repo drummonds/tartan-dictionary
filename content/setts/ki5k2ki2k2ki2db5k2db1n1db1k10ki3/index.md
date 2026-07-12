@@ -6,6 +6,8 @@ This is the **Hopkins (Welsh Name)** sett — one scale-free proportion (`ki5k2k
 [KKBBBKBKKKKK](/stripes/kkbbbkbkkkkk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hopkins](/tartans/h/ho/hopkins-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

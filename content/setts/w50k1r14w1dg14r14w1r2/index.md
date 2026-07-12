@@ -6,7 +6,7 @@ This is the **Wilson's Blanket Pattern** sett — one scale-free proportion (`w5
 [RWRGWRKW](/stripes/rwrgwrkw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Wilson's Blanket Pattern](/tartans/wilson-s-blanket-pattern/) tartan — the named design grouping this sett with its kin.
+Part of the [Wilson's Blanket Pattern](/tartans/w/wi/wilson-s-blanket-pattern/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Gordon, dress 5** sett — one scale-free proportion (`w6db3w18k5w
 [WBWBRGRBWKWBW](/stripes/wbwbrgrbwkwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gordon, dress 5](/tartans/g/go/gordon-dress-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

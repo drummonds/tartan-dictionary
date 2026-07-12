@@ -10,7 +10,7 @@ crumbs:
 - name: "Drummond of Megginch"
   url: "/families/drummond-of-megginch/"
 - name: "Drummond of Megginch"
-  url: "/tartans/drummond-of-megginch/"
+  url: "/tartans/d/dr/drummond-of-megginch/"
 - name: "Drummond of Megginch - 1820 Plaid"
   url: "/setts/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-Part of the [Drummond of Megginch](/tartans/drummond-of-megginch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 

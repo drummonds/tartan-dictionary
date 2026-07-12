@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Women's Wear Daily Hunting"
+  url: "/tartans/w/wo/women-s-wear-daily-hunting/"
 - name: "Women's Wear Daily Hunting (Fashion)"
   url: "/setts/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRKW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrkw/).
+
+Part of the [Women's Wear Daily Hunting](/tartans/w/wo/women-s-wear-daily-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

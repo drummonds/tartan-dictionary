@@ -6,6 +6,8 @@ This is the **Cowal Highland Games Corporate Tartan** sett — one scale-free pr
 [BBBGBGBGGGBGBGBB](/stripes/bbbgbgbgggbgbgbb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Cowal Highland Games](/tartans/c/co/cowal-highland-games/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

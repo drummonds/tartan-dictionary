@@ -6,6 +6,8 @@ This is the **Gifford (Personal)** sett — one scale-free proportion (`k15r8y2d
 [KBKBGRK](/stripes/kbkbgrk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Gifford](/tartans/g/gi/gifford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

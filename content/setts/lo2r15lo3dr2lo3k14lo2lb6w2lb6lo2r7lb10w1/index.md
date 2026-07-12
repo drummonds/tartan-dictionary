@@ -6,6 +6,8 @@ This is the **Dalrymple of Castleton** sett — one scale-free proportion (`lo2r
 [WWRYWWWYKYBYRY](/stripes/wwrywwwykybyry/). It is recorded as a single **variant**, below.
 First attested **1720**.
 
+Part of the [Dalrymple of Castleton](/tartans/d/da/dalrymple-of-castleton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

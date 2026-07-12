@@ -6,6 +6,8 @@ This is the **Irving of Bonshaw Tower (Personal)** sett — one scale-free propo
 [BGBGBY](/stripes/bgbgby/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Irving of Bonshaw Tower](/tartans/i/ir/irving-of-bonshaw-tower-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

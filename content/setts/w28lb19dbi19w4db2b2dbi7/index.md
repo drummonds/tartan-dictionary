@@ -7,6 +7,8 @@ This is the **St Andrews, Earl of, dress** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [St Andrews, Earl of, dress](/tartans/s/st/st-andrews-earl-of-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

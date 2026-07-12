@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen Boig"
-  url: "/tartans/glen-boig-2/"
+  url: "/tartans/g/gl/glen-boig-2/"
 - name: "Glen Boig Trade Tartan"
   url: "/setts/g37dy9g3do9dy3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g37dy9g3do9dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGG](/stripes/gbggg/).
 
-Part of the [Glen Boig](/tartans/glen-boig-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen Boig](/tartans/g/gl/glen-boig-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

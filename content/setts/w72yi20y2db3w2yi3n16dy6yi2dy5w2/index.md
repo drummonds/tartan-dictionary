@@ -6,6 +6,8 @@ This is the **Stewart Blue Dress Clan Tartan** sett — one scale-free proportio
 [WGGBWGBGGGW](/stripes/wggbwgbgggw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Stewart Blue Dress](/tartans/s/st/stewart-blue-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

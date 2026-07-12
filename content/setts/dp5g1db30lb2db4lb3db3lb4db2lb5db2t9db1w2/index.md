@@ -6,6 +6,8 @@ This is the **Crombie, Harry (Personal)** sett — one scale-free proportion (`d
 [BGBWBWBWBWBBBW](/stripes/bgbwbwbwbwbbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Crombie, Harry](/tartans/c/cr/crombie-harry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

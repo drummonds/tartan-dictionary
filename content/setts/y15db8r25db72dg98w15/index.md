@@ -6,7 +6,7 @@ This is the **Afternoon Tea / Darjeeling** sett — one scale-free proportion (`
 [GBRBGW](/stripes/gbrbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Afternoon Tea / Darjeeling](/tartans/afternoon-tea-darjeeling/) tartan — the named design grouping this sett with its kin.
+Part of the [Afternoon Tea / Darjeeling](/tartans/a/af/afternoon-tea-darjeeling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

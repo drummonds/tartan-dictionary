@@ -6,7 +6,7 @@ This is the **MacDuff Hunting** sett — one scale-free proportion (`do10r2do10g
 [BRBGKBBR](/stripes/brbgkbbr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacDuff Hunting](/tartans/macduff-hunting-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDuff Hunting](/tartans/m/ma/macduff-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,12 +7,16 @@ crumbs:
   url: "/"
 - name: "Ancient"
   url: "/groups/ancient/"
+- name: "Hallstatt"
+  url: "/tartans/h/ha/hallstatt/"
 - name: "Hallstatt (Artefact)"
   url: "/setts/g16dy3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16dy3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGG](/stripes/ggg/).
+
+Part of the [Hallstatt](/tartans/h/ha/hallstatt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

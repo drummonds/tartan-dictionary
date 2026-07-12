@@ -6,6 +6,8 @@ This is the **Douglas Grey Dress Clan Tartan** sett — one scale-free proportio
 [BWKWKBKGKRBKBKBKBKR](/stripes/bwkwkbkgkrbkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Douglas Ancient Dress](/tartans/d/do/douglas-ancient-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

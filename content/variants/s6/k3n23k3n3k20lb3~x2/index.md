@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of the Forth"
-  url: "/tartans/pride-of-the-forth/"
+  url: "/tartans/p/pr/pride-of-the-forth/"
 - name: "Pride of the Forth"
   url: "/setts/k3n23k3n3k20lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3n23k3n3k20lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKW](/stripes/kbkbkw/).
 
-Part of the [Pride of the Forth](/tartans/pride-of-the-forth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pride of the Forth](/tartans/p/pr/pride-of-the-forth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Justus dress** sett — one scale-free proportion (`db1w4r1w1y1w4d
 [BWGWRWB](/stripes/bwgwrwb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Justus dress](/tartans/j/ju/justus-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Stewart Navy Clan Tartan** sett — one scale-free proportion (`db
 [BBWBWYBWBY](/stripes/bbwbwybwby/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Stewart Navy](/tartans/s/st/stewart-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

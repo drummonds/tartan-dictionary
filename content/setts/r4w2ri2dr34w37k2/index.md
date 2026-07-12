@@ -6,6 +6,8 @@ This is the **Papalia, Special Dress** sett — one scale-free proportion (`r4w2
 [KWBRWR](/stripes/kwbrwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Papalia, Special Dress](/tartans/p/pa/papalia-special-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenmoidart** sett — one scale-free proportion (`dy2w3ly2dy2w3ly
 [GWYGWYGWYGWYGWYGWYGWYGWYGWR](/stripes/gwygwygwygwygwygwygwygwygwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glenmoidart](/tartans/g/gl/glenmoidart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

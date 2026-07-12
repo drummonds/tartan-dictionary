@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lanark Highlands"
+  url: "/tartans/l/la/lanark-highlands/"
+- name: "Lanark Highlands"
   url: "/setts/n2w11lb3g2y1g1r2g10db4ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2w11lb3g2y1g1r2g10db4ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGGGRGBY](/stripes/bwwgggrgby/).
+
+Part of the [Lanark Highlands](/tartans/l/la/lanark-highlands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

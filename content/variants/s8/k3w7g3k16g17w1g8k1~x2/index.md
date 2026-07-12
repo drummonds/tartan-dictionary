@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Utah Valley University"
+  url: "/tartans/u/ut/utah-valley-university/"
+- name: "Utah Valley University"
   url: "/setts/k3w7g3k16g17w1g8k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3w7g3k16g17w1g8k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGKGWK](/stripes/kgwgkgwk/).
+
+Part of the [Utah Valley University](/tartans/u/ut/utah-valley-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

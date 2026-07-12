@@ -7,6 +7,8 @@ This is the **Alabama (Provisional)** sett — one scale-free proportion (`ri5w3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Alabama](/tartans/a/al/alabama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

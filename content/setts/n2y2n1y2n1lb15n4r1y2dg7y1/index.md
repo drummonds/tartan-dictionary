@@ -6,6 +6,8 @@ This is the **Hutt #1 (Personal)** sett — one scale-free proportion (`n2y2n1y2
 [BGBGBWBRGGG](/stripes/bgbgbwbrggg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Hutt](/tartans/h/hu/hutt-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

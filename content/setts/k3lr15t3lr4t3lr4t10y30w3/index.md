@@ -6,6 +6,8 @@ This is the **Highland Road (Fashion)** sett — one scale-free proportion (`k3l
 [KYBYBYBGW](/stripes/kybybybgw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Highland Road](/tartans/h/hi/highland-road/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crieff Hydro Hotel"
+  url: "/tartans/c/cr/crieff-hydro-hotel/"
+- name: "Crieff Hydro Hotel"
   url: "/setts/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/).
+
+Part of the [Crieff Hydro Hotel](/tartans/c/cr/crieff-hydro-hotel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

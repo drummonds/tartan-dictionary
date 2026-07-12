@@ -6,7 +6,7 @@ This is the **Estes** sett — one scale-free proportion (`r4g1r1g5k1lo1k1lo1k6l
 [RGRGKYKYKWKWWWW](/stripes/rgrgkykykwkwwww/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Estes](/tartans/estes/) tartan — the named design grouping this sett with its kin.
+Part of the [Estes](/tartans/e/es/estes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

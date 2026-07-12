@@ -6,6 +6,8 @@ This is the **One Account (Corporate)** sett — one scale-free proportion (`y6w
 [GWGR](/stripes/gwgr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [One Account](/tartans/o/on/one-account-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

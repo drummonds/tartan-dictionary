@@ -6,6 +6,8 @@ This is the **Farooq in Livingston (Personal)** sett — one scale-free proporti
 [BGWR](/stripes/bgwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Farooq in Livingston](/tartans/f/fa/farooq-in-livingston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

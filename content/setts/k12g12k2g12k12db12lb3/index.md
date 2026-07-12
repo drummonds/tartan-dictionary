@@ -6,6 +6,8 @@ This is the **MacIntyre Hunting Clan Tartan** sett — one scale-free proportion
 [KGKGKBW](/stripes/kgkgkbw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [MacIntyre](/tartans/m/ma/macintyre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

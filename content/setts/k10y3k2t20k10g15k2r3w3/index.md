@@ -6,6 +6,8 @@ This is the **McCuaig (Glenelg and the Western Isles)** sett — one scale-free 
 [KGKBKGKRW](/stripes/kgkbkgkrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [McCuaig](/tartans/m/mc/mccuaig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

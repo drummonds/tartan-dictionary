@@ -6,6 +6,8 @@ This is the **Harding Personal Tartan** sett — one scale-free proportion (`g30
 [BWRBRBBG](/stripes/bwrbrbbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Harding](/tartans/h/ha/harding-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

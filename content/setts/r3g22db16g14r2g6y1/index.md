@@ -6,7 +6,7 @@ This is the **Scottish Scouts Corporate Tartan** sett — one scale-free proport
 [GGRGBGR](/stripes/ggrgbgr/). It is recorded as a single **variant**, below.
 First attested **1957**.
 
-Part of the [Scottish Scouts](/tartans/scottish-scouts-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

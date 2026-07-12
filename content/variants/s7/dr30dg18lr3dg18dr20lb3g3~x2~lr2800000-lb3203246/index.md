@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tartan for London, A"
+  url: "/tartans/t/ta/tartan-for-london-a/"
 - name: "Tartan for London, A (Fashion)"
   url: "/setts/dr30dg18lr3dg18dr20lb3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr30dg18lr3dg18dr20lb3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGBWG](/stripes/bgygbwg/).
+
+Part of the [Tartan for London, A](/tartans/t/ta/tartan-for-london-a/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

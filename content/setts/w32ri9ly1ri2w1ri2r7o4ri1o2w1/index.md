@@ -6,6 +6,8 @@ This is the **Canna** sett — one scale-free proportion (`w32ri9ly1ri2w1ri2r7o4
 [WRRRRRWRYRW](/stripes/wrrrrrwryrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Canna](/tartans/c/ca/canna-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Le Cercle des Femmes (Corporate)** sett — one scale-free proport
 [KGWBGGKGBKWBGYKWK](/stripes/kgwbggkgbkwbgykwk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Le Cercle des Femmes](/tartans/l/le/le-cercle-des-femmes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

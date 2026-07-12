@@ -6,7 +6,7 @@ This is the **De Grussa** sett — one scale-free proportion (`db24w4db24y4dr5k4
 [BWBGBK](/stripes/bwbgbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [De Grussa](/tartans/de-grussa/) tartan — the named design grouping this sett with its kin.
+Part of the [De Grussa](/tartans/d/de/de-grussa/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

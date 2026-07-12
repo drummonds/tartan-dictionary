@@ -6,6 +6,8 @@ This is the **McNee (Name)** sett — one scale-free proportion (`k9w2dr50g42dr1
 [KGBGBWK](/stripes/kgbgbwk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [McNee](/tartans/m/mc/mcnee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

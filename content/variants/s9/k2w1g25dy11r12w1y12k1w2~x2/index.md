@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leaf Peeper"
-  url: "/tartans/leaf-peeper/"
+  url: "/tartans/l/le/leaf-peeper/"
 - name: "Leaf Peeper"
   url: "/setts/k2w1g25dy11r12w1y12k1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2w1g25dy11r12w1y12k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGGRWGKW](/stripes/kwggrwgkw/).
 
-Part of the [Leaf Peeper](/tartans/leaf-peeper/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leaf Peeper](/tartans/l/le/leaf-peeper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

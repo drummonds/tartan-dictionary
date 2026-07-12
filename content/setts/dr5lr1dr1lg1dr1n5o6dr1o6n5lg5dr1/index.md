@@ -6,6 +6,8 @@ This is the **Lakin (Personal)** sett — one scale-free proportion (`dr5lr1dr1l
 [BYBRBRBBYBYB](/stripes/bybrbrbbybyb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Lakin](/tartans/l/la/lakin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

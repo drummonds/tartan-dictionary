@@ -6,6 +6,8 @@ This is the **Harmony, 9** sett — one scale-free proportion (`o2y10r15o10y2`),
 [GRRGR](/stripes/grrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harmony, 9](/tartans/h/ha/harmony-9-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

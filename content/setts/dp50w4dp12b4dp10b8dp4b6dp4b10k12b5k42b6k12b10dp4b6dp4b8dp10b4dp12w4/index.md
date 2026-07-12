@@ -6,6 +6,8 @@ This is the **Institute of Directors (Corporate)** sett — one scale-free propo
 [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Institute of Directors](/tartans/i/in/institute-of-directors/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

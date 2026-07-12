@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Uddingston Rugby Club Centenary (Cor"
+  url: "/tartans/u/ud/uddingston-rugby-club-centenary-cor/"
+- name: "Uddingston Rugby Club Centenary (Cor"
   url: "/setts/r24t14ly2t3k2t6r38ly1lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24t14ly2t3k2t6r38ly1lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYBKBRYY](/stripes/rbybkbryy/).
+
+Part of the [Uddingston Rugby Club Centenary (Cor](/tartans/u/ud/uddingston-rugby-club-centenary-cor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

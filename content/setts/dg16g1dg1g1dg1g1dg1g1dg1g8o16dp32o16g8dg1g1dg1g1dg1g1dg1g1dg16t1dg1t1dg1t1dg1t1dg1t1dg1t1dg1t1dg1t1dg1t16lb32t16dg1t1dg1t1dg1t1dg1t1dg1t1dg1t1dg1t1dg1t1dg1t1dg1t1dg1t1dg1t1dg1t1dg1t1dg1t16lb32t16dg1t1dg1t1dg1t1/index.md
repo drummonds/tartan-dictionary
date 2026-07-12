@@ -6,6 +6,8 @@ This is the **Virginia (USA)** sett — one scale-free proportion (`dg16g1dg1g1d
 [BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG](/stripes/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Virginia](/tartans/v/vi/virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

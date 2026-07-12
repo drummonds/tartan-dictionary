@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Denver Broncos"
+  url: "/tartans/d/de/denver-broncos/"
 - name: "Denver Broncos (Sports)"
   url: "/setts/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWBGBGBWWBYBY](/stripes/bwwbgbgbwwbyby/).
+
+Part of the [Denver Broncos](/tartans/d/de/denver-broncos/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

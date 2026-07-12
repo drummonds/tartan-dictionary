@@ -6,6 +6,8 @@ This is the **Spirit of the Glen** sett — one scale-free proportion (`dbii4db7
 [BBBBGBKBBBWBBBKBGBBB](/stripes/bbbbgbkbbbwbbbkbgbbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Spirit of the Glen](/tartans/s/sp/spirit-of-the-glen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

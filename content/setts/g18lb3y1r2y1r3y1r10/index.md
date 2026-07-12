@@ -6,7 +6,7 @@ This is the **Brisbane (Artefact)** sett — one scale-free proportion (`g18lb3y
 [GWGRGRGR](/stripes/gwgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
-Part of the [Brisbane](/tartans/brisbane/) tartan — the named design grouping this sett with its kin.
+Part of the [Brisbane](/tartans/b/br/brisbane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

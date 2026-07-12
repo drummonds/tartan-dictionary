@@ -6,6 +6,8 @@ This is the **De Nardi Hunting (Personal)** sett — one scale-free proportion (
 [BRBGBGBW](/stripes/brbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [De Nardi Hunting](/tartans/d/de/de-nardi-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

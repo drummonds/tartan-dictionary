@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alaska Highlanders Pipes & Drums"
+  url: "/tartans/a/al/alaska-highlanders-pipes-drums/"
 - name: "Alaska Highlanders Pipes & Drums Corporate Tartan"
   url: "/setts/db9lb27db2k4db2lb10db2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9lb27db2k4db2lb10db2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBWBW](/stripes/bwbkbwbw/).
+
+Part of the [Alaska Highlanders Pipes & Drums](/tartans/a/al/alaska-highlanders-pipes-drums/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

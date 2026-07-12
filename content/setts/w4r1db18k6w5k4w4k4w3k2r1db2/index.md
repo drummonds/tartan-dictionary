@@ -6,6 +6,8 @@ This is the **Knights Templar St Andrews Corporate Tartan** sett — one scale-f
 [BRKWKWKWKBRW](/stripes/brkwkwkwkbrw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Knights Templar St Andrews](/tartans/k/kn/knights-templar-st-andrews-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

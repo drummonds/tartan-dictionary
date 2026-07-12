@@ -6,7 +6,7 @@ This is the **St. Andrews Golf Club (Corporate)** sett — one scale-free propor
 [WBKGKGWGY](/stripes/wbkgkgwgy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [St Andrews Golf Club](/tartans/st-andrews-golf-club/) tartan — the named design grouping this sett with its kin.
+Part of the [St Andrews Golf Club](/tartans/s/st/st-andrews-golf-club/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

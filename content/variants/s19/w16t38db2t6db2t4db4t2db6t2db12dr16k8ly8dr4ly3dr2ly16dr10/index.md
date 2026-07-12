@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Declaration of Scottish Independence"
+  url: "/tartans/d/de/declaration-of-scottish-independence/"
+- name: "Declaration of Scottish Independence"
   url: "/setts/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYKBBBBBBBBBBBW](/stripes/bybybykbbbbbbbbbbbw/).
+
+Part of the [Declaration of Scottish Independence](/tartans/d/de/declaration-of-scottish-independence/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

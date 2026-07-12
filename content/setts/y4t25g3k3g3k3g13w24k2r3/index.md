@@ -6,6 +6,8 @@ This is the **MacLeod Special Dress (Dance)** sett — one scale-free proportion
 [GBGKGKGWKR](/stripes/gbgkgkgwkr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [MacLeod Special Dress](/tartans/m/ma/macleod-special-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Brotherhood of Dirk (Corporate)** sett — one scale-free proporti
 [GKBKBKBKRKR](/stripes/gkbkbkbkrkr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Brotherhood of Dirk](/tartans/b/br/brotherhood-of-dirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

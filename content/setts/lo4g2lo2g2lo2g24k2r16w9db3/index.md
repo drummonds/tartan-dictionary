@@ -7,7 +7,7 @@ This is the **North West Territories** sett — one scale-free proportion (`lo4g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1968**.
 
-Part of the [North West Territories](/tartans/north-west-territories/) tartan — the named design grouping this sett with its kin.
+Part of the [North West Territories](/tartans/n/no/north-west-territories/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

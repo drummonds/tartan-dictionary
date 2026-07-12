@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hydesville Tower"
+  url: "/tartans/h/hy/hydesville-tower-2/"
+- name: "Hydesville Tower"
   url: "/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15dy2db2r2db6dg30db6r2db2dy2db15w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBGBRBGBW](/stripes/bgbrbgbrbgbw/).
+
+Part of the [Hydesville Tower](/tartans/h/hy/hydesville-tower-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

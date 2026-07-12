@@ -7,6 +7,8 @@ This is the **Austin** sett — one scale-free proportion (`db4k4db4g9k2`), colo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1811**.
 
+Part of the [Austin](/tartans/a/au/austin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Hueg (Bavaria) Scottish Thistle (Personal)** sett — one scale-fr
 [RBKGKBGGGWGBRKRW](/stripes/rbkgkbgggwgbrkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Hueg Scottish Thistle](/tartans/hueg-scottish-thistle/) tartan — the named design grouping this sett with its kin.
+Part of the [Hueg Scottish Thistle](/tartans/h/hu/hueg-scottish-thistle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

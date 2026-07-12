@@ -6,6 +6,8 @@ This is the **Erskine Veterans** sett — one scale-free proportion (`y2db14k14d
 [GBKGRGKBWW](/stripes/gbkgrgkbww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Erskine Veterans](/tartans/e/er/erskine-veterans/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

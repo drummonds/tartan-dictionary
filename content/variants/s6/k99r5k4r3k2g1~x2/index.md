@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allt Dubh"
+  url: "/tartans/a/al/allt-dubh/"
 - name: "Allt Dubh (Black Burn)"
   url: "/setts/k99r5k4r3k2g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k99r5k4r3k2g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRK](/stripes/gkrkrk/).
+
+Part of the [Allt Dubh](/tartans/a/al/allt-dubh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Cherry Valley New York (District)** sett — one scale-free propor
 [WRWKRWRWRRGWGWGKWRWRW](/stripes/wrwkrwrwrrgwgwgkwrwrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Cherry Valley New York](/tartans/c/ch/cherry-valley-new-york-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

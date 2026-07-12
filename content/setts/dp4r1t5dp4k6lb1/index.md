@@ -7,6 +7,8 @@ This is the **Benreay Medical Centre** sett — one scale-free proportion (`dp4r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Benreay Medical Centre](/tartans/b/be/benreay-medical-centre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

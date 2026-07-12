@@ -6,6 +6,8 @@ This is the **Gordon of Esselmont** sett — one scale-free proportion (`k2db14k
 [BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK](/stripes/bkbkgygygygkbkbkbkbkbkgygygygkbk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Gordon of Esselmont](/tartans/g/go/gordon-of-esselmont-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

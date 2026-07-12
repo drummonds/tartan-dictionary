@@ -6,6 +6,8 @@ This is the **Scottish Prison Service** sett — one scale-free proportion (`w4t
 [RWBKGRKWKRGKBW](/stripes/rwbkgrkwkrgkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Scottish Prison Service](/tartans/s/sc/scottish-prison-service-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

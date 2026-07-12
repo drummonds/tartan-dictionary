@@ -6,7 +6,7 @@ This is the **Bruce Old** sett — one scale-free proportion (`r45db4r4g48r4db4r
 [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bruce Old](/tartans/bruce-old/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce Old](/tartans/b/br/bruce-old/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

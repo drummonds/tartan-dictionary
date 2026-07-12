@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hopetoun"
-  url: "/tartans/hopetoun/"
+  url: "/tartans/h/ho/hopetoun/"
 - name: "Hopetoun"
   url: "/setts/g13k2g2k11y1k2y1k11g2b1g11/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g13k2g2k11y1k2y1k11g2b1g11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGKGKG](/stripes/gbgkgkgkgkg/).
 
-Part of the [Hopetoun](/tartans/hopetoun/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hopetoun](/tartans/h/ho/hopetoun/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

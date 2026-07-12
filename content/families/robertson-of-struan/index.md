@@ -18,5 +18,5 @@ A family of [Clan Robertson](/clan/robertson/).
 </tbody>
 </table>
 
-[See the Robertson of Struan tartan and all its setts →](/tartans/robertson-of-struan/)
+[See the Robertson of Struan tartan and all its setts →](/tartans/r/ro/robertson-of-struan/)
 

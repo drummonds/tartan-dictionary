@@ -6,6 +6,8 @@ This is the **MacDuck #2** sett — one scale-free proportion (`k4r5k2lo21g8k2`)
 [KGYKRK](/stripes/kgykrk/). It is recorded as a single **variant**, below.
 First attested **1942**.
 
+Part of the [MacDuck](/tartans/m/ma/macduck-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

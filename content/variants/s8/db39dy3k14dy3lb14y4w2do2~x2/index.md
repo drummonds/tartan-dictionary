@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Lady's"
-  url: "/tartans/unidentified-lady-s/"
+  url: "/tartans/u/un/unidentified-lady-s/"
 - name: "Unidentified Lady's kilt"
   url: "/setts/db39dy3k14dy3lb14y4w2do2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db39dy3k14dy3lb14y4w2do2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWB](/stripes/bgkgwgwb/).
 
-Part of the [Unidentified Lady's](/tartans/unidentified-lady-s/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Lady's](/tartans/u/un/unidentified-lady-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

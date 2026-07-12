@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kenmore"
+  url: "/tartans/k/ke/kenmore/"
 - name: "Kenmore (Fashion)"
   url: "/setts/do22ly11dg2ly4dg2ly6dg16do42lr6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do22ly11dg2ly4dg2ly6dg16do42lr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYGYGBY](/stripes/bygygygby/).
+
+Part of the [Kenmore](/tartans/k/ke/kenmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

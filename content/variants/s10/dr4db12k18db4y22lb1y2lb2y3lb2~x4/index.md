@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Windsor"
+  url: "/tartans/w/wi/windsor/"
+- name: "Windsor"
   url: "/setts/dr4db12k18db4y22lb1y2lb2y3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4db12k18db4y22lb1y2lb2y3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGWGWGW](/stripes/bbkbgwgwgw/).
+
+Part of the [Windsor](/tartans/w/wi/windsor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

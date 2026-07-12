@@ -6,6 +6,8 @@ This is the **Congo, The Democratic Republic of the** sett — one scale-free pr
 [GWGWGRGWBKW](/stripes/gwgwgrgwbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Congo, The Democratic Republic of the](/tartans/c/co/congo-the-democratic-republic-of-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

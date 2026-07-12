@@ -7,6 +7,8 @@ This is the **Border Bell** sett — one scale-free proportion (`k1r1w1k1w1k1db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1986**.
 
+Part of the [Border Bell](/tartans/b/bo/border-bell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

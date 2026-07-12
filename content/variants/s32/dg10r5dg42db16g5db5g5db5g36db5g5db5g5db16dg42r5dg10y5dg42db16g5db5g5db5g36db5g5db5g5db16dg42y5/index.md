@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Summers"
+  url: "/tartans/s/su/summers/"
 - name: "Summers Family Tartan"
   url: "/setts/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGBGBGBGGGRGBGBGBGBGBGBGRG](/stripes/ggbgbgbgbgbgbgggrgbgbgbgbgbgbgrg/).
+
+Part of the [Summers](/tartans/s/su/summers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
 

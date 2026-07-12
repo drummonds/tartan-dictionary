@@ -6,6 +6,8 @@ This is the **Casey, Dress (Corporate)** sett — one scale-free proportion (`w7
 [WKWKWYWKRKRKRW](/stripes/wkwkwywkrkrkrw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Casey, Dress](/tartans/c/ca/casey-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

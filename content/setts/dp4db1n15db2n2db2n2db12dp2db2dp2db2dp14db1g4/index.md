@@ -6,6 +6,8 @@ This is the **Scottish-Shop Switzerland** sett — one scale-free proportion (`d
 [BBBBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Scottish-Shop Switzerland](/tartans/s/sc/scottish-shop-switzerland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

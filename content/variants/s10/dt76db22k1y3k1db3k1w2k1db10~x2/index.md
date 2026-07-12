@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canberra, City of"
+  url: "/tartans/c/ca/canberra-city-of-2/"
+- name: "Canberra, City of"
   url: "/setts/dt76db22k1y3k1db3k1w2k1db10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt76db22k1y3k1db3k1w2k1db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKBKWKB](/stripes/bbkgkbkwkb/).
+
+Part of the [Canberra, City of](/tartans/c/ca/canberra-city-of-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

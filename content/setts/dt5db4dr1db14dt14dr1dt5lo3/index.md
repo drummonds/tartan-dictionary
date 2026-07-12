@@ -6,6 +6,8 @@ This is the **Edinburgh Monarchs** sett — one scale-free proportion (`dt5db4dr
 [BBBBBBBY](/stripes/bbbbbbby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Edinburgh Monarchs](/tartans/e/ed/edinburgh-monarchs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

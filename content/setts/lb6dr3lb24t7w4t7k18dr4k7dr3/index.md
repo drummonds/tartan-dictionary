@@ -6,6 +6,8 @@ This is the **Law Society of Scotland (Corporate)** sett — one scale-free prop
 [BKBKBWBWBW](/stripes/bkbkbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Law Society of Scotland](/tartans/l/la/law-society-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

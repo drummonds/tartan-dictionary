@@ -7,6 +7,8 @@ This is the **Hepburn (Clan)** sett — one scale-free proportion (`r21db4k5y2k2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1960**.
 
+Part of the [Hepburn](/tartans/h/he/hepburn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

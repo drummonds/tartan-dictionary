@@ -6,6 +6,8 @@ This is the **MacFadyan (MacGregor Hastie)** sett — one scale-free proportion 
 [BRBRGRB](/stripes/brbrgrb/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [MacFadyan](/tartans/m/ma/macfadyan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

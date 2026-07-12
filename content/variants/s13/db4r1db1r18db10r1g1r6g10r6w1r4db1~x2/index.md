@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
+- name: "Cameron of Locheil"
+  url: "/families/cameron-of-locheil/"
+- name: "Cameron of Locheil"
+  url: "/tartans/c/ca/cameron-of-locheil-2/"
 - name: "Cameron of Locheil"
   url: "/setts/db4r1db1r18db10r1g1r6g10r6w1r4db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4r1db1r18db10r1g1r6g10r6w1r4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRGRWRB](/stripes/brbrbrgrgrwrb/).
+
+Part of the [Cameron of Locheil](/tartans/c/ca/cameron-of-locheil-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

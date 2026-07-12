@@ -6,6 +6,8 @@ This is the **Majewski-White (Personal)** sett — one scale-free proportion (`d
 [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Majewski-White](/tartans/m/ma/majewski-white/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

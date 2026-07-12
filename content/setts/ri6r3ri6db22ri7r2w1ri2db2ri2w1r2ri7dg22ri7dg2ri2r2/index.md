@@ -6,6 +6,8 @@ This is the **MacColl, hunting** sett — one scale-free proportion (`ri6r3ri6db
 [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacColl, hunting](/tartans/m/ma/maccoll-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

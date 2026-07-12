@@ -6,6 +6,8 @@ This is the **Kentucky State American District Tartan** sett — one scale-free 
 [KGBWWRY](/stripes/kgbwwry/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kentucky State](/tartans/k/ke/kentucky-state/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

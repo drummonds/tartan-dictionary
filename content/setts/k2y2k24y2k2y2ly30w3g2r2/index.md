@@ -7,6 +7,8 @@ This is the **Spotsylvania County Sheriff (Corp)** sett — one scale-free propo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2007**.
 
+Part of the [Spotsylvania County Sheriff](/tartans/s/sp/spotsylvania-county-sheriff/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kieck"
+  url: "/tartans/k/ki/kieck/"
 - name: "Kieck (2015)"
   url: "/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k2w3k2db6k4lb9k2r2k46lb2k2db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBKWKRKWKB](/stripes/bkwkbkwkrkwkb/).
+
+Part of the [Kieck](/tartans/k/ki/kieck/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

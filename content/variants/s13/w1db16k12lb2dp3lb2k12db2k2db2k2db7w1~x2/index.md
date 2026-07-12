@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edgar"
+  url: "/tartans/e/ed/edgar/"
 - name: "Edgar (2014)"
   url: "/setts/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBKBKWBWKBW](/stripes/wbkbkbkwbwkbw/).
+
+Part of the [Edgar](/tartans/e/ed/edgar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

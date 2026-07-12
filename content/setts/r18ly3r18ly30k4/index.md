@@ -6,7 +6,7 @@ This is the **Shire of Hornwood (Corporate)** sett — one scale-free proportion
 [KYRYR](/stripes/kyryr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Shire of Hornwood](/tartans/shire-of-hornwood/) tartan — the named design grouping this sett with its kin.
+Part of the [Shire of Hornwood](/tartans/s/sh/shire-of-hornwood/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

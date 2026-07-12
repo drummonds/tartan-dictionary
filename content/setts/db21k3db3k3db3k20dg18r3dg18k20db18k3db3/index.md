@@ -6,6 +6,8 @@ This is the **Westwood Gordon Pink (Fashion)** sett — one scale-free proportio
 [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Westwood Gordon Pink](/tartans/w/we/westwood-gordon-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

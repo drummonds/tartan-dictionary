@@ -6,6 +6,8 @@ This is the **MacGregor of Glengyle** sett — one scale-free proportion (`db1r1
 [BRBRBR](/stripes/brbrbr/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

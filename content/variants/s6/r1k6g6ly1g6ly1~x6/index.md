@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moore Caledonian"
+  url: "/tartans/m/mo/moore-caledonian/"
 - name: "Moore Caledonian (Personal)"
   url: "/setts/r1k6g6ly1g6ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k6g6ly1g6ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGYGY](/stripes/rkgygy/).
+
+Part of the [Moore Caledonian](/tartans/m/mo/moore-caledonian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

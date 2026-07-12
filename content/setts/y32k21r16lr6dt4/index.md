@@ -7,6 +7,8 @@ This is the **Scottish American Athletic Assoc** sett — one scale-free proport
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Scottish American Athletic Assoc (Co](/tartans/s/sc/scottish-american-athletic-assoc-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **American Express Corporate Tartan** sett — one scale-free propor
 [BBBBGWGBBB](/stripes/bbbbgwgbbb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [American Express](/tartans/a/am/american-express/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Adam Smith (Corporate)** sett — one scale-free proportion (`r2k1
 [BKBKGGGKBKR](/stripes/bkbkgggkbkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Adam Smith](/tartans/a/ad/adam-smith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

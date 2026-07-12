@@ -6,6 +6,8 @@ This is the **Unnamed C18/19th - Antigonish (A)** sett — one scale-free propor
 [BRBRWGRBGRGBRGWRBR](/stripes/brbrwgrbgrgbrgwrbr/). It is recorded as a single **variant**, below.
 First attested **1885**.
 
+Part of the [Unnamed C18/19th](/tartans/u/un/unnamed-c18-19th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

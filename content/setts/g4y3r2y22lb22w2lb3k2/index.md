@@ -6,6 +6,8 @@ This is the **Aguilar Pardo, Luis Alejandro (Personal)** sett — one scale-free
 [GGRGWWWK](/stripes/ggrgwwwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Aguilar Pardo, Luis Alejandro](/tartans/a/ag/aguilar-pardo-luis-alejandro/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

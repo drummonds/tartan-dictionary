@@ -6,6 +6,8 @@ This is the **Merric Dark Camel.. Trade Tartan** sett — one scale-free proport
 [RWKGWKW](/stripes/rwkgwkw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Merric Dark Camel..](/tartans/m/me/merric-dark-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

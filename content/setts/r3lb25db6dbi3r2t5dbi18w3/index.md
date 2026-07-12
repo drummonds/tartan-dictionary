@@ -6,6 +6,8 @@ This is the **Fulbright Foundation** sett — one scale-free proportion (`r3lb25
 [RWBBRBBW](/stripes/rwbbrbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Fulbright Foundation](/tartans/f/fu/fulbright-foundation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

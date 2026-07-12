@@ -6,6 +6,8 @@ This is the **Robert Wiseman Dairies, Golden Jubilee** sett — one scale-free p
 [BWBWKWGWGWGWB](/stripes/bwbwkwgwgwgwb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Robert Wiseman Dairies, Golden Jubilee](/tartans/r/ro/robert-wiseman-dairies-golden-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenclova** sett — one scale-free proportion (`lb100y12n14ly5n5w
 [WGBYBWBGWBWY](/stripes/wgbybwbgwbwy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glenclova](/tartans/g/gl/glenclova/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

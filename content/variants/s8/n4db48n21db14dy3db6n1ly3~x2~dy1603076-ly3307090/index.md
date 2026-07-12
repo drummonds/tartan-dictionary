@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Munster Ancestry"
-  url: "/tartans/munster-ancestry/"
+  url: "/tartans/m/mu/munster-ancestry/"
 - name: "Munster Ancestry (Fashion)"
   url: "/setts/n4db48n21db14dy3db6n1ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n4db48n21db14dy3db6n1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBBY](/stripes/bbbbgbby/).
 
-Part of the [Munster Ancestry](/tartans/munster-ancestry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Munster Ancestry](/tartans/m/mu/munster-ancestry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

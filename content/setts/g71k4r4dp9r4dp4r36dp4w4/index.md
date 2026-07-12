@@ -6,6 +6,8 @@ This is the **Rattray** sett — one scale-free proportion (`g71k4r4dp9r4dp4r36d
 [GKRBRBRBW](/stripes/gkrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
+Part of the [Rattray](/tartans/r/ra/rattray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

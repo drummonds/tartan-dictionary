@@ -6,6 +6,8 @@ This is the **Mount Isla** sett — one scale-free proportion (`lo2k1dr6k2db7k2d
 [WKBKBKBKBKY](/stripes/wkbkbkbkbky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Mount Isla](/tartans/m/mo/mount-isla/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

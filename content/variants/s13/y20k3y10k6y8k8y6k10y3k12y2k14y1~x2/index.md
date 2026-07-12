@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yamaguchi Tsutomu"
+  url: "/tartans/y/ya/yamaguchi-tsutomu/"
+- name: "Yamaguchi Tsutomu"
   url: "/setts/y20k3y10k6y8k8y6k10y3k12y2k14y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y20k3y10k6y8k8y6k10y3k12y2k14y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
+
+Part of the [Yamaguchi Tsutomu](/tartans/y/ya/yamaguchi-tsutomu/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

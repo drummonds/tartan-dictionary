@@ -6,6 +6,8 @@ This is the **Bright of Garth (Personal)** sett — one scale-free proportion (`
 [BGBGG](/stripes/bgbgg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bright of Garth](/tartans/b/br/bright-of-garth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

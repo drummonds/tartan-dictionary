@@ -6,7 +6,7 @@ This is the **MacShimsi Personal Tartan** sett — one scale-free proportion (`m
 [RBGKY](/stripes/rbgky/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [MacShimsi](/tartans/macshimsi/) tartan — the named design grouping this sett with its kin.
+Part of the [MacShimsi](/tartans/m/ma/macshimsi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

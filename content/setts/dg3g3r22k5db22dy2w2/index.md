@@ -6,6 +6,8 @@ This is the **MacLeod Soc. of Scotland, (Comm)** sett — one scale-free proport
 [GGRKBGW](/stripes/ggrkbgw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [MacLeod Soc. of Scotland](/tartans/m/ma/macleod-soc-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **AIS Group** sett — one scale-free proportion (`k56dt3lb6dt3w3dt3
 [KBWBWBBBBBWBBBW](/stripes/kbwbwbbbbbwbbbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [AIS Group](/tartans/a/ai/ais-group/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

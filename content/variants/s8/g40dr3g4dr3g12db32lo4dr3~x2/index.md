@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leatherneck"
+  url: "/tartans/l/le/leatherneck/"
+- name: "Leatherneck"
   url: "/setts/g40dr3g4dr3g12db32lo4dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40dr3g4dr3g12db32lo4dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBGBG](/stripes/bybgbgbg/).
+
+Part of the [Leatherneck](/tartans/l/le/leatherneck/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

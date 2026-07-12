@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oneness"
+  url: "/tartans/o/on/oneness/"
+- name: "Oneness"
   url: "/setts/db12k3lyi2k3r12db12k2ly28k2lyi2k2n2k2ly28k2db12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k3lyi2k3r12db12k2ly28k2lyi2k2n2k2ly28k2db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBKYKYKBRKYKB](/stripes/bkykbkykykbrkykb/).
+
+Part of the [Oneness](/tartans/o/on/oneness/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

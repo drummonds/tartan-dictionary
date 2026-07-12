@@ -6,6 +6,8 @@ This is the **Robieson (Personal)** sett — one scale-free proportion (`w1r1t8l
 [WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Robieson](/tartans/r/ro/robieson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

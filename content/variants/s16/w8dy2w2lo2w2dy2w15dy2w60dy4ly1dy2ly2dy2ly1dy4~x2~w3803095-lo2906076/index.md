@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "UPS No. 2"
+  url: "/tartans/u/up/ups-no-2/"
 - name: "UPS No. 2 (Corporate)"
   url: "/setts/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGYGWGWGWYWGW](/stripes/gygygygwgwgwywgw/).
+
+Part of the [UPS No. 2](/tartans/u/up/ups-no-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

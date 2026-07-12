@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fowdar"
+  url: "/tartans/f/fo/fowdar/"
 - name: "Fowdar (Personal)"
   url: "/setts/k9w6k46db24r8db6r6db6r16g6r6y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9w6k46db24r8db6r6db6r16g6r6y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRBRBKWK](/stripes/grgrbrbrbkwk/).
+
+Part of the [Fowdar](/tartans/f/fo/fowdar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

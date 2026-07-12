@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sarna"
+  url: "/tartans/s/sa/sarna-2/"
 - name: "Särna District Tartan"
   url: "/setts/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/).
+
+Part of the [Sarna](/tartans/s/sa/sarna-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

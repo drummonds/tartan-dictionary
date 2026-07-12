@@ -6,6 +6,8 @@ This is the **State Seal of Texas (Fashion)** sett — one scale-free proportion
 [BGWBBBYBBW](/stripes/bgwbbbybbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Texas](/tartans/s/st/state-seal-of-texas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

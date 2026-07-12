@@ -6,6 +6,8 @@ This is the **Starrett Company, L.S. (Corporate)** sett — one scale-free propo
 [BKBKBKRGRGRGRGRGRGRGRGR](/stripes/bkbkbkrgrgrgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Starrett Company, L.S.](/tartans/s/st/starrett-company-l-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

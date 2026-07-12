@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Child, The"
+  url: "/tartans/c/ch/child-the/"
+- name: "Child, The"
   url: "/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/p10k1dg4k1p10r4p10k1o4k1p10y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBRBKRKBG](/stripes/bkgkbrbkrkbg/).
+
+Part of the [Child, The](/tartans/c/ch/child-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

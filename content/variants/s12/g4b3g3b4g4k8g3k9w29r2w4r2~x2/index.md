@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ross"
+  url: "/clan/ross/"
+- name: "Ross, hunting dress"
+  url: "/tartans/r/ro/ross-hunting-dress/"
 - name: "Ross, hunting dress"
   url: "/setts/g4b3g3b4g4k8g3k9w29r2w4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4b3g3b4g4k8g3k9w29r2w4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKGKWRWR](/stripes/gbgbgkgkwrwr/).
+
+Part of the [Ross, hunting dress](/tartans/r/ro/ross-hunting-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

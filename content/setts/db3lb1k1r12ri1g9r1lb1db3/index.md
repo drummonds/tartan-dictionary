@@ -6,7 +6,7 @@ This is the **Moray of Abercairney Clan Tartan** sett — one scale-free proport
 [BWKRRGRWB](/stripes/bwkrrgrwb/). It is recorded as a single **variant**, below.
 First attested **1735**.
 
-Part of the [Moray of Abercairney](/tartans/moray-of-abercairney/) tartan — the named design grouping this sett with its kin.
+Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

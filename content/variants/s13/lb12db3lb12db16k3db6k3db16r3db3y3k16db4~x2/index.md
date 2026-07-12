@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dempster"
+  url: "/tartans/d/de/dempster-3/"
 - name: "Dempster (Name)"
   url: "/setts/lb12db3lb12db16k3db6k3db16r3db3y3k16db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb12db3lb12db16k3db6k3db16r3db3y3k16db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBRBKBKBWBW](/stripes/bkgbrbkbkbwbw/).
+
+Part of the [Dempster](/tartans/d/de/dempster-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Red Deer, City of"
+  url: "/tartans/r/re/red-deer-city-of/"
+- name: "Red Deer, City of"
   url: "/setts/g16db4g8k2y1k6w8r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16db4g8k2y1k6w8r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKWR](/stripes/gbgkgkwr/).
+
+Part of the [Red Deer, City of](/tartans/r/re/red-deer-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

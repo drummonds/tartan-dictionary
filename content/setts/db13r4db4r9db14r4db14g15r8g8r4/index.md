@@ -6,6 +6,8 @@ This is the **McCaslin** sett — one scale-free proportion (`db13r4db4r9db14r4d
 [BRBRBRBGRGR](/stripes/brbrbrbgrgr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [McCaslin](/tartans/m/mc/mccaslin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

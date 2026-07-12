@@ -6,7 +6,7 @@ This is the **Sidey Family (Dundee) (Personal)** sett — one scale-free proport
 [BWKBKBKGKR](/stripes/bwkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Sidey](/tartans/sidey/) tartan — the named design grouping this sett with its kin.
+Part of the [Sidey](/tartans/s/si/sidey/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

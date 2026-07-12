@@ -7,7 +7,7 @@ This is the **Innes D** sett — one scale-free proportion (`lb3k12r2k2r2k2r12y2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Innes D](/tartans/innes-d/) tartan — the named design grouping this sett with its kin.
+Part of the [Innes D](/tartans/i/in/innes-d/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

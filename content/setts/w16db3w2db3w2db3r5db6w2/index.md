@@ -6,6 +6,8 @@ This is the **Jeux Canada Games '87 (Corporate)** sett — one scale-free propor
 [WBRBWBWBW](/stripes/wbrbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Jeux Canada Games '87](/tartans/j/je/jeux-canada-games-87/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

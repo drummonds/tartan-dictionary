@@ -6,7 +6,7 @@ This is the **Read Dress, Peter (Personal)** sett — one scale-free proportion 
 [RKBKBKBKBKBKBKBRGW](/stripes/rkbkbkbkbkbkbkbrgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Read Dress, Peter](/tartans/read-dress-peter/) tartan — the named design grouping this sett with its kin.
+Part of the [Read Dress, Peter](/tartans/r/re/read-dress-peter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

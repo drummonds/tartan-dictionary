@@ -6,6 +6,8 @@ This is the **Clydesdale Bank** sett — one scale-free proportion (`n27lb3n28lb
 [BWBRBWBWBWBWB](/stripes/bwbrbwbwbwbwb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Clydesdale Bank](/tartans/c/cl/clydesdale-bank/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

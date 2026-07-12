@@ -6,6 +6,8 @@ This is the **Connell (Personal?)** sett — one scale-free proportion (`r2g2r1g
 [KRGRGR](/stripes/krgrgr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Connell](/tartans/c/co/connell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

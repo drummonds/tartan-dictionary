@@ -6,6 +6,8 @@ This is the **MacInroy Hunting** sett — one scale-free proportion (`k2db2g24r2
 [BGRGBKBKGRGRGBK](/stripes/bgrgbkbkgrgrgbk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [MacInroy Hunting](/tartans/m/ma/macinroy-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

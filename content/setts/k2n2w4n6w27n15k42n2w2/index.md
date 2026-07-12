@@ -6,6 +6,8 @@ This is the **Swansea City AFC** sett — one scale-free proportion (`k2n2w4n6w2
 [KBWBWBKBW](/stripes/kbwbwbkbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Swansea City AFC](/tartans/s/sw/swansea-city-afc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Reflections of the Sea"
+  url: "/tartans/r/re/reflections-of-the-sea/"
+- name: "Reflections of the Sea"
   url: "/setts/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBBGBBGW](/stripes/bbgbgbbgbbgw/).
+
+Part of the [Reflections of the Sea](/tartans/r/re/reflections-of-the-sea/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

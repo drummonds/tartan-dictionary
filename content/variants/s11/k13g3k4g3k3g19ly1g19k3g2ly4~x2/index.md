@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "American Monahan"
+  url: "/tartans/a/am/american-monahan/"
 - name: "American Monahan (Personal)"
   url: "/setts/k13g3k4g3k3g19ly1g19k3g2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k13g3k4g3k3g19ly1g19k3g2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGYGKGY](/stripes/kgkgkgygkgy/).
+
+Part of the [American Monahan](/tartans/a/am/american-monahan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

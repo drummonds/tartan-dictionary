@@ -7,7 +7,7 @@ This is the **Burns Check** sett — one scale-free proportion (`w2k2w2k2w2k2w1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1959**.
 
-Part of the [Burns Check](/tartans/burns-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Burns Check](/tartans/b/bu/burns-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

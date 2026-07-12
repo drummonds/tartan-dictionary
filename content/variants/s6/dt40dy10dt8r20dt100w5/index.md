@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
+- name: "East of Scotland Tartan Army"
+  url: "/families/east-of-scotland-tartan-army/"
+- name: "East of Scotland Tartan Army"
+  url: "/tartans/e/ea/east-of-scotland-tartan-army/"
 - name: "East of Scotland Tartan Army"
   url: "/setts/dt40dy10dt8r20dt100w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt40dy10dt8r20dt100w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBW](/stripes/bgbrbw/).
+
+Part of the [East of Scotland Tartan Army](/tartans/e/ea/east-of-scotland-tartan-army/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

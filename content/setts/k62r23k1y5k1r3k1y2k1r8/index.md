@@ -6,6 +6,8 @@ This is the **Burke (Kennesaw), Kevin** sett — one scale-free proportion (`k62
 [KRKGKRKGKR](/stripes/krkgkrkgkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Burke , Kevin](/tartans/b/bu/burke-kevin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

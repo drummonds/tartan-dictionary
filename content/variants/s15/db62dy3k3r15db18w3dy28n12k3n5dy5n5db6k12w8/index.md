@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clare County, Crest Range"
+  url: "/tartans/c/cl/clare-county-crest-range/"
+- name: "Clare County, Crest Range"
   url: "/setts/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRBWGBKBGBBKW](/stripes/bgkrbwgbkbgbbkw/).
+
+Part of the [Clare County, Crest Range](/tartans/c/cl/clare-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

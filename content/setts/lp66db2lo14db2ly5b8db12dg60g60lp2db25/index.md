@@ -6,6 +6,8 @@ This is the **Dundee Carers' Centre** sett — one scale-free proportion (`lp66d
 [BWGGBBYBYBW](/stripes/bwggbbybybw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Dundee Carers' Centre](/tartans/d/du/dundee-carers-centre-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

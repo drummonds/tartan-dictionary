@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cook"
-  url: "/tartans/cook/"
+  url: "/tartans/c/co/cook/"
 - name: "(2) Cook"
   url: "/setts/g12lb6g6r15k1r1k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12lb6g6r15k1r1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRKRK](/stripes/gwgrkrk/).
 
-Part of the [Cook](/tartans/cook/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cook](/tartans/c/co/cook/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ This is the **Gayre Hunting Clan Tartan** sett — one scale-free proportion (`d
 [BGKBBBKRGBGRK](/stripes/bgkbbbkrgbgrk/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
-Part of the [Gayre Hunting](/tartans/gayre-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Gayre Hunting](/tartans/g/ga/gayre-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

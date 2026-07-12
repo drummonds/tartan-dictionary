@@ -6,6 +6,8 @@ This is the **Selkirk Silver Band (Corporate)** sett — one scale-free proporti
 [BKBKBKBKBK](/stripes/bkbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Selkirk Silver Band](/tartans/s/se/selkirk-silver-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

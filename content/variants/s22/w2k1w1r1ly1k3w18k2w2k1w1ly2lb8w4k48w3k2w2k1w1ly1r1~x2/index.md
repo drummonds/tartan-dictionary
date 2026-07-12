@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Normandy Bay Myth"
-  url: "/tartans/normandy-bay-myth/"
+  url: "/tartans/n/no/normandy-bay-myth/"
 - name: "Normandy Bay Myth (Fashion)"
   url: "/setts/w2k1w1r1ly1k3w18k2w2k1w1ly2lb8w4k48w3k2w2k1w1ly1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2k1w1r1ly1k3w18k2w2k1w1ly2lb8w4k48w3k2w2k1w1ly1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYWKWKWKWWYWKWKWKYRWKW](/stripes/rywkwkwkwwywkwkwkyrwkw/).
 
-Part of the [Normandy Bay Myth](/tartans/normandy-bay-myth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Normandy Bay Myth](/tartans/n/no/normandy-bay-myth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

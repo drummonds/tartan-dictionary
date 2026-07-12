@@ -6,6 +6,8 @@ This is the **Casey of West Virginia (Personal)** sett — one scale-free propor
 [GYBYBGRBW](/stripes/gybybgrbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Casey of West Virginia](/tartans/c/ca/casey-of-west-virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roddy's Highland Spirit"
+  url: "/tartans/r/ro/roddy-s-highland-spirit/"
 - name: "Roddy's Highland Spirit (Fashion)"
   url: "/setts/g30dp3g3dp3g3dp10dg10y20lp2dg5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30dp3g3dp3g3dp10dg10y20lp2dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGGWG](/stripes/gbgbgbggwg/).
+
+Part of the [Roddy's Highland Spirit](/tartans/r/ro/roddy-s-highland-spirit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Celtic Combat** sett — one scale-free proportion (`k2r20k8g18r3w
 [KRKGRW](/stripes/krkgrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Celtic Combat](/tartans/c/ce/celtic-combat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

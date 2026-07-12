@@ -6,7 +6,7 @@ This is the **Stratford (Ontario), City of** sett — one scale-free proportion 
 [BWBWGBGWBR](/stripes/bwbwgbgwbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Stratford , City of](/tartans/stratford-city-of/) tartan — the named design grouping this sett with its kin.
+Part of the [Stratford , City of](/tartans/s/st/stratford-city-of/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

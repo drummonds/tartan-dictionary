@@ -6,7 +6,7 @@ This is the **StammBar** sett — one scale-free proportion (`w4t8w4lg8w2lg2w4t4
 [BRYRBWYWYWBW](/stripes/bryrbwywywbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [StammBar](/tartans/stammbar/) tartan — the named design grouping this sett with its kin.
+Part of the [StammBar](/tartans/s/st/stammbar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

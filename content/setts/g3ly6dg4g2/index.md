@@ -6,6 +6,8 @@ This is the **Pilgrims (Bedford)** sett — one scale-free proportion (`g3ly6dg4
 [GGYG](/stripes/ggyg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Pilgrims](/tartans/p/pi/pilgrims/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

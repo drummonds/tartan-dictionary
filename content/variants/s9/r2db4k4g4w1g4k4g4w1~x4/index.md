@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arrol"
-  url: "/tartans/arrol-2/"
+  url: "/tartans/a/ar/arrol-2/"
 - name: "Arrol"
   url: "/setts/r2db4k4g4w1g4k4g4w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db4k4g4w1g4k4g4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGWGKGW](/stripes/rbkgwgkgw/).
 
-Part of the [Arrol](/tartans/arrol-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Arrol](/tartans/a/ar/arrol-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

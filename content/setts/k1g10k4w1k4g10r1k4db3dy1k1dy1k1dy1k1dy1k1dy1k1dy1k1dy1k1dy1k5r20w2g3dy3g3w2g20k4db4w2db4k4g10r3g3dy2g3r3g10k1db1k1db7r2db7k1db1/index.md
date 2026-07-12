@@ -6,6 +6,8 @@ This is the **Lawson, Robin (Personal)** sett — one scale-free proportion (`k1
 [BKBRBKBKGRGGGRGKBWBKGWGGGWRKGKGKGKGKGKGKGKGBKRGKWKGK](/stripes/bkbrbkbkgrgggrgkbwbkgwgggwrkgkgkgkgkgkgkgkgbkrgkwkgk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Lawson, Robin](/tartans/l/la/lawson-robin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

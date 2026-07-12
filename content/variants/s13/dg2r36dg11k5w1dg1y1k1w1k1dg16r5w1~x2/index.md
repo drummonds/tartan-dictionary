@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Campagna Center"
+  url: "/tartans/c/ca/campagna-center/"
 - name: "Campagna Center (Corporate)"
   url: "/setts/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWGGKWKGRW](/stripes/grgkwggkwkgrw/).
+
+Part of the [Campagna Center](/tartans/c/ca/campagna-center/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Angove, the Black Swan** sett — one scale-free proportion (`db18
 [BBKBBKBKGGGKBKG](/stripes/bbkbbkbkgggkbkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Angove, the Black Swan](/tartans/a/an/angove-the-black-swan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

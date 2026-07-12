@@ -6,7 +6,7 @@ This is the **Gordon of Abergeldie (Red..) Portrait Tartan** sett — one scale-
 [GGRKWR](/stripes/ggrkwr/). It is recorded as a single **variant**, below.
 First attested **1723**.
 
-Part of the [Gordon of Abergeldie](/tartans/gordon-of-abergeldie/) tartan — the named design grouping this sett with its kin.
+Part of the [Gordon of Abergeldie](/tartans/g/go/gordon-of-abergeldie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

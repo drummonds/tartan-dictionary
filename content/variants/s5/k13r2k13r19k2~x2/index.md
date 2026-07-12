@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLeod of Raasay"
   url: "/families/macleod-of-raasay/"
 - name: "MacLeod of Raasay"
-  url: "/tartans/macleod-of-raasay/"
+  url: "/tartans/m/ma/macleod-of-raasay/"
 - name: "MacLeod of Raasay (Highland Society of London)"
   url: "/setts/k13r2k13r19k2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k13r2k13r19k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRK](/stripes/krkrk/).
 
-Part of the [MacLeod of Raasay](/tartans/macleod-of-raasay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLeod of Raasay](/tartans/m/ma/macleod-of-raasay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

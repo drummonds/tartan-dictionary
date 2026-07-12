@@ -6,6 +6,8 @@ This is the **Devon Original District Tartan** sett — one scale-free proportio
 [BGWGRGG](/stripes/bgwgrgg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Devon Original](/tartans/d/de/devon-original/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

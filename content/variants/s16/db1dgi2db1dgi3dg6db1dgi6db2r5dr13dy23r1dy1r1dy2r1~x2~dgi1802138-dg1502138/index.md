@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Langerman"
+  url: "/tartans/l/la/langerman/"
 - name: "Langerman (Anchorage)"
   url: "/setts/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGBGBRBGRGRGR](/stripes/bgbggbgbrbgrgrgr/).
+
+Part of the [Langerman](/tartans/l/la/langerman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

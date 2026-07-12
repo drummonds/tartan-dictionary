@@ -6,6 +6,8 @@ This is the **Schranz-Gritte (Corporate)** sett — one scale-free proportion (`
 [KYKYKY](/stripes/kykyky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Schranz-Gritte](/tartans/s/sc/schranz-gritte-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

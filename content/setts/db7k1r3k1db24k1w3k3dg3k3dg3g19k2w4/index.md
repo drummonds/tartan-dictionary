@@ -6,6 +6,8 @@ This is the **Strathclyde, University of** sett — one scale-free proportion (`
 [BKRKBKWKGKGGKW](/stripes/bkrkbkwkgkggkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Strathclyde, University of](/tartans/s/st/strathclyde-university-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacBeth, MacLulich"
+  url: "/tartans/m/ma/macbeth-maclulich/"
+- name: "MacBeth, MacLulich"
   url: "/setts/db36y4k6y1k1w1k1g8r6k1r3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db36y4k6y1k1w1k1g8r6k1r3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKWKGRKRW](/stripes/bgkgkwkgrkrw/).
+
+Part of the [MacBeth, MacLulich](/tartans/m/ma/macbeth-maclulich/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

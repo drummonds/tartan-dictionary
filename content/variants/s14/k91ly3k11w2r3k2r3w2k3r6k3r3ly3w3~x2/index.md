@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Firefighters"
+  url: "/tartans/f/fi/firefighters/"
+- name: "Firefighters"
   url: "/setts/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKWRKRWKRKRYW](/stripes/kykwrkrwkrkryw/).
+
+Part of the [Firefighters](/tartans/f/fi/firefighters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

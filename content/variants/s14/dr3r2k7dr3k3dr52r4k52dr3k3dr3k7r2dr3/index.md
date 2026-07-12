@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Old Aberdeen Diamond Jubilee"
+  url: "/tartans/o/ol/old-aberdeen-diamond-jubilee/"
+- name: "Old Aberdeen Diamond Jubilee"
   url: "/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/).
+
+Part of the [Old Aberdeen Diamond Jubilee](/tartans/o/ol/old-aberdeen-diamond-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

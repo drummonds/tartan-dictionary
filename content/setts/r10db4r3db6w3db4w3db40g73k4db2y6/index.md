@@ -6,7 +6,7 @@ This is the **Johnston, Diana Dress (Personal)** sett — one scale-free proport
 [GBKGBWBWBRBR](/stripes/gbkgbwbwbrbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Johnston, Diana Dress](/tartans/johnston-diana-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Johnston, Diana Dress](/tartans/j/jo/johnston-diana-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

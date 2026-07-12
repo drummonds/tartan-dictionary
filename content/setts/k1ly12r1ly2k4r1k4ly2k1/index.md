@@ -6,6 +6,8 @@ This is the **MacLeod Snuffbox - 1829 (Artefact)** sett — one scale-free propo
 [KYKRKYRYK](/stripes/kykrkyryk/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [MacLeod Snuffbox](/tartans/m/ma/macleod-snuffbox/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

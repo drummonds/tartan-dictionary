@@ -6,6 +6,8 @@ This is the **Skinner Family Tartan** sett — one scale-free proportion (`r8k8l
 [BRKYKR](/stripes/brkykr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Skinner](/tartans/s/sk/skinner/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

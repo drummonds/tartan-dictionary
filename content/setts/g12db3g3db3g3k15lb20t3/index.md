@@ -6,6 +6,8 @@ This is the **Lemania** sett — one scale-free proportion (`g12db3g3db3g3k15lb2
 [BWKGBGBG](/stripes/bwkgbgbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lemania](/tartans/l/le/lemania/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

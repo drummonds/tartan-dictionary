@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Raibert Check"
+  url: "/tartans/r/ra/raibert-check/"
+- name: "Raibert Check"
   url: "/setts/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGWBGBG](/stripes/bggggggwbgbg/).
+
+Part of the [Raibert Check](/tartans/r/ra/raibert-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

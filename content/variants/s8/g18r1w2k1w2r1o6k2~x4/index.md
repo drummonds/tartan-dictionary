@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Humphries"
+  url: "/tartans/h/hu/humphries-2/"
 - name: "Humphries (Name)"
   url: "/setts/g18r1w2k1w2r1o6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g18r1w2k1w2r1o6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWKWRRK](/stripes/grwkwrrk/).
+
+Part of the [Humphries](/tartans/h/hu/humphries-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

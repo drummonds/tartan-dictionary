@@ -6,7 +6,7 @@ This is the **Lamont (Clan)** sett — one scale-free proportion (`t23k3t3k3t3k2
 [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/). It is recorded as a single **variant**, below.
 First attested **1817**.
 
-Part of the [Lamont](/tartans/lamont-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Lamont](/tartans/l/la/lamont-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

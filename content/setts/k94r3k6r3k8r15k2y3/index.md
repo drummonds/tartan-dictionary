@@ -6,6 +6,8 @@ This is the **Royal Army Physical Training Corps Association (Scotland)** sett â
 [GKRKRKRK](/stripes/gkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Royal Army Physical Training Corps Association](/tartans/r/ro/royal-army-physical-training-corps-association/) tartan â€” the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

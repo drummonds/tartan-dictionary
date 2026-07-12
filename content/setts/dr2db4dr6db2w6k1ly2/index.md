@@ -6,6 +6,8 @@ This is the **Unidentified Printing** sett — one scale-free proportion (`dr2db
 [BBBBWKY](/stripes/bbbbwky/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Unidentified Printing](/tartans/u/un/unidentified-printing/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

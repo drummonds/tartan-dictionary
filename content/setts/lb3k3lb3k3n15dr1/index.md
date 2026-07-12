@@ -6,6 +6,8 @@ This is the **Tiree Grey** sett — one scale-free proportion (`lb3k3lb3k3n15dr1
 [BBKWKW](/stripes/bbkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tiree](/tartans/t/ti/tiree/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

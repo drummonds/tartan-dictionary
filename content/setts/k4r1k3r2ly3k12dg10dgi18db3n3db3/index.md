@@ -6,6 +6,8 @@ This is the **Blake (Personal)** sett — one scale-free proportion (`k4r1k3r2ly
 [BBBGGKYRKRK](/stripes/bbbggkyrkrk/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Blake](/tartans/b/bl/blake/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

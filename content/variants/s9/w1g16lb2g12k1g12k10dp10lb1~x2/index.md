@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Faskin"
+  url: "/tartans/f/fa/faskin/"
 - name: "Faskin Family (Aberdeenshire)"
   url: "/setts/w1g16lb2g12k1g12k10dp10lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1g16lb2g12k1g12k10dp10lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKGWGW](/stripes/wbkgkgwgw/).
+
+Part of the [Faskin](/tartans/f/fa/faskin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Fraser Gathering, hunting** sett — one scale-free proportion (`r
 [RBGBGBBGW](/stripes/rbgbgbbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fraser Gathering, hunting](/tartans/f/fr/fraser-gathering-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

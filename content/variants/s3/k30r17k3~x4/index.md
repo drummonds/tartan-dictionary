@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFarlane Red &"
+  url: "/tartans/m/ma/macfarlane-red/"
 - name: "MacFarlane Red & Black (Artefact)"
   url: "/setts/k30r17k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k30r17k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKR](/stripes/krkr/).
+
+Part of the [MacFarlane Red &](/tartans/m/ma/macfarlane-red/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

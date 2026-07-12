@@ -6,6 +6,8 @@ This is the **Cian Clan Irish Family Tartan** sett — one scale-free proportion
 [BBWBBGRBWBY](/stripes/bbwbbgrbwby/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Cian](/tartans/c/ci/cian-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

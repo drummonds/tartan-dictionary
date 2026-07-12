@@ -6,6 +6,8 @@ This is the **Glen Nevis** sett — one scale-free proportion (`o22w2o2w2o4k5o5k
 [RWRWRKRKBBBW](/stripes/rwrwrkrkbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glen Nevis](/tartans/g/gl/glen-nevis-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

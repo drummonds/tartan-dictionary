@@ -6,6 +6,8 @@ This is the **Un-named (USA Bedheads)** sett — one scale-free proportion (`k4l
 [KRBWKWKWWKWYK](/stripes/krbwkwkwwkwyk/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Un-named](/tartans/u/un/un-named-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

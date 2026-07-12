@@ -6,6 +6,8 @@ This is the **Sheffield, City of** sett — one scale-free proportion (`lb5g5k4n
 [RWGKBGBGBGBKGW](/stripes/rwgkbgbgbgbkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Sheffield, City of](/tartans/s/sh/sheffield-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

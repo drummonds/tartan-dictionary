@@ -6,7 +6,7 @@ This is the **MacHardy** sett — one scale-free proportion (`db1r1g6db6y1db6r1g
 [BRGBGBRG](/stripes/brgbgbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacHardy](/tartans/machardy/) tartan — the named design grouping this sett with its kin.
+Part of the [MacHardy](/tartans/m/ma/machardy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

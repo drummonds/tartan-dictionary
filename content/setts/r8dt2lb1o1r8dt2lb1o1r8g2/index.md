@@ -6,6 +6,8 @@ This is the **Fearns McIntosh Millennium (Personal)** sett — one scale-free pr
 [GRRWBRRWBR](/stripes/grrwbrrwbr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Fearns McIntosh Millennium](/tartans/f/fe/fearns-mcintosh-millennium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Meeting Professionals International** sett — one scale-free prop
 [BKWKWKBKBR](/stripes/bkwkwkbkbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Meeting Professionals International](/tartans/m/me/meeting-professionals-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

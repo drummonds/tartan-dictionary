@@ -6,6 +6,8 @@ This is the **Butler** sett — one scale-free proportion (`db48r18db6r13y4r14`)
 [BRBRGR](/stripes/brbrgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Butler](/tartans/b/bu/butler/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

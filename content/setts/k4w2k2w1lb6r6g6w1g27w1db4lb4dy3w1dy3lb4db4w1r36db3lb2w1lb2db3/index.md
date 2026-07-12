@@ -6,7 +6,7 @@ This is the **Ross Wedding Dress** sett — one scale-free proportion (`k4w2k2w1
 [BWWWBRWBWGWGWBWGWGRWWKWK](/stripes/bwwwbrwbwgwgwbwgwgrwwkwk/). It is recorded as a single **variant**, below.
 First attested **1766**.
 
-Part of the [Ross Wedding Dress](/tartans/ross-wedding-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Ross Wedding Dress](/tartans/r/ro/ross-wedding-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

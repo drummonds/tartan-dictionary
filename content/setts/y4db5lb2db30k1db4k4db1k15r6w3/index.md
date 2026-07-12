@@ -6,6 +6,8 @@ This is the **Correctional Service Canada** sett — one scale-free proportion (
 [GBWBKBKBKRW](/stripes/gbwbkbkbkrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Correctional Service Canada](/tartans/c/co/correctional-service-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

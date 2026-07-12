@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Bear"
+  url: "/tartans/s/sc/scottish-bear/"
 - name: "Scottish Bear (Mathan Albannach)"
   url: "/setts/dy11w3db5w2y1db4w1db2dbi11db3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy11w3db5w2y1db4w1db2dbi11db3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBWBGWBWG](/stripes/gbbbwbgwbwg/).
+
+Part of the [Scottish Bear](/tartans/s/sc/scottish-bear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAllum"
+  url: "/clan/macallum/"
+- name: "MacAllum of Berwick"
+  url: "/families/macallum-of-berwick/"
+- name: "MacAllum of Berwick"
+  url: "/tartans/m/ma/macallum-of-berwick/"
 - name: "MacAllum of Berwick (Clan?)"
   url: "/setts/db10r7db31k25dg23k8db7r8ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10r7db31k25dg23k8db7r8ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGKBRY](/stripes/brbkgkbry/).
+
+Part of the [MacAllum of Berwick](/tartans/m/ma/macallum-of-berwick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

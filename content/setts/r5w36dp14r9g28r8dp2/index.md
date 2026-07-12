@@ -6,6 +6,8 @@ This is the **MacKintosh, Arisaid** sett — one scale-free proportion (`r5w36dp
 [BRGRBWR](/stripes/brgrbwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKintosh, Arisaid](/tartans/m/ma/mackintosh-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

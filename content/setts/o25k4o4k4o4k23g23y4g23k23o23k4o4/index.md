@@ -6,6 +6,8 @@ This is the **Poulter, Green (Corporate)** sett — one scale-free proportion (`
 [RKRKGGGKRKRKR](/stripes/rkrkgggkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Poulter](/tartans/p/po/poulter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

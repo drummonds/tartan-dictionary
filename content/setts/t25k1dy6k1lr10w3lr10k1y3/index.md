@@ -7,6 +7,8 @@ This is the **O'Rourke (Name?)** sett — one scale-free proportion (`t25k1dy6k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [O'Rourke](/tartans/o/o/o-rourke/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

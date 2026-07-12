@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Earl of Dumfries"
+  url: "/tartans/e/ea/earl-of-dumfries/"
 - name: "Earl of Dumfries (Personal)"
   url: "/setts/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRKRGKG](/stripes/bkgkgkbrkrkrgkg/).
+
+Part of the [Earl of Dumfries](/tartans/e/ea/earl-of-dumfries/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

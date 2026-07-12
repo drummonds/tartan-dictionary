@@ -6,6 +6,8 @@ This is the **Wyckoff, Ann Grainger Phillips Commemorative Tartan** sett — one
 [KWWWYWBW](/stripes/kwwwywbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wyckoff, Ann Grainger Phillips Commemorative](/tartans/w/wy/wyckoff-ann-grainger-phillips-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

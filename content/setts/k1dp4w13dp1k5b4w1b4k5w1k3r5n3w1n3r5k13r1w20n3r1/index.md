@@ -6,6 +6,8 @@ This is the **Aberdeen Dress (Dance)** sett — one scale-free proportion (`k1dp
 [KBWBKBWBKWKRBWBRKRWBR](/stripes/kbwbkbwbkwkrbwbrkrwbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Aberdeen Dress](/tartans/a/ab/aberdeen-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

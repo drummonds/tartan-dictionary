@@ -6,6 +6,8 @@ This is the **Earl of Inverness (Artefact)** sett — one scale-free proportion 
 [RBYBGBGR](/stripes/rbybgbgr/). It is recorded as a single **variant**, below.
 First attested **~1800**.
 
+Part of the [Earl of Inverness](/tartans/e/ea/earl-of-inverness/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

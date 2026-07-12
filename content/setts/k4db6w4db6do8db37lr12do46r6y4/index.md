@@ -6,6 +6,8 @@ This is the **MacLeroy and Troine 1987** sett — one scale-free proportion (`k4
 [GRBYBBBWBK](/stripes/grbybbbwbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [MacLeroy and Troine 1987](/tartans/m/ma/macleroy-and-troine-1987/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

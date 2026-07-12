@@ -6,6 +6,8 @@ This is the **Help for Heroes** sett — one scale-free proportion (`r6lt25dt10d
 [BYBBBBBBBBBBBBWR](/stripes/bybbbbbbbbbbbbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Help for Heroes](/tartans/h/he/help-for-heroes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

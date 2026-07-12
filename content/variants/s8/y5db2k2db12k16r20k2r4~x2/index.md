@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aitken"
+  url: "/tartans/a/ai/aitken/"
+- name: "Aitken"
   url: "/setts/y5db2k2db12k16r20k2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5db2k2db12k16r20k2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKRKR](/stripes/gbkbkrkr/).
+
+Part of the [Aitken](/tartans/a/ai/aitken/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

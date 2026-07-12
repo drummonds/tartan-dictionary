@@ -7,7 +7,7 @@ This is the **MacCoul** sett — one scale-free proportion (`ri12r2ri2g2ri4g2ri4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
-Part of the [MacCoul](/tartans/maccoul/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCoul](/tartans/m/ma/maccoul/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

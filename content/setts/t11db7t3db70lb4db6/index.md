@@ -7,7 +7,7 @@ This is the **Auchairne** sett — one scale-free proportion (`t11db7t3db70lb4db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1982**.
 
-Part of the [Auchairne](/tartans/auchairne-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Auchairne](/tartans/a/au/auchairne-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

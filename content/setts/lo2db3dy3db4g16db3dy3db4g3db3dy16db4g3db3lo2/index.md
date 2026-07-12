@@ -6,6 +6,8 @@ This is the **Kerry, County** sett — one scale-free proportion (`lo2db3dy3db4g
 [YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kerry, County](/tartans/k/ke/kerry-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

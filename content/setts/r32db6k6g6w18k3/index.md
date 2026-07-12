@@ -6,6 +6,8 @@ This is the **Rose Dress White Dress Clan Tartan** sett — one scale-free propo
 [KWGKBR](/stripes/kwgkbr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Rose Dress White Dress](/tartans/r/ro/rose-dress-white-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

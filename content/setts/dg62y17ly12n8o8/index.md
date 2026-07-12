@@ -6,6 +6,8 @@ This is the **Dundhuin Hunting (Personal)** sett — one scale-free proportion (
 [GGYBR](/stripes/ggybr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dundhuin Hunting](/tartans/d/du/dundhuin-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

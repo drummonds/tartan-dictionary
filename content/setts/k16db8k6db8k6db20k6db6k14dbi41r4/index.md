@@ -7,6 +7,8 @@ This is the **Merchiston, Castle School** sett — one scale-free proportion (`k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1988**.
 
+Part of the [Merchiston Castle School](/tartans/m/me/merchiston-castle-school-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

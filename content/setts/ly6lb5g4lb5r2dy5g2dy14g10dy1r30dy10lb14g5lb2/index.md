@@ -6,6 +6,8 @@ This is the **el Corte** sett — one scale-free proportion (`ly6lb5g4lb5r2dy5g2
 [WGWGRGGGGGRWGWY](/stripes/wgwgrgggggrwgwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [el Corte](/tartans/e/el/el-corte/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

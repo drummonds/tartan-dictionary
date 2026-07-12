@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Triad Highland Games"
+  url: "/tartans/t/tr/triad-highland-games/"
 - name: "Triad Highland Games Proposed"
   url: "/setts/r1g8k8r1k8lb8r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1g8k8r1k8lb8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRKWR](/stripes/rgkrkwr/).
+
+Part of the [Triad Highland Games](/tartans/t/tr/triad-highland-games/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

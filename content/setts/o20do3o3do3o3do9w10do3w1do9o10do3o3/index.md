@@ -6,6 +6,8 @@ This is the **Brown, Watch dress** sett — one scale-free proportion (`o20do3o3
 [RBRBRBWBWBRBR](/stripes/rbrbrbwbwbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Brown, Watch dress](/tartans/b/br/brown-watch-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

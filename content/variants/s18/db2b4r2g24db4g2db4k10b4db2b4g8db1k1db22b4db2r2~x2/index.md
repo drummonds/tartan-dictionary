@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Couper"
+  url: "/clan/couper/"
+- name: "Couper / Cooper"
+  url: "/tartans/c/co/couper-cooper/"
 - name: "Couper / Cooper"
   url: "/setts/db2b4r2g24db4g2db4k10b4db2b4g8db1k1db22b4db2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2b4r2g24db4g2db4k10b4db2b4g8db1k1db22b4db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRGBGBKBBBGBKBBBR](/stripes/bbrgbgbkbbbgbkbbbr/).
+
+Part of the [Couper / Cooper](/tartans/c/co/couper-cooper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Hope Vere Family Tartan** sett — one scale-free proportion (`g19
 [GGKBKGKGKBKGKGKG](/stripes/ggkbkgkgkbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
+Part of the [Hope Vere](/tartans/h/ho/hope-vere/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

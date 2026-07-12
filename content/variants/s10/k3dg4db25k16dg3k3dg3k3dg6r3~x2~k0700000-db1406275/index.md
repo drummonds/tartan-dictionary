@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacAndreis"
-  url: "/tartans/macandreis/"
+  url: "/tartans/m/ma/macandreis/"
 - name: "MacAndreis (Personal)"
   url: "/setts/k3dg4db25k16dg3k3dg3k3dg6r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3dg4db25k16dg3k3dg3k3dg6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBKGKGKGR](/stripes/kgbkgkgkgr/).
 
-Part of the [MacAndreis](/tartans/macandreis/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAndreis](/tartans/m/ma/macandreis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

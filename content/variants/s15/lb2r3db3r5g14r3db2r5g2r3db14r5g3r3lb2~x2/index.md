@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Orchy"
+  url: "/tartans/g/gl/glen-orchy-3/"
 - name: "Glen Orchy #1"
   url: "/setts/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/).
+
+Part of the [Glen Orchy](/tartans/g/gl/glen-orchy-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

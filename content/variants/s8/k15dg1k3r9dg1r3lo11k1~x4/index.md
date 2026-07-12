@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Island of Innis, The"
+  url: "/tartans/i/is/island-of-innis-the/"
+- name: "Island of Innis, The"
   url: "/setts/k15dg1k3r9dg1r3lo11k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15dg1k3r9dg1r3lo11k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRGRYK](/stripes/kgkrgryk/).
+
+Part of the [Island of Innis, The](/tartans/i/is/island-of-innis-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

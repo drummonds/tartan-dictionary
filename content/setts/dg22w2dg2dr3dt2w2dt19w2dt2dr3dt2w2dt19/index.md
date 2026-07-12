@@ -6,6 +6,8 @@ This is the **Clan Iain Mhor (Name)** sett — one scale-free proportion (`dg22w
 [BWBBBWBWBBGWG](/stripes/bwbbbwbwbbgwg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Clan Iain Mhor](/tartans/c/cl/clan-iain-mhor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Californian MacLeod** sett — one scale-free proportion (`y4db22g
 [GBGKGKGWKR](/stripes/gbgkgkgwkr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Californian MacLeod](/tartans/c/ca/californian-macleod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

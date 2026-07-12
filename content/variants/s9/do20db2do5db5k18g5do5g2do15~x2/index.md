@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laois"
+  url: "/tartans/l/la/laois/"
+- name: "Laois"
   url: "/setts/do20db2do5db5k18g5do5g2do15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do20db2do5db5k18g5do5g2do15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGBGB](/stripes/bbbbkgbgb/).
+
+Part of the [Laois](/tartans/l/la/laois/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

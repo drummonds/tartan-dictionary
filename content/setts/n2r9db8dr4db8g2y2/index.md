@@ -6,7 +6,7 @@ This is the **Feis An Eilein** sett — one scale-free proportion (`n2r9db8dr4db
 [BRBBBGG](/stripes/brbbbgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Feis An Eilein](/tartans/feis-an-eilein/) tartan — the named design grouping this sett with its kin.
+Part of the [Feis An Eilein](/tartans/f/fe/feis-an-eilein/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

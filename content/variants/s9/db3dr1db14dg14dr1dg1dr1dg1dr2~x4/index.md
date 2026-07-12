@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Breckon Hunting"
+  url: "/tartans/b/br/breckon-hunting/"
+- name: "Breckon Hunting"
   url: "/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dr1db14dg14dr1dg1dr1dg1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGB](/stripes/bbbgbgbgb/).
+
+Part of the [Breckon Hunting](/tartans/b/br/breckon-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

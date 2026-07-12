@@ -6,6 +6,8 @@ This is the **Pitceathly Chamberlain (Personal)** sett — one scale-free propor
 [BKGKBKBKGW](/stripes/bkgkbkbkgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Pitceathley Chamberlain](/tartans/p/pi/pitceathley-chamberlain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

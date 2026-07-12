@@ -6,6 +6,8 @@ This is the **Payne of Wallins Creek (Personal)** sett — one scale-free propor
 [KGKWKBKBKW](/stripes/kgkwkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Payne of Wallins Creek](/tartans/p/pa/payne-of-wallins-creek/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

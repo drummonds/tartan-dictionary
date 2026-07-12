@@ -6,6 +6,8 @@ This is the **Omega Delta Sigma, National Veterans Fraternity** sett — one sca
 [BKBK](/stripes/bkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Omega Delta Sigma, National Veterans](/tartans/o/om/omega-delta-sigma-national-veterans/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Perry"
-  url: "/tartans/perry/"
+  url: "/tartans/p/pe/perry/"
 - name: "Perry (2014)"
   url: "/setts/k31r12y2n5k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k31r12y2n5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
 
-Part of the [Perry](/tartans/perry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Perry](/tartans/p/pe/perry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

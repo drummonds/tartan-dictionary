@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood Gordon Pink"
+  url: "/tartans/w/we/westwood-gordon-pink/"
 - name: "Westwood Gordon Pink (Fashion)"
   url: "/setts/db21k3db3k3db3k20dg18r3dg18k20db18k3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db21k3db3k3db3k20dg18r3dg18k20db18k3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
+
+Part of the [Westwood Gordon Pink](/tartans/w/we/westwood-gordon-pink/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

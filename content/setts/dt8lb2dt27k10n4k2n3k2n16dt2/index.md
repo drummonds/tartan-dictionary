@@ -6,6 +6,8 @@ This is the **Highland Granite** sett — one scale-free proportion (`dt8lb2dt27
 [BBKBKBKBWB](/stripes/bbkbkbkbwb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Highland Granite](/tartans/h/hi/highland-granite/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Scottish Agricultural Benevolent Institution** sett — one 
 [BGBBGRBRBR](/stripes/bgbbgrbrbr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [RSABI](/tartans/r/rs/rsabi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

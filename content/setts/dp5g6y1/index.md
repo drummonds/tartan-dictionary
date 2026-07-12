@@ -6,6 +6,8 @@ This is the **Wilson's, No 81** sett — one scale-free proportion (`dp5g6y1`), 
 [BGG](/stripes/bgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 81](/tartans/w/wi/wilson-s-no-81/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

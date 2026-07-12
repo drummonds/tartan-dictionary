@@ -6,6 +6,8 @@ This is the **Clinton (Personal)** sett — one scale-free proportion (`w5db6r18
 [WBKWKRBW](/stripes/wbkwkrbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Clinton](/tartans/c/cl/clinton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Caskie** sett — one scale-free proportion (`y3k1g12r7lb25k1w3`),
 [GKGRWKW](/stripes/gkgrwkw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Caskie](/tartans/c/ca/caskie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

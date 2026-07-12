@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebridean Celebration"
+  url: "/tartans/h/he/hebridean-celebration/"
+- name: "Hebridean Celebration"
   url: "/setts/k1g6k6g1dp2dy2db6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1g6k6g1dp2dy2db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBGBW](/stripes/kgkgbgbw/).
+
+Part of the [Hebridean Celebration](/tartans/h/he/hebridean-celebration/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

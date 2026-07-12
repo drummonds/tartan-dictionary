@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Massie/Massey"
+  url: "/tartans/m/ma/massie-massey/"
+- name: "Massie/Massey"
   url: "/setts/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKWKGKWGWKGKWG](/stripes/ggkwkgkwgwkgkwg/).
+
+Part of the [Massie/Massey](/tartans/m/ma/massie-massey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

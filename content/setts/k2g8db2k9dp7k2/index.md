@@ -6,6 +6,8 @@ This is the **Campbell, Sir Walter Scott** sett — one scale-free proportion (`
 [KBKBGK](/stripes/kbkbgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell, Sir Walter Scott](/tartans/c/ca/campbell-sir-walter-scott/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Westwood MacRock (Fashion)** sett — one scale-free proportion (`
 [KBKBWBKBKBKBW](/stripes/kbkbwbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Westwood MacRock](/tartans/w/we/westwood-macrock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

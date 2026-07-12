@@ -6,6 +6,8 @@ This is the **Antigonish Centennial** sett — one scale-free proportion (`k4lb2
 [BGBGBWBWK](/stripes/bgbgbwbwk/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Antigonish](/tartans/a/an/antigonish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

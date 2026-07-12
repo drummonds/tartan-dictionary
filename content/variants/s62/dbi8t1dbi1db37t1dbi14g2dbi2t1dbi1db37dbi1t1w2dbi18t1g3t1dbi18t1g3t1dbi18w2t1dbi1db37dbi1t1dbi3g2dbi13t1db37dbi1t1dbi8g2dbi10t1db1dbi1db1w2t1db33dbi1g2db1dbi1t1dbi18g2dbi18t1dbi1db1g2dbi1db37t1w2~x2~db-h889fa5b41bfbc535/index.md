@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millennium"
+  url: "/tartans/m/mi/millennium/"
 - name: "Millennium (Texcraft)"
   url: "/setts/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2/"
 slug_full: "dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~dbi1406275-db1204274"
@@ -12,6 +14,8 @@ slug_full: "dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1d
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGBBBBBBWBBGBBBGBBWBBBBBBGBBBBBBGBBBBBWBBBGBBBBGBBBBGBBBW](/stripes/bbbbbbgbbbbbbwbbgbbbgbbwbbbbbbgbbbbbbgbbbbbwbbbgbbbbgbbbbgbbbw/).
+
+Part of the [Millennium](/tartans/m/mi/millennium/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
 

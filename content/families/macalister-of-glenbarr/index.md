@@ -13,10 +13,12 @@ A family of [Clan MacAlister](/clan/macalister/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8/">MacAlister of Glenbarr Hunting</a> ★</td><td><code>G/40 DY6 G12 DY12 G12 DY16 DB4 DY4 G40 DY4 DB4 DY92 DB6 DY/16</code></td><td>480</td><td>1984</td></tr>
+<tr><td><a href="/setts/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8/">MacAlister of Glenbarr Hunting</a></td><td><code>G/40 DY6 G12 DY12 G12 DY16 DB4 DY4 G40 DY4 DB4 DY92 DB6 DY/16</code></td><td>480</td><td>1984</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8/"><img src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="MacAlister of Glenbarr Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the MacAlister of Glenbarr Hunting tartan and all its setts →](/tartans/m/ma/macalister-of-glenbarr-hunting/)
 
 ### MacAlister of Glenbarr
 
@@ -30,5 +32,5 @@ A family of [Clan MacAlister](/clan/macalister/).
 </tbody>
 </table>
 
-[See the MacAlister of Glenbarr tartan and all its setts →](/tartans/macalister-of-glenbarr-2/)
+[See the MacAlister of Glenbarr tartan and all its setts →](/tartans/m/ma/macalister-of-glenbarr-2/)
 

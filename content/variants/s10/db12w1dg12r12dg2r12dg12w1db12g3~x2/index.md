@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patterson"
+  url: "/tartans/p/pa/patterson/"
 - name: "Patterson (Red) Clan Tartan"
   url: "/setts/db12w1dg12r12dg2r12dg12w1db12g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12w1dg12r12dg2r12dg12w1db12g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGRGRGWBG](/stripes/bwgrgrgwbg/).
+
+Part of the [Patterson](/tartans/p/pa/patterson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

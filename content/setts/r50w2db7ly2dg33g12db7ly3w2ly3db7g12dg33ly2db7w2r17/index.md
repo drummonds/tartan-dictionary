@@ -6,6 +6,8 @@ This is the **Spens Fragment** sett — one scale-free proportion (`r50w2db7ly2d
 [RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW](/stripes/rwbyggbywybggybwrwbyggbywybggybw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Spens Fragment](/tartans/s/sp/spens-fragment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

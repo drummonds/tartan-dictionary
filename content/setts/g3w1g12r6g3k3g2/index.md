@@ -6,7 +6,7 @@ This is the **Arkansas (Fashion)** sett — one scale-free proportion (`g3w1g12r
 [GKGRGWG](/stripes/gkgrgwg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Arkansas](/tartans/arkansas/) tartan — the named design grouping this sett with its kin.
+Part of the [Arkansas](/tartans/a/ar/arkansas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

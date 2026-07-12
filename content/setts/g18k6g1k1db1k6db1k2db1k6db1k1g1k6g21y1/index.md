@@ -6,6 +6,8 @@ This is the **Grand Lodge of Scotland** sett — one scale-free proportion (`g18
 [GGKGKBKBKBKBKGKG](/stripes/ggkgkbkbkbkbkgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Grand Lodge of Scotland](/tartans/g/gr/grand-lodge-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

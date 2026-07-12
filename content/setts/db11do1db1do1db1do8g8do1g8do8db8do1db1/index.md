@@ -6,6 +6,8 @@ This is the **Tyneside Scottish District Tartan** sett — one scale-free propor
 [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/). It is recorded as a single **variant**, below.
 First attested **1924**.
 
+Part of the [Tyneside](/tartans/t/ty/tyneside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

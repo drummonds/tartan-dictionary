@@ -6,6 +6,8 @@ This is the **Norsemen (Corporate)** sett — one scale-free proportion (`db65k2
 [BBWBKB](/stripes/bbwbkb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Norsemen](/tartans/n/no/norsemen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

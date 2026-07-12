@@ -1,0 +1,41 @@
+---
+title: "Loch Lomond"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GWRY](/stripes/gwry/) — the page of every tartan sharing this colour sequence.
+
+The **Loch Lomond** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g22w14r7ly2/">Loch Lomond</a> ★</td><td><code>G/44 W28 R14 LY/4</code></td><td>132</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g22w14r7ly2/"><img src="/variants/s4/g22w14r7ly2~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g22w14r7y1/">Loch Lomond</a></td><td><code>G/44 W28 R14 Y/2</code></td><td>130</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g22w14r7y1/"><img src="/variants/s4/g22w14r7y1~x2/sett.png" alt="Loch Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Loch Lomond #2
+- Loch Lomond #3
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">132</div><div class="nn-name nn-base"><a href="/variants/s4/g22w14r7ly2~x2/">Loch Lomond</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/g22w14r7ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g22w14r7y1~x2&amp;base=g22w14r7ly2~x2" title="compare in the TTD">0.50</a></div><div class="nn-threads">130</div><div class="nn-name"><a href="/variants/s4/g22w14r7y1~x2/">Loch Lomond</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g22w14r7y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9dr7w7r1~x4&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.13</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s4/g9dr7w7r1~x4/">MacKinnon Dress Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g9dr7w7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6y1r3~x10&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.71</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6y1r3~x10/">Delroeux, John Michael (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6y1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6ly1r3~x10&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6ly1r3~x10/">Delroeux (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6ly1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9o7w7r1~x4&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.82</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s4/g9o7w7r1~x4/">MacKinnon, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g9o7w7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9dy7w7r1~x4&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.82</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s4/g9dy7w7r1~x4/">MacKinnon Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g9dy7w7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10w1r1~x2&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.84</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10w1r1~x2/">Wilson's, No 189</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10w1r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r15w1db4y1g15~x4&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.85</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/r15w1db4y1g15~x4/">Eglinton, Duke of (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r15w1db4y1g15~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8g20w4r1~x5&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.88</a></div><div class="nn-threads">285</div><div class="nn-name"><a href="/variants/s4/db8g20w4r1~x5/">Farooq (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db8g20w4r1~x5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15y3r3dp8w2~x6&amp;base=g22w14r7ly2~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/g15y3r3dp8w2~x6/">ChuMac (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g15y3r3dp8w2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g22w14r7y1~x2/"><circle cx="282.2" cy="213.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="160.9" cy="265.3" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.2" cy="275.8" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/variants/s4/g9dy7w7r1~x4/"><circle cx="160.6" cy="267.8" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.8" cy="225.7" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="189.9" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><circle cx="256.9" cy="248.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

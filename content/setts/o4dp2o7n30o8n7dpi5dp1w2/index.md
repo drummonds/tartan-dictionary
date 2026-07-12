@@ -6,6 +6,8 @@ This is the **Hebridean Thistle (Fashion)** sett — one scale-free proportion (
 [RBRBRBBBW](/stripes/rbrbrbbbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Hebridean Thistle](/tartans/h/he/hebridean-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

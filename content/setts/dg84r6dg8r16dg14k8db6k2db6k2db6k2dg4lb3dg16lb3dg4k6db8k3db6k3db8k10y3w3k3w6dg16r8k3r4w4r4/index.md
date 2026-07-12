@@ -6,6 +6,8 @@ This is the **Duke of Edinburgh (Fashion)** sett — one scale-free proportion (
 [GRGRGKBKBKBKGWGWGKBKBKBKGWKWGRKRWR](/stripes/grgrgkbkbkbkgwgwgkbkbkbkgwkwgrkrwr/). It is recorded as a single **variant**, below.
 First attested **~1955**.
 
+Part of the [Duke of Edinburgh](/tartans/d/du/duke-of-edinburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

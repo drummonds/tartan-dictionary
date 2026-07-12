@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wiegratz Alba"
+  url: "/tartans/w/wi/wiegratz-alba/"
 - name: "Wiegratz Alba (Personal)"
   url: "/setts/w3k2lb30k5r5y5lb5db12w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3k2lb30k5r5y5lb5db12w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGRKWKW](/stripes/wbwgrkwkw/).
+
+Part of the [Wiegratz Alba](/tartans/w/wi/wiegratz-alba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

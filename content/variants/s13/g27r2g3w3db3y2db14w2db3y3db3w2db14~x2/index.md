@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Holiday Inn Crown Plaza"
+  url: "/tartans/h/ho/holiday-inn-crown-plaza/"
+- name: "Holiday Inn Crown Plaza"
   url: "/setts/g27r2g3w3db3y2db14w2db3y3db3w2db14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g27r2g3w3db3y2db14w2db3y3db3w2db14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBWBGBWGRG](/stripes/bwbgbwbgbwgrg/).
+
+Part of the [Holiday Inn Crown Plaza](/tartans/h/ho/holiday-inn-crown-plaza/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Dunanas Rising (Corporate)** sett — one scale-free proportion (`
 [BBRGG](/stripes/bbrgg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dunanas Rising](/tartans/d/du/dunanas-rising/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

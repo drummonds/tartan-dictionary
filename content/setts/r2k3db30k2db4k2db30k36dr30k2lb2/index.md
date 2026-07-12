@@ -6,7 +6,7 @@ This is the **Evans (Welsh Name)** sett — one scale-free proportion (`r2k3db30
 [RKBKBKBKBKW](/stripes/rkbkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Evans](/tartans/evans/) tartan — the named design grouping this sett with its kin.
+Part of the [Evans](/tartans/e/ev/evans/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

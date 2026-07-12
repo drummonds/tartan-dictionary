@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thirkill"
-  url: "/tartans/thirkill/"
+  url: "/tartans/t/th/thirkill/"
 - name: "Thirkill (Dalgliesh)"
   url: "/setts/y6k8g7r6k2r18w6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y6k8g7r6k2r18w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRKRW](/stripes/gkgrkrw/).
 
-Part of the [Thirkill](/tartans/thirkill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Thirkill](/tartans/t/th/thirkill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Cameron of Lochiel (Hunting) Clan/Family Tartan** sett — one sca
 [GGBGRGR](/stripes/ggbgrgr/). It is recorded as a single **variant**, below.
 First attested **1940**.
 
+Part of the [Cameron of Lochiel](/tartans/c/ca/cameron-of-lochiel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

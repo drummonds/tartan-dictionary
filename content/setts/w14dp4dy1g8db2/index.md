@@ -6,7 +6,7 @@ This is the **Manx Laxey Dress Green** sett — one scale-free proportion (`w14d
 [BGGBW](/stripes/bggbw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Manx Laxey Dress](/tartans/manx-laxey-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx Laxey Dress](/tartans/m/ma/manx-laxey-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

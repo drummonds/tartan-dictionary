@@ -6,6 +6,8 @@ This is the **Bell, John** sett — one scale-free proportion (`do7dr4do4dr25dp1
 [BBBBBGBGWG](/stripes/bbbbbgbgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bell, John](/tartans/b/be/bell-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

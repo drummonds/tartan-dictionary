@@ -6,6 +6,8 @@ This is the **Crieff Turquoise (Dance)** sett — one scale-free proportion (`k2
 [KBWBWGBGBGBGW](/stripes/kbwbwgbgbgbgw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Crieff Turquoise](/tartans/c/cr/crieff-turquoise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

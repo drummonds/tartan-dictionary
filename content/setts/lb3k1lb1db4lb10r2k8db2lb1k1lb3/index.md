@@ -6,6 +6,8 @@ This is the **Norwich No.020** sett — one scale-free proportion (`lb3k1lb1db4l
 [WKWBKRWBWKW](/stripes/wkwbkrwbwkw/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.020](/tartans/n/no/norwich-no-020/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

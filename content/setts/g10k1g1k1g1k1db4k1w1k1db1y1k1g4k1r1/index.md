@@ -6,7 +6,7 @@ This is the **Cockburn - 1830 (Clan)** sett — one scale-free proportion (`g10k
 [GKGKGKBKWKBGKGKR](/stripes/gkgkgkbkwkbgkgkr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Cockburn](/tartans/cockburn/) tartan — the named design grouping this sett with its kin.
+Part of the [Cockburn](/tartans/c/co/cockburn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Bomb Disposal** sett — one scale-free proportion (`k28r3y2r3k13g
 [GKGKGKRGRK](/stripes/gkgkgkrgrk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Bomb Disposal](/tartans/b/bo/bomb-disposal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

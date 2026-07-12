@@ -6,6 +6,8 @@ This is the **MacLeroy & Troine** sett — one scale-free proportion (`k2lg3w2lg
 [KYWYBYRBRY](/stripes/kywybyrbry/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [MacLeroy & Troine](/tartans/m/ma/macleroy-troine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

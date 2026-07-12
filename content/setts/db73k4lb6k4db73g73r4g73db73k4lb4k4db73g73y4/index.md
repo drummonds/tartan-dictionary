@@ -6,6 +6,8 @@ This is the **Cambridge** sett — one scale-free proportion (`db73k4lb6k4db73g7
 [BKWKBGRGBKWKBGG](/stripes/bkwkbgrgbkwkbgg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Cambridge](/tartans/c/ca/cambridge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

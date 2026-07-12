@@ -6,6 +6,8 @@ This is the **Bro-Kerne** sett — one scale-free proportion (`w3db1k14db2k1g6k1
 [WBKBKGKBY](/stripes/wbkbkgkby/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-Kerne](/tartans/b/br/bro-kerne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

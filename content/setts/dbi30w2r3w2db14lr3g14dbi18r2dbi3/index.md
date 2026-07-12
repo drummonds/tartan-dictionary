@@ -6,7 +6,7 @@ This is the **Kansai St Andrews Society** sett — one scale-free proportion (`d
 [BRBGYBWRWB](/stripes/brbgybwrwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Kansai St Andrews Society](/tartans/kansai-st-andrews-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Kansai St Andrews Society](/tartans/k/ka/kansai-st-andrews-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Novotel, The** sett — one scale-free proportion (`k3r11db26dy11l
 [KRBGY](/stripes/krbgy/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Novotel, The](/tartans/n/no/novotel-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

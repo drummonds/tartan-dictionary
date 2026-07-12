@@ -6,6 +6,8 @@ This is the **Gunn** sett — one scale-free proportion (`g4db28g1k28g28r4g28k28
 [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Gunn](/tartans/g/gu/gunn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

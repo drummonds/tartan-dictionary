@@ -6,6 +6,8 @@ This is the **Chambers, Christopher J (Personal)** sett — one scale-free propo
 [KWKWGBW](/stripes/kwkwgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Chambers, Christopher J](/tartans/c/ch/chambers-christopher-j-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

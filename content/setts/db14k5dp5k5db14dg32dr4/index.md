@@ -7,6 +7,8 @@ This is the **Bennachie (Whisky)** sett — one scale-free proportion (`db14k5dp
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
+Part of the [Bennachie Whisky](/tartans/b/be/bennachie-whisky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

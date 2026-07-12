@@ -6,6 +6,8 @@ This is the **MacLellan, McLellan hunting** sett — one scale-free proportion (
 [GGRBKBWBKBRKBR](/stripes/ggrbkbwbkbrkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacLellan, McLellan hunting](/tartans/m/ma/maclellan-mclellan-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

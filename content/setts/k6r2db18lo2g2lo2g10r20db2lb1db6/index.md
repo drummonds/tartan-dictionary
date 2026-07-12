@@ -6,6 +6,8 @@ This is the **Aberdeen Asset Management (Corp)** sett — one scale-free proport
 [BWBRGYGYBRK](/stripes/bwbrgygybrk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Aberdeen Asset Management](/tartans/a/ab/aberdeen-asset-management/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

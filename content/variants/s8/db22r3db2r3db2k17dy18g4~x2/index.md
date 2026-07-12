@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotch House 2000 Antique"
+  url: "/tartans/s/sc/scotch-house-2000-antique/"
+- name: "Scotch House 2000 Antique"
   url: "/setts/db22r3db2r3db2k17dy18g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22r3db2r3db2k17dy18g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKGG](/stripes/brbrbkgg/).
+
+Part of the [Scotch House 2000 Antique](/tartans/s/sc/scotch-house-2000-antique/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

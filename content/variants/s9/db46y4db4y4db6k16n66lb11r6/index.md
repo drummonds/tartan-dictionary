@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Association for Neurological Sciences"
+  url: "/tartans/s/sc/scottish-association-for-neurological-sciences/"
+- name: "Scottish Association for Neurological Sciences"
   url: "/setts/db46y4db4y4db6k16n66lb11r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db46y4db4y4db6k16n66lb11r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKBWR](/stripes/bgbgbkbwr/).
+
+Part of the [Scottish Association for Neurological Sciences](/tartans/s/sc/scottish-association-for-neurological-sciences/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

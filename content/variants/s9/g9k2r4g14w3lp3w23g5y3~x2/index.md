@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Taylor Dress"
+  url: "/tartans/t/ta/taylor-dress-2/"
 - name: "Taylor Dress Family Tartan"
   url: "/setts/g9k2r4g14w3lp3w23g5y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9k2r4g14w3lp3w23g5y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWWWGRKG](/stripes/ggwwwgrkg/).
+
+Part of the [Taylor Dress](/tartans/t/ta/taylor-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

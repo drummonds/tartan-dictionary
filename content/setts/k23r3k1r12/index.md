@@ -6,6 +6,8 @@ This is the **Ewing** sett — one scale-free proportion (`k23r3k1r12`), colour 
 [KRKRKR](/stripes/krkrkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ewing](/tartans/e/ew/ewing/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

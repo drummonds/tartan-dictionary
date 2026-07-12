@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ben Ledi"
+  url: "/tartans/b/be/ben-ledi/"
 - name: "Ben Ledi (Fashion)"
   url: "/setts/w60o3w3o8w3o3dg24n12o3n16o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w60o3w3o8w3o3dg24n12o3n16o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGRWRWRW](/stripes/rbrbgrwrwrw/).
+
+Part of the [Ben Ledi](/tartans/b/be/ben-ledi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

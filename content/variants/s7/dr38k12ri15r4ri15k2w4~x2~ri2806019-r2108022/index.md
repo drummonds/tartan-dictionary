@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ferguson's Promise"
-  url: "/tartans/ferguson-s-promise/"
+  url: "/tartans/f/fe/ferguson-s-promise/"
 - name: "Ferguson's Promise (Commemorative)"
   url: "/setts/dr38k12ri15r4ri15k2w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr38k12ri15r4ri15k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRRRKW](/stripes/bkrrrkw/).
 
-Part of the [Ferguson's Promise](/tartans/ferguson-s-promise/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ferguson's Promise](/tartans/f/fe/ferguson-s-promise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

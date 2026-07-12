@@ -6,6 +6,8 @@ This is the **Afternoon Tea / Apple Tea** sett — one scale-free proportion (`l
 [WBRBRY](/stripes/wbrbry/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Afternoon Tea / Apple Tea](/tartans/a/af/afternoon-tea-apple-tea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

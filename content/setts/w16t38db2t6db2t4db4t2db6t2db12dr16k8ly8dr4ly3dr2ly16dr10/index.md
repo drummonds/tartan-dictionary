@@ -6,6 +6,8 @@ This is the **Declaration of Scottish Independence** sett — one scale-free pro
 [BYBYBYKBBBBBBBBBBBW](/stripes/bybybykbbbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Declaration of Scottish Independence](/tartans/d/de/declaration-of-scottish-independence/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

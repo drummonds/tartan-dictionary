@@ -6,6 +6,8 @@ This is the **Unidentified Lindley** sett — one scale-free proportion (`t6r6w1
 [BRWRBG](/stripes/brwrbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Unidentified Lindley](/tartans/u/un/unidentified-lindley-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

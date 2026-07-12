@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Swallow"
+  url: "/tartans/s/sw/swallow/"
 - name: "Swallow (Personal)"
   url: "/setts/k11dr11w11dr11r30k3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11dr11w11dr11r30k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBRKW](/stripes/kbwbrkw/).
+
+Part of the [Swallow](/tartans/s/sw/swallow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

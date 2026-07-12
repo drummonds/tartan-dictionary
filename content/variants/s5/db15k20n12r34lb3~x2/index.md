@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCurdy-Stribbling"
+  url: "/tartans/m/mc/mccurdy-stribbling/"
 - name: "McCurdy-Stribbling (Personal)"
   url: "/setts/db15k20n12r34lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15k20n12r34lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRW](/stripes/bkbrw/).
+
+Part of the [McCurdy-Stribbling](/tartans/m/mc/mccurdy-stribbling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

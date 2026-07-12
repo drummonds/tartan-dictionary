@@ -6,6 +6,8 @@ This is the **Hammarby Football Club** sett — one scale-free proportion (`k1lo
 [KYKGWGWGWGWKYK](/stripes/kykgwgwgwgwkyk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Hammarby Football Club](/tartans/h/ha/hammarby-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

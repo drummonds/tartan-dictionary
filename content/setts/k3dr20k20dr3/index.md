@@ -6,6 +6,8 @@ This is the **Clan Anord (Corporate)** sett — one scale-free proportion (`k3dr
 [BKBK](/stripes/bkbk/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Clan Anord](/tartans/c/cl/clan-anord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

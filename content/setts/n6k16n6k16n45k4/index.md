@@ -6,7 +6,7 @@ This is the **Grey Spirit Fashion Tartan** sett — one scale-free proportion (`
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Grey Spirit](/tartans/grey-spirit/) tartan — the named design grouping this sett with its kin.
+Part of the [Grey Spirit](/tartans/g/gr/grey-spirit/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

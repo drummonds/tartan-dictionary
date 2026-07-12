@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hamilton"
+  url: "/clan/hamilton/"
+- name: "Hamilton"
+  url: "/tartans/h/ha/hamilton-6/"
 - name: "Hamilton (Personal)"
   url: "/setts/g3lr3g18db14dr5db14dr5db14g21lr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3lr3g18db14dr5db14dr5db14g21lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBBBBBGY](/stripes/gygbbbbbgy/).
+
+Part of the [Hamilton](/tartans/h/ha/hamilton-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

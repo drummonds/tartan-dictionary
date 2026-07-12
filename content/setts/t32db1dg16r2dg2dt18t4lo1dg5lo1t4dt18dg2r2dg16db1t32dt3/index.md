@@ -6,6 +6,8 @@ This is the **Heriot Watt University** sett — one scale-free proportion (`t32d
 [BBBGRGBBYGYBBGRGBB](/stripes/bbbgrgbbygybbgrgbb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Heriot Watt University](/tartans/h/he/heriot-watt-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

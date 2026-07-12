@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thompson, Megan Kate"
+  url: "/tartans/t/th/thompson-megan-kate/"
 - name: "Thompson, Megan Kate (Personal)"
   url: "/setts/dp5r8p16w25r4lb4n3lp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp5r8p16w25r4lb4n3lp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWRWBW](/stripes/brbwrwbw/).
+
+Part of the [Thompson, Megan Kate](/tartans/t/th/thompson-megan-kate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

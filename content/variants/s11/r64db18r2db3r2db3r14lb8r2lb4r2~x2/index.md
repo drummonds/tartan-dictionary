@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bennet"
+  url: "/tartans/b/be/bennet/"
+- name: "Bennet"
   url: "/setts/r64db18r2db3r2db3r14lb8r2lb4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r64db18r2db3r2db3r14lb8r2lb4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRWRWR](/stripes/rbrbrbrwrwr/).
+
+Part of the [Bennet](/tartans/b/be/bennet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

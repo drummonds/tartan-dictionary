@@ -6,6 +6,8 @@ This is the **Cairn (Marton Mills)** sett — one scale-free proportion (`k2w1k8
 [KWKWK](/stripes/kwkwk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Cairn](/tartans/c/ca/cairn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

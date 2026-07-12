@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed"
+  url: "/tartans/u/un/unnamed/"
 - name: "Unnamed Green (Teddy Bear)"
   url: "/setts/r1dy3g2dy3r1g24r1dy3g2dy3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1dy3g2dy3r1g24r1dy3g2dy3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGRGRGGGR](/stripes/rgggrgrgggr/).
+
+Part of the [Unnamed](/tartans/u/un/unnamed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

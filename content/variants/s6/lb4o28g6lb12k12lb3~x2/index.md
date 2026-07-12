@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thomson, Lord"
+  url: "/tartans/t/th/thomson-lord/"
 - name: "MacTavish / Thom(p)son, hunting"
   url: "/setts/lb4o28g6lb12k12lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4o28g6lb12k12lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGRW](/stripes/wkwgrw/).
+
+Part of the [Thomson, Lord](/tartans/t/th/thomson-lord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

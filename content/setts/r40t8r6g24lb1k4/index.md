@@ -6,7 +6,7 @@ This is the **MacPhail (Blue Bands)** sett — one scale-free proportion (`r40t8
 [KWGRBR](/stripes/kwgrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacPhail](/tartans/macphail-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPhail](/tartans/m/ma/macphail-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

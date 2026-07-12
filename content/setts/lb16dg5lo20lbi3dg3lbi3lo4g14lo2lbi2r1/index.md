@@ -6,6 +6,8 @@ This is the **Bouguet, Adrian Dress (Personal)** sett — one scale-free proport
 [RWYGYWGWYGW](/stripes/rwygywgwygw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Bouguet, Adrian Dress](/tartans/b/bo/bouguet-adrian-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

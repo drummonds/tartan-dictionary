@@ -7,6 +7,8 @@ This is the **Weisfeld** sett — one scale-free proportion (`k6dbi3dg28w1db28db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
+Part of the [Weisfeld](/tartans/w/we/weisfeld/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

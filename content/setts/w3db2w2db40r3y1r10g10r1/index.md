@@ -6,7 +6,7 @@ This is the **Russian Scottish** sett — one scale-free proportion (`w3db2w2db4
 [RGRGRBWBW](/stripes/rgrgrbwbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Russian Scottish](/tartans/russian-scottish/) tartan — the named design grouping this sett with its kin.
+Part of the [Russian Scottish](/tartans/r/ru/russian-scottish/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

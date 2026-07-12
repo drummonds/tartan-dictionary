@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Linn"
+  url: "/tartans/l/li/linn/"
 - name: "Linn (Personal)"
   url: "/setts/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBRBRBGYGKYKY](/stripes/wbrbrbrbgygkyky/).
+
+Part of the [Linn](/tartans/l/li/linn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

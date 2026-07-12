@@ -6,6 +6,8 @@ This is the **Cartier, Sir George Etienne** sett — one scale-free proportion (
 [BKBRBKBRBR](/stripes/bkbrbkbrbr/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Cartier, Sir George Etienne](/tartans/c/ca/cartier-sir-george-etienne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

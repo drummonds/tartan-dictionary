@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thistle of Scotland"
+  url: "/tartans/t/th/thistle-of-scotland/"
+- name: "Thistle of Scotland"
   url: "/setts/o3db24k16dt3g2dt2g2dt28lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3db24k16dt3g2dt2g2dt28lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBGBGBW](/stripes/rbkbgbgbw/).
+
+Part of the [Thistle of Scotland](/tartans/t/th/thistle-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

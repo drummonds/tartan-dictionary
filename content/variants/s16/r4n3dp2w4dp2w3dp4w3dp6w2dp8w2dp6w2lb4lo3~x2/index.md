@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bradwell, Amy XXXXXXXXXX"
+  url: "/tartans/b/br/bradwell-amy-xxxxxxxxxx/"
 - name: "Bradwell, Amy (Personal) XXXXXXXXXX"
   url: "/setts/r4n3dp2w4dp2w3dp4w3dp6w2dp8w2dp6w2lb4lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4n3dp2w4dp2w3dp4w3dp6w2dp8w2dp6w2lb4lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBWBWBWBWBWBWWY](/stripes/rbbwbwbwbwbwbwwy/).
+
+Part of the [Bradwell, Amy XXXXXXXXXX](/tartans/b/br/bradwell-amy-xxxxxxxxxx/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

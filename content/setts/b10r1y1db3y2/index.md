@@ -6,6 +6,8 @@ This is the **Lytley alias Parsons Hunting (Personal)** sett — one scale-free 
 [BRGBG](/stripes/brgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lytley alias Parsons Hunting](/tartans/l/ly/lytley-alias-parsons-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

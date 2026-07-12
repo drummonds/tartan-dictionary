@@ -6,6 +6,8 @@ This is the **Heston (Name)** sett — one scale-free proportion (`lo2k8db48lb9n
 [YGBRBRBWBKY](/stripes/ygbrbrbwbky/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Heston](/tartans/h/he/heston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

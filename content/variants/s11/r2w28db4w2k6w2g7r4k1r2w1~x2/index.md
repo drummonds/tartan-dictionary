@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rothesay, Duke of"
+  url: "/tartans/r/ro/rothesay-duke-of/"
+- name: "Rothesay, Duke of"
   url: "/setts/r2w28db4w2k6w2g7r4k1r2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2w28db4w2k6w2g7r4k1r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKWGRKRW](/stripes/rwbwkwgrkrw/).
+
+Part of the [Rothesay, Duke of](/tartans/r/ro/rothesay-duke-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

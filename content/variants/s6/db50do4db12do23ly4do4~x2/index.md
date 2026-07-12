@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sligo, County"
+  url: "/tartans/s/sl/sligo-county/"
+- name: "Sligo, County"
   url: "/setts/db50do4db12do23ly4do4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50do4db12do23ly4do4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBYB](/stripes/bbbbyb/).
+
+Part of the [Sligo, County](/tartans/s/sl/sligo-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

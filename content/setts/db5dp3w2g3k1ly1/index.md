@@ -6,6 +6,8 @@ This is the **MacBlain (2016)** sett — one scale-free proportion (`db5dp3w2g3k
 [BBWGKY](/stripes/bbwgky/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [MacBlain](/tartans/m/ma/macblain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

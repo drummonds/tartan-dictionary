@@ -10,7 +10,7 @@ crumbs:
 - name: "Irving of Bonshaw"
   url: "/families/irving-of-bonshaw/"
 - name: "Irving of Bonshaw"
-  url: "/tartans/irving-of-bonshaw-3/"
+  url: "/tartans/i/ir/irving-of-bonshaw-3/"
 - name: "Irving of Bonshaw"
   url: "/setts/dg27g14db2g2y2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg27g14db2g2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGG](/stripes/ggbgg/).
 
-Part of the [Irving of Bonshaw](/tartans/irving-of-bonshaw-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Irving of Bonshaw](/tartans/i/ir/irving-of-bonshaw-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

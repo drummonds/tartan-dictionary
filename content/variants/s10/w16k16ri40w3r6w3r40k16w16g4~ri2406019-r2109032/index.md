@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nisbett Rose Dress"
+  url: "/tartans/n/ni/nisbett-rose-dress/"
 - name: "Nisbett Rose Dress Family Tartan"
   url: "/setts/w16k16ri40w3r6w3r40k16w16g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16k16ri40w3r6w3r40k16w16g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKRWRWRKW](/stripes/gwkrwrwrkw/).
+
+Part of the [Nisbett Rose Dress](/tartans/n/ni/nisbett-rose-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

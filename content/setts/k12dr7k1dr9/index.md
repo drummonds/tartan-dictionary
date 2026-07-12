@@ -6,6 +6,8 @@ This is the **Lendrum (Black & Red) or MacFarlane** sett — one scale-free prop
 [BKBK](/stripes/bkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lendrum](/tartans/l/le/lendrum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

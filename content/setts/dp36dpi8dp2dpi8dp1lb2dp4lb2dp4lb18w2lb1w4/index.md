@@ -6,6 +6,8 @@ This is the **Diamond Jubilee (McGill) (Fashion)** sett — one scale-free propo
 [BBBBBWBWBWWWW](/stripes/bbbbbwbwbwwww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Diamond Jubilee](/tartans/d/di/diamond-jubilee-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

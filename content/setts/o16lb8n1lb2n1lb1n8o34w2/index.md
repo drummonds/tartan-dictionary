@@ -6,6 +6,8 @@ This is the **Stuart of Bute 2013 (Fashion)** sett — one scale-free proportion
 [RWBWBWBRW](/stripes/rwbwbwbrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Stuart of Bute 2013](/tartans/s/st/stuart-of-bute-2013/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

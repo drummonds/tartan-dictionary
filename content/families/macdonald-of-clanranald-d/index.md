@@ -19,5 +19,5 @@ A family of [Clan MacDonald](/clan/macdonald/).
 </tbody>
 </table>
 
-[See the MacDonald of Clanranald D tartan and all its setts →](/tartans/macdonald-of-clanranald-d/)
+[See the MacDonald of Clanranald D tartan and all its setts →](/tartans/m/ma/macdonald-of-clanranald-d/)
 

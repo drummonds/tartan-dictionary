@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McEachern, Andrew"
+  url: "/tartans/m/mc/mceachern-andrew/"
+- name: "McEachern, Andrew"
   url: "/setts/n7w1r6db10dg10w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n7w1r6db10dg10w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBGW](/stripes/bwrbgw/).
+
+Part of the [McEachern, Andrew](/tartans/m/mc/mceachern-andrew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

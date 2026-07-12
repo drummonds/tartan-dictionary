@@ -6,7 +6,7 @@ This is the **Campbell of Glenlyon Clan Tartan** sett — one scale-free proport
 [BKBKG](/stripes/bkbkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Campbell of Glenlyon](/tartans/campbell-of-glenlyon/) tartan — the named design grouping this sett with its kin.
+Part of the [Campbell of Glenlyon](/tartans/c/ca/campbell-of-glenlyon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

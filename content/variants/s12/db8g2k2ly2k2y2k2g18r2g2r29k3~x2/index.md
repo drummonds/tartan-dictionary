@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cats"
+  url: "/tartans/c/ca/cats/"
 - name: "Cats (Fashion)"
   url: "/setts/db8g2k2ly2k2y2k2g18r2g2r29k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8g2k2ly2k2y2k2g18r2g2r29k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKYKGKGRGRK](/stripes/bgkykgkgrgrk/).
+
+Part of the [Cats](/tartans/c/ca/cats/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

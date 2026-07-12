@@ -6,6 +6,8 @@ This is the **Isla Grant (Personal)** sett — one scale-free proportion (`k4r2d
 [BRBGBGBRBWBKBRBRK](/stripes/brbgbgbrbwbkbrbrk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Isla Grant](/tartans/i/is/isla-grant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

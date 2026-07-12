@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes"
+  url: "/tartans/i/in/innes/"
 - name: "Innes (D C Stewart)"
   url: "/setts/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRKRKRGRBRKGKRW](/stripes/kgrkrkrgrbrkgkrw/).
+
+Part of the [Innes](/tartans/i/in/innes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

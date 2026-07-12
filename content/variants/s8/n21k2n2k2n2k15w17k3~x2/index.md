@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laksaa"
-  url: "/tartans/laksaa/"
+  url: "/tartans/l/la/laksaa/"
 - name: "Laksaa"
   url: "/setts/n21k2n2k2n2k15w17k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n21k2n2k2n2k15w17k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWK](/stripes/bkbkbkwk/).
 
-Part of the [Laksaa](/tartans/laksaa/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Laksaa](/tartans/l/la/laksaa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr of Ardgowan"
+  url: "/families/kerr-of-ardgowan/"
+- name: "Kerr of Ardgowan"
+  url: "/tartans/k/ke/kerr-of-ardgowan/"
 - name: "Kerr of Ardgowan Red (Personal)"
   url: "/setts/lo2y1r42g2r6lr1g1lr1lo4lb4g1y1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2y1r42g2r6lr1g1lr1lo4lb4g1y1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGGWYYGYRGRGY](/stripes/yggwyygyrgrgy/).
+
+Part of the [Kerr of Ardgowan](/tartans/k/ke/kerr-of-ardgowan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

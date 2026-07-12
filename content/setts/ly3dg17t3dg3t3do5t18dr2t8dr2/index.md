@@ -6,6 +6,8 @@ This is the **Donegal, County** sett — one scale-free proportion (`ly3dg17t3dg
 [BBBBBBGBGY](/stripes/bbbbbbgbgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Donegal, County](/tartans/d/do/donegal-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

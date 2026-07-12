@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Braid"
+  url: "/tartans/b/br/braid/"
 - name: "Braid (Estimated threadcount)"
   url: "/setts/db13k3db5k6g18k2dp9k2db3k2dp11k4r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db13k3db5k6g18k2dp9k2db3k2dp11k4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKBKBKBKR](/stripes/bkbkgkbkbkbkr/).
+
+Part of the [Braid](/tartans/b/br/braid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Stewart of Appin Htg Dress** sett — one scale-free proportion (`
 [BBBWBWBWBW](/stripes/bbbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
+Part of the [Stewart of Appin Htg Dress](/tartans/s/st/stewart-of-appin-htg-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

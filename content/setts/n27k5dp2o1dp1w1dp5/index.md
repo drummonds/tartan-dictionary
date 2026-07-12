@@ -6,6 +6,8 @@ This is the **Caledonian Mist** sett — one scale-free proportion (`n27k5dp2o1d
 [BKBRBWB](/stripes/bkbrbwb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Caledonian Mist](/tartans/c/ca/caledonian-mist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Newmill Corporate Tartan** sett — one scale-free proportion (`r5
 [RRBBBRY](/stripes/rrbbbry/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Newmill](/tartans/n/ne/newmill-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Borders Tourist Board (Corp** sett — one scale-free pro
 [BGBGWGRGY](/stripes/bgbgwgrgy/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Scottish Borders Tourist Board (Corp](/tartans/s/sc/scottish-borders-tourist-board-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

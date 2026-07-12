@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mundigl"
-  url: "/tartans/mundigl/"
+  url: "/tartans/m/mu/mundigl/"
 - name: "Mundigl"
   url: "/setts/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
 
-Part of the [Mundigl](/tartans/mundigl/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mundigl](/tartans/m/mu/mundigl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "BlackRock"
+  url: "/tartans/b/bl/blackrock/"
 - name: "BlackRock (Symmetrical)"
   url: "/setts/k10dg3k6dg20ki8dr4w4dg10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10dg3k6dg20ki8dr4w4dg10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBKGKGK](/stripes/gwbkgkgk/).
+
+Part of the [BlackRock](/tartans/b/bl/blackrock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

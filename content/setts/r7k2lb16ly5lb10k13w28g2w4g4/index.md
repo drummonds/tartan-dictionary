@@ -6,7 +6,7 @@ This is the **Gillies Dress, Blue #1 (Dance)** sett — one scale-free proportio
 [GWGWKWYWKR](/stripes/gwgwkwywkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Gillies Dress](/tartans/gillies-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Gillies Dress](/tartans/g/gi/gillies-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

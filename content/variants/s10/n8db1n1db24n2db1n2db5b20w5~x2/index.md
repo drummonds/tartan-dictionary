@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Carolina"
+  url: "/tartans/s/so/south-carolina/"
+- name: "South Carolina"
   url: "/setts/n8db1n1db24n2db1n2db5b20w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n8db1n1db24n2db1n2db5b20w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBW](/stripes/bbbbbbbbbw/).
+
+Part of the [South Carolina](/tartans/s/so/south-carolina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

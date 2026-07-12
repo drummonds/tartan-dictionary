@@ -6,7 +6,7 @@ This is the **Brunton (Personal)** sett — one scale-free proportion (`k7r3k27d
 [GYGYGKRK](/stripes/gygygkrk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Brunton](/tartans/brunton/) tartan — the named design grouping this sett with its kin.
+Part of the [Brunton](/tartans/b/br/brunton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

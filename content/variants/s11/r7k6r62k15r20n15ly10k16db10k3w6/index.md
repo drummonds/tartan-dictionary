@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cork County Crest"
+  url: "/tartans/c/co/cork-county-crest/"
 - name: "Cork County Crest (Fashion)"
   url: "/setts/r7k6r62k15r20n15ly10k16db10k3w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r7k6r62k15r20n15ly10k16db10k3w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRBYKBKW](/stripes/rkrkrbykbkw/).
+
+Part of the [Cork County Crest](/tartans/c/co/cork-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

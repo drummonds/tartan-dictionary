@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Knights Templar St. A (Corp"
+  url: "/tartans/s/sc/scottish-knights-templar-st-a-corp/"
+- name: "Scottish Knights Templar St. A (Corp"
   url: "/setts/lb4r1db20k6lb5k4lb4k4lb3k2r1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4r1db20k6lb5k4lb4k4lb3k2r1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWKWKWKBRW](/stripes/brkwkwkwkbrw/).
+
+Part of the [Scottish Knights Templar St. A (Corp](/tartans/s/sc/scottish-knights-templar-st-a-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

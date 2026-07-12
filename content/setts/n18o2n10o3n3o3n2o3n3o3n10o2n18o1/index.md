@@ -6,6 +6,8 @@ This is the **Hebridean Cairn** sett — one scale-free proportion (`n18o2n10o3n
 [BRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hebridean Cairn](/tartans/h/he/hebridean-cairn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nocken"
+  url: "/tartans/n/no/nocken/"
 - name: "Nocken Blue Modern Tartan (Personal)"
   url: "/setts/lb3k6w2k6db2k2db32k2n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3k6w2k6db2k2db32k2n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKW](/stripes/bkbkbkwkw/).
+
+Part of the [Nocken](/tartans/n/no/nocken/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

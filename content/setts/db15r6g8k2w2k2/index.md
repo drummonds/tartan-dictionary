@@ -6,6 +6,8 @@ This is the **Stovell (2015)** sett — one scale-free proportion (`db15r6g8k2w2
 [BRGKWK](/stripes/brgkwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Stovell](/tartans/s/st/stovell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

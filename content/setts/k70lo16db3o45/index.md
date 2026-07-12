@@ -6,7 +6,7 @@ This is the **Klymson (Chicago) (Personal)** sett — one scale-free proportion 
 [KYBR](/stripes/kybr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Klymson](/tartans/klymson/) tartan — the named design grouping this sett with its kin.
+Part of the [Klymson](/tartans/k/kl/klymson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

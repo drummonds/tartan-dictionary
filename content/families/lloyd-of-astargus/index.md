@@ -18,5 +18,5 @@ A family of [Clan LLoyd](/clan/lloyd/).
 </tbody>
 </table>
 
-[See the Lloyd of Astargus tartan and all its setts →](/tartans/lloyd-of-astargus/)
+[See the Lloyd of Astargus tartan and all its setts →](/tartans/l/ll/lloyd-of-astargus/)
 

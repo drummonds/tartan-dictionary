@@ -6,7 +6,7 @@ This is the **United Arrows House Check** sett — one scale-free proportion (`d
 [BRKWGBGBK](/stripes/brkwgbgbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [United Arrows House Check](/tartans/united-arrows-house-check/) tartan — the named design grouping this sett with its kin.
+Part of the [United Arrows House Check](/tartans/u/un/united-arrows-house-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

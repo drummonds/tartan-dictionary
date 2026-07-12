@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ritch"
+  url: "/tartans/r/ri/ritch-3/"
 - name: "Ritch Family Tartan"
   url: "/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWWWBWBWWWGGWGGYRWRYGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggyrwrygwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/).
+
+Part of the [Ritch](/tartans/r/ri/ritch-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [62 stripe tartan](/stripes/stripes62/).
 

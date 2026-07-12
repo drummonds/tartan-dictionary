@@ -6,6 +6,8 @@ This is the **Newton Primary School, Dunblane** sett — one scale-free proporti
 [BRBWBRBRG](/stripes/brbwbrbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Newton Primary School, Dunblane](/tartans/n/ne/newton-primary-school-dunblane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

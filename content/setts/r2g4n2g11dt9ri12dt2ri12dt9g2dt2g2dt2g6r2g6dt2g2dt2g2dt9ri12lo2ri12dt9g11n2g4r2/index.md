@@ -6,6 +6,8 @@ This is the **Shearer** sett — one scale-free proportion (`r2g4n2g11dt9ri12dt2
 [RGBGBRBRBGBGBGRGBGBGBRYRBGBGR](/stripes/rgbgbrbrbgbgbgrgbgbgbryrbgbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Shearer](/tartans/s/sh/shearer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Love Htg (Personal)** sett — one scale-free proportion (`dg32w3d
 [BRBGBGBRBGWG](/stripes/brbgbgbrbgwg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Love Hunting](/tartans/l/lo/love-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

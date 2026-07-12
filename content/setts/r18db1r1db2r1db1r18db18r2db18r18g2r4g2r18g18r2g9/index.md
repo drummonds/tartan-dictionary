@@ -7,7 +7,7 @@ This is the **Ross** sett — one scale-free proportion (`r18db1r1db2r1db1r18db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [MacTier of Durris](/tartans/mactier-of-durris/) tartan — the named design grouping this sett with its kin.
+Part of the [MacTier of Durris](/tartans/m/ma/mactier-of-durris/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

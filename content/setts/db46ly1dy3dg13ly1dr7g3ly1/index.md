@@ -6,6 +6,8 @@ This is the **Victorian Highland Pipe Band Assoc** sett — one scale-free propo
 [BYGGYBGY](/stripes/byggybgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Victorian Highland Pipe Band Assoc](/tartans/v/vi/victorian-highland-pipe-band-assoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Campbell of Argyll Dress Clan Tartan** sett — one scale-free pro
 [BKBKBKGWGKWWWWWWWWWKGGGK](/stripes/bkbkbkgwgkwwwwwwwwwkgggk/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Campbell of Argyll Dress](/tartans/c/ca/campbell-of-argyll-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

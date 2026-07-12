@@ -6,6 +6,8 @@ This is the **Cutter (Name)** sett — one scale-free proportion (`r2ri2r14db2r2
 [GRBRBRBRBRRR](/stripes/grbrbrbrbrrr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Cutter](/tartans/c/cu/cutter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

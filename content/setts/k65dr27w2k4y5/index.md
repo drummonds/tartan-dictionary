@@ -6,6 +6,8 @@ This is the **Perry Dress (Personal)** sett — one scale-free proportion (`k65d
 [GKWBK](/stripes/gkwbk/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Perry Dress](/tartans/p/pe/perry-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

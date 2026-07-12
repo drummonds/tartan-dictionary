@@ -6,7 +6,7 @@ This is the **Black Watch/Isetan Men's** sett — one scale-free proportion (`db
 [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Black Watch/Isetan Men's](/tartans/black-watch-isetan-men-s/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Watch/Isetan Men's](/tartans/b/bl/black-watch-isetan-men-s/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

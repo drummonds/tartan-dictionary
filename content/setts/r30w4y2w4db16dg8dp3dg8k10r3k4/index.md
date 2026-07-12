@@ -6,6 +6,8 @@ This is the **Filipino American** sett — one scale-free proportion (`r30w4y2w4
 [KRKGBGBWGWR](/stripes/krkgbgbwgwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Filipino American](/tartans/f/fi/filipino-american/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

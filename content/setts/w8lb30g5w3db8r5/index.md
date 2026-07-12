@@ -6,6 +6,8 @@ This is the **Roseberry** sett — one scale-free proportion (`w8lb30g5w3db8r5`)
 [RBWGWW](/stripes/rbwgww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Roseberry](/tartans/r/ro/roseberry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

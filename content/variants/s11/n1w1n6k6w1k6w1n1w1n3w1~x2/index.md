@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clergy 6"
+  url: "/tartans/c/cl/clergy-6/"
+- name: "Clergy 6"
   url: "/setts/n1w1n6k6w1k6w1n1w1n3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n1w1n6k6w1k6w1n1w1n3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
+
+Part of the [Clergy 6](/tartans/c/cl/clergy-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

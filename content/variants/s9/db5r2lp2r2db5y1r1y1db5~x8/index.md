@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millar"
+  url: "/tartans/m/mi/millar/"
 - name: "Millar (Kirkcaldy) (Personal)"
   url: "/setts/db5r2lp2r2db5y1r1y1db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5r2lp2r2db5y1r1y1db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBRWRB](/stripes/bgrgbrwrb/).
+
+Part of the [Millar](/tartans/m/mi/millar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

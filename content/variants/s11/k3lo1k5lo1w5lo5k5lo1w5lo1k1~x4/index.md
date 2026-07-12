@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee United Football Club"
+  url: "/tartans/d/du/dundee-united-football-club/"
+- name: "Dundee United Football Club"
   url: "/setts/k3lo1k5lo1w5lo5k5lo1w5lo1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lo1k5lo1w5lo5k5lo1w5lo1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYWYKYWYK](/stripes/kykywykywyk/).
+
+Part of the [Dundee United Football Club](/tartans/d/du/dundee-united-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

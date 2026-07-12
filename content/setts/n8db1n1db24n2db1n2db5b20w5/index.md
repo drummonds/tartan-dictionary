@@ -6,6 +6,8 @@ This is the **South Carolina** sett — one scale-free proportion (`n8db1n1db24n
 [BBBBBBBBBW](/stripes/bbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [South Carolina](/tartans/s/so/south-carolina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

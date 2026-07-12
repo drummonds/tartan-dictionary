@@ -6,6 +6,8 @@ This is the **O'Conner Irish Family Tartan** sett — one scale-free proportion 
 [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [O'Conner](/tartans/o/o/o-conner/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

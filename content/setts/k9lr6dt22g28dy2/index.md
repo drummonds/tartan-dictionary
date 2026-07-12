@@ -6,6 +6,8 @@ This is the **Wellington (Lochcarron)** sett — one scale-free proportion (`k9l
 [GGBYK](/stripes/ggbyk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wellington](/tartans/w/we/wellington-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

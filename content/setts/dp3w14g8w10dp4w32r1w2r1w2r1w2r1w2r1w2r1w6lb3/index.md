@@ -6,6 +6,8 @@ This is the **Shaw Dress (Personal)** sett — one scale-free proportion (`dp3w1
 [BWGWBWRWRWRWRWRWRWW](/stripes/bwgwbwrwrwrwrwrwrww/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Shaw Dress](/tartans/s/sh/shaw-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

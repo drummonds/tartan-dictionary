@@ -6,6 +6,8 @@ This is the **Seller Sillar Family Tartan** sett — one scale-free proportion (
 [GKWGBGBGRWRW](/stripes/gkwgbgbgrwrw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Seller](/tartans/s/se/seller-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

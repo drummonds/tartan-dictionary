@@ -6,6 +6,8 @@ This is the **Same Sex Marriage** sett — one scale-free proportion (`dp2k2dp1k
 [BKBKBKBKBKGKGKGKKKKKKKYKYKYKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkykykykrkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Same Sex Marriage](/tartans/s/sa/same-sex-marriage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

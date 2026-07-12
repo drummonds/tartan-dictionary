@@ -6,6 +6,8 @@ This is the **Protheroe of Wales** sett — one scale-free proportion (`dg10dbi1
 [BGBYBGBBGBGGGBGBBGBYBG](/stripes/bgbybgbbgbgggbgbbgbybg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Protheroe of Wales](/tartans/p/pr/protheroe-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

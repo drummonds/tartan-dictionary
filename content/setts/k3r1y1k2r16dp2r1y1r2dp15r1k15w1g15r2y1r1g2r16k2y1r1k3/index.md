@@ -6,7 +6,7 @@ This is the **Hay or Leith Clan Tartan** sett — one scale-free proportion (`k3
 [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Leith](/tartans/leith-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Leith](/tartans/l/le/leith-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

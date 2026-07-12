@@ -6,6 +6,8 @@ This is the **Guzzo Check (Personal)** sett — one scale-free proportion (`y20w
 [GWGKWGKW](/stripes/gwgkwgkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Guzzo Check](/tartans/g/gu/guzzo-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

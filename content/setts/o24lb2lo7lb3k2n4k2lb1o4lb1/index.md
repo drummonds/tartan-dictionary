@@ -6,6 +6,8 @@ This is the **VeMMA** sett — one scale-free proportion (`o24lb2lo7lb3k2n4k2lb1
 [RWYWKBKWRW](/stripes/rwywkbkwrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [VeMMA](/tartans/v/ve/vemma/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

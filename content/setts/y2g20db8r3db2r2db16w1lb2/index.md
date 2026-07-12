@@ -6,6 +6,8 @@ This is the **Scotland’s Golf Coast** sett — one scale-free proportion (`y2g
 [GGBRBRBWW](/stripes/ggbrbrbww/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Scotland’s Golf Coast](/tartans/s/sc/scotland-s-golf-coast/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

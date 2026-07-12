@@ -6,6 +6,8 @@ This is the **Scott Black and Grey** sett — one scale-free proportion (`n8k3n1
 [BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
 First attested **1948**.
 
+Part of the [Scott Black and](/tartans/s/sc/scott-black-and/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

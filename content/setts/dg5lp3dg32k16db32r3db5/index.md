@@ -6,7 +6,7 @@ This is the **MacThomas (Clan)** sett — one scale-free proportion (`dg5lp3dg32
 [BRBKGWG](/stripes/brbkgwg/). It is recorded as a single **variant**, below.
 First attested **1954**.
 
-Part of the [MacThomas](/tartans/macthomas/) tartan — the named design grouping this sett with its kin.
+Part of the [MacThomas](/tartans/m/ma/macthomas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

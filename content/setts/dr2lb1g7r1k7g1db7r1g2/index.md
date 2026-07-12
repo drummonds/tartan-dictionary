@@ -6,6 +6,8 @@ This is the **MacCraig** sett — one scale-free proportion (`dr2lb1g7r1k7g1db7r
 [BWGRKGBRG](/stripes/bwgrkgbrg/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [MacCraig](/tartans/m/ma/maccraig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

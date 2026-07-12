@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Regent"
-  url: "/tartans/regent/"
+  url: "/tartans/r/re/regent/"
 - name: "Regent"
   url: "/setts/dp18k7g5r4g7k1dy2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp18k7g5r4g7k1dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKG](/stripes/bkgrgkg/).
 
-Part of the [Regent](/tartans/regent/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Regent](/tartans/r/re/regent/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

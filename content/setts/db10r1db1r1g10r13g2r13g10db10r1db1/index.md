@@ -6,6 +6,8 @@ This is the **Inverness Fencibles** sett — one scale-free proportion (`db10r1d
 [BRBGRGRGRBRBRBRGRGRGBR](/stripes/brbgrgrgrbrbrbrgrgrgbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Inverness Fencibles](/tartans/i/in/inverness-fencibles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

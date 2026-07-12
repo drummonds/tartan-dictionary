@@ -6,6 +6,8 @@ This is the **Michigan, State of** sett — one scale-free proportion (`lb18w1lb
 [GRGYGYWWWW](/stripes/grgygywwww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Michigan, State of](/tartans/m/mi/michigan-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

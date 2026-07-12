@@ -7,6 +7,8 @@ This is the **Maple Leaf Canadian District Tartan** sett — one scale-free prop
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1964**.
 
+Part of the [Maple Leaf MINI](/tartans/m/ma/maple-leaf-mini/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Carron"
+  url: "/tartans/l/lo/loch-carron/"
+- name: "Loch Carron"
   url: "/setts/r5db30k19g23k2w2k5w2k2g23k19db25g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5db30k19g23k2w2k5w2k2g23k19db25g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKWKWKGKBR](/stripes/gbkgkwkwkgkbr/).
+
+Part of the [Loch Carron](/tartans/l/lo/loch-carron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

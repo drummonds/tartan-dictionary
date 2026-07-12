@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Danzas"
-  url: "/tartans/danzas/"
+  url: "/tartans/d/da/danzas/"
 - name: "Danzas"
   url: "/setts/y4b3y1b17db40b2db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4b3y1b17db40b2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBG](/stripes/bbbbgbg/).
 
-Part of the [Danzas](/tartans/danzas/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Danzas](/tartans/d/da/danzas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

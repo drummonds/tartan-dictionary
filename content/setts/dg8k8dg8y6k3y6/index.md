@@ -6,6 +6,8 @@ This is the **Hage-West (Personal)** sett — one scale-free proportion (`dg8k8d
 [GKGGKG](/stripes/gkggkg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hage-West](/tartans/h/ha/hage-west/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "German Heritage"
+  url: "/tartans/g/ge/german-heritage/"
+- name: "German Heritage"
   url: "/setts/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKBKBKBRKBKBKY](/stripes/ykbkbkbrkbkbky/).
+
+Part of the [German Heritage](/tartans/g/ge/german-heritage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

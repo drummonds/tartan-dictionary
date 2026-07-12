@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas McGurran"
+  url: "/tartans/t/th/thomas-mcgurran/"
 - name: "Thomas McGurran"
   url: "/setts/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/).
+
+Part of the [Thomas McGurran](/tartans/t/th/thomas-mcgurran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

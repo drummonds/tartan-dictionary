@@ -7,6 +7,8 @@ This is the **Chinzei Keiai Senior High School** sett — one scale-free proport
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2013**.
 
+Part of the [Chinzei Keiai Senior High School](/tartans/c/ch/chinzei-keiai-senior-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

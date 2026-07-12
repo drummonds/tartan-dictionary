@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Greenock Morton Football Club"
+  url: "/tartans/g/gr/greenock-morton-football-club/"
 - name: "Greenock Morton F. C. (Corporate)"
   url: "/setts/db19w6db105y4db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db19w6db105y4db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWB](/stripes/bgbwb/).
+
+Part of the [Greenock Morton Football Club](/tartans/g/gr/greenock-morton-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

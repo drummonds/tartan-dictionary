@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Indiana \"Cardinal\""
-  url: "/tartans/indiana-cardinal/"
+  url: "/tartans/i/in/indiana-cardinal/"
 - name: "Indiana 'Cardinal'"
   url: "/setts/db8lo1g12dr10y2dr6y2dr4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8lo1g12dr10y2dr6y2dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGBGBGBGBGBGY](/stripes/bygbgbgbgbgbgy/).
 
-Part of the [Indiana "Cardinal"](/tartans/indiana-cardinal/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Indiana "Cardinal"](/tartans/i/in/indiana-cardinal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,7 +6,7 @@ This is the **Mackaw (Corporate)** sett — one scale-free proportion (`r2dbi35d
 [RBBY](/stripes/rbby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Mackaw](/tartans/mackaw/) tartan — the named design grouping this sett with its kin.
+Part of the [Mackaw](/tartans/m/ma/mackaw/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

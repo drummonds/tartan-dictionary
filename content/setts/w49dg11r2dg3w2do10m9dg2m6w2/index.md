@@ -6,6 +6,8 @@ This is the **Strathyre dress** sett — one scale-free proportion (`w49dg11r2dg
 [WGRGWBRGRW](/stripes/wgrgwbrgrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Strathyre dress](/tartans/s/st/strathyre-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Daniel Melrose Family Tartan** sett — one scale-free proportion 
 [WKGBGBGKBRBRBRBRKY](/stripes/wkgbgbgkbrbrbrbrky/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Daniel Melrose](/tartans/d/da/daniel-melrose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

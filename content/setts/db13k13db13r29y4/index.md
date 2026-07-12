@@ -6,6 +6,8 @@ This is the **Highland Pub Company** sett — one scale-free proportion (`db13k1
 [BKBRG](/stripes/bkbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Highland Pub Company](/tartans/h/hi/highland-pub-company/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

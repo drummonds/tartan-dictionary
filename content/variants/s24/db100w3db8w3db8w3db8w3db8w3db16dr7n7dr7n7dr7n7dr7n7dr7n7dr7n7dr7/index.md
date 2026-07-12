@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Old Glory"
+  url: "/tartans/o/ol/old-glory/"
 - name: "Old Glory (1824)"
   url: "/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/).
+
+Part of the [Old Glory](/tartans/o/ol/old-glory/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

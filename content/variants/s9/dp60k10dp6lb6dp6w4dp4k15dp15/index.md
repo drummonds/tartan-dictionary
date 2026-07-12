@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kansas State University"
+  url: "/tartans/k/ka/kansas-state-university/"
+- name: "Kansas State University"
   url: "/setts/dp60k10dp6lb6dp6w4dp4k15dp15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp60k10dp6lb6dp6w4dp4k15dp15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBWBKB](/stripes/bkbwbwbkb/).
+
+Part of the [Kansas State University](/tartans/k/ka/kansas-state-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

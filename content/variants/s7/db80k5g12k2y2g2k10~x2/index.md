@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Affara"
+  url: "/tartans/a/af/affara/"
 - name: "Affara (Personal)"
   url: "/setts/db80k5g12k2y2g2k10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db80k5g12k2y2g2k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGGK](/stripes/bkgkggk/).
+
+Part of the [Affara](/tartans/a/af/affara/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Chesters, Eric (Personal)** sett — one scale-free proportion (`k
 [KBWGGGK](/stripes/kbwgggk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Chesters, Eric](/tartans/c/ch/chesters-eric/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

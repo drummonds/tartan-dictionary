@@ -6,6 +6,8 @@ This is the **Madewell Dress** sett — one scale-free proportion (`r2k2w16dg13g
 [RKWGGGKW](/stripes/rkwgggkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Madewell Dress](/tartans/m/ma/madewell-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

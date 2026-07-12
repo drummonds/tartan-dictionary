@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Covenanter"
+  url: "/tartans/c/co/covenanter/"
+- name: "Covenanter"
   url: "/setts/w30k1w1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w30k1w1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKW](/stripes/kwkw/).
+
+Part of the [Covenanter](/tartans/c/co/covenanter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

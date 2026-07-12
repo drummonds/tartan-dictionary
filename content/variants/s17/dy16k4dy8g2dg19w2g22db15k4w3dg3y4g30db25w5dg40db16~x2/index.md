@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cercles de Fermieres"
+  url: "/tartans/c/ce/cercles-de-fermieres/"
 - name: "Les Cercles de Fermieres du Quebec"
   url: "/setts/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBGGGWKBGWGGGKG](/stripes/bgwbgggwkbgwgggkg/).
+
+Part of the [Cercles de Fermieres](/tartans/c/ce/cercles-de-fermieres/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

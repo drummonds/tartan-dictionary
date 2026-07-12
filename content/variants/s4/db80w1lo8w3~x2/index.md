@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weir Minerals"
+  url: "/tartans/w/we/weir-minerals/"
 - name: "Weir Minerals (Corporate)"
   url: "/setts/db80w1lo8w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db80w1lo8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYW](/stripes/bwyw/).
+
+Part of the [Weir Minerals](/tartans/w/we/weir-minerals/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

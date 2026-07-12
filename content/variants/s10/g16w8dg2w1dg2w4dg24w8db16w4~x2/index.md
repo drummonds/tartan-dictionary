@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Pakistan, The"
+  url: "/tartans/s/sp/spirit-of-pakistan-the/"
+- name: "Spirit of Pakistan, The"
   url: "/setts/g16w8dg2w1dg2w4dg24w8db16w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16w8dg2w1dg2w4dg24w8db16w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWBW](/stripes/gwgwgwgwbw/).
+
+Part of the [Spirit of Pakistan, The](/tartans/s/sp/spirit-of-pakistan-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

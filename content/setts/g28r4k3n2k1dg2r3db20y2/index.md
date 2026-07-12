@@ -6,6 +6,8 @@ This is the **Stirling University Corporate Tartan** sett — one scale-free pro
 [GBRGKBKRG](/stripes/gbrgkbkrg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Stirling University](/tartans/s/st/stirling-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

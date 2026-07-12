@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queensferry"
-  url: "/tartans/queensferry/"
+  url: "/tartans/q/qu/queensferry/"
 - name: "Queensferry (District)"
   url: "/setts/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGBGBGBGBRBRBBR](/stripes/gbwgbgbgbgbrbrbbr/).
 
-Part of the [Queensferry](/tartans/queensferry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Queensferry](/tartans/q/qu/queensferry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

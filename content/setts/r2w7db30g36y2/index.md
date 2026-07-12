@@ -6,6 +6,8 @@ This is the **Centennial-King George Lodge No.171** sett — one scale-free prop
 [GGBWR](/stripes/ggbwr/). It is recorded as a single **variant**, below.
 First attested **1958**.
 
+Part of the [Centennial-King George Lodge No.171](/tartans/c/ce/centennial-king-george-lodge-no-171/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

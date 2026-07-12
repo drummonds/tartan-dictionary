@@ -6,6 +6,8 @@ This is the **Craigclowan School** sett — one scale-free proportion (`db24k4db
 [BKBKGKRKGKBKW](/stripes/bkbkgkrkgkbkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Craigclowan School](/tartans/c/cr/craigclowan-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

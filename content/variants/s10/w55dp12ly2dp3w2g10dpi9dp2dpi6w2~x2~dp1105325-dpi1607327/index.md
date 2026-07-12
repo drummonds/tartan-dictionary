@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart Dress"
+  url: "/tartans/s/st/stewart-dress-2/"
 - name: "Stewart Dress, Purple (Dance)"
   url: "/setts/w55dp12ly2dp3w2g10dpi9dp2dpi6w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w55dp12ly2dp3w2g10dpi9dp2dpi6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
+
+Part of the [Stewart Dress](/tartans/s/st/stewart-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

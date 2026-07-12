@@ -6,6 +6,8 @@ This is the **New Hampshire** sett — one scale-free proportion (`g28k1g1k6w1k6
 [BRBKBKWKGKG](/stripes/brbkbkwkgkg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [New Hampshire](/tartans/n/ne/new-hampshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

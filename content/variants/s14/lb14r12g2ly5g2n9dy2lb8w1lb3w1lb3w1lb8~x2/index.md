@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saint Joseph de Sorel"
+  url: "/tartans/s/sa/saint-joseph-de-sorel-2/"
 - name: "Saint Joseph de Sorel (District)"
   url: "/setts/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGYGBGWWWWWWW](/stripes/wrgygbgwwwwwww/).
+
+Part of the [Saint Joseph de Sorel](/tartans/s/sa/saint-joseph-de-sorel-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

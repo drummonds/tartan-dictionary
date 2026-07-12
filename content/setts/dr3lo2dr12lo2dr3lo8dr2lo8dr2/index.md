@@ -6,6 +6,8 @@ This is the **MacMillan - 1842 (Dress)** sett — one scale-free proportion (`dr
 [BYBYBYBYB](/stripes/bybybybyb/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacMillan](/tartans/m/ma/macmillan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

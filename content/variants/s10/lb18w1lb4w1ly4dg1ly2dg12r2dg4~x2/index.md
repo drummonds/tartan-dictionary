@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Michigan, State of"
+  url: "/tartans/m/mi/michigan-state-of/"
+- name: "Michigan, State of"
   url: "/setts/lb18w1lb4w1ly4dg1ly2dg12r2dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb18w1lb4w1ly4dg1ly2dg12r2dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGYGYWWWW](/stripes/grgygywwww/).
+
+Part of the [Michigan, State of](/tartans/m/mi/michigan-state-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

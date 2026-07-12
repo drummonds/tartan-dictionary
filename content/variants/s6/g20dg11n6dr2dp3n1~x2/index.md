@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chiti, Cristiano"
+  url: "/tartans/c/ch/chiti-cristiano/"
 - name: "Chiti, Cristiano (Personal)"
   url: "/setts/g20dg11n6dr2dp3n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20dg11n6dr2dp3n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGG](/stripes/bbbbgg/).
+
+Part of the [Chiti, Cristiano](/tartans/c/ch/chiti-cristiano/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

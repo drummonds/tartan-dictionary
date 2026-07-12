@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Life Goes on Foundation"
-  url: "/tartans/life-goes-on-foundation/"
+  url: "/tartans/l/li/life-goes-on-foundation/"
 - name: "Life Goes On Foundation (Corporate)"
   url: "/setts/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBYBKBWBWG](/stripes/bkbkbybkbwbwg/).
 
-Part of the [Life Goes on Foundation](/tartans/life-goes-on-foundation/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Life Goes on Foundation](/tartans/l/li/life-goes-on-foundation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

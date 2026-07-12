@@ -6,6 +6,8 @@ This is the **Idaho, Centennial** sett — one scale-free proportion (`db12r2db2
 [BRBRBGWR](/stripes/brbrbgwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Idaho, Centennial](/tartans/i/id/idaho-centennial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

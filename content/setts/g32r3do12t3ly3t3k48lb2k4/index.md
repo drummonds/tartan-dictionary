@@ -7,6 +7,8 @@ This is the **Webster** sett — one scale-free proportion (`g32r3do12t3ly3t3k48
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Webster](/tartans/w/we/webster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

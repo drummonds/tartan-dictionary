@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wisconsin in Scotland"
-  url: "/tartans/wisconsin-in-scotland/"
+  url: "/tartans/w/wi/wisconsin-in-scotland/"
 - name: "Wisconsin in Scotland"
   url: "/setts/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBRWRBBBGBWBGBBBRWRBBBGBG](/stripes/bgbbbrwrbbbgbwbgbbbrwrbbbgbg/).
 
-Part of the [Wisconsin in Scotland](/tartans/wisconsin-in-scotland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wisconsin in Scotland](/tartans/w/wi/wisconsin-in-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

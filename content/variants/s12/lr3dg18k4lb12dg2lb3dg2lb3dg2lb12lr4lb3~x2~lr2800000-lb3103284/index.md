@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Breifne"
+  url: "/tartans/b/br/breifne/"
+- name: "Breifne"
   url: "/setts/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYWGWGWGWKGY](/stripes/wywgwgwgwkgy/).
+
+Part of the [Breifne](/tartans/b/br/breifne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

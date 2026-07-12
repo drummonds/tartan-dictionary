@@ -6,6 +6,8 @@ This is the **Bell Rock Lighthouse 200th Aniversar** sett — one scale-free pro
 [RRKRKBWBWW](/stripes/rrkrkbwbww/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Bell Rock Lighthouse 200th Aniversar](/tartans/b/be/bell-rock-lighthouse-200th-aniversar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

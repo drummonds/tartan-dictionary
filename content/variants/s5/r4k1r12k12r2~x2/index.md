@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Armaddie"
+  url: "/families/campbell-of-armaddie/"
+- name: "Campbell of Armaddie"
+  url: "/tartans/c/ca/campbell-of-armaddie/"
 - name: "Campbell of Armaddie"
   url: "/setts/r4k1r12k12r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k1r12k12r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKR](/stripes/rkrkr/).
+
+Part of the [Campbell of Armaddie](/tartans/c/ca/campbell-of-armaddie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

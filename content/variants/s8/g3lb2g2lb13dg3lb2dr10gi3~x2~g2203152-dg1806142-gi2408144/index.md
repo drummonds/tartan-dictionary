@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manitoba Dress"
+  url: "/tartans/m/ma/manitoba-dress-2/"
 - name: "Manitoba Dress (Dance)"
   url: "/setts/g3lb2g2lb13dg3lb2dr10gi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3lb2g2lb13dg3lb2dr10gi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGWGWG](/stripes/gbwgwgwg/).
+
+Part of the [Manitoba Dress](/tartans/m/ma/manitoba-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

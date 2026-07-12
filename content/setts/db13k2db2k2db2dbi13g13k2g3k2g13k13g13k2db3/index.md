@@ -6,7 +6,7 @@ This is the **Bailey Atlanta National** sett — one scale-free proportion (`db1
 [BKBKBBGKGKGKGKB](/stripes/bkbkbbgkgkgkgkb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Bailey Atlanta National](/tartans/bailey-atlanta-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Bailey Atlanta National](/tartans/b/ba/bailey-atlanta-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

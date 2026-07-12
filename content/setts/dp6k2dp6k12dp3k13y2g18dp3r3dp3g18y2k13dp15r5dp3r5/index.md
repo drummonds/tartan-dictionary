@@ -6,6 +6,8 @@ This is the **Graham of Airth** sett — one scale-free proportion (`dp6k2dp6k12
 [BKBKBKGGBRBGGKBRBR](/stripes/bkbkbkggbrbggkbrbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Graham of Airth](/tartans/g/gr/graham-of-airth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

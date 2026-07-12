@@ -6,6 +6,8 @@ This is the **Hanna of Leith (yellow line)** sett — one scale-free proportion 
 [GBGBGBGBWY](/stripes/gbgbgbgbwy/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Hanna of Leith](/tartans/h/ha/hanna-of-leith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

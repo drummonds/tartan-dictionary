@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hector, James"
+  url: "/tartans/h/he/hector-james-2/"
+- name: "Hector, James"
   url: "/setts/dg8db27dg11do2dg11db27dg8dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8db27dg11do2dg11db27dg8dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
+
+Part of the [Hector, James](/tartans/h/he/hector-james-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

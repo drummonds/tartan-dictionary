@@ -6,6 +6,8 @@ This is the **Royal Scotsman Train** sett — one scale-free proportion (`db5k2d
 [BKBKBKR](/stripes/bkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Royal Scotsman Train](/tartans/r/ro/royal-scotsman-train/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Marshall"
+  url: "/clan/marshall/"
+- name: "Marshall Fields"
+  url: "/tartans/m/ma/marshall-fields/"
 - name: "Marshall Fields Corporate Tartan"
   url: "/setts/g40db2w2db2y2db23g32r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40db2w2db2y2db23g32r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGBGR](/stripes/gbwbgbgr/).
+
+Part of the [Marshall Fields](/tartans/m/ma/marshall-fields/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

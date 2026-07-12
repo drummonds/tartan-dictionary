@@ -6,7 +6,7 @@ This is the **Seton Family Tartan** sett — one scale-free proportion (`g6w1g12
 [GWGRBRKRGR](/stripes/gwgrbrkrgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Seton](/tartans/seton/) tartan — the named design grouping this sett with its kin.
+Part of the [Seton](/tartans/s/se/seton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bank of Scotland"
-  url: "/tartans/bank-of-scotland/"
+  url: "/tartans/b/ba/bank-of-scotland/"
 - name: "Bank of Scotland (1995)"
   url: "/setts/lo1db6k5db6lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lo1db6k5db6lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBY](/stripes/wbkby/).
 
-Part of the [Bank of Scotland](/tartans/bank-of-scotland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bank of Scotland](/tartans/b/ba/bank-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

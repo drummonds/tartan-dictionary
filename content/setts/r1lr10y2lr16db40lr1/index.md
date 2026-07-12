@@ -6,6 +6,8 @@ This is the **Caithness Glass (Corporate)** sett — one scale-free proportion (
 [RYGYBY](/stripes/rygyby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Caithness Glass](/tartans/c/ca/caithness-glass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

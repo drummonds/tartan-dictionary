@@ -6,6 +6,8 @@ This is the **Soroptimist International Corporate Tartan** sett — one scale-fr
 [GBKBKW](/stripes/gbkbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Soroptimist International](/tartans/s/so/soroptimist-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

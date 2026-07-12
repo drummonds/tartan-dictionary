@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gorman Spring"
+  url: "/tartans/g/go/gorman-spring/"
 - name: "Gorman Spring (Personal)"
   url: "/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db72lb4db10g4w4o6w4g4db10g4w4o6w4g4db10lb4db23y2db18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBGWRWGBGWRWGBWB](/stripes/bgbwbgwrwgbgwrwgbwb/).
+
+Part of the [Gorman Spring](/tartans/g/go/gorman-spring/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

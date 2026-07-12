@@ -6,6 +6,8 @@ This is the **Shanghai Scottish** sett — one scale-free proportion (`y4r23db3r
 [GRBRBWBWBWW](/stripes/grbrbwbwbww/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Shanghai Scottish](/tartans/s/sh/shanghai-scottish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

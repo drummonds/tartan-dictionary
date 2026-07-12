@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gouranga"
-  url: "/tartans/gouranga/"
+  url: "/tartans/g/go/gouranga/"
 - name: "Gouranga (Corporate)"
   url: "/setts/t15k3t19w3t5y5r3y5lb3y5k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t15k3t19w3t5y5r3y5lb3y5k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBGRGWGK](/stripes/bkbwbgrgwgk/).
 
-Part of the [Gouranga](/tartans/gouranga/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gouranga](/tartans/g/go/gouranga/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

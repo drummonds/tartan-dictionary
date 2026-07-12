@@ -6,6 +6,8 @@ This is the **Bear Baars (Personal)** sett — one scale-free proportion (`lo2db
 [YBWRWBWKYWY](/stripes/ybwrwbwkywy/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bear Baars](/tartans/b/be/bear-baars/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

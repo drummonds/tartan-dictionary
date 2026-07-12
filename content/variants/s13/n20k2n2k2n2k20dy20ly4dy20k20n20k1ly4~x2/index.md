@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacIsaac"
+  url: "/tartans/m/ma/macisaac/"
 - name: "MacIsaac (Name?)"
   url: "/setts/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGYGKBKY](/stripes/bkbkbkgygkbky/).
+
+Part of the [MacIsaac](/tartans/m/ma/macisaac/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

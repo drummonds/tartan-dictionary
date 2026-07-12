@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dundee Discovery"
+  url: "/tartans/d/du/dundee-discovery/"
 - name: "Dundee Discovery (Corporate)"
   url: "/setts/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBGYGYKBKYGYGBKBKBKGBGK](/stripes/bkbkbkbkbgygykbkygygbkbkbkgbgk/).
+
+Part of the [Dundee Discovery](/tartans/d/du/dundee-discovery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [30 stripe tartan](/stripes/stripes30/).
 

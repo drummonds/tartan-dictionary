@@ -6,6 +6,8 @@ This is the **Eire** sett — one scale-free proportion (`g6lr2g10k3dr1k3lo10lr2
 [GYGKBKYYY](/stripes/gygkbkyyy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Eire](/tartans/e/ei/eire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

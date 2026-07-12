@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ledford"
-  url: "/tartans/ledford/"
+  url: "/tartans/l/le/ledford/"
 - name: "Ledford (Name)"
   url: "/setts/g9n4ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g9n4ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBY](/stripes/gby/).
 
-Part of the [Ledford](/tartans/ledford/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ledford](/tartans/l/le/ledford/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

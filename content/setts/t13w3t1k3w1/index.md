@@ -6,6 +6,8 @@ This is the **Loch Lomond #2** sett — one scale-free proportion (`t13w3t1k3w1`
 [BWBKW](/stripes/bwbkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Loch Lomond](/tartans/l/lo/loch-lomond-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

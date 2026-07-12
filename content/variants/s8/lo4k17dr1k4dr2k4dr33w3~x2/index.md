@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mens Bigi"
+  url: "/tartans/m/me/mens-bigi/"
+- name: "Mens Bigi"
   url: "/setts/lo4k17dr1k4dr2k4dr33w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo4k17dr1k4dr2k4dr33w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBKBKY](/stripes/wbkbkbky/).
+
+Part of the [Mens Bigi](/tartans/m/me/mens-bigi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

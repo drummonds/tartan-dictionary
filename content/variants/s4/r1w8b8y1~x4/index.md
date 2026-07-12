@@ -10,7 +10,7 @@ crumbs:
 - name: "MacRae of Conchra"
   url: "/families/macrae-of-conchra/"
 - name: "MacRae of Conchra"
-  url: "/tartans/macrae-of-conchra/"
+  url: "/tartans/m/ma/macrae-of-conchra/"
 - name: "MacRae of Conchra"
   url: "/setts/r1w8b8y1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1w8b8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWR](/stripes/gbwr/).
 
-Part of the [MacRae of Conchra](/tartans/macrae-of-conchra/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacRae of Conchra](/tartans/m/ma/macrae-of-conchra/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

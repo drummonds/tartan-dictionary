@@ -6,6 +6,8 @@ This is the **Grand Lodge of Scotland Corporate Weavers Tartan** sett — one sc
 [GGKGKBKBKBKBKGKG](/stripes/ggkgkbkbkbkbkgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Grand Lodge of Scotland Corporate Weavers](/tartans/g/gr/grand-lodge-of-scotland-corporate-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

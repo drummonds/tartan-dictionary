@@ -6,7 +6,7 @@ This is the **McCandlish Arisaid, Red (Name)** sett — one scale-free proportio
 [WKBKBKBKWKY](/stripes/wkbkbkbkwky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [McCandlish Arisaid](/tartans/mccandlish-arisaid/) tartan — the named design grouping this sett with its kin.
+Part of the [McCandlish Arisaid](/tartans/m/mc/mccandlish-arisaid/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

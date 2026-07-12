@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hood"
+  url: "/tartans/h/ho/hood/"
 - name: "Hood (Artefact)"
   url: "/setts/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBBKWKBKBBKBW](/stripes/kbkbkbkbkbbkwkbkbbkbw/).
+
+Part of the [Hood](/tartans/h/ho/hood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

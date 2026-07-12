@@ -6,6 +6,8 @@ This is the **Unidentified 35** sett — one scale-free proportion (`db4do2db2w2
 [BBBWBRR](/stripes/bbbwbrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified 35](/tartans/u/un/unidentified-35/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

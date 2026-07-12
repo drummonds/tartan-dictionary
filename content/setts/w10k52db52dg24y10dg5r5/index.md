@@ -6,6 +6,8 @@ This is the **Harvey of Cornwall (Personal)** sett — one scale-free proportion
 [RGGGBKW](/stripes/rgggbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Harvey of Cornwall](/tartans/h/ha/harvey-of-cornwall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

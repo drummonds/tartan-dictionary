@@ -6,6 +6,8 @@ This is the **MacAlpine D** sett — one scale-free proportion (`k4w1k4g1k1g6k1g
 [GKGBGBGKGKGKWK](/stripes/gkgbgbgkgkgkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacAlpine D](/tartans/m/ma/macalpine-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

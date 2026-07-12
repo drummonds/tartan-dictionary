@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacBrine"
+  url: "/tartans/m/ma/macbrine/"
 - name: "MacBrine (Name)"
   url: "/setts/k4r6g8r16k6db10k2db10k2g8y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r6g8r16k6db10k2db10k2g8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBKRGRK](/stripes/ggkbkbkrgrk/).
+
+Part of the [MacBrine](/tartans/m/ma/macbrine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

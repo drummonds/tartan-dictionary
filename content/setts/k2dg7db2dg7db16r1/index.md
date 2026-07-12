@@ -7,6 +7,8 @@ This is the **Hutton** sett — one scale-free proportion (`k2dg7db2dg7db16r1`),
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2004**.
 
+Part of the [Hutton](/tartans/h/hu/hutton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

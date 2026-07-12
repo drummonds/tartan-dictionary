@@ -6,6 +6,8 @@ This is the **Dalziel Rugby Club (Corporate)** sett — one scale-free proportio
 [BKWBKWK](/stripes/bkwbkwk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Dalziel Rugby Club](/tartans/d/da/dalziel-rugby-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

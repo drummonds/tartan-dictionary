@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tipperary"
+  url: "/tartans/t/ti/tipperary/"
+- name: "Tipperary"
   url: "/setts/r33k8do12g12r8do2r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r33k8do12g12r8do2r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGBKR](/stripes/rbrgbkr/).
+
+Part of the [Tipperary](/tartans/t/ti/tipperary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Green Mountain** sett — one scale-free proportion (`dg26r2dg3dy2
 [GRGGGWBW](/stripes/grgggwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Green Mountain](/tartans/g/gr/green-mountain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

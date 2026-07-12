@@ -6,6 +6,8 @@ This is the **Fraser of Stratherrick** sett — one scale-free proportion (`db20
 [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/). It is recorded as a single **variant**, below.
 First attested **1757**.
 
+Part of the [Fraser of Stratherrick](/tartans/f/fr/fraser-of-stratherrick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

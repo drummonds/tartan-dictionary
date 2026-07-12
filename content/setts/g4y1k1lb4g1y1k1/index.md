@@ -6,6 +6,8 @@ This is the **Verble (Personal)** sett — one scale-free proportion (`g4y1k1lb4
 [GGKWGGK](/stripes/ggkwggk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Verble](/tartans/v/ve/verble/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

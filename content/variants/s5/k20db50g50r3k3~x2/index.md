@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Louisville Spalding"
+  url: "/tartans/l/lo/louisville-spalding/"
 - name: "Louisville Spalding (Personal)"
   url: "/setts/k20db50g50r3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20db50g50r3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
+
+Part of the [Louisville Spalding](/tartans/l/lo/louisville-spalding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

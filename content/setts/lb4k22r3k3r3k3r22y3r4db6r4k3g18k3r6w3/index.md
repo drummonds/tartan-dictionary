@@ -6,7 +6,7 @@ This is the **Innes (of Moray)** sett — one scale-free proportion (`lb4k22r3k3
 [WKRKRKRGRBRKGKRW](/stripes/wkrkrkrgrbrkgkrw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Innes](/tartans/innes-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Innes](/tartans/i/in/innes-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

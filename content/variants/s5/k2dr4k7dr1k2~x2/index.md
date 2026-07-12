@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Romsdal Tresfjord"
-  url: "/tartans/romsdal-tresfjord/"
+  url: "/tartans/r/ro/romsdal-tresfjord/"
 - name: "Romsdal Tresfjord"
   url: "/setts/k2dr4k7dr1k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2dr4k7dr1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBK](/stripes/kbkbk/).
 
-Part of the [Romsdal Tresfjord](/tartans/romsdal-tresfjord/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Romsdal Tresfjord](/tartans/r/ro/romsdal-tresfjord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Stewart Mourning Clan Tartan** sett — one scale-free proportion 
 [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Stewart Mourning](/tartans/s/st/stewart-mourning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

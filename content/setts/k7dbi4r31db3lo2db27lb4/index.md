@@ -6,7 +6,7 @@ This is the **Wishart Dress (Clan)** sett — one scale-free proportion (`k7dbi4
 [KBRBYBW](/stripes/kbrbybw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Wishart Dress](/tartans/wishart-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Wishart Dress](/tartans/w/wi/wishart-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

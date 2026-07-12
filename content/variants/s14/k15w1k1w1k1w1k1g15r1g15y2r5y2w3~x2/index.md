@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Courtet-Meyer"
-  url: "/tartans/courtet-meyer/"
+  url: "/tartans/c/co/courtet-meyer/"
 - name: "Courtet-Meyer (Personal)"
   url: "/setts/k15w1k1w1k1w1k1g15r1g15y2r5y2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k15w1k1w1k1w1k1g15r1g15y2r5y2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKGRGGRGW](/stripes/kwkwkwkgrggrgw/).
 
-Part of the [Courtet-Meyer](/tartans/courtet-meyer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Courtet-Meyer](/tartans/c/co/courtet-meyer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

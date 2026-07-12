@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clyde Valley HOG"
+  url: "/tartans/c/cl/clyde-valley-hog/"
+- name: "Clyde Valley HOG"
   url: "/setts/k54lb6k6lb6n20lo40k6y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k54lb6k6lb6n20lo40k6y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYBWKWK](/stripes/gkybwkwk/).
+
+Part of the [Clyde Valley HOG](/tartans/c/cl/clyde-valley-hog/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

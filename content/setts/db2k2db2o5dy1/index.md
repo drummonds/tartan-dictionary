@@ -6,7 +6,7 @@ This is the **Chivas Regal (Corporate)** sett — one scale-free proportion (`db
 [BKBRG](/stripes/bkbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Chivas Regal](/tartans/chivas-regal/) tartan — the named design grouping this sett with its kin.
+Part of the [Chivas Regal](/tartans/c/ch/chivas-regal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

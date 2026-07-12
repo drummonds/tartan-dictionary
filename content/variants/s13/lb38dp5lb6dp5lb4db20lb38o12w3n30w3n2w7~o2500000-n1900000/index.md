@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lethcoe"
+  url: "/tartans/l/le/lethcoe/"
 - name: "Morris, Tom (Corporate)"
   url: "/setts/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWBWRWBWBW](/stripes/wbwbwbwrwbwbw/).
+
+Part of the [Lethcoe](/tartans/l/le/lethcoe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

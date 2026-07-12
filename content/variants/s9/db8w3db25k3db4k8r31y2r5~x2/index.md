@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledon"
+  url: "/tartans/c/ca/caledon/"
 - name: "Caledon (Corporate)"
   url: "/setts/db8w3db25k3db4k8r31y2r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8w3db25k3db4k8r31y2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKRGR](/stripes/bwbkbkrgr/).
+
+Part of the [Caledon](/tartans/c/ca/caledon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

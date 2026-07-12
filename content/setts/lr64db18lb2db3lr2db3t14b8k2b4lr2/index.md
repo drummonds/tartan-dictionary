@@ -6,6 +6,8 @@ This is the **Bennet Dress (Fashion)** sett — one scale-free proportion (`lr64
 [YBKBBBYBWBY](/stripes/ybkbbbybwby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Bennet Dress](/tartans/b/be/bennet-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

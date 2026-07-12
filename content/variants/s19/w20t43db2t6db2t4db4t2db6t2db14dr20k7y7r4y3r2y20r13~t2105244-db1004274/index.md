@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Declaration of Scottish Independence, Arbroath 1320"
+  url: "/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/"
+- name: "Declaration of Scottish Independence, Arbroath 1320"
   url: "/setts/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRGKBBBBBBBBBBBW](/stripes/rgrgrgkbbbbbbbbbbbw/).
+
+Part of the [Declaration of Scottish Independence, Arbroath 1320](/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

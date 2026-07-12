@@ -6,7 +6,7 @@ This is the **Ferguson** sett — one scale-free proportion (`db6g5r1`), colour 
 [BGR](/stripes/bgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ferguson](/tartans/ferguson-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Ferguson](/tartans/f/fe/ferguson-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

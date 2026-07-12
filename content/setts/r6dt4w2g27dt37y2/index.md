@@ -6,6 +6,8 @@ This is the **Highlands of Durham (Corporate)** sett — one scale-free proporti
 [GBGWBR](/stripes/gbgwbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Highlands of Durham](/tartans/h/hi/highlands-of-durham-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

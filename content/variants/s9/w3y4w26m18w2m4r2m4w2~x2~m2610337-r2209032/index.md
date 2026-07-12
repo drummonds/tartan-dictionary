@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yair Dance"
+  url: "/tartans/y/ya/yair-dance/"
+- name: "Yair Dance"
   url: "/setts/w3y4w26m18w2m4r2m4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3y4w26m18w2m4r2m4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWRWRRRW](/stripes/wgwrwrrrw/).
+
+Part of the [Yair Dance](/tartans/y/ya/yair-dance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **(5) Ruxton hunting** sett — one scale-free proportion (`r16k1r8d
 [RKRBKBKRKRBRKRKR](/stripes/rkrbkbkrkrbrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ruxton hunting](/tartans/r/ru/ruxton-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

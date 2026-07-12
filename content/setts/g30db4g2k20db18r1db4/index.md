@@ -6,6 +6,8 @@ This is the **MacTaggert** sett — one scale-free proportion (`g30db4g2k20db18r
 [BRBKGBG](/stripes/brbkgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacTaggert](/tartans/m/ma/mactaggert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

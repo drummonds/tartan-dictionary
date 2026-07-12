@@ -7,7 +7,7 @@ This is the **Murray of Atholl** sett — one scale-free proportion (`db12k2db2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [Murray of Atholl](/tartans/murray-of-atholl/) tartan — the named design grouping this sett with its kin.
+Part of the [Murray of Atholl](/tartans/m/mu/murray-of-atholl/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

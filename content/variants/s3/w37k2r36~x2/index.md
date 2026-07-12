@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hose"
-  url: "/tartans/hose-3/"
+  url: "/tartans/h/ho/hose-3/"
 - name: "Hose"
   url: "/setts/w37k2r36/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w37k2r36/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKW](/stripes/rkw/).
 
-Part of the [Hose](/tartans/hose-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hose](/tartans/h/ho/hose-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 

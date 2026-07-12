@@ -6,7 +6,7 @@ This is the **Bell's Whisky (Corporate)** sett — one scale-free proportion (`r
 [RBWYGYGWR](/stripes/rbwygygwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bell's Whisky](/tartans/bell-s-whisky/) tartan — the named design grouping this sett with its kin.
+Part of the [Bell's Whisky](/tartans/b/be/bell-s-whisky/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bute Heather, Ancient Wth'd (Fashion"
+  url: "/tartans/b/bu/bute-heather-ancient-wth-d-fashion/"
+- name: "Bute Heather, Ancient Wth'd (Fashion"
   url: "/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGBGBGBGWY](/stripes/ybgbgbgbgwy/).
+
+Part of the [Bute Heather, Ancient Wth'd (Fashion](/tartans/b/bu/bute-heather-ancient-wth-d-fashion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

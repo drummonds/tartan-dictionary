@@ -6,7 +6,7 @@ This is the **Grant of Rothiemurchus Artifact Tartan** sett — one scale-free p
 [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Grant of Rothiemurchus](/tartans/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Rothiemurchus](/tartans/g/gr/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

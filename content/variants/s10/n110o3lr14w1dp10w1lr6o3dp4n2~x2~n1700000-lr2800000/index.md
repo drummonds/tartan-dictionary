@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vetoclock"
-  url: "/tartans/vetoclock/"
+  url: "/tartans/v/ve/vetoclock/"
 - name: "Vetoclock"
   url: "/setts/n110o3lr14w1dp10w1lr6o3dp4n2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n110o3lr14w1dp10w1lr6o3dp4n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRYWBWYRB](/stripes/bbrywbwyrb/).
 
-Part of the [Vetoclock](/tartans/vetoclock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Vetoclock](/tartans/v/ve/vetoclock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

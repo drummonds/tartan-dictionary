@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Locky"
+  url: "/tartans/l/lo/locky/"
+- name: "Locky"
   url: "/setts/r3w2r2db2r2db24k28r2k3y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w2r2db2r2db24k28r2k3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKBRBRWR](/stripes/gkrkbrbrwr/).
+
+Part of the [Locky](/tartans/l/lo/locky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

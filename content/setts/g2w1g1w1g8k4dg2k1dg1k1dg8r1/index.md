@@ -6,6 +6,8 @@ This is the **Scotch House (Fashion)** sett — one scale-free proportion (`g2w1
 [GWGWGKGKGKGR](/stripes/gwgwgkgkgkgr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Scotch House](/tartans/s/sc/scotch-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

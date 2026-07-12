@@ -6,7 +6,7 @@ This is the **Inglis (Name)** sett — one scale-free proportion (`lr4g24db10r3d
 [YBRBGY](/stripes/ybrbgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Inglis](/tartans/inglis/) tartan — the named design grouping this sett with its kin.
+Part of the [Inglis](/tartans/i/in/inglis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

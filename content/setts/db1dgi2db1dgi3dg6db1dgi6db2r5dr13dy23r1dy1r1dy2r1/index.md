@@ -6,6 +6,8 @@ This is the **Langerman (Anchorage)** sett — one scale-free proportion (`db1dg
 [BGBGGBGBRBGRGRGR](/stripes/bgbggbgbrbgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Langerman](/tartans/l/la/langerman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

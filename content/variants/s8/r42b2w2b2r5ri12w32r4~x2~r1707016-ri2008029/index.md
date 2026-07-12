@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry, dress Burgundy"
+  url: "/tartans/l/lo/longniddry-dress-burgundy/"
+- name: "Longniddry, dress Burgundy"
   url: "/setts/r42b2w2b2r5ri12w32r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r42b2w2b2r5ri12w32r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBRRWR](/stripes/rbwbrrwr/).
+
+Part of the [Longniddry, dress Burgundy](/tartans/l/lo/longniddry-dress-burgundy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

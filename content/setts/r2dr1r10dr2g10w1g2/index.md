@@ -6,7 +6,7 @@ This is the **Lennox District Tartan** sett — one scale-free proportion (`r2dr
 [GWGBRBR](/stripes/gwgbrbr/). It is recorded as a single **variant**, below.
 First attested **~1600**.
 
-Part of the [Lennox](/tartans/lennox/) tartan — the named design grouping this sett with its kin.
+Part of the [Lennox](/tartans/l/le/lennox/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **New Providence Presbyterian Church** sett — one scale-free propo
 [WBWBWBBRBBRGRGRBWBWBW](/stripes/wbwbwbbrbbrgrgrbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [New Providence Presbyterian Church](/tartans/n/ne/new-providence-presbyterian-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

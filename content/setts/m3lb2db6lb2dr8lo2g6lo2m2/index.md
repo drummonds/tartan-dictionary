@@ -6,6 +6,8 @@ This is the **Bhutan** sett — one scale-free proportion (`m3lb2db6lb2dr8lo2g6l
 [RWBWBYGYR](/stripes/rwbwbygyr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bhutan](/tartans/b/bh/bhutan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sardar Chadha"
+  url: "/tartans/s/sa/sardar-chadha/"
 - name: "Sardar Chadha (Personal)"
   url: "/setts/lr6g34db4g4k32g4db34g4db2g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr6g34db4g4k32g4db34g4db2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKGBGY](/stripes/gbgbgkgbgy/).
+
+Part of the [Sardar Chadha](/tartans/s/sa/sardar-chadha/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

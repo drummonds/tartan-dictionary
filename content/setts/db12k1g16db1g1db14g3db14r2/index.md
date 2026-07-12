@@ -6,7 +6,7 @@ This is the **Orlando, City of** sett — one scale-free proportion (`db12k1g16d
 [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Orlando, City of](/tartans/orlando-city-of/) tartan — the named design grouping this sett with its kin.
+Part of the [Orlando, City of](/tartans/o/or/orlando-city-of/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

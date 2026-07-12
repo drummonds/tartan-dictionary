@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clergy"
+  url: "/tartans/c/cl/clergy-4/"
 - name: "Clergy (WCWM)"
   url: "/setts/y1db4y1db3y1k8y1k8db6y1db1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1db4y1db3y1k8y1k8db6y1db1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKGKBGBG](/stripes/gbgbgkgkbgbg/).
+
+Part of the [Clergy](/tartans/c/cl/clergy-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

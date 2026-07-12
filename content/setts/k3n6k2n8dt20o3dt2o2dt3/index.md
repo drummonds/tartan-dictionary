@@ -6,6 +6,8 @@ This is the **Scottish Monuments (Corporate)** sett — one scale-free proportio
 [BRBRBBKBK](/stripes/brbrbbkbk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Scottish Monuments](/tartans/s/sc/scottish-monuments/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

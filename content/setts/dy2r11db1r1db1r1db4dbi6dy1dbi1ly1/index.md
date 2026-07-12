@@ -6,6 +6,8 @@ This is the **NHK Asaichi** sett — one scale-free proportion (`dy2r11db1r1db1r
 [GRBRBRBBGBY](/stripes/grbrbrbbgby/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [NHK Asaichi](/tartans/n/nh/nhk-asaichi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

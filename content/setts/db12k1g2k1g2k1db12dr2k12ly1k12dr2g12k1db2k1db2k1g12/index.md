@@ -6,7 +6,7 @@ This is the **Ochiltree (Name)** sett — one scale-free proportion (`db12k1g2k1
 [BKGKGKBBKYKBGKBKBKG](/stripes/bkgkgkbbkykbgkbkbkg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Ochiltree](/tartans/ochiltree/) tartan — the named design grouping this sett with its kin.
+Part of the [Ochiltree](/tartans/o/oc/ochiltree/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

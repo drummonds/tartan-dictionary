@@ -6,7 +6,7 @@ This is the **NHS Grampian (Corporate)** sett — one scale-free proportion (`k4
 [KWWWKBW](/stripes/kwwwkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [NHS Grampian](/tartans/nhs-grampian/) tartan — the named design grouping this sett with its kin.
+Part of the [NHS Grampian](/tartans/n/nh/nhs-grampian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Currie (Clan)** sett — one scale-free proportion (`gi44k1gi3y3gi
 [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [Currie](/tartans/c/cu/currie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

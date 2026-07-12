@@ -6,6 +6,8 @@ This is the **Aberdeen F.C. Corporate Tartan** sett — one scale-free proportio
 [WKBKRKW](/stripes/wkbkrkw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Aberdeen Football Club](/tartans/a/ab/aberdeen-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

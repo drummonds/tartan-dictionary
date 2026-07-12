@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Home"
-  url: "/tartans/home/"
+  url: "/tartans/h/ho/home/"
 - name: "Home (Clan)"
   url: "/setts/k36r3k3r3k9t36g3t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k36r3k3r3k9t36g3t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKRK](/stripes/bgbkrkrk/).
 
-Part of the [Home](/tartans/home/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Home](/tartans/h/ho/home/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

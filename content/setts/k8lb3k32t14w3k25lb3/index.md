@@ -6,6 +6,8 @@ This is the **Cowe (Personal)** sett — one scale-free proportion (`k8lb3k32t14
 [KWKBWKW](/stripes/kwkbwkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Cowe](/tartans/c/co/cowe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

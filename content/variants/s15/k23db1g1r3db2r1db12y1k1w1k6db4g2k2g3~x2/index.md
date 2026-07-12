@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Astrobiology"
+  url: "/tartans/a/as/astrobiology/"
+- name: "Astrobiology"
   url: "/setts/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBKWKGBRBRGBK](/stripes/gkgbkwkgbrbrgbk/).
+
+Part of the [Astrobiology](/tartans/a/as/astrobiology/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

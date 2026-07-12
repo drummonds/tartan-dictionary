@@ -6,6 +6,8 @@ This is the **Tache, Sir Etienne Paschal #2** sett — one scale-free proportion
 [WGRGGBGY](/stripes/wgrggbgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tache, Sir Etienne Paschal](/tartans/t/ta/tache-sir-etienne-paschal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

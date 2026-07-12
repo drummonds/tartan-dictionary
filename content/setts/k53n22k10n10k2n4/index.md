@@ -6,7 +6,7 @@ This is the **Black Isle** sett — one scale-free proportion (`k53n22k10n10k2n4
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Black Isle](/tartans/black-isle/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Isle](/tartans/b/bl/black-isle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

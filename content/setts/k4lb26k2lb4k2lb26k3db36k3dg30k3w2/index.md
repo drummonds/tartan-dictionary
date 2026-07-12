@@ -6,6 +6,8 @@ This is the **Ellis (Welsh Name)** sett — one scale-free proportion (`k4lb26k2
 [KWKWKWKBKGKW](/stripes/kwkwkwkbkgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Ellis](/tartans/e/el/ellis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

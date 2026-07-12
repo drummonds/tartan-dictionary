@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Islay Whisky Club"
+  url: "/tartans/i/is/islay-whisky-club-2/"
 - name: "Islay Whisky Club (Corporate)"
   url: "/setts/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGBBWGG](/stripes/bgbwgbbwgg/).
+
+Part of the [Islay Whisky Club](/tartans/i/is/islay-whisky-club-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

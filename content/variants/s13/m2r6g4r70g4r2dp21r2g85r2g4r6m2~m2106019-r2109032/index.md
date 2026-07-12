@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crieff"
-  url: "/tartans/crieff/"
+  url: "/tartans/c/cr/crieff/"
 - name: "Crieff"
   url: "/setts/m2r6g4r70g4r2dp21r2g85r2g4r6m2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/m2r6g4r70g4r2dp21r2g85r2g4r6m2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/).
 
-Part of the [Crieff](/tartans/crieff/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crieff](/tartans/c/cr/crieff/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Mohammed, Abu Hassan (Personal)** sett — one scale-free proporti
 [BYBGRGKYY](/stripes/bybgrgkyy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Mohammed, Abu Hassan](/tartans/m/mo/mohammed-abu-hassan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

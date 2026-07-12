@@ -6,6 +6,8 @@ This is the **Lunting Papi (Personal)** sett — one scale-free proportion (`o5d
 [RBBGGGR](/stripes/rbbgggr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Lunting Papi](/tartans/l/lu/lunting-papi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

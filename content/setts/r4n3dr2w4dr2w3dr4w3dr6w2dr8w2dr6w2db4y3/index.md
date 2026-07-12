@@ -6,6 +6,8 @@ This is the **Bradwell, Carl (Personal)** sett — one scale-free proportion (`r
 [GBWBWBWBWBWBWBBR](/stripes/gbwbwbwbwbwbwbbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Bradwell, Amy](/tartans/b/br/bradwell-amy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

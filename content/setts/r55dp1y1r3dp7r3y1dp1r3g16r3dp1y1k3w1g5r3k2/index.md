@@ -6,6 +6,8 @@ This is the **MacFarhadian (Personal)** sett — one scale-free proportion (`r55
 [KRGWKGBRGRBGRBRGBR](/stripes/krgwkgbrgrbgrbrgbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacFarhadian](/tartans/m/ma/macfarhadian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

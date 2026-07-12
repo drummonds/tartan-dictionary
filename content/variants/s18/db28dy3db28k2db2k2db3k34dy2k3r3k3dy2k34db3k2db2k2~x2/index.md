@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cleikum"
+  url: "/tartans/c/cl/cleikum/"
+- name: "Cleikum"
   url: "/setts/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBKBKGKRKGKBKBK](/stripes/bgbkbkbkgkrkgkbkbk/).
+
+Part of the [Cleikum](/tartans/c/cl/cleikum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

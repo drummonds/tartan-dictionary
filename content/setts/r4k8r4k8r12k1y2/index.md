@@ -7,6 +7,8 @@ This is the **MacKeane (MacIan) Clan Tartan** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [MacDonald of Ardnamurchan](/tartans/m/ma/macdonald-of-ardnamurchan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

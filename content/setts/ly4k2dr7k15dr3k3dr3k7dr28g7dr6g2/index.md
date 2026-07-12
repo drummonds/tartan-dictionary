@@ -6,6 +6,8 @@ This is the **Walker, Evening (Name)** sett — one scale-free proportion (`ly4k
 [GBGBKBKBKBKY](/stripes/gbgbkbkbkbky/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Walker, Evening](/tartans/w/wa/walker-evening/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

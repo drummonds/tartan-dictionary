@@ -6,6 +6,8 @@ This is the **Coalfields Regeneration Trust, The** sett — one scale-free propo
 [BGKGYRK](/stripes/bgkgyrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Coalfields Regeneration Trust, The](/tartans/c/co/coalfields-regeneration-trust-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

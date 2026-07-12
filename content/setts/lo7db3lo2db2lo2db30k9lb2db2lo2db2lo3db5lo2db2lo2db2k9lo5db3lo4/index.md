@@ -6,6 +6,8 @@ This is the **Blue Matheson Hunting (Kinloch Anderson)** sett — one scale-free
 [YBYBYBKWBYBYBYBYBKYBY](/stripes/ybybybkwbybybybybkyby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Blue Matheson Hunting](/tartans/b/bl/blue-matheson-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

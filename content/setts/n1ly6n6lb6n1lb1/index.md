@@ -6,6 +6,8 @@ This is the **Glen Burns (WCWM-2)** sett — one scale-free proportion (`n1ly6n6
 [BYBWBW](/stripes/bybwbw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Glen Burns](/tartans/g/gl/glen-burns/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

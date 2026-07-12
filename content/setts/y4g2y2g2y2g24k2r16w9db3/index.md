@@ -6,7 +6,7 @@ This is the **North West Territories Canadian District Tartan** sett — one sca
 [BWRKGGGGGG](/stripes/bwrkgggggg/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
-Part of the [North West Territories](/tartans/north-west-territories/) tartan — the named design grouping this sett with its kin.
+Part of the [North West Territories](/tartans/n/no/north-west-territories/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

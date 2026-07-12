@@ -6,7 +6,7 @@ This is the **Lashbrooke of Barrowfield (Personal)** sett — one scale-free pro
 [BGBBRBGGWRWB](/stripes/bgbbrbggwrwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Lashbrooke of Barrowfield](/tartans/lashbrooke-of-barrowfield/) tartan — the named design grouping this sett with its kin.
+Part of the [Lashbrooke of Barrowfield](/tartans/l/la/lashbrooke-of-barrowfield/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

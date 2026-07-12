@@ -6,6 +6,8 @@ This is the **MacIntyre of Glenorchy Clan Tartan** sett — one scale-free propo
 [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacIntyre of Glenorchy](/tartans/m/ma/macintyre-of-glenorchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

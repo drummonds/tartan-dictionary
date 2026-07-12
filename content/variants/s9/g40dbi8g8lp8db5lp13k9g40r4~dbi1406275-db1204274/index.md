@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vorwerk, The"
+  url: "/tartans/v/vo/vorwerk-the-2/"
+- name: "Vorwerk, The"
   url: "/setts/g40dbi8g8lp8db5lp13k9g40r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40dbi8g8lp8db5lp13k9g40r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWBWKGR](/stripes/gbgwbwkgr/).
+
+Part of the [Vorwerk, The](/tartans/v/vo/vorwerk-the-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

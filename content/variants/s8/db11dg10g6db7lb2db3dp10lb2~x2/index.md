@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hummelt, Katherine"
+  url: "/tartans/h/hu/hummelt-katherine/"
 - name: "Hummelt, Katherine (Personal)"
   url: "/setts/db11dg10g6db7lb2db3dp10lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11dg10g6db7lb2db3dp10lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWBBW](/stripes/bggbwbbw/).
+
+Part of the [Hummelt, Katherine](/tartans/h/hu/hummelt-katherine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

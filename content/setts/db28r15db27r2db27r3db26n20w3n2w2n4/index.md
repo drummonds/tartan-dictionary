@@ -6,6 +6,8 @@ This is the **Eidart** sett — one scale-free proportion (`db28r15db27r2db27r3d
 [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Eidart](/tartans/e/ei/eidart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

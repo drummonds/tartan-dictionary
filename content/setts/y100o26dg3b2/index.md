@@ -6,6 +6,8 @@ This is the **13, Irish Regiment** sett — one scale-free proportion (`y100o26d
 [BGRG](/stripes/bgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [13, Irish Regiment](/tartans/0-9/0-9/13-irish-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

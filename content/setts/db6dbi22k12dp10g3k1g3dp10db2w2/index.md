@@ -6,7 +6,7 @@ This is the **Cowal (Corporate)** sett — one scale-free proportion (`db6dbi22k
 [BBKBGKGBBW](/stripes/bbkbgkgbbw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
-Part of the [Cowal](/tartans/cowal/) tartan — the named design grouping this sett with its kin.
+Part of the [Cowal](/tartans/c/co/cowal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

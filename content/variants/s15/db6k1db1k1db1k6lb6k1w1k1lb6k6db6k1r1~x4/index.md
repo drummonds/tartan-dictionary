@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacKenzie"
+  url: "/clan/mackenzie/"
+- name: "MacKenzie"
+  url: "/tartans/m/ma/mackenzie-5/"
 - name: "MacKenzie Blue"
   url: "/setts/db6k1db1k1db1k6lb6k1w1k1lb6k6db6k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k6lb6k1w1k1lb6k6db6k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKWKWKBKR](/stripes/bkbkbkwkwkwkbkr/).
+
+Part of the [MacKenzie](/tartans/m/ma/mackenzie-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

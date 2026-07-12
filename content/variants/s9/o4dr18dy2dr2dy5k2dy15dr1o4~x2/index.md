@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Redwoods"
+  url: "/tartans/r/re/redwoods/"
+- name: "Redwoods"
   url: "/setts/o4dr18dy2dr2dy5k2dy15dr1o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4dr18dy2dr2dy5k2dy15dr1o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGKGBR](/stripes/rbgbgkgbr/).
+
+Part of the [Redwoods](/tartans/r/re/redwoods/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Orlando Dress, City of (District)** sett — one scale-free propor
 [BYWBWBWBR](/stripes/bywbwbwbr/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Orlando Dress, City of](/tartans/o/or/orlando-dress-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

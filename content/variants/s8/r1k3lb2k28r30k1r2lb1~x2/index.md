@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Las Vegas Fire Fighters"
+  url: "/tartans/l/la/las-vegas-fire-fighters/"
+- name: "Las Vegas Fire Fighters"
   url: "/setts/r1k3lb2k28r30k1r2lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k3lb2k28r30k1r2lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKRKRW](/stripes/rkwkrkrw/).
+
+Part of the [Las Vegas Fire Fighters](/tartans/l/la/las-vegas-fire-fighters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

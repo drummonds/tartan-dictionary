@@ -7,6 +7,8 @@ This is the **Keela** sett — one scale-free proportion (`db7w3db2w6db16lb26dr4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1998**.
 
+Part of the [Keela](/tartans/k/ke/keela/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

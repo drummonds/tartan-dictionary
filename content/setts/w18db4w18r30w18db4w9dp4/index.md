@@ -6,7 +6,7 @@ This is the **Milne Dress Family Tartan** sett — one scale-free proportion (`w
 [BWBWRWBW](/stripes/bwbwrwbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Milne, Dress](/tartans/milne-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Milne, Dress](/tartans/m/mi/milne-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

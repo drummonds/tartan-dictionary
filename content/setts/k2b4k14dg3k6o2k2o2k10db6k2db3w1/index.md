@@ -6,7 +6,7 @@ This is the **Kennedy** sett — one scale-free proportion (`k2b4k14dg3k6o2k2o2k
 [KBKGKRKRKBKBW](/stripes/kbkgkrkrkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Kennedy](/tartans/kennedy-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Kennedy](/tartans/k/ke/kennedy-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

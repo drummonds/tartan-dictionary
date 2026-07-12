@@ -6,6 +6,8 @@ This is the **Not Specified #4** sett — one scale-free proportion (`n35w2n2w2n
 [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBWBWBWBWBKWKBWBKWKBWBKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkbwbkwkbwbkwkbwbwbwbwbwbwbwbkwkbwbkwkbwbkwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Miss Peffer's](/tartans/m/mi/miss-peffer-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

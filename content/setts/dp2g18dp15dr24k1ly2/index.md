@@ -6,6 +6,8 @@ This is the **Miller, Reverend Ian (Personal** sett — one scale-free proportio
 [BGBBKY](/stripes/bgbbky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Miller, Reverend Ian](/tartans/m/mi/miller-reverend-ian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

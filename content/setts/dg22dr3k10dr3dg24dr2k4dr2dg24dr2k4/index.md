@@ -6,6 +6,8 @@ This is the **Unnamed C19th - Portrait by Ansdell** sett — one scale-free prop
 [GBKBGBKBGBK](/stripes/gbkbgbkbgbk/). It is recorded as a single **variant**, below.
 First attested **1859**.
 
+Part of the [Unnamed C19th](/tartans/u/un/unnamed-c19th-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

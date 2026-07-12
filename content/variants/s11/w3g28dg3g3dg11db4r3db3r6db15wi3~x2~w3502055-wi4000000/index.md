@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wojtek Memorial Trust"
-  url: "/tartans/wojtek-memorial-trust/"
+  url: "/tartans/w/wo/wojtek-memorial-trust/"
 - name: "Wojtek Memorial Trust"
   url: "/setts/w3g28dg3g3dg11db4r3db3r6db15wi3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3g28dg3g3dg11db4r3db3r6db15wi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBRBGGGGW](/stripes/wbrbrbggggw/).
 
-Part of the [Wojtek Memorial Trust](/tartans/wojtek-memorial-trust/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wojtek Memorial Trust](/tartans/w/wo/wojtek-memorial-trust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

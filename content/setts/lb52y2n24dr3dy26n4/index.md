@@ -6,7 +6,7 @@ This is the **Outlander #1** sett — one scale-free proportion (`lb52y2n24dr3dy
 [BGBBGW](/stripes/bgbbgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Outlander](/tartans/outlander-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Outlander](/tartans/o/ou/outlander-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

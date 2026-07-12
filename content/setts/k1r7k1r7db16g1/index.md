@@ -7,6 +7,8 @@ This is the **Robinson Dress (Pendleton) #1** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Robinson Dress Dress](/tartans/r/ro/robinson-dress-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

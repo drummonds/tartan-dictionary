@@ -6,6 +6,8 @@ This is the **Carnegie Check** sett — one scale-free proportion (`dy6k1lr1k1lr
 [GKYKYKYKYKYKYKYKY](/stripes/gkykykykykykykyky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Carnegie](/tartans/c/ca/carnegie-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

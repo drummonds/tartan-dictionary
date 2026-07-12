@@ -6,6 +6,8 @@ This is the **Etienne, Paschal Tache Sir...** sett — one scale-free proportion
 [GGBGRRRW](/stripes/ggbgrrrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Etienne, Paschal Tache Sir...](/tartans/e/et/etienne-paschal-tache-sir-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

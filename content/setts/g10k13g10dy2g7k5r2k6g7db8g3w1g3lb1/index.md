@@ -6,6 +6,8 @@ This is the **Williams Arbutus (Personal)** sett — one scale-free proportion (
 [GKGGGKRKGBGWGW](/stripes/gkgggkrkgbgwgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Williams Arbutus](/tartans/w/wi/williams-arbutus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

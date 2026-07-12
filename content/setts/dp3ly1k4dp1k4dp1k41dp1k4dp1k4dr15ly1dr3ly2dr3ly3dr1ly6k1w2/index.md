@@ -6,6 +6,8 @@ This is the **New Star (Fashion)** sett — one scale-free proportion (`dp3ly1k4
 [BYKBKBKBKBKBYBYBYBYKW](/stripes/bykbkbkbkbkbybybybykw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [New Star](/tartans/n/ne/new-star-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

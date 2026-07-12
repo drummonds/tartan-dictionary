@@ -6,6 +6,8 @@ This is the **Gayre (Clan)** sett — one scale-free proportion (`ri20g4k4lb4g16
 [KRGWGRKWGRGWKGR](/stripes/krgwgrkwgrgwkgr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Gayre](/tartans/g/ga/gayre-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

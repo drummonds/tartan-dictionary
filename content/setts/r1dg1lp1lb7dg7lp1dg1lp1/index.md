@@ -6,6 +6,8 @@ This is the **Beck-McSorley** sett — one scale-free proportion (`r1dg1lp1lb7dg
 [RGWWGWGW](/stripes/rgwwgwgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Beck-McSorley](/tartans/b/be/beck-mcsorley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

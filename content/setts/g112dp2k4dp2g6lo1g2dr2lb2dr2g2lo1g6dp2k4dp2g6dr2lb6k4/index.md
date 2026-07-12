@@ -6,6 +6,8 @@ This is the **Wcwm 9275-1572-1** sett — one scale-free proportion (`g112dp2k4d
 [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Wcwm 9275-1572-1](/tartans/w/wc/wcwm-9275-1572-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

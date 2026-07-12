@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arundel County"
+  url: "/tartans/a/ar/arundel-county/"
 - name: "Arundel County (Dalgleish)"
   url: "/setts/r2lb5k4y1k4db16k3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lb5k4y1k4db16k3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKWR](/stripes/gkbkgkwr/).
+
+Part of the [Arundel County](/tartans/a/ar/arundel-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

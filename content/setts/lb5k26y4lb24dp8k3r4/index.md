@@ -6,7 +6,7 @@ This is the **Pengelly, The Cornish (Name)** sett — one scale-free proportion 
 [RKBWGKW](/stripes/rkbwgkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Pengelly, The Cornish](/tartans/pengelly-the-cornish/) tartan — the named design grouping this sett with its kin.
+Part of the [Pengelly, The Cornish](/tartans/p/pe/pengelly-the-cornish/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Monica** sett — one scale-free proportion (`dr3lb10dr3lb4dr20w1`
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Monica](/tartans/m/mo/monica/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

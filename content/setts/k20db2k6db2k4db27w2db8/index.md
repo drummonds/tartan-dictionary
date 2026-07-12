@@ -6,6 +6,8 @@ This is the **Pride of Kinross** sett — one scale-free proportion (`k20db2k6db
 [BWBKBKBK](/stripes/bwbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Pride of Kinross](/tartans/p/pr/pride-of-kinross/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

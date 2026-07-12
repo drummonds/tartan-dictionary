@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Espy"
+  url: "/tartans/e/es/espy/"
 - name: "Espy (Fashion?)"
   url: "/setts/r10g3k1g3t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10g3k1g3t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGR](/stripes/bgkgr/).
+
+Part of the [Espy](/tartans/e/es/espy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

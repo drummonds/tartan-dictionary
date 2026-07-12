@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Abergavenny"
+  url: "/tartans/a/ab/abergavenny/"
 - name: "Abergaveny (Fashion)"
   url: "/setts/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/).
+
+Part of the [Abergavenny](/tartans/a/ab/abergavenny/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

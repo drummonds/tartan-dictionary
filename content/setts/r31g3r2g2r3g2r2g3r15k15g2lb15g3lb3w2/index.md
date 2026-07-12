@@ -6,6 +6,8 @@ This is the **Moir (Loch Insch) (Personal)** sett — one scale-free proportion 
 [RGRGRGRGRKGWGWW](/stripes/rgrgrgrgrkgwgww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Moir](/tartans/m/mo/moir-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

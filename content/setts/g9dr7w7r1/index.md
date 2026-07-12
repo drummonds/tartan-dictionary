@@ -6,6 +6,8 @@ This is the **MacKinnon Dress Trade Tartan** sett — one scale-free proportion 
 [GBWR](/stripes/gbwr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [MacKinnon Dress](/tartans/m/ma/mackinnon-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canadian Confederation"
+  url: "/tartans/c/ca/canadian-confederation-2/"
 - name: "Canadian Confederation (Commemorat)"
   url: "/setts/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR](/stripes/brkbkbkbkbkbkbkbkrkgbgbgbgbgbgbgbgkrwr/).
+
+Part of the [Canadian Confederation](/tartans/c/ca/canadian-confederation-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
 

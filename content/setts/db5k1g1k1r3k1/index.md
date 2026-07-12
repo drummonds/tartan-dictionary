@@ -6,6 +6,8 @@ This is the **Clerk Family Tartan** sett — one scale-free proportion (`db5k1g1
 [BKGKRK](/stripes/bkgkrk/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Clerk](/tartans/c/cl/clerk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

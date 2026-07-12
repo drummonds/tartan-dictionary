@@ -6,6 +6,8 @@ This is the **Murray of Atholl Dress** sett — one scale-free proportion (`w5db
 [BBKGBGKWBWBW](/stripes/bbkgbgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Murray of Atholl Dress](/tartans/m/mu/murray-of-atholl-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Longford County Crest (Fashion)** sett — one scale-free proporti
 [BKWKYKW](/stripes/bkwkykw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Longford County Crest](/tartans/l/lo/longford-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

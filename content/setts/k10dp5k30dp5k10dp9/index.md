@@ -6,6 +6,8 @@ This is the **Leonard Hunting** sett — one scale-free proportion (`k10dp5k30dp
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Leonard Hunting](/tartans/l/le/leonard-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

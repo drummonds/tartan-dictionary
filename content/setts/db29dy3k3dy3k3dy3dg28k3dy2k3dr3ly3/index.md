@@ -6,6 +6,8 @@ This is the **Bro-Vigouden (Corporate)** sett — one scale-free proportion (`db
 [BGKGKGGKGKBY](/stripes/bgkgkggkgkby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bro-Vigouden](/tartans/b/br/bro-vigouden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

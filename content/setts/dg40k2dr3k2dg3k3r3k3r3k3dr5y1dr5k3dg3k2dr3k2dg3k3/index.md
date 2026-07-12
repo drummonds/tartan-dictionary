@@ -6,6 +6,8 @@ This is the **Austrian Bowhunters Hunting** sett — one scale-free proportion (
 [GKBKGKRKRKBGBKGKBKGK](/stripes/gkbkgkrkrkbgbkgkbkgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Austrian Bowhunters Hunting](/tartans/a/au/austrian-bowhunters-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

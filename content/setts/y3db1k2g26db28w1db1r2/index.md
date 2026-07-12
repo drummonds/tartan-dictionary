@@ -6,7 +6,7 @@ This is the **Johnston, Diana Hunting (Personal)** sett — one scale-free propo
 [GBKGBWBR](/stripes/gbkgbwbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Johnston, Diana Hunting](/tartans/johnston-diana-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Johnston, Diana Hunting](/tartans/j/jo/johnston-diana-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

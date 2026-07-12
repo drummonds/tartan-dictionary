@@ -6,6 +6,8 @@ This is the **MacCaughan or MacEachain (Personal)** sett — one scale-free prop
 [BGKBKR](/stripes/bgkbkr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [MacCaughan](/tartans/m/ma/maccaughan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

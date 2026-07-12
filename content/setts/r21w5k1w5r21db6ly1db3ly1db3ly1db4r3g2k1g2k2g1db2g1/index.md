@@ -6,7 +6,7 @@ This is the **McKee (Lone Star), Dot (Personal)** sett — one scale-free propor
 [GBGKGKGRBYBYBYBRWKWR](/stripes/gbgkgkgrbybybybrwkwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [McKee , Dot](/tartans/mckee-dot/) tartan — the named design grouping this sett with its kin.
+Part of the [McKee , Dot](/tartans/m/mc/mckee-dot/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

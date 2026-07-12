@@ -6,6 +6,8 @@ This is the **42nd Regiment (Musicians) (Mil.)** sett — one scale-free proport
 [KRKRGRGRKRKRK](/stripes/krkrgrgrkrkrk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [42nd Regiment](/tartans/0-9/0-9/42nd-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

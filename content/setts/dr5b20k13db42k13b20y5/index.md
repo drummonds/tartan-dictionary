@@ -6,6 +6,8 @@ This is the **Newmill** sett — one scale-free proportion (`dr5b20k13db42k13b20
 [BBKBKBG](/stripes/bbkbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Newmill](/tartans/n/ne/newmill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

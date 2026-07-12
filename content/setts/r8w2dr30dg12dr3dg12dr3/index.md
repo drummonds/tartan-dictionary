@@ -6,7 +6,7 @@ This is the **Wasko (Personal)** sett — one scale-free proportion (`r8w2dr30dg
 [BGBGBWR](/stripes/bgbgbwr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Wasko](/tartans/wasko/) tartan — the named design grouping this sett with its kin.
+Part of the [Wasko](/tartans/w/wa/wasko/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

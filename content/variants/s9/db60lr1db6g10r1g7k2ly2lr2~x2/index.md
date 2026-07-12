@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mohammed, Abu Hassan"
+  url: "/tartans/m/mo/mohammed-abu-hassan/"
 - name: "Mohammed, Abu Hassan (Personal)"
   url: "/setts/db60lr1db6g10r1g7k2ly2lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60lr1db6g10r1g7k2ly2lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGRGKYY](/stripes/bybgrgkyy/).
+
+Part of the [Mohammed, Abu Hassan](/tartans/m/mo/mohammed-abu-hassan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Hopkins (Wales)** sett — one scale-free proportion (`dbi5k2dbi2k
 [BKBBBKBBKBKB](/stripes/bkbbbkbbkbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Hopkins](/tartans/hopkins/) tartan — the named design grouping this sett with its kin.
+Part of the [Hopkins](/tartans/h/ho/hopkins/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

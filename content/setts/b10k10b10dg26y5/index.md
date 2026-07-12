@@ -6,6 +6,8 @@ This is the **Marshall of Keith (Personal)** sett — one scale-free proportion 
 [BKBGG](/stripes/bkbgg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Marshall of Keith](/tartans/m/ma/marshall-of-keith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson Red, George"
+  url: "/tartans/f/fe/ferguson-red-george/"
 - name: "Ferguson Red, George (Personal)"
   url: "/setts/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRRRRRRRRRR](/stripes/rbrrrrrrrrrr/).
+
+Part of the [Ferguson Red, George](/tartans/f/fe/ferguson-red-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

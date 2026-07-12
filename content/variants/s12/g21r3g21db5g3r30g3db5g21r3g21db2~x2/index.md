@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Piping Society of London"
+  url: "/tartans/s/sc/scottish-piping-society-of-london/"
+- name: "Scottish Piping Society of London"
   url: "/setts/g21r3g21db5g3r30g3db5g21r3g21db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g21r3g21db5g3r30g3db5g21r3g21db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBGRGBGRG](/stripes/bgrgbgrgbgrg/).
+
+Part of the [Scottish Piping Society of London](/tartans/s/sc/scottish-piping-society-of-london/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

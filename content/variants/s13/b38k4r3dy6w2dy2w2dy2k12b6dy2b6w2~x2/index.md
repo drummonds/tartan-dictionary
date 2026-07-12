@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leando Dress"
+  url: "/tartans/l/le/leando-dress/"
 - name: "Leando (Coldingham) Dress (Personal)"
   url: "/setts/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGWGWGKBGBW](/stripes/bkrgwgwgkbgbw/).
+
+Part of the [Leando Dress](/tartans/l/le/leando-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

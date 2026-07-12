@@ -6,7 +6,7 @@ This is the **Crieff Primary School** sett — one scale-free proportion (`k3g1r
 [KGRBBBBBRW](/stripes/kgrbbbbbrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Crieff Primary School](/tartans/crieff-primary-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Crieff Primary School](/tartans/c/cr/crieff-primary-school/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinross"
+  url: "/tartans/k/ki/kinross-2/"
+- name: "Kinross"
   url: "/setts/dg20db2g6db2dg4db27lo2db8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg20db2g6db2dg4db27lo2db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBYBYBGBGBG](/stripes/bgbgbybybgbgbg/).
+
+Part of the [Kinross](/tartans/k/ki/kinross-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

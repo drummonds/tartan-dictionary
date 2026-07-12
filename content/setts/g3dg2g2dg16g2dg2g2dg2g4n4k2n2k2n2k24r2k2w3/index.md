@@ -7,6 +7,8 @@ This is the **Barkway (Name)** sett — one scale-free proportion (`g3dg2g2dg16g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2012**.
 
+Part of the [Barkway Wedding 2012](/tartans/b/ba/barkway-wedding-2012/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

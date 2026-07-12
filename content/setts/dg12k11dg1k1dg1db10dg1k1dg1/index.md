@@ -6,6 +6,8 @@ This is the **Herron from Ulster (Personal)** sett — one scale-free proportion
 [GKGBGKGKG](/stripes/gkgbgkgkg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Herron from Ulster](/tartans/h/he/herron-from-ulster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lions Club** sett — one scale-free proportion (`dp60y2w2k2dp2ly2
 [BGWKBYBWYBKGBWGWBGBKW](/stripes/bgwkbybwybkgbwgwbgbkw/). It is recorded as a single **variant**, below.
 First attested **1962**.
 
+Part of the [Lions Club](/tartans/l/li/lions-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

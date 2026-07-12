@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gingles"
+  url: "/tartans/g/gi/gingles/"
 - name: "Gingles (Personal)"
   url: "/setts/k60w8lo15dp74k14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k60w8lo15dp74k14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYWK](/stripes/kbywk/).
+
+Part of the [Gingles](/tartans/g/gi/gingles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

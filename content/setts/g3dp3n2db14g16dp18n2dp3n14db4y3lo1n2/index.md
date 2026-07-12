@@ -6,7 +6,7 @@ This is the **ENABLE Scotland** sett — one scale-free proportion (`g3dp3n2db14
 [BYGBBBBBGBBBG](/stripes/bygbbbbbgbbbg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [ENABLE Scotland](/tartans/enable-scotland/) tartan — the named design grouping this sett with its kin.
+Part of the [ENABLE Scotland](/tartans/e/en/enable-scotland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

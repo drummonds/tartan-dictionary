@@ -6,6 +6,8 @@ This is the **North Carolina** sett — one scale-free proportion (`db64r8db1w8d
 [BRBWBBW](/stripes/brbwbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [North Carolina](/tartans/n/no/north-carolina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

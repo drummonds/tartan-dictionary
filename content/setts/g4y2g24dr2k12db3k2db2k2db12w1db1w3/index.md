@@ -6,6 +6,8 @@ This is the **Baron of Greencastle (Personal)** sett — one scale-free proporti
 [GGGBKBKBKBWBW](/stripes/gggbkbkbkbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Baron of Greencastle](/tartans/b/ba/baron-of-greencastle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

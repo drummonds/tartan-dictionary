@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laurentian University"
+  url: "/tartans/l/la/laurentian-university/"
+- name: "Laurentian University"
   url: "/setts/dy2b4y3dg28b28w2b4n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2b4y3dg28b28w2b4n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGGBG](/stripes/bbwbggbg/).
+
+Part of the [Laurentian University](/tartans/l/la/laurentian-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

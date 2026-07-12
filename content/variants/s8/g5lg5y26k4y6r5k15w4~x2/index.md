@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cornish Christophers"
+  url: "/tartans/c/co/cornish-christophers/"
 - name: "Cornish Christophers (Personal)"
   url: "/setts/g5lg5y26k4y6r5k15w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5lg5y26k4y6r5k15w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKGRKW](/stripes/gygkgrkw/).
+
+Part of the [Cornish Christophers](/tartans/c/co/cornish-christophers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

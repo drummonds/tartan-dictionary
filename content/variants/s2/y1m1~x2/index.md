@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Une Energie Nouvelle XXX"
+  url: "/tartans/u/un/une-energie-nouvelle-xxx/"
 - name: "Une Energie Nouvelle (Corporate) XXX"
   url: "/setts/y1m1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1m1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GR](/stripes/gr/).
+
+Part of the [Une Energie Nouvelle XXX](/tartans/u/un/une-energie-nouvelle-xxx/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

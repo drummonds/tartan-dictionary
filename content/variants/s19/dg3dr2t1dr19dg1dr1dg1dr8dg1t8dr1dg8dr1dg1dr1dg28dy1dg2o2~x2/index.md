@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brewer"
+  url: "/tartans/b/br/brewer/"
+- name: "Brewer"
   url: "/setts/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBGBGBGBBGBGBGGGR](/stripes/gbbbgbgbgbbgbgbgggr/).
+
+Part of the [Brewer](/tartans/b/br/brewer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

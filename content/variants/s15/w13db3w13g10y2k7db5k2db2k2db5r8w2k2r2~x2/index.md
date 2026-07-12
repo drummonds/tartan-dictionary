@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson Dress"
+  url: "/tartans/m/ma/macpherson-dress-6/"
 - name: "MacPherson Dress Clan Tartan"
   url: "/setts/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRBKBKBKGGWBW](/stripes/rkwrbkbkbkggwbw/).
+
+Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

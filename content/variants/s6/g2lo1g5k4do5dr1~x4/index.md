@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Forres"
+  url: "/tartans/f/fo/forres/"
+- name: "Forres"
   url: "/setts/g2lo1g5k4do5dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2lo1g5k4do5dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGYG](/stripes/bbkgyg/).
+
+Part of the [Forres](/tartans/f/fo/forres/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St Anne de Portneuf"
+  url: "/tartans/s/st/st-anne-de-portneuf/"
 - name: "St Anne de Portneuf Canadian District Tartan"
   url: "/setts/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWGGRBBYWGGRGBYWY](/stripes/wwggrbbywggrgbywy/).
+
+Part of the [St Anne de Portneuf](/tartans/s/st/st-anne-de-portneuf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

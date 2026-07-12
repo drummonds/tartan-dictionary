@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Southwick"
-  url: "/tartans/southwick/"
+  url: "/tartans/s/so/southwick/"
 - name: "Southwick"
   url: "/setts/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWGKRKBKBKBKBKWKR](/stripes/rkgwgkrkbkbkbkbkwkr/).
 
-Part of the [Southwick](/tartans/southwick/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Southwick](/tartans/s/so/southwick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

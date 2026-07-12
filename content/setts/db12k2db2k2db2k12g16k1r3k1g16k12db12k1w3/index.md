@@ -6,6 +6,8 @@ This is the **Robertson of Kindeace** sett — one scale-free proportion (`db12k
 [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Robertson of Kindeace](/tartans/r/ro/robertson-of-kindeace/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

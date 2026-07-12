@@ -6,6 +6,8 @@ This is the **Joker Fancy Tartan** sett — one scale-free proportion (`t11k1t3k
 [BKBKBY](/stripes/bkbkby/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Joker Fancy](/tartans/j/jo/joker-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

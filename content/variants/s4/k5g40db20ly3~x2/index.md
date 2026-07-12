@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Byers"
+  url: "/tartans/b/by/byers/"
 - name: "Byers (Name)"
   url: "/setts/k5g40db20ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5g40db20ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBY](/stripes/kgby/).
+
+Part of the [Byers](/tartans/b/by/byers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,7 +6,7 @@ This is the **St. Andrews, Earl of (District)** sett — one scale-free proporti
 [BKYKYK](/stripes/bkykyk/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [St Andrews, Earl of](/tartans/st-andrews-earl-of/) tartan — the named design grouping this sett with its kin.
+Part of the [St Andrews, Earl of](/tartans/s/st/st-andrews-earl-of/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

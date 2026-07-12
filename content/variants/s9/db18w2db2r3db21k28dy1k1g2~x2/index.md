@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrew's College"
+  url: "/tartans/s/st/st-andrew-s-college/"
+- name: "St Andrew's College"
   url: "/setts/db18w2db2r3db21k28dy1k1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db18w2db2r3db21k28dy1k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBKGKG](/stripes/bwbrbkgkg/).
+
+Part of the [St Andrew's College](/tartans/s/st/st-andrew-s-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

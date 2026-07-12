@@ -6,6 +6,8 @@ This is the **Lochwood (Estate Check)** sett — one scale-free proportion (`r1w
 [GWBWGWR](/stripes/gwbwgwr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Lochwood](/tartans/l/lo/lochwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

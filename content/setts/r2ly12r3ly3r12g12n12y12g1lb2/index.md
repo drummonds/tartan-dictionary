@@ -6,6 +6,8 @@ This is the **Auld Scotland** sett — one scale-free proportion (`r2ly12r3ly3r1
 [RYRYRGBGGW](/stripes/ryryrgbggw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Auld Scotland](/tartans/a/au/auld-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

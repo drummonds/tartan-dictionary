@@ -6,6 +6,8 @@ This is the **Delroeux, John Michael (Personal)** sett — one scale-free propor
 [BGGR](/stripes/bggr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Delroeux, John Michael](/tartans/d/de/delroeux-john-michael/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

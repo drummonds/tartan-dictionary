@@ -6,6 +6,8 @@ This is the **Missouri** sett — one scale-free proportion (`w4db16w2db1w2db8k1
 [RWKRKRKRKBWBWBW](/stripes/rwkrkrkrkbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Missouri](/tartans/m/mi/missouri-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

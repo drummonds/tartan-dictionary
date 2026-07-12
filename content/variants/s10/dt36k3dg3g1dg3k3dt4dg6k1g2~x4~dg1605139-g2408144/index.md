@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Verdon"
+  url: "/tartans/v/ve/verdon/"
+- name: "Verdon"
   url: "/setts/dt36k3dg3g1dg3k3dt4dg6k1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt36k3dg3g1dg3k3dt4dg6k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGKBGKG](/stripes/bkgggkbgkg/).
+
+Part of the [Verdon](/tartans/v/ve/verdon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Eljamel, Sam (Personal)** sett — one scale-free proportion (`db3
 [BRKGWGBRW](/stripes/brkgwgbrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Eljamel, Sam](/tartans/e/el/eljamel-sam/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

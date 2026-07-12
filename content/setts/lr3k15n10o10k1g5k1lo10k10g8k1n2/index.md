@@ -6,7 +6,7 @@ This is the **Castlefield (Personal)** sett — one scale-free proportion (`lr3k
 [BKGKYKGKRBKY](/stripes/bkgkykgkrbky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Castlefield](/tartans/castlefield/) tartan — the named design grouping this sett with its kin.
+Part of the [Castlefield](/tartans/c/ca/castlefield/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -10,7 +10,7 @@ crumbs:
 - name: "MacPherson of Cluny"
   url: "/families/macpherson-of-cluny/"
 - name: "MacPherson Of Cluny"
-  url: "/tartans/macpherson-of-cluny/"
+  url: "/tartans/m/ma/macpherson-of-cluny/"
 - name: "MacPherson of Cluny"
   url: "/setts/r5dp2r2g42r5dp36r70dp4r7g2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5dp2r2g42r5dp36r70dp4r7g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRGRBR](/stripes/grbrbrgrbr/).
 
-Part of the [MacPherson Of Cluny](/tartans/macpherson-of-cluny/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson Of Cluny](/tartans/m/ma/macpherson-of-cluny/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

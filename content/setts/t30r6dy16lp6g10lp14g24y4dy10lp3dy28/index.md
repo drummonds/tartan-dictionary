@@ -6,7 +6,7 @@ This is the **Greyfriars (District)** sett — one scale-free proportion (`t30r6
 [BRGWGWGGGWG](/stripes/brgwgwgggwg/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
-Part of the [Greyfriars](/tartans/greyfriars/) tartan — the named design grouping this sett with its kin.
+Part of the [Greyfriars](/tartans/g/gr/greyfriars/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

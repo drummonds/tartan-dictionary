@@ -6,6 +6,8 @@ This is the **MacCrimmon from Skye** sett — one scale-free proportion (`r5k3lb
 [GKWKWKR](/stripes/gkwkwkr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [MacCrimmon from Skye](/tartans/m/ma/maccrimmon-from-skye/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

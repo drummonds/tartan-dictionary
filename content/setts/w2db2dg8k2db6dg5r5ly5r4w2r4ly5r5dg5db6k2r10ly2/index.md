@@ -6,7 +6,7 @@ This is the **Kutztown (Berks County, PA)** sett — one scale-free proportion (
 [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Kutztown](/tartans/kutztown/) tartan — the named design grouping this sett with its kin.
+Part of the [Kutztown](/tartans/k/ku/kutztown/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

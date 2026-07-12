@@ -6,6 +6,8 @@ This is the **Gibbs/Gibson (Name)** sett — one scale-free proportion (`dg1r16w
 [GRWBWYWYWBWGW](/stripes/grwbwywywbwgw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Gibbs/Gibson](/tartans/g/gi/gibbs-gibson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

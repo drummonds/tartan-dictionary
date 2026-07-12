@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buchanan Hunting"
-  url: "/tartans/buchanan-hunting/"
+  url: "/tartans/b/bu/buchanan-hunting/"
 - name: "Buchanan Hunting (Scott Adie) #2"
   url: "/setts/dy3g3dy3lo1dy3g3k3g3k3g3dy3lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy3g3dy3lo1dy3g3k3g3k3g3dy3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGYGGKGKGGW](/stripes/gggyggkgkggw/).
 
-Part of the [Buchanan Hunting](/tartans/buchanan-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Buchanan Hunting](/tartans/b/bu/buchanan-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

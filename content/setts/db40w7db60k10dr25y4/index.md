@@ -6,6 +6,8 @@ This is the **Stradling (Name)** sett — one scale-free proportion (`db40w7db60
 [BWBKBG](/stripes/bwbkbg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Stradling](/tartans/s/st/stradling/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

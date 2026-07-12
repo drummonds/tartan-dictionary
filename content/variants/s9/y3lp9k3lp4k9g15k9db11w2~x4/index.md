@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hoban"
+  url: "/tartans/h/ho/hoban/"
 - name: "Hoban (Name)"
   url: "/setts/y3lp9k3lp4k9g15k9db11w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3lp9k3lp4k9g15k9db11w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWKGKBW](/stripes/gwkwkgkbw/).
+
+Part of the [Hoban](/tartans/h/ho/hoban/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

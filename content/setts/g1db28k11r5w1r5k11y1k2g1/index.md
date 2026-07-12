@@ -6,7 +6,7 @@ This is the **Scragg Moran (Personal)** sett — one scale-free proportion (`g1d
 [GBKRWRKGKG](/stripes/gbkrwrkgkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Scragg Moran](/tartans/scragg-moran/) tartan — the named design grouping this sett with its kin.
+Part of the [Scragg Moran](/tartans/s/sc/scragg-moran/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

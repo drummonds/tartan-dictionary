@@ -6,6 +6,8 @@ This is the **Lorne Asymmetric (Artefact)** sett — one scale-free proportion (
 [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/). It is recorded as a single **variant**, below.
 First attested **~1871**.
 
+Part of the [Lorne Asymmetric](/tartans/l/lo/lorne-asymmetric/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

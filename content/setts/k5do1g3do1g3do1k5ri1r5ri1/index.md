@@ -6,6 +6,8 @@ This is the **Murdoch (Dalgliesh)** sett — one scale-free proportion (`k5do1g3
 [KBGBGBKRRR](/stripes/kbgbgbkrrr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Murdoch](/tartans/m/mu/murdoch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

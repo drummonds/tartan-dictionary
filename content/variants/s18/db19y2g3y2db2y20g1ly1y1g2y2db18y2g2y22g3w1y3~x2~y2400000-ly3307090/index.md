@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebrides South Uist"
+  url: "/tartans/h/he/hebrides-south-uist/"
 - name: "Hebrides South Uist #2"
   url: "/setts/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG](/stripes/bgggbggygggbggggwgwggggbgggyggbggg/).
+
+Part of the [Hebrides South Uist](/tartans/h/he/hebrides-south-uist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Seller"
+  url: "/tartans/s/se/seller-2/"
 - name: "Seller Sillar Family Tartan"
   url: "/setts/dy63k4lb9y2db4y2db4dy11r8lb2r4w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy63k4lb9y2db4y2db4dy11r8lb2r4w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGBGBGRWRW](/stripes/gkwgbgbgrwrw/).
+
+Part of the [Seller](/tartans/s/se/seller-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

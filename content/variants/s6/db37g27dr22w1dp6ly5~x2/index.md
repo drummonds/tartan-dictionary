@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Palazzo Bloise"
-  url: "/tartans/palazzo-bloise/"
+  url: "/tartans/p/pa/palazzo-bloise/"
 - name: "Palazzo Bloise (Personal)"
   url: "/setts/db37g27dr22w1dp6ly5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db37g27dr22w1dp6ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBY](/stripes/bgbwby/).
 
-Part of the [Palazzo Bloise](/tartans/palazzo-bloise/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Palazzo Bloise](/tartans/p/pa/palazzo-bloise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

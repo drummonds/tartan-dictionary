@@ -6,6 +6,8 @@ This is the **Metcalf (Clan)** sett — one scale-free proportion (`dr44g18lb5db
 [BBGBWBWBWKWKWBWBWGB](/stripes/bbgbwbwbwkwkwbwbwgb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Metcalf](/tartans/m/me/metcalf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

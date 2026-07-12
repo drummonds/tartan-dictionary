@@ -6,6 +6,8 @@ This is the **Hebridean 1** sett — one scale-free proportion (`db2r3g11r3db2lb
 [BRGRBWBRG](/stripes/brgrbwbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hebridean 1](/tartans/h/he/hebridean-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

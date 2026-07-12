@@ -6,6 +6,8 @@ This is the **Wilson's, No 5** sett — one scale-free proportion (`r32lb5g17r4g
 [RWGRGW](/stripes/rwgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 5](/tartans/w/wi/wilson-s-no-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

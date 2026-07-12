@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lovat or Fraser"
+  url: "/tartans/l/lo/lovat-or-fraser/"
 - name: "Lovat or Fraser Clan Tartan"
   url: "/setts/dp1r7dp22r23dp1r23g22r7dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp1r7dp22r23dp1r23g22r7dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
+
+Part of the [Lovat or Fraser](/tartans/l/lo/lovat-or-fraser/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Mull or Glenlyon District Tartan** sett — one scale-free proport
 [KGW](/stripes/kgw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Mull](/tartans/m/mu/mull/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

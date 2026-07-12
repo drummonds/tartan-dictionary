@@ -6,6 +6,8 @@ This is the **Yale College, Wrexham** sett — one scale-free proportion (`lb57k
 [WKWRKWRW](/stripes/wkwrkwrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Yale College, Wrexham](/tartans/y/ya/yale-college-wrexham/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

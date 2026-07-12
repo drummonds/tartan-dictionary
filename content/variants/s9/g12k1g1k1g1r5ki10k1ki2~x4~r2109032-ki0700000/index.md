@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lindsay"
+  url: "/tartans/l/li/lindsay-2/"
 - name: "Lindsay (Crimson version) (Clan?)"
   url: "/setts/g12k1g1k1g1r5ki10k1ki2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g12k1g1k1g1r5ki10k1ki2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGRKKK](/stripes/gkgkgrkkk/).
+
+Part of the [Lindsay](/tartans/l/li/lindsay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

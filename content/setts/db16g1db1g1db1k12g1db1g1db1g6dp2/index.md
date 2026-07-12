@@ -6,7 +6,7 @@ This is the **Stephen-Mathieson** sett — one scale-free proportion (`db16g1db1
 [BGBGBGKBGBGB](/stripes/bgbgbgkbgbgb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Stephen-Mathieson](/tartans/stephen-mathieson/) tartan — the named design grouping this sett with its kin.
+Part of the [Stephen-Mathieson](/tartans/s/st/stephen-mathieson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

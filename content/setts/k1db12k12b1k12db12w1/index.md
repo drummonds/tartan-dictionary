@@ -6,7 +6,7 @@ This is the **Marchmont** sett — one scale-free proportion (`k1db12k12b1k12db1
 [KBKBKBW](/stripes/kbkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Marchmont](/tartans/marchmont-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Marchmont](/tartans/m/ma/marchmont-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

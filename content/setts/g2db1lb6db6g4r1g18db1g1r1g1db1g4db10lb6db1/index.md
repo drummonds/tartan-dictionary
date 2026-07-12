@@ -6,6 +6,8 @@ This is the **Pina (Corporate)** sett — one scale-free proportion (`g2db1lb6db
 [BWBGBGRGBGRGBWBG](/stripes/bwbgbgrgbgrgbwbg/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Pina](/tartans/p/pi/pina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

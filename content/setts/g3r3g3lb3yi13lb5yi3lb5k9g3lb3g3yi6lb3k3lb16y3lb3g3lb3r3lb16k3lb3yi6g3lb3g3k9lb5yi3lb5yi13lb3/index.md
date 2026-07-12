@@ -6,6 +6,8 @@ This is the **Shipley, Ian (Personal)** sett — one scale-free proportion (`g3r
 [GRGWGWGWKGWGGWKWGWGWRWKWGGWGKWGWGW](/stripes/grgwgwgwkgwggwkwgwgwrwkwggwgkwgwgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Shipley, Ian](/tartans/s/sh/shipley-ian-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

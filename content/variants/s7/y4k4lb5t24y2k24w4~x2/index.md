@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mina Perhonen"
+  url: "/tartans/m/mi/mina-perhonen/"
+- name: "Mina Perhonen"
   url: "/setts/y4k4lb5t24y2k24w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k4lb5t24y2k24w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWBGKW](/stripes/gkwbgkw/).
+
+Part of the [Mina Perhonen](/tartans/m/mi/mina-perhonen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ryan/Fehder"
-  url: "/tartans/ryan-fehder/"
+  url: "/tartans/r/ry/ryan-fehder/"
 - name: "Ryan/Fehder (Personal)"
   url: "/setts/w4dr7ly5t13dr18g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4dr7ly5t13dr18g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBYBW](/stripes/gbbybw/).
 
-Part of the [Ryan/Fehder](/tartans/ryan-fehder/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ryan/Fehder](/tartans/r/ry/ryan-fehder/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

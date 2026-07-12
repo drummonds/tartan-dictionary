@@ -6,6 +6,8 @@ This is the **MacGaugh (Name)** sett — one scale-free proportion (`dr5db1dr3db
 [BBBBBBGKGY](/stripes/bbbbbbgkgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacGaugh](/tartans/m/ma/macgaugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

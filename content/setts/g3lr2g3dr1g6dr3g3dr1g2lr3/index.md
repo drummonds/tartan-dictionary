@@ -6,7 +6,7 @@ This is the **Dundee, Green (Fashion)** sett — one scale-free proportion (`g3l
 [GYGBGBGBGY](/stripes/gygbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1952**.
 
-Part of the [Dundee](/tartans/dundee/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee](/tartans/d/du/dundee/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

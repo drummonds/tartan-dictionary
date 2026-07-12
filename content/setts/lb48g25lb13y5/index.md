@@ -6,6 +6,8 @@ This is the **Laurel Park** sett — one scale-free proportion (`lb48g25lb13y5`)
 [GWGW](/stripes/gwgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Laurel Park](/tartans/l/la/laurel-park/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

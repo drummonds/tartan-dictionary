@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacDonald"
   url: "/clan/macdonald/"
 - name: "MacDonald, Sir John A"
-  url: "/tartans/macdonald-sir-john-a/"
+  url: "/tartans/m/ma/macdonald-sir-john-a/"
 - name: "MacDonald, Sir John A"
   url: "/setts/dr10k3dg2w2k22b4k22dr4dg4dr14w3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr10k3dg2w2k22b4k22dr4dg4dr14w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGWKBKBGBW](/stripes/bkgwkbkbgbw/).
 
-Part of the [MacDonald, Sir John A](/tartans/macdonald-sir-john-a/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald, Sir John A](/tartans/m/ma/macdonald-sir-john-a/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

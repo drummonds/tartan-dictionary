@@ -6,6 +6,8 @@ This is the **Holiday Inn Crown Plaza** sett — one scale-free proportion (`g27
 [BWBGBWBGBWGRG](/stripes/bwbgbwbgbwgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Holiday Inn Crown Plaza](/tartans/h/ho/holiday-inn-crown-plaza/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

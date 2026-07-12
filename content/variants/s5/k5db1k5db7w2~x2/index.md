@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grampian T.V."
+  url: "/tartans/g/gr/grampian-t-v/"
 - name: "Grampian T.V. Corporate Tartan"
   url: "/setts/k5db1k5db7w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5db1k5db7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
+
+Part of the [Grampian T.V.](/tartans/g/gr/grampian-t-v/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

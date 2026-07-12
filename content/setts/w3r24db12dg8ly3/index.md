@@ -6,7 +6,7 @@ This is the **McGill University (Corporate)** sett — one scale-free proportion
 [WRBGY](/stripes/wrbgy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [McGill University](/tartans/mcgill-university/) tartan — the named design grouping this sett with its kin.
+Part of the [McGill University](/tartans/m/mc/mcgill-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

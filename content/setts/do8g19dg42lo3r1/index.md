@@ -6,6 +6,8 @@ This is the **Nolan Family, John J (Personal)** sett — one scale-free proporti
 [BGGYR](/stripes/bggyr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Nolan Family, John J](/tartans/n/no/nolan-family-john-j/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

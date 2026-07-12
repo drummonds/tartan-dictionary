@@ -6,6 +6,8 @@ This is the **Somerset District Tartan** sett — one scale-free proportion (`g8
 [GBWRGKGKG](/stripes/gbwrgkgkg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Somerset](/tartans/s/so/somerset-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

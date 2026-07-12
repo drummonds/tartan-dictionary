@@ -6,6 +6,8 @@ This is the **Grass of Rasunda (2009), The** sett — one scale-free proportion 
 [KGKGKGK](/stripes/kgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Grass of Rasunda](/tartans/g/gr/grass-of-rasunda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

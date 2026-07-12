@@ -6,6 +6,8 @@ This is the **Fulton Family Tartan** sett — one scale-free proportion (`dr4k2g
 [BKGRGRGRG](/stripes/bkgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Fulton](/tartans/f/fu/fulton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

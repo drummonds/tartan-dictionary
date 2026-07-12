@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sidey Dress"
-  url: "/tartans/sidey-dress/"
+  url: "/tartans/s/si/sidey-dress/"
 - name: "Sidey Dress Tartan (Name)"
   url: "/setts/db4w1k2db25k12t1k2r16k2lo1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4w1k2db25k12t1k2r16k2lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKBKRKY](/stripes/bwkbkbkrky/).
 
-Part of the [Sidey Dress](/tartans/sidey-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sidey Dress](/tartans/s/si/sidey-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

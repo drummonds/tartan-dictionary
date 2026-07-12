@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Angotta"
-  url: "/tartans/angotta/"
+  url: "/tartans/a/an/angotta/"
 - name: "Angotta"
   url: "/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/).
 
-Part of the [Angotta](/tartans/angotta/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Angotta](/tartans/a/an/angotta/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

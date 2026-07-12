@@ -6,6 +6,8 @@ This is the **Shieldhall** sett — one scale-free proportion (`do12r1do2r1do2lb
 [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Shieldhall](/tartans/s/sh/shieldhall-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

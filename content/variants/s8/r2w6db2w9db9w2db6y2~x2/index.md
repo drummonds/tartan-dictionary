@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan North"
   url: "/clan/north/"
 - name: "North Vancouver Island"
-  url: "/tartans/north-vancouver-island/"
+  url: "/tartans/n/no/north-vancouver-island/"
 - name: "North Vancouver Island District Tartan"
   url: "/setts/r2w6db2w9db9w2db6y2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2w6db2w9db9w2db6y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWR](/stripes/gbwbwbwr/).
 
-Part of the [North Vancouver Island](/tartans/north-vancouver-island/) tartan — the named design grouping this sett with its other cloths.
+Part of the [North Vancouver Island](/tartans/n/no/north-vancouver-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

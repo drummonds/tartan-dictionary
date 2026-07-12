@@ -6,6 +6,8 @@ This is the **Cadden-Phillips (Personal)** sett — one scale-free proportion (`
 [BGGBRGRBRGR](/stripes/bggbrgrbrgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Cadden-Phillips](/tartans/c/ca/cadden-phillips/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Alaskan Scottish** sett — one scale-free proportion (`w4db1g9db9
 [WBGBGBGBRBGBRBGBW](/stripes/wbgbgbgbrbgbrbgbw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Alaskan Scottish](/tartans/a/al/alaskan-scottish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

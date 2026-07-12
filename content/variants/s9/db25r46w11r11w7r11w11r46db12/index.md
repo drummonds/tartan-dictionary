@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Twilfit"
+  url: "/tartans/t/tw/twilfit/"
+- name: "Twilfit"
   url: "/setts/db25r46w11r11w7r11w11r46db12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25r46w11r11w7r11w11r46db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWRWRB](/stripes/brwrwrwrb/).
+
+Part of the [Twilfit](/tartans/t/tw/twilfit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

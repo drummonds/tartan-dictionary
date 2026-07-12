@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Canals"
+  url: "/tartans/s/sc/scottish-canals/"
 - name: "Scottish Canals (Corporate)"
   url: "/setts/y2db26g9db2dbi29db1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db26g9db2dbi29db1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBGBG](/stripes/gbbbgbg/).
+
+Part of the [Scottish Canals](/tartans/s/sc/scottish-canals/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

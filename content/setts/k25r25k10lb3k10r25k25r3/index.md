@@ -6,6 +6,8 @@ This is the **bodog.com Corporate Tartan** sett — one scale-free proportion (`
 [KRKWKRKR](/stripes/krkwkrkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [bodog.com](/tartans/b/bo/bodog-com-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

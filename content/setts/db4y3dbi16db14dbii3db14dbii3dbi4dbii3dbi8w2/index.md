@@ -6,6 +6,8 @@ This is the **Hubbard Foundation of Scotland (Corp** sett — one scale-free pro
 [BGBBBBBBBBW](/stripes/bgbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Hubbard Foundation of Scotland (Corp](/tartans/h/hu/hubbard-foundation-of-scotland-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

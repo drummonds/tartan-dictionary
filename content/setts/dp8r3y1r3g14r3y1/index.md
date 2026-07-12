@@ -6,6 +6,8 @@ This is the **Logan with Yellow** sett — one scale-free proportion (`dp8r3y1r3
 [BRGRGRG](/stripes/brgrgrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Logan with](/tartans/l/lo/logan-with/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

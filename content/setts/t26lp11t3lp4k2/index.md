@@ -6,6 +6,8 @@ This is the **Debbie Munro Memorial (Corporate)** sett — one scale-free propor
 [BWBWK](/stripes/bwbwk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Debbie Munro Memorial](/tartans/d/de/debbie-munro-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

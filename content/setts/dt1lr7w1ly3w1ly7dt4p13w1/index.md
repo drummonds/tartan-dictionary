@@ -6,6 +6,8 @@ This is the **Wcwm 1893-11** sett — one scale-free proportion (`dt1lr7w1ly3w1l
 [BYWYWYBBW](/stripes/bywywybbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1893-11](/tartans/w/wc/wcwm-1893-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Greater St. Louis Firefighters (Cor)** sett — one scale-free pro
 [BRKBYBRBY](/stripes/brkbybrby/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Greater St. Louis Firefighters](/tartans/g/gr/greater-st-louis-firefighters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

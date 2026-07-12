@@ -6,7 +6,7 @@ This is the **Hyndman (Name)** sett — one scale-free proportion (`t4r2t3r4t8g4
 [BRBRBGYGKBRBRW](/stripes/brbrbgygkbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Hyndman](/tartans/hyndman/) tartan — the named design grouping this sett with its kin.
+Part of the [Hyndman](/tartans/h/hy/hyndman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

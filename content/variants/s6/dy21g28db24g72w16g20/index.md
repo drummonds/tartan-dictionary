@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Meath County, Crest Range"
+  url: "/tartans/m/me/meath-county-crest-range/"
+- name: "Meath County, Crest Range"
   url: "/setts/dy21g28db24g72w16g20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy21g28db24g72w16g20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGWG](/stripes/ggbgwg/).
+
+Part of the [Meath County, Crest Range](/tartans/m/me/meath-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

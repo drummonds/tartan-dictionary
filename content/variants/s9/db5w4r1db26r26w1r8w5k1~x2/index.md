@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boring and Dull"
-  url: "/tartans/boring-and-dull/"
+  url: "/tartans/b/bo/boring-and-dull/"
 - name: "Boring and Dull"
   url: "/setts/db5w4r1db26r26w1r8w5k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db5w4r1db26r26w1r8w5k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRWRWK](/stripes/bwrbrwrwk/).
 
-Part of the [Boring and Dull](/tartans/boring-and-dull/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Boring and Dull](/tartans/b/bo/boring-and-dull/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

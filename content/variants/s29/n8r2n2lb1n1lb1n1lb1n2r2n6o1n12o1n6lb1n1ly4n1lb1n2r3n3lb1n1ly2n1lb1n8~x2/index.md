@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Delmarva"
+  url: "/tartans/d/de/delmarva/"
 - name: "Delmarva (District)"
   url: "/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/).
+
+Part of the [Delmarva](/tartans/d/de/delmarva/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

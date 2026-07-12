@@ -6,6 +6,8 @@ This is the **Cromdale** sett — one scale-free proportion (`r20w1r20k2r20g8y1k
 [RWRKRGGKBKBRBKBKGGRKRWR](/stripes/rwrkrggkbkbrbkbkggrkrwr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Cromdale](/tartans/c/cr/cromdale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

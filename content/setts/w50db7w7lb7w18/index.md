@@ -6,6 +6,8 @@ This is the **Sephardim (Corporate)** sett — one scale-free proportion (`w50db
 [WBWWW](/stripes/wbwww/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Sephardim](/tartans/s/se/sephardim/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Manhattan Financial** sett — one scale-free proportion (`w24r1wi
 [BWKWKBWBGWBWBWRW](/stripes/bwkwkbwbgwbwbwrw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Manhattan Financial](/tartans/m/ma/manhattan-financial-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

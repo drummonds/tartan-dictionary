@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aviemore Dress"
+  url: "/tartans/a/av/aviemore-dress/"
 - name: "Aviemore Dress Tartan"
   url: "/setts/w60r1db10r22db3ri3g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w60r1db10r22db3ri3g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRW](/stripes/grbrbrw/).
+
+Part of the [Aviemore Dress](/tartans/a/av/aviemore-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

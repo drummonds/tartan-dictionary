@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ebdon Muir"
+  url: "/tartans/e/eb/ebdon-muir/"
 - name: "Ebdon Muir (Personal)"
   url: "/setts/dp4db40k15g10dp2g10dp2g10y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4db40k15g10dp2g10dp2g10y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGBGBGG](/stripes/bbkgbgbgg/).
+
+Part of the [Ebdon Muir](/tartans/e/eb/ebdon-muir/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

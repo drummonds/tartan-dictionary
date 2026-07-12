@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sunart Pink"
+  url: "/tartans/s/su/sunart-pink/"
 - name: "Sunart, Pink (Dance)"
   url: "/setts/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBWBWBWBW](/stripes/bbrbwbwbwbw/).
+
+Part of the [Sunart Pink](/tartans/s/su/sunart-pink/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

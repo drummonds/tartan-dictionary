@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Twempy"
+  url: "/tartans/t/tw/twempy/"
+- name: "Twempy"
   url: "/setts/k1dr4k1w3k1g7k2db16r2ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1dr4k1w3k1g7k2db16r2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKGKBRY](/stripes/kbkwkgkbry/).
+
+Part of the [Twempy](/tartans/t/tw/twempy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

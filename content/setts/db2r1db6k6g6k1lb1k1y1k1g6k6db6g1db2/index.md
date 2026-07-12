@@ -6,6 +6,8 @@ This is the **Malcolm (symmetrical)** sett — one scale-free proportion (`db2r1
 [BGBKGKGKWKGKBRB](/stripes/bgbkgkgkwkgkbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Malcolm](/tartans/m/ma/malcolm-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

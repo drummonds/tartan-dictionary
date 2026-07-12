@@ -6,7 +6,7 @@ This is the **Dalwhinnie Trade Tartan** sett — one scale-free proportion (`dg7
 [GGBGBGBGY](/stripes/ggbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
-Part of the [Dalwhinnie](/tartans/dalwhinnie/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalwhinnie](/tartans/d/da/dalwhinnie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

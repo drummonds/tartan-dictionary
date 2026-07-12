@@ -6,6 +6,8 @@ This is the **Gaines Center for the Humanities** sett — one scale-free proport
 [BKGKBY](/stripes/bkgkby/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Gaines Center for Humanities](/tartans/g/ga/gaines-center-for-humanities/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

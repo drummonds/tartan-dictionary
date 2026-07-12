@@ -7,6 +7,8 @@ This is the **Walker, Dress (Name)** sett — one scale-free proportion (`lo4db2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
+Part of the [Walker, Dress](/tartans/w/wa/walker-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

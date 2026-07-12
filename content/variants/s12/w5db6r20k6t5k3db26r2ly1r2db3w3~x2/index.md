@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clinton Wedding"
+  url: "/tartans/c/cl/clinton-wedding/"
+- name: "Clinton Wedding"
   url: "/setts/w5db6r20k6t5k3db26r2ly1r2db3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5db6r20k6t5k3db26r2ly1r2db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/).
+
+Part of the [Clinton Wedding](/tartans/c/cl/clinton-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

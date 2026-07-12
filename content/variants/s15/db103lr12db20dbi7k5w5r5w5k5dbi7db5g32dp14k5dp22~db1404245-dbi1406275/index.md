@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of de Jong"
-  url: "/tartans/spirit-of-de-jong/"
+  url: "/tartans/s/sp/spirit-of-de-jong/"
 - name: "Spirit of de Jong (Personal?)"
   url: "/setts/db103lr12db20dbi7k5w5r5w5k5dbi7db5g32dp14k5dp22/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db103lr12db20dbi7k5w5r5w5k5dbi7db5g32dp14k5dp22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBBKWRWKBBYB](/stripes/bkbgbbkwrwkbbyb/).
 
-Part of the [Spirit of de Jong](/tartans/spirit-of-de-jong/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spirit of de Jong](/tartans/s/sp/spirit-of-de-jong/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "D'Souza"
+  url: "/tartans/d/d/d-souza/"
 - name: "D'Souza (Personal)"
   url: "/setts/dp24k2dp2lo2dp2k20db16n2db2n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp24k2dp2lo2dp2k20db16n2db2n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBYBKB](/stripes/bbbbkbybkb/).
+
+Part of the [D'Souza](/tartans/d/d/d-souza/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Hello Kitty Red** sett — one scale-free proportion (`y2r3dy3r21d
 [GRGRBRGKGW](/stripes/grgrbrgkgw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Hello Kitty](/tartans/h/he/hello-kitty/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

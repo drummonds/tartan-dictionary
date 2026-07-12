@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochwood"
+  url: "/tartans/l/lo/lochwood/"
 - name: "Lochwood (Estate Check)"
   url: "/setts/r1w1g1w1db1w1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1w1g1w1db1w1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWGWR](/stripes/gwbwgwr/).
+
+Part of the [Lochwood](/tartans/l/lo/lochwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

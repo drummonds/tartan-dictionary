@@ -6,6 +6,8 @@ This is the **O'Connor, Hugh (Personal)** sett — one scale-free proportion (`d
 [BBGBGBBGBGBGGBBBBBG](/stripes/bbgbgbbgbgbggbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [O'Connor, Hugh](/tartans/o/o/o-connor-hugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

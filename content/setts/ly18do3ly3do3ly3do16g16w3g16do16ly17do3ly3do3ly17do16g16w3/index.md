@@ -6,6 +6,8 @@ This is the **Lamont Heather** sett — one scale-free proportion (`ly18do3ly3do
 [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Lamont Heather](/tartans/l/la/lamont-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

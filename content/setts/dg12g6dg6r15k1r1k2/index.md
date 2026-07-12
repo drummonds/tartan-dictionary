@@ -6,7 +6,7 @@ This is the **Cook (Name)** sett — one scale-free proportion (`dg12g6dg6r15k1r
 [GGGRKRK](/stripes/gggrkrk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Cook](/tartans/cook/) tartan — the named design grouping this sett with its kin.
+Part of the [Cook](/tartans/c/co/cook/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

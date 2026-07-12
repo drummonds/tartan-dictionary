@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fennell Grandmothers"
+  url: "/tartans/f/fe/fennell-grandmothers/"
 - name: "Fennell Grandmothers (Personal)"
   url: "/setts/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGRBRGBRGRBGKWGRKBW](/stripes/rbgrbrgbrgrbgkwgrkbw/).
+
+Part of the [Fennell Grandmothers](/tartans/f/fe/fennell-grandmothers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oxford University dress"
+  url: "/tartans/o/ox/oxford-university-dress-3/"
+- name: "Oxford University dress"
   url: "/setts/b4g44dg5w2dg2g2dg2r2g3b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b4g44dg5w2dg2g2dg2r2g3b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGWGGGRGB](/stripes/bggwgggrgb/).
+
+Part of the [Oxford University dress](/tartans/o/ox/oxford-university-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

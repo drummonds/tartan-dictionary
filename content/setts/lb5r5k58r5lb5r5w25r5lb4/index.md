@@ -6,6 +6,8 @@ This is the **Meg Merrilees, New (1831)** sett — one scale-free proportion (`l
 [WRKRWRWRW](/stripes/wrkrwrwrw/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Meg Merrilees, New](/tartans/m/me/meg-merrilees-new/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

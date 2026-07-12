@@ -6,6 +6,8 @@ This is the **Hutcheson (Name)** sett — one scale-free proportion (`db8y4r30dg
 [BGRGYG](/stripes/bgrgyg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Hutcheson](/tartans/h/hu/hutcheson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

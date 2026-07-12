@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
+- name: "Jones Hunting"
+  url: "/tartans/j/jo/jones-hunting/"
 - name: "Jones Htg (Name)"
   url: "/setts/dp4lb2dp2lb8k3dp8dg3dp4dg24g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4lb2dp2lb8k3dp8dg3dp4dg24g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKBGBGG](/stripes/bwbwkbgbgg/).
+
+Part of the [Jones Hunting](/tartans/j/jo/jones-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

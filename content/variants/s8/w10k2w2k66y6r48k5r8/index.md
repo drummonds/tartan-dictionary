@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
+- name: "Sutherland de Albergaria"
+  url: "/tartans/s/su/sutherland-de-albergaria/"
 - name: "Sutherland de Albergaria (Personal)"
   url: "/setts/w10k2w2k66y6r48k5r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w10k2w2k66y6r48k5r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKGRKRKRGKWKW](/stripes/kwkgrkrkrgkwkw/).
+
+Part of the [Sutherland de Albergaria](/tartans/s/su/sutherland-de-albergaria/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

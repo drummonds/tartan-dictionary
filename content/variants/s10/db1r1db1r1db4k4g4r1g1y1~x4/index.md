@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Logan, or MacLennan"
+  url: "/tartans/l/lo/logan-or-maclennan/"
+- name: "Logan, or MacLennan"
   url: "/setts/db1r1db1r1db4k4g4r1g1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r1db1r1db4k4g4r1g1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKGRGG](/stripes/brbrbkgrgg/).
+
+Part of the [Logan, or MacLennan](/tartans/l/lo/logan-or-maclennan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

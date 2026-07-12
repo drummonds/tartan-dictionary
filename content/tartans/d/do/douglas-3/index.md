@@ -1,0 +1,55 @@
+---
+title: "Douglas"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Douglas"
+  url: "/clan/douglas/"
+---
+A tartan of [Clan Douglas](/clan/douglas/).
+Its design is pattern [KWGBW](/stripes/kwgbw/) — the page of every tartan sharing this colour sequence.
+
+The **Douglas** tartan groups 7 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k2lb2g8db8w1/">Douglas</a> ★</td><td><code>K/4 LB4 G16 DB16 W/2</code></td><td>78</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2lb2g8db8w1/"><img src="/variants/s5/k2lb2g8db8w1~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/k2lb2g8db8w1/">Douglas</a> · <a href="/variants/s5/k2lb2g8db8w1~x2/">Douglas</a></td></tr>
+<tr><td><a href="/setts/k1dbi1g8db8w1/">Green (Wilsons)</a></td><td><code>K/4 DBi4 G32 DB32 W/4</code></td><td>—</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1dbi1g8db8w1/"><img src="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/sett.png" alt="Green (Wilsons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k1lb1g8db8w1/">Douglas</a></td><td><code>K/4 LB4 G32 DB32 W/4</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k1lb1g8db8w1/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k2w2g8db8w1/">Douglas</a></td><td><code>K/2 W2 G8 DB8 W/1</code></td><td>39</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2w2g8db8w1/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k3db3g23db21w2/">Clan Tartan</a></td><td><code>K/6 DB6 G46 DB42 W/4</code></td><td>198</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3db3g23db21w2/"><img src="/variants/s5/k3db3g23db21w2~x2~db1406275/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k4w2g8db8w1/">Green</a></td><td><code>K/4 W2 G8 DB8 W/1</code></td><td>41</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4w2g8db8w1/"><img src="/variants/s5/k4w2g8db8w1/sett.png" alt="Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k7lb3dy30db30w3/">(Brown)</a></td><td><code>K/14 LB6 DY60 DB60 W/6</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7lb3dy30db30w3/"><img src="/variants/s5/k7lb3dy30db30w3~x2/sett.png" alt="(Brown) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Douglas Green
+- Douglas, Green
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">78</div><div class="nn-name nn-base"><a href="/variants/s5/k2lb2g8db8w1~x2/">Douglas</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k2lb2g8db8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2lb2g8db8w1&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">39</div><div class="nn-name"><a href="/variants/s5/k2lb2g8db8w1/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2lb2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4lb2g8db8w1~x2&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.12</a></div><div class="nn-threads">82</div><div class="nn-name"><a href="/variants/s5/k4lb2g8db8w1~x2/">Dougles Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4lb2g8db8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4lb2g8db8w1&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.12</a></div><div class="nn-threads">41</div><div class="nn-name"><a href="/variants/s5/k4lb2g8db8w1/">Dougles Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4lb2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1lb1g8db8w1~x4&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.13</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s5/k1lb1g8db8w1~x4/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7lb3g18db18w2~x2&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.22</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s5/k7lb3g18db18w2~x2/">Bhatti (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1db1g8dt8w1~x4~db1406275-dt1204274&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.22</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/">Douglas, Green (Wilsons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4t2g13db13w2~x4&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.28</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k4t2g13db13w2~x4/">Bath</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4t2g13db13w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w2g8db8w1&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">39</div><div class="nn-name"><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2w2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7lt3dg18db18w2~x2&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.35</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s5/k7lt3dg18db18w2~x2/">Bhatti</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w2g8db8w1&amp;base=k2lb2g8db8w1~x2" title="compare in the TTD">0.43</a></div><div class="nn-threads">41</div><div class="nn-name"><a href="/variants/s5/k4w2g8db8w1/">Douglas Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4w2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.1" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.8" cy="226.1" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.5" cy="205.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="149.0" cy="212.9" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.0" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.1" cy="221.0" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.3" cy="228.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.2" cy="237.7" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><circle cx="150.2" cy="217.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

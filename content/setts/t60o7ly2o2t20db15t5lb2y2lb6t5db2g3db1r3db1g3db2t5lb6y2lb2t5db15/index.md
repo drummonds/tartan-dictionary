@@ -6,6 +6,8 @@ This is the **Commonwealth Bid (Corporate)** sett — one scale-free proportion 
 [BBWGWBBGBRBGBBWGWBBBRYRB](/stripes/bbwgwbbgbrbgbbwgwbbbryrb/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Commonwealth Bid](/tartans/c/co/commonwealth-bid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

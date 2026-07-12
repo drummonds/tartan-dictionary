@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harry"
+  url: "/tartans/h/ha/harry/"
 - name: "Harry (Welsh Name)"
   url: "/setts/db6n3db3n15r7db7r5db17r46n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6n3db3n15r7db7r5db17r46n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBRBRBRB](/stripes/bbbbrbrbrb/).
+
+Part of the [Harry](/tartans/h/ha/harry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

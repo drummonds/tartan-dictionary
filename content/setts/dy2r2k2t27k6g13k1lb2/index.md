@@ -6,6 +6,8 @@ This is the **German MacLeod** sett — one scale-free proportion (`dy2r2k2t27k6
 [GRKBKGKW](/stripes/grkbkgkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [German MacLeod](/tartans/g/ge/german-macleod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

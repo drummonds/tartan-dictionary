@@ -6,6 +6,8 @@ This is the **Fitzgerald** sett — one scale-free proportion (`db3r4w3r15db4r4d
 [BRWRBRBRGRBRWRB](/stripes/brwrbrbrgrbrwrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fitzgerald](/tartans/f/fi/fitzgerald-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

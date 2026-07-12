@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee Carers' Centre"
+  url: "/tartans/d/du/dundee-carers-centre-2/"
+- name: "Dundee Carers' Centre"
   url: "/setts/lp66db2lo14db2ly5b8db12dg60g60lp2db25/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lp66db2lo14db2ly5b8db12dg60g60lp2db25/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGBBYBYBW](/stripes/bwggbbybybw/).
+
+Part of the [Dundee Carers' Centre](/tartans/d/du/dundee-carers-centre-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

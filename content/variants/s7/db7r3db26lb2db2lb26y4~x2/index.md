@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Int. Police Association"
+  url: "/tartans/i/in/int-police-association/"
 - name: "Int. Police Association (Official)"
   url: "/setts/db7r3db26lb2db2lb26y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7r3db26lb2db2lb26y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWG](/stripes/brbwbwg/).
+
+Part of the [Int. Police Association](/tartans/i/in/int-police-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

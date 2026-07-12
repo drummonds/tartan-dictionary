@@ -6,6 +6,8 @@ This is the **Rikaco Eve** sett — one scale-free proportion (`o4n4o2w36n14w2lb
 [RBRWBWWRRW](/stripes/rbrwbwwrrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Rikaco Eve](/tartans/r/ri/rikaco-eve/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

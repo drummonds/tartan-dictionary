@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "GRM"
+  url: "/tartans/g/gr/grm-2/"
+- name: "GRM"
   url: "/setts/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/).
+
+Part of the [GRM](/tartans/g/gr/grm-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

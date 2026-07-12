@@ -6,6 +6,8 @@ This is the **Metropolitan Atlanta Police (Corp)** sett — one scale-free propo
 [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Metropolitan Atlanta Police](/tartans/m/me/metropolitan-atlanta-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

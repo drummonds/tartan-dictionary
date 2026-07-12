@@ -6,7 +6,7 @@ This is the **Centeno-Oxford** sett — one scale-free proportion (`g12k10y9db11
 [GKGBYG](/stripes/gkgbyg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Centeno-Oxford](/tartans/centeno-oxford/) tartan — the named design grouping this sett with its kin.
+Part of the [Centeno-Oxford](/tartans/c/ce/centeno-oxford/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Scottish National Party (Corporate)** sett — one scale-free prop
 [GKBKBK](/stripes/gkbkbk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Scottish National Party](/tartans/s/sc/scottish-national-party/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

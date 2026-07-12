@@ -6,6 +6,8 @@ This is the **Unidentified Fisherwife's Plaid** sett — one scale-free proporti
 [RWRWRWW](/stripes/rwrwrww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Fisherwife's](/tartans/u/un/unidentified-fisherwife-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

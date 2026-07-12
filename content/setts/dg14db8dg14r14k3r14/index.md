@@ -6,6 +6,8 @@ This is the **Tulsa, City of** sett — one scale-free proportion (`dg14db8dg14r
 [GBGRKR](/stripes/gbgrkr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Tulsa, City of](/tartans/t/tu/tulsa-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

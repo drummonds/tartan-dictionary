@@ -6,7 +6,7 @@ This is the **Moran (Name)** sett — one scale-free proportion (`g55k17r9k11y2k
 [GKRKGK](/stripes/gkrkgk/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Moran](/tartans/moran-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Moran](/tartans/m/mo/moran-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

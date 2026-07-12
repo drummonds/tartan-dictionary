@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of West Lothian"
+  url: "/tartans/s/sp/spirit-of-west-lothian/"
+- name: "Spirit of West Lothian"
   url: "/setts/db48dp2db5dp2db7g2w3g5k4w1g26/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48dp2db5dp2db7g2w3g5k4w1g26/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGWGKWG](/stripes/bbbbbgwgkwg/).
+
+Part of the [Spirit of West Lothian](/tartans/s/sp/spirit-of-west-lothian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

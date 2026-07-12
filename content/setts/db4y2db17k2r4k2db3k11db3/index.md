@@ -6,6 +6,8 @@ This is the **Stone of Destiny** sett — one scale-free proportion (`db4y2db17k
 [BGBKRKBKB](/stripes/bgbkrkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stone of Destiny](/tartans/s/st/stone-of-destiny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Knights Templar Hunting** sett — one scale-free proportion (`k22
 [KWKRWRKW](/stripes/kwkrwrkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Knights Templar Hunting](/tartans/k/kn/knights-templar-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

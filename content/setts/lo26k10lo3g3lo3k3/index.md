@@ -6,6 +6,8 @@ This is the **Volkswagen Orange Trim (Fashion)** sett — one scale-free proport
 [KYGYKY](/stripes/kygyky/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Volkswagen Orange](/tartans/v/vo/volkswagen-orange/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

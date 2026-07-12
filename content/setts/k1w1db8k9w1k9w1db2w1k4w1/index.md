@@ -6,6 +6,8 @@ This is the **Clergy (Mackinlay)** sett — one scale-free proportion (`k1w1db8k
 [KWBKWKWBWKW](/stripes/kwbkwkwbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Grady (Personal)** sett — one scale-free proportion (`k36r3db3r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1988**.
 
+Part of the [Grady](/tartans/g/gr/grady/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

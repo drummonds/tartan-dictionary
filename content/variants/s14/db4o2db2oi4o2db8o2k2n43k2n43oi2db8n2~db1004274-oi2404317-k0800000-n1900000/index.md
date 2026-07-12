@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orkney Heather"
+  url: "/tartans/o/or/orkney-heather/"
+- name: "Orkney Heather"
   url: "/setts/db4o2db2oi4o2db8o2k2n43k2n43oi2db8n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4o2db2oi4o2db8o2k2n43k2n43oi2db8n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBKBKRBRRBRB](/stripes/bbrbkbkrbrrbrb/).
+
+Part of the [Orkney Heather](/tartans/o/or/orkney-heather/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

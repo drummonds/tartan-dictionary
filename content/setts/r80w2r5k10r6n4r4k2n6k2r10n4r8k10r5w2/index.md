@@ -6,6 +6,8 @@ This is the **Hampden-Sydney College** sett — one scale-free proportion (`r80w
 [RWRKRBRKBKRBRKRW](/stripes/rwrkrbrkbkrbrkrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Hampden-Sydney College](/tartans/h/ha/hampden-sydney-college-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rossi"
+  url: "/tartans/r/ro/rossi/"
 - name: "Rossi (Personal)"
   url: "/setts/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKRBRBRKGKW](/stripes/kgkgkrbrbrkgkw/).
+
+Part of the [Rossi](/tartans/r/ro/rossi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

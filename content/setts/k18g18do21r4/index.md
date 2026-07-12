@@ -6,6 +6,8 @@ This is the **Tennant** sett — one scale-free proportion (`k18g18do21r4`), col
 [KGBR](/stripes/kgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tennant](/tartans/t/te/tennant-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

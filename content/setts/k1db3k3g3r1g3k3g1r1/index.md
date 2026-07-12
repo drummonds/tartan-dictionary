@@ -6,6 +6,8 @@ This is the **Unidentified No 30** sett — one scale-free proportion (`k1db3k3g
 [KBKGRGKGR](/stripes/kbkgrgkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 30](/tartans/u/un/unidentified-no-30/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

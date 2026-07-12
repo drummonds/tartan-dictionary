@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Penman"
+  url: "/tartans/p/pe/penman-2/"
 - name: "Penman Grey (Personal)"
   url: "/setts/o38k4w4k4n10k4n10k4w2dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o38k4w4k4n10k4n10k4w2dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKBKWKR](/stripes/bwkbkbkwkr/).
+
+Part of the [Penman](/tartans/p/pe/penman-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

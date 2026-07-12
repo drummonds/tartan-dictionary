@@ -6,6 +6,8 @@ This is the **Steiff** sett — one scale-free proportion (`r15g6db36w2k6w2g30r3
 [RGBWKWGRKW](/stripes/rgbwkwgrkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Steiff](/tartans/s/st/steiff/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

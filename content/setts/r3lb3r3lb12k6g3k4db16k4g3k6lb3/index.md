@@ -6,6 +6,8 @@ This is the **Trinity Presbyterian Church** sett — one scale-free proportion (
 [RWRWKGKBKGKW](/stripes/rwrwkgkbkgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Trinity Presbyterian Church](/tartans/t/tr/trinity-presbyterian-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

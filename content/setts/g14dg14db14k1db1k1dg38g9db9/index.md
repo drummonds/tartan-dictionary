@@ -6,6 +6,8 @@ This is the **Fiddes - 2007 (Personal)** sett — one scale-free proportion (`g1
 [BGGKBKBGG](/stripes/bggkbkbgg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Fiddes](/tartans/f/fi/fiddes-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scotch Tape 2 (Corporate)** sett — one scale-free proportion (`k
 [GKGK](/stripes/gkgk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Scotch Tape 2](/tartans/s/sc/scotch-tape-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

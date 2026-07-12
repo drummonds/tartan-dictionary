@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dacre"
+  url: "/tartans/d/da/dacre/"
 - name: "Dacre Estate Check"
   url: "/setts/k1w1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1w1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWR](/stripes/kwr/).
+
+Part of the [Dacre](/tartans/d/da/dacre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

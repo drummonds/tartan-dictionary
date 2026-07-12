@@ -6,6 +6,8 @@ This is the **Boswell Dress Personal Tartan** sett — one scale-free proportion
 [BWRWKWRW](/stripes/bwrwkwrw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Boswell Dress](/tartans/b/bo/boswell-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

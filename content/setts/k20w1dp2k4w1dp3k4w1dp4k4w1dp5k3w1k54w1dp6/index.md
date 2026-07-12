@@ -6,6 +6,8 @@ This is the **Purdy Black (Illinois)** sett — one scale-free proportion (`k20w
 [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Purdy](/tartans/p/pu/purdy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

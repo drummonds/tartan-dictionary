@@ -6,6 +6,8 @@ This is the **Innes Hunting Clan Tartan** sett — one scale-free proportion (`w
 [WGKGBGBGGGKGKGKW](/stripes/wgkgbgbgggkgkgkw/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Innes Hunting](/tartans/i/in/innes-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

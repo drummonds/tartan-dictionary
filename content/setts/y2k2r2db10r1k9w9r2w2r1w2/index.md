@@ -6,6 +6,8 @@ This is the **Cameron Erracht Dress Trade Tartan** sett — one scale-free propo
 [GKRBRKWRWRW](/stripes/gkrbrkwrwrw/). It is recorded as a single **variant**, below.
 First attested **1936**.
 
+Part of the [Cameron Erracht Dress](/tartans/c/ca/cameron-erracht-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Salich-Plaja of St. Genis"
+  url: "/tartans/s/sa/salich-plaja-of-st-genis/"
 - name: "Salich-Plaja of St. Genis (Personal)"
   url: "/setts/db13w3db13k3db3k8db3k15y3r3g3w3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db13w3db13k3db3k8db3k15y3r3g3w3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKGRGWR](/stripes/bwbkbkbkgrgwr/).
+
+Part of the [Salich-Plaja of St. Genis](/tartans/s/sa/salich-plaja-of-st-genis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ This is the **MacKintosh** sett — one scale-free proportion (`r70db20r10g40r10
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacKintosh](/tartans/mackintosh-4/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKintosh](/tartans/m/ma/mackintosh-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

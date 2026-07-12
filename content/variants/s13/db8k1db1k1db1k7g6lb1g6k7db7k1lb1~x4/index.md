@@ -10,7 +10,7 @@ crumbs:
 - name: "Cheape of Torosay"
   url: "/families/cheape-of-torosay/"
 - name: "Cheape of Torosay"
-  url: "/tartans/cheape-of-torosay/"
+  url: "/tartans/c/ch/cheape-of-torosay/"
 - name: "Cheape of Torosay (Personal)"
   url: "/setts/db8k1db1k1db1k7g6lb1g6k7db7k1lb1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k1db1k1db1k7g6lb1g6k7db7k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKW](/stripes/bkbkbkgwgkbkw/).
 
-Part of the [Cheape of Torosay](/tartans/cheape-of-torosay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cheape of Torosay](/tartans/c/ch/cheape-of-torosay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

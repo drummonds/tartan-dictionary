@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vipont"
-  url: "/tartans/vipont-2/"
+  url: "/tartans/v/vi/vipont-2/"
 - name: "Vipont (White line)"
   url: "/setts/r4g14k3o3g12db36w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g14k3o3g12db36w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRGBW](/stripes/rgkrgbw/).
 
-Part of the [Vipont](/tartans/vipont-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Vipont](/tartans/v/vi/vipont-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

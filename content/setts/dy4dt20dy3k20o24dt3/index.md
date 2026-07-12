@@ -6,6 +6,8 @@ This is the **Edinburgh International Conference Centre, The** sett — one scal
 [BRKGBG](/stripes/brkgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Edinburgh Int.Conf. Centre](/tartans/e/ed/edinburgh-int-conf-centre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Marjoribanks (Clan)** sett — one scale-free proportion (`w3k3w3k
 [WKWKRWRY](/stripes/wkwkrwry/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Marjoribanks](/tartans/marjoribanks/) tartan — the named design grouping this sett with its kin.
+Part of the [Marjoribanks](/tartans/m/ma/marjoribanks/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

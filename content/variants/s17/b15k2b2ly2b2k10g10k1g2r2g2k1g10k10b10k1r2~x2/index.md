@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray, Tony"
+  url: "/tartans/m/mu/murray-tony/"
 - name: "Murray, Tony (Personal)"
   url: "/setts/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBYBKGKGRGKGKBKR](/stripes/bkbybkgkgrgkgkbkr/).
+
+Part of the [Murray, Tony](/tartans/m/mu/murray-tony/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **MacRae of Inverinate Clan Tartan** sett — one scale-free proport
 [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacRae of Inverinate](/tartans/m/ma/macrae-of-inverinate-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

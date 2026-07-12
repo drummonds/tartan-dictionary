@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Staines"
-  url: "/tartans/staines/"
+  url: "/tartans/s/st/staines/"
 - name: "Staines"
   url: "/setts/db12k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BK](/stripes/bk/).
 
-Part of the [Staines](/tartans/staines/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Staines](/tartans/s/st/staines/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

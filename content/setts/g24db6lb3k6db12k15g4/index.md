@@ -6,6 +6,8 @@ This is the **Blaylock Annandale** sett — one scale-free proportion (`g24db6lb
 [GBWKBKG](/stripes/gbwkbkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Blaylock Annandale](/tartans/b/bl/blaylock-annandale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

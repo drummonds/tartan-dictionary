@@ -6,6 +6,8 @@ This is the **Laggen Dress** sett — one scale-free proportion (`dg42k10r2k2w2k
 [GKRKWKGWKWG](/stripes/gkrkwkgwkwg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Laggen Dress](/tartans/l/la/laggen-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

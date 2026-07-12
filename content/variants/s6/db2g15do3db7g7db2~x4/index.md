@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Green Highland, The"
+  url: "/tartans/g/gr/green-highland-the/"
 - name: "Green Highland, The (Fashion)"
   url: "/setts/db2g15do3db7g7db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2g15do3db7g7db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGB](/stripes/bgbbgb/).
+
+Part of the [Green Highland, The](/tartans/g/gr/green-highland-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Duke of York Hunting"
+  url: "/tartans/d/du/duke-of-york-hunting/"
+- name: "Duke of York Hunting"
   url: "/setts/g99db20w8db30y8db10y8g46/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g99db20w8db30y8db10y8g46/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGBGG](/stripes/gbwbgbgg/).
+
+Part of the [Duke of York Hunting](/tartans/d/du/duke-of-york-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

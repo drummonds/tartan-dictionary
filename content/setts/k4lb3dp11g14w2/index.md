@@ -6,6 +6,8 @@ This is the **Wellington No 229** sett — one scale-free proportion (`k4lb3dp11
 [KWBGW](/stripes/kwbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wellington No 229](/tartans/w/we/wellington-no-229/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Private SA Club** sett — one scale-free proportion (`k3dr8k3dr8l
 [BBBYBKBK](/stripes/bbbybkbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Private SA Club](/tartans/p/pr/private-sa-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

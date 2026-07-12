@@ -6,6 +6,8 @@ This is the **Franklin** sett — one scale-free proportion (`t3y5k1y2k1y5r3k2r3
 [BGKGKGRKRBKBKBRKRGKGKGBK](/stripes/bgkgkgrkrbkbkbrkrgkgkgbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Franklin](/tartans/f/fr/franklin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

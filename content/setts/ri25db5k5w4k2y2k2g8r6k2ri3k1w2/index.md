@@ -6,6 +6,8 @@ This is the **Mary Stewart, Queen of Scots** sett — one scale-free proportion 
 [RBKWKGKGRKRKW](/stripes/rbkwkgkgrkrkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Mary Stewart, Queen of Scots](/tartans/m/ma/mary-stewart-queen-of-scots/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cailean #2 (Fashion)** sett — one scale-free proportion (`o4k12b
 [RKBKBKBYBYYY](/stripes/rkbkbkbybyyy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Cailean](/tartans/c/ca/cailean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -10,7 +10,7 @@ crumbs:
 - name: "LLoyd of Astargus"
   url: "/families/lloyd-of-astargus/"
 - name: "Lloyd of Astargus"
-  url: "/tartans/lloyd-of-astargus/"
+  url: "/tartans/l/ll/lloyd-of-astargus/"
 - name: "Lloyd of Astargus"
   url: "/setts/r2db61k13w2n20ly2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db61k13w2n20ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWBY](/stripes/rbkwby/).
 
-Part of the [Lloyd of Astargus](/tartans/lloyd-of-astargus/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lloyd of Astargus](/tartans/l/ll/lloyd-of-astargus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

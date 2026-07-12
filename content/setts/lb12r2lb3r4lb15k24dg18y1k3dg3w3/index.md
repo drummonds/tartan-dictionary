@@ -6,7 +6,7 @@ This is the **Groen (Personal)** sett — one scale-free proportion (`lb12r2lb3r
 [WGKGGKWRWRW](/stripes/wgkggkwrwrw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Groen](/tartans/groen/) tartan — the named design grouping this sett with its kin.
+Part of the [Groen](/tartans/g/gr/groen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

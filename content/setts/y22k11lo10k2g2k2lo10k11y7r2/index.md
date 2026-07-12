@@ -6,6 +6,8 @@ This is the **Project, Faith Inc (Corporate)** sett — one scale-free proportio
 [GKYKGKYKGR](/stripes/gkykgkykgr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Project, Faith Inc](/tartans/p/pr/project-faith-inc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

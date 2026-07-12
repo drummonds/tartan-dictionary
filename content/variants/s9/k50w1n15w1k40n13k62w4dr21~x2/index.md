@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Provincewide HOG Chapter"
+  url: "/tartans/p/pr/provincewide-hog-chapter/"
+- name: "Provincewide HOG Chapter"
   url: "/setts/k50w1n15w1k40n13k62w4dr21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k50w1n15w1k40n13k62w4dr21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKWBWK](/stripes/bwkbkwbwk/).
+
+Part of the [Provincewide HOG Chapter](/tartans/p/pr/provincewide-hog-chapter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Grey Spirit"
+  url: "/tartans/g/gr/grey-spirit-2/"
+- name: "Grey Spirit"
   url: "/setts/n45k17n6k17n6k17n6k17n45k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n45k17n6k17n6k17n6k17n45k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBK](/stripes/bkbkbkbkbk/).
+
+Part of the [Grey Spirit](/tartans/g/gr/grey-spirit-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

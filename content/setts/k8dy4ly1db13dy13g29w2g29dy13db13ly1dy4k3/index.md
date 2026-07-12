@@ -6,6 +6,8 @@ This is the **Teviotdale District Tartan** sett — one scale-free proportion (`
 [KGYBGGWGGBYGKK](/stripes/kgybggwggbygkk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Teviotdale](/tartans/t/te/teviotdale-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

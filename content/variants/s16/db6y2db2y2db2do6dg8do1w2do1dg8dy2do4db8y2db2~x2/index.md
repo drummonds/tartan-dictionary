@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Forbes"
+  url: "/clan/forbes/"
+- name: "Forbes of Druinnor"
+  url: "/families/forbes-of-druinnor/"
+- name: "Forbes of Druinnor"
+  url: "/tartans/f/fo/forbes-of-druinnor/"
 - name: "Forbes of Druinnor (Artefact)"
   url: "/setts/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGGBWBGBBGBGB](/stripes/bgbbggbwbgbbgbgb/).
+
+Part of the [Forbes of Druinnor](/tartans/f/fo/forbes-of-druinnor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

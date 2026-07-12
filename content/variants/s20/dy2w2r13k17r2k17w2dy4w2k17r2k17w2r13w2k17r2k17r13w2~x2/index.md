@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holy Sepulchre"
+  url: "/tartans/h/ho/holy-sepulchre/"
 - name: "Holy Sepulchre Corporate Tartan"
   url: "/setts/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKRKWGWKRKWRWKRKRW](/stripes/gwrkrkwgwkrkwrwkrkrw/).
+
+Part of the [Holy Sepulchre](/tartans/h/ho/holy-sepulchre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -7,6 +7,8 @@ This is the **Milton** sett — one scale-free proportion (`g8r3g4k6g9dp2`), col
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Milton](/tartans/m/mi/milton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

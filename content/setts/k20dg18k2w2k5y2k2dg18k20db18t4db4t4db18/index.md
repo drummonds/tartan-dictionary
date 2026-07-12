@@ -6,6 +6,8 @@ This is the **Shandon (Personal)** sett — one scale-free proportion (`k20dg18k
 [BBBBBKGKGKWKGK](/stripes/bbbbbkgkgkwkgk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Shandon](/tartans/s/sh/shandon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

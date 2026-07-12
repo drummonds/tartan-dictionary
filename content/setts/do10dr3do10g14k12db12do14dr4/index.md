@@ -6,6 +6,8 @@ This is the **Wcwm 1310** sett — one scale-free proportion (`do10dr3do10g14k12
 [BBBGKBBB](/stripes/bbbgkbbb/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Wcwm 1310](/tartans/w/wc/wcwm-1310/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Haughey"
-  url: "/tartans/haughey/"
+  url: "/tartans/h/ha/haughey/"
 - name: "Haughey (Personal)"
   url: "/setts/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6r2db2r4db14r2dg12r2dg3w2dg3do11dp9dg2dp6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRGWGBBGBW](/stripes/brbrbrgrgwgbbgbw/).
 
-Part of the [Haughey](/tartans/haughey/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Haughey](/tartans/h/ha/haughey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **MacKay - 1800 (Reay Coat) (Artefact)** sett — one scale-free pro
 [GBGGGGG](/stripes/gbggggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKay](/tartans/m/ma/mackay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

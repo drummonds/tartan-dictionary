@@ -6,6 +6,8 @@ This is the **Johnnie Walker (2003) (Corporate)** sett — one scale-free propor
 [BBBBKYKYKBBK](/stripes/bbbbkykykbbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Johnnie Walker](/tartans/j/jo/johnnie-walker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

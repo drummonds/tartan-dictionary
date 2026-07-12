@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeay"
+  url: "/tartans/m/ma/macleay-2/"
 - name: "MacLeay (Clan)"
   url: "/setts/r27g4k4g4k4db6lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r27g4k4g4k4db6lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKBY](/stripes/rgkgkby/).
+
+Part of the [MacLeay](/tartans/m/ma/macleay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Plowman"
-  url: "/tartans/plowman/"
+  url: "/tartans/p/pl/plowman/"
 - name: "Plowman #2 (Personal)"
   url: "/setts/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRBRGGRGRBGRGW](/stripes/rbrgrbrggrgrbgrgw/).
 
-Part of the [Plowman](/tartans/plowman/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Plowman](/tartans/p/pl/plowman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

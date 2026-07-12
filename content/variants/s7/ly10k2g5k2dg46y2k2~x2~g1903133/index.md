@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Green Rover, The"
+  url: "/tartans/g/gr/green-rover-the/"
+- name: "Green Rover, The"
   url: "/setts/ly10k2g5k2dg46y2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly10k2g5k2dg46y2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKGKY](/stripes/kggkgky/).
+
+Part of the [Green Rover, The](/tartans/g/gr/green-rover-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

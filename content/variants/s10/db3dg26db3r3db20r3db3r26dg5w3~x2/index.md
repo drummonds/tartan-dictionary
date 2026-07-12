@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roxburgh"
-  url: "/tartans/roxburgh-2/"
+  url: "/tartans/r/ro/roxburgh-2/"
 - name: "Roxburgh Red District Tartan"
   url: "/setts/db3dg26db3r3db20r3db3r26dg5w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3dg26db3r3db20r3db3r26dg5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBRBRGW](/stripes/bgbrbrbrgw/).
 
-Part of the [Roxburgh](/tartans/roxburgh-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Roxburgh](/tartans/r/ro/roxburgh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

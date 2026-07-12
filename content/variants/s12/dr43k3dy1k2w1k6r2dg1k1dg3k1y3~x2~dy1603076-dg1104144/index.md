@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Langholm Millennium"
+  url: "/tartans/l/la/langholm-millennium-2/"
+- name: "Langholm Millennium"
   url: "/setts/dr43k3dy1k2w1k6r2dg1k1dg3k1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr43k3dy1k2w1k6r2dg1k1dg3k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWKRGKGKG](/stripes/bkgkwkrgkgkg/).
+
+Part of the [Langholm Millennium](/tartans/l/la/langholm-millennium-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

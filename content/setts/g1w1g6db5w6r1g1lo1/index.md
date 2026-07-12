@@ -6,6 +6,8 @@ This is the **Vermont Dress** sett — one scale-free proportion (`g1w1g6db5w6r1
 [GWGBWRGY](/stripes/gwgbwrgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Vermont Dress](/tartans/v/ve/vermont-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

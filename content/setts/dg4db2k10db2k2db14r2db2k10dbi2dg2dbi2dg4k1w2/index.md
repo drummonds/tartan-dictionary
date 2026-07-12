@@ -6,6 +6,8 @@ This is the **Barry (Name)** sett — one scale-free proportion (`dg4db2k10db2k2
 [GBKBKBRBKBGBGKW](/stripes/gbkbkbrbkbgbgkw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Barry](/tartans/b/ba/barry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

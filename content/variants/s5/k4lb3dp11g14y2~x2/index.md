@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wellington, No 122"
+  url: "/tartans/w/we/wellington-no-122/"
+- name: "Wellington, No 122"
   url: "/setts/k4lb3dp11g14y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4lb3dp11g14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWK](/stripes/ggbwk/).
+
+Part of the [Wellington, No 122](/tartans/w/we/wellington-no-122/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

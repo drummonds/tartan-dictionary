@@ -6,6 +6,8 @@ This is the **Gray, Hamilton John** sett — one scale-free proportion (`dt6r3dt
 [BRBBYYYBYBYYYBBRBY](/stripes/brbbyyybybyyybbrby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gray, Hamilton John](/tartans/g/gr/gray-hamilton-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

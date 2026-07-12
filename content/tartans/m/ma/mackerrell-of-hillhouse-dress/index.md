@@ -1,0 +1,42 @@
+---
+title: "MacKerrell of Hillhouse Dress"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKerrell"
+  url: "/clan/mackerrell/"
+- name: "MacKerrell of Hillhouse"
+  url: "/families/mackerrell-of-hillhouse/"
+---
+A tartan of the [MacKerrell of Hillhouse](/families/mackerrell-of-hillhouse/) family.
+Its design is pattern [GBBW](/stripes/gbbw/) — the page of every tartan sharing this colour sequence.
+
+The **MacKerrell of Hillhouse Dress** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w4n28t48y3/">MacKerrell of Hillhouse Dress</a></td><td><code>W/8 N56 T96 Y/6</code></td><td>318</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/w4n28t48y3/"><img src="/variants/s4/w4n28t48y3~x2~t2503227/sett.png" alt="MacKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacKerrell of Hillhouse Dress Personal
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">318</div><div class="nn-name nn-base"><a href="/variants/s4/w4n28t48y3~x2~t2503227/">MacKerrell of Hillhouse Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/w4n28t48y3~x2~t2503227/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n10lb3o3r1g1~x10~n1900000-o2500000&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">1.80</a></div><div class="nn-threads">250</div><div class="nn-name"><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/">Bagpipe Shop, The (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n10lb3o3r1g1~x10~n1900000-o2500000-g2408144&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">1.80</a></div><div class="nn-threads">250</div><div class="nn-name"><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/">Bagpipe Shop, The Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t52y23g6dg5w1r1~x2~g2408144-dg1806142&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">1.89</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/">College of New Caledonia (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg8dr1db1n1~x10&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">130</div><div class="nn-name nn-far"><a href="/variants/s4/dg8dr1db1n1~x10/">Jodi Williams (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dg8dr1db1n1~x10/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3dg8n20dp30y2~x2&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">242</div><div class="nn-name nn-far"><a href="/variants/s5/y3dg8n20dp30y2~x2/">Wicks (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/y3dg8n20dp30y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g56dy13y13n5~x2&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s4/g56dy13y13n5~x2/">Colonial Marine (Aliens Legacy)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g56dy13y13n5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db36t21y4n12dp2~x2~db1404245-t2503227&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/">Emond, Kenneth (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9n4dy1~x4&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">72</div><div class="nn-name nn-far"><a href="/variants/s3/g9n4dy1~x4/">Ledford Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g9n4dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9n4dy1~x8&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s3/g9n4dy1~x8/">Ledford</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g9n4dy1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9n4ly1~x16&amp;base=w4n28t48y3~x2~t2503227" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s3/g9n4ly1~x16/">Ledford (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g9n4ly1~x16/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.1" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/"><circle cx="497.1" cy="155.3" r="4" fill="#3465a4"><title>College of New Caledonia (Corporate)</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.9" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s5/y3dg8n20dp30y2~x2/"><circle cx="400.4" cy="248.6" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/"><circle cx="387.5" cy="242.2" r="4" fill="#3465a4"><title>Emond, Kenneth (Personal)</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.4" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><circle cx="521.7" cy="278.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

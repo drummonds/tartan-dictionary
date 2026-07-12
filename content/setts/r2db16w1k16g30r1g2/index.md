@@ -6,6 +6,8 @@ This is the **Sinclair Hunting Clan Tartan** sett — one scale-free proportion 
 [GRGKWBR](/stripes/grgkwbr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Sinclair Hunting](/tartans/s/si/sinclair-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

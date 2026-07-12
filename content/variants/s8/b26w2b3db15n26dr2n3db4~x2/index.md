@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Highlander Dress"
+  url: "/tartans/s/sc/scottish-highlander-dress/"
+- name: "Scottish Highlander Dress"
   url: "/setts/b26w2b3db15n26dr2n3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b26w2b3db15n26dr2n3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBWBBBBB](/stripes/bbbbbbwbwbbbbb/).
+
+Part of the [Scottish Highlander Dress](/tartans/s/sc/scottish-highlander-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

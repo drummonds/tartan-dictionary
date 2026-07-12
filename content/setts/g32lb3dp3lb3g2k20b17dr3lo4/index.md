@@ -6,7 +6,7 @@ This is the **Colorado** sett — one scale-free proportion (`g32lb3dp3lb3g2k20b
 [GWBWGKBBY](/stripes/gwbwgkbby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Colorado](/tartans/colorado/) tartan — the named design grouping this sett with its kin.
+Part of the [Colorado](/tartans/c/co/colorado/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

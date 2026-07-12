@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kerry"
+  url: "/tartans/k/ke/kerry/"
+- name: "Kerry"
   url: "/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBGBRBGBRBG](/stripes/gbgbrbgbrbgbrbg/).
+
+Part of the [Kerry](/tartans/k/ke/kerry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

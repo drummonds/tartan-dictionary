@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Forces Thurso"
+  url: "/tartans/u/u/u-s-forces-thurso/"
+- name: "U.S. Forces Thurso"
   url: "/setts/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20dr3k10lo2lb15w2lb4w2lb15lo2k10dr3db20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKYWWWWWYKBB](/stripes/bbkywwwwwykbb/).
+
+Part of the [U.S. Forces Thurso](/tartans/u/u/u-s-forces-thurso/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

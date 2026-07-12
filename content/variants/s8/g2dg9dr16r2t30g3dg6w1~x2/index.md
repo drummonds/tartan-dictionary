@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "The Climb"
+  url: "/tartans/t/th/the-climb/"
 - name: "The Climb (Fashion)"
   url: "/setts/g2dg9dr16r2t30g3dg6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2dg9dr16r2t30g3dg6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBGGW](/stripes/ggbrbggw/).
+
+Part of the [The Climb](/tartans/t/th/the-climb/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

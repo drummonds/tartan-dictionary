@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blackwood"
-  url: "/tartans/blackwood/"
+  url: "/tartans/b/bl/blackwood/"
 - name: "Blackwood (Loch Wood)"
   url: "/setts/dg5db1g5dp1dg5b1dg5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg5db1g5dp1dg5b1dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBG](/stripes/gbgbgbg/).
 
-Part of the [Blackwood](/tartans/blackwood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blackwood](/tartans/b/bl/blackwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

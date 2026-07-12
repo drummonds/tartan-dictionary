@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bomb Disposal"
+  url: "/tartans/b/bo/bomb-disposal/"
+- name: "Bomb Disposal"
   url: "/setts/k28r3y2r3k13g28k1g3k1g16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k28r3y2r3k13g28k1g3k1g16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRGRK](/stripes/gkgkgkrgrk/).
+
+Part of the [Bomb Disposal](/tartans/b/bo/bomb-disposal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

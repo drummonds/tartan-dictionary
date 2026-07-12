@@ -6,6 +6,8 @@ This is the **Confrerie de Vouvray Corporate Tartan** sett — one scale-free pr
 [BRGRBGBBBGBGBGBGBGBGBGBGBGBBBGBRGR](/stripes/brgrbgbbbgbgbgbgbgbgbgbgbgbbbgbrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Confrerie de Vouvray](/tartans/c/co/confrerie-de-vouvray-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

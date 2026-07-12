@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
+- name: "Burnett of Powis"
+  url: "/families/burnett-of-powis/"
+- name: "Burnett of Powis"
+  url: "/tartans/b/bu/burnett-of-powis/"
 - name: "Burnett of Powis (Personal)"
   url: "/setts/r3g19dy3g19r3g3r21lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g19dy3g19r3g3r21lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGRGRW](/stripes/rgggrgrw/).
+
+Part of the [Burnett of Powis](/tartans/b/bu/burnett-of-powis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

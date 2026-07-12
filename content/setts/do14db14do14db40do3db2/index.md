@@ -6,6 +6,8 @@ This is the **Atlin** sett — one scale-free proportion (`do14db14do14db40do3db
 [BBBBBB](/stripes/bbbbbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Atlin](/tartans/a/at/atlin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

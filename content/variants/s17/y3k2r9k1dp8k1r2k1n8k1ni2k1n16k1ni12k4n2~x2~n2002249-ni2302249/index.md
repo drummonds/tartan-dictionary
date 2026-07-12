@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Golden Glow"
-  url: "/tartans/golden-glow/"
+  url: "/tartans/g/go/golden-glow/"
 - name: "Golden Glow (Fashion)"
   url: "/setts/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKRKBKRKG](/stripes/bkbkbkbkbkrkbkrkg/).
 
-Part of the [Golden Glow](/tartans/golden-glow/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Golden Glow](/tartans/g/go/golden-glow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

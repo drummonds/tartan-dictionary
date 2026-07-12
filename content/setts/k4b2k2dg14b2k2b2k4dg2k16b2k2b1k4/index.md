@@ -6,6 +6,8 @@ This is the **Drummond, (Grey)** sett — one scale-free proportion (`k4b2k2dg14
 [KBKBKGKBKBGKBK](/stripes/kbkbkgkbkbgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Drummond](/tartans/d/dr/drummond-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

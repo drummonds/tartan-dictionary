@@ -6,6 +6,8 @@ This is the **Oneness** sett — one scale-free proportion (`db12k2ly28k2n2k2lo2
 [BKYKBKYKYKBRKYKR](/stripes/bkykbkykykbrkykr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Oneness](/tartans/o/on/oneness-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

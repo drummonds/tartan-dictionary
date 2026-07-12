@@ -6,6 +6,8 @@ This is the **Cawte of Middlebanknock (Personal)** sett — one scale-free propo
 [GGWGRGKGR](/stripes/ggwgrgkgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Cawte of Middlebanknock](/tartans/c/ca/cawte-of-middlebanknock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bannock Bane M.407** sett — one scale-free proportion (`db4dy3db
 [BGBGWYGY](/stripes/bgbgwygy/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bannock Bane M.407](/tartans/b/ba/bannock-bane-m-407/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

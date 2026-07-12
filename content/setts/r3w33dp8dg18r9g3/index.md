@@ -6,6 +6,8 @@ This is the **MacKintosh Dress (Dance)** sett — one scale-free proportion (`r3
 [GRGBWR](/stripes/grgbwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacKintosh Dress](/tartans/m/ma/mackintosh-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

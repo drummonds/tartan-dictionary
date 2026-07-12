@@ -6,6 +6,8 @@ This is the **Wells, Edward G. (Personal)** sett — one scale-free proportion (
 [BKGKBKGGGGKGKRK](/stripes/bkgkbkggggkgkrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wells, Edward G.](/tartans/w/we/wells-edward-g/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

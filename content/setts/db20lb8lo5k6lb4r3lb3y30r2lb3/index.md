@@ -6,6 +6,8 @@ This is the **Thousand Islands District Tartan** sett — one scale-free proport
 [BWYKWRWGRW](/stripes/bwykwrwgrw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Thousand Islands](/tartans/t/th/thousand-islands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

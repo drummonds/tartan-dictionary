@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Waddell"
+  url: "/tartans/w/wa/waddell/"
 - name: "Waddell (Fife), Greg"
   url: "/setts/dr3db2dr24db8dg2db2dg2db2dg10dr3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3db2dr24db8dg2db2dg2db2dg10dr3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBGBGBW](/stripes/bbbbgbgbgbw/).
+
+Part of the [Waddell](/tartans/w/wa/waddell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

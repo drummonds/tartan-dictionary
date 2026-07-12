@@ -6,7 +6,7 @@ This is the **Cameron Hunting Clan Tartan** sett — one scale-free proportion (
 [GGBGRGR](/stripes/ggbgrgr/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
-Part of the [Cameron Hunting](/tartans/cameron-hunting-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Cameron Hunting](/tartans/c/ca/cameron-hunting-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -1,0 +1,37 @@
+---
+title: "Dyce"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KGGKBW](/stripes/kggkbw/) — the page of every tartan sharing this colour sequence.
+
+The **Dyce** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k2y1g6k6db6w1/">Dyce</a></td><td><code>K/8 Y4 G24 K24 DB24 W/4</code></td><td>164</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2y1g6k6db6w1/"><img src="/variants/s6/k2y1g6k6db6w1~x4/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Dyce #3
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">164</div><div class="nn-name nn-base"><a href="/variants/s6/k2y1g6k6db6w1~x4/">Dyce</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k2y1g6k6db6w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y3k2g12k12db14w3&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">0.86</a></div><div class="nn-threads">86</div><div class="nn-name"><a href="/variants/s6/y3k2g12k12db14w3/">MacNeil of Barra</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y3k2g12k12db14w3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y3k2g12k12db14w3~x2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">0.86</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s6/y3k2g12k12db14w3~x2/">MacNeil Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y3k2g12k12db14w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g8k8r2db8w2~x2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">0.98</a></div><div class="nn-threads">114</div><div class="nn-name"><a href="/variants/s6/k3g8k8r2db8w2~x2/">Mitchell Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g8k8r2db8w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1k1g6k6db6lr1~x4&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.04</a></div><div class="nn-threads">160</div><div class="nn-name"><a href="/variants/s6/dr1k1g6k6db6lr1~x4/">Gaines Center for the Humanities</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr1k1g6k6db6lr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k1g9k9db8w1~x4&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.06</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s6/y1k1g9k9db8w1~x4/">MacNeil 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y1k1g9k9db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g17k16r2db17w2~x2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.06</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s6/k2g17k16r2db17w2~x2/">Galbraith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2~x2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.07</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2~x4&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.07</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.07</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g16k14y3db16r4~x2&amp;base=k2y1g6k6db6w1~x4" title="compare in the TTD">1.20</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s6/k4g16k14y3db16r4~x2/">Birse Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4g16k14y3db16r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y3k2g12k12db14w3/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil Clan Tartan</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.5" cy="240.1" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.3" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.1" cy="190.1" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.0" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting Clan Tartan</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x4/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.9" cy="227.0" r="4" fill="#3465a4"><title>Birse Family Tartan</title></circle></a><circle cx="98.6" cy="219.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

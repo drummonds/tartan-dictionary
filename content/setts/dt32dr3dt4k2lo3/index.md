@@ -6,6 +6,8 @@ This is the **MacLaine of Lochbuie Hunting** sett — one scale-free proportion 
 [BBBKY](/stripes/bbbky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacLaine of Lochbuie Hunting](/tartans/m/ma/maclaine-of-lochbuie-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

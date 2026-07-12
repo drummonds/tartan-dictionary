@@ -6,7 +6,7 @@ This is the **Pino Family (Pennsylvania) (Personal)** sett — one scale-free pr
 [BWBYGGGGYGGGG](/stripes/bwbyggggygggg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Pino](/tartans/pino/) tartan — the named design grouping this sett with its kin.
+Part of the [Pino](/tartans/p/pi/pino/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

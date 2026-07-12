@@ -6,6 +6,8 @@ This is the **Fitzgerald Dress** sett — one scale-free proportion (`w2k1ri3db3
 [WKRBRRRRRBRBYGRBRRRRRBRKW](/stripes/wkrbrrrrrbrbygrbrrrrrbrkw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Fitzgerald Dress](/tartans/f/fi/fitzgerald-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

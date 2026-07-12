@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brodie Countryfare"
+  url: "/tartans/b/br/brodie-countryfare/"
 - name: "Brodie Countryfare (Corporate)"
   url: "/setts/dbi3k13dbi13db13w2db13w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi3k13dbi13db13w2db13w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBWBW](/stripes/bkbbwbw/).
+
+Part of the [Brodie Countryfare](/tartans/b/br/brodie-countryfare/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

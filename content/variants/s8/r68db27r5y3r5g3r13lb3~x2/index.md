@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "De Nardi"
-  url: "/tartans/de-nardi/"
+  url: "/tartans/d/de/de-nardi/"
 - name: "De Nardi #2 (Personal)"
   url: "/setts/r68db27r5y3r5g3r13lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r68db27r5y3r5g3r13lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRGRW](/stripes/rbrgrgrw/).
 
-Part of the [De Nardi](/tartans/de-nardi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [De Nardi](/tartans/d/de/de-nardi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

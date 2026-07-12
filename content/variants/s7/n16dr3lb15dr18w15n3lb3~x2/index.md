@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow Dress"
+  url: "/tartans/g/gl/glasgow-dress/"
 - name: "Glasgow Dress (Dance)"
   url: "/setts/n16dr3lb15dr18w15n3lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n16dr3lb15dr18w15n3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBW](/stripes/bbwbwbw/).
+
+Part of the [Glasgow Dress](/tartans/g/gl/glasgow-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

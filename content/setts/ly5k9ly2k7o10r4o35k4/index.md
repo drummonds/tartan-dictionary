@@ -6,6 +6,8 @@ This is the **Wilbers #2 (Personal)** sett — one scale-free proportion (`ly5k9
 [KRRRKYKY](/stripes/krrrkyky/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Wilbers](/tartans/w/wi/wilbers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

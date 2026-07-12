@@ -6,7 +6,7 @@ This is the **Black Gold (Corporate)** sett — one scale-free proportion (`dy3k
 [GKGKBWGKG](/stripes/gkgkbwgkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Black Gold](/tartans/black-gold/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Gold](/tartans/b/bl/black-gold/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

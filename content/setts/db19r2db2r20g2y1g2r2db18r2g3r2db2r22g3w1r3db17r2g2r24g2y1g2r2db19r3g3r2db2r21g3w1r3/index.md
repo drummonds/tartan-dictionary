@@ -6,6 +6,8 @@ This is the **Unidentified 18th Centuary plain weave** sett — one scale-free p
 [BRBRGGGRBRGRBRGWRBRGRGGGRBRGRBRGWR](/stripes/brbrgggrbrgrbrgwrbrgrgggrbrgrbrgwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified 18th Centuary plain weave](/tartans/u/un/unidentified-18th-centuary-plain-weave/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

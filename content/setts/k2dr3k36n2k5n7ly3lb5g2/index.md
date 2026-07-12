@@ -6,6 +6,8 @@ This is the **Victory** sett — one scale-free proportion (`k2dr3k36n2k5n7ly3lb
 [GWYBKBKBK](/stripes/gwybkbkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Victory](/tartans/v/vi/victory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

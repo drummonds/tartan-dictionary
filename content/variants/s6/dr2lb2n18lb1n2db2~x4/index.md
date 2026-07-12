@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Giles Cathedral"
+  url: "/tartans/s/st/st-giles-cathedral/"
 - name: "St. Giles Cathedral (Corporate)"
   url: "/setts/dr2lb2n18lb1n2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2lb2n18lb1n2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
+
+Part of the [St. Giles Cathedral](/tartans/s/st/st-giles-cathedral/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

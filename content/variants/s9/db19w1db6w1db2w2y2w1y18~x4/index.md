@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Park High School"
+  url: "/tartans/h/hi/highland-park-high-school/"
 - name: "Highland Park High School (Texas)"
   url: "/setts/db19w1db6w1db2w2y2w1y18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db19w1db6w1db2w2y2w1y18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWGWG](/stripes/bwbwbwgwg/).
+
+Part of the [Highland Park High School](/tartans/h/hi/highland-park-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

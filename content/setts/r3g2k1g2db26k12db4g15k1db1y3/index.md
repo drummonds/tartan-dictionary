@@ -6,6 +6,8 @@ This is the **King (Personal)** sett — one scale-free proportion (`r3g2k1g2db2
 [GBKGBKBGKGR](/stripes/gbkgbkbgkgr/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [King](/tartans/k/ki/king-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

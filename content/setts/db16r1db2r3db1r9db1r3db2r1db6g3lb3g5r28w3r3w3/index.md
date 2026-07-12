@@ -6,6 +6,8 @@ This is the **Bahrain, Royal** sett — one scale-free proportion (`db16r1db2r3d
 [BRBRBRBRBRBGWGRWRW](/stripes/brbrbrbrbrbgwgrwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Bahrain, Royal](/tartans/b/ba/bahrain-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

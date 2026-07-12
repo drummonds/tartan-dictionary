@@ -6,6 +6,8 @@ This is the **Modern Craft (Masonic)** sett — one scale-free proportion (`k108
 [KBWWWBBW](/stripes/kbwwwbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Modern Craft](/tartans/m/mo/modern-craft-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

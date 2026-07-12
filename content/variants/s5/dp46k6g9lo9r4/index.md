@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ayllu Thuban"
+  url: "/tartans/a/ay/ayllu-thuban/"
 - name: "Ayllu Thuban (Corporate)"
   url: "/setts/dp46k6g9lo9r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp46k6g9lo9r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYR](/stripes/bkgyr/).
+
+Part of the [Ayllu Thuban](/tartans/a/ay/ayllu-thuban/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

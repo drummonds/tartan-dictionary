@@ -6,6 +6,8 @@ This is the **Leach Htg #2 (Name)** sett — one scale-free proportion (`g32w1k3
 [GWKWGGKBW](/stripes/gwkwggkbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Leach Hunting](/tartans/l/le/leach-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

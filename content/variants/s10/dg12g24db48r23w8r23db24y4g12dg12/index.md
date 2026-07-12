@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Swiss Highlander"
-  url: "/tartans/swiss-highlander/"
+  url: "/tartans/s/sw/swiss-highlander/"
 - name: "Swiss Highlander"
   url: "/setts/dg12g24db48r23w8r23db24y4g12dg12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg12g24db48r23w8r23db24y4g12dg12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRWRBGGG](/stripes/ggbrwrbggg/).
 
-Part of the [Swiss Highlander](/tartans/swiss-highlander/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Swiss Highlander](/tartans/s/sw/swiss-highlander/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **MacArthur of Milton Hunting Clan Tartan** sett — one scale-free 
 [GBGKBK](/stripes/gbgkbk/). It is recorded as a single **variant**, below.
 First attested **1823**.
 
+Part of the [MacArthur of Milton Hunting](/tartans/m/ma/macarthur-of-milton-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

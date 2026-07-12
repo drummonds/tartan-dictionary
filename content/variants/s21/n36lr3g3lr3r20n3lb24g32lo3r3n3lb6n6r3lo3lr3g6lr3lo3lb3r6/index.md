@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria, County of"
+  url: "/tartans/v/vi/victoria-county-of/"
 - name: "Victoria, County of (District)"
   url: "/setts/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYRBWGYRBWBRYYGYYWR](/stripes/bygyrbwgyrbwbryygyywr/).
+
+Part of the [Victoria, County of](/tartans/v/vi/victoria-county-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

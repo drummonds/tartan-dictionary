@@ -6,7 +6,7 @@ This is the **Tern House** sett — one scale-free proportion (`g23db3k8db4g4db5
 [GBKBGBY](/stripes/gbkbgby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Tern House](/tartans/tern-house/) tartan — the named design grouping this sett with its kin.
+Part of the [Tern House](/tartans/t/te/tern-house/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

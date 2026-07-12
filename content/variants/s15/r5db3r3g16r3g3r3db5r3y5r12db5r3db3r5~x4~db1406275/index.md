@@ -10,7 +10,7 @@ crumbs:
 - name: "Grant of Ballindalloch"
   url: "/families/grant-of-ballindalloch/"
 - name: "Grant of Ballindalloch"
-  url: "/tartans/grant-of-ballindalloch/"
+  url: "/tartans/g/gr/grant-of-ballindalloch/"
 - name: "Grant of Ballindalloch (Personal)"
   url: "/setts/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRBRGRGRBRBRGRGRBRGRBRBR](/stripes/brbrgrbrgrgrbrbrgrgrbrgrbrbr/).
 
-Part of the [Grant of Ballindalloch](/tartans/grant-of-ballindalloch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

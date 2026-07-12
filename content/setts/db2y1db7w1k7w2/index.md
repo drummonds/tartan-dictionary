@@ -6,6 +6,8 @@ This is the **Hawick Rugby Club** sett — one scale-free proportion (`db2y1db7w
 [BGBWKWKWBG](/stripes/bgbwkwkwbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Hawick Rugby Club](/tartans/h/ha/hawick-rugby-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

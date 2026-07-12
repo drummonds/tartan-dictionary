@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patriot Weavers"
+  url: "/tartans/p/pa/patriot-weavers/"
 - name: "Patriot, The (Fashion)"
   url: "/setts/k10db4k34dt2k2dt30w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10db4k34dt2k2dt30w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
+
+Part of the [Patriot Weavers](/tartans/p/pa/patriot-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

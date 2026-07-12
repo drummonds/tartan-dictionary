@@ -6,6 +6,8 @@ This is the **Ireland's National** sett — one scale-free proportion (`g5dg22g1
 [GGGKWKGKGKGGGKW](/stripes/gggkwkgkgkgggkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Ireland's National](/tartans/i/ir/ireland-s-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

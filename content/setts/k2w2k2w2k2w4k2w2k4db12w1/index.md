@@ -6,7 +6,7 @@ This is the **Napier** sett — one scale-free proportion (`k2w2k2w2k2w4k2w2k4db
 [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Napier](/tartans/napier/) tartan — the named design grouping this sett with its kin.
+Part of the [Napier](/tartans/n/na/napier/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

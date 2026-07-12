@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Johnston Orange/Black"
+  url: "/tartans/j/jo/johnston-orange-black/"
+- name: "Johnston Orange/Black"
   url: "/setts/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYWYKYKYKY](/stripes/kykykywykykyky/).
+
+Part of the [Johnston Orange/Black](/tartans/j/jo/johnston-orange-black/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

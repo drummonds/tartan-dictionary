@@ -6,7 +6,7 @@ This is the **Karibu** sett — one scale-free proportion (`g12w1r1w4r1w1r8y2r1`
 [GWRWRWRGR](/stripes/gwrwrwrgr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Karibu](/tartans/karibu/) tartan — the named design grouping this sett with its kin.
+Part of the [Karibu](/tartans/k/ka/karibu/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lunar"
+  url: "/tartans/l/lu/lunar/"
 - name: "Lunar (Fashion)"
   url: "/setts/k21n1k1n1k1n1k1n7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k21n1k1n1k1n1k1n7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKK](/stripes/bkbkbkbkk/).
+
+Part of the [Lunar](/tartans/l/lu/lunar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

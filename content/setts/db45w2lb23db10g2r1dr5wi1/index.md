@@ -6,6 +6,8 @@ This is the **Hier Family, Kilcreggan (Personal)** sett — one scale-free propo
 [BWWBGRBW](/stripes/bwwbgrbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hier Family, Kilcreggan](/tartans/h/hi/hier-family-kilcreggan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Black Clan/Family Tartan** sett — one scale-free proportion (`k1
 [KBKWKY](/stripes/kbkwky/). It is recorded as a single **variant**, below.
 First attested **~1945**.
 
-Part of the [Black](/tartans/black-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Black](/tartans/b/bl/black-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

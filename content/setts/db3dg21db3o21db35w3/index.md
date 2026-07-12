@@ -6,6 +6,8 @@ This is the **Donnolly** sett — one scale-free proportion (`db3dg21db3o21db35w
 [BGBRBW](/stripes/bgbrbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Donnolly](/tartans/d/do/donnolly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dhillon (Personal)** sett — one scale-free proportion (`k35lo3w3
 [GWYK](/stripes/gwyk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dhillon](/tartans/d/dh/dhillon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

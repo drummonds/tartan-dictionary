@@ -6,6 +6,8 @@ This is the **Royal Canadian Mounted Police Corporate Tartan** sett — one scal
 [BKWGBKRYRKBGWKBK](/stripes/bkwgbkryrkbgwkbk/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Royal Canadian Mounted Police](/tartans/r/ro/royal-canadian-mounted-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

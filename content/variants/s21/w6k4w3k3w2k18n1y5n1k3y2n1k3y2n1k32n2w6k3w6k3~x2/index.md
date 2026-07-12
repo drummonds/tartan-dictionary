@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clutha"
+  url: "/tartans/c/cl/clutha/"
+- name: "Clutha"
   url: "/setts/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWBKBGKBGKBGBKWKWKW](/stripes/kwkwbkbgkbgkbgbkwkwkw/).
+
+Part of the [Clutha](/tartans/c/cl/clutha/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

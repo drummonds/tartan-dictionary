@@ -6,6 +6,8 @@ This is the **Campbell of Breadalbane (Clan)** sett — one scale-free proportio
 [KBKGYGK](/stripes/kbkgygk/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Campbell of Breadalbane](/tartans/c/ca/campbell-of-breadalbane-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Nobiliary Fraternity** sett — one scale-free proportion (`dp11t2
 [BBKGG](/stripes/bbkgg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Nobiliary Fraternity. . .](/tartans/nobiliary-fraternity/) tartan — the named design grouping this sett with its kin.
+Part of the [Nobiliary Fraternity. . .](/tartans/n/no/nobiliary-fraternity/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

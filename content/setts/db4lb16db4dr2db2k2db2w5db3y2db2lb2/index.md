@@ -6,6 +6,8 @@ This is the **Manchester City Football Club "Blue Moon"** sett — one scale-fre
 [BWBBBKBWBGBW](/stripes/bwbbbkbwbgbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Manchester City Football Club "Blue Moon"](/tartans/m/ma/manchester-city-football-club-blue-moon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

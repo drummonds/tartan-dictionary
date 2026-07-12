@@ -6,6 +6,8 @@ This is the **Galbraith** sett — one scale-free proportion (`k2g17k16r2db17w2`
 [KGKRBW](/stripes/kgkrbw/). It is recorded as a single **variant**, below.
 First attested **1816**.
 
+Part of the [Galbraith](/tartans/g/ga/galbraith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

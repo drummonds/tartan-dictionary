@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacCaughan, or MacEachain"
-  url: "/tartans/maccaughan-or-maceachain/"
+  url: "/tartans/m/ma/maccaughan-or-maceachain/"
 - name: "MacCaughan or MacEachain Clan Tartan"
   url: "/setts/r2k1db6k2g6o2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k1db6k2g6o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBKR](/stripes/rgkbkr/).
 
-Part of the [MacCaughan, or MacEachain](/tartans/maccaughan-or-maceachain/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacCaughan, or MacEachain](/tartans/m/ma/maccaughan-or-maceachain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baron of Greencastle Dress"
+  url: "/tartans/b/ba/baron-of-greencastle-dress/"
 - name: "Baron of Greencastle Dress #2 (Personal)"
   url: "/setts/dr4k2dr24y2k12db3k2db2k2db12w1db1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4k2dr24y2k12db3k2db2k2db12w1db1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGKBKBKBWBW](/stripes/bkbgkbkbkbwbw/).
+
+Part of the [Baron of Greencastle Dress](/tartans/b/ba/baron-of-greencastle-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

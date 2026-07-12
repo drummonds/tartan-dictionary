@@ -6,6 +6,8 @@ This is the **Murray Dress Trade Tartan** sett — one scale-free proportion (`w
 [RBKGRGBWBWBW](/stripes/rbkgrgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Murray Dress](/tartans/m/mu/murray-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

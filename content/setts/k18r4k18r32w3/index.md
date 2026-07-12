@@ -7,6 +7,8 @@ This is the **Munro VS** sett — one scale-free proportion (`k18r4k18r32w3`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Munro VS](/tartans/m/mu/munro-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

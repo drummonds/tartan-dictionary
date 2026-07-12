@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Yacht Britannia"
+  url: "/tartans/r/ro/royal-yacht-britannia/"
+- name: "Royal Yacht Britannia"
   url: "/setts/k43dy3dg1w1db1dy3db25r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k43dy3dg1w1db1dy3db25r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGWBGBR](/stripes/kggwbgbr/).
+
+Part of the [Royal Yacht Britannia](/tartans/r/ro/royal-yacht-britannia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

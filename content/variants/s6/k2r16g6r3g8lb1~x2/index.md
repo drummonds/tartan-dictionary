@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacAulay"
   url: "/clan/macaulay/"
 - name: "MacAulay"
-  url: "/tartans/macaulay/"
+  url: "/tartans/m/ma/macaulay/"
 - name: "MacAulay"
   url: "/setts/k2r16g6r3g8lb1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2r16g6r3g8lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRGW](/stripes/krgrgw/).
 
-Part of the [MacAulay](/tartans/macaulay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAulay](/tartans/m/ma/macaulay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

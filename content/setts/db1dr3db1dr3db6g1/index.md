@@ -6,7 +6,7 @@ This is the **Robbins** sett — one scale-free proportion (`db1dr3db1dr3db6g1`)
 [BBBBBG](/stripes/bbbbbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Robbins](/tartans/robbins/) tartan — the named design grouping this sett with its kin.
+Part of the [Robbins](/tartans/r/ro/robbins/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

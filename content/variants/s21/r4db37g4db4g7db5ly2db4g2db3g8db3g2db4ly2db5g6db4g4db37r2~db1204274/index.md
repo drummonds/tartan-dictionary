@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jenkins"
+  url: "/clan/jenkins/"
+- name: "Jenkins of Wales"
+  url: "/families/jenkins-of-wales/"
+- name: "Jenkins of Wales"
+  url: "/tartans/j/je/jenkins-of-wales/"
 - name: "Jenkins of Wales"
   url: "/setts/r4db37g4db4g7db5ly2db4g2db3g8db3g2db4ly2db5g6db4g4db37r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4db37g4db4g7db5ly2db4g2db3g8db3g2db4ly2db5g6db4g4db37r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBYBGBGBGBYBGBGBR](/stripes/rbgbgbybgbgbgbybgbgbr/).
+
+Part of the [Jenkins of Wales](/tartans/j/je/jenkins-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

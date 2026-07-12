@@ -6,7 +6,7 @@ This is the **Lundie (Personal)** sett — one scale-free proportion (`r4t2db5g2
 [RBBGBGBGBGBGBGBWGRBBW](/stripes/rbbgbgbgbgbgbgbwgrbbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Lundie](/tartans/lundie/) tartan — the named design grouping this sett with its kin.
+Part of the [Lundie](/tartans/l/lu/lundie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

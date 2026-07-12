@@ -6,6 +6,8 @@ This is the **Alberta** sett — one scale-free proportion (`g50k4dy6db28dy1db1d
 [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Alberta](/tartans/a/al/alberta-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

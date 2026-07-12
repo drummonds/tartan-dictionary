@@ -6,7 +6,7 @@ This is the **East Carolina University (Corp.)** sett — one scale-free proport
 [BWBKYBY](/stripes/bwbkyby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [East Carolina University](/tartans/east-carolina-university/) tartan — the named design grouping this sett with its kin.
+Part of the [East Carolina University](/tartans/e/ea/east-carolina-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

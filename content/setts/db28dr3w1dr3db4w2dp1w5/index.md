@@ -6,7 +6,7 @@ This is the **Baker Family Tartan** sett — one scale-free proportion (`db28dr3
 [BBWBBWBW](/stripes/bbwbbwbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Baker](/tartans/baker/) tartan — the named design grouping this sett with its kin.
+Part of the [Baker](/tartans/b/ba/baker/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

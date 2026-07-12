@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walker, dress"
+  url: "/tartans/w/wa/walker-dress-3/"
+- name: "Walker, dress"
   url: "/setts/y4k2r7k15r3k3r3k7w28r7w6r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k2r7k15r3k3r3k7w28r7w6r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKRKWRWR](/stripes/gkrkrkrkwrwr/).
+
+Part of the [Walker, dress](/tartans/w/wa/walker-dress-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

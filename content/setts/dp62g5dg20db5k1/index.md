@@ -6,6 +6,8 @@ This is the **Michie Dress, Andrew** sett — one scale-free proportion (`dp62g5
 [BGGBK](/stripes/bggbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Michie Dress, Andrew](/tartans/m/mi/michie-dress-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

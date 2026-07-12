@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buchan"
+  url: "/tartans/b/bu/buchan/"
 - name: "Buchan (Clan)"
   url: "/setts/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGRKRGRKBRKRBKRKRGR](/stripes/bkrgrkrgrkbrkrbkrkrgr/).
+
+Part of the [Buchan](/tartans/b/bu/buchan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

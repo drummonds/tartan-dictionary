@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Vance"
-  url: "/tartans/vance/"
+  url: "/tartans/v/va/vance/"
 - name: "Vance (Name?)"
   url: "/setts/k3lb2g13w2lb24dr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3lb2g13w2lb24dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGWK](/stripes/bwwgwk/).
 
-Part of the [Vance](/tartans/vance/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Vance](/tartans/v/va/vance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

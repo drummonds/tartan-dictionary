@@ -6,6 +6,8 @@ This is the **Livingstone (Australia) NSW** sett — one scale-free proportion (
 [GRKGRKGRGRGR](/stripes/grkgrkgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Livingstone NSW](/tartans/l/li/livingstone-nsw/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

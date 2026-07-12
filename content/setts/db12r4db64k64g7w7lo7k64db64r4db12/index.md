@@ -6,6 +6,8 @@ This is the **Sandhu (Name)** sett — one scale-free proportion (`db12r4db64k64
 [BRBKGWYKBRB](/stripes/brbkgwykbrb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Sandhu](/tartans/s/sa/sandhu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

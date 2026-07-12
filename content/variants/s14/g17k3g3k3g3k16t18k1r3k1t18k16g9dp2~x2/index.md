@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fleming"
+  url: "/clan/fleming/"
+- name: "Fleming of Castle Carrick"
+  url: "/families/fleming-of-castle-carrick/"
+- name: "Fleming of Castle Carrick"
+  url: "/tartans/f/fl/fleming-of-castle-carrick/"
 - name: "Fleming of Castle Carrick (Personal)"
   url: "/setts/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKRKBKGKGKG](/stripes/bgkbkrkbkgkgkg/).
+
+Part of the [Fleming of Castle Carrick](/tartans/f/fl/fleming-of-castle-carrick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

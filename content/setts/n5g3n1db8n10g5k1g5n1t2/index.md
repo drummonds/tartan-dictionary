@@ -6,6 +6,8 @@ This is the **Berkshire #1 (District)** sett — one scale-free proportion (`n5g
 [BBGKGBBBGB](/stripes/bbgkgbbbgb/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Berkshire](/tartans/b/be/berkshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

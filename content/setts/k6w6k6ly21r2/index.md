@@ -6,6 +6,8 @@ This is the **Burberry Check Corporate Tartan** sett — one scale-free proporti
 [KWKYR](/stripes/kwkyr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Burberry Check](/tartans/b/bu/burberry-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

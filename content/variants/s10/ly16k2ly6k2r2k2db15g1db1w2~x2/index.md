@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Otago"
-  url: "/tartans/otago/"
+  url: "/tartans/o/ot/otago/"
 - name: "Otago"
   url: "/setts/ly16k2ly6k2r2k2db15g1db1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly16k2ly6k2r2k2db15g1db1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/).
 
-Part of the [Otago](/tartans/otago/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Otago](/tartans/o/ot/otago/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

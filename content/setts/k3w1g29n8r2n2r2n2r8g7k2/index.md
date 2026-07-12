@@ -6,7 +6,7 @@ This is the **Gray Hunting Family Tartan** sett — one scale-free proportion (`
 [KGRBRBRBGWK](/stripes/kgrbrbrbgwk/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Gray Hunting](/tartans/gray-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Gray Hunting](/tartans/g/gr/gray-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,6 +7,8 @@ This is the **Wilson's, No 159** sett — one scale-free proportion (`dp8k11g9r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1118**.
 
+Part of the [Norwich Collection No. 60](/tartans/n/no/norwich-collection-no-60/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

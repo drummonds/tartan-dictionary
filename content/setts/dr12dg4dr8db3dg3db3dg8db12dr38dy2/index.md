@@ -6,6 +6,8 @@ This is the **Wanstall** sett — one scale-free proportion (`dr12dg4dr8db3dg3db
 [BGBBGBGBBG](/stripes/bgbbgbgbbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Wanstall](/tartans/w/wa/wanstall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

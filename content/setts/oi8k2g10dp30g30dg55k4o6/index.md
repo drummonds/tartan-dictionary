@@ -6,6 +6,8 @@ This is the **Aberuchill District Tartan** sett — one scale-free proportion (`
 [RKGBGGKR](/stripes/rkgbggkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Aberuchill](/tartans/a/ab/aberuchill-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

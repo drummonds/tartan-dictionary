@@ -6,7 +6,7 @@ This is the **Malcolm Clan Tartan** sett — one scale-free proportion (`k1y1k1g
 [KGKGKBRBRBKGKW](/stripes/kgkgkbrbrbkgkw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [Malcolm](/tartans/malcolm/) tartan — the named design grouping this sett with its kin.
+Part of the [Malcolm](/tartans/m/ma/malcolm/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

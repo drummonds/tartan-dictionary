@@ -6,6 +6,8 @@ This is the **Laois County Crest (Fashion)** sett — one scale-free proportion 
 [GYKYKBKBBKW](/stripes/gykykbkbbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Laois County Crest](/tartans/l/la/laois-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

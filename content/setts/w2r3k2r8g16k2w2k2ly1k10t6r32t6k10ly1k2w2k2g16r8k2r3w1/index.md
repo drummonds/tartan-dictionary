@@ -6,6 +6,8 @@ This is the **Stewart** sett — one scale-free proportion (`w2r3k2r8g16k2w2k2ly
 [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Stewart](/tartans/s/st/stewart-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

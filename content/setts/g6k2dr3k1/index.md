@@ -6,6 +6,8 @@ This is the **Red Watch (Fashion) #1** sett — one scale-free proportion (`g6k2
 [GKBK](/stripes/gkbk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Red Watch](/tartans/r/re/red-watch-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

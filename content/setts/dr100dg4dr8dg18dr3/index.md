@@ -6,6 +6,8 @@ This is the **KaDeWe** sett — one scale-free proportion (`dr100dg4dr8dg18dr3`)
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [KaDeWe](/tartans/k/ka/kadewe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Southdown** sett — one scale-free proportion (`k8r1k3w5k5w3k5o23
 [KRKWKWKRR](/stripes/krkwkwkrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Southdown](/tartans/s/so/southdown-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cumbernauld"
-  url: "/tartans/cumbernauld/"
+  url: "/tartans/c/cu/cumbernauld/"
 - name: "Cumbernauld District Tartan"
   url: "/setts/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
 
-Part of the [Cumbernauld](/tartans/cumbernauld/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cumbernauld](/tartans/c/cu/cumbernauld/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

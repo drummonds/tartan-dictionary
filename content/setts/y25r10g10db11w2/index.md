@@ -6,7 +6,7 @@ This is the **Samye** sett — one scale-free proportion (`y25r10g10db11w2`), co
 [GRGBW](/stripes/grgbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Samye](/tartans/samye/) tartan — the named design grouping this sett with its kin.
+Part of the [Samye](/tartans/s/sa/samye/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

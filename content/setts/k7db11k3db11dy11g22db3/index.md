@@ -6,6 +6,8 @@ This is the **Scottish Odyssey Commemorative Tartan** sett — one scale-free pr
 [BGGBKBK](/stripes/bggbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Scottish Odyssey Commemorative](/tartans/s/sc/scottish-odyssey-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Rangers Dress (Sports)** sett — one scale-free proportion (`dr2d
 [BBYBKWKBYBB](/stripes/bbybkwkbybb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Rangers Dress](/tartans/r/ra/rangers-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

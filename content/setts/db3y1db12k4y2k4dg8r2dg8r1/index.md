@@ -6,7 +6,7 @@ This is the **MacMillan Hunting #2** sett — one scale-free proportion (`db3y1d
 [BGBKGKGRGRGRGKGKBG](/stripes/bgbkgkgrgrgrgkgkbg/). It is recorded as a single **variant**, below.
 First attested **1890**.
 
-Part of the [MacMillan Hunting](/tartans/macmillan-hunting-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan Hunting](/tartans/m/ma/macmillan-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

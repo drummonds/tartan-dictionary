@@ -6,6 +6,8 @@ This is the **Clare** sett — one scale-free proportion (`dr3db14b14db2dr14db2d
 [BBBBBBBBGBG](/stripes/bbbbbbbbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clare](/tartans/c/cl/clare-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

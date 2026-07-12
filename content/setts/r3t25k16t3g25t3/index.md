@@ -7,7 +7,7 @@ This is the **Flower of Scotland** sett — one scale-free proportion (`r3t25k16
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Flower of Scotland](/tartans/flower-of-scotland/) tartan — the named design grouping this sett with its kin.
+Part of the [Flower of Scotland](/tartans/f/fl/flower-of-scotland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Willis, H Graham"
-  url: "/tartans/willis-h-graham/"
+  url: "/tartans/w/wi/willis-h-graham/"
 - name: "Willis, H Graham"
   url: "/setts/r60w28y2lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r60w28y2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGW](/stripes/rwgw/).
 
-Part of the [Willis, H Graham](/tartans/willis-h-graham/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Willis, H Graham](/tartans/w/wi/willis-h-graham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

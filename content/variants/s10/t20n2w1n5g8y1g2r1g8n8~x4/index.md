@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connecticut, State of"
+  url: "/tartans/c/co/connecticut-state-of/"
 - name: "Connecticut, State of (District)"
   url: "/setts/t20n2w1n5g8y1g2r1g8n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t20n2w1n5g8y1g2r1g8n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGGGRGB](/stripes/bbwbgggrgb/).
+
+Part of the [Connecticut, State of](/tartans/c/co/connecticut-state-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maresh"
+  url: "/tartans/m/ma/maresh/"
+- name: "Maresh"
   url: "/setts/k3y3g22db6k17g6db22r3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3y3g22db6k17g6db22r3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGKBGGK](/stripes/brbgkbggk/).
+
+Part of the [Maresh](/tartans/m/ma/maresh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

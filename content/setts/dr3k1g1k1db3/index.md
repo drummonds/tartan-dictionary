@@ -6,6 +6,8 @@ This is the **Clark Clerk(e)** sett — one scale-free proportion (`dr3k1g1k1db3
 [BKGKB](/stripes/bkgkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clark Clerk](/tartans/c/cl/clark-clerk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

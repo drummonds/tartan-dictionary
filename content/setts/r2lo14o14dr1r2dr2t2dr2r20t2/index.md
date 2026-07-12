@@ -6,6 +6,8 @@ This is the **Star Is Born, A** sett — one scale-free proportion (`r2lo14o14dr
 [BRBBBRBRYR](/stripes/brbbbrbryr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Star Is Born, A](/tartans/s/st/star-is-born-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

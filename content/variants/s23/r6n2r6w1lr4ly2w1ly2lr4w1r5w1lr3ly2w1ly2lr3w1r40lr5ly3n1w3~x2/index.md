@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "B & Q"
+  url: "/tartans/b/b/b-q/"
 - name: "B & Q (Corporate)"
   url: "/setts/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/).
+
+Part of the [B & Q](/tartans/b/b/b-q/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

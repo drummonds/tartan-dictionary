@@ -6,7 +6,7 @@ This is the **Prince George** sett — one scale-free proportion (`dg6w4dg3w4dg2
 [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Prince George](/tartans/prince-george/) tartan — the named design grouping this sett with its kin.
+Part of the [Prince George](/tartans/p/pr/prince-george/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

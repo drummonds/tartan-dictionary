@@ -6,6 +6,8 @@ This is the **Heritage #2** sett — one scale-free proportion (`g20w2g9w2y5w7g1
 [GWGWGWG](/stripes/gwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Heritage](/tartans/h/he/heritage-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

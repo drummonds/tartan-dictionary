@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hughes"
+  url: "/clan/hughes/"
+- name: "Hughes Interconnection Int."
+  url: "/tartans/h/hu/hughes-interconnection-int/"
 - name: "Hughes Interconnection Int."
   url: "/setts/w4k2t18y4t18dy26dg18k1o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k2t18y4t18dy26dg18k1o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGBGBKWKBGBGGKR](/stripes/kggbgbkwkbgbggkr/).
+
+Part of the [Hughes Interconnection Int.](/tartans/h/hu/hughes-interconnection-int/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

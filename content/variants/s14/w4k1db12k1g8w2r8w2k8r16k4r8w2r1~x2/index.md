@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kenya"
+  url: "/tartans/k/ke/kenya/"
+- name: "Kenya"
   url: "/setts/w4k1db12k1g8w2r8w2k8r16k4r8w2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k1db12k1g8w2r8w2k8r16k4r8w2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKRKWRWGKBKW](/stripes/rwrkrkwrwgkbkw/).
+
+Part of the [Kenya](/tartans/k/ke/kenya/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

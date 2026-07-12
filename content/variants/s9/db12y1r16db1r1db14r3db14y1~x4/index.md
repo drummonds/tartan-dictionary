@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orlando Fire Department"
+  url: "/tartans/o/or/orlando-fire-department/"
+- name: "Orlando Fire Department"
   url: "/setts/db12y1r16db1r1db14r3db14y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12y1r16db1r1db14r3db14y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBRBRBG](/stripes/bgrbrbrbg/).
+
+Part of the [Orlando Fire Department](/tartans/o/or/orlando-fire-department/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

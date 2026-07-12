@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Ireland"
+  url: "/tartans/p/pr/pride-of-ireland/"
 - name: "Pride of Ireland Fashion Tartan"
   url: "/setts/dg9k2dg2g13k2g2dy1dg13k26dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg9k2dg2g13k2g2dy1dg13k26dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGKGGKG](/stripes/gkgggkggkg/).
+
+Part of the [Pride of Ireland](/tartans/p/pr/pride-of-ireland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Houston Family Tartan** sett — one scale-free proportion (`g2lyi
 [GYYYGYYYGYYY](/stripes/gyyygyyygyyy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Houston](/tartans/h/ho/houston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

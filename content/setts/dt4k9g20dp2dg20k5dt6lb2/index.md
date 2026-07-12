@@ -6,7 +6,7 @@ This is the **Linden** sett — one scale-free proportion (`dt4k9g20dp2dg20k5dt6
 [BKGBGKBW](/stripes/bkgbgkbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Linden](/tartans/linden/) tartan — the named design grouping this sett with its kin.
+Part of the [Linden](/tartans/l/li/linden/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Isaia** sett — one scale-free proportion (`r80dr8r4dy4lb4dy45n8`
 [BGWGRBR](/stripes/bgwgrbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Isaia](/tartans/i/is/isaia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

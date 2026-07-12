@@ -6,6 +6,8 @@ This is the **Nesbit, Rose** sett — one scale-free proportion (`r6w3r37k16w16g
 [GWKRWR](/stripes/gwkrwr/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Nesbit, Rose](/tartans/n/ne/nesbit-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

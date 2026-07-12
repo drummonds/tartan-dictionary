@@ -6,7 +6,7 @@ This is the **MacDonell of Keppoch** sett — one scale-free proportion (`dg2r2d
 [BRGRBWRBRG](/stripes/brgrbwrbrg/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
-Part of the [MacDonell of Keppoch](/tartans/macdonell-of-keppoch-4/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonell of Keppoch](/tartans/m/ma/macdonell-of-keppoch-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carlow"
+  url: "/tartans/c/ca/carlow/"
+- name: "Carlow"
   url: "/setts/dr20b2dr2b2dr2b8k24b2k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr20b2dr2b2dr2b8k24b2k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBKBK](/stripes/bbbbbbkbk/).
+
+Part of the [Carlow](/tartans/c/ca/carlow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Puccini (Fashion)** sett — one scale-free proportion (`r6w1r1k15
 [RKWKRKRWYKWRKRWR](/stripes/rkwkrkrwykwrkrwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Puccini](/tartans/p/pu/puccini/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

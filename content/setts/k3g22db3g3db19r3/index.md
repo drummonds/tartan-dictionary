@@ -6,6 +6,8 @@ This is the **Davidson Half.. Clan Tartan** sett — one scale-free proportion (
 [KGBGBR](/stripes/kgbgbr/). It is recorded as a single **variant**, below.
 First attested **1952**.
 
+Part of the [Davidson](/tartans/d/da/davidson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

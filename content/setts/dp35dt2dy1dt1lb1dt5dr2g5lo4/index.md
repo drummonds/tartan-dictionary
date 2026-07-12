@@ -6,6 +6,8 @@ This is the **Millennium (Langholm) (Corporate)** sett — one scale-free propor
 [BBGBWBBGY](/stripes/bbgbwbbgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Millennium](/tartans/m/mi/millennium-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **92nd Regiment (Gordon) (Mil.)** sett — one scale-free proportion
 [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/). It is recorded as a single **variant**, below.
 First attested **~1819**.
 
+Part of the [92nd Regiment](/tartans/0-9/0-9/92nd-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

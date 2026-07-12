@@ -6,6 +6,8 @@ This is the **Fermanagh, County** sett — one scale-free proportion (`dy3k20db4
 [GKBGBGBGBKYKYKGKG](/stripes/gkbgbgbgbkykykgkg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Fermanagh, County](/tartans/f/fe/fermanagh-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

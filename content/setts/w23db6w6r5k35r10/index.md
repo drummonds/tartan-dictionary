@@ -6,6 +6,8 @@ This is the **Meg Merrilees Fancy Tartan** sett — one scale-free proportion (`
 [RKRWBW](/stripes/rkrwbw/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Meg Merrilees Fancy](/tartans/m/me/meg-merrilees-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

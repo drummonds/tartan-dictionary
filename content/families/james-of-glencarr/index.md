@@ -11,8 +11,10 @@ A family of [Clan James](/clan/james/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8r8dg17w3r35db10dg15w3/">James of Glencarr</a> ★</td><td><code>DB/16 R16 DG34 W6 R70 DB20 DG30 W/6</code></td><td>374</td><td>2008</td></tr>
+<tr><td><a href="/setts/db8r8dg17w3r35db10dg15w3/">James of Glencarr</a></td><td><code>DB/16 R16 DG34 W6 R70 DB20 DG30 W/6</code></td><td>374</td><td>2008</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r8dg17w3r35db10dg15w3/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the James of Glencarr tartan and all its setts →](/tartans/j/ja/james-of-glencarr/)
 

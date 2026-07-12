@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGlashan"
+  url: "/tartans/m/ma/macglashan-3/"
 - name: "MacGlashan Clan Tartan"
   url: "/setts/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBBWGRBRGWYWBR](/stripes/bwrbbwgrbrgwywbr/).
+
+Part of the [MacGlashan](/tartans/m/ma/macglashan-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Westgaard"
+  url: "/clan/westgaard/"
+- name: "Westgaard of Kileughterco"
+  url: "/families/westgaard-of-kileughterco/"
+- name: "Westgaard of Kileughterco"
+  url: "/tartans/w/we/westgaard-of-kileughterco/"
 - name: "Westgaard of Kileughterco (Personal)"
   url: "/setts/r15w7r10db7w3k3w3r8db5w3k3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15w7r10db7w3k3w3r8db5w3k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRBWKWRBWKW](/stripes/rwrbwkwrbwkw/).
+
+Part of the [Westgaard of Kileughterco](/tartans/w/we/westgaard-of-kileughterco/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

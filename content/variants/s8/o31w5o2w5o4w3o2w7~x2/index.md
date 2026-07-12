@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies, Brown &"
+  url: "/tartans/m/me/menzies-brown-2/"
 - name: "Menzies, Brown & White"
   url: "/setts/o31w5o2w5o4w3o2w7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o31w5o2w5o4w3o2w7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
+
+Part of the [Menzies, Brown &](/tartans/m/me/menzies-brown-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

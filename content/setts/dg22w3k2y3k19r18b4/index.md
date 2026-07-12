@@ -6,7 +6,7 @@ This is the **Scotch House 2000, dress** sett — one scale-free proportion (`dg
 [BRKGKWG](/stripes/brkgkwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Scotch House 2000 Dress](/tartans/scotch-house-2000-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotch House 2000 Dress](/tartans/s/sc/scotch-house-2000-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

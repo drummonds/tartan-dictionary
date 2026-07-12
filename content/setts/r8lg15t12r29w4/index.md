@@ -6,6 +6,8 @@ This is the **Snowbird (Corporate)** sett — one scale-free proportion (`r8lg15
 [RYBRW](/stripes/rybrw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Snowbird](/tartans/s/sn/snowbird/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

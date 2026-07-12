@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
+- name: "Rose, Danny and Hanna"
+  url: "/tartans/r/ro/rose-danny-and-hanna/"
 - name: "Rose, Danny and Hanna (Personal)"
   url: "/setts/lg11db19dt38dr7k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lg11db19dt38dr7k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBBY](/stripes/kbbby/).
+
+Part of the [Rose, Danny and Hanna](/tartans/r/ro/rose-danny-and-hanna/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

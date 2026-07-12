@@ -6,6 +6,8 @@ This is the **Dallas** sett — one scale-free proportion (`t75n2t10n6w2n6t10w2g
 [BBBBWBBWGGWGGWBBW](/stripes/bbbbwbbwggwggwbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dallas](/tartans/d/da/dallas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

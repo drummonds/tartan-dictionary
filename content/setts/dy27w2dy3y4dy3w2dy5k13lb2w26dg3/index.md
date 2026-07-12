@@ -6,7 +6,7 @@ This is the **MacKellar Dress** sett — one scale-free proportion (`dy27w2dy3y4
 [GWGGGWGKWWG](/stripes/gwgggwgkwwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacKellar Dress](/tartans/mackellar-dress-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKellar Dress](/tartans/m/ma/mackellar-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

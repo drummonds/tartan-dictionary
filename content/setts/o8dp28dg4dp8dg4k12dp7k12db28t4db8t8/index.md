@@ -6,7 +6,7 @@ This is the **Kinloch Anderson Thistle** sett — one scale-free proportion (`o8
 [BBBBKBKGBGBR](/stripes/bbbbkbkgbgbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Kinloch Anderson Thistle](/tartans/kinloch-anderson-thistle/) tartan — the named design grouping this sett with its kin.
+Part of the [Kinloch Anderson Thistle](/tartans/k/ki/kinloch-anderson-thistle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

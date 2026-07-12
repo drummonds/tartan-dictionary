@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gracey"
-  url: "/tartans/gracey/"
+  url: "/tartans/g/gr/gracey/"
 - name: "Gracey (2013)"
   url: "/setts/r3dp8g20k20db17k3lg3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3dp8g20k20db17k3lg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKBKY](/stripes/rbgkbky/).
 
-Part of the [Gracey](/tartans/gracey/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gracey](/tartans/g/gr/gracey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

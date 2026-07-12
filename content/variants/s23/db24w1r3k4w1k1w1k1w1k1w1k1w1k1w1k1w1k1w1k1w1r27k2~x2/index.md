@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCready"
+  url: "/tartans/m/mc/mccready/"
 - name: "McCready (Name)"
   url: "/setts/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKWKWKWKWKWKWKWKWKWRK](/stripes/bwrkwkwkwkwkwkwkwkwkwrk/).
+
+Part of the [McCready](/tartans/m/mc/mccready/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

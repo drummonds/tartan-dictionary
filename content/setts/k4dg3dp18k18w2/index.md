@@ -6,6 +6,8 @@ This is the **Wcwm 1106-2** sett — one scale-free proportion (`k4dg3dp18k18w2`
 [KGBKW](/stripes/kgbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1106-2](/tartans/w/wc/wcwm-1106-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

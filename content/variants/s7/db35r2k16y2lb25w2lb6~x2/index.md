@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "US Forces Regimental"
+  url: "/tartans/u/us/us-forces-regimental/"
 - name: "US Forces (Thurso) Regimental Tartan"
   url: "/setts/db35r2k16y2lb25w2lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db35r2k16y2lb25w2lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGWWW](/stripes/brkgwww/).
+
+Part of the [US Forces Regimental](/tartans/u/us/us-forces-regimental/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

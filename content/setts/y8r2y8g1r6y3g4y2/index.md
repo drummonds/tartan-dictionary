@@ -6,6 +6,8 @@ This is the **Glufree** sett — one scale-free proportion (`y8r2y8g1r6y3g4y2`),
 [GGGRGGRG](/stripes/gggrggrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Glufree](/tartans/g/gl/glufree/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **University Plaid** sett — one scale-free proportion (`dr4dg3dr4y
 [BGBGBGBGGBG](/stripes/bgbgbgbggbg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [University](/tartans/u/un/university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

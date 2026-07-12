@@ -6,7 +6,7 @@ This is the **Pringle (Personal)** sett — one scale-free proportion (`dr3g32ly
 [BGYGKBYBWBW](/stripes/bgygkbybwbw/). It is recorded as a single **variant**, below.
 First attested **~1988**.
 
-Part of the [Pringle](/tartans/pringle/) tartan — the named design grouping this sett with its kin.
+Part of the [Pringle](/tartans/p/pr/pringle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Smith (Sir William)** sett — one scale-free proportion (`db18k20
 [BKGKKKGKBW](/stripes/bkgkkkgkbw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Smith](/tartans/s/sm/smith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

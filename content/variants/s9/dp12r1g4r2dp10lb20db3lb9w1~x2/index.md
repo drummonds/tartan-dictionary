@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Japan-Scotland Society"
+  url: "/tartans/j/ja/japan-scotland-society/"
 - name: "Japan–Scotland Society, The"
   url: "/setts/dp12r1g4r2dp10lb20db3lb9w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp12r1g4r2dp10lb20db3lb9w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWBWW](/stripes/brgrbwbww/).
+
+Part of the [Japan-Scotland Society](/tartans/j/ja/japan-scotland-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

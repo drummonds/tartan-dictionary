@@ -6,6 +6,8 @@ This is the **Suzugamine (Corporate)** sett — one scale-free proportion (`db4d
 [BBGBBKBBW](/stripes/bbgbbkbbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Suzugamine](/tartans/s/su/suzugamine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

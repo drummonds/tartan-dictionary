@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nike ACG Lunarstorm"
+  url: "/tartans/n/ni/nike-acg-lunarstorm/"
 - name: "Nike ACG Lunarstorm (Fashion)"
   url: "/setts/db8r2db18r1db2w10db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8r2db18r1db2w10db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWB](/stripes/brbrbwb/).
+
+Part of the [Nike ACG Lunarstorm](/tartans/n/ni/nike-acg-lunarstorm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

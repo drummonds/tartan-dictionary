@@ -6,6 +6,8 @@ This is the **Carr (Personal)** sett — one scale-free proportion (`ly2db6r5db1
 [YBRBGYGRWGY](/stripes/ybrbgygrwgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Carr](/tartans/c/ca/carr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

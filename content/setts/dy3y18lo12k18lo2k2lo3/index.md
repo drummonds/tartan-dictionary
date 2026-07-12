@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Check (Fashion)** sett — one scale-free proport
 [GGYKYKY](/stripes/ggykyky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kinloch Anderson Check](/tartans/k/ki/kinloch-anderson-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

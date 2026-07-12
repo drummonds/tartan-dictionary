@@ -6,6 +6,8 @@ This is the **East Kilbride #2** sett — one scale-free proportion (`w2dr14k1n5
 [WBKBKBBBY](/stripes/wbkbkbbby/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [East Kilbride](/tartans/e/ea/east-kilbride-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

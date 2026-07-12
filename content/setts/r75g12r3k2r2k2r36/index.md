@@ -6,6 +6,8 @@ This is the **MacKintosh (Moy Hall) Clan Tartan** sett — one scale-free propor
 [RGRKRKR](/stripes/rgrkrkr/). It is recorded as a single **variant**, below.
 First attested **1821**.
 
+Part of the [MacKintosh](/tartans/m/ma/mackintosh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

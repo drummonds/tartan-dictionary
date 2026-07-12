@@ -7,6 +7,8 @@ This is the **Benteau na mara** sett — one scale-free proportion (`y1dbi2dg20r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Benteau na mara](/tartans/b/be/benteau-na-mara/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

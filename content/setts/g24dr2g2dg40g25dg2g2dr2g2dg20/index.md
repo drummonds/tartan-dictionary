@@ -6,6 +6,8 @@ This is the **Donachie of Brockloch Hunting Clan Tartan** sett — one scale-fre
 [GBGGGGGBGG](/stripes/gbgggggbgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Donachie of Brockloch Hunting](/tartans/d/do/donachie-of-brockloch-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

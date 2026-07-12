@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Wisconsin"
+  url: "/tartans/s/st/state-seal-of-wisconsin/"
 - name: "State Seal of Wisconsin (Fashion)"
   url: "/setts/k49db15k2ly6k33dr4k3dy8w3db5k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k49db15k2ly6k33dr4k3dy8w3db5k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKYKBKGWBK](/stripes/kbkykbkgwbk/).
+
+Part of the [State Seal of Wisconsin](/tartans/s/st/state-seal-of-wisconsin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

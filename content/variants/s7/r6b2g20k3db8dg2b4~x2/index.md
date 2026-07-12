@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal British Legion, The"
+  url: "/tartans/r/ro/royal-british-legion-the/"
+- name: "Royal British Legion, The"
   url: "/setts/r6b2g20k3db8dg2b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6b2g20k3db8dg2b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGBR](/stripes/bgbkgbr/).
+
+Part of the [Royal British Legion, The](/tartans/r/ro/royal-british-legion-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

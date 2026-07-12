@@ -6,7 +6,7 @@ This is the **Isle of Skye** sett — one scale-free proportion (`dy20dp2dy2dp2d
 [BGBGBGGGGWGGGGBGBGBG](/stripes/bgbgbggggwggggbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Isle of Skye](/tartans/isle-of-skye-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Isle of Skye](/tartans/i/is/isle-of-skye-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

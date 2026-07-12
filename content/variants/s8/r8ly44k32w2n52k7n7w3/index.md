@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Golden Wedding"
+  url: "/tartans/g/go/golden-wedding/"
 - name: "Golden Wedding (Fashion)"
   url: "/setts/r8ly44k32w2n52k7n7w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8ly44k32w2n52k7n7w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKWBKBW](/stripes/rykwbkbw/).
+
+Part of the [Golden Wedding](/tartans/g/go/golden-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

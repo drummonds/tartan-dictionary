@@ -6,6 +6,8 @@ This is the **MacKeever (Personal)** sett — one scale-free proportion (`k36r8w
 [KRGRKRYRKRWRK](/stripes/krgrkryrkrwrk/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [MacKeever](/tartans/m/ma/mackeever-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

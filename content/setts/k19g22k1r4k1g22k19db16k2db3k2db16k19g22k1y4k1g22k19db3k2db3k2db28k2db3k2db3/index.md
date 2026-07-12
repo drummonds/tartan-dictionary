@@ -6,6 +6,8 @@ This is the **Farquharson or MacEwan Clan Tartan** sett — one scale-free propo
 [BKBKBKBKBKGKGKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkgkgkbkbkbkgkrkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Farquharson or MacEwan](/tartans/f/fa/farquharson-or-macewan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

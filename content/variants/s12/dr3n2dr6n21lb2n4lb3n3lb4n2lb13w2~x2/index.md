@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Qatar Airways"
+  url: "/tartans/q/qa/qatar-airways/"
+- name: "Qatar Airways"
   url: "/setts/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBWBWBWW](/stripes/bbbbwbwbwbww/).
+
+Part of the [Qatar Airways](/tartans/q/qa/qatar-airways/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

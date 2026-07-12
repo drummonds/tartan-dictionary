@@ -6,6 +6,8 @@ This is the **Stuart-Houghton Family Tartan** sett — one scale-free proportion
 [BKBWBKBBKWKWKGBG](/stripes/bkbwbkbbkwkwkgbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Stuart-Houghton](/tartans/s/st/stuart-houghton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

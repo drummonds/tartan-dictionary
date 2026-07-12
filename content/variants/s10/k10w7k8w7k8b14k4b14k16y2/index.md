@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Little"
+  url: "/clan/little/"
+- name: "Little of Morton Rig"
+  url: "/families/little-of-morton-rig/"
+- name: "Little of Morton Rig"
+  url: "/tartans/l/li/little-of-morton-rig/"
 - name: "Little of Morton Rig"
   url: "/setts/k10w7k8w7k8b14k4b14k16y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10w7k8w7k8b14k4b14k16y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKWKWK](/stripes/gkbkbkwkwk/).
+
+Part of the [Little of Morton Rig](/tartans/l/li/little-of-morton-rig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

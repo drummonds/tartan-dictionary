@@ -6,6 +6,8 @@ This is the **Bridge of Weir Leather Co. (Corp)** sett — one scale-free propor
 [BYRRBGYGYGYR](/stripes/byrrbgygygyr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Bridge of Weir Leather Co.](/tartans/b/br/bridge-of-weir-leather-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

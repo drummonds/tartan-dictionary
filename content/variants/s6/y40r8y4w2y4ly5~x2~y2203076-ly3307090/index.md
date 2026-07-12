@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
+- name: "Reid"
+  url: "/tartans/r/re/reid-3/"
 - name: "Reid (1939)"
   url: "/setts/y40r8y4w2y4ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y40r8y4w2y4ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGY](/stripes/grgwgy/).
+
+Part of the [Reid](/tartans/r/re/reid-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

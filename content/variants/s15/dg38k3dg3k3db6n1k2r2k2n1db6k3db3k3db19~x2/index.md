@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Doyel"
+  url: "/tartans/d/do/doyel/"
 - name: "Doyel (Name)"
   url: "/setts/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBBKRKBBKGKG](/stripes/bkbkbbkrkbbkgkg/).
+
+Part of the [Doyel](/tartans/d/do/doyel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mount Isla"
+  url: "/tartans/m/mo/mount-isla/"
+- name: "Mount Isla"
   url: "/setts/lo2k1dr6k2db7k2db7k2dr7k1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2k1dr6k2db7k2db7k2dr7k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBKBKBKY](/stripes/wkbkbkbkbky/).
+
+Part of the [Mount Isla](/tartans/m/mo/mount-isla/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

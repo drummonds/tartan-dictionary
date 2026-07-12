@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harbour Town"
+  url: "/tartans/h/ha/harbour-town/"
 - name: "Harbour Town Hilton Head, The"
   url: "/setts/db3g11db3dr11db18ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3g11db3dr11db18ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBY](/stripes/bgbbby/).
+
+Part of the [Harbour Town](/tartans/h/ha/harbour-town/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

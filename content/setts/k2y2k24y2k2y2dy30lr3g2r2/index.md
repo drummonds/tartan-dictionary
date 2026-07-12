@@ -6,6 +6,8 @@ This is the **Spotsylvania County, Sherrif's Office of** sett — one scale-free
 [KGKGKGGYGR](/stripes/kgkgkggygr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Spotsylvania County, Sherrif's Office of](/tartans/s/sp/spotsylvania-county-sherrif-s-office-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

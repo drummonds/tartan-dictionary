@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Princess Beatrice Hunting"
+  url: "/tartans/p/pr/princess-beatrice-hunting/"
 - name: "Princess Beatrice Hunting (MacKinlay strip)"
   url: "/setts/db6r3g3r3g36b6g6db40g3k3g3k3g8y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r3g3r3g36b6g6db40g3k3g3k3g8y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGBGBGKGKGG](/stripes/brgrgbgbgkgkgg/).
+
+Part of the [Princess Beatrice Hunting](/tartans/p/pr/princess-beatrice-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

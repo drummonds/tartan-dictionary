@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jacobite, Silk sash"
+  url: "/tartans/j/ja/jacobite-silk-sash-2/"
+- name: "Jacobite, Silk sash"
   url: "/setts/w2r8o5y6w5g21w6r8b4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r8o5y6w5g21w6r8b4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRWGWGRRW](/stripes/wbrwgwgrrw/).
+
+Part of the [Jacobite, Silk sash](/tartans/j/ja/jacobite-silk-sash-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

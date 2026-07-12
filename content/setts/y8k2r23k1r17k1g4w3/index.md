@@ -6,6 +6,8 @@ This is the **Hoa Sen** sett — one scale-free proportion (`y8k2r23k1r17k1g4w3`
 [GKRKRKGW](/stripes/gkrkrkgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hoa Sen](/tartans/h/ho/hoa-sen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

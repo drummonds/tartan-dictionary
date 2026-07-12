@@ -6,6 +6,8 @@ This is the **MacLagan of Glenquiech** sett — one scale-free proportion (`r6db
 [GKRGKBRBRBR](/stripes/gkrgkbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [MacLagan of Glenquiech](/tartans/m/ma/maclagan-of-glenquiech/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

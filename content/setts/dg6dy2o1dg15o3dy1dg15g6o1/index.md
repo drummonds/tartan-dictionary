@@ -6,6 +6,8 @@ This is the **McCall, F W (Personal)** sett — one scale-free proportion (`dg6d
 [GGRGRGGGR](/stripes/ggrgrgggr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [McCall, F W](/tartans/m/mc/mccall-f-w/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Victoria, City of (British Columbia)** sett — one scale-free pro
 [RGRKYR](/stripes/rgrkyr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Victoria, City of](/tartans/v/vi/victoria-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

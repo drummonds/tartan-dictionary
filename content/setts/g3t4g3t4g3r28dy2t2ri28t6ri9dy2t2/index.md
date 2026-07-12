@@ -6,6 +6,8 @@ This is the **Pitcairn Heritage (Name)** sett — one scale-free proportion (`g3
 [BGRBRBGRGBGBG](/stripes/bgrbrbgrgbgbg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Pitcairn Heritage](/tartans/p/pi/pitcairn-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

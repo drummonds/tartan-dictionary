@@ -6,6 +6,8 @@ This is the **Skarpathiotakis, George (Personal)** sett — one scale-free propo
 [BKBKGKGKBKBWBWB](/stripes/bkbkgkgkbkbwbwb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Skarpathiotakis, George](/tartans/s/sk/skarpathiotakis-george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

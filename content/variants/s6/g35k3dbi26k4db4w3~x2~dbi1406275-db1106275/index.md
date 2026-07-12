@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Yorkland"
+  url: "/tartans/p/pr/pride-of-yorkland/"
 - name: "Pride of Yorkland (Fashion)"
   url: "/setts/g35k3dbi26k4db4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g35k3dbi26k4db4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBW](/stripes/gkbkbw/).
+
+Part of the [Pride of Yorkland](/tartans/p/pr/pride-of-yorkland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

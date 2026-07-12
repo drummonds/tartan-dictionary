@@ -6,6 +6,8 @@ This is the **Child, The** sett — one scale-free proportion (`p10k1dg4k1p10r4p
 [BKGKBRBKRKBG](/stripes/bkgkbrbkrkbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Child, The](/tartans/c/ch/child-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

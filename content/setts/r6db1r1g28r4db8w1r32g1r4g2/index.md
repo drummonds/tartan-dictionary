@@ -6,6 +6,8 @@ This is the **MacDonell of Keppoch (artefact)** sett — one scale-free proporti
 [GRGRWBRGRBR](/stripes/grgrwbrgrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDonell of Keppoch](/tartans/m/ma/macdonell-of-keppoch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

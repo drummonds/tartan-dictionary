@@ -6,7 +6,7 @@ This is the **Thayer USA (Name)** sett — one scale-free proportion (`r5db25w5d
 [BGBWBR](/stripes/bgbwbr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
-Part of the [Thayer USA](/tartans/thayer-usa/) tartan — the named design grouping this sett with its kin.
+Part of the [Thayer USA](/tartans/t/th/thayer-usa/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

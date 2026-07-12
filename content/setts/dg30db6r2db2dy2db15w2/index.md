@@ -6,6 +6,8 @@ This is the **Hydesville Tower (Corporate)** sett — one scale-free proportion 
 [GBRBGBW](/stripes/gbrbgbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Hydesville Tower](/tartans/h/hy/hydesville-tower/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

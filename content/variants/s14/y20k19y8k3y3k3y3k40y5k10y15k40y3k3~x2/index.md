@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Justus Yellow &"
+  url: "/tartans/j/ju/justus-yellow/"
 - name: "Justus Yellow & Black (Personal)"
   url: "/setts/y20k19y8k3y3k3y3k40y5k10y15k40y3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y20k19y8k3y3k3y3k40y5k10y15k40y3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgkgkgkgkgkgkgk/).
+
+Part of the [Justus Yellow &](/tartans/j/ju/justus-yellow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

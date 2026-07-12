@@ -6,6 +6,8 @@ This is the **MacNab** sett — one scale-free proportion (`g8r1g1r1g1r6do8r1do8
 [GRGRBRBRGRGRG](/stripes/grgrbrbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNab](/tartans/m/ma/macnab/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

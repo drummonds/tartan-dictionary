@@ -6,6 +6,8 @@ This is the **Killiechassie** sett — one scale-free proportion (`dr2dy1dr4r1dr
 [BGBRBY](/stripes/bgbrby/). It is recorded as a single **variant**, below.
 First attested **1955**.
 
+Part of the [Killiechassie](/tartans/k/ki/killiechassie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

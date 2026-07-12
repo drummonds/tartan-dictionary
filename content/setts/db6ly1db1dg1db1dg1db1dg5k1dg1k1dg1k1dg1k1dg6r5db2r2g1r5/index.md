@@ -6,7 +6,7 @@ This is the **Recovery (Corporate)** sett — one scale-free proportion (`db6ly1
 [BYBGBGBGKGKGKGKGRBRGR](/stripes/bybgbgbgkgkgkgkgrbrgr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Recovery](/tartans/recovery/) tartan — the named design grouping this sett with its kin.
+Part of the [Recovery](/tartans/r/re/recovery/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

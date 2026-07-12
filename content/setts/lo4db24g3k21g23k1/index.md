@@ -6,6 +6,8 @@ This is the **Glenturret Distillery** sett — one scale-free proportion (`lo4db
 [KGKGBY](/stripes/kgkgby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Glenturret Distillery](/tartans/g/gl/glenturret-distillery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

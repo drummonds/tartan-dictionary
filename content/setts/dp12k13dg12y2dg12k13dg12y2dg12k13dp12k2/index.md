@@ -6,7 +6,7 @@ This is the **Wilson's No.064** sett — one scale-free proportion (`dp12k13dg12
 [BKGGGKGGGKBK](/stripes/bkgggkgggkbk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Wilson's No.064](/tartans/wilson-s-no-064/) tartan — the named design grouping this sett with its kin.
+Part of the [Wilson's No.064](/tartans/w/wi/wilson-s-no-064/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

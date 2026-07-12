@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rabbie Burns"
+  url: "/tartans/r/ra/rabbie-burns/"
+- name: "Rabbie Burns"
   url: "/setts/db4y2db5dr11db4dr2db2g10db28k1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y2db5dr11db4dr2db2g10db28k1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBBBGBKB](/stripes/bgbbbbbgbkb/).
+
+Part of the [Rabbie Burns](/tartans/r/ra/rabbie-burns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ This is the **Broberg (Scania) (Personal)** sett — one scale-free proportion (
 [BWKG](/stripes/bwkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Broberg](/tartans/broberg/) tartan — the named design grouping this sett with its kin.
+Part of the [Broberg](/tartans/b/br/broberg/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

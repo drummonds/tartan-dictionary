@@ -6,7 +6,7 @@ This is the **Forfar District Tartan** sett — one scale-free proportion (`lb3d
 [GWWYWBWBRBWBWYWWGW](/stripes/gwwywbwbrbwbwywwgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Forfar](/tartans/forfar/) tartan — the named design grouping this sett with its kin.
+Part of the [Forfar](/tartans/f/fo/forfar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

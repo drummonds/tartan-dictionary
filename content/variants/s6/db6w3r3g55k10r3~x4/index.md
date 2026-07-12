@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Military Medical Memorial"
+  url: "/tartans/m/mi/military-medical-memorial/"
 - name: "Military Medical Memorial (USA)"
   url: "/setts/db6w3r3g55k10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6w3r3g55k10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRGKR](/stripes/bwrgkr/).
+
+Part of the [Military Medical Memorial](/tartans/m/mi/military-medical-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

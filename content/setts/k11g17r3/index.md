@@ -7,6 +7,8 @@ This is the **Kincaid** sett — one scale-free proportion (`k11g17r3`), colour 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Kincaid](/tartans/k/ki/kincaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

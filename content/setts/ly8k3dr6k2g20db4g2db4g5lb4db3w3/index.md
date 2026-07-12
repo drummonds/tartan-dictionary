@@ -6,6 +6,8 @@ This is the **Down County Crest (Fashion)** sett — one scale-free proportion (
 [WBWGBGBGKBKY](/stripes/wbwgbgbgkbky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Down County Crest](/tartans/d/do/down-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

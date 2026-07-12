@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Furman University"
+  url: "/tartans/f/fu/furman-university/"
+- name: "Furman University"
   url: "/setts/dp2w14k15dp14w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2w14k15dp14w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBW](/stripes/bwkbw/).
+
+Part of the [Furman University](/tartans/f/fu/furman-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

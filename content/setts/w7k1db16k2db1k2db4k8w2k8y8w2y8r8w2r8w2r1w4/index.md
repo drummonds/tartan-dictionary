@@ -6,6 +6,8 @@ This is the **German** sett — one scale-free proportion (`w7k1db16k2db1k2db4k8
 [WKBKBKBKWKGWGRWRWRW](/stripes/wkbkbkbkwkgwgrwrwrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [German](/tartans/g/ge/german/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

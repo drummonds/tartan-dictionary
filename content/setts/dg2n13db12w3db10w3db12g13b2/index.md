@@ -6,7 +6,7 @@ This is the **Mounth, The** sett — one scale-free proportion (`dg2n13db12w3db1
 [BGBWBWBBG](/stripes/bgbwbwbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Mounth, The](/tartans/mounth-the-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Mounth, The](/tartans/m/mo/mounth-the-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

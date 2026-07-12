@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Womens Rural Institute"
+  url: "/tartans/w/wo/womens-rural-institute/"
+- name: "Womens Rural Institute"
   url: "/setts/dg4g24dp4k6dg4dr3dg4dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4g24dp4k6dg4dr3dg4dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBGG](/stripes/bgbgkbgg/).
+
+Part of the [Womens Rural Institute](/tartans/w/wo/womens-rural-institute/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

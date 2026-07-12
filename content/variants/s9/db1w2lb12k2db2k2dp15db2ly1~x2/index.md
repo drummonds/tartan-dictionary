@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hek"
-  url: "/tartans/hek/"
+  url: "/tartans/h/he/hek/"
 - name: "Hek (Name)"
   url: "/setts/db1w2lb12k2db2k2dp15db2ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1w2lb12k2db2k2dp15db2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWKBKBBY](/stripes/bwwkbkbby/).
 
-Part of the [Hek](/tartans/hek/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hek](/tartans/h/he/hek/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

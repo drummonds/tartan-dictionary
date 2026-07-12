@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guide Dogs"
+  url: "/tartans/g/gu/guide-dogs/"
 - name: "Guide Dogs (Corporate)"
   url: "/setts/db67w1ly6r5dg25db3k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db67w1ly6r5dg25db3k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYRGBK](/stripes/bwyrgbk/).
+
+Part of the [Guide Dogs](/tartans/g/gu/guide-dogs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

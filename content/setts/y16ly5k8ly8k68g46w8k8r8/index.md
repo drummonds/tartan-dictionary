@@ -6,6 +6,8 @@ This is the **Louth County Crest (Fashion)** sett — one scale-free proportion 
 [GYKYKGWKR](/stripes/gykykgwkr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Louth County Crest](/tartans/l/lo/louth-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

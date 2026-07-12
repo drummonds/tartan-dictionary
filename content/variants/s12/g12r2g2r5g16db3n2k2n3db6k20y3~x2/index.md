@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kelsey, William"
-  url: "/tartans/kelsey-william/"
+  url: "/tartans/k/ke/kelsey-william/"
 - name: "Kelsey, William (Personal)"
   url: "/setts/g12r2g2r5g16db3n2k2n3db6k20y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12r2g2r5g16db3n2k2n3db6k20y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBKBBGRGRG](/stripes/gkbbkbbgrgrg/).
 
-Part of the [Kelsey, William](/tartans/kelsey-william/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kelsey, William](/tartans/k/ke/kelsey-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

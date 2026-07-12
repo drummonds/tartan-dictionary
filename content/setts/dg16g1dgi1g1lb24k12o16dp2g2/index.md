@@ -6,6 +6,8 @@ This is the **Thistle Stop LLC** sett — one scale-free proportion (`dg16g1dgi1
 [GBRKWGGGG](/stripes/gbrkwgggg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Thistle Stop LLC](/tartans/t/th/thistle-stop-llc-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

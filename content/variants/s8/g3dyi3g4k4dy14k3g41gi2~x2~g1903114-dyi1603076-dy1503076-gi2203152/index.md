@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Huntsman"
+  url: "/tartans/h/hu/huntsman/"
+- name: "Huntsman"
   url: "/setts/g3dyi3g4k4dy14k3g41gi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dyi3g4k4dy14k3g41gi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGKGG](/stripes/gggkgkgg/).
+
+Part of the [Huntsman](/tartans/h/hu/huntsman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

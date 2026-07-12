@@ -6,6 +6,8 @@ This is the **Longford** sett — one scale-free proportion (`db8k3db18g6k8g6o12
 [BKBGKGRRRR](/stripes/bkbgkgrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Longford](/tartans/l/lo/longford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

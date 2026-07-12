@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Selvon-Bruce"
-  url: "/tartans/selvon-bruce/"
+  url: "/tartans/s/se/selvon-bruce/"
 - name: "Selvon-Bruce (Personal)"
   url: "/setts/k3g2k3g18r2db2ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g2k3g18r2db2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGRBY](/stripes/kgkgrby/).
 
-Part of the [Selvon-Bruce](/tartans/selvon-bruce/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Selvon-Bruce](/tartans/s/se/selvon-bruce/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

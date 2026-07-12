@@ -6,6 +6,8 @@ This is the **Graeme Brodie Tartan** sett — one scale-free proportion (`ri1k19
 [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Graeme Brodie](/tartans/g/gr/graeme-brodie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

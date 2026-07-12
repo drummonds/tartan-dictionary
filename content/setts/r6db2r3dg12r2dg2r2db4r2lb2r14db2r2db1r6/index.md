@@ -6,7 +6,7 @@ This is the **Drummond of Megginch - Child's Kilt (c.1890)** sett — one scale-
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
-Part of the [Drummond of Megginch](/tartans/drummond-of-megginch/) tartan — the named design grouping this sett with its kin.
+Part of the [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

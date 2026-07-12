@@ -10,7 +10,7 @@ crumbs:
 - name: "Grant of Rothiemurchus"
   url: "/families/grant-of-rothiemurchus/"
 - name: "Grant of Rothiemurchus"
-  url: "/tartans/grant-of-rothiemurchus/"
+  url: "/tartans/g/gr/grant-of-rothiemurchus/"
 - name: "Unnamed 18th century plaid from Rothiemurchus"
   url: "/setts/r1g1r32dp32r8g1r1g1r8g32r32g1r1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1g1r32dp32r8g1r1g1r8g32r32g1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/).
 
-Part of the [Grant of Rothiemurchus](/tartans/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grant of Rothiemurchus](/tartans/g/gr/grant-of-rothiemurchus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

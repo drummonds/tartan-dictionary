@@ -6,6 +6,8 @@ This is the **Begg (Scarfskerry)** sett — one scale-free proportion (`o4dg30db
 [KBKWKGBGR](/stripes/kbkwkgbgr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Begg](/tartans/b/be/begg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

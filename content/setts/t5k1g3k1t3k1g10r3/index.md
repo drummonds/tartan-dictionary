@@ -6,6 +6,8 @@ This is the **Ayrton 1979 No. 2 (Personal)** sett — one scale-free proportion 
 [BKGKBKGR](/stripes/bkgkbkgr/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Ayrton 1979 No. 2](/tartans/a/ay/ayrton-1979-no-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

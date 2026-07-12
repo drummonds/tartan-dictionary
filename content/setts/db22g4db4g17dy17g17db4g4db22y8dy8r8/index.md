@@ -6,6 +6,8 @@ This is the **Niagra Falls Trade Tartan** sett — one scale-free proportion (`d
 [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Niagra Falls](/tartans/n/ni/niagra-falls/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

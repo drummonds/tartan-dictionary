@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McDougall, Miss Anne"
+  url: "/tartans/m/mc/mcdougall-miss-anne/"
 - name: "McDougall, Miss Anne (Personal)"
   url: "/setts/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRWBWGWRBRWBWGWBRW](/stripes/wbrwbwgwrbrwbwgwbrw/).
+
+Part of the [McDougall, Miss Anne](/tartans/m/mc/mcdougall-miss-anne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

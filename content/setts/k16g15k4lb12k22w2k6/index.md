@@ -6,6 +6,8 @@ This is the **Frame (Edinburgh) (Personal)** sett — one scale-free proportion 
 [KGKWKWK](/stripes/kgkwkwk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Frame](/tartans/f/fr/frame-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gayre Hunting"
-  url: "/tartans/gayre-hunting/"
+  url: "/tartans/g/ga/gayre-hunting/"
 - name: "Gayre Hunting Clan Tartan"
   url: "/setts/db16g4k4n22db5n22k3r5g4n4g4r4k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16g4k4n22db5n22k3r5g4n4g4r4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBBBKRGBGRK](/stripes/bgkbbbkrgbgrk/).
 
-Part of the [Gayre Hunting](/tartans/gayre-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gayre Hunting](/tartans/g/ga/gayre-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

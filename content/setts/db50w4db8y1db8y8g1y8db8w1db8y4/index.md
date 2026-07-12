@@ -6,6 +6,8 @@ This is the **Herry (2016)** sett — one scale-free proportion (`db50w4db8y1db8
 [BWBGBGGGBWBG](/stripes/bwbgbgggbwbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Herry](/tartans/h/he/herry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

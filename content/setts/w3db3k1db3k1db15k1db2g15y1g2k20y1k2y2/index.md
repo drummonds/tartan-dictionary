@@ -6,6 +6,8 @@ This is the **Joseph Linn Family (Monohon) Name Tartan** sett — one scale-free
 [GKGKGGGBKBKBKBW](/stripes/gkgkgggbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Joseph Linn](/tartans/j/jo/joseph-linn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

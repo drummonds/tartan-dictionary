@@ -6,7 +6,7 @@ This is the **Atlantic Police Academy** sett — one scale-free proportion (`k33
 [GRBWYK](/stripes/grbwyk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Atlantic Police Academy](/tartans/atlantic-police-academy/) tartan — the named design grouping this sett with its kin.
+Part of the [Atlantic Police Academy](/tartans/a/at/atlantic-police-academy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **MacDonald of Aird & Valley (Clan?)** sett — one scale-free propo
 [BBBGBBBBBBBGBG](/stripes/bbbgbbbbbbbgbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacDonald of Aird & Valley](/tartans/m/ma/macdonald-of-aird-valley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,39 @@
+---
+title: "Highlander Highland Laddie"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KBGBW](/stripes/kbgbw/) — the page of every tartan sharing this colour sequence.
+
+Universal design worn by customers of the Highland Laddie, an Edinburgh Highland outfitters and kilt maker.
+
+The **Highlander Highland Laddie** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k7dr3g30db28lb3/">Highlander Highland Laddie</a></td><td><code>K/14 DR6 G60 DB56 LB/6</code></td><td>264</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7dr3g30db28lb3/"><img src="/variants/s5/k7dr3g30db28lb3~x2/sett.png" alt="Highlander Highland Laddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Highlander
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s5/k7dr3g30db28lb3~x2/">Highlander Highland Laddie</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k7dr3g30db28lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7dr3g29db29w3~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.38</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/k7dr3g29db29w3~x2/">Highlander, Highland Laddie Kilts</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7dr3g29db29w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7y3g28db28w3~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.68</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s5/k7y3g28db28w3~x2/">Turnbull Hunting Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2dy1g10db10w1~x6&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.70</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/k2dy1g10db10w1~x6/">Turnbull Hunting (1983) #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2dy1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7lb3g18db18w2~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.79</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s5/k7lb3g18db18w2~x2/">Bhatti (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7lt3dg18db18w2~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.82</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s5/k7lt3dg18db18w2~x2/">Bhatti</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2y1g10db10w1~x6&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.84</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/r2y1g10db10w1~x6/">Turnbull Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r7y3g28db28w3~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.85</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2lb2g8db8w1~x2&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.86</a></div><div class="nn-threads">78</div><div class="nn-name"><a href="/variants/s5/k2lb2g8db8w1~x2/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2lb2g8db8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2lb2g8db8w1&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.86</a></div><div class="nn-threads">39</div><div class="nn-name"><a href="/variants/s5/k2lb2g8db8w1/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2lb2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w2g8db8w1&amp;base=k7dr3g30db28lb3~x2" title="compare in the TTD">0.86</a></div><div class="nn-threads">39</div><div class="nn-name"><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2w2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.5" cy="197.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/k7y3g28db28w3~x2/"><circle cx="178.4" cy="197.6" r="4" fill="#3465a4"><title>Turnbull Hunting Clan Tartan</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.6" cy="192.6" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="149.0" cy="212.9" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.1" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.1" cy="213.5" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.3" cy="228.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><circle cx="198.8" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

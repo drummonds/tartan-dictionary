@@ -6,6 +6,8 @@ This is the **Ryder Cup 2006** sett — one scale-free proportion (`k10ly1k3dt8d
 [KYKBGGGBKY](/stripes/kykbgggbky/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Ryder Cup 2006](/tartans/r/ry/ryder-cup-2006/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

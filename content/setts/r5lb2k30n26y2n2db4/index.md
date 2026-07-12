@@ -6,6 +6,8 @@ This is the **Milne-Murtaugh (Personal)** sett — one scale-free proportion (`r
 [BBGBKWR](/stripes/bbgbkwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Milne-Murtaugh](/tartans/m/mi/milne-murtaugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "National Trust for Scotland (Corpora"
+  url: "/tartans/n/na/national-trust-for-scotland-corpora/"
+- name: "National Trust for Scotland (Corpora"
   url: "/setts/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg13db2k2db2dg13g4db14dp2db14g4k12db2dg2db2dg2db2k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGGBBBGKBGBGBK](/stripes/gbkbggbbbgkbgbgbk/).
+
+Part of the [National Trust for Scotland (Corpora](/tartans/n/na/national-trust-for-scotland-corpora/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Coe"
+  url: "/tartans/g/gl/glen-coe-2/"
 - name: "Glen Coe (District)"
   url: "/setts/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBGBKWBGBRG](/stripes/brkbgbkwbgbrg/).
+
+Part of the [Glen Coe](/tartans/g/gl/glen-coe-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

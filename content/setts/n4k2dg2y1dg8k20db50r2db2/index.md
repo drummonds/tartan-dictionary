@@ -6,6 +6,8 @@ This is the **Buckie** sett — one scale-free proportion (`n4k2dg2y1dg8k20db50r
 [BKGGGKBRB](/stripes/bkgggkbrb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Buckie](/tartans/b/bu/buckie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

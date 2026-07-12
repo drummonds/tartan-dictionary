@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Borthwick"
-  url: "/tartans/borthwick/"
+  url: "/tartans/b/bo/borthwick/"
 - name: "Borthwick (Clan)"
   url: "/setts/g17k1dr16k2n14k19n14k2dr6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g17k1dr16k2n14k19n14k2dr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKG](/stripes/bkbkbkbkg/).
 
-Part of the [Borthwick](/tartans/borthwick/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Borthwick](/tartans/b/bo/borthwick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

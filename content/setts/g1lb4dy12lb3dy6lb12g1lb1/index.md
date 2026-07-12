@@ -6,6 +6,8 @@ This is the **O'Neill Pipe Band 1970 (Corporate)** sett — one scale-free propo
 [GWGWGWGW](/stripes/gwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [O'Neill Pipe Band 1970](/tartans/o/o/o-neill-pipe-band-1970/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

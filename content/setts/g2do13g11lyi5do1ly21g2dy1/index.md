@@ -6,6 +6,8 @@ This is the **St. Lawrence #2 (Fashion)** sett — one scale-free proportion (`g
 [GBGYBYGG](/stripes/gbgybygg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [St. Lawrence](/tartans/s/st/st-lawrence-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

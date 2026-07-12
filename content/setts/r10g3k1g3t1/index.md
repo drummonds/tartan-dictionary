@@ -6,6 +6,8 @@ This is the **Espy (Fashion?)** sett — one scale-free proportion (`r10g3k1g3t1
 [BGKGR](/stripes/bgkgr/). It is recorded as a single **variant**, below.
 First attested **~1995**.
 
+Part of the [Espy](/tartans/e/es/espy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

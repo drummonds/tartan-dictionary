@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Anthony Plaid Ecru"
+  url: "/tartans/a/an/anthony-plaid-ecru/"
+- name: "Anthony Plaid Ecru"
   url: "/setts/lr18k1dy3k1lr2dr2k2dr2lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr18k1dy3k1lr2dr2k2dr2lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKBYKGKY](/stripes/ybkbykgky/).
+
+Part of the [Anthony Plaid Ecru](/tartans/a/an/anthony-plaid-ecru/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

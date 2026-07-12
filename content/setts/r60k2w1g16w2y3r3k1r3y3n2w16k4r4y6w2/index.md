@@ -6,6 +6,8 @@ This is the **Clan Chattan D** sett — one scale-free proportion (`r60k2w1g16w2
 [RKWGWGRKRGBWKRGW](/stripes/rkwgwgrkrgbwkrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clan Chattan D](/tartans/c/cl/clan-chattan-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

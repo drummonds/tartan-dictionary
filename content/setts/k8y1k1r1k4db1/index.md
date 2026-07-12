@@ -6,6 +6,8 @@ This is the **Justus** sett — one scale-free proportion (`k8y1k1r1k4db1`), col
 [BKRKGK](/stripes/bkrkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Justus](/tartans/j/ju/justus-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Misty Isle (Fashion)** sett — one scale-free proportion (`k4lr3d
 [BKBRKWKYBYK](/stripes/bkbrkwkybyk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Misty Isle](/tartans/m/mi/misty-isle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

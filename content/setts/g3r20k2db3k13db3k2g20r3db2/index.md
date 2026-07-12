@@ -6,6 +6,8 @@ This is the **Matthew Gloag** sett — one scale-free proportion (`g3r20k2db3k13
 [BRGKBKBKRG](/stripes/brgkbkbkrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Matthew Gloag](/tartans/m/ma/matthew-gloag-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

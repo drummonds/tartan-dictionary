@@ -6,6 +6,8 @@ This is the **Herriot New Zealand** sett — one scale-free proportion (`w15y2db
 [BWBBGW](/stripes/bwbbgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Herriot New Zealand](/tartans/h/he/herriot-new-zealand/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

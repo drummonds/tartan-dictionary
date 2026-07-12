@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lachine"
+  url: "/tartans/l/la/lachine-2/"
+- name: "Lachine"
   url: "/setts/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKGWGWGWGWGWWWWWWWWWKR](/stripes/grkgwgwgwgwgwwwwwwwwwkr/).
+
+Part of the [Lachine](/tartans/l/la/lachine-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

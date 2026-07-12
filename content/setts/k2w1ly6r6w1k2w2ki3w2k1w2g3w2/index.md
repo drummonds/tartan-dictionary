@@ -6,6 +6,8 @@ This is the **Hovington (2014)** sett — one scale-free proportion (`k2w1ly6r6w
 [KWYRWKWKWKWGW](/stripes/kwyrwkwkwkwgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Hovington](/tartans/h/ho/hovington-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

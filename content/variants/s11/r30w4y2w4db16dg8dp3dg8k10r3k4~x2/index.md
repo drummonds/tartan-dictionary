@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Filipino American"
+  url: "/tartans/f/fi/filipino-american/"
+- name: "Filipino American"
   url: "/setts/r30w4y2w4db16dg8dp3dg8k10r3k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r30w4y2w4db16dg8dp3dg8k10r3k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGBGBWGWR](/stripes/krkgbgbwgwr/).
+
+Part of the [Filipino American](/tartans/f/fi/filipino-american/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Cowie, Justine (Personal)** sett — one scale-free proportion (`g
 [GKR](/stripes/gkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cowie, Justine](/tartans/c/co/cowie-justine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

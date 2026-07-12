@@ -6,6 +6,8 @@ This is the **Caleys Windsor (Corporate)** sett — one scale-free proportion (`
 [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Caleys Windsor](/tartans/c/ca/caleys-windsor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

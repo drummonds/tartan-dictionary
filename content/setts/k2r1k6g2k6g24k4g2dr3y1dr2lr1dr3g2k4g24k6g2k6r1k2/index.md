@@ -6,6 +6,8 @@ This is the **Kinnear Barony of.. Family Tartan** sett — one scale-free propor
 [KRKGKGKGBGBYBGKGKGKRK](/stripes/krkgkgkgbgbybgkgkgkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kinnear Barony of..](/tartans/k/ki/kinnear-barony-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

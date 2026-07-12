@@ -6,7 +6,7 @@ This is the **Potts (Personal)** sett — one scale-free proportion (`k1y3db3do2
 [GBBBGK](/stripes/gbbbgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Potts](/tartans/potts/) tartan — the named design grouping this sett with its kin.
+Part of the [Potts](/tartans/p/po/potts/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Snowy Owl (Fashion)** sett — one scale-free proportion (`w40o1w6
 [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Snowy Owl](/tartans/s/sn/snowy-owl-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

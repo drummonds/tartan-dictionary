@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Army Benevolent Fund"
+  url: "/tartans/a/ar/army-benevolent-fund/"
 - name: "Army Benevolent Fund (Corporate)"
   url: "/setts/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRGRBGBGBR](/stripes/bgbrgrbgbgbr/).
+
+Part of the [Army Benevolent Fund](/tartans/a/ar/army-benevolent-fund/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

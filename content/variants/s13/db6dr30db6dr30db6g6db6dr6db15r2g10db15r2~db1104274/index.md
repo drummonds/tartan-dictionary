@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Great Dane, The"
+  url: "/tartans/g/gr/great-dane-the/"
+- name: "Great Dane, The"
   url: "/setts/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGBBBRGBR](/stripes/bbbbbgbbbrgbr/).
+
+Part of the [Great Dane, The](/tartans/g/gr/great-dane-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

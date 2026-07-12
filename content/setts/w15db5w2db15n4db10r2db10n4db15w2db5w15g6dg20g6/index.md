@@ -6,6 +6,8 @@ This is the **Copar a'Beannichte Dress Family Tartan** sett — one scale-free p
 [GGGWBWBBBRBBBWBW](/stripes/gggwbwbbbrbbbwbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Copar a'Beannichte Dress](/tartans/c/co/copar-a-beannichte-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

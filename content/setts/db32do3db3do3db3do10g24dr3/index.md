@@ -6,7 +6,7 @@ This is the **Gammell Family Tartan** sett — one scale-free proportion (`db32d
 [BBBBBBGB](/stripes/bbbbbbgb/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
-Part of the [Gammell](/tartans/gammell-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Gammell](/tartans/g/ga/gammell-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

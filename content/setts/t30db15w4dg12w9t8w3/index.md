@@ -6,7 +6,7 @@ This is the **Newall (Personal)** sett — one scale-free proportion (`t30db15w4
 [BBWGWBW](/stripes/bbwgwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Newall](/tartans/newall/) tartan — the named design grouping this sett with its kin.
+Part of the [Newall](/tartans/n/ne/newall/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

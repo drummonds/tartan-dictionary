@@ -6,6 +6,8 @@ This is the **Valour** sett — one scale-free proportion (`r22k1r4w1r1k1w1r4w4r
 [KWRWRWKRWRKR](/stripes/kwrwrwkrwrkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Valour](/tartans/v/va/valour/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

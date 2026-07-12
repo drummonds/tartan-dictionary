@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferrari"
+  url: "/tartans/f/fe/ferrari/"
 - name: "Ferrari (Coldrerio)"
   url: "/setts/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKBKWGBGWKWGWY](/stripes/gbkbkbkbkwgbgwkwgwy/).
+
+Part of the [Ferrari](/tartans/f/fe/ferrari/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -6,6 +6,8 @@ This is the **Cusack** sett — one scale-free proportion (`db4k2db16k12w1g13r2g
 [BKBKWGRGG](/stripes/bkbkwgrgg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Cusack](/tartans/c/cu/cusack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

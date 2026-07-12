@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Naysmith"
+  url: "/tartans/n/na/naysmith-2/"
 - name: "Naysmith (Name)"
   url: "/setts/r6db32k18g28k1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db32k18g28k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKW](/stripes/rbkgkw/).
+
+Part of the [Naysmith](/tartans/n/na/naysmith-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

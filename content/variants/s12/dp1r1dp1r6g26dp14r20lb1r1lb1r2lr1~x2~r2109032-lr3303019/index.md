@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scobie"
-  url: "/tartans/scobie/"
+  url: "/tartans/s/sc/scobie/"
 - name: "Scobie (Name)"
   url: "/setts/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp1r1dp1r6g26dp14r20lb1r1lb1r2lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGBRWRWRY](/stripes/brbrgbrwrwry/).
 
-Part of the [Scobie](/tartans/scobie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scobie](/tartans/s/sc/scobie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

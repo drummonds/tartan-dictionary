@@ -6,7 +6,7 @@ This is the **Causeway, The (District)** sett — one scale-free proportion (`dt
 [BBBBBKGKBBBWBBK](/stripes/bbbbbkgkbbbwbbk/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
-Part of the [Causeway, The](/tartans/causeway-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Causeway, The](/tartans/c/ca/causeway-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

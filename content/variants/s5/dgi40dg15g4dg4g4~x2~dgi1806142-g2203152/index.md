@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Celtic 2009"
+  url: "/tartans/c/ce/celtic-2009/"
 - name: "Celtic 2009 (Sports)"
   url: "/setts/dgi40dg15g4dg4g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dgi40dg15g4dg4g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGG](/stripes/ggggg/).
+
+Part of the [Celtic 2009](/tartans/c/ce/celtic-2009/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

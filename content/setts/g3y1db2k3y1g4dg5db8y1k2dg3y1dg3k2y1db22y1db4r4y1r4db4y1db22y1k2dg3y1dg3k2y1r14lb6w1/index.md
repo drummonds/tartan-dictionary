@@ -6,7 +6,7 @@ This is the **Hebrides Inner.. Artifact Tartan** sett — one scale-free proport
 [GGBKGGGBGKGGGKGBGBRGRBGBGKGGGKGRWW](/stripes/ggbkgggbgkgggkgbgbrgrbgbgkgggkgrww/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Hebrides, Inner](/tartans/hebrides-inner-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebrides, Inner](/tartans/h/he/hebrides-inner-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Faulkner"
-  url: "/tartans/faulkner/"
+  url: "/tartans/f/fa/faulkner/"
 - name: "Faulkner (Personal)"
   url: "/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBYBKGWKBW](/stripes/bkbybkgwkbw/).
 
-Part of the [Faulkner](/tartans/faulkner/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Faulkner](/tartans/f/fa/faulkner/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

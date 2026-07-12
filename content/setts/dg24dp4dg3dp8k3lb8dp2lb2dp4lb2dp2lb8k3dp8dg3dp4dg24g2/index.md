@@ -6,6 +6,8 @@ This is the **Jones Hunting** sett — one scale-free proportion (`dg24dp4dg3dp8
 [GBGBKWBWBWBWKBGBGG](/stripes/gbgbkwbwbwbwkbgbgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Jones Hunting](/tartans/j/jo/jones-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

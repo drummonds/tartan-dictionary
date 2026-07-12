@@ -6,7 +6,7 @@ This is the **Muskoka (District)** sett — one scale-free proportion (`w2g5lb10
 [GRGRGWGW](/stripes/grgrgwgw/). It is recorded as a single **variant**, below.
 First attested **1961**.
 
-Part of the [Muskoka](/tartans/muskoka/) tartan — the named design grouping this sett with its kin.
+Part of the [Muskoka](/tartans/m/mu/muskoka/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

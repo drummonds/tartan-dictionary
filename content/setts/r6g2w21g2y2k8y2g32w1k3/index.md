@@ -6,7 +6,7 @@ This is the **Fiander, Julian (Personal)** sett — one scale-free proportion (`
 [KWGGKGGWGR](/stripes/kwggkggwgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Fiander, Julian](/tartans/fiander-julian/) tartan — the named design grouping this sett with its kin.
+Part of the [Fiander, Julian](/tartans/f/fi/fiander-julian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

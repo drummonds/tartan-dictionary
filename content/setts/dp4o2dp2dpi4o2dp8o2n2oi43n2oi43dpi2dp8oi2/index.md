@@ -6,6 +6,8 @@ This is the **Orkney Heather** sett — one scale-free proportion (`dp4o2dp2dpi4
 [BRBBRBRBRBRBBR](/stripes/brbbrbrbrbrbbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Orkney Heather](/tartans/o/or/orkney-heather-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

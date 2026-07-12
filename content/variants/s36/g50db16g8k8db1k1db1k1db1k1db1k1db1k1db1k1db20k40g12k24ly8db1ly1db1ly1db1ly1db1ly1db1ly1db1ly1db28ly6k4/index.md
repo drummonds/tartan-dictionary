@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manitoba"
+  url: "/tartans/m/ma/manitoba-3/"
 - name: "Manitoba (Commemorative)"
   url: "/setts/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK](/stripes/gbgkbkbkbkbkbkbkbkgkybybybybybybybyk/).
+
+Part of the [Manitoba](/tartans/m/ma/manitoba-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

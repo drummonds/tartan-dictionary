@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gordonstoun"
+  url: "/tartans/g/go/gordonstoun-5/"
+- name: "Gordonstoun"
   url: "/setts/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKRKWRKRGRWBRGGGRBW](/stripes/rgrkrkwrkrgrwbrgggrbw/).
+
+Part of the [Gordonstoun](/tartans/g/go/gordonstoun-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 

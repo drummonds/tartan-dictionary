@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ellis"
+  url: "/tartans/e/el/ellis-3/"
 - name: "Ellis (Personal)"
   url: "/setts/y2k1dg5r4g2r2g4k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2k1dg5r4g2r2g4k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGRGKW](/stripes/gkgrgrgkw/).
+
+Part of the [Ellis](/tartans/e/el/ellis-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

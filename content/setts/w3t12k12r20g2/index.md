@@ -6,6 +6,8 @@ This is the **Baillie of Polkemmet Red** sett — one scale-free proportion (`w3
 [GRKBW](/stripes/grkbw/). It is recorded as a single **variant**, below.
 First attested **1937**.
 
+Part of the [Baillie of Polkemmet](/tartans/b/ba/baillie-of-polkemmet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

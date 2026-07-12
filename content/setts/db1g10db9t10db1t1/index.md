@@ -6,6 +6,8 @@ This is the **Black Watch (Aljean)** sett — one scale-free proportion (`db1g10
 [BBBBGB](/stripes/bbbbgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Black Watch](/tartans/b/bl/black-watch-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

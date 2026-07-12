@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yarmouth NS"
+  url: "/tartans/y/ya/yarmouth-ns/"
 - name: "Yarmouth NS (District)"
   url: "/setts/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGYGWGWGWYWY](/stripes/ygygwgwgwywy/).
+
+Part of the [Yarmouth NS](/tartans/y/ya/yarmouth-ns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

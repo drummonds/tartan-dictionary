@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cockburn"
+  url: "/clan/cockburn/"
+- name: "Cockburn of Ormiston"
+  url: "/families/cockburn-of-ormiston/"
+- name: "Cockburn of Ormiston Dress"
+  url: "/tartans/c/co/cockburn-of-ormiston-dress/"
 - name: "Cockburn of Ormiston Dress"
   url: "/setts/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKBKWKBGKGKW](/stripes/rkgkgkbkwkbgkgkw/).
+
+Part of the [Cockburn of Ormiston Dress](/tartans/c/co/cockburn-of-ormiston-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **Anthony Plaid Ecru** sett — one scale-free proportion (`lr18k1dy
 [YBKBYKGKY](/stripes/ybkbykgky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anthony Plaid Ecru](/tartans/a/an/anthony-plaid-ecru/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

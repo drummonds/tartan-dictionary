@@ -6,7 +6,7 @@ This is the **Annapolis Valley** sett — one scale-free proportion (`g30db8g5lb
 [GBGWGR](/stripes/gbgwgr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Annapolis Valley](/tartans/annapolis-valley/) tartan — the named design grouping this sett with its kin.
+Part of the [Annapolis Valley](/tartans/a/an/annapolis-valley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

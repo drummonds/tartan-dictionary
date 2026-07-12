@@ -6,6 +6,8 @@ This is the **Unidentified, Plaid Barbie's Moss** sett — one scale-free propor
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified, Plaid Barbie's Moss](/tartans/u/un/unidentified-plaid-barbie-s-moss/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

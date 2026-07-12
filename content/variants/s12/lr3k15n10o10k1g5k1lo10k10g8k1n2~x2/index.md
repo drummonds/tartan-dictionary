@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Castlefield"
-  url: "/tartans/castlefield/"
+  url: "/tartans/c/ca/castlefield/"
 - name: "Castlefield (Personal)"
   url: "/setts/lr3k15n10o10k1g5k1lo10k10g8k1n2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lr3k15n10o10k1g5k1lo10k10g8k1n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKYKGKRBKY](/stripes/bkgkykgkrbky/).
 
-Part of the [Castlefield](/tartans/castlefield/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Castlefield](/tartans/c/ca/castlefield/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

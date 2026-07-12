@@ -6,6 +6,8 @@ This is the **Hope-Vere (Lochcarron)** sett — one scale-free proportion (`g16k
 [GKWKGKBKGK](/stripes/gkwkgkbkgk/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Hope-Vere](/tartans/h/ho/hope-vere-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

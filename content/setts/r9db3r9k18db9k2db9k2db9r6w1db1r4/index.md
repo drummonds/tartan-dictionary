@@ -6,6 +6,8 @@ This is the **Metro Detroit Police & Fire P &** sett — one scale-free proporti
 [RBRKBKBKBRWBR](/stripes/rbrkbkbkbrwbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Metro Detroit Police & Fire](/tartans/m/me/metro-detroit-police-fire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

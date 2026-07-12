@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cusack"
+  url: "/tartans/c/cu/cusack/"
+- name: "Cusack"
   url: "/setts/db4k2db16k12w1g13r2g2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k2db16k12w1g13r2g2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWGRGG](/stripes/bkbkwgrgg/).
+
+Part of the [Cusack](/tartans/c/cu/cusack/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

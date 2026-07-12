@@ -6,6 +6,8 @@ This is the **Porter Drinkers', The** sett — one scale-free proportion (`k2y6k
 [KGKGKR](/stripes/kgkgkr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Porter Drinkers', The](/tartans/p/po/porter-drinkers-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

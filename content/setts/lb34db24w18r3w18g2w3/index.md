@@ -6,7 +6,7 @@ This is the **Ferguson, dress** sett — one scale-free proportion (`lb34db24w18
 [WBWRWGW](/stripes/wbwrwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ferguson Dress](/tartans/ferguson-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Ferguson Dress](/tartans/f/fe/ferguson-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

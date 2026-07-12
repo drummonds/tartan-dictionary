@@ -1,0 +1,46 @@
+---
+title: "Stewart Victoria"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+---
+A tartan of [Clan Stewart](/clan/stewart/).
+Its design is pattern [RWWWKGKWKGRKRW](/stripes/rwwwkgkwkgrkrw/) — the page of every tartan sharing this colour sequence.
+
+Royal Stewart variant favoured by Queen Victoria; also called Royal Stewart Dress, recorded by Grant in 1886.
+
+The **Stewart Victoria** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1/">Stewart Victoria</a> ★</td><td><code>R/4 W48 LB6 W6 K12 Y2 K2 W2 K2 G16 R8 K2 R4 W/2</code></td><td>226</td><td>1886</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1/">(Royal)</a></td><td><code>DR/8 W96 T12 W12 K24 LO4 K4 W4 K4 G32 DR16 K4 DR8 W/4</code></td><td>452</td><td>1881</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1/"><img src="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/sett.png" alt="(Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Stewart Victoria Royal
+- Stuart/Stewart Victoria
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/">Stewart Victoria</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">0.37</a></div><div class="nn-threads">452</div><div class="nn-name"><a href="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/">Stewart Victoria (Royal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w50db6w2k6y2k3w2k3g6r6k2r2w2~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">0.73</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/">Stewart Dress (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">714</div><div class="nn-name"><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/">Stewart dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/">Hay-Stewart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w36db4k6y1k1w1k1g8r4k1r2w1~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">190</div><div class="nn-name"><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w36db4k6y1k1w1k1g8r4k1r2w1&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">95</div><div class="nn-name"><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w36db5k5y1k1w1k1g8r4k1r2w1&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.68</a></div><div class="nn-threads">95</div><div class="nn-name"><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w15db2k3y1k1w1k1g3r4k1r1w1~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.77</a></div><div class="nn-threads">104</div><div class="nn-name"><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/">Stewart Dress MINI Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w31db4k6y2k2w2k2g7r4k2r2w2~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.77</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/">Stuart/Stewart Dress Royal</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w39db3k6y3k3w3k3g8r5k3r3w3~x2&amp;base=r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2" title="compare in the TTD">1.82</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/">Stewart Dress (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/"><circle cx="186.0" cy="57.2" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="263.9" cy="37.4" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.5" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="107.6" cy="75.1" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="31.0" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><a href="/variants/s12/w31db4k6y2k2w2k2g7r4k2r2w2~x2/"><circle cx="189.9" cy="73.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/"><circle cx="196.9" cy="79.6" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><circle cx="185.8" cy="53.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

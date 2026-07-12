@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New Exeter Check"
+  url: "/tartans/n/ne/new-exeter-check/"
 - name: "New Exeter Check (Fashion)"
   url: "/setts/k21r8n13k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k21r8n13k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRK](/stripes/kbrk/).
+
+Part of the [New Exeter Check](/tartans/n/ne/new-exeter-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

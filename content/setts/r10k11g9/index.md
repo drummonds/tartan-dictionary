@@ -6,6 +6,8 @@ This is the **Wilson's, No 204** sett — one scale-free proportion (`r10k11g9`)
 [GKR](/stripes/gkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 204](/tartans/w/wi/wilson-s-no-204-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Battle of Prestonpans Herit"
+  url: "/tartans/b/ba/battle-of-prestonpans-herit/"
 - name: "Battle of Prestonpans (1745) Herit"
   url: "/setts/db9r12dg9db5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9r12dg9db5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBW](/stripes/brgbw/).
+
+Part of the [Battle of Prestonpans Herit](/tartans/b/ba/battle-of-prestonpans-herit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

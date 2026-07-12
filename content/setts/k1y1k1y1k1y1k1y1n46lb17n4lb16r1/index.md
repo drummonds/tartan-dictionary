@@ -6,7 +6,7 @@ This is the **Saunders (Personal)** sett — one scale-free proportion (`k1y1k1y
 [KGKGKGKGBWBWR](/stripes/kgkgkgkgbwbwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Saunders](/tartans/saunders/) tartan — the named design grouping this sett with its kin.
+Part of the [Saunders](/tartans/s/sa/saunders/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

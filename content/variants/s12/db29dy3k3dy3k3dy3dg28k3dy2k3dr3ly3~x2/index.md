@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bro-Vigouden"
+  url: "/tartans/b/br/bro-vigouden/"
 - name: "Bro-Vigouden (Corporate)"
   url: "/setts/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGGKGKBY](/stripes/bgkgkggkgkby/).
+
+Part of the [Bro-Vigouden](/tartans/b/br/bro-vigouden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

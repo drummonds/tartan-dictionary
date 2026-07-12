@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
+- name: "MacNeil"
+  url: "/tartans/m/ma/macneil-2/"
 - name: "MacNeil - 1994 (Personal)"
   url: "/setts/b30k12db12k2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b30k12db12k2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKW](/stripes/bkbkw/).
+
+Part of the [MacNeil](/tartans/m/ma/macneil-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

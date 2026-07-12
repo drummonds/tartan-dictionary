@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria City of Gardens"
+  url: "/tartans/v/vi/victoria-city-of-gardens/"
 - name: "Victoria City of Gardens (Fashion)"
   url: "/setts/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGRGRKRBRBRBKW](/stripes/gkgrgrgrkrbrbrbkw/).
+
+Part of the [Victoria City of Gardens](/tartans/v/vi/victoria-city-of-gardens/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

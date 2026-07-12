@@ -6,7 +6,7 @@ This is the **St. Columba (two greens) (Corporate)** sett — one scale-free pro
 [BGBGGYWGB](/stripes/bgbggywgb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [St Columba](/tartans/st-columba/) tartan — the named design grouping this sett with its kin.
+Part of the [St Columba](/tartans/s/st/st-columba/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

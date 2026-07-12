@@ -6,7 +6,7 @@ This is the **Tweedside Hunting** sett — one scale-free proportion (`db18g2k2g
 [BGKGWGWGK](/stripes/bgkgwgwgk/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
-Part of the [Tweedside Hunting](/tartans/tweedside-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Tweedside Hunting](/tartans/t/tw/tweedside-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

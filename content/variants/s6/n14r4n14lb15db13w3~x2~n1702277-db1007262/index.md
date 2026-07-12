@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue"
+  url: "/tartans/b/bl/blue/"
+- name: "Blue"
   url: "/setts/n14r4n14lb15db13w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n14r4n14lb15db13w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBW](/stripes/brbwbw/).
+
+Part of the [Blue](/tartans/b/bl/blue/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Ben Dubh (Fashion)** sett — one scale-free proportion (`k4dt1k3`
 [KBK](/stripes/kbk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Ben Dubh](/tartans/b/be/ben-dubh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

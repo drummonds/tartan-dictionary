@@ -6,6 +6,8 @@ This is the **MacRae, Dress** sett — one scale-free proportion (`dr2k9lb4w2k22
 [BKWWKWWWWWB](/stripes/bkwwkwwwwwb/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

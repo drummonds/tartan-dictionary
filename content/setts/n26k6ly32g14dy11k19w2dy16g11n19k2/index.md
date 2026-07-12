@@ -6,6 +6,8 @@ This is the **Teddy Bear 111th Anniversary** sett — one scale-free proportion 
 [BKYGGKWGGBK](/stripes/bkyggkwggbk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Teddy Bear 111th Anniversary](/tartans/t/te/teddy-bear-111th-anniversary-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

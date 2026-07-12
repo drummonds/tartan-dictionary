@@ -6,7 +6,7 @@ This is the **Gedling, Peter (Personal)** sett — one scale-free proportion (`r
 [BKBGBGBBR](/stripes/bkbgbgbbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Gedling, Peter](/tartans/gedling-peter/) tartan — the named design grouping this sett with its kin.
+Part of the [Gedling, Peter](/tartans/g/ge/gedling-peter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Wilson's No.227** sett — one scale-free proportion (`r26lb7dp8y3
 [RWBGRWGBWBGWRGBW](/stripes/rwbgrwgbwbgwrgbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.227](/tartans/w/wi/wilson-s-no-227/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

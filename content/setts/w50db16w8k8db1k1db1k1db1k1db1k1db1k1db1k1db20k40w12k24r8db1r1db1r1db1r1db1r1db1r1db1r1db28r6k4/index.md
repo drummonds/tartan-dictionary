@@ -6,6 +6,8 @@ This is the **Quebec (Commemorative)** sett — one scale-free proportion (`w50d
 [KRBRBRBRBRBRBRBRKWKBKBKBKBKBKBKBKWBW](/stripes/krbrbrbrbrbrbrbrkwkbkbkbkbkbkbkbkwbw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Quebec](/tartans/q/qu/quebec/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

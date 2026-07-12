@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Women's Royal Army Corps Ass. (Corp."
+  url: "/tartans/w/wo/women-s-royal-army-corps-ass-corp/"
+- name: "Women's Royal Army Corps Ass. (Corp."
   url: "/setts/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGRGGGWG](/stripes/ggggggrgggwg/).
+
+Part of the [Women's Royal Army Corps Ass. (Corp.](/tartans/w/wo/women-s-royal-army-corps-ass-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

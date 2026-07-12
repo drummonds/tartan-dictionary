@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crofters"
+  url: "/tartans/c/cr/crofters/"
 - name: "Crofters (Personal)"
   url: "/setts/db20r2g9w6y4k2g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20r2g9w6y4k2g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGWGKG](/stripes/brgwgkg/).
+
+Part of the [Crofters](/tartans/c/cr/crofters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

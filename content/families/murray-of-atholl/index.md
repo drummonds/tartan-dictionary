@@ -21,25 +21,29 @@ A family of [Clan Murray](/clan/murray/).
 </tbody>
 </table>
 
-[See the Murray of Atholl tartan and all its setts →](/tartans/murray-of-atholl/)
+[See the Murray of Atholl tartan and all its setts →](/tartans/m/mu/murray-of-atholl/)
 
 ### Murray of Atholl Dress
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w5db1w16db4w4k6g10dr2g10k6db10dr2/">Murray of Atholl Dress</a> ★</td><td><code>W/10 DB2 W32 DB8 W8 K12 G20 DR4 G20 K12 DB20 DR/4</code></td><td>290</td><td>1880</td></tr>
+<tr><td><a href="/setts/w5db1w16db4w4k6g10dr2g10k6db10dr2/">Murray of Atholl Dress</a></td><td><code>W/10 DB2 W32 DB8 W8 K12 G20 DR4 G20 K12 DB20 DR/4</code></td><td>290</td><td>1880</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/w5db1w16db4w4k6g10dr2g10k6db10dr2/"><img src="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png" alt="Murray of Atholl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Murray of Atholl Dress tartan and all its setts →](/tartans/m/mu/murray-of-atholl-dress/)
 
 ### Murray of Atholl, Red Dress
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db4k1db5k4g8r4g8k4r3db3r12db2r4/">Murray of Atholl, Red Dress</a> ★</td><td><code>DB/16 K4 DB20 K16 G32 R16 G32 K16 R12 DB12 R48 DB8 R/16</code></td><td>464</td><td>2002</td></tr>
+<tr><td><a href="/setts/db4k1db5k4g8r4g8k4r3db3r12db2r4/">Murray of Atholl, Red Dress</a></td><td><code>DB/16 K4 DB20 K16 G32 R16 G32 K16 R12 DB12 R48 DB8 R/16</code></td><td>464</td><td>2002</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db4k1db5k4g8r4g8k4r3db3r12db2r4/"><img src="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png" alt="Murray of Atholl, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Murray of Atholl, Red Dress tartan and all its setts →](/tartans/m/mu/murray-of-atholl-red-dress/)
 

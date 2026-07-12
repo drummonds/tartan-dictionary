@@ -7,7 +7,7 @@ This is the **Munro** sett — one scale-free proportion (`ri24y1db1ri3g16ri3db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [Munro](/tartans/munro/) tartan — the named design grouping this sett with its kin.
+Part of the [Munro](/tartans/m/mu/munro/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

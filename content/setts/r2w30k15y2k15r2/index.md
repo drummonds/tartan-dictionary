@@ -6,6 +6,8 @@ This is the **Brodie (WCWM)** sett — one scale-free proportion (`r2w30k15y2k15
 [RKGKWR](/stripes/rkgkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Brodie](/tartans/b/br/brodie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

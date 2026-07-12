@@ -7,6 +7,8 @@ This is the **MacNab 4** sett — one scale-free proportion (`r24g1lb1g2ri24`), 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [MacNab 4](/tartans/m/ma/macnab-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

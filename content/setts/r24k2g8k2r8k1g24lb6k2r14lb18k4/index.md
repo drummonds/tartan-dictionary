@@ -6,6 +6,8 @@ This is the **Grant - 1714 (Piper) (Portrait)** sett — one scale-free proporti
 [KWRKWGKRKGKR](/stripes/kwrkwgkrkgkr/). It is recorded as a single **variant**, below.
 First attested **1714**.
 
+Part of the [Grant](/tartans/g/gr/grant-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

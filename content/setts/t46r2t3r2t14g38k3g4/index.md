@@ -6,6 +6,8 @@ This is the **Greenlaw, American** sett — one scale-free proportion (`t46r2t3r
 [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Greenlaw, American](/tartans/g/gr/greenlaw-american/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

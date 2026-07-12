@@ -6,7 +6,7 @@ This is the **Glenmorangie Check** sett — one scale-free proportion (`dy1dyi2r
 [GGR](/stripes/ggr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Glenmorangie Check](/tartans/glenmorangie-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Glenmorangie Check](/tartans/g/gl/glenmorangie-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

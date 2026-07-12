@@ -6,6 +6,8 @@ This is the **East of Scotland Tartan Army** sett — one scale-free proportion 
 [BGBRBW](/stripes/bgbrbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [East of Scotland Tartan Army](/tartans/e/ea/east-of-scotland-tartan-army/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

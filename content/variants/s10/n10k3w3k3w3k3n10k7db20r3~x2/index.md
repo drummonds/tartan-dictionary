@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Meeting Professionals International"
+  url: "/tartans/m/me/meeting-professionals-international/"
+- name: "Meeting Professionals International"
   url: "/setts/n10k3w3k3w3k3n10k7db20r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n10k3w3k3w3k3n10k7db20r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBKBR](/stripes/bkwkwkbkbr/).
+
+Part of the [Meeting Professionals International](/tartans/m/me/meeting-professionals-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

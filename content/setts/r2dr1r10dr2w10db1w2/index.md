@@ -6,7 +6,7 @@ This is the **Lennox Dress #2** sett — one scale-free proportion (`r2dr1r10dr2
 [RBRBWBW](/stripes/rbrbwbw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Lennox Dress](/tartans/lennox-dress-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Lennox Dress](/tartans/l/le/lennox-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

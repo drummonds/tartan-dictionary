@@ -6,6 +6,8 @@ This is the **Glennie, The Rhythms of Evelyn** sett — one scale-free proportio
 [KBKRBKGKRKR](/stripes/kbkrbkgkrkr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Glennie, The Rhythms of Evelyn](/tartans/g/gl/glennie-the-rhythms-of-evelyn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

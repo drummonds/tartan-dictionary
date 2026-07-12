@@ -6,6 +6,8 @@ This is the **Morgan Jocelyn . . . (Personal)** sett — one scale-free proporti
 [GYRWGYRWGYBWY](/stripes/gyrwgyrwgybwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Morgan Jocelyn . . .](/tartans/m/mo/morgan-jocelyn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

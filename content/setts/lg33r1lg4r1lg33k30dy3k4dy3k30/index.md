@@ -6,6 +6,8 @@ This is the **Intergen** sett — one scale-free proportion (`lg33r1lg4r1lg33k30
 [KGKGKYRYRY](/stripes/kgkgkyryry/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Intergen](/tartans/i/in/intergen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

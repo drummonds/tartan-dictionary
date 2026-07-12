@@ -6,6 +6,8 @@ This is the **Sey (Name)** sett — one scale-free proportion (`r2k8y1k8g13db13l
 [RKGKGBYR](/stripes/rkgkgbyr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Sey](/tartans/s/se/sey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

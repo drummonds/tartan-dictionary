@@ -6,7 +6,7 @@ This is the **Carmichael Family Tartan** sett — one scale-free proportion (`k3
 [GBRBGK](/stripes/gbrbgk/). It is recorded as a single **variant**, below.
 First attested **1907**.
 
-Part of the [Carmichael](/tartans/carmichael/) tartan — the named design grouping this sett with its kin.
+Part of the [Carmichael](/tartans/c/ca/carmichael/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

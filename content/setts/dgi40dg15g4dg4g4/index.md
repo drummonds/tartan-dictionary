@@ -6,6 +6,8 @@ This is the **Celtic 2009 (Sports)** sett — one scale-free proportion (`dgi40d
 [GGGGG](/stripes/ggggg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Celtic 2009](/tartans/c/ce/celtic-2009/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Auld Lang Syne Burns Commemorative Tartan** sett — one scale-fre
 [KBKBBKBW](/stripes/kbkbbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Auld Lang Syne Burns Commemorative](/tartans/a/au/auld-lang-syne-burns-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

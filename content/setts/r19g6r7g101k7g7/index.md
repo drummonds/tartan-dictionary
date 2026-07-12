@@ -6,7 +6,7 @@ This is the **Loch Laggan District Tartan** sett — one scale-free proportion (
 [GKGRGR](/stripes/gkgrgr/). It is recorded as a single **variant**, below.
 First attested **~1820**.
 
-Part of the [Loch Laggan](/tartans/loch-laggan/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Laggan](/tartans/l/lo/loch-laggan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

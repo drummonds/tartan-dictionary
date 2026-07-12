@@ -6,6 +6,8 @@ This is the **Spirit of Fife** sett — one scale-free proportion (`dg10w2dt3g2o
 [GWBGRBGBGBRGBW](/stripes/gwbgrbgbgbrgbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Spirit of Fife](/tartans/s/sp/spirit-of-fife/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

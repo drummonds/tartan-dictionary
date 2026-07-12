@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Graden"
+  url: "/tartans/g/gr/graden/"
 - name: "Graden (Personal)"
   url: "/setts/b22g4k4g14lb3g4lb3g4k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b22g4k4g14lb3g4lb3g4k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWGK](/stripes/bgkgwgwgk/).
+
+Part of the [Graden](/tartans/g/gr/graden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

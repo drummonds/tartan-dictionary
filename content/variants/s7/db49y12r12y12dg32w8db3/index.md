@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kuznetsov"
+  url: "/tartans/k/ku/kuznetsov/"
 - name: "Kuznetsov (2014)"
   url: "/setts/db49y12r12y12dg32w8db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db49y12r12y12dg32w8db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGGWB](/stripes/bgrggwb/).
+
+Part of the [Kuznetsov](/tartans/k/ku/kuznetsov/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

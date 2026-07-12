@@ -6,7 +6,7 @@ This is the **St. Andrews Old Course Hotel (Corp)** sett — one scale-free prop
 [BGBKBG](/stripes/bgbkbg/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
-Part of the [St. Andrews Old Course Hotel](/tartans/st-andrews-old-course-hotel/) tartan — the named design grouping this sett with its kin.
+Part of the [St. Andrews Old Course Hotel](/tartans/s/st/st-andrews-old-course-hotel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

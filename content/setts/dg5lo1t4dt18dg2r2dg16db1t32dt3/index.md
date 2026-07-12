@@ -6,6 +6,8 @@ This is the **Heriot Watt University (Corporate)** sett — one scale-free propo
 [BBBGRGBBYG](/stripes/bbbgrgbbyg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Heriot Watt University](/tartans/h/he/heriot-watt-university-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

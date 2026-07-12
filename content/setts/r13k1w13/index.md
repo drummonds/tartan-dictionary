@@ -6,7 +6,7 @@ This is the **Hose (Dunmore)** sett — one scale-free proportion (`r13k1w13`), 
 [RKW](/stripes/rkw/). It is recorded as a single **variant**, below.
 First attested **1760**.
 
-Part of the [Hose](/tartans/hose-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Hose](/tartans/h/ho/hose-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

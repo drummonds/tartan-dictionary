@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornwall"
+  url: "/tartans/c/co/cornwall/"
+- name: "Cornwall"
   url: "/setts/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBKBBBBKBY](/stripes/bbbkbbbkbbbbkby/).
+
+Part of the [Cornwall](/tartans/c/co/cornwall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

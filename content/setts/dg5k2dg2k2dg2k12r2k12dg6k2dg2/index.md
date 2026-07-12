@@ -6,6 +6,8 @@ This is the **MacLoughlin of Ardmarnoch (Personal)** sett — one scale-free pro
 [GKGKGKRKGKG](/stripes/gkgkgkrkgkg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [MacLoughlin Ardmarnoch](/tartans/m/ma/macloughlin-ardmarnoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

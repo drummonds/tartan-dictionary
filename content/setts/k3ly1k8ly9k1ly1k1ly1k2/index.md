@@ -6,6 +6,8 @@ This is the **Justus Black & Gold (Angus) (Personal)** sett — one scale-free p
 [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Justus Black & Gold (Persona](/tartans/j/ju/justus-black-gold-persona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

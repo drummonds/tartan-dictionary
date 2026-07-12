@@ -6,6 +6,8 @@ This is the **Chisholm** sett — one scale-free proportion (`r5g16r5db4w2db4r22
 [BRGRBWBRBWBRGR](/stripes/brgrbwbrbwbrgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Chisholm](/tartans/c/ch/chisholm-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

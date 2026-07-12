@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Andrews International Golf Club"
+  url: "/tartans/s/st/st-andrews-international-golf-club/"
+- name: "St. Andrews International Golf Club"
   url: "/setts/dg43k14b14r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg43k14b14r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBR](/stripes/gkbr/).
+
+Part of the [St. Andrews International Golf Club](/tartans/s/st/st-andrews-international-golf-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

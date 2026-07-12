@@ -6,6 +6,8 @@ This is the **Bouguet, Adrian (Personal)** sett — one scale-free proportion (`
 [WWYGWWGYWYW](/stripes/wwygwwgywyw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bouguet, Adrian](/tartans/b/bo/bouguet-adrian-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

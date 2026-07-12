@@ -6,6 +6,8 @@ This is the **Fraser Green** sett — one scale-free proportion (`w2dr12g6dr1n6d
 [BBBGBW](/stripes/bbbgbw/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Fraser](/tartans/f/fr/fraser-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

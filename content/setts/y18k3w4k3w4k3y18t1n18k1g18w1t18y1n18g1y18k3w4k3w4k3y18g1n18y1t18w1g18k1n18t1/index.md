@@ -6,6 +6,8 @@ This is the **Special 1** sett — one scale-free proportion (`y18k3w4k3w4k3y18t
 [BBKGWBGBGGKWKWKGGBGBWGKBBGKWKWKG](/stripes/bbkgwbgbggkwkwkggbgbwgkbbgkwkwkg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Special 1](/tartans/s/sp/special-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

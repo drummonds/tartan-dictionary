@@ -6,6 +6,8 @@ This is the **Yamaue** sett — one scale-free proportion (`w2r5db4g8db40r5w2r5d
 [WRBGBRWRBGBRW](/stripes/wrbgbrwrbgbrw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Yamaue](/tartans/y/ya/yamaue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

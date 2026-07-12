@@ -6,6 +6,8 @@ This is the **Highland Spring (1985)** sett — one scale-free proportion (`o16k
 [RBKBKBGGGRKR](/stripes/rbkbkbgggrkr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Highland Spring](/tartans/h/hi/highland-spring/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

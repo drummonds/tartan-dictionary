@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thistle and Kudzu Scottish Socie"
+  url: "/tartans/t/th/thistle-and-kudzu-scottish-socie/"
 - name: "Thistle and Kudzu Scottish Socie Corporate Tartan"
   url: "/setts/dp6g15dg15k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6g15dg15k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGK](/stripes/bggk/).
+
+Part of the [Thistle and Kudzu Scottish Socie](/tartans/t/th/thistle-and-kudzu-scottish-socie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

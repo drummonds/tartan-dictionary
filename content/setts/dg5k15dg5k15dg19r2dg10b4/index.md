@@ -6,6 +6,8 @@ This is the **Strath Halladale (Sutherland)** sett — one scale-free proportion
 [BGRGKGKG](/stripes/bgrgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Strath Halladale](/tartans/s/st/strath-halladale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

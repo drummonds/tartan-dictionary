@@ -6,6 +6,8 @@ This is the **Capco** sett — one scale-free proportion (`k31w1k2w2dt3k2n4w2`),
 [KWKWBKBW](/stripes/kwkwbkbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Capco](/tartans/c/ca/capco/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

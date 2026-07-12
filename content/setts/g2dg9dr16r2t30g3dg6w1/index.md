@@ -6,6 +6,8 @@ This is the **The Climb (Fashion)** sett — one scale-free proportion (`g2dg9dr
 [GGBRBGGW](/stripes/ggbrbggw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [The Climb](/tartans/t/th/the-climb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

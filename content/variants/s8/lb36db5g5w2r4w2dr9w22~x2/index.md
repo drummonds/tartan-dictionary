@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "South Canterbury Jubillee (Corporate"
+  url: "/tartans/s/so/south-canterbury-jubillee-corporate/"
 - name: "Jubilee, South Canterbury Centre Piping & Dancing Association"
   url: "/setts/lb36db5g5w2r4w2dr9w22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb36db5g5w2r4w2dr9w22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGWRWBW](/stripes/wbgwrwbw/).
+
+Part of the [South Canterbury Jubillee (Corporate](/tartans/s/so/south-canterbury-jubillee-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

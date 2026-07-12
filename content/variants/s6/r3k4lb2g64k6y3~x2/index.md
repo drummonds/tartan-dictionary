@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Braemar Royal Highland Gathering"
+  url: "/tartans/b/br/braemar-royal-highland-gathering/"
+- name: "Braemar Royal Highland Gathering"
   url: "/setts/r3k4lb2g64k6y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k4lb2g64k6y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWKR](/stripes/gkgwkr/).
+
+Part of the [Braemar Royal Highland Gathering](/tartans/b/br/braemar-royal-highland-gathering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

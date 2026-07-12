@@ -6,6 +6,8 @@ This is the **Jack Sinclair (Personal)** sett — one scale-free proportion (`db
 [BBBKGWB](/stripes/bbbkgwb/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Jack Sinclair](/tartans/j/ja/jack-sinclair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

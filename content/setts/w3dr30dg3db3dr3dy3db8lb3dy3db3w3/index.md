@@ -6,6 +6,8 @@ This is the **Lansdowne Course, Blairgowrie Golf Club** sett — one scale-free 
 [WBGBBGBWGBW](/stripes/wbgbbgbwgbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Lansdowne Course, Blairgowrie Golf Club](/tartans/l/la/lansdowne-course-blairgowrie-golf-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

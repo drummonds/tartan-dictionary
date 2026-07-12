@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murphy, Andrew"
+  url: "/tartans/m/mu/murphy-andrew/"
 - name: "Murphy, Andrew (Personal)"
   url: "/setts/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKRKGKGGKRKW](/stripes/kwrkrkgkggkrkw/).
+
+Part of the [Murphy, Andrew](/tartans/m/mu/murphy-andrew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

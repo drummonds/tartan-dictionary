@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Malt, The"
-  url: "/tartans/malt-the/"
+  url: "/tartans/m/ma/malt-the/"
 - name: "Malt, The (Corporate)"
   url: "/setts/k20r2k4r2k19o17k10o10k6o5y2o2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k20r2k4r2k19o17k10o10k6o5y2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRGR](/stripes/krkrkrkrkrgr/).
 
-Part of the [Malt, The](/tartans/malt-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Malt, The](/tartans/m/ma/malt-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

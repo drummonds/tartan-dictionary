@@ -6,6 +6,8 @@ This is the **Girl Guiding Scotland (Corporate)** sett — one scale-free propor
 [KRBRKBRGR](/stripes/krbrkbrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Girl Guiding Scotland](/tartans/g/gi/girl-guiding-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

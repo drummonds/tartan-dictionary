@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Amstartan"
+  url: "/tartans/a/am/amstartan/"
+- name: "Amstartan"
   url: "/setts/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKWKWKBKBKBWKWKBWBWK](/stripes/kbkbkbkwkwkbkbkbwkwkbwbwk/).
+
+Part of the [Amstartan](/tartans/a/am/amstartan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

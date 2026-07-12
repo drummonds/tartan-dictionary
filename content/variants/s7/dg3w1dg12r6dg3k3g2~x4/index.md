@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arkansas"
-  url: "/tartans/arkansas/"
+  url: "/tartans/a/ar/arkansas/"
 - name: "Arkansas"
   url: "/setts/dg3w1dg12r6dg3k3g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg3w1dg12r6dg3k3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGWG](/stripes/gkgrgwg/).
 
-Part of the [Arkansas](/tartans/arkansas/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Arkansas](/tartans/a/ar/arkansas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **MacHattie Family Tartan** sett — one scale-free proportion (`k45
 [BBRGWGRBBK](/stripes/bbrgwgrbbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacHattie](/tartans/m/ma/machattie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

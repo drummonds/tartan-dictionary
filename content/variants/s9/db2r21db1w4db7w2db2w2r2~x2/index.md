@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "31"
+  url: "/tartans/0-9/0-9/31/"
 - name: "31, Tartan (The.. )"
   url: "/setts/db2r21db1w4db7w2db2w2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2r21db1w4db7w2db2w2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWBWR](/stripes/brbwbwbwr/).
+
+Part of the [31](/tartans/0-9/0-9/31/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

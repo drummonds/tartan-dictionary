@@ -6,6 +6,8 @@ This is the **MacInroy (Rattray)** sett — one scale-free proportion (`k3dg17k9
 [KGKRBRBRGW](/stripes/kgkrbrbrgw/). It is recorded as a single **variant**, below.
 First attested **1825**.
 
+Part of the [MacInroy](/tartans/m/ma/macinroy-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Meeson Dress Personal Tartan** sett — one scale-free proportion 
 [BGBBKB](/stripes/bgbbkb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Meeson Dress](/tartans/m/me/meeson-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

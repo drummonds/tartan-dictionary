@@ -6,6 +6,8 @@ This is the **Northfield Academy** sett — one scale-free proportion (`n2dt1t2d
 [BBBBRBBRBBBBBBW](/stripes/bbbbrbbrbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Northfield Academy](/tartans/n/no/northfield-academy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Loch Garth Tartan** sett — one scale-free proportion (`dy12ly6dy
 [GGYG](/stripes/ggyg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Loch Garth](/tartans/l/lo/loch-garth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

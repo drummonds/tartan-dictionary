@@ -6,7 +6,7 @@ This is the **Battle of the Somme Centenary** sett — one scale-free proportion
 [BGBGGGKGB](/stripes/bgbgggkgb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Battle of the Somme Centenary](/tartans/battle-of-the-somme-centenary/) tartan — the named design grouping this sett with its kin.
+Part of the [Battle of the Somme Centenary](/tartans/b/ba/battle-of-the-somme-centenary/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Hunting** sett — one scale-free proportion (`g37y
 [BGBGBGBGRGKBKBKBGBKBKBKGGG](/stripes/bgbgbgbgrgkbkbkbgbkbkbkggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart Hunting](/tartans/s/st/stewart-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fabric of Scotland (Prickly Thistle), The** sett — one scale-fre
 [BBBGGGGRGR](/stripes/bbbggggrgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Fabric of Scotland , The](/tartans/f/fa/fabric-of-scotland-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

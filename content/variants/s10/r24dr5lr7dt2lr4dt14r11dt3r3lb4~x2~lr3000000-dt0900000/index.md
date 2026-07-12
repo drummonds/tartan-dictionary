@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MIT1951"
+  url: "/tartans/m/mi/mit1951/"
+- name: "MIT1951"
   url: "/setts/r24dr5lr7dt2lr4dt14r11dt3r3lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24dr5lr7dt2lr4dt14r11dt3r3lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYBYBRBRW](/stripes/rbybybrbrw/).
+
+Part of the [MIT1951](/tartans/m/mi/mit1951/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

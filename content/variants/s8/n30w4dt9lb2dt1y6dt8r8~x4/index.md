@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwegian Migration Period"
+  url: "/tartans/n/no/norwegian-migration-period/"
 - name: "Norwegian Migration Period (Artefact"
   url: "/setts/n30w4dt9lb2dt1y6dt8r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n30w4dt9lb2dt1y6dt8r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBGBR](/stripes/bwbwbgbr/).
+
+Part of the [Norwegian Migration Period](/tartans/n/no/norwegian-migration-period/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

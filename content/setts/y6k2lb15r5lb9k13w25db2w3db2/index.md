@@ -6,6 +6,8 @@ This is the **Gillies, dress Blue** sett — one scale-free proportion (`y6k2lb1
 [BWBWKWRWKG](/stripes/bwbwkwrwkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gillies, dress](/tartans/g/gi/gillies-dress-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

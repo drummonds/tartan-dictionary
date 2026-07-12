@@ -6,6 +6,8 @@ This is the **MacKenzie Morgan** sett — one scale-free proportion (`db12k2db2k
 [BKBKBKGRWRGKBRB](/stripes/bkbkbkgrwrgkbrb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacKenzie Morgan](/tartans/m/ma/mackenzie-morgan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

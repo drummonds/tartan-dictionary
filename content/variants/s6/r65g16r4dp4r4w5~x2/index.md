@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Howard, Vincent"
+  url: "/tartans/h/ho/howard-vincent/"
 - name: "Howard, Vincent (Personal)"
   url: "/setts/r65g16r4dp4r4w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r65g16r4dp4r4w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRW](/stripes/rgrbrw/).
+
+Part of the [Howard, Vincent](/tartans/h/ho/howard-vincent/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

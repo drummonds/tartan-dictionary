@@ -6,6 +6,8 @@ This is the **Goldwire (2015)** sett — one scale-free proportion (`k3y3k3y3k3y
 [BRBKWKGKGKGKGK](/stripes/brbkwkgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Goldwire](/tartans/g/go/goldwire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

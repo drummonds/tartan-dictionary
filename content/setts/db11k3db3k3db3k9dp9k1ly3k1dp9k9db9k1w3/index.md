@@ -6,6 +6,8 @@ This is the **Glengoyne Distillery** sett — one scale-free proportion (`db11k3
 [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Glengoyne Distillery](/tartans/g/gl/glengoyne-distillery-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

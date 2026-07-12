@@ -6,6 +6,8 @@ This is the **King Pootatau Te Wherowhero** sett — one scale-free proportion (
 [BKBWBRBGBGBGBG](/stripes/bkbwbrbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [King Pootatau Te Wherowhero](/tartans/k/ki/king-pootatau-te-wherowhero/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

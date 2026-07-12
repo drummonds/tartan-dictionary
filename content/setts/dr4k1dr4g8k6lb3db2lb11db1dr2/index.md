@@ -6,6 +6,8 @@ This is the **MacDuff Dress #2** sett — one scale-free proportion (`dr4k1dr4g8
 [BBWBWKGBKB](/stripes/bbwbwkgbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacDuff](/tartans/m/ma/macduff-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

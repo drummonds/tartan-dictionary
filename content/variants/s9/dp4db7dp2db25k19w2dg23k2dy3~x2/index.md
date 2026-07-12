@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leung"
+  url: "/tartans/l/le/leung/"
 - name: "Leung (Personal)"
   url: "/setts/dp4db7dp2db25k19w2dg23k2dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4db7dp2db25k19w2dg23k2dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKWGKG](/stripes/bbbbkwgkg/).
+
+Part of the [Leung](/tartans/l/le/leung/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Lawers Estate (Corporate)** sett — one scale-free proportion (`r
 [KGKBKR](/stripes/kgkbkr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Lawers Estate](/tartans/lawers-estate/) tartan — the named design grouping this sett with its kin.
+Part of the [Lawers Estate](/tartans/l/la/lawers-estate/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

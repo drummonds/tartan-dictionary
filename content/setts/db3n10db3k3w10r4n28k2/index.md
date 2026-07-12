@@ -6,6 +6,8 @@ This is the **Moorpark Primary School (Corporate)** sett — one scale-free prop
 [BBBKWRBK](/stripes/bbbkwrbk/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Moorpark Primary School](/tartans/m/mo/moorpark-primary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

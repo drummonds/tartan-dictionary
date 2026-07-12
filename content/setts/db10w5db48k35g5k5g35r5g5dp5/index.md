@@ -6,6 +6,8 @@ This is the **Big Rory (Corporate)** sett — one scale-free proportion (`db10w5
 [BGRGKGKBWB](/stripes/bgrgkgkbwb/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Big Rory](/tartans/b/bi/big-rory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

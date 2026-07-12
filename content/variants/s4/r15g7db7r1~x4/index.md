@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hugh Fraser of Boblainy"
+  url: "/tartans/h/hu/hugh-fraser-of-boblainy/"
+- name: "Hugh Fraser of Boblainy"
   url: "/setts/r15g7db7r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15g7db7r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGR](/stripes/rbgr/).
+
+Part of the [Hugh Fraser of Boblainy](/tartans/h/hu/hugh-fraser-of-boblainy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

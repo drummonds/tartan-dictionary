@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Warren Wilson College"
+  url: "/tartans/w/wa/warren-wilson-college/"
+- name: "Warren Wilson College"
   url: "/setts/g20lb6db20y3db48dr6db4dr6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20lb6db20y3db48dr6db4dr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBGBBBBBBBGBW](/stripes/gwbgbbbbbbbgbw/).
+
+Part of the [Warren Wilson College](/tartans/w/wa/warren-wilson-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aberdeen-Angus Cattle Society"
+  url: "/tartans/a/ab/aberdeen-angus-cattle-society/"
 - name: "Aberdeen-Angus Cattle Society (Corp)"
   url: "/setts/dg8ly3k60dg3k3dg3k3dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8ly3k60dg3k3dg3k3dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKYG](/stripes/gkgkgkyg/).
+
+Part of the [Aberdeen-Angus Cattle Society](/tartans/a/ab/aberdeen-angus-cattle-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

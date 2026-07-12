@@ -6,7 +6,7 @@ This is the **Totté (from Hofstade de Baerebeeck) (Personal)** sett — one sca
 [KRGRGBR](/stripes/krgrgbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Totté](/tartans/tott/) tartan — the named design grouping this sett with its kin.
+Part of the [Totté](/tartans/t/to/tott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

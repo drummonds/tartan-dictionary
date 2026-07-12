@@ -6,6 +6,8 @@ This is the **MacDougall - 1970 (William) (Comm)** sett — one scale-free propo
 [GKRBKBRBRBR](/stripes/gkrbkbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacDougall](/tartans/m/ma/macdougall-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

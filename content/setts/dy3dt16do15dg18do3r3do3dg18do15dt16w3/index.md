@@ -6,6 +6,8 @@ This is the **Carinthian National** sett — one scale-free proportion (`dy3dt16
 [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Carinthian National](/tartans/c/ca/carinthian-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

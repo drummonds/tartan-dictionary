@@ -6,7 +6,7 @@ This is the **Sinclair (Logan)** sett — one scale-free proportion (`r28g16k4w1
 [RBWKGR](/stripes/rbwkgr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Sinclair](/tartans/sinclair/) tartan — the named design grouping this sett with its kin.
+Part of the [Sinclair](/tartans/s/si/sinclair/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

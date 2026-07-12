@@ -6,6 +6,8 @@ This is the **Kungsholmen Snooker Corporate Sports Tartan** sett — one scale-f
 [RKGKGKRWGWW](/stripes/rkgkgkrwgww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kungsholmen Snooker Corporate Sports](/tartans/k/ku/kungsholmen-snooker-corporate-sports/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

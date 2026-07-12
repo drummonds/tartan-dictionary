@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oliphant"
+  url: "/tartans/o/ol/oliphant/"
+- name: "Oliphant"
   url: "/setts/db4k4db24g32w1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k4db24g32w1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGWG](/stripes/bkbgwg/).
+
+Part of the [Oliphant](/tartans/o/ol/oliphant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

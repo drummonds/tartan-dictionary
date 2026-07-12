@@ -6,6 +6,8 @@ This is the **Woodcock (2014)** sett — one scale-free proportion (`db30dp9g6dp
 [BBGBRBW](/stripes/bbgbrbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Woodcock](/tartans/w/wo/woodcock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

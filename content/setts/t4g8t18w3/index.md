@@ -6,6 +6,8 @@ This is the **Blue Meadow Check (Fashion)** sett — one scale-free proportion (
 [BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Blue Meadow](/tartans/b/bl/blue-meadow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

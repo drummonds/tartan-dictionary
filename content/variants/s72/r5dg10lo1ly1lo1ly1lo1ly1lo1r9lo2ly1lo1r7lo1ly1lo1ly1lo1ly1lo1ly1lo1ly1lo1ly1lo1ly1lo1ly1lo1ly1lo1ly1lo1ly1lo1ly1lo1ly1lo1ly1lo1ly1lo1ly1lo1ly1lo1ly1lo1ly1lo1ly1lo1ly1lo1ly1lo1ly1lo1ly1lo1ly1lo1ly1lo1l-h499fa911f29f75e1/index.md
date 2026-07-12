@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-77/"
 - name: "Unidentified (2013)"
   url: "/setts/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1/"
 slug_full: "r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2"
@@ -12,6 +14,8 @@ slug_full: "r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1l
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGYYYYYYYRYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY](/stripes/rgyyyyyyyryyyryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/).
+
+Part of the [Unidentified](/tartans/u/un/unidentified-77/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [72 stripe tartan](/stripes/stripes72/).
 

@@ -6,6 +6,8 @@ This is the **MacBeth Dress (Clan)** sett — one scale-free proportion (`w1dr3k
 [WBKBGKWKWKBYBWBW](/stripes/wbkbgkwkwkbybwbw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [MacBeth Dress](/tartans/m/ma/macbeth-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gairloch** sett — one scale-free proportion (`y25k9y12w2db2`), c
 [BWGKG](/stripes/bwgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gairloch](/tartans/g/ga/gairloch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

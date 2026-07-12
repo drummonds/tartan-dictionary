@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bertea, A H"
+  url: "/tartans/b/be/bertea-a-h/"
 - name: "Bertea, A H (Personal)"
   url: "/setts/w2k3r10k5r3k5r15k35w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k3r10k5r3k5r15k35w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKRKRKW](/stripes/wkrkrkrkw/).
+
+Part of the [Bertea, A H](/tartans/b/be/bertea-a-h/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

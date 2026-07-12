@@ -6,6 +6,8 @@ This is the **Tokharian** sett — one scale-free proportion (`db1o5db1o5db2w1`)
 [BRBRBW](/stripes/brbrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tokharian](/tartans/t/to/tokharian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

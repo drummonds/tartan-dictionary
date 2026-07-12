@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peachy Keen"
+  url: "/tartans/p/pe/peachy-keen/"
 - name: "PeachyKeen"
   url: "/setts/r5g2r2g35lo20r2lo20r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5g2r2g35lo20r2lo20r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGYRYR](/stripes/rgrgyryr/).
+
+Part of the [Peachy Keen](/tartans/p/pe/peachy-keen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

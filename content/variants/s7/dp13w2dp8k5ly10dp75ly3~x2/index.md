@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan East"
   url: "/clan/east/"
 - name: "East Carolina University"
-  url: "/tartans/east-carolina-university/"
+  url: "/tartans/e/ea/east-carolina-university/"
 - name: "East Carolina University (Corp.)"
   url: "/setts/dp13w2dp8k5ly10dp75ly3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp13w2dp8k5ly10dp75ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKYBY](/stripes/bwbkyby/).
 
-Part of the [East Carolina University](/tartans/east-carolina-university/) tartan — the named design grouping this sett with its other cloths.
+Part of the [East Carolina University](/tartans/e/ea/east-carolina-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

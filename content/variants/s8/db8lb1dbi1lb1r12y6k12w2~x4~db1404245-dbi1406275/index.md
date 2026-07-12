@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maryland"
+  url: "/tartans/m/ma/maryland/"
+- name: "Maryland"
   url: "/setts/db8lb1dbi1lb1r12y6k12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8lb1dbi1lb1r12y6k12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRGKW](/stripes/bwbwrgkw/).
+
+Part of the [Maryland](/tartans/m/ma/maryland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

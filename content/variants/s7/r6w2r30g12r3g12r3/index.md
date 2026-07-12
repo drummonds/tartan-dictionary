@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crawford"
-  url: "/tartans/crawford/"
+  url: "/tartans/c/cr/crawford/"
 - name: "Crawford"
   url: "/setts/r6w2r30g12r3g12r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6w2r30g12r3g12r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWR](/stripes/rgrgrwr/).
 
-Part of the [Crawford](/tartans/crawford/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crawford](/tartans/c/cr/crawford/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

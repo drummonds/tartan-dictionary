@@ -6,6 +6,8 @@ This is the **Krifa-Jean (Personal)** sett — one scale-free proportion (`dg4r5
 [GRBYBBR](/stripes/grbybbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Krifa-Jean](/tartans/k/kr/krifa-jean-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

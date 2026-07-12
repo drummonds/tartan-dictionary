@@ -6,7 +6,7 @@ This is the **Sinclair-Brown (Personal)** sett — one scale-free proportion (`d
 [BKRKRKGYGKRKRK](/stripes/bkrkrkgygkrkrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Sinclair-Brown](/tartans/sinclair-brown/) tartan — the named design grouping this sett with its kin.
+Part of the [Sinclair-Brown](/tartans/s/si/sinclair-brown/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

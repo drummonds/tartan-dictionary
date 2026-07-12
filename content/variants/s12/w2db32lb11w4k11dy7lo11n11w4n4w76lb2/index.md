@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Antarctic"
+  url: "/tartans/a/an/antarctic/"
+- name: "Antarctic"
   url: "/setts/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWKGYBWBWW](/stripes/wbwwkgybwbww/).
+
+Part of the [Antarctic](/tartans/a/an/antarctic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

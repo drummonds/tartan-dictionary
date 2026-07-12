@@ -7,6 +7,8 @@ This is the **Chinese Scottish (Corporate)** sett — one scale-free proportion 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Chinese Scottish](/tartans/c/ch/chinese-scottish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

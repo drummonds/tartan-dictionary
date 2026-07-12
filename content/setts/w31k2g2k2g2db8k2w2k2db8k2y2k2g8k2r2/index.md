@@ -6,6 +6,8 @@ This is the **Cockburn of Ormiston Dress** sett — one scale-free proportion (`
 [RKGKGKBKWKBGKGKW](/stripes/rkgkgkbkwkbgkgkw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Cockburn of Ormiston Dress](/tartans/c/co/cockburn-of-ormiston-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

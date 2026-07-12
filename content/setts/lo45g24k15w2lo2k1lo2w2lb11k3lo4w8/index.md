@@ -6,6 +6,8 @@ This is the **MacGill of Jura (Clan?)** sett — one scale-free proportion (`lo4
 [WYKWWYKYWKGY](/stripes/wykwwykywkgy/). It is recorded as a single **variant**, below.
 First attested **~1745**.
 
+Part of the [MacGill of Jura](/tartans/m/ma/macgill-of-jura/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

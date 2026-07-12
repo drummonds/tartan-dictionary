@@ -6,7 +6,7 @@ This is the **Murtaugh Hunting** sett — one scale-free proportion (`r4k4n4y2n2
 [KRWKBKWGKGKWBGBWBGBKR](/stripes/krwkbkwgkgkwbgbwbgbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Murtaugh Hunting](/tartans/murtaugh-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Murtaugh Hunting](/tartans/m/mu/murtaugh-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

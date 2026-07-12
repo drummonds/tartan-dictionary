@@ -6,6 +6,8 @@ This is the **Donachie of Brockloch** sett — one scale-free proportion (`dr24g
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Donachie of Brockloch](/tartans/d/do/donachie-of-brockloch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

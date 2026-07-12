@@ -6,6 +6,8 @@ This is the **Highland Glen (Corporate)** sett — one scale-free proportion (`l
 [WRWRWKGYW](/stripes/wrwrwkgyw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Highland Glen](/tartans/h/hi/highland-glen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

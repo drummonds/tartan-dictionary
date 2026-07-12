@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Porteous"
-  url: "/tartans/porteous/"
+  url: "/tartans/p/po/porteous/"
 - name: "Porteous Family Tartan"
   url: "/setts/k1y1db8g10lb7w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1y1db8g10lb7w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGWW](/stripes/kgbgww/).
 
-Part of the [Porteous](/tartans/porteous/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Porteous](/tartans/p/po/porteous/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

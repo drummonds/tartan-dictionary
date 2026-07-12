@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "College of Radiographers"
-  url: "/tartans/college-of-radiographers/"
+  url: "/tartans/c/co/college-of-radiographers/"
 - name: "College of Radiographers"
   url: "/setts/k15y2k10db18w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k15y2k10db18w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBW](/stripes/kgkbw/).
 
-Part of the [College of Radiographers](/tartans/college-of-radiographers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [College of Radiographers](/tartans/c/co/college-of-radiographers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

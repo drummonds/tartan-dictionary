@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bhatti"
-  url: "/tartans/bhatti/"
+  url: "/tartans/b/bh/bhatti/"
 - name: "Bhatti (Name)"
   url: "/setts/k7lb3g18db18w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7lb3g18db18w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGBW](/stripes/kwgbw/).
 
-Part of the [Bhatti](/tartans/bhatti/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bhatti](/tartans/b/bh/bhatti/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

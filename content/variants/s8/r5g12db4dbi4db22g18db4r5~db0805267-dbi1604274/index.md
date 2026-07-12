@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daks, Navy"
+  url: "/tartans/d/da/daks-navy/"
+- name: "Daks, Navy"
   url: "/setts/r5g12db4dbi4db22g18db4r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5g12db4dbi4db22g18db4r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBBBGR](/stripes/rbgbbbgr/).
+
+Part of the [Daks, Navy](/tartans/d/da/daks-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

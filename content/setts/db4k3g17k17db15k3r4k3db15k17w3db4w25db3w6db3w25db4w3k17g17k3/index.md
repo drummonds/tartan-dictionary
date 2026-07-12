@@ -6,6 +6,8 @@ This is the **Argyle Dress** sett — one scale-free proportion (`db4k3g17k17db1
 [BKGKBKRKBKWBWBWBWBWKGK](/stripes/bkgkbkrkbkwbwbwbwbwkgk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Argyle Dress](/tartans/a/ar/argyle-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

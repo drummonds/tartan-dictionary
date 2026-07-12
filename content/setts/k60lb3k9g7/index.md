@@ -6,6 +6,8 @@ This is the **Wallington (Corporate?)** sett — one scale-free proportion (`k60
 [GKWK](/stripes/gkwk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Wallington](/tartans/w/wa/wallington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

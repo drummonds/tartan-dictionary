@@ -6,6 +6,8 @@ This is the **Presley of Memphis** sett — one scale-free proportion (`dy4w1db4
 [GWBRWBWR](/stripes/gwbrwbwr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Presley of Memphis](/tartans/p/pr/presley-of-memphis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

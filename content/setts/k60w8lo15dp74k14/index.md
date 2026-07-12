@@ -6,6 +6,8 @@ This is the **Gingles (Personal)** sett — one scale-free proportion (`k60w8lo1
 [KBYWK](/stripes/kbywk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Gingles](/tartans/g/gi/gingles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

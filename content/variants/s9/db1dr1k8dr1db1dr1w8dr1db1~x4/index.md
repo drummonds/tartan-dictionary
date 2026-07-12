@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson of Pitmain"
+  url: "/families/macpherson-of-pitmain/"
+- name: "MacPherson of Pitmain"
+  url: "/tartans/m/ma/macpherson-of-pitmain/"
 - name: "MacPherson of Pitmain"
   url: "/setts/db1dr1k8dr1db1dr1w8dr1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1dr1k8dr1db1dr1w8dr1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBBWBB](/stripes/bbkbbbwbb/).
+
+Part of the [MacPherson of Pitmain](/tartans/m/ma/macpherson-of-pitmain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

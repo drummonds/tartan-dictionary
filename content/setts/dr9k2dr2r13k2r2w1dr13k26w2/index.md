@@ -7,6 +7,8 @@ This is the **Pride of Wales (Fashion)** sett — one scale-free proportion (`dr
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2008**.
 
+Part of the [Pride of Wales](/tartans/p/pr/pride-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

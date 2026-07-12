@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLamroc"
+  url: "/tartans/m/ma/maclamroc/"
+- name: "MacLamroc"
   url: "/setts/y4k1r16k16w3r1k16g16k1y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k1r16k16w3r1k16g16k1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRWKRKG](/stripes/gkgkrwkrkg/).
+
+Part of the [MacLamroc](/tartans/m/ma/maclamroc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

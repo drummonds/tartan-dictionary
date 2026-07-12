@@ -6,7 +6,7 @@ This is the **Plummer (Personal)** sett — one scale-free proportion (`r100k15g
 [BRBGKR](/stripes/brbgkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Plummer](/tartans/plummer/) tartan — the named design grouping this sett with its kin.
+Part of the [Plummer](/tartans/p/pl/plummer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

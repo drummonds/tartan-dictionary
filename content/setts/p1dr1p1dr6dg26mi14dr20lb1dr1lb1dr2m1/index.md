@@ -6,7 +6,7 @@ This is the **Scobie (Blackford)** sett — one scale-free proportion (`p1dr1p1d
 [BBBBGRBWBWBR](/stripes/bbbbgrbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Scobie](/tartans/scobie/) tartan — the named design grouping this sett with its kin.
+Part of the [Scobie](/tartans/s/sc/scobie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

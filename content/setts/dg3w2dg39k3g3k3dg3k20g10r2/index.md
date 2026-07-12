@@ -6,6 +6,8 @@ This is the **Zorra Caledonian Society** sett — one scale-free proportion (`dg
 [GWGKGKGKGR](/stripes/gwgkgkgkgr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Zorra Caledonian Society](/tartans/z/zo/zorra-caledonian-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

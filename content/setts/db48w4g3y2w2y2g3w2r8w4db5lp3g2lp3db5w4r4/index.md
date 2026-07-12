@@ -6,6 +6,8 @@ This is the **Cavalry 7th.. Regimental Tartan** sett — one scale-free proporti
 [BWGGWGGWRWBWGWBWR](/stripes/bwggwggwrwbwgwbwr/). It is recorded as a single **variant**, below.
 First attested **~1950**.
 
+Part of the [Cavalry 7th.. Regimental](/tartans/c/ca/cavalry-7th-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

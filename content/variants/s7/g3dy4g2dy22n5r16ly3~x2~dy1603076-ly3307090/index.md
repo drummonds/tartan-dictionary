@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pubcrawlers"
+  url: "/tartans/p/pu/pubcrawlers/"
 - name: "Pubcrawlers (Corporate)"
   url: "/setts/g3dy4g2dy22n5r16ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dy4g2dy22n5r16ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBRY](/stripes/ggggbry/).
+
+Part of the [Pubcrawlers](/tartans/p/pu/pubcrawlers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

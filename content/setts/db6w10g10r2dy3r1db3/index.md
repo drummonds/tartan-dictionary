@@ -6,7 +6,7 @@ This is the **Ainslie, Lake** sett — one scale-free proportion (`db6w10g10r2dy
 [BRGRGWB](/stripes/brgrgwb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Ainslie, Lake](/tartans/ainslie-lake/) tartan — the named design grouping this sett with its kin.
+Part of the [Ainslie, Lake](/tartans/a/ai/ainslie-lake/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

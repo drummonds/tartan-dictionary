@@ -6,6 +6,8 @@ This is the **Cumming** sett — one scale-free proportion (`g10r3db12lb1r10g12r
 [BRGRBWRGRBRWBRBRGRWBRG](/stripes/brgrbwrgrbrwbrbrgrwbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cumming](/tartans/c/cu/cumming-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

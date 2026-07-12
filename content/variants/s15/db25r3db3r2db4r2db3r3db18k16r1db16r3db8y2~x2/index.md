@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundonald"
+  url: "/tartans/d/du/dundonald/"
+- name: "Dundonald"
   url: "/setts/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBKRBRBG](/stripes/brbrbrbrbkrbrbg/).
+
+Part of the [Dundonald](/tartans/d/du/dundonald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

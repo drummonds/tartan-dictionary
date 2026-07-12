@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Auld Bernensis"
-  url: "/tartans/auld-bernensis/"
+  url: "/tartans/a/au/auld-bernensis/"
 - name: "Auld Bernensis"
   url: "/setts/k62r3k3dy3k3r3k9n5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k62r3k3dy3k3r3k9n5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGKRK](/stripes/bkrkgkrk/).
 
-Part of the [Auld Bernensis](/tartans/auld-bernensis/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Auld Bernensis](/tartans/a/au/auld-bernensis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

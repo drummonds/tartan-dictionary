@@ -6,7 +6,7 @@ This is the **London Regiment (Military)** sett — one scale-free proportion (`
 [GBRBGW](/stripes/gbrbgw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [London Regiment](/tartans/london-regiment/) tartan — the named design grouping this sett with its kin.
+Part of the [London Regiment](/tartans/l/lo/london-regiment/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

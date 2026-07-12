@@ -6,6 +6,8 @@ This is the **Black Onyx** sett — one scale-free proportion (`k30n33k1ly1k1n8k
 [KBKYKBKYKBKYWKY](/stripes/kbkykbkykbkywky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Black Onyx](/tartans/b/bl/black-onyx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

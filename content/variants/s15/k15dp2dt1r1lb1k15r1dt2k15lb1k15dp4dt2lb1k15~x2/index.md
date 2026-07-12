@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "GOLF"
+  url: "/tartans/g/go/golf-2/"
 - name: "GOLF (Corporate)"
   url: "/setts/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBRWKRBKWKBBWK](/stripes/kbbrwkrbkwkbbwk/).
+
+Part of the [GOLF](/tartans/g/go/golf-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

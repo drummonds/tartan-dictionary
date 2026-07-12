@@ -6,6 +6,8 @@ This is the **Cadence** sett — one scale-free proportion (`db51dg5r15dg37db17r
 [BGRGBRG](/stripes/bgrgbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cadence](/tartans/c/ca/cadence/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

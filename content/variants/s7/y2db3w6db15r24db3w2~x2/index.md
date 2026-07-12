@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fazzolettone"
+  url: "/tartans/f/fa/fazzolettone/"
 - name: "Fazzolettone (Fashion?)"
   url: "/setts/y2db3w6db15r24db3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db3w6db15r24db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBRBW](/stripes/gbwbrbw/).
+
+Part of the [Fazzolettone](/tartans/f/fa/fazzolettone/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

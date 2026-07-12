@@ -6,7 +6,7 @@ This is the **Springbank** sett — one scale-free proportion (`k14n2k2n5k25w1n9
 [KBKBKWBRKWK](/stripes/kbkbkwbrkwk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Springbank](/tartans/springbank/) tartan — the named design grouping this sett with its kin.
+Part of the [Springbank](/tartans/s/sp/springbank/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

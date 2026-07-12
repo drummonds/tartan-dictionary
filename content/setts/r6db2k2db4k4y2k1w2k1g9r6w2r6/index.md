@@ -6,7 +6,7 @@ This is the **Christie** sett — one scale-free proportion (`r6db2k2db4k4y2k1w2
 [RBKBKGKWKGRWR](/stripes/rbkbkgkwkgrwr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Christie](/tartans/christie-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Christie](/tartans/c/ch/christie-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

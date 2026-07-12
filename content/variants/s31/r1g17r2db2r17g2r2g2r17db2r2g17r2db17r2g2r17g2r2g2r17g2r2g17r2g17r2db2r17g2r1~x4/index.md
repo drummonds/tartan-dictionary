@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+- name: "Robertson"
+  url: "/tartans/r/ro/robertson-6/"
 - name: "Robertson"
   url: "/setts/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGRGRBRGRBRGRGRGRGRGRGRBRGR](/stripes/rgrbrgrgrbrgrbrgrgrgrgrgrgrbrgr/).
+
+Part of the [Robertson](/tartans/r/ro/robertson-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [31 stripe tartan](/stripes/stripes31/).
 

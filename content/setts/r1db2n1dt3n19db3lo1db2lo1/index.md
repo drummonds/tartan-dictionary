@@ -6,6 +6,8 @@ This is the **Pagus Wasia District Tartan** sett — one scale-free proportion (
 [RBBBBBYBY](/stripes/rbbbbbyby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Pagus Wasia](/tartans/p/pa/pagus-wasia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

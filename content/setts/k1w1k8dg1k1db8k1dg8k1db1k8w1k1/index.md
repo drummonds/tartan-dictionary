@@ -6,7 +6,7 @@ This is the **Chess** sett — one scale-free proportion (`k1w1k8dg1k1db8k1dg8k1
 [KWKBKGKBKGKWK](/stripes/kwkbkgkbkgkwk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Chess](/tartans/chess/) tartan — the named design grouping this sett with its kin.
+Part of the [Chess](/tartans/c/ch/chess/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

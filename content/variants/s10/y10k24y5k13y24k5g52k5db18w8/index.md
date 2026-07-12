@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leitrim County, Crest Range"
+  url: "/tartans/l/le/leitrim-county-crest-range/"
+- name: "Leitrim County, Crest Range"
   url: "/setts/y10k24y5k13y24k5g52k5db18w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y10k24y5k13y24k5g52k5db18w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKBW](/stripes/gkgkgkgkbw/).
+
+Part of the [Leitrim County, Crest Range](/tartans/l/le/leitrim-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

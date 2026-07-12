@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Baseggio"
+  url: "/tartans/d/de/de-baseggio/"
 - name: "De Baseggio (Personal)"
   url: "/setts/t4db6g1w1r1db6t4db2ly1db1ly1db1ly1db2ly3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t4db6g1w1r1db6t4db2ly1db1ly1db1ly1db2ly3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
+
+Part of the [De Baseggio](/tartans/d/de/de-baseggio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

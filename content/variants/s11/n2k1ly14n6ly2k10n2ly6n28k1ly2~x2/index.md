@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Rhode Island"
+  url: "/tartans/s/st/state-seal-of-rhode-island/"
 - name: "State Seal of Rhode Island (Fash.)"
   url: "/setts/n2k1ly14n6ly2k10n2ly6n28k1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2k1ly14n6ly2k10n2ly6n28k1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYBYKBYBKY](/stripes/bkybykbybky/).
+
+Part of the [State Seal of Rhode Island](/tartans/s/st/state-seal-of-rhode-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

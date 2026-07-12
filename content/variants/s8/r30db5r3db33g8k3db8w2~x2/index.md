@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Saint Margaret of Scotland Youth Group"
+  url: "/tartans/s/sa/saint-margaret-of-scotland-youth-group/"
+- name: "Saint Margaret of Scotland Youth Group"
   url: "/setts/r30db5r3db33g8k3db8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r30db5r3db33g8k3db8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGKBW](/stripes/rbrbgkbw/).
+
+Part of the [Saint Margaret of Scotland Youth Group](/tartans/s/sa/saint-margaret-of-scotland-youth-group/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

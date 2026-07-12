@@ -6,6 +6,8 @@ This is the **Skene or Tribe of Mar** sett — one scale-free proportion (`r1k2g
 [GKGKR](/stripes/gkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mar District](/tartans/m/ma/mar-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

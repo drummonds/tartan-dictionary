@@ -7,6 +7,8 @@ This is the **Ontario, Northern** sett — one scale-free proportion (`r19lb5t2w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1959**.
 
+Part of the [Northern Ontario](/tartans/n/no/northern-ontario/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

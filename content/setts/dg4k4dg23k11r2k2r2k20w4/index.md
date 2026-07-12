@@ -6,6 +6,8 @@ This is the **New Golf Club** sett — one scale-free proportion (`dg4k4dg23k11r
 [GKGKRKRKW](/stripes/gkgkrkrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [New Golf Club](/tartans/n/ne/new-golf-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

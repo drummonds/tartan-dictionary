@@ -6,6 +6,8 @@ This is the **Finnegan** sett — one scale-free proportion (`o6k2g2k4r3k2r3k4g2
 [GRGKRKRKGKR](/stripes/grgkrkrkgkr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Finnegan](/tartans/f/fi/finnegan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

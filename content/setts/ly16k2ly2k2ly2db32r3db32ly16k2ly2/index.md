@@ -6,6 +6,8 @@ This is the **MacLachlan, Gold Dress (Fashion)** sett — one scale-free proport
 [YKYBRBYKYKY](/stripes/ykybrbykyky/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [MacLachlan, Gold Dress](/tartans/m/ma/maclachlan-gold-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Norris (1998)** sett — one scale-free proportion (`k2w1g5dr1lb18
 [KWGBWR](/stripes/kwgbwr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Norris](/tartans/norris/) tartan — the named design grouping this sett with its kin.
+Part of the [Norris](/tartans/n/no/norris/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

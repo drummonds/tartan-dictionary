@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Morar"
+  url: "/tartans/l/lo/loch-morar-2/"
+- name: "Loch Morar"
   url: "/setts/dr38w9dr3k9w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr38w9dr3k9w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKW](/stripes/bwbkw/).
+
+Part of the [Loch Morar](/tartans/l/lo/loch-morar-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

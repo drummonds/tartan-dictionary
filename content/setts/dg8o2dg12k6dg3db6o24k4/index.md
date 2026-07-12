@@ -6,6 +6,8 @@ This is the **Dickie** sett — one scale-free proportion (`dg8o2dg12k6dg3db6o24
 [GRGKGBRK](/stripes/grgkgbrk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Dickie](/tartans/d/di/dickie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

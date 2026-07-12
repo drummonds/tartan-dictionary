@@ -6,6 +6,8 @@ This is the **Dryfe** sett — one scale-free proportion (`dg42k10lr2k2r2k2dg10r
 [GKYKRKGRKRG](/stripes/gkykrkgrkrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dryfe](/tartans/d/dr/dryfe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

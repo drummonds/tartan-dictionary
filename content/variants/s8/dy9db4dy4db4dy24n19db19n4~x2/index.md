@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chindecella Gorse"
-  url: "/tartans/chindecella-gorse/"
+  url: "/tartans/c/ch/chindecella-gorse/"
 - name: "Chindecella Gorse (Kemete Heil)"
   url: "/setts/dy9db4dy4db4dy24n19db19n4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy9db4dy4db4dy24n19db19n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBG](/stripes/bbbgbgbg/).
 
-Part of the [Chindecella Gorse](/tartans/chindecella-gorse/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Chindecella Gorse](/tartans/c/ch/chindecella-gorse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Silver Thistle** sett — one scale-free proportion (`k4n2k46db20k
 [BKBKBKBKBKBG](/stripes/bkbkbkbkbkbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Silver Thistle](/tartans/s/si/silver-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

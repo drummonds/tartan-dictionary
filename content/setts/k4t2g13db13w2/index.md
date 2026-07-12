@@ -6,6 +6,8 @@ This is the **Bath** sett — one scale-free proportion (`k4t2g13db13w2`), colou
 [KBGBW](/stripes/kbgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Bath](/tartans/b/ba/bath/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

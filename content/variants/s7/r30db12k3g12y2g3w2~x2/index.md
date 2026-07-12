@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hewitt"
-  url: "/tartans/hewitt/"
+  url: "/tartans/h/he/hewitt/"
 - name: "Hewitt (Name)"
   url: "/setts/r30db12k3g12y2g3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r30db12k3g12y2g3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGGGW](/stripes/rbkgggw/).
 
-Part of the [Hewitt](/tartans/hewitt/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hewitt](/tartans/h/he/hewitt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

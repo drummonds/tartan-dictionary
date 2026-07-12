@@ -6,6 +6,8 @@ This is the **Garvock (2015)** sett — one scale-free proportion (`g28db3g3k10r
 [GBGKRKRG](/stripes/gbgkrkrg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Garvock](/tartans/g/ga/garvock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

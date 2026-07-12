@@ -6,6 +6,8 @@ This is the **Vassseur Mignon ({Personal)** sett — one scale-free proportion (
 [RYRYGRGBGRY](/stripes/ryrygrgbgry/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Vassseur Mignon](/tartans/v/va/vassseur-mignon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Reilly"
+  url: "/tartans/o/o/o-reilly-2/"
 - name: "O'Reilly Irish Fashion Tartan"
   url: "/setts/dp4db2g2dp2g12dp2k2dp1k10db25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4db2g2dp2g12dp2k2dp1k10db25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBKBKBW](/stripes/bbgbgbkbkbw/).
+
+Part of the [O'Reilly](/tartans/o/o/o-reilly-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

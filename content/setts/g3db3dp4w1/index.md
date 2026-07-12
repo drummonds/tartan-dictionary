@@ -6,6 +6,8 @@ This is the **Pride of the Glen** sett — one scale-free proportion (`g3db3dp4w
 [GBBW](/stripes/gbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Pride of the Glen](/tartans/p/pr/pride-of-the-glen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

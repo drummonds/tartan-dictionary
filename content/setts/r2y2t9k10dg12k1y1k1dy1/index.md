@@ -6,6 +6,8 @@ This is the **Trades House** sett — one scale-free proportion (`r2y2t9k10dg12k
 [GKGKGKBGR](/stripes/gkgkgkbgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Trades House](/tartans/t/tr/trades-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

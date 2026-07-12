@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hay, White Dress"
-  url: "/tartans/hay-white-dress/"
+  url: "/tartans/h/ha/hay-white-dress/"
 - name: "Hay, White Dress"
   url: "/setts/r3g2y2g14r2g3r2g3w17g2w2k2r2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3g2y2g14r2g3r2g3w17g2w2k2r2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRGWGWKRWRKWGWGRGRGGGR](/stripes/gggrgrgwgwkrwrkwgwgrgrgggr/).
 
-Part of the [Hay, White Dress](/tartans/hay-white-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hay, White Dress](/tartans/h/ha/hay-white-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

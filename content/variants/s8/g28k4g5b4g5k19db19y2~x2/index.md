@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Guelph"
+  url: "/tartans/c/ci/city-of-guelph/"
+- name: "City of Guelph"
   url: "/setts/g28k4g5b4g5k19db19y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g28k4g5b4g5k19db19y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGBGKG](/stripes/gbkgbgkg/).
+
+Part of the [City of Guelph](/tartans/c/ci/city-of-guelph/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Al Suwaidi of Abu Dhabi"
+  url: "/tartans/a/al/al-suwaidi-of-abu-dhabi/"
 - name: "Al Suwaidi of Abu Dhabi (Personal)"
   url: "/setts/w2r7g7k7r2g2k2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r7g7k7r2g2k2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGRKGRW](/stripes/wkgrkgrw/).
+
+Part of the [Al Suwaidi of Abu Dhabi](/tartans/a/al/al-suwaidi-of-abu-dhabi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

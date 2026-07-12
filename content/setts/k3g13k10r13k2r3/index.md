@@ -6,6 +6,8 @@ This is the **MacCormick Dress Clan Tartan** sett — one scale-free proportion 
 [KGKRKR](/stripes/kgkrkr/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [MacCormick Dress](/tartans/m/ma/maccormick-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

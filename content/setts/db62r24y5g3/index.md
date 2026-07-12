@@ -6,6 +6,8 @@ This is the **Meaux, Luc G (Personal)** sett — one scale-free proportion (`db6
 [BRGG](/stripes/brgg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Meaux, Luc G](/tartans/m/me/meaux-luc-g/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

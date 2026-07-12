@@ -6,6 +6,8 @@ This is the **Lochwood Estate Check** sett — one scale-free proportion (`r4ly3
 [GYBYGYR](/stripes/gybygyr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Lochwood Estate Check](/tartans/l/lo/lochwood-estate-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

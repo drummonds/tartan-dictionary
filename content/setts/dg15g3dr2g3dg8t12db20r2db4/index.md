@@ -6,6 +6,8 @@ This is the **Westbrook (2013)** sett — one scale-free proportion (`dg15g3dr2g
 [BRBBGGBGG](/stripes/brbbggbgg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Westbrook](/tartans/w/we/westbrook/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

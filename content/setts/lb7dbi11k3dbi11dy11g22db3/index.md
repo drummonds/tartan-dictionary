@@ -6,7 +6,7 @@ This is the **Scottish Odyssey** sett — one scale-free proportion (`lb7dbi11k3
 [BGGBKBW](/stripes/bggbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Scottish Odyssey](/tartans/scottish-odyssey/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Odyssey](/tartans/s/sc/scottish-odyssey/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

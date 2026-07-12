@@ -6,6 +6,8 @@ This is the **Prince Edward Island** sett — one scale-free proportion (`g16o1g
 [GRGRGRRRGRRRGRW](/stripes/grgrgrrrgrrrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

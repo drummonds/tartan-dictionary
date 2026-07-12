@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Prison Service"
+  url: "/tartans/s/sc/scottish-prison-service/"
 - name: "Scottish Prison Service (Corporate)"
   url: "/setts/w3k1r4g20k3t30w4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3k1r4g20k3t30w4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBKGRKW](/stripes/rwbkgrkw/).
+
+Part of the [Scottish Prison Service](/tartans/s/sc/scottish-prison-service/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

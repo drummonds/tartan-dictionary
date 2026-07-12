@@ -6,6 +6,8 @@ This is the **Milne dress green** sett — one scale-free proportion (`w14lb3w14
 [BWWWGGWWW](/stripes/bwwwggwww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Milne dress](/tartans/m/mi/milne-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

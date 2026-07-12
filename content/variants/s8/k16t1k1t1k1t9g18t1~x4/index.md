@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kelvingrove"
+  url: "/tartans/k/ke/kelvingrove-2/"
+- name: "Kelvingrove"
   url: "/setts/k16t1k1t1k1t9g18t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16t1k1t1k1t9g18t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBGBGBKBKBK](/stripes/bkbkbgbgbkbkbk/).
+
+Part of the [Kelvingrove](/tartans/k/ke/kelvingrove-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

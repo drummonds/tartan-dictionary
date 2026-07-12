@@ -6,6 +6,8 @@ This is the **Chapman-Smith, M & L (Personal)** sett — one scale-free proporti
 [KBGWGBGYGBK](/stripes/kbgwgbgygbk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Chapman-Smith, M & L](/tartans/c/ch/chapman-smith-m-l/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

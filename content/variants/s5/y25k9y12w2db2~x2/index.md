@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gairloch"
+  url: "/tartans/g/ga/gairloch-2/"
+- name: "Gairloch"
   url: "/setts/y25k9y12w2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y25k9y12w2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKG](/stripes/bwgkg/).
+
+Part of the [Gairloch](/tartans/g/ga/gairloch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Redgate (Name)** sett — one scale-free proportion (`lb21dy10lb18
 [GGGBGKWKWBWGW](/stripes/gggbgkwkwbwgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Redgate](/tartans/r/re/redgate-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

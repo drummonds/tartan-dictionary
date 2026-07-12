@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hay & Leith"
+  url: "/tartans/h/ha/hay-leith-2/"
 - name: "Hay & Leith - 1800 (Clan)"
   url: "/setts/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10r3y3k6r48dg6r2y2r6dg40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/).
+
+Part of the [Hay & Leith](/tartans/h/ha/hay-leith-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

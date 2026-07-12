@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jones-MacGregor"
+  url: "/tartans/j/jo/jones-macgregor/"
 - name: "Jones-MacGregor (Name)"
   url: "/setts/db2y2db3y8g4db4g3db8r12g7r3g2k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2y2db3y8g4db4g3db8r12g7r3g2k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGBGBRGRGKW](/stripes/bgbggbgbrgrgkw/).
+
+Part of the [Jones-MacGregor](/tartans/j/jo/jones-macgregor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

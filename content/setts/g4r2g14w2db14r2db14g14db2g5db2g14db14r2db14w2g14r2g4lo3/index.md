@@ -6,6 +6,8 @@ This is the **Hunter of Hunterston** sett — one scale-free proportion (`g4r2g1
 [GRGWBRBGBGBGBRBWGRGY](/stripes/grgwbrbgbgbgbrbwgrgy/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Hunter of Hunterston](/tartans/h/hu/hunter-of-hunterston-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

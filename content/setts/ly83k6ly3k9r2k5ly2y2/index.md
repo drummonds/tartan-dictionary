@@ -6,6 +6,8 @@ This is the **Crane of Cluny Hunting (Personal)** sett — one scale-free propor
 [GYKRKYKY](/stripes/gykrkyky/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Crane of Cluny Hunting](/tartans/c/cr/crane-of-cluny-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

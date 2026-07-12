@@ -6,7 +6,7 @@ This is the **Douglas Variation** sett — one scale-free proportion (`w4db25lb2
 [WBWBWW](/stripes/wbwbww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Douglas Variation](/tartans/douglas-variation/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas Variation](/tartans/d/do/douglas-variation/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

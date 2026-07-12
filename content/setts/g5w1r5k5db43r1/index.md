@@ -6,6 +6,8 @@ This is the **Michael (John) (Personal)** sett — one scale-free proportion (`g
 [GWRKBR](/stripes/gwrkbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Michael](/tartans/m/mi/michael/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

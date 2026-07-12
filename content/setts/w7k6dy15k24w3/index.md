@@ -6,6 +6,8 @@ This is the **Longford County, Crest Range** sett — one scale-free proportion 
 [WKGKW](/stripes/wkgkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Longford County, Crest Range](/tartans/l/lo/longford-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

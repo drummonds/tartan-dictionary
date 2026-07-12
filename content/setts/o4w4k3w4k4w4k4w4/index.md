@@ -6,6 +6,8 @@ This is the **Glen Feshie Check** sett — one scale-free proportion (`o4w4k3w4k
 [RWKWKWKW](/stripes/rwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1834**.
 
+Part of the [Glen Feshie](/tartans/g/gl/glen-feshie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

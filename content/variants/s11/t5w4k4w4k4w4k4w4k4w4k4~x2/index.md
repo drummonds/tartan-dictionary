@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott of Buccleuch"
+  url: "/families/scott-of-buccleuch/"
+- name: "Scott of Buccleuch"
+  url: "/tartans/s/sc/scott-of-buccleuch/"
 - name: "Scott of Buccleuch (Military)"
   url: "/setts/t5w4k4w4k4w4k4w4k4w4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t5w4k4w4k4w4k4w4k4w4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKWKWK](/stripes/bwkwkwkwkwk/).
+
+Part of the [Scott of Buccleuch](/tartans/s/sc/scott-of-buccleuch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

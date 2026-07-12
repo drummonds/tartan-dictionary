@@ -6,6 +6,8 @@ This is the **Ferster, James Carney** sett — one scale-free proportion (`k16w3
 [BBYWKK](/stripes/bbywkk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ferster, James Carney](/tartans/f/fe/ferster-james-carney-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

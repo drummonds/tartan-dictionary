@@ -6,6 +6,8 @@ This is the **Matthew Gloag Corporate Tartan** sett — one scale-free proportio
 [BBGKBKBKBGBKBKBKGB](/stripes/bbgkbkbkbgbkbkbkgb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Matthew Gloag](/tartans/m/ma/matthew-gloag/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

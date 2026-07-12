@@ -7,6 +7,8 @@ This is the **Scotland's National** sett — one scale-free proportion (`dt12w2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
+Part of the [Scotland's National](/tartans/s/sc/scotland-s-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

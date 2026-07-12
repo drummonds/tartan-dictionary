@@ -6,7 +6,7 @@ This is the **Washington County Sheriff’s Office (Oregon)** sett — one scale
 [KGKWBWKW](/stripes/kgkwbwkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Washington County Sheriff’s Office](/tartans/washington-county-sheriff-s-office/) tartan — the named design grouping this sett with its kin.
+Part of the [Washington County Sheriff’s Office](/tartans/w/wa/washington-county-sheriff-s-office/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

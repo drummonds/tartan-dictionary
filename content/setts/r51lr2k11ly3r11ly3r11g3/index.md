@@ -6,6 +6,8 @@ This is the **Hackston (Green stripe) (Portrait)** sett — one scale-free propo
 [GRYRYKYR](/stripes/gryrykyr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Hackston](/tartans/h/ha/hackston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

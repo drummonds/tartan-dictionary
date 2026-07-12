@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nichol"
+  url: "/tartans/n/ni/nichol/"
 - name: "Nichol (Personal)"
   url: "/setts/k1db5k4db1dg1db1dg4db5dg1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1db5k4db1dg1db1dg4db5dg1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGBGBGR](/stripes/kbkbgbgbgr/).
+
+Part of the [Nichol](/tartans/n/ni/nichol/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

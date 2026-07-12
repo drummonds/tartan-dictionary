@@ -6,6 +6,8 @@ This is the **Ogilvie (D.C. Stewart) #2** sett — one scale-free proportion (`l
 [WGKRWRWRKGWRWRWGKRWRWRKGWW](/stripes/wgkrwrwrkgwrwrwgkrwrwrkgww/). It is recorded as a single **variant**, below.
 First attested **1812**.
 
+Part of the [Ogilvie](/tartans/o/og/ogilvie-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

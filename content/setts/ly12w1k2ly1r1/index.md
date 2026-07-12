@@ -6,7 +6,7 @@ This is the **Lochcarron Camel** sett — one scale-free proportion (`ly12w1k2ly
 [RYKWY](/stripes/rykwy/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Lochcarron Camel](/tartans/lochcarron-camel/) tartan — the named design grouping this sett with its kin.
+Part of the [Lochcarron Camel](/tartans/l/lo/lochcarron-camel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

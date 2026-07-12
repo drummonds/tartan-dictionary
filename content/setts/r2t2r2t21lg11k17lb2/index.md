@@ -6,6 +6,8 @@ This is the **Loch Ness (Fashion)** sett — one scale-free proportion (`r2t2r2t
 [RBRBYKW](/stripes/rbrbykw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Loch Ness](/tartans/l/lo/loch-ness-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

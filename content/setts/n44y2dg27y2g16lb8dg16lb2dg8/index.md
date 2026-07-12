@@ -6,6 +6,8 @@ This is the **Crumlish (2015)** sett — one scale-free proportion (`n44y2dg27y2
 [BGGGGWGWG](/stripes/bggggwgwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Crumlish](/tartans/c/cr/crumlish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

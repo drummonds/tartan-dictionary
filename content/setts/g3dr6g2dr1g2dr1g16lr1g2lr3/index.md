@@ -6,6 +6,8 @@ This is the **Prince of Wales Fashion Weavers Tartan** sett — one scale-free p
 [GYGBGBGBGBGBGBGYGY](/stripes/gygbgbgbgbgbgbgygy/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Prince of Wales Fashion Weavers](/tartans/p/pr/prince-of-wales-fashion-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

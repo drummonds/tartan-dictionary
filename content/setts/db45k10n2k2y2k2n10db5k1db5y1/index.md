@@ -6,6 +6,8 @@ This is the **Skye District Tartan** sett — one scale-free proportion (`db45k1
 [BKBKGKBBKBG](/stripes/bkbkgkbbkbg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Skye](/tartans/s/sk/skye-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

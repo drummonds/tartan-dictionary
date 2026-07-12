@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cheadle"
+  url: "/tartans/c/ch/cheadle/"
 - name: "Cheadle (Personal)"
   url: "/setts/dp10y3dp8db42g5n5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp10y3dp8db42g5n5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGB](/stripes/bgbbgb/).
+
+Part of the [Cheadle](/tartans/c/ch/cheadle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

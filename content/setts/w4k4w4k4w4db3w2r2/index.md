@@ -6,6 +6,8 @@ This is the **Scott, Sir Walter #2** sett — one scale-free proportion (`w4k4w4
 [RWBWKWKWKWKWBW](/stripes/rwbwkwkwkwkwbw/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Scott, Sir Walter](/tartans/s/sc/scott-sir-walter-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

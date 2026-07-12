@@ -5,6 +5,10 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie"
+  url: "/tartans/o/og/ogilvie-2/"
 - name: "Ogilvie"
   url: "/setts/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4/"
 slug_full: "g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4~x2"
@@ -12,6 +16,8 @@ slug_full: "g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGYKRWRWRKYGWGYKRWRWRWRKYGKGKGYKRWRWRKWBWKYGYGYGYGRKRBWRWBWRKRBYGWGYKRWRKYGYKRKRKRKYGYBYKWR](/stripes/gkgykrwrwrkygwgykrwrwrwrkygkgkgykrwrwrkwbwkygygygygrkrbwrwbwrkrbygwgykrwrkygykrkrkrkygybykwr/).
+
+Part of the [Ogilvie](/tartans/o/og/ogilvie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [92 stripe tartan](/stripes/stripes92/).
 

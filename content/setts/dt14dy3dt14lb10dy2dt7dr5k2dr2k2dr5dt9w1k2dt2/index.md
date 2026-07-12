@@ -6,6 +6,8 @@ This is the **Proven** sett — one scale-free proportion (`dt14dy3dt14lb10dy2dt
 [BGBWGBBKBKBBWKB](/stripes/bgbwgbbkbkbbwkb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Proven](/tartans/p/pr/proven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

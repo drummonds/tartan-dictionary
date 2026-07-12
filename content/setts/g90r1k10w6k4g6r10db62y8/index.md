@@ -6,6 +6,8 @@ This is the **Stirling, University of** sett — one scale-free proportion (`g90
 [GBRGKWKRG](/stripes/gbrgkwkrg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Stirling, University of](/tartans/s/st/stirling-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

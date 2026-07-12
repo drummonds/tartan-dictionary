@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ryukoku University Heian JHS"
+  url: "/tartans/r/ry/ryukoku-university-heian-jhs/"
 - name: "Ryukoku University Heian JHS (Corp)"
   url: "/setts/o4k16oi5n8oi2dp2oi2dp2n8k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4k16oi5n8oi2dp2oi2dp2n8k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBRBRBRKR](/stripes/kbbrbrbrkr/).
+
+Part of the [Ryukoku University Heian JHS](/tartans/r/ry/ryukoku-university-heian-jhs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

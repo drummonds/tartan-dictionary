@@ -6,6 +6,8 @@ This is the **Celts, Tartan of the** sett — one scale-free proportion (`r2k1r1
 [GKGBRBRGKRKR](/stripes/gkgbrbrgkrkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Celts, Tartan of the](/tartans/c/ce/celts-tartan-of-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

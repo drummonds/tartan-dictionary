@@ -6,7 +6,7 @@ This is the **Ikelman #4 (Personal)** sett — one scale-free proportion (`dr11k
 [BKBYB](/stripes/bkbyb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Ikelman](/tartans/ikelman-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Ikelman](/tartans/i/ik/ikelman-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

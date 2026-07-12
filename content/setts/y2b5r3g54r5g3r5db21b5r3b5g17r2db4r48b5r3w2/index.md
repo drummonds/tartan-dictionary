@@ -6,7 +6,7 @@ This is the **Sommerville** sett — one scale-free proportion (`y2b5r3g54r5g3r5
 [GBRGRGRBBRBGRBRBRW](/stripes/gbrgrgrbbrbgrbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Sommerville](/tartans/sommerville/) tartan — the named design grouping this sett with its kin.
+Part of the [Sommerville](/tartans/s/so/sommerville/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

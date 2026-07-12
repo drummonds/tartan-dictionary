@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Redpath, The Ronald"
+  url: "/tartans/r/re/redpath-the-ronald/"
+- name: "Redpath, The Ronald"
   url: "/setts/p26o15r7lt2lg7db17r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/p26o15r7lt2lg7db17r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRWYBR](/stripes/brrwybr/).
+
+Part of the [Redpath, The Ronald](/tartans/r/re/redpath-the-ronald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

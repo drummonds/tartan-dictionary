@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wolverines"
+  url: "/tartans/w/wo/wolverines/"
 - name: "Wolverines (Corporate)"
   url: "/setts/lr8w3db40k12w3lr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr8w3db40k12w3lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YWBKWY](/stripes/ywbkwy/).
+
+Part of the [Wolverines](/tartans/w/wo/wolverines/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

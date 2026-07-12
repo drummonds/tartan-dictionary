@@ -6,6 +6,8 @@ This is the **MacTeddy** sett — one scale-free proportion (`lb3w10db10g10r2`),
 [RGBWW](/stripes/rgbww/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacTeddy](/tartans/m/ma/macteddy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

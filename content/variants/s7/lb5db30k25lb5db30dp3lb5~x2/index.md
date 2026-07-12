@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Van Loo"
-  url: "/tartans/van-loo/"
+  url: "/tartans/v/va/van-loo/"
 - name: "Van Loo Tartan"
   url: "/setts/lb5db30k25lb5db30dp3lb5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5db30k25lb5db30dp3lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBWKBW](/stripes/wbbwkbw/).
 
-Part of the [Van Loo](/tartans/van-loo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Van Loo](/tartans/v/va/van-loo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

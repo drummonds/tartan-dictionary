@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Volkswagen Orange"
+  url: "/tartans/v/vo/volkswagen-orange/"
 - name: "Volkswagen Orange Trim (Fashion)"
   url: "/setts/lo26k10lo3g3lo3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo26k10lo3g3lo3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGYKY](/stripes/kygyky/).
+
+Part of the [Volkswagen Orange](/tartans/v/vo/volkswagen-orange/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Barkwell (Personal)** sett — one scale-free proportion (`r20k1ly
 [KRKRKYKR](/stripes/krkrkykr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Barkwell](/tartans/b/ba/barkwell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

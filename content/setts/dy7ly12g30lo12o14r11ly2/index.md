@@ -6,6 +6,8 @@ This is the **Unidentified Silk Plaid #2** sett — one scale-free proportion (`
 [GYGYRRY](/stripes/gygyrry/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Silk](/tartans/u/un/unidentified-silk-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Caie (2013)** sett — one scale-free proportion (`k1dg8w1k8w1db8r
 [KGWKWBR](/stripes/kgwkwbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Caie](/tartans/c/ca/caie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

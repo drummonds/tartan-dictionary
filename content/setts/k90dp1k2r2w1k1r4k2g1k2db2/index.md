@@ -6,6 +6,8 @@ This is the **CoVASS (Corporate)** sett — one scale-free proportion (`k90dp1k2
 [BKGKRKWRKBK](/stripes/bkgkrkwrkbk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [CoVASS](/tartans/c/co/covass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

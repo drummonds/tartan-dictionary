@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gray, Hamilton John"
+  url: "/tartans/g/gr/gray-hamilton-john/"
+- name: "Gray, Hamilton John"
   url: "/setts/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBYYYBYBYYYBBRBY](/stripes/brbbyyybybyyybbrby/).
+
+Part of the [Gray, Hamilton John](/tartans/g/gr/gray-hamilton-john/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

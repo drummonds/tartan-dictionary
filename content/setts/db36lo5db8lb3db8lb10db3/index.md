@@ -6,6 +6,8 @@ This is the **Scottish Qualifications Auth. (Corp)** sett — one scale-free pro
 [BWBWBYB](/stripes/bwbwbyb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Scottish Qualifications Authority](/tartans/s/sc/scottish-qualifications-authority/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

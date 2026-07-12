@@ -6,7 +6,7 @@ This is the **Rose** sett — one scale-free proportion (`g4r32db9r6db2r3db2r12w
 [GRBRBRBRW](/stripes/grbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Rose](/tartans/rose/) tartan — the named design grouping this sett with its kin.
+Part of the [Rose](/tartans/r/ro/rose/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Sands-Pingot Family, Alabama (Personal)** sett — one scale-free 
 [BRGRG](/stripes/brgrg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sands-Pingot Family, Alabama](/tartans/s/sa/sands-pingot-family-alabama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

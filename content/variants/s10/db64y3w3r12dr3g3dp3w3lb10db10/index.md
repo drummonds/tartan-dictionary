@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tau-Taurini"
+  url: "/tartans/t/ta/tau-taurini/"
 - name: "Tau-Taurini (Provisional) (Personal)"
   url: "/setts/db64y3w3r12dr3g3dp3w3lb10db10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db64y3w3r12dr3g3dp3w3lb10db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWRBGBWWB](/stripes/bgwrbgbwwb/).
+
+Part of the [Tau-Taurini](/tartans/t/ta/tau-taurini/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

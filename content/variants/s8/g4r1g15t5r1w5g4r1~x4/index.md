@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McGirr David"
+  url: "/tartans/m/mc/mcgirr-david/"
 - name: "McGirr (Letterkenny) David, (Pers.)"
   url: "/setts/g4r1g15t5r1w5g4r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4r1g15t5r1w5g4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBRWGR](/stripes/grgbrwgr/).
+
+Part of the [McGirr David](/tartans/m/mc/mcgirr-david/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Hegarty, Philip David (Personal)** sett — one scale-free proport
 [GKYRBW](/stripes/gkyrbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Hegarty, Philip David](/tartans/hegarty-philip-david/) tartan — the named design grouping this sett with its kin.
+Part of the [Hegarty, Philip David](/tartans/h/he/hegarty-philip-david/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

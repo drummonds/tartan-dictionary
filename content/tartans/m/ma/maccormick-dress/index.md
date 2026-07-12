@@ -1,0 +1,39 @@
+---
+title: "MacCormick Dress"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KGKRKR](/stripes/kgkrkr/) — the page of every tartan sharing this colour sequence.
+
+Dress MacCormick sharing Campbell's sett; possibly a Pendleton recolouring, likely the basis for many Irish family tartans.
+
+The **MacCormick Dress** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k3g13k10r13k2r3/">MacCormick Dress</a></td><td><code>K/6 G26 K20 R26 K4 R/6</code></td><td>164</td><td>~1985</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3g13k10r13k2r3/"><img src="/variants/s6/k3g13k10r13k2r3~x2/sett.png" alt="MacCormick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacCormick, dress
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">164</div><div class="nn-name nn-base"><a href="/variants/s6/k3g13k10r13k2r3~x2/">MacCormick Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k3g13k10r13k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g13k10dr13k2dr3~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">0.16</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s6/k3g13k10dr13k2dr3~x2/">MacCormick (Dress)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g13k10dr13k2dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lo2dg7k6r11k1r1lo2~x4~r1908029&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/">Blackstock Red (Dress)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lo2dg7k6r11k1r1lo2~x4&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/">Blackstock, Red Dress (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo2dg7k6r11k1r1lo2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5w2g18k17dr16k3~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k5w2g18k17dr16k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5w2g18k17dr16k3&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">114</div><div class="nn-name"><a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k5w2g18k17dr16k3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y2g7k6r12k1r1y2~x4&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">1.87</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s7/y2g7k6r12k1r1y2~x4/">Blackstock Dress Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y2g7k6r12k1r1y2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2r20k8g18r3w2~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">2.06</a></div><div class="nn-threads nn-far">204</div><div class="nn-name nn-far"><a href="/variants/s6/k2r20k8g18r3w2~x2/">Celtic Combat</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2r20k8g18r3w2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb2dr12k4dr2k2dr2k6g5lb2~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">140</div><div class="nn-name nn-far"><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/">O'Neill (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r20k14w2k14g9r3g11~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">230</div><div class="nn-name nn-far"><a href="/variants/s7/r20k14w2k14g9r3g11~x2/">Brough</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r20k14w2k14g9r3g11~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3g25o3k15r24g3~x2&amp;base=k3g13k10r13k2r3~x2" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s6/k3g25o3k15r24g3~x2/">Un-named (D C Dalgliesh) #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g25o3k15r24g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.9" cy="244.0" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.2" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.0" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.1" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.5" cy="170.5" r="4" fill="#3465a4"><title>Blackstock Dress Family Tartan</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.6" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.0" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="134.4" cy="205.3" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.8" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="151.2" cy="231.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

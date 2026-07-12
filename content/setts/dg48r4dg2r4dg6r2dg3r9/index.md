@@ -6,6 +6,8 @@ This is the **Menzies (Clan)** sett — one scale-free proportion (`dg48r4dg2r4d
 [GRGRGRGR](/stripes/grgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~1893**.
 
+Part of the [Menzies](/tartans/m/me/menzies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

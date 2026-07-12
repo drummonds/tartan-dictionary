@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Christmas Hill Game Farm"
-  url: "/tartans/christmas-hill-game-farm/"
+  url: "/tartans/c/ch/christmas-hill-game-farm/"
 - name: "Christmas Hill Game Farm"
   url: "/setts/dy5ly20r3dg13dy13dp3b3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy5ly20r3dg13dy13dp3b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGRYG](/stripes/bbggryg/).
 
-Part of the [Christmas Hill Game Farm](/tartans/christmas-hill-game-farm/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Christmas Hill Game Farm](/tartans/c/ch/christmas-hill-game-farm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

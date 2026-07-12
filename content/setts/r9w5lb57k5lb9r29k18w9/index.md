@@ -6,6 +6,8 @@ This is the **Yale College of Wrexham (Corporate)** sett — one scale-free prop
 [RWWKWRKW](/stripes/rwwkwrkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Yale College of Wrexham](/tartans/y/ya/yale-college-of-wrexham/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

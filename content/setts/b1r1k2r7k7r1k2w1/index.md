@@ -6,7 +6,7 @@ This is the **Nakayama (Fashion)** sett — one scale-free proportion (`b1r1k2r7
 [BRKRKRKW](/stripes/brkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Nakayama](/tartans/nakayama/) tartan — the named design grouping this sett with its kin.
+Part of the [Nakayama](/tartans/n/na/nakayama/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

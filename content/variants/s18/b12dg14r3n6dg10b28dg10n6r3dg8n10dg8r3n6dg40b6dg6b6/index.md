@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Miyuki, House Check Grey, 1003A"
+  url: "/tartans/m/mi/miyuki-house-check-grey-1003a/"
+- name: "Miyuki, House Check Grey, 1003A"
   url: "/setts/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRGBGRBGBGBRGB](/stripes/bgbgbrgbgrbgbgbrgb/).
+
+Part of the [Miyuki, House Check Grey, 1003A](/tartans/m/mi/miyuki-house-check-grey-1003a/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 

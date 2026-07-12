@@ -6,6 +6,8 @@ This is the **Australian Federal Police** sett — one scale-free proportion (`k
 [BRBWBKGYGWGWGBK](/stripes/brbwbkgygwgwgbk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Australian Federal Police](/tartans/a/au/australian-federal-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "John.W.Mackay"
+  url: "/tartans/j/jo/john-w-mackay/"
 - name: "Mackay, John W. (Personal)"
   url: "/setts/k4g35lo1k18g3db18dr3g3dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4g35lo1k18g3db18dr3g3dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGKYGK](/stripes/bgbbgkygk/).
+
+Part of the [John.W.Mackay](/tartans/j/jo/john-w-mackay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

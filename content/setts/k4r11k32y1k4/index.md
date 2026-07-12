@@ -6,6 +6,8 @@ This is the **Harvie Family Tartan** sett — one scale-free proportion (`k4r11k
 [KGKRK](/stripes/kgkrk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Harvie](/tartans/h/ha/harvie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

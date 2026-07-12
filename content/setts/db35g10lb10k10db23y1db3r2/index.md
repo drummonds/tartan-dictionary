@@ -6,7 +6,7 @@ This is the **Lapsley, The Tom** sett — one scale-free proportion (`db35g10lb1
 [BGWKBGBR](/stripes/bgwkbgbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Lapsley, The Tom](/tartans/lapsley-the-tom/) tartan — the named design grouping this sett with its kin.
+Part of the [Lapsley, The Tom](/tartans/l/la/lapsley-the-tom/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

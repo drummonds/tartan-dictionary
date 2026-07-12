@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spring Morning"
+  url: "/tartans/s/sp/spring-morning/"
+- name: "Spring Morning"
   url: "/setts/y9g9lo1g9y9g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y9g9lo1g9y9g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGYGG](/stripes/gggygg/).
+
+Part of the [Spring Morning](/tartans/s/sp/spring-morning/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

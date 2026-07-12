@@ -6,6 +6,8 @@ This is the **Coca Cola US Corporate Tartan** sett — one scale-free proportion
 [RGWGW](/stripes/rgwgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Coca Cola US](/tartans/c/co/coca-cola-us/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

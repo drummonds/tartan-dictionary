@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fermanagh, County"
+  url: "/tartans/f/fe/fermanagh-county-2/"
 - name: "Fermanagh, County (District)"
   url: "/setts/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBGBGBGBBYBYBGBG](/stripes/gbbgbgbgbbybybgbg/).
+
+Part of the [Fermanagh, County](/tartans/f/fe/fermanagh-county-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **AIton - 1979 (Clan)** sett — one scale-free proportion (`db6k1g3
 [BKGKBKGR](/stripes/bkgkbkgr/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [AIton](/tartans/a/ai/aiton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

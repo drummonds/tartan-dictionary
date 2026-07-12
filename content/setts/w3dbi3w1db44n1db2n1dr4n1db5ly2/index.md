@@ -6,6 +6,8 @@ This is the **Jewish (Kosher) (Corporate)** sett — one scale-free proportion (
 [WBWBBBBBBBY](/stripes/wbwbbbbbbby/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Jewish](/tartans/j/je/jewish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

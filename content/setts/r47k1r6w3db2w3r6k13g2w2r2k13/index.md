@@ -6,6 +6,8 @@ This is the **Trevison** sett — one scale-free proportion (`r47k1r6w3db2w3r6k1
 [KRWGKRWBWRKR](/stripes/krwgkrwbwrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Trevison](/tartans/t/tr/trevison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ailsa, Gold (Dance)** sett — one scale-free proportion (`lo8w3lo
 [WBWYWY](/stripes/wbwywy/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ailsa Gold](/tartans/a/ai/ailsa-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

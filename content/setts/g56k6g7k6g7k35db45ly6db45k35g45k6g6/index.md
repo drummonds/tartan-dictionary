@@ -6,6 +6,8 @@ This is the **Dewar's Highlander** sett — one scale-free proportion (`g56k6g7k
 [GKGKBYBKGKGKG](/stripes/gkgkbybkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Dewar's Highlander](/tartans/d/de/dewar-s-highlander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

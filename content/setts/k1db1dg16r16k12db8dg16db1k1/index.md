@@ -6,6 +6,8 @@ This is the **MacNett** sett — one scale-free proportion (`k1db1dg16r16k12db8d
 [KBGBKRGBK](/stripes/kbgbkrgbk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacNett](/tartans/m/ma/macnett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

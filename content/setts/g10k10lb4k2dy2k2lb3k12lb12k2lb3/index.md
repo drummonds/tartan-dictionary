@@ -6,6 +6,8 @@ This is the **Dalgliesh Dress** sett — one scale-free proportion (`g10k10lb4k2
 [GKWKGKWKWKW](/stripes/gkwkgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dalgliesh Dress](/tartans/d/da/dalgliesh-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

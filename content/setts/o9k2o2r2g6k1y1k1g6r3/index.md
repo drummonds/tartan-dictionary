@@ -6,6 +6,8 @@ This is the **MacAart** sett — one scale-free proportion (`o9k2o2r2g6k1y1k1g6r
 [RGKGKGRRKR](/stripes/rgkgkgrrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacAart](/tartans/m/ma/macaart-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

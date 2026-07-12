@@ -6,6 +6,8 @@ This is the **MacIver** sett — one scale-free proportion (`k16r2k2r12w1`), col
 [KRKRW](/stripes/krkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacIver](/tartans/m/ma/maciver-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

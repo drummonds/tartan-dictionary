@@ -6,6 +6,8 @@ This is the **Law Enforcement Officers' Memorial** sett — one scale-free propo
 [BBKGBBKY](/stripes/bbkgbbky/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Law Enforcement Officers' Memorial](/tartans/l/la/law-enforcement-officers-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

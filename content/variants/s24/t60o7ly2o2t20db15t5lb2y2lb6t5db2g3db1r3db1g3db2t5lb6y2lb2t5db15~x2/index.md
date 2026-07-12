@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Commonwealth Bid"
+  url: "/tartans/c/co/commonwealth-bid/"
 - name: "Commonwealth Bid (Corporate)"
   url: "/setts/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGWBBGBRBGBBWGWBBBRYRB](/stripes/bbwgwbbgbrbgbbwgwbbbryrb/).
+
+Part of the [Commonwealth Bid](/tartans/c/co/commonwealth-bid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

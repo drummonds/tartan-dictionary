@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wishart Dress"
-  url: "/tartans/wishart-dress/"
+  url: "/tartans/w/wi/wishart-dress/"
 - name: "Wishart Dress"
   url: "/setts/k7dbi4r31db3y2db27lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7dbi4r31db3y2db27lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBRBK](/stripes/brbgbwbgbrbk/).
 
-Part of the [Wishart Dress](/tartans/wishart-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wishart Dress](/tartans/w/wi/wishart-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

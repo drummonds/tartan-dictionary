@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.230"
+  url: "/tartans/w/wi/wilson-s-no-230/"
+- name: "Wilson's No.230"
   url: "/setts/r4k2db16k17dg16k2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k2db16k17dg16k2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGKGKBKR](/stripes/kbkgkgkgkbkr/).
+
+Part of the [Wilson's No.230](/tartans/w/wi/wilson-s-no-230/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

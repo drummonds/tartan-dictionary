@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacKerrell"
+  url: "/clan/mackerrell/"
+- name: "MacKerrell of Hillhouse"
+  url: "/families/mackerrell-of-hillhouse/"
+- name: "MacKerrell of Hillhouse Hunting"
+  url: "/tartans/m/ma/mackerrell-of-hillhouse-hunting/"
 - name: "MacKerrell of Hillhouse Htg Family Tartan"
   url: "/setts/dbi28db49y3db49dbi28w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi28db49y3db49dbi28w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBW](/stripes/bbgbbw/).
+
+Part of the [MacKerrell of Hillhouse Hunting](/tartans/m/ma/mackerrell-of-hillhouse-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

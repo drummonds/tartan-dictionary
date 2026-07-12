@@ -7,7 +7,7 @@ This is the **Ledford** sett — one scale-free proportion (`g9n4dy1`), colour o
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1987**.
 
-Part of the [Ledford](/tartans/ledford/) tartan — the named design grouping this sett with its kin.
+Part of the [Ledford](/tartans/l/le/ledford/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

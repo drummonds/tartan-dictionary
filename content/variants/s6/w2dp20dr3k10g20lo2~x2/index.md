@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Morris"
+  url: "/clan/morris/"
+- name: "Morris of Balgonie"
+  url: "/families/morris-of-balgonie/"
+- name: "Morris of Balgonie"
+  url: "/tartans/m/mo/morris-of-balgonie/"
 - name: "Morris of Balgonie (Personal)"
   url: "/setts/w2dp20dr3k10g20lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2dp20dr3k10g20lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBKGY](/stripes/wbbkgy/).
+
+Part of the [Morris of Balgonie](/tartans/m/mo/morris-of-balgonie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

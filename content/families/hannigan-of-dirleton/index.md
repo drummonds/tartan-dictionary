@@ -20,5 +20,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Hannigan of Dirleton tartan and all its setts →](/tartans/hannigan-of-dirleton/)
+[See the Hannigan of Dirleton tartan and all its setts →](/tartans/h/ha/hannigan-of-dirleton/)
 

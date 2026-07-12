@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Varrie Commemorative"
+  url: "/tartans/v/va/varrie-commemorative/"
 - name: "Varrie Commemorative Tartan"
   url: "/setts/lb9db1w1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb9db1w1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBW](/stripes/gwbw/).
+
+Part of the [Varrie Commemorative](/tartans/v/va/varrie-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

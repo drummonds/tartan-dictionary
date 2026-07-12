@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Uist"
+  url: "/tartans/u/ui/uist/"
 - name: "Uist, Green (Dance)"
   url: "/setts/g3r2g27dg3w30dg2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3r2g27dg3w30dg2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGWGW](/stripes/grggwgw/).
+
+Part of the [Uist](/tartans/u/ui/uist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ This is the **Hanna Personal Tartan** sett — one scale-free proportion (`k8w13
 [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Hanna](/tartans/hanna-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hanna](/tartans/h/ha/hanna-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

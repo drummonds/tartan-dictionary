@@ -6,6 +6,8 @@ This is the **Bell's Whisky (SA)** sett — one scale-free proportion (`dg10w2dg
 [GWGKGKGKBKBY](/stripes/gwgkgkgkbkby/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Bell's Whisky](/tartans/b/be/bell-s-whisky-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

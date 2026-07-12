@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black Spirit"
+  url: "/tartans/b/bl/black-spirit/"
 - name: "Black Spirit Fashion Tartan"
   url: "/setts/k17n4k13n4k3n45k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k17n4k13n4k3n45k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBK](/stripes/kbkbkbk/).
+
+Part of the [Black Spirit](/tartans/b/bl/black-spirit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

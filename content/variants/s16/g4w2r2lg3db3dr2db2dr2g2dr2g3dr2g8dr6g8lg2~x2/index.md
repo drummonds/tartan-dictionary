@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Missouri"
+  url: "/tartans/m/mi/missouri/"
 - name: "Missouri (Proposed)"
   url: "/setts/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRYBBBBGBGBGBGY](/stripes/gwrybbbbgbgbgbgy/).
+
+Part of the [Missouri](/tartans/m/mi/missouri/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

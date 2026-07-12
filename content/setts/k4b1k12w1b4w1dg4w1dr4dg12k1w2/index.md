@@ -6,6 +6,8 @@ This is the **Glenfalloch** sett — one scale-free proportion (`k4b1k12w1b4w1dg
 [KBKWBWGWBGKW](/stripes/kbkwbwgwbgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glenfalloch](/tartans/g/gl/glenfalloch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

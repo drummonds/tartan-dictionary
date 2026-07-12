@@ -1,0 +1,31 @@
+---
+title: "LS Curling"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GBKGKGKKBGBGKKKBKG](/stripes/gbkgkgkkbgbgkkkbkg/) — the page of every tartan sharing this colour sequence.
+
+The **LS Curling** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2/">LS Curling</a></td><td><code>DY/4 DB8 Ki4 DG50 Ki8 DG4 Ki8 K20 DB8 DG4 DB8 DG22 Ki4 K4 Ki48 DB8 Ki4 DY/4</code></td><td>432</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2/"><img src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/sett.png" alt="LS Curling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">432</div><div class="nn-name nn-base"><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/">LS Curling</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259&amp;base=dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000" title="compare in the TTD">3.29</a></div><div class="nn-threads nn-far2">345</div><div class="nn-name nn-far2"><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/">79th Regiment (Military)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275&amp;base=dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000" title="compare in the TTD">3.45</a></div><div class="nn-threads nn-far2">432</div><div class="nn-name nn-far2"><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/">LS Curling</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg13dt2k2dt2dg13g4dt14o2dt14g4k12dt2dg2dt2dg2dt2k12~x2~dt1204274-k0604259-g1903114&amp;base=dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000" title="compare in the TTD">3.55</a></div><div class="nn-threads nn-far2">366</div><div class="nn-name nn-far2"><a href="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~db1204274-k0604259-g1903114/">National Trust for Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~db1204274-k0604259-g1903114/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2~x2&amp;base=dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000" title="compare in the TTD">3.68</a></div><div class="nn-threads nn-far2">354</div><div class="nn-name nn-far2"><a href="/variants/s16/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2~x2/">Strathmore (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/"><circle cx="319.6" cy="170.7" r="4" fill="#3465a4"><title>79th Regiment (Military)</title></circle></a><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/"><circle cx="265.2" cy="154.0" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><a href="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~db1204274-k0604259-g1903114/"><circle cx="262.6" cy="210.3" r="4" fill="#3465a4"><title>National Trust for Scotland</title></circle></a><a href="/variants/s16/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2~x2/"><circle cx="273.0" cy="140.1" r="4" fill="#3465a4"><title>Strathmore (District)</title></circle></a><circle cx="281.4" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

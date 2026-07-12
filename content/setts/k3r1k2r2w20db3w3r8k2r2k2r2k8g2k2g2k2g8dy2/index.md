@@ -6,7 +6,7 @@ This is the **Princess Beatrice Dress (1880)** sett — one scale-free proportio
 [GGKGKGKRKRKRWBWRKRK](/stripes/ggkgkgkrkrkrwbwrkrk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Princess Beatrice Dress](/tartans/princess-beatrice-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Princess Beatrice Dress](/tartans/p/pr/princess-beatrice-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

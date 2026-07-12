@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gorman, George"
-  url: "/tartans/gorman-george/"
+  url: "/tartans/g/go/gorman-george/"
 - name: "Gorman, George (Personal)"
   url: "/setts/dg9dgi1dp2dgi1db4r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg9dgi1dp2dgi1db4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBR](/stripes/ggbgbr/).
 
-Part of the [Gorman, George](/tartans/gorman-george/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gorman, George](/tartans/g/go/gorman-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

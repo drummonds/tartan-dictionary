@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLaren Dress"
-  url: "/tartans/maclaren-dress-2/"
+  url: "/tartans/m/ma/maclaren-dress-2/"
 - name: "MacLaren Dress (Clan)"
   url: "/setts/db2w12k8g8r2g8k1lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2w12k8g8r2g8k1lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGRGKY](/stripes/bwkgrgky/).
 
-Part of the [MacLaren Dress](/tartans/maclaren-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLaren Dress](/tartans/m/ma/maclaren-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Marchmont (Personal)** sett — one scale-free proportion (`db12k1
 [BKGKBGBKGKBK](/stripes/bkgkbgbkgkbk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Marchmont](/tartans/m/ma/marchmont/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

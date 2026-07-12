@@ -6,6 +6,8 @@ This is the **Edinburgh and Lothian Tourist Board** sett — one scale-free prop
 [KBRBKBR](/stripes/kbrbkbr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Edinburgh and Lothian Tourist Board](/tartans/e/ed/edinburgh-and-lothian-tourist-board/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

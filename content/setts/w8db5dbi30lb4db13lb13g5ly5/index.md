@@ -6,6 +6,8 @@ This is the **Waterford County Crest (Fashion)** sett — one scale-free proport
 [WBBWBWGY](/stripes/wbbwbwgy/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Waterford County Crest](/tartans/w/wa/waterford-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

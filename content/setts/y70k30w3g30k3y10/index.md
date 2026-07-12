@@ -6,6 +6,8 @@ This is the **Jacobite #2** sett — one scale-free proportion (`y70k30w3g30k3y1
 [GKGWKG](/stripes/gkgwkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Jacobite](/tartans/j/ja/jacobite/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

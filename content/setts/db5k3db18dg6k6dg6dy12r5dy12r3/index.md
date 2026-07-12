@@ -6,6 +6,8 @@ This is the **Longford, County** sett — one scale-free proportion (`db5k3db18d
 [BKBGKGGRGR](/stripes/bkbgkggrgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Longford, County](/tartans/l/lo/longford-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

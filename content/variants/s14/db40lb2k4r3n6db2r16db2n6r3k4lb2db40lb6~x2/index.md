@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Leonards"
+  url: "/tartans/s/st/st-leonards-2/"
+- name: "St. Leonards"
   url: "/setts/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRBBRBBRKWBW](/stripes/bwkrbbrbbrkwbw/).
+
+Part of the [St. Leonards](/tartans/s/st/st-leonards-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

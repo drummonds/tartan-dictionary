@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Furnishing"
+  url: "/tartans/u/un/unidentified-furnishing-2/"
+- name: "Unidentified Furnishing"
   url: "/setts/db24k6lo4k6lb4k6g24dr48db5dr6k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24k6lo4k6lb4k6g24dr48db5dr6k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKWKGBBBK](/stripes/bkykwkgbbbk/).
+
+Part of the [Unidentified Furnishing](/tartans/u/un/unidentified-furnishing-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

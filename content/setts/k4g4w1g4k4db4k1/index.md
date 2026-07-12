@@ -7,7 +7,7 @@ This is the **Graham of Montrose** sett — one scale-free proportion (`k4g4w1g4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [Graham of Montrose](/tartans/graham-of-montrose-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Graham of Montrose](/tartans/g/gr/graham-of-montrose-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

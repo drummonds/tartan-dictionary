@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Storm"
+  url: "/tartans/h/hi/highland-storm/"
 - name: "Highland Storm (Fashion)"
   url: "/setts/n43k2n2ki1n1k11n2ki2n1lb1n20w4n7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n43k2n2ki1n1k11n2ki2n1lb1n20w4n7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBWBWB](/stripes/bkbkbkbkbwbwb/).
+
+Part of the [Highland Storm](/tartans/h/hi/highland-storm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mitsukoshi"
+  url: "/tartans/m/mi/mitsukoshi-2/"
 - name: "Mitsukoshi (Corporate)"
   url: "/setts/lb12k3w3k3lb13t6k17r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb12k3w3k3lb13t6k17r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBWKWKW](/stripes/rkbwkwkw/).
+
+Part of the [Mitsukoshi](/tartans/m/mi/mitsukoshi-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

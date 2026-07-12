@@ -6,6 +6,8 @@ This is the **Robertson - 1988 (Corporate)** sett — one scale-free proportion 
 [RBRBRGR](/stripes/rbrbrgr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Robertson](/tartans/r/ro/robertson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

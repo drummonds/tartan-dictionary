@@ -6,6 +6,8 @@ This is the **De Clercq, Christian Family (Belgium)** sett — one scale-free pr
 [BBBRBRBWBWGWGB](/stripes/bbbrbrbwbwgwgb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [De Clercq, Christian](/tartans/d/de/de-clercq-christian-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

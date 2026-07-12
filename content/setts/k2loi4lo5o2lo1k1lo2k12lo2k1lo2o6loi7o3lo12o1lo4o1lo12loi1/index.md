@@ -6,6 +6,8 @@ This is the **Highland Aircraft** sett — one scale-free proportion (`k2loi4lo5
 [KYYRYKYKYKYRYRYRYRYY](/stripes/kyyrykykykyryryryryy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Highland Aircraft](/tartans/h/hi/highland-aircraft-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

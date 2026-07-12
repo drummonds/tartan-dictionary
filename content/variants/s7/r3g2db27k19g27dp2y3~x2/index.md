@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Christian Hunting"
+  url: "/tartans/c/ch/christian-hunting/"
 - name: "Christian Hunting (Personal)"
   url: "/setts/r3g2db27k19g27dp2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g2db27k19g27dp2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKBGR](/stripes/gbgkbgr/).
+
+Part of the [Christian Hunting](/tartans/c/ch/christian-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

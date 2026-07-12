@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCruden, Raymond"
+  url: "/tartans/m/mc/mccruden-raymond-2/"
 - name: "McCruden, Raymond (Personal)"
   url: "/setts/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKKKBKGKBKKKW](/stripes/kkkkkkbkgkbkkkw/).
+
+Part of the [McCruden, Raymond](/tartans/m/mc/mccruden-raymond-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

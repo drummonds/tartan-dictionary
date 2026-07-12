@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's Blanket Pattern"
-  url: "/tartans/wilson-s-blanket-pattern/"
+  url: "/tartans/w/wi/wilson-s-blanket-pattern/"
 - name: "Wilsons' Blanket Pattern (Artefact)"
   url: "/setts/w80k2r19w2dg19r22w2r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w80k2r19w2dg19r22w2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
-Part of the [Wilson's Blanket Pattern](/tartans/wilson-s-blanket-pattern/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wilson's Blanket Pattern](/tartans/w/wi/wilson-s-blanket-pattern/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

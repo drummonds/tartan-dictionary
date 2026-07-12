@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunedin Chapter"
-  url: "/tartans/dunedin-chapter/"
+  url: "/tartans/d/du/dunedin-chapter/"
 - name: "Dunedin Chapter (Corporate)"
   url: "/setts/lb39g3lb3g20k3g20k3g3k20r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb39g3lb3g20k3g20k3g3k20r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKGWGW](/stripes/rkgkgkgwgw/).
 
-Part of the [Dunedin Chapter](/tartans/dunedin-chapter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dunedin Chapter](/tartans/d/du/dunedin-chapter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

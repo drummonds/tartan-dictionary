@@ -7,6 +7,8 @@ This is the **Urbino** sett — one scale-free proportion (`y3k1g22k20dp20g2dp2g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1983**.
 
+Part of the [Urbino](/tartans/u/ur/urbino/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

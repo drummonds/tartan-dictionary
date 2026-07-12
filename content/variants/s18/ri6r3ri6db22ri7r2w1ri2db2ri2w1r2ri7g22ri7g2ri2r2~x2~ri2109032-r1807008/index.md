@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacColl"
+  url: "/tartans/m/ma/maccoll-4/"
 - name: "MacColl Hunting"
   url: "/setts/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
+
+Part of the [MacColl](/tartans/m/ma/maccoll-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

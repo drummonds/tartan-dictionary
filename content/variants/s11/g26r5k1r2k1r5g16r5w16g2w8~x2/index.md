@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Livingston"
+  url: "/tartans/l/li/livingston-3/"
 - name: "Livingston (Personal)"
   url: "/setts/g26r5k1r2k1r5g16r5w16g2w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g26r5k1r2k1r5g16r5w16g2w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRGRWGW](/stripes/grkrkrgrwgw/).
+
+Part of the [Livingston](/tartans/l/li/livingston-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Process Safety Solutions Ltd"
+  url: "/tartans/p/pr/process-safety-solutions-ltd/"
+- name: "Process Safety Solutions Ltd"
   url: "/setts/r4k11n8dg2n8k13dg2k13r5k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k11n8dg2n8k13dg2k13r5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKBGBKR](/stripes/krkgkbgbkr/).
+
+Part of the [Process Safety Solutions Ltd](/tartans/p/pr/process-safety-solutions-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

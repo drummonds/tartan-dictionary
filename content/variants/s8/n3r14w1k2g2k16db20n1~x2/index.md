@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vinther, Niels Christian"
+  url: "/tartans/v/vi/vinther-niels-christian/"
 - name: "Vinther, Niels Christian (Personal)"
   url: "/setts/n3r14w1k2g2k16db20n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3r14w1k2g2k16db20n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKWRB](/stripes/bbkgkwrb/).
+
+Part of the [Vinther, Niels Christian](/tartans/v/vi/vinther-niels-christian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

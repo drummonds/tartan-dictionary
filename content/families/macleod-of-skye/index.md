@@ -18,5 +18,5 @@ A family of [Clan MacLeod](/clan/macleod/).
 </tbody>
 </table>
 
-[See the MacLeod of Skye tartan and all its setts →](/tartans/macleod-of-skye/)
+[See the MacLeod of Skye tartan and all its setts →](/tartans/m/ma/macleod-of-skye/)
 

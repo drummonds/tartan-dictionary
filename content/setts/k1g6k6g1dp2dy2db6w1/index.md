@@ -6,6 +6,8 @@ This is the **Hebridean Celebration** sett — one scale-free proportion (`k1g6k
 [KGKGBGBW](/stripes/kgkgbgbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Hebridean Celebration](/tartans/h/he/hebridean-celebration/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

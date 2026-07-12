@@ -6,6 +6,8 @@ This is the **Wallace Red Dress Tartan** sett — one scale-free proportion (`k3
 [KRKKW](/stripes/krkkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wallace Red Dress](/tartans/w/wa/wallace-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

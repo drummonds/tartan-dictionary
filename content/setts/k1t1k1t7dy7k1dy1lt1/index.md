@@ -6,7 +6,7 @@ This is the **Auld Lang Syne** sett — one scale-free proportion (`k1t1k1t7dy7k
 [KBKBGKGW](/stripes/kbkbgkgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Auld Lang Syne](/tartans/auld-lang-syne-6/) tartan — the named design grouping this sett with its kin.
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

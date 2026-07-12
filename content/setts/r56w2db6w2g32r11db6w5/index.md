@@ -6,7 +6,7 @@ This is the **Spens Family Tartan** sett — one scale-free proportion (`r56w2db
 [RWBWGRBW](/stripes/rwbwgrbw/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
-Part of the [Spens](/tartans/spens/) tartan — the named design grouping this sett with its kin.
+Part of the [Spens](/tartans/s/sp/spens/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

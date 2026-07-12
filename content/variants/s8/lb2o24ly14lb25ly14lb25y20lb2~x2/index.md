@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fraoch's Grian"
+  url: "/tartans/f/fr/fraoch-s-grian/"
 - name: "Froach's Grian"
   url: "/setts/lb2o24ly14lb25ly14lb25y20lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb2o24ly14lb25ly14lb25y20lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWYWYRW](/stripes/wgwywyrw/).
+
+Part of the [Fraoch's Grian](/tartans/f/fr/fraoch-s-grian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

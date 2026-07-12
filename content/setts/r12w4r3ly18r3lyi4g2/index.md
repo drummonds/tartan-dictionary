@@ -6,6 +6,8 @@ This is the **Golden Pheasant** sett — one scale-free proportion (`r12w4r3ly18
 [GYRYRWR](/stripes/gyryrwr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Golden Pheasant](/tartans/g/go/golden-pheasant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

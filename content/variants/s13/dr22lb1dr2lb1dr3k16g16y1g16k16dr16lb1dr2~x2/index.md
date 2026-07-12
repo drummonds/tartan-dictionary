@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Beartrap"
+  url: "/tartans/b/be/beartrap/"
 - name: "Beartrap (Military)"
   url: "/setts/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGGGKBWBWB](/stripes/bwbkgggkbwbwb/).
+
+Part of the [Beartrap](/tartans/b/be/beartrap/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

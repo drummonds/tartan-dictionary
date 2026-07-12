@@ -6,7 +6,7 @@ This is the **Casely (Name)** sett — one scale-free proportion (`r4g11k11g2db1
 [GBGKGR](/stripes/gbgkgr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Casely](/tartans/casely/) tartan — the named design grouping this sett with its kin.
+Part of the [Casely](/tartans/c/ca/casely/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

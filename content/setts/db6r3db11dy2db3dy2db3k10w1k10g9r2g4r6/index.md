@@ -6,6 +6,8 @@ This is the **Redgate in Connecticut (Ulster-Scots)** sett — one scale-free pr
 [BRBGBGBKWKGRGR](/stripes/brbgbgbkwkgrgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Redgate in Connecticut](/tartans/r/re/redgate-in-connecticut/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

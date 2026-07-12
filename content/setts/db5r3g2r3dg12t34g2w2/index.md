@@ -7,6 +7,8 @@ This is the **Moran (Wedding) (Personal)** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2003**.
 
+Part of the [Moran](/tartans/m/mo/moran-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

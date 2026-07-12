@@ -6,6 +6,8 @@ This is the **McGuigan, Julia (St Monans, Fife Name Tartan** sett — one scale-
 [GGGY](/stripes/gggy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [McGuigan, Julia (St Monans, Fife](/tartans/m/mc/mcguigan-julia-st-monans-fife/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

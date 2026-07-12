@@ -6,7 +6,7 @@ This is the **Westmeath** sett — one scale-free proportion (`g11r6db6o2g3o2db6
 [GRBRGRBRGGRGBR](/stripes/grbrgrbrggrgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Westmeath](/tartans/westmeath/) tartan — the named design grouping this sett with its kin.
+Part of the [Westmeath](/tartans/w/we/westmeath/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

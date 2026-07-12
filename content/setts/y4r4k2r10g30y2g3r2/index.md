@@ -6,6 +6,8 @@ This is the **Beard** sett — one scale-free proportion (`y4r4k2r10g30y2g3r2`),
 [GRKRGGGR](/stripes/grkrgggr/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
+Part of the [Beard](/tartans/b/be/beard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

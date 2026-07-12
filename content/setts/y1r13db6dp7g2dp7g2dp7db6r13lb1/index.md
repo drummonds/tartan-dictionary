@@ -6,6 +6,8 @@ This is the **McMurchie Family, John and Jessie (Personal)** sett — one scale-
 [GRBBGBGBBRW](/stripes/grbbgbgbbrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [McMurchie](/tartans/m/mc/mcmurchie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

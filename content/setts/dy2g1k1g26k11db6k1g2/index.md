@@ -6,6 +6,8 @@ This is the **Mackie (2016)** sett — one scale-free proportion (`dy2g1k1g26k11
 [GGKGKBKG](/stripes/ggkgkbkg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Mackie](/tartans/m/ma/mackie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

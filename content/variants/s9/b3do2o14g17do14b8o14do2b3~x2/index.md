@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Monaghan"
+  url: "/tartans/m/mo/monaghan/"
+- name: "Monaghan"
   url: "/setts/b3do2o14g17do14b8o14do2b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b3do2o14g17do14b8o14do2b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBBGRBB](/stripes/bbrbbgrbb/).
+
+Part of the [Monaghan](/tartans/m/mo/monaghan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

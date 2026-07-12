@@ -6,6 +6,8 @@ This is the **Douglas of Roxburgh** sett — one scale-free proportion (`k6db3dg
 [GRGBK](/stripes/grgbk/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Douglas of Roxburgh](/tartans/d/do/douglas-of-roxburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

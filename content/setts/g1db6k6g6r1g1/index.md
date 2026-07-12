@@ -6,6 +6,8 @@ This is the **Callum Beg (Fashion)** sett — one scale-free proportion (`g1db6k
 [GBKGRG](/stripes/gbkgrg/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Callum Beg](/tartans/c/ca/callum-beg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Abernethy (Colerain USA) (Personal)** sett — one scale-free prop
 [YBRGRGY](/stripes/ybrgrgy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Abernethy](/tartans/a/ab/abernethy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

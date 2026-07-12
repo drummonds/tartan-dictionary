@@ -6,6 +6,8 @@ This is the **Pilette of Kinnear (Personal)** sett — one scale-free proportion
 [KRKGKGKGRGRWRGKGKGKRK](/stripes/krkgkgkgrgrwrgkgkgkrk/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Pilette of Kinnear](/tartans/p/pi/pilette-of-kinnear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

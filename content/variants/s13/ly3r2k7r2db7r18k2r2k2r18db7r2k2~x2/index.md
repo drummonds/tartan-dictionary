@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brad Majors"
-  url: "/tartans/brad-majors/"
+  url: "/tartans/b/br/brad-majors/"
 - name: "Brad Majors (Fashion)"
   url: "/setts/ly3r2k7r2db7r18k2r2k2r18db7r2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly3r2k7r2db7r18k2r2k2r18db7r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRKRKRBRKRY](/stripes/krbrkrkrbrkry/).
 
-Part of the [Brad Majors](/tartans/brad-majors/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brad Majors](/tartans/b/br/brad-majors/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

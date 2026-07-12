@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Power"
+  url: "/tartans/s/sc/scottish-power-2/"
+- name: "Scottish Power"
   url: "/setts/dg5g32dp5k10dg8dr3dg8dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5g32dp5k10dg8dr3dg8dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKBGG](/stripes/bgbgkbgg/).
+
+Part of the [Scottish Power](/tartans/s/sc/scottish-power-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

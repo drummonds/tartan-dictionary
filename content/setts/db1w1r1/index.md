@@ -7,6 +7,8 @@ This is the **Usa** sett — one scale-free proportion (`db1w1r1`), colour order
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
+Part of the [Aquascutum](/tartans/a/aq/aquascutum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

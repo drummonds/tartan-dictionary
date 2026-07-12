@@ -6,6 +6,8 @@ This is the **Smeaton Hunting (Name)** sett — one scale-free proportion (`k6g4
 [GKYKGKGWGK](/stripes/gkykgkgwgk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Smeaton Hunting](/tartans/s/sm/smeaton-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Prince David #1 (Royal)** sett — one scale-free proportion (`g3d
 [GGGGYGY](/stripes/ggggygy/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Prince David](/tartans/p/pr/prince-david-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

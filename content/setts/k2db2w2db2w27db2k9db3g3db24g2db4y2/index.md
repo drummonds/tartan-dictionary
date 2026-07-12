@@ -6,6 +6,8 @@ This is the **Yarrow Turquoise Dress Tartan** sett — one scale-free proportion
 [GBGBGBKBWBWBK](/stripes/gbgbgbkbwbwbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Yarrow Turquoise Dress](/tartans/y/ya/yarrow-turquoise-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Lennie** sett — one scale-free proportion (`k2dg10y2k9dp8dg2`), 
 [GBKGGK](/stripes/gbkggk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Lennie](/tartans/lennie/) tartan — the named design grouping this sett with its kin.
+Part of the [Lennie](/tartans/l/le/lennie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hawkes, Norman"
+  url: "/tartans/h/ha/hawkes-norman/"
 - name: "Hawkes, Norman (Personal)"
   url: "/setts/g7w4k21n16db16r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7w4k21n16db16r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKBBR](/stripes/gwkbbr/).
+
+Part of the [Hawkes, Norman](/tartans/h/ha/hawkes-norman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Craik of Assington (Personal)** sett — one scale-free proportion
 [BBBGBGKY](/stripes/bbbgbgky/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Craik](/tartans/c/cr/craik/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

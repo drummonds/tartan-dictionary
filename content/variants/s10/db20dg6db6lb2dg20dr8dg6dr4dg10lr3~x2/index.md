@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacConnell"
-  url: "/tartans/macconnell/"
+  url: "/tartans/m/ma/macconnell/"
 - name: "MacConnell"
   url: "/setts/db20dg6db6lb2dg20dr8dg6dr4dg10lr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20dg6db6lb2dg20dr8dg6dr4dg10lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWGBGBGY](/stripes/bgbwgbgbgy/).
 
-Part of the [MacConnell](/tartans/macconnell/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacConnell](/tartans/m/ma/macconnell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

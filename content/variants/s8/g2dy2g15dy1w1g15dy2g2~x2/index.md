@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Hunting"
-  url: "/tartans/bannockbane-hunting-2/"
+  url: "/tartans/b/ba/bannockbane-hunting-2/"
 - name: "Bannockbane Hunting Trade Tartan"
   url: "/setts/g2dy2g15dy1w1g15dy2g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2dy2g15dy1w1g15dy2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWGGG](/stripes/ggggwggg/).
 
-Part of the [Bannockbane Hunting](/tartans/bannockbane-hunting-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bannockbane Hunting](/tartans/b/ba/bannockbane-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

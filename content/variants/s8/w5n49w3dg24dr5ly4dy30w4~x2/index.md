@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of New Mexico"
+  url: "/tartans/s/st/state-seal-of-new-mexico/"
 - name: "State Seal of New Mexico (Fashion)"
   url: "/setts/w5n49w3dg24dr5ly4dy30w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5n49w3dg24dr5ly4dy30w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGBYGW](/stripes/wbwgbygw/).
+
+Part of the [State Seal of New Mexico](/tartans/s/st/state-seal-of-new-mexico/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

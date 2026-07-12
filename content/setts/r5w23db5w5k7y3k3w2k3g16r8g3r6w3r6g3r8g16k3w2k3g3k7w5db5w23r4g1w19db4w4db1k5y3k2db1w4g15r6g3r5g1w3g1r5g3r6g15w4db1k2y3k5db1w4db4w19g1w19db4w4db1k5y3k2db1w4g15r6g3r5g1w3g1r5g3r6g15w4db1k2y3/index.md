@@ -6,6 +6,8 @@ This is the **Victoria Highland Dress #2** sett — one scale-free proportion (`
 [GKBWGRGRGWGRGRGWBKGKBWBWGWBWBKGKBWGRGRGWGRGRGWBKGKBWBWGRWBWKGKWKGRGRWRGRGKWKGKWBWR](/stripes/gkbwgrgrgwgrgrgwbkgkbwbwgwbwbkgkbwgrgrgwgrgrgwbkgkbwbwgrwbwkgkwkgrgrwrgrgkwkgkwbwr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Victoria Highland Dress](/tartans/v/vi/victoria-highland-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

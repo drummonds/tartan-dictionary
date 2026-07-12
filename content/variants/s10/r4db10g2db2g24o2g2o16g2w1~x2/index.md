@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hilton Hotel Hong Kong"
+  url: "/tartans/h/hi/hilton-hotel-hong-kong/"
 - name: "Kinfauns Castle"
   url: "/setts/r4db10g2db2g24o2g2o16g2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4db10g2db2g24o2g2o16g2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGRGRGW](/stripes/rbgbgrgrgw/).
+
+Part of the [Hilton Hotel Hong Kong](/tartans/h/hi/hilton-hotel-hong-kong/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

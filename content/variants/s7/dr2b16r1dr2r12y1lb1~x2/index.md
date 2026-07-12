@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spragg, Andrew"
+  url: "/tartans/s/sp/spragg-andrew/"
+- name: "Spragg, Andrew"
   url: "/setts/dr2b16r1dr2r12y1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2b16r1dr2r12y1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRGW](/stripes/bbrbrgw/).
+
+Part of the [Spragg, Andrew](/tartans/s/sp/spragg-andrew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

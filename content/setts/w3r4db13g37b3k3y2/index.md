@@ -6,7 +6,7 @@ This is the **Washington** sett — one scale-free proportion (`w3r4db13g37b3k3y
 [GKBGBRW](/stripes/gkbgbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Washington](/tartans/washington/) tartan — the named design grouping this sett with its kin.
+Part of the [Washington](/tartans/w/wa/washington/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Christopher's School"
+  url: "/tartans/s/st/st-christopher-s-school/"
 - name: "St. Christopher's School (Corporate)"
   url: "/setts/lb20w2lb5k2db10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb20w2lb5k2db10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWWW](/stripes/rbkwww/).
+
+Part of the [St. Christopher's School](/tartans/s/st/st-christopher-s-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

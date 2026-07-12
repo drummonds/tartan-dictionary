@@ -6,7 +6,7 @@ This is the **Heirloom Red Alba** sett — one scale-free proportion (`r4y2r34db
 [GRBGBBBWBBBGBRGR](/stripes/grbgbbbwbbbgbrgr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Heirloom Red Alba](/tartans/heirloom-red-alba/) tartan — the named design grouping this sett with its kin.
+Part of the [Heirloom Red Alba](/tartans/h/he/heirloom-red-alba/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

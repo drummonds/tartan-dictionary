@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
+- name: "MacAulay of Ardincaple"
+  url: "/families/macaulay-of-ardincaple/"
+- name: "MacAulay of Ardincaple"
+  url: "/tartans/m/ma/macaulay-of-ardincaple/"
 - name: "MacAulay of Ardincaple (Clan)"
   url: "/setts/r50db3g6db1r3db1g8k1lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50db3g6db1r3db1g8k1lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
+
+Part of the [MacAulay of Ardincaple](/tartans/m/ma/macaulay-of-ardincaple/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

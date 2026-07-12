@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stratford City Police PB"
+  url: "/tartans/s/st/stratford-city-police-pb/"
 - name: "Stratford City Police PB (Corp)"
   url: "/setts/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYRBWKWBYBKW](/stripes/rbyrbwkwbybkw/).
+
+Part of the [Stratford City Police PB](/tartans/s/st/stratford-city-police-pb/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

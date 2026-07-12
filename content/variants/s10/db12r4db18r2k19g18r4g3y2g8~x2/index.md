@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Biskup"
+  url: "/tartans/b/bi/biskup/"
 - name: "Biskup (Personal)"
   url: "/setts/db12r4db18r2k19g18r4g3y2g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12r4db18r2k19g18r4g3y2g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRKGRGGG](/stripes/brbrkgrggg/).
+
+Part of the [Biskup](/tartans/b/bi/biskup/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

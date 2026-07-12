@@ -6,6 +6,8 @@ This is the **Prince Edward Island, Dress** sett — one scale-free proportion (
 [GBGBGBWBY](/stripes/gbgbgbwby/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Prince Edward Island, Dress](/tartans/p/pr/prince-edward-island-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

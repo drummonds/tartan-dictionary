@@ -6,6 +6,8 @@ This is the **Tyrone County Crest (Fashion)** sett — one scale-free proportion
 [BKGYKBKWKBKW](/stripes/bkgykbkwkbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Tyrone County Crest](/tartans/t/ty/tyrone-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

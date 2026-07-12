@@ -6,6 +6,8 @@ This is the **George Heriots** sett — one scale-free proportion (`y3k1n24k35w3
 [GKBKW](/stripes/gkbkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [George Heriots](/tartans/g/ge/george-heriots/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Fermanagh County Crest (Fashion)** sett — one scale-free proport
 [BWKBKYKGKW](/stripes/bwkbkykgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Fermanagh County Crest](/tartans/f/fe/fermanagh-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

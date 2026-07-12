@@ -6,6 +6,8 @@ This is the **McNair (2016)** sett — one scale-free proportion (`dr2r1dg1r1g1r
 [BRGRGRKRBRGGGGGGGBKRGRKR](/stripes/brgrgrkrbrgggggggbkrgrkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [McNair](/tartans/m/mc/mcnair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

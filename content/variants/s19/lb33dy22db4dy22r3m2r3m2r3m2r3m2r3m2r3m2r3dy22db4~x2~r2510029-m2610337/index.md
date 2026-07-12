@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Commonwealth Games Scotland, Team Scotland 2014"
+  url: "/tartans/c/co/commonwealth-games-scotland-team-scotland-2014/"
+- name: "Commonwealth Games Scotland, Team Scotland 2014"
   url: "/setts/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRRRRRRRRRRRRRGBGW](/stripes/bgrrrrrrrrrrrrrgbgw/).
+
+Part of the [Commonwealth Games Scotland, Team Scotland 2014](/tartans/c/co/commonwealth-games-scotland-team-scotland-2014/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

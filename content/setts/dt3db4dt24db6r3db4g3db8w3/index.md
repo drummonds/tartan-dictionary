@@ -6,6 +6,8 @@ This is the **Scozia (Fashion)** sett — one scale-free proportion (`dt3db4dt24
 [BBBBRBGBW](/stripes/bbbbrbgbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Scozia](/tartans/s/sc/scozia-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

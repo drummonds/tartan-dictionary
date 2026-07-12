@@ -6,6 +6,8 @@ This is the **Shiel, Claret (Dance)** sett — one scale-free proportion (`w8dr5
 [BBWRBBW](/stripes/bbwrbbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Shiel Claret](/tartans/s/sh/shiel-claret/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Timespan"
+  url: "/tartans/t/ti/timespan/"
 - name: "Timespan (MacKay) Corporate Tartan"
   url: "/setts/n6r1k6r1g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n6r1k6r1g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRG](/stripes/brkrg/).
+
+Part of the [Timespan](/tartans/t/ti/timespan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

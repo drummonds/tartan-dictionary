@@ -6,6 +6,8 @@ This is the **Bell's (Corporate)** sett — one scale-free proportion (`y6db8dr2
 [GBBBGBGBBBG](/stripes/gbbbgbgbbbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bell's](/tartans/b/be/bell-s-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

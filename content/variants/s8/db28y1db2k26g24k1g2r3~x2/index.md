@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie of Inverarity"
+  url: "/families/ogilvie-of-inverarity/"
+- name: "Ogilvie of Inverarity"
+  url: "/tartans/o/og/ogilvie-of-inverarity/"
 - name: "Ogilvie of Inverarity (V.S.)"
   url: "/setts/db28y1db2k26g24k1g2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28y1db2k26g24k1g2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKGRGKGKBG](/stripes/bgbkgkgrgkgkbg/).
+
+Part of the [Ogilvie of Inverarity](/tartans/o/og/ogilvie-of-inverarity/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

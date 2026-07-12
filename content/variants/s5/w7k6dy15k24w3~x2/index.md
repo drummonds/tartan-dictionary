@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longford County, Crest Range"
+  url: "/tartans/l/lo/longford-county-crest-range/"
+- name: "Longford County, Crest Range"
   url: "/setts/w7k6dy15k24w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w7k6dy15k24w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGKW](/stripes/wkgkw/).
+
+Part of the [Longford County, Crest Range](/tartans/l/lo/longford-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

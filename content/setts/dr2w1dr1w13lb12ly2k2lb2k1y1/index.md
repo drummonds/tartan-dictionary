@@ -6,6 +6,8 @@ This is the **Jong Nederland Born Union (Corp)** sett — one scale-free proport
 [BWBWWYKWKG](/stripes/bwbwwykwkg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Jong Nederland Born Union](/tartans/j/jo/jong-nederland-born-union/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

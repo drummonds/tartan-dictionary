@@ -6,6 +6,8 @@ This is the **Braes High School Falkirk (School)** sett — one scale-free propo
 [RKWRW](/stripes/rkwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Braes High School Falkirk](/tartans/b/br/braes-high-school-falkirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

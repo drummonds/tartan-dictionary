@@ -6,6 +6,8 @@ This is the **S3** sett — one scale-free proportion (`g30w2dr5`), colour order
 [BWG](/stripes/bwg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [S3](/tartans/s/s/s3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

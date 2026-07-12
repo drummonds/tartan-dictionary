@@ -6,6 +6,8 @@ This is the **U.S. Law Enforcement** sett — one scale-free proportion (`y4k3db
 [GKBBBBBBBR](/stripes/gkbbbbbbbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [U.S. Law Enforcement](/tartans/u/u/u-s-law-enforcement/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

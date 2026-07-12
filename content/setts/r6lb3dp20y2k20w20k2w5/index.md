@@ -6,6 +6,8 @@ This is the **Humming Bird (Fashion)** sett — one scale-free proportion (`r6lb
 [RWBGKWKW](/stripes/rwbgkwkw/). It is recorded as a single **variant**, below.
 First attested **~1973**.
 
+Part of the [Humming Bird](/tartans/h/hu/humming-bird/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

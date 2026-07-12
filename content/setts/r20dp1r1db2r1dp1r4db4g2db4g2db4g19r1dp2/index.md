@@ -6,7 +6,7 @@ This is the **Ladybird** sett — one scale-free proportion (`r20dp1r1db2r1dp1r4
 [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ladybird](/tartans/ladybird/) tartan — the named design grouping this sett with its kin.
+Part of the [Ladybird](/tartans/l/la/ladybird/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

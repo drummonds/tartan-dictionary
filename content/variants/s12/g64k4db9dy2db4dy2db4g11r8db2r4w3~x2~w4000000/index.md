@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sillars"
+  url: "/tartans/s/si/sillars/"
+- name: "Sillars"
   url: "/setts/g64k4db9dy2db4dy2db4g11r8db2r4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g64k4db9dy2db4dy2db4g11r8db2r4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGBGBGRBRWRBRGBGBGBK](/stripes/gkbgbgbgrbrwrbrgbgbgbk/).
+
+Part of the [Sillars](/tartans/s/si/sillars/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

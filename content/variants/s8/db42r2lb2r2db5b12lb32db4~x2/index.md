@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry Lavender"
+  url: "/tartans/l/lo/longniddry-lavender/"
 - name: "Longniddry Lavender (Dance)"
   url: "/setts/db42r2lb2r2db5b12lb32db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db42r2lb2r2db5b12lb32db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBBWB](/stripes/brwrbbwb/).
+
+Part of the [Longniddry Lavender](/tartans/l/lo/longniddry-lavender/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

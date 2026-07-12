@@ -6,7 +6,7 @@ This is the **Edinburgh, Military Tattoo dress** sett — one scale-free proport
 [KWBRBWKW](/stripes/kwbrbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Edinburgh Military Tattoo Dress](/tartans/edinburgh-military-tattoo-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh Military Tattoo Dress](/tartans/e/ed/edinburgh-military-tattoo-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

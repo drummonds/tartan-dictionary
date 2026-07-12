@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Skye, Isle of"
+  url: "/tartans/s/sk/skye-isle-of/"
+- name: "Skye, Isle of"
   url: "/setts/t45k10n2k2lo2k2n10t4k1t5lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t45k10n2k2lo2k2n10t4k1t5lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKYKBBKBYBKBBKYKBK](/stripes/bkbkykbbkbybkbbkykbk/).
+
+Part of the [Skye, Isle of](/tartans/s/sk/skye-isle-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

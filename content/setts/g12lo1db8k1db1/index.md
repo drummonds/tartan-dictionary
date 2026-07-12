@@ -6,6 +6,8 @@ This is the **Rowan (Personal)** sett — one scale-free proportion (`g12lo1db8k
 [BKBYG](/stripes/bkbyg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Rowan](/tartans/r/ro/rowan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Made in Scotland** sett — one scale-free proportion (`w3k9lb2k1l
 [BKWKWKWKWKWYWKWKWKWKWKW](/stripes/bkwkwkwkwkwywkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Made in Scotland](/tartans/m/ma/made-in-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

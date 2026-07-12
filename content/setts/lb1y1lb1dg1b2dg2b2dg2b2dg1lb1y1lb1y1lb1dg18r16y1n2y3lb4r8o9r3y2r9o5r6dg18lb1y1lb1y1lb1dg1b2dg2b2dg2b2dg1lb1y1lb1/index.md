@@ -6,6 +6,8 @@ This is the **New Brunswick, or Beaverbrook** sett — one scale-free proportion
 [WGWGBGBGBGWGWGWGRGBGWRRRGRRRGWGWGWGBGBGBGWGW](/stripes/wgwgbgbgbgwgwgwgrgbgwrrrgrrrgwgwgwgbgbgbgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [New Brunswick, or Beaverbrook](/tartans/n/ne/new-brunswick-or-beaverbrook-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

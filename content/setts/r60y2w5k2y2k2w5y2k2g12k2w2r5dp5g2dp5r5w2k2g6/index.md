@@ -6,6 +6,8 @@ This is the **MacBain** sett — one scale-free proportion (`r60y2w5k2y2k2w5y2k2
 [GKWRBGBRWKGKGWKGKWGR](/stripes/gkwrbgbrwkgkgwkgkwgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacBain](/tartans/m/ma/macbain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blairgowrie High School"
+  url: "/tartans/b/bl/blairgowrie-high-school/"
 - name: "Blairgowrie High School (SA)"
   url: "/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGRGKBR](/stripes/kbkbkbkgrgkbr/).
+
+Part of the [Blairgowrie High School](/tartans/b/bl/blairgowrie-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

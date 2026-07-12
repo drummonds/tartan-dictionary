@@ -6,6 +6,8 @@ This is the **Tahrir (Liberation)** sett — one scale-free proportion (`k5w4r15
 [KWRGKW](/stripes/kwrgkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Tahrir](/tartans/t/ta/tahrir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

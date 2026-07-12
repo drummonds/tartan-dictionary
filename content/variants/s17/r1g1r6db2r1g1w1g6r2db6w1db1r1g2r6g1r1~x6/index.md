@@ -10,7 +10,7 @@ crumbs:
 - name: "Reid of Straloch"
   url: "/families/reid-of-straloch/"
 - name: "Reid of Straloch"
-  url: "/tartans/reid-of-straloch/"
+  url: "/tartans/r/re/reid-of-straloch/"
 - name: "Reid of Straloch (Personal)"
   url: "/setts/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
 
-Part of the [Reid of Straloch](/tartans/reid-of-straloch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Reid of Straloch](/tartans/r/re/reid-of-straloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **Balmoral Gillies (Royal)** sett — one scale-free proportion (`lb
 [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balmoral Gillies](/tartans/b/ba/balmoral-gillies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

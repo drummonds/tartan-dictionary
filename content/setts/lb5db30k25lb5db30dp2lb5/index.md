@@ -6,7 +6,7 @@ This is the **Van Loo (Personal)** sett — one scale-free proportion (`lb5db30k
 [WBBWKBW](/stripes/wbbwkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Van Loo](/tartans/van-loo/) tartan — the named design grouping this sett with its kin.
+Part of the [Van Loo](/tartans/v/va/van-loo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

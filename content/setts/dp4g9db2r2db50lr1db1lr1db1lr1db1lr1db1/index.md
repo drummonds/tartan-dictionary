@@ -6,6 +6,8 @@ This is the **G8 Summit** sett — one scale-free proportion (`dp4g9db2r2db50lr1
 [BGBRBYBYBYBYB](/stripes/bgbrbybybybyb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [G8 Summit](/tartans/g/g/g8-summit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

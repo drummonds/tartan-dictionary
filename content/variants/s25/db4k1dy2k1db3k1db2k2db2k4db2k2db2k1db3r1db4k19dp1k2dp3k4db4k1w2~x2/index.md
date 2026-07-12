@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arnold"
+  url: "/tartans/a/ar/arnold/"
 - name: "Arnold (California)"
   url: "/setts/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKBKBKBKBKBRBKBKBKBKW](/stripes/bkgkbkbkbkbkbkbrbkbkbkbkw/).
+
+Part of the [Arnold](/tartans/a/ar/arnold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

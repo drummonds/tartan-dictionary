@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Tennessee"
+  url: "/tartans/s/st/state-seal-of-tennessee/"
 - name: "State Seal of Tennessee (Fashion)"
   url: "/setts/db70w6db21g10t27g4t4g1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db70w6db21g10t27g4t4g1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGBGR](/stripes/bwbgbgbgr/).
+
+Part of the [State Seal of Tennessee](/tartans/s/st/state-seal-of-tennessee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

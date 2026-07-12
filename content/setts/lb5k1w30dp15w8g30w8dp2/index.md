@@ -6,6 +6,8 @@ This is the **Shaw, Miss Rebecca (Personal)** sett — one scale-free proportion
 [BWGWBWKW](/stripes/bwgwbwkw/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Shaw, Miss Rebecca](/tartans/s/sh/shaw-miss-rebecca/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erskine, Lt"
+  url: "/tartans/e/er/erskine-lt/"
 - name: "Erskine, Lt Blue (Dance)"
   url: "/setts/w6lb2w29lb29w2lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6lb2w29lb29w2lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWWWWW](/stripes/wwwwww/).
+
+Part of the [Erskine, Lt](/tartans/e/er/erskine-lt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Westwood Metropolitan 1 (Fashion)** sett — one scale-free propor
 [BKGGGKGKGKGKGKGKGKBKBKBKRGRKG](/stripes/bkgggkgkgkgkgkgkgkbkbkbkrgrkg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Westwood Metropolitan 1](/tartans/w/we/westwood-metropolitan-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Queensland (District)** sett — one scale-free proportion (`w3lb4
 [RGWGGBWW](/stripes/rgwggbww/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Queensland](/tartans/queensland/) tartan — the named design grouping this sett with its kin.
+Part of the [Queensland](/tartans/q/qu/queensland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

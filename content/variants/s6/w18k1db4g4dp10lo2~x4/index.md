@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edgar-Feyen"
+  url: "/tartans/e/ed/edgar-feyen/"
+- name: "Edgar-Feyen"
   url: "/setts/w18k1db4g4dp10lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w18k1db4g4dp10lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBGBY](/stripes/wkbgby/).
+
+Part of the [Edgar-Feyen](/tartans/e/ed/edgar-feyen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

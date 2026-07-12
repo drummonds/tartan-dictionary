@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Australian Defence Force Academy (Co"
+  url: "/tartans/a/au/australian-defence-force-academy-co/"
+- name: "Australian Defence Force Academy (Co"
   url: "/setts/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWKGKRBRGKWR](/stripes/gkwkwkgkrbrgkwr/).
+
+Part of the [Australian Defence Force Academy (Co](/tartans/a/au/australian-defence-force-academy-co/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

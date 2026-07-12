@@ -6,6 +6,8 @@ This is the **Special Saffron Tartan** sett — one scale-free proportion (`dg21
 [GGGW](/stripes/gggw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Special Saffron](/tartans/s/sp/special-saffron-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified from Winnipeg"
+  url: "/tartans/u/un/unidentified-from-winnipeg-2/"
+- name: "Unidentified from Winnipeg"
   url: "/setts/dg24b8do2b8do2b8o15g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg24b8do2b8do2b8o15g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBRG](/stripes/gbbbbbrg/).
+
+Part of the [Unidentified from Winnipeg](/tartans/u/un/unidentified-from-winnipeg-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

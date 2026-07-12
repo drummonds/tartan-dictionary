@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Lanarkshire"
+  url: "/tartans/s/sp/spirit-of-lanarkshire/"
 - name: "Spirit of Lanarkshire (Corporate)"
   url: "/setts/k83y2db4r2k8g5r4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k83y2db4r2k8g5r4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBRKGRW](/stripes/kgbrkgrw/).
+
+Part of the [Spirit of Lanarkshire](/tartans/s/sp/spirit-of-lanarkshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

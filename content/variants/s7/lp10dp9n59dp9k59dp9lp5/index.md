@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Central Newcastle High"
+  url: "/tartans/c/ce/central-newcastle-high/"
 - name: "Central Newcastle School"
   url: "/setts/lp10dp9n59dp9k59dp9lp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lp10dp9n59dp9k59dp9lp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBKBW](/stripes/wbbbkbw/).
+
+Part of the [Central Newcastle High](/tartans/c/ce/central-newcastle-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

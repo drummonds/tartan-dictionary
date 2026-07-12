@@ -6,6 +6,8 @@ This is the **Granvert** sett — one scale-free proportion (`dg115k15r8k4t8k4y8
 [GKGKBKRKG](/stripes/gkgkbkrkg/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Granvert](/tartans/g/gr/granvert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pride (Wales)** sett — one scale-free proportion (`k40db4lb4db4k
 [GKBWBKBKBKBRBKBKBKBWBK](/stripes/gkbwbkbkbkbrbkbkbkbwbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Pride](/tartans/p/pr/pride/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

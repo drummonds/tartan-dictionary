@@ -6,6 +6,8 @@ This is the **Snoozzzeee** sett — one scale-free proportion (`w6r3db36r4db12w2
 [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Snoozzzeee](/tartans/s/sn/snoozzzeee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

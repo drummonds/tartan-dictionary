@@ -7,6 +7,8 @@ This is the **MacDonnald of ye Ylis** sett — one scale-free proportion (`w4g30
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [MacDonnald of ye Ylis](/tartans/m/ma/macdonnald-of-ye-ylis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

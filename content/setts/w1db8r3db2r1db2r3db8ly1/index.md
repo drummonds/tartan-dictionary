@@ -6,6 +6,8 @@ This is the **Louisville Fire & Rescue P&D** sett — one scale-free proportion 
 [WBRBRBRBY](/stripes/wbrbrbrby/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Louisville Fire & Rescue P&D](/tartans/l/lo/louisville-fire-rescue-p-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

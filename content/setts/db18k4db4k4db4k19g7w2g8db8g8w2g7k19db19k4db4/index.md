@@ -6,7 +6,7 @@ This is the **Arbuthnott Clan Tartan** sett — one scale-free proportion (`db18
 [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Arbuthnott](/tartans/arbuthnott/) tartan — the named design grouping this sett with its kin.
+Part of the [Arbuthnott](/tartans/a/ar/arbuthnott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Island Weavers"
+  url: "/tartans/i/is/island-weavers/"
 - name: "Island Weavers (Corporate)"
   url: "/setts/g33db2g33r2db12r12g4r2g4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g33db2g33r2db12r12g4r2g4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBRGRGW](/stripes/gbgrbrgrgw/).
+
+Part of the [Island Weavers](/tartans/i/is/island-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

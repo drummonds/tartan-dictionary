@@ -6,6 +6,8 @@ This is the **Strathearn** sett — one scale-free proportion (`r1g6r6g1y1g1r6y8
 [GRGRGGGRGRGRGGRGRGGRGRGRGGGRGR](/stripes/grgrgggrgrgrggrgrggrgrgrgggrgr/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Strathearn](/tartans/s/st/strathearn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

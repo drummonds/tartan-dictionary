@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Women's Wear Daily"
+  url: "/tartans/w/wo/women-s-wear-daily/"
 - name: "Women's Wear Daily 'Clan' (Fashion)"
   url: "/setts/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRBW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrbw/).
+
+Part of the [Women's Wear Daily](/tartans/w/wo/women-s-wear-daily/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

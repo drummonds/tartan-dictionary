@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lucard, Stéphane"
+  url: "/tartans/l/lu/lucard-st-phane/"
 - name: "Lucard, Stéphane (Personal)"
   url: "/setts/w11db20y3db8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w11db20y3db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBW](/stripes/bgbw/).
+
+Part of the [Lucard, Stéphane](/tartans/l/lu/lucard-st-phane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

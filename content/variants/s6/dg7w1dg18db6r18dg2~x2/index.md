@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Finlaggan"
+  url: "/tartans/f/fi/finlaggan/"
+- name: "Finlaggan"
   url: "/setts/dg7w1dg18db6r18dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg7w1dg18db6r18dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGWG](/stripes/grbgwg/).
+
+Part of the [Finlaggan](/tartans/f/fi/finlaggan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

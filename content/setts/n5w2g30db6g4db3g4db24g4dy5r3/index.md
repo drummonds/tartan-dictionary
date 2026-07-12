@@ -6,6 +6,8 @@ This is the **Wells (1970) (Name)** sett — one scale-free proportion (`n5w2g30
 [BWGBGBGBGGR](/stripes/bwgbgbgbggr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Wells](/tartans/w/we/wells/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

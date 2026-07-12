@@ -6,6 +6,8 @@ This is the **City of Vancouver (Commemorative)** sett — one scale-free propor
 [BGWGYG](/stripes/bgwgyg/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [City of Vancouver](/tartans/c/ci/city-of-vancouver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

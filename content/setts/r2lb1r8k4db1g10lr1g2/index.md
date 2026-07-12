@@ -6,7 +6,7 @@ This is the **Sawyer** sett — one scale-free proportion (`r2lb1r8k4db1g10lr1g2
 [GYGBKRWR](/stripes/gygbkrwr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Sawyer](/tartans/sawyer/) tartan — the named design grouping this sett with its kin.
+Part of the [Sawyer](/tartans/s/sa/sawyer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

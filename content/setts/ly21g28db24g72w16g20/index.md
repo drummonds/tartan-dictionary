@@ -6,6 +6,8 @@ This is the **Meath County Crest (Fashion)** sett — one scale-free proportion 
 [GWGBGY](/stripes/gwgbgy/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Meath County Crest](/tartans/m/me/meath-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

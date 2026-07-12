@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacSky"
+  url: "/tartans/w/we/westwood-macsky/"
 - name: "Westwood MacSky (Fashion)"
   url: "/setts/w2db13b13y2b13db13w2db6b6y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db13b13y2b13db13w2db6b6y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBWBBGBBW](/stripes/gbbwbbgbbw/).
+
+Part of the [Westwood MacSky](/tartans/w/we/westwood-macsky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

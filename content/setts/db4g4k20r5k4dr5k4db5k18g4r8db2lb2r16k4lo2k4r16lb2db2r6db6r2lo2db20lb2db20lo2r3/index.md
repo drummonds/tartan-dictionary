@@ -7,6 +7,8 @@ This is the **Hird (Personal)** sett — one scale-free proportion (`db4g4k20r5k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Hird](/tartans/h/hi/hird/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

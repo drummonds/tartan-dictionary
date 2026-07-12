@@ -6,7 +6,7 @@ This is the **Scotland's International - Home (Fas** sett — one scale-free pro
 [BKKWKGKWRW](/stripes/bkkwkgkwrw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Scotland's International](/tartans/scotland-s-international/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland's International](/tartans/s/sc/scotland-s-international/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

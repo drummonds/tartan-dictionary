@@ -6,7 +6,7 @@ This is the **Gunn Clan Tartan** sett — one scale-free proportion (`r2g12k12g1
 [GBGKGR](/stripes/gbgkgr/). It is recorded as a single **variant**, below.
 First attested **~1810**.
 
-Part of the [Gunn](/tartans/gunn-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Gunn](/tartans/g/gu/gunn-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

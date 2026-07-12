@@ -6,6 +6,8 @@ This is the **Glasgow Clyde College** sett — one scale-free proportion (`lb48r
 [RWBBWRBRW](/stripes/rwbbwrbrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Glasgow Clyde College](/tartans/g/gl/glasgow-clyde-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

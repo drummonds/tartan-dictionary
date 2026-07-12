@@ -6,7 +6,7 @@ This is the **MacInnes Homecoming** sett — one scale-free proportion (`dy3k19n
 [GKBKBKBKBKBR](/stripes/gkbkbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [MacInnes Homecoming](/tartans/macinnes-homecoming/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInnes Homecoming](/tartans/m/ma/macinnes-homecoming/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

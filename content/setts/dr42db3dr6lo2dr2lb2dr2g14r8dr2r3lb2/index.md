@@ -6,6 +6,8 @@ This is the **Wcwm 1286-9** sett — one scale-free proportion (`dr42db3dr6lo2dr
 [BBBYBWBGRBRW](/stripes/bbbybwbgrbrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1286-9](/tartans/w/wc/wcwm-1286-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

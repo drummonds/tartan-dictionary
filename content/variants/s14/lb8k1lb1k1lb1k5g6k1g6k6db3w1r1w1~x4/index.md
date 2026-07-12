@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gemmell"
+  url: "/tartans/g/ge/gemmell-4/"
+- name: "Gemmell"
   url: "/setts/lb8k1lb1k1lb1k5g6k1g6k6db3w1r1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8k1lb1k1lb1k5g6k1g6k6db3w1r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKGKGKBWRW](/stripes/wkwkwkgkgkbwrw/).
+
+Part of the [Gemmell](/tartans/g/ge/gemmell-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

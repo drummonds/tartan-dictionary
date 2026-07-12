@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Madoc"
+  url: "/tartans/m/ma/madoc/"
 - name: "Madoc (Welsh Name)"
   url: "/setts/k3g3k2g4r2g6k6g4k4g36k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g3k2g4r2g6k6g4k4g36k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGRGKGK](/stripes/kgkgkgrgkgk/).
+
+Part of the [Madoc](/tartans/m/ma/madoc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

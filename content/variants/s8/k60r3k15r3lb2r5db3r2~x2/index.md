@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Whitaker"
+  url: "/tartans/w/wh/whitaker/"
 - name: "Whitaker (2014)"
   url: "/setts/k60r3k15r3lb2r5db3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k60r3k15r3lb2r5db3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRWRBR](/stripes/krkrwrbr/).
+
+Part of the [Whitaker](/tartans/w/wh/whitaker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

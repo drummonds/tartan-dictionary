@@ -6,6 +6,8 @@ This is the **Children In Need** sett — one scale-free proportion (`k5lb5k1lb5
 [KWKWKWKRKRKWKGKGKW](/stripes/kwkwkwkrkrkwkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Children In Need](/tartans/c/ch/children-in-need/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

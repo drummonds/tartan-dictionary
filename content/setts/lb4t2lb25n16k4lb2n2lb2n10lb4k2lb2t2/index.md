@@ -6,6 +6,8 @@ This is the **Balmoral (Jack Allen)** sett — one scale-free proportion (`lb4t2
 [BWKWBWBWKBWBW](/stripes/bwkwbwbwkbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balmoral](/tartans/b/ba/balmoral-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

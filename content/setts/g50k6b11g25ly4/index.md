@@ -6,6 +6,8 @@ This is the **Glen of Daviot (Dalgleish)** sett — one scale-free proportion (`
 [GKBGY](/stripes/gkbgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glen of Daviot](/tartans/g/gl/glen-of-daviot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

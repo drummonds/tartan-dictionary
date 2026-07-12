@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "James William Forrester of S. Carolina"
+  url: "/tartans/j/ja/james-william-forrester-of-s-carolina/"
+- name: "James William Forrester of S. Carolina"
   url: "/setts/db16r14g16y3g16r14db16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16r14g16y3g16r14db16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGGGRBW](/stripes/brgggrbw/).
+
+Part of the [James William Forrester of S. Carolina](/tartans/j/ja/james-william-forrester-of-s-carolina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

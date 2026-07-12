@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Denny Hunting"
-  url: "/tartans/denny-hunting/"
+  url: "/tartans/d/de/denny-hunting/"
 - name: "Denny Hunting"
   url: "/setts/k4g5k2g5dr17db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4g5k2g5dr17db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKGK](/stripes/bbgkgk/).
 
-Part of the [Denny Hunting](/tartans/denny-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Denny Hunting](/tartans/d/de/denny-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

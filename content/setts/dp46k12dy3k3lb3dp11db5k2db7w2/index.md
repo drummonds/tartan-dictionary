@@ -6,6 +6,8 @@ This is the **Lochcarron of Scotland Diamond Jubilee** sett — one scale-free p
 [BKGKWBBKBW](/stripes/bkgkwbbkbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lochcarron of Scotland Diamond Jubilee](/tartans/l/lo/lochcarron-of-scotland-diamond-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

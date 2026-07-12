@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
+- name: "Stirling Castle"
+  url: "/tartans/s/st/stirling-castle/"
 - name: "Stirling Castle (Corporate)"
   url: "/setts/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGGWGWGWGWKW](/stripes/wkggwgwgwgwkw/).
+
+Part of the [Stirling Castle](/tartans/s/st/stirling-castle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

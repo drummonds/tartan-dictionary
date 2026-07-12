@@ -6,6 +6,8 @@ This is the **Niagara Falls** sett — one scale-free proportion (`dt22g4dt4g17d
 [BGBGGGBGBGGR](/stripes/bgbgggbgbggr/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
+Part of the [Niagara Falls](/tartans/n/ni/niagara-falls-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

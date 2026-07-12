@@ -6,6 +6,8 @@ This is the **Ellis (Personal)** sett — one scale-free proportion (`y2k1dg5r4g
 [GKGRGRGKW](/stripes/gkgrgrgkw/). It is recorded as a single **variant**, below.
 First attested **1964**.
 
+Part of the [Ellis](/tartans/e/el/ellis-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

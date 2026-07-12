@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Basque"
+  url: "/tartans/b/ba/basque/"
 - name: "Basque (Corporate)"
   url: "/setts/r44g6k3g16w22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r44g6k3g16w22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
+
+Part of the [Basque](/tartans/b/ba/basque/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

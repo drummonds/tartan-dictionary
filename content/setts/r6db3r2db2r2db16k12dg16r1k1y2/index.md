@@ -6,6 +6,8 @@ This is the **MacLennan (Clan)** sett — one scale-free proportion (`r6db3r2db2
 [GKRGKBRBRBR](/stripes/gkrgkbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~1880**.
 
+Part of the [MacLennan](/tartans/m/ma/maclennan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carsaig"
+  url: "/tartans/c/ca/carsaig/"
+- name: "Carsaig"
   url: "/setts/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYBYYYYYYBY](/stripes/ybybyyyyyyby/).
+
+Part of the [Carsaig](/tartans/c/ca/carsaig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

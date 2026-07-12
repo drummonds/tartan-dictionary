@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Park"
+  url: "/tartans/h/hi/highland-park/"
+- name: "Highland Park"
   url: "/setts/lo2k3db6dr4k48dr4db6k3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2k3db6dr4k48dr4db6k3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBBKBBKY](/stripes/wkbbkbbky/).
+
+Part of the [Highland Park](/tartans/h/hi/highland-park/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

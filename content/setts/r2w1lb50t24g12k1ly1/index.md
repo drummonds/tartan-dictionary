@@ -6,7 +6,7 @@ This is the **Pincock (Name)** sett — one scale-free proportion (`r2w1lb50t24g
 [RWWBGKY](/stripes/rwwbgky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Pincock](/tartans/pincock/) tartan — the named design grouping this sett with its kin.
+Part of the [Pincock](/tartans/p/pi/pincock/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

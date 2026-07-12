@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Munro"
+  url: "/clan/munro/"
+- name: "Munro Old"
+  url: "/tartans/m/mu/munro-old/"
 - name: "Munro Old Artifact Tartan"
   url: "/setts/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRBRGRBRBR](/stripes/brbrgrbrgrbrbr/).
+
+Part of the [Munro Old](/tartans/m/mu/munro-old/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

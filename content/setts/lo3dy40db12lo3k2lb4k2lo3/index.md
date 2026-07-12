@@ -6,6 +6,8 @@ This is the **Tunes of Glory (Film)** sett — one scale-free proportion (`lo3dy
 [YGBYKWKY](/stripes/ygbykwky/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Tunes of Glory](/tartans/t/tu/tunes-of-glory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

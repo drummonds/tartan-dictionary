@@ -6,7 +6,7 @@ This is the **Payne** sett — one scale-free proportion (`dbi4k2dbi8db10dp6db40
 [BGBKBKBKBBBBKB](/stripes/bgbkbkbkbbbbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Payne](/tartans/payne/) tartan — the named design grouping this sett with its kin.
+Part of the [Payne](/tartans/p/pa/payne/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

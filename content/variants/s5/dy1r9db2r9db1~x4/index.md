@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brooks Brothers Tattersall"
+  url: "/tartans/b/br/brooks-brothers-tattersall/"
 - name: "Brooks Brothers Tattersall Red"
   url: "/setts/dy1r9db2r9db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1r9db2r9db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRG](/stripes/brbrg/).
+
+Part of the [Brooks Brothers Tattersall](/tartans/b/br/brooks-brothers-tattersall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

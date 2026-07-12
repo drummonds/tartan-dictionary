@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hyland Day"
+  url: "/tartans/h/hy/hyland-day/"
 - name: "Hyland Day (Personal)"
   url: "/setts/o3dy2o26dy4do6dy29do2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3dy2o26dy4do6dy29do2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRGRGRGBGBY](/stripes/bgbgrgrgrgbgby/).
+
+Part of the [Hyland Day](/tartans/h/hy/hyland-day/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

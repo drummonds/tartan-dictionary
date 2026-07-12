@@ -6,6 +6,8 @@ This is the **McCann of Castlecraig (Personal)** sett — one scale-free proport
 [KGBKGGW](/stripes/kgbkggw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [McCann of Castlecraig](/tartans/m/mc/mccann-of-castlecraig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

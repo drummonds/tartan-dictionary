@@ -6,6 +6,8 @@ This is the **Ogilvy or Drummond of Strathallen** sett — one scale-free propor
 [KRKGBWBGKWKWKRWRWRKGBKBKBGKRWRWRKGBW](/stripes/krkgbwbgkwkwkrwrwrkgbkbkbgkrwrwrkgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ogilvy or Drummond of Strathallen](/tartans/o/og/ogilvy-or-drummond-of-strathallen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

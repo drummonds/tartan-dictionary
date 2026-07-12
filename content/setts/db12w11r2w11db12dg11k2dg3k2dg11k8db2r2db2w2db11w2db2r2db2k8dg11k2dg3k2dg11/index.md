@@ -6,6 +6,8 @@ This is the **Scottish National Dress District Tartan** sett — one scale-free 
 [BWRWBGKGKGKBRBWBWBRBKGKGKG](/stripes/bwrwbgkgkgkbrbwbwbrbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Scottish National Dress](/tartans/s/sc/scottish-national-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

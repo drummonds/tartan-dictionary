@@ -6,6 +6,8 @@ This is the **Sin-Cos** sett — one scale-free proportion (`k60g64dg5g8dg5g64k6
 [GKGKGGGGGK](/stripes/gkgkgggggk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Sin-Cos](/tartans/s/si/sin-cos/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

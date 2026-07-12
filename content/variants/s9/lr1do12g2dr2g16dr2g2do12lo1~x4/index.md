@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
+- name: "MacFie Hunting"
+  url: "/tartans/m/ma/macfie-hunting/"
 - name: "MacFie Hunting (Clan?)"
   url: "/setts/lr1do12g2dr2g16dr2g2do12lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr1do12g2dr2g16dr2g2do12lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGBGBGBY](/stripes/ybgbgbgby/).
+
+Part of the [MacFie Hunting](/tartans/m/ma/macfie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

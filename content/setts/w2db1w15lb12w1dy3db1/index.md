@@ -6,6 +6,8 @@ This is the **St John's** sett — one scale-free proportion (`w2db1w15lb12w1dy3
 [BWWWGBGWWWBW](/stripes/bwwwgbgwwwbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [St John's](/tartans/s/st/st-john-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

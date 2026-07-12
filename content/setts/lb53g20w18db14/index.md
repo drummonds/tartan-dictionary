@@ -6,6 +6,8 @@ This is the **Leutz (Name?)** sett — one scale-free proportion (`lb53g20w18db1
 [BWGW](/stripes/bwgw/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Leutz](/tartans/l/le/leutz/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

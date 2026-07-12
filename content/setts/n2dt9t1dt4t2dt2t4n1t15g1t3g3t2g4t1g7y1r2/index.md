@@ -6,7 +6,7 @@ This is the **Glaz** sett — one scale-free proportion (`n2dt9t1dt4t2dt2t4n1t15
 [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Glaz](/tartans/glaz/) tartan — the named design grouping this sett with its kin.
+Part of the [Glaz](/tartans/g/gl/glaz/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

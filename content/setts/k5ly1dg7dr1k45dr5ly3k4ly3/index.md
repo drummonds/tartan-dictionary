@@ -6,6 +6,8 @@ This is the **Brooks Brothers Signature (Corporate** sett — one scale-free pro
 [KYGBKBYKY](/stripes/kygbkbyky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Brooks Brothers Signature (Corporate](/tartans/b/br/brooks-brothers-signature-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

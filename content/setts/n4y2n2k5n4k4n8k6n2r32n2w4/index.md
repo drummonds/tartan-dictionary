@@ -6,6 +6,8 @@ This is the **Orr Senior, Gerald William** sett — one scale-free proportion (`
 [BGBKBKBKBRBW](/stripes/bgbkbkbkbrbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Orr Senior, Gerald William](/tartans/o/or/orr-senior-gerald-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

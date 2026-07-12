@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Martin's Own"
+  url: "/tartans/m/ma/martin-s-own/"
+- name: "Martin's Own"
   url: "/setts/k10lb1k2lb1k4lb10g1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10lb1k2lb1k4lb10g1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWGW](/stripes/kwkwkwgw/).
+
+Part of the [Martin's Own](/tartans/m/ma/martin-s-own/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

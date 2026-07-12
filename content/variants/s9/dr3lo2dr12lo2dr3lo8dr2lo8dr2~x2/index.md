@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacMillan"
+  url: "/tartans/m/ma/macmillan/"
 - name: "MacMillan - 1842 (Dress)"
   url: "/setts/dr3lo2dr12lo2dr3lo8dr2lo8dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lo2dr12lo2dr3lo8dr2lo8dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYBYB](/stripes/bybybybyb/).
+
+Part of the [MacMillan](/tartans/m/ma/macmillan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

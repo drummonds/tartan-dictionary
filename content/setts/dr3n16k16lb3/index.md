@@ -6,6 +6,8 @@ This is the **Thompson, Dress (Clan)** sett — one scale-free proportion (`dr3n
 [BBKW](/stripes/bbkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Thompson, Dress](/tartans/t/th/thompson-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

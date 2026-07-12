@@ -6,6 +6,8 @@ This is the **Bunnahabhain** sett — one scale-free proportion (`ly8k7r3k7r3k38
 [YKRKRKWKY](/stripes/ykrkrkwky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bunnahabhain](/tartans/b/bu/bunnahabhain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

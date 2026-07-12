@@ -6,7 +6,7 @@ This is the **Tindal** sett — one scale-free proportion (`r3k2g18k18db3k3db3k3
 [RKGKBKBKBGW](/stripes/rkgkbkbkbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Tindal](/tartans/tindal/) tartan — the named design grouping this sett with its kin.
+Part of the [Tindal](/tartans/t/ti/tindal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

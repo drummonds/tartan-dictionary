@@ -6,6 +6,8 @@ This is the **Elystan Glodrydd (Name)** sett — one scale-free proportion (`w3d
 [BRYGRGW](/stripes/brygrgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Elystan Glodrydd](/tartans/e/el/elystan-glodrydd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

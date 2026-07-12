@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal College of Physicians"
+  url: "/tartans/r/ro/royal-college-of-physicians-2/"
 - name: "Royal College of Physicians Corporate Tartan"
   url: "/setts/g23r3k9r3db18r3k9r3g23y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g23r3k9r3db18r3k9r3g23y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRKRBRKRG](/stripes/ggrkrbrkrg/).
+
+Part of the [Royal College of Physicians](/tartans/r/ro/royal-college-of-physicians-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -7,6 +7,8 @@ This is the **Ingenico** sett — one scale-free proportion (`lg50r4lg12y23r4g4`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Ingenico](/tartans/i/in/ingenico/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

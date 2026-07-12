@@ -1,0 +1,19 @@
+---
+title: "Carinthian National"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/) — the page of every tartan sharing this colour sequence.
+
+The **Carinthian National** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/">Carinthian National</a></td><td><code>DY/6 DT32 DO30 DG36 DO6 R6 DO6 DG36 DO30 DT32 W/6</code></td><td>440</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/"><img src="/variants/s11/dy3dt16do15dg18do3r3do3dg18do15dt16w3~x2/sett.png" alt="Carinthian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

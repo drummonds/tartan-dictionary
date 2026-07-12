@@ -6,7 +6,7 @@ This is the **Drumlithie** sett — one scale-free proportion (`r2dp3ri2r15dp2g2
 [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
-Part of the [Drumlithie](/tartans/drumlithie/) tartan — the named design grouping this sett with its kin.
+Part of the [Drumlithie](/tartans/d/dr/drumlithie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

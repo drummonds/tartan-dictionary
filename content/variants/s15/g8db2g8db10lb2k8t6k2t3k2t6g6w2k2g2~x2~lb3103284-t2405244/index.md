@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leel"
+  url: "/tartans/l/le/leel/"
 - name: "Leel (Personal)"
   url: "/setts/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWKBKBKBGWKG](/stripes/gbgbwkbkbkbgwkg/).
+
+Part of the [Leel](/tartans/l/le/leel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

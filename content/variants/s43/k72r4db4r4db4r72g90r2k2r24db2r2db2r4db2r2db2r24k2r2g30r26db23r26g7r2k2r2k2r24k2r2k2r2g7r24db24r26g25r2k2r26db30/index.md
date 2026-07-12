@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacIntosh"
+  url: "/tartans/m/ma/macintosh-3/"
 - name: "MacIntosh (Moy Hall Plaid)"
   url: "/setts/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrkrbrbrbrbrkrgrbrbrk/).
+
+Part of the [MacIntosh](/tartans/m/ma/macintosh-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [43 stripe tartan](/stripes/stripes43/).
 

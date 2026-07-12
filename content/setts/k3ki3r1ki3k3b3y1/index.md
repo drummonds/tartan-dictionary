@@ -6,6 +6,8 @@ This is the **Montrose of Alabama** sett — one scale-free proportion (`k3ki3r1
 [GBKKRKK](/stripes/gbkkrkk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Montrose of Alabama](/tartans/m/mo/montrose-of-alabama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

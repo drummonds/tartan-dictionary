@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sligo Irish County"
+  url: "/tartans/s/sl/sligo-irish-county/"
 - name: "Sligo Irish County Tartan"
   url: "/setts/n50k4n12k23lo4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n50k4n12k23lo4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKYK](/stripes/bkbkyk/).
+
+Part of the [Sligo Irish County](/tartans/s/sl/sligo-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Manitoba Dress (1958) (District)** sett — one scale-free proport
 [BWBWGWRG](/stripes/bwbwgwrg/). It is recorded as a single **variant**, below.
 First attested **1958**.
 
+Part of the [Manitoba Dress](/tartans/m/ma/manitoba-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

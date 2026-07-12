@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "HMS Neptune"
+  url: "/tartans/h/hm/hms-neptune/"
+- name: "HMS Neptune"
   url: "/setts/g4k1dbi9k1g3k1db27r1db27w1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4k1dbi9k1g3k1db27r1db27w1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKBRBWR](/stripes/gkbkgkbrbwr/).
+
+Part of the [HMS Neptune](/tartans/h/hm/hms-neptune/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

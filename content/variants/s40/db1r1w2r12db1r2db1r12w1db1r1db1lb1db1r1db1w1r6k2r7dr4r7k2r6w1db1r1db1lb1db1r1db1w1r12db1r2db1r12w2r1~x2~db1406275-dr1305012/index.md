@@ -9,12 +9,16 @@ crumbs:
   url: "/groups/ancient/"
 - name: "Tarim Basin"
   url: "/groups/ancient/tarim-basin/"
+- name: "Takla Makan"
+  url: "/tartans/t/ta/takla-makan-4/"
 - name: "Takla Makan (Red)"
   url: "/setts/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r1w2r12db1r2db1r12w1db1r1db1lb1db1r1db1w1r6k2r7dr4r7k2r6w1db1r1db1lb1db1r1db1w1r12db1r2db1r12w2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBRBRWBRBWBRBWRKRBRKRWBRBWBRBWRBRBRWR](/stripes/brwrbrbrwbrbwbrbwrkrbrkrwbrbwbrbwrbrbrwr/).
+
+Part of the [Takla Makan](/tartans/t/ta/takla-makan-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

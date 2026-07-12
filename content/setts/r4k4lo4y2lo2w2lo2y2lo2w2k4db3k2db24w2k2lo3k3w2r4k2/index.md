@@ -6,6 +6,8 @@ This is the **Murtaugh** sett — one scale-free proportion (`r4k4lo4y2lo2w2lo2y
 [KRWKYKWBKBKWYGYWYGYKR](/stripes/krwkykwbkbkwygywygykr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Murtaugh](/tartans/m/mu/murtaugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

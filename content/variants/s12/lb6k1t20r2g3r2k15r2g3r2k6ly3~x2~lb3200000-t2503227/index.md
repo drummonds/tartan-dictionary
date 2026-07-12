@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Scottish P.B. Assoc."
+  url: "/tartans/r/ro/royal-scottish-p-b-assoc/"
 - name: "Royal Scottish P.B. Assoc. (Corp.)"
   url: "/setts/lb6k1t20r2g3r2k15r2g3r2k6ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6k1t20r2g3r2k15r2g3r2k6ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBRGRKRGRKY](/stripes/wkbrgrkrgrky/).
+
+Part of the [Royal Scottish P.B. Assoc.](/tartans/r/ro/royal-scottish-p-b-assoc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

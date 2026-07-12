@@ -6,6 +6,8 @@ This is the **Stewarton (Personal)** sett — one scale-free proportion (`o3lb3n
 [KRWBBBGKGBBBWR](/stripes/krwbbbgkgbbbwr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Stewarton](/tartans/s/st/stewarton-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

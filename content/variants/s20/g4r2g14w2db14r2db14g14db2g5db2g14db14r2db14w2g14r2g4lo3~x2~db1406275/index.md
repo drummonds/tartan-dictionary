@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter of Hunterston"
+  url: "/families/hunter-of-hunterston/"
+- name: "Hunter of Hunterston"
+  url: "/tartans/h/hu/hunter-of-hunterston-2/"
 - name: "Hunter of Hunterston"
   url: "/setts/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWBRBGBGBGBRBWGRGY](/stripes/grgwbrbgbgbgbrbwgrgy/).
+
+Part of the [Hunter of Hunterston](/tartans/h/hu/hunter-of-hunterston-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,6 +6,8 @@ This is the **Embrace, The** sett — one scale-free proportion (`b10r24b4r3b24w
 [BRBRBWRB](/stripes/brbrbwrb/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Embrace](/tartans/e/em/embrace/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

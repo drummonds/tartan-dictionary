@@ -6,6 +6,8 @@ This is the **Highfield Hunting** sett — one scale-free proportion (`db10k2g2d
 [BKGBGKBKGKGKGKBKGBGK](/stripes/bkgbgkbkgkgkgkbkgbgk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Highfield Hunting](/tartans/h/hi/highfield-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

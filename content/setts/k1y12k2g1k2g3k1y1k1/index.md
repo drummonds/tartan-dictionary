@@ -6,6 +6,8 @@ This is the **Glen Carron (Fashion)** sett — one scale-free proportion (`k1y12
 [KGKGKGKGK](/stripes/kgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Glen Carron](/tartans/g/gl/glen-carron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

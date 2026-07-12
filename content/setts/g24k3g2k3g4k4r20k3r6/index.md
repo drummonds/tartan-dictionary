@@ -7,6 +7,8 @@ This is the **Alma College** sett — one scale-free proportion (`g24k3g2k3g4k4r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Alma College](/tartans/a/al/alma-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

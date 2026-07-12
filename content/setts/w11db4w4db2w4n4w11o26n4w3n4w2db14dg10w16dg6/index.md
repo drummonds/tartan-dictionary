@@ -6,6 +6,8 @@ This is the **Stuart-Houghton Dress (Personal)** sett — one scale-free proport
 [GWGBWBWBRWBWBWBW](/stripes/gwgbwbwbrwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Stuart-Houghton Dress](/tartans/s/st/stuart-houghton-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

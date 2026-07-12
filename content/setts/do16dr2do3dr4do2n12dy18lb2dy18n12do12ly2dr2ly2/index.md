@@ -6,6 +6,8 @@ This is the **Allen - 2012 (Personal)** sett — one scale-free proportion (`do1
 [BBBBBBGWGBBYBY](/stripes/bbbbbbgwgbbyby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Allen](/tartans/a/al/allen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

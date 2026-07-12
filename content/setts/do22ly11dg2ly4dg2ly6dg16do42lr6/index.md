@@ -6,6 +6,8 @@ This is the **Kenmore (Fashion)** sett — one scale-free proportion (`do22ly11d
 [BYGYGYGBY](/stripes/bygygygby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Kenmore](/tartans/k/ke/kenmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

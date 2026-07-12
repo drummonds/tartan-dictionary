@@ -11,9 +11,11 @@ A family of [Clan MacDonald](/clan/macdonald/).
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r4k8r4k8r12k1y2/">MacDonald of Ardnamurchan</a> ★</td><td><code>R/16 K32 R16 K32 R48 K4 Y/8</code></td><td>288</td><td>1842</td></tr>
+<tr><td><a href="/setts/r4k8r4k8r12k1y2/">MacDonald of Ardnamurchan</a></td><td><code>R/16 K32 R16 K32 R48 K4 Y/8</code></td><td>288</td><td>1842</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r4k8r4k8r12k1y2/"><img src="/variants/s7/r4k8r4k8r12k1y2~x4/sett.png" alt="MacDonald of Ardnamurchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r4k8r4k8r12k1y2~x2/">MacIain</a> · <a href="/variants/s7/r4k8r4k8r12k1y2~x4/">MacDonald of Ardnamurchan</a></td></tr>
 </tbody>
 </table>
+
+[See the MacDonald of Ardnamurchan tartan and all its setts →](/tartans/m/ma/macdonald-of-ardnamurchan/)
 

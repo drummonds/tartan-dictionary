@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McCulloch"
-  url: "/tartans/mcculloch/"
+  url: "/tartans/m/mc/mcculloch/"
 - name: "McCulloch (Military Colours)"
   url: "/setts/dg6k1dg1k1dg3lr1lb1r1lb1lr1dbi3db1dbi1db1dbi6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg6k1dg1k1dg3lr1lb1r1lb1lr1dbi3db1dbi1db1dbi6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBYWRWYGKGKG](/stripes/bbbbbywrwygkgkg/).
 
-Part of the [McCulloch](/tartans/mcculloch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McCulloch](/tartans/m/mc/mcculloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,6 +6,8 @@ This is the **City of Dorvil (District)** sett — one scale-free proportion (`g
 [GRWGWKWYWKWYWKWG](/stripes/grwgwkwywkwywkwg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [City of Dorvil](/tartans/c/ci/city-of-dorvil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Elizabeth"
-  url: "/tartans/princess-elizabeth/"
+  url: "/tartans/p/pr/princess-elizabeth/"
 - name: "Princess Elizabeth Royal Family Tartan"
   url: "/setts/r42k4w1k6y1db1y1r12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r42k4w1k6y1db1y1r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGKWKR](/stripes/rgbgkwkr/).
 
-Part of the [Princess Elizabeth](/tartans/princess-elizabeth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Princess Elizabeth](/tartans/p/pr/princess-elizabeth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

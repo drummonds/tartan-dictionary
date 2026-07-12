@@ -7,6 +7,8 @@ This is the **S.C.O.T.S.** sett — one scale-free proportion (`dbi55db18w3db2r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1988**.
 
+Part of the [S.C.O.T.S. U.S.A.](/tartans/s/s/s-c-o-t-s-u-s-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Macmillan Cancer Support** sett — one scale-free proportion (`dp
 [BGGYGYGYW](/stripes/bggygygyw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Macmillan Cancer Support](/tartans/m/ma/macmillan-cancer-support/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

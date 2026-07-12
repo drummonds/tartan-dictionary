@@ -6,6 +6,8 @@ This is the **Stewart (King George VI)** sett — one scale-free proportion (`dr
 [BGBKYKYKGBKBY](/stripes/bgbkykykgbkby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart](/tartans/s/st/stewart-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

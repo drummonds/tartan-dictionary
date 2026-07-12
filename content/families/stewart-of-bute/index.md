@@ -20,15 +20,17 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Bute tartan and all its setts →](/tartans/stewart-of-bute/)
+[See the Stewart of Bute tartan and all its setts →](/tartans/s/st/stewart-of-bute/)
 
 ### Stewart of Bute Hunting
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dr22g11k2g4k2g6k16dr42lb6/">Stewart of Bute Hunting</a> ★</td><td><code>DR/44 G22 K4 G8 K4 G12 K32 DR84 LB/12</code></td><td>388</td><td>2002</td></tr>
+<tr><td><a href="/setts/dr22g11k2g4k2g6k16dr42lb6/">Stewart of Bute Hunting</a></td><td><code>DR/44 G22 K4 G8 K4 G12 K32 DR84 LB/12</code></td><td>388</td><td>2002</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dr22g11k2g4k2g6k16dr42lb6/"><img src="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/sett.png" alt="Stewart of Bute Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Bute Hunting tartan and all its setts →](/tartans/s/st/stewart-of-bute-hunting/)
 

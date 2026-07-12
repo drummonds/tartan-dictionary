@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod, Californian"
+  url: "/tartans/m/ma/macleod-californian/"
 - name: "MacLeod, Californian"
   url: "/setts/y4db25g3k3g3k3g13w24k2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4db25g3k3g3k3g13w24k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGWKR](/stripes/gbgkgkgwkr/).
+
+Part of the [MacLeod, Californian](/tartans/m/ma/macleod-californian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

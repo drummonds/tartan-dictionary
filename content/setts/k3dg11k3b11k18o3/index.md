@@ -6,6 +6,8 @@ This is the **The Harbour Town, Hilton Head** sett — one scale-free proportion
 [KGKBKR](/stripes/kgkbkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [The Harbour Town, Hilton Head](/tartans/t/th/the-harbour-town-hilton-head/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

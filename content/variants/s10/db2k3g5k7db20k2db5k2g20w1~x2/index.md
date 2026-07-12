@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pitceathly Chamberlain"
+  url: "/tartans/p/pi/pitceathly-chamberlain/"
 - name: "Pitceathly Chamberlain Tartan"
   url: "/setts/db2k3g5k7db20k2db5k2g20w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k3g5k7db20k2db5k2g20w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
+
+Part of the [Pitceathly Chamberlain](/tartans/p/pi/pitceathly-chamberlain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

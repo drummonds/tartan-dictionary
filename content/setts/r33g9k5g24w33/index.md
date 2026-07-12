@@ -6,7 +6,7 @@ This is the **Inverness Basque (District)** sett — one scale-free proportion (
 [RGKGW](/stripes/rgkgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Inverness Basque](/tartans/inverness-basque/) tartan — the named design grouping this sett with its kin.
+Part of the [Inverness Basque](/tartans/i/in/inverness-basque/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

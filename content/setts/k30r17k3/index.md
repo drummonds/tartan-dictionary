@@ -6,6 +6,8 @@ This is the **MacFarlane Red & Black (Artefact)** sett — one scale-free propor
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [MacFarlane Red &](/tartans/m/ma/macfarlane-red/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Regalia** sett — one scale-free proportion (`dg1dy7dg7n2dy1ly15w
 [GGGBGYW](/stripes/gggbgyw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Regalia](/tartans/r/re/regalia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

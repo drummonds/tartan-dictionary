@@ -6,6 +6,8 @@ This is the **Berwick, Orange (Fashion)** sett — one scale-free proportion (`d
 [BRBKGKRKBBKBRBKBBKRKGKBRB](/stripes/brbkgkrkbbkbrbkbbkrkgkbrb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Berwick, Orange](/tartans/b/be/berwick-orange/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

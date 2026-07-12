@@ -6,6 +6,8 @@ This is the **Czech National (District)** sett — one scale-free proportion (`d
 [BGBKBRKGWRB](/stripes/bgbkbrkgwrb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Czech National](/tartans/c/cz/czech-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

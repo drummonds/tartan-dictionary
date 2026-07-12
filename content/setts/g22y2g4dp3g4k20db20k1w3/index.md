@@ -6,7 +6,7 @@ This is the **National Wedding** sett — one scale-free proportion (`g22y2g4dp3
 [GGGBGKBKW](/stripes/gggbgkbkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [National Wedding](/tartans/national-wedding/) tartan — the named design grouping this sett with its kin.
+Part of the [National Wedding](/tartans/n/na/national-wedding/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

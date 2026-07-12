@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Killen"
+  url: "/tartans/k/ki/killen/"
+- name: "Killen"
   url: "/setts/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBKBBBKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKBBBKBGK](/stripes/gkgbkbbbkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkbbbkbgk/).
+
+Part of the [Killen](/tartans/k/ki/killen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
 

@@ -6,6 +6,8 @@ This is the **London Scottish Rugby Club** sett — one scale-free proportion (`
 [KGKWKR](/stripes/kgkwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [London Scottish Rugby Club](/tartans/l/lo/london-scottish-rugby-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

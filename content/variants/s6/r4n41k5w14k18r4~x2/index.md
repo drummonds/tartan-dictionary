@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Downside"
+  url: "/tartans/d/do/downside/"
 - name: "Downside (Corporate)"
   url: "/setts/r4n41k5w14k18r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4n41k5w14k18r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWKR](/stripes/rbkwkr/).
+
+Part of the [Downside](/tartans/d/do/downside/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

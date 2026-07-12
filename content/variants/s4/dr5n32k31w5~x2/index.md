@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loganair"
+  url: "/tartans/l/lo/loganair/"
+- name: "Loganair"
   url: "/setts/dr5n32k31w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5n32k31w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKW](/stripes/bbkw/).
+
+Part of the [Loganair](/tartans/l/lo/loganair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,7 +6,7 @@ This is the **McCulloch (Military Colours)** sett — one scale-free proportion 
 [BBBBBYWRWYGKGKG](/stripes/bbbbbywrwygkgkg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [McCulloch](/tartans/mcculloch/) tartan — the named design grouping this sett with its kin.
+Part of the [McCulloch](/tartans/m/mc/mcculloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

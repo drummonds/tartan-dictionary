@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McKnight Dress"
+  url: "/tartans/m/mc/mcknight-dress/"
 - name: "McKnight Dress #2 (Personal)"
   url: "/setts/db4y1w10r28db25k10lb5k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y1w10r28db25k10lb5k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWRBKWK](/stripes/bgwrbkwk/).
+
+Part of the [McKnight Dress](/tartans/m/mc/mcknight-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

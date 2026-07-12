@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dyce"
+  url: "/tartans/d/dy/dyce-2/"
 - name: "Dyce Family Tartan"
   url: "/setts/k2y1g6k6db6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2y1g6k6db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKBW](/stripes/kggkbw/).
+
+Part of the [Dyce](/tartans/d/dy/dyce-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

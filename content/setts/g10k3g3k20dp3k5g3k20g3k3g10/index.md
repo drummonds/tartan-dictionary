@@ -6,6 +6,8 @@ This is the **Pike Personal Weavers Tartan** sett — one scale-free proportion 
 [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Pike Personal Weavers](/tartans/p/pi/pike-personal-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

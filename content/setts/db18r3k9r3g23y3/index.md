@@ -6,6 +6,8 @@ This is the **Royal College of Physicians (Corp)** sett — one scale-free propo
 [BRKRGG](/stripes/brkrgg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Royal College of Physicians](/tartans/r/ro/royal-college-of-physicians/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

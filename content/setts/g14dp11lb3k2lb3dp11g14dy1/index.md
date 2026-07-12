@@ -6,6 +6,8 @@ This is the **Wellington (Wilson 122)** sett — one scale-free proportion (`g14
 [GBWKWBGG](/stripes/gbwkwbgg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wellington](/tartans/w/we/wellington-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wyckoff, Ann Grainger Phillips"
+  url: "/tartans/w/wy/wyckoff-ann-grainger-phillips/"
+- name: "Wyckoff, Ann Grainger Phillips"
   url: "/setts/lb70db5lb3w5lb3w5lb3r5lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb70db5lb3w5lb3w5lb3r5lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWWWWRW](/stripes/wbwwwwwrw/).
+
+Part of the [Wyckoff, Ann Grainger Phillips](/tartans/w/wy/wyckoff-ann-grainger-phillips/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

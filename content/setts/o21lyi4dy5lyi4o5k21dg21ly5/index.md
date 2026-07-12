@@ -6,6 +6,8 @@ This is the **Labrador Club of Scotland (Corporate** sett — one scale-free pro
 [RYGYRKGY](/stripes/rygyrkgy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Labrador Club of Scotland (Corporate](/tartans/l/la/labrador-club-of-scotland-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

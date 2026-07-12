@@ -6,6 +6,8 @@ This is the **Queens University of Ontario Corporate Tartan** sett — one scale
 [BGBGBWBRBGGW](/stripes/bgbgbwbrbggw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Queens University of Ontario](/tartans/q/qu/queens-university-of-ontario/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

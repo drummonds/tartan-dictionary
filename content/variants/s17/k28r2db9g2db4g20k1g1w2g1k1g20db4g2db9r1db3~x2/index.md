@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blairlogie"
+  url: "/tartans/b/bl/blairlogie/"
 - name: "Blairlogie (District)"
   url: "/setts/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
+
+Part of the [Blairlogie](/tartans/b/bl/blairlogie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Grampian Television"
+  url: "/tartans/g/gr/grampian-television/"
+- name: "Grampian Television"
   url: "/setts/k12t3k12t18w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k12t3k12t18w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBKBK](/stripes/bkbwbkbk/).
+
+Part of the [Grampian Television](/tartans/g/gr/grampian-television/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

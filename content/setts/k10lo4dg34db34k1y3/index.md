@@ -6,6 +6,8 @@ This is the **Singh, Gopal (Personal)** sett — one scale-free proportion (`k10
 [GKBGYK](/stripes/gkbgyk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Singh, Gopal](/tartans/s/si/singh-gopal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

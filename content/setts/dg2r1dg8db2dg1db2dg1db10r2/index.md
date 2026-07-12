@@ -6,7 +6,7 @@ This is the **Barnaby Brown Pibroch** sett — one scale-free proportion (`dg2r1
 [GRGBGBGBR](/stripes/grgbgbgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Barnaby Brown Pibroch](/tartans/barnaby-brown-pibroch/) tartan — the named design grouping this sett with its kin.
+Part of the [Barnaby Brown Pibroch](/tartans/b/ba/barnaby-brown-pibroch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

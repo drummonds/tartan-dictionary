@@ -6,6 +6,8 @@ This is the **Holyoke St. Patrick's** sett — one scale-free proportion (`r8db8
 [RBGBGBGBGW](/stripes/rbgbgbgbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Holyoke St Patrick's](/tartans/h/ho/holyoke-st-patrick-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

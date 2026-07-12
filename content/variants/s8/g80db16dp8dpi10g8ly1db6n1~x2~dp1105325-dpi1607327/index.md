@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather Isle"
+  url: "/tartans/h/he/heather-isle/"
+- name: "Heather Isle"
   url: "/setts/g80db16dp8dpi10g8ly1db6n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g80db16dp8dpi10g8ly1db6n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGYBBBYGBBBG](/stripes/bbbgybbbygbbbg/).
+
+Part of the [Heather Isle](/tartans/h/he/heather-isle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

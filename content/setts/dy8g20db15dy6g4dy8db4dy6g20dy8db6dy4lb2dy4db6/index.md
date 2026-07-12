@@ -6,6 +6,8 @@ This is the **Unidentified Fragment Artifact Tartan** sett — one scale-free pr
 [BGWGBGGGBGGGBGG](/stripes/bgwgbgggbgggbgg/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Unidentified Fragment](/tartans/u/un/unidentified-fragment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

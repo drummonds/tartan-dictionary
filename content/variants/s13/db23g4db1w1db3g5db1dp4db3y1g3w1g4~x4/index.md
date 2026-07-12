@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Riyadh Caledonian"
+  url: "/tartans/r/ri/riyadh-caledonian/"
 - name: "Riyadh Caledonian (Corporate)"
   url: "/setts/db23g4db1w1db3g5db1dp4db3y1g3w1g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db23g4db1w1db3g5db1dp4db3y1g3w1g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBGBBBGGWG](/stripes/bgbwbgbbbggwg/).
+
+Part of the [Riyadh Caledonian](/tartans/r/ri/riyadh-caledonian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

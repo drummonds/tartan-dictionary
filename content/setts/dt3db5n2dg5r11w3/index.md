@@ -6,6 +6,8 @@ This is the **Nicolson of Lewis (Clan?)** sett — one scale-free proportion (`d
 [BBBGRW](/stripes/bbbgrw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Nicolson of Lewis](/tartans/n/ni/nicolson-of-lewis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

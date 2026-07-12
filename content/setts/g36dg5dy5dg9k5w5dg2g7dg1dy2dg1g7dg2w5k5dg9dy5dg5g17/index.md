@@ -6,6 +6,8 @@ This is the **Irish National District Tartan** sett — one scale-free proportio
 [GGGGKWGGGGGGGWKGGGG](/stripes/ggggkwgggggggwkgggg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Irish National](/tartans/i/ir/irish-national-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

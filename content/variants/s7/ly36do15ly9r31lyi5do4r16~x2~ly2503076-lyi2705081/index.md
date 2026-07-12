@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manhattan Ethnic"
+  url: "/tartans/m/ma/manhattan-ethnic/"
+- name: "Manhattan Ethnic"
   url: "/setts/ly36do15ly9r31lyi5do4r16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly36do15ly9r31lyi5do4r16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYRYBY](/stripes/rbyryby/).
+
+Part of the [Manhattan Ethnic](/tartans/m/ma/manhattan-ethnic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Anthony Plaid Stewart** sett — one scale-free proportion (`dg18k
 [GKGKYGBKBY](/stripes/gkgkygbkby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anthony Plaid Stewart](/tartans/a/an/anthony-plaid-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "IAPD"
+  url: "/tartans/i/ia/iapd-2/"
+- name: "IAPD"
   url: "/setts/k8w7k2w3k2w3k2w3k2w7g18dp27w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8w7k2w3k2w3k2w3k2w7g18dp27w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWKWGBW](/stripes/kwkwkwkwkwgbw/).
+
+Part of the [IAPD](/tartans/i/ia/iapd-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Comme Ça Il Conte** sett — one scale-free proportion (`db16k3db
 [BKBKWKGKB](/stripes/bkbkwkgkb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Comme Ça Il Conte](/tartans/c/co/comme-a-il-conte/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

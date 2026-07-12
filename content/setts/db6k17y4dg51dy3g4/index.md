@@ -6,6 +6,8 @@ This is the **U.S. Army (Military)** sett — one scale-free proportion (`db6k17
 [BKGGGG](/stripes/bkgggg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [U.S. Army](/tartans/u/u/u-s-army-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

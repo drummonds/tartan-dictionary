@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bryan Wedding"
-  url: "/tartans/bryan-wedding/"
+  url: "/tartans/b/br/bryan-wedding/"
 - name: "Bryan Wedding (Personal)"
   url: "/setts/dy30ly5lb10k10w2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy30ly5lb10k10w2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYWKWK](/stripes/gywkwk/).
 
-Part of the [Bryan Wedding](/tartans/bryan-wedding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bryan Wedding](/tartans/b/br/bryan-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

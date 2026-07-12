@@ -6,7 +6,7 @@ This is the **Blairgowrie Berries and Cherries** sett — one scale-free proport
 [BGRRB](/stripes/bgrrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Blairgowrie Berries and Cherries](/tartans/blairgowrie-berries-and-cherries/) tartan — the named design grouping this sett with its kin.
+Part of the [Blairgowrie Berries and Cherries](/tartans/b/bl/blairgowrie-berries-and-cherries/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Crieff Highland Gathering Corporate Tartan** sett — one scale-fr
 [KBGBRBKBW](/stripes/kbgbrbkbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Crieff Highland Gathering](/tartans/c/cr/crieff-highland-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

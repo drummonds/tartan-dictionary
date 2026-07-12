@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Swedish Dance"
+  url: "/tartans/s/sw/swedish-dance/"
 - name: "Swedish #2"
   url: "/setts/db80lo1k4lo4k4lo4k22g36db4t6lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db80lo1k4lo4k4lo4k22g36db4t6lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYKYKGBBW](/stripes/bykykykgbbw/).
+
+Part of the [Swedish Dance](/tartans/s/sw/swedish-dance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

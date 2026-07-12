@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tache, Sir Etienne Paschal"
+  url: "/tartans/t/ta/tache-sir-etienne-paschal/"
+- name: "Tache, Sir Etienne Paschal"
   url: "/setts/lr2dr1r24dr16dt20db3dt3ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr2dr1r24dr16dt20db3dt3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBBBBRBY](/stripes/ybbbbrby/).
+
+Part of the [Tache, Sir Etienne Paschal](/tartans/t/ta/tache-sir-etienne-paschal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

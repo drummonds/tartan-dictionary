@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North Sea Oil"
+  url: "/tartans/n/no/north-sea-oil/"
 - name: "North Sea Oil (Fashion)"
   url: "/setts/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBKBGBKBKBKRKBKR](/stripes/krbkbgbkbkbkrkbkr/).
+
+Part of the [North Sea Oil](/tartans/n/no/north-sea-oil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

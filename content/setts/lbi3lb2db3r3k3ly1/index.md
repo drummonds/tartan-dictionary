@@ -6,6 +6,8 @@ This is the **Becker (Name)** sett — one scale-free proportion (`lbi3lb2db3r3k
 [WWBRKY](/stripes/wwbrky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Becker](/tartans/b/be/becker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

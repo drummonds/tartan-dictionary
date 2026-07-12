@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lennox"
-  url: "/tartans/lennox/"
+  url: "/tartans/l/le/lennox/"
 - name: "Lennox"
   url: "/setts/ri2r1ri10r2g10w1g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri2r1ri10r2g10w1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRRRR](/stripes/gwgrrrr/).
 
-Part of the [Lennox](/tartans/lennox/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lennox](/tartans/l/le/lennox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

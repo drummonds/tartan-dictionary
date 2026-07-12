@@ -6,6 +6,8 @@ This is the **Robieson Kith & Kin (Personal)** sett — one scale-free proportio
 [WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Robieson Kith & Kin](/tartans/r/ro/robieson-kith-kin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

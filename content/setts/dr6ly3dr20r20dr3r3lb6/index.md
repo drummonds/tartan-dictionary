@@ -6,6 +6,8 @@ This is the **Banff** sett — one scale-free proportion (`dr6ly3dr20r20dr3r3lb6
 [BYBRBRW](/stripes/bybrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Banff](/tartans/b/ba/banff-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

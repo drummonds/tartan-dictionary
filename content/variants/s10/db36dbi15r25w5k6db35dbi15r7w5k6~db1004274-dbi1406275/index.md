@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Le Mirage"
+  url: "/tartans/l/le/le-mirage/"
 - name: "Le Mirage (Corporate?)"
   url: "/setts/db36dbi15r25w5k6db35dbi15r7w5k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db36dbi15r25w5k6db35dbi15r7w5k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRWKBBRWK](/stripes/bbrwkbbrwk/).
+
+Part of the [Le Mirage](/tartans/l/le/le-mirage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

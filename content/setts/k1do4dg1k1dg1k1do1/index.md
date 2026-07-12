@@ -6,6 +6,8 @@ This is the **McCanna NW (Olympia, USA) Hunting (Personal)** sett — one scale-
 [BKGKGBK](/stripes/bkgkgbk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [McCanna NW Hunting](/tartans/m/mc/mccanna-nw-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

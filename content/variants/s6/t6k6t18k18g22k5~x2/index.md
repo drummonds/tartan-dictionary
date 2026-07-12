@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Campbell"
   url: "/clan/campbell/"
 - name: "Campbell, The 42nd"
-  url: "/tartans/campbell-the-42nd/"
+  url: "/tartans/c/ca/campbell-the-42nd/"
 - name: "Campbell, The 42nd"
   url: "/setts/t6k6t18k18g22k5/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t6k6t18k18g22k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGK](/stripes/bkbkgk/).
 
-Part of the [Campbell, The 42nd](/tartans/campbell-the-42nd/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell, The 42nd](/tartans/c/ca/campbell-the-42nd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

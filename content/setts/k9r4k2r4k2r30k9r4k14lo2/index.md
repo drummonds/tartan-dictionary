@@ -6,6 +6,8 @@ This is the **Hanna of Falkirk (Clan?)** sett — one scale-free proportion (`k9
 [KRKRKRKRKY](/stripes/krkrkrkrky/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Hanna of Falkirk](/tartans/h/ha/hanna-of-falkirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

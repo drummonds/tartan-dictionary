@@ -6,6 +6,8 @@ This is the **Micron** sett — one scale-free proportion (`k30t40dy3t5w2t6`), c
 [BWBGBK](/stripes/bwbgbk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Micron](/tartans/m/mi/micron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

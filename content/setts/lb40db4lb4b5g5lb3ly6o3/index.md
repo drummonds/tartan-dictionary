@@ -6,6 +6,8 @@ This is the **Miller Hargreaves (Personal)** sett — one scale-free proportion 
 [RYWGBWBW](/stripes/rywgbwbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Miller Hargreaves](/tartans/m/mi/miller-hargreaves-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

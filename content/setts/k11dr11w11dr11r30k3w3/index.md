@@ -6,6 +6,8 @@ This is the **Swallow (Personal)** sett — one scale-free proportion (`k11dr11w
 [KBWBRKW](/stripes/kbwbrkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Swallow](/tartans/s/sw/swallow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

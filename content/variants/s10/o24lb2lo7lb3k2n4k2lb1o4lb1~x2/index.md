@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "VeMMA"
+  url: "/tartans/v/ve/vemma/"
+- name: "VeMMA"
   url: "/setts/o24lb2lo7lb3k2n4k2lb1o4lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o24lb2lo7lb3k2n4k2lb1o4lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYWKBKWRW](/stripes/rwywkbkwrw/).
+
+Part of the [VeMMA](/tartans/v/ve/vemma/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

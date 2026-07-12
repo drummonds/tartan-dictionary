@@ -6,6 +6,8 @@ This is the **Glenturret Corporate Tartan** sett — one scale-free proportion (
 [GBGKGK](/stripes/gbgkgk/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glenturret](/tartans/g/gl/glenturret/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

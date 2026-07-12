@@ -6,6 +6,8 @@ This is the **Queen of the South** sett — one scale-free proportion (`w3dg22b1
 [BGBBBGW](/stripes/bgbbbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Queen of the South](/tartans/q/qu/queen-of-the-south/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

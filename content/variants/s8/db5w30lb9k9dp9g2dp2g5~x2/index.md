@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Alexander"
+  url: "/clan/alexander/"
+- name: "Alexander of Menstry"
+  url: "/families/alexander-of-menstry/"
+- name: "Alexander of Menstry Dress"
+  url: "/tartans/a/al/alexander-of-menstry-dress/"
 - name: "Alexander of Menstry Dress"
   url: "/setts/db5w30lb9k9dp9g2dp2g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5w30lb9k9dp9g2dp2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWKBGBG](/stripes/bwwkbgbg/).
+
+Part of the [Alexander of Menstry Dress](/tartans/a/al/alexander-of-menstry-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

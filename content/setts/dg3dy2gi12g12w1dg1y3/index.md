@@ -6,6 +6,8 @@ This is the **Braemar House Corporate Tartan** sett — one scale-free proportio
 [GGGGWGG](/stripes/ggggwgg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Braemar House](/tartans/b/br/braemar-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

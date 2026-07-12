@@ -6,6 +6,8 @@ This is the **Pride of the Highlands (Fashion)** sett — one scale-free proport
 [BWBKBYBGBR](/stripes/bwbkbybgbr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Pride of the Highlands](/tartans/p/pr/pride-of-the-highlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

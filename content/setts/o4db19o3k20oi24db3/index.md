@@ -6,6 +6,8 @@ This is the **Edinburgh International Conference Centre** sett — one scale-fre
 [BRKRBR](/stripes/brkrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Edinburgh International Conference Centre](/tartans/e/ed/edinburgh-international-conference-centre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

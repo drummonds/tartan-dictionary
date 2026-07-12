@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Legion of Frontiersmen"
+  url: "/tartans/l/le/legion-of-frontiersmen/"
 - name: "Legion of Frontiersmen (Corporate)"
   url: "/setts/k45ly10g7r3w4db13w9r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k45ly10g7r3w4db13w9r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGRWBWR](/stripes/kygrwbwr/).
+
+Part of the [Legion of Frontiersmen](/tartans/l/le/legion-of-frontiersmen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

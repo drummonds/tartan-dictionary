@@ -6,6 +6,8 @@ This is the **Marist School, The** sett — one scale-free proportion (`db29dbi2
 [BBBBBBWY](/stripes/bbbbbbwy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Marist](/tartans/m/ma/marist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

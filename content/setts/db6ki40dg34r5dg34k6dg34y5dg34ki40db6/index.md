@@ -6,6 +6,8 @@ This is the **Pendleton dress** sett — one scale-free proportion (`db6ki40dg34
 [BKGGGKGRGKB](/stripes/bkgggkgrgkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Pendleton dress](/tartans/p/pe/pendleton-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

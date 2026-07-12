@@ -6,6 +6,8 @@ This is the **Teall of Teallach Family Tartan** sett — one scale-free proporti
 [GRKWGBKWK](/stripes/grkwgbkwk/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Teall of Teallach](/tartans/t/te/teall-of-teallach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

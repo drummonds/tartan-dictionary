@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burt's Highlanders"
+  url: "/tartans/b/bu/burt-s-highlanders/"
 - name: "Burt's Highlanders (Fashion)"
   url: "/setts/lr40g13lr6db13lr22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr40g13lr6db13lr22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYGY](/stripes/ybygy/).
+
+Part of the [Burt's Highlanders](/tartans/b/bu/burt-s-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

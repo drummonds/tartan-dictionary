@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham"
+  url: "/tartans/g/gr/graham-2/"
 - name: "Graham Grey - 1820 (Fashion?)"
   url: "/setts/n25k9n10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n25k9n10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBW](/stripes/bkbw/).
+
+Part of the [Graham](/tartans/g/gr/graham-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

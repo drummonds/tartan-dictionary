@@ -6,6 +6,8 @@ This is the **State Seal of Pennsylvania (Fashion)** sett — one scale-free pro
 [WKBWGKGKY](/stripes/wkbwgkgky/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Pennsylvania](/tartans/s/st/state-seal-of-pennsylvania/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

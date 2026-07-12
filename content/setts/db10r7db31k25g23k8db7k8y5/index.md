@@ -6,7 +6,7 @@ This is the **MacCallum, of Berwick** sett — one scale-free proportion (`db10r
 [BRBKGKBKG](/stripes/brbkgkbkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacCallum of Berwick](/tartans/maccallum-of-berwick/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCallum of Berwick](/tartans/m/ma/maccallum-of-berwick/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

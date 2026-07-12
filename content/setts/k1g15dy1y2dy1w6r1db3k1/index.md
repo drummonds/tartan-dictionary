@@ -6,6 +6,8 @@ This is the **Nor Westers Tartan** sett — one scale-free proportion (`k1g15dy1
 [KBRWGGGGK](/stripes/kbrwggggk/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Nor Westers](/tartans/n/no/nor-westers-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

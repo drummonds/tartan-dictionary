@@ -6,7 +6,7 @@ This is the **Glen Shee** sett — one scale-free proportion (`r37o9r3g9o3`), co
 [RGRRR](/stripes/rgrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Glen Shee](/tartans/glen-shee/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Shee](/tartans/g/gl/glen-shee/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

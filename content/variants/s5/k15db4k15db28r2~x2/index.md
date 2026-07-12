@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
+- name: "MacKay"
+  url: "/tartans/m/ma/mackay-5/"
 - name: "MacKay (Blue) #2"
   url: "/setts/k15db4k15db28r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15db4k15db28r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBR](/stripes/kbkbr/).
+
+Part of the [MacKay](/tartans/m/ma/mackay-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

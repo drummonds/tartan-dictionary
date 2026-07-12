@@ -6,6 +6,8 @@ This is the **Nunes (2014)** sett — one scale-free proportion (`k32w12r1w2r15`
 [KWRWR](/stripes/kwrwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Nunes](/tartans/n/nu/nunes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

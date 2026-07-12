@@ -6,6 +6,8 @@ This is the **Robitaille, Jean-Francois (Personal)** sett — one scale-free pro
 [BWYWYWKWGBRY](/stripes/bwywywkwgbry/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Robitaille, Jean-Francois](/tartans/r/ro/robitaille-jean-francois/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

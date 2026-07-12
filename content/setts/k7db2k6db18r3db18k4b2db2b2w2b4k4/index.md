@@ -6,6 +6,8 @@ This is the **Pride of Norway (Fashion)** sett — one scale-free proportion (`k
 [KBKBRBKBBBWBK](/stripes/kbkbrbkbbbwbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Pride of Norway](/tartans/p/pr/pride-of-norway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

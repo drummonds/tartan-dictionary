@@ -6,7 +6,7 @@ This is the **Peterhead (Personal)** sett — one scale-free proportion (`g9lb1g
 [GKGWG](/stripes/gkgwg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Peterhead](/tartans/peterhead/) tartan — the named design grouping this sett with its kin.
+Part of the [Peterhead](/tartans/p/pe/peterhead/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kazakhstan Relic"
+  url: "/tartans/k/ka/kazakhstan-relic/"
 - name: "Kazakhstan Relic (Artefact)"
   url: "/setts/ly5db5k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly5db5k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBY](/stripes/kby/).
+
+Part of the [Kazakhstan Relic](/tartans/k/ka/kazakhstan-relic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

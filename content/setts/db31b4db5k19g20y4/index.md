@@ -6,7 +6,7 @@ This is the **Midlothian** sett — one scale-free proportion (`db31b4db5k19g20y
 [BBBKGG](/stripes/bbbkgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Midlothian](/tartans/midlothian/) tartan — the named design grouping this sett with its kin.
+Part of the [Midlothian](/tartans/m/mi/midlothian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

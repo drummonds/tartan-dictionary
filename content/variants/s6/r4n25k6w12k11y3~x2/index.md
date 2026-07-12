@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thomson Dress"
-  url: "/tartans/thomson-dress/"
+  url: "/tartans/t/th/thomson-dress/"
 - name: "Thomson Dress (Grey) (Fashion)"
   url: "/setts/r4n25k6w12k11y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4n25k6w12k11y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKBR](/stripes/gkwkbr/).
 
-Part of the [Thomson Dress](/tartans/thomson-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Thomson Dress](/tartans/t/th/thomson-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith, Sir William"
+  url: "/tartans/s/sm/smith-sir-william/"
 - name: "Smith, Sir William (?)"
   url: "/setts/ly3k1g20k20db18lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly3k1g20k20db18lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKGKY](/stripes/wbkgky/).
+
+Part of the [Smith, Sir William](/tartans/s/sm/smith-sir-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

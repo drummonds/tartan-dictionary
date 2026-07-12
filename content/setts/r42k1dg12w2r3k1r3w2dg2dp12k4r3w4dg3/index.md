@@ -6,7 +6,7 @@ This is the **MacFarlane (Lord Lyon sett)** sett — one scale-free proportion (
 [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/). It is recorded as a single **variant**, below.
 First attested **1957**.
 
-Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFarlane](/tartans/m/ma/macfarlane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

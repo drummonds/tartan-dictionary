@@ -6,6 +6,8 @@ This is the **Murray** sett — one scale-free proportion (`db2k1db6k6g6r2g6k6db
 [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrgkbkb/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Murray](/tartans/m/mu/murray-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

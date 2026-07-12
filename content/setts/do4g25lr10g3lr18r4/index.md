@@ -6,6 +6,8 @@ This is the **Unidentfied (Ligioner Highland Games** sett — one scale-free pro
 [BGYGYR](/stripes/bgygyr/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Unidentfied (Ligioner Highland Games](/tartans/u/un/unidentfied-ligioner-highland-games/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

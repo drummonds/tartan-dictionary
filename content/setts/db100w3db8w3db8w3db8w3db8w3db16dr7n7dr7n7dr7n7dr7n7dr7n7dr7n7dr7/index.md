@@ -6,6 +6,8 @@ This is the **Old Glory (1824)** sett — one scale-free proportion (`db100w3db8
 [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Old Glory](/tartans/o/ol/old-glory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

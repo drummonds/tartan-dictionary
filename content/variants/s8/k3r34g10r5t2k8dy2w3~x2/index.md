@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lambert Greer"
-  url: "/tartans/lambert-greer/"
+  url: "/tartans/l/la/lambert-greer/"
 - name: "Lambert Greer (Personal)"
   url: "/setts/k3r34g10r5t2k8dy2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r34g10r5t2k8dy2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRBKGW](/stripes/krgrbkgw/).
 
-Part of the [Lambert Greer](/tartans/lambert-greer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lambert Greer](/tartans/l/la/lambert-greer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Heriot (Fashion)** sett — one scale-free proportion (`o20db2o2db
 [BWBYBRBR](/stripes/bwbybrbr/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
-Part of the [Heriot](/tartans/heriot/) tartan — the named design grouping this sett with its kin.
+Part of the [Heriot](/tartans/h/he/heriot/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

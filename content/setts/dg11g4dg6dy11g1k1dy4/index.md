@@ -6,7 +6,7 @@ This is the **Calais (Fashion)** sett — one scale-free proportion (`dg11g4dg6d
 [GGGGGKG](/stripes/gggggkg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Calais](/tartans/calais/) tartan — the named design grouping this sett with its kin.
+Part of the [Calais](/tartans/c/ca/calais/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

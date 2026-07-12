@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Connemara"
+  url: "/tartans/c/co/connemara/"
+- name: "Connemara"
   url: "/setts/y3dg1g3dg16dr32dg1dy1db4g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dg1g3dg16dr32dg1dy1db4g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBGGGG](/stripes/gbggbgggg/).
+
+Part of the [Connemara](/tartans/c/co/connemara/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

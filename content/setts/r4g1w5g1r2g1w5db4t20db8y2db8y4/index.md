@@ -6,6 +6,8 @@ This is the **Pille Family (Belgium) (Personal)** sett — one scale-free propor
 [GBGBBBWGRGWGR](/stripes/gbgbbbwgrgwgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Pille](/tartans/p/pi/pille/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

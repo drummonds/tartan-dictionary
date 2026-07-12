@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams Lake"
+  url: "/tartans/w/wi/williams-lake/"
 - name: "Williams Lake Canadian District Tartan"
   url: "/setts/y6k1y3g3w3r3k2r3db3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6k1y3g3w3r3k2r3db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGWRKRBWBRKRWGGK](/stripes/gkggwrkrbwbrkrwggk/).
+
+Part of the [Williams Lake](/tartans/w/wi/williams-lake/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **MacAndrew Dress (Name)** sett — one scale-free proportion (`r72k
 [BRGRKR](/stripes/brgrkr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [MacAndrew Dress](/tartans/m/ma/macandrew-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

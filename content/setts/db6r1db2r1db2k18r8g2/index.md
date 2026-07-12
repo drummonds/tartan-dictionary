@@ -7,6 +7,8 @@ This is the **Brown** sett — one scale-free proportion (`db6r1db2r1db2k18r8g2`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
+Part of the [Brown](/tartans/b/br/brown/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

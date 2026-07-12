@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hanly"
+  url: "/tartans/h/ha/hanly/"
+- name: "Hanly"
   url: "/setts/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGGWKGKGKG](/stripes/gggggggggwkgkgkg/).
+
+Part of the [Hanly](/tartans/h/ha/hanly/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

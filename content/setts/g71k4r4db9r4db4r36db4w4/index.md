@@ -7,6 +7,8 @@ This is the **Rattay** sett — one scale-free proportion (`g71k4r4db9r4db4r36db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
+Part of the [Rattay](/tartans/r/ra/rattay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

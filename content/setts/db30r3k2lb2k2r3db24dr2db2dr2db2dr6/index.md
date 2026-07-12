@@ -6,6 +6,8 @@ This is the **Rosie (Personal)** sett — one scale-free proportion (`db30r3k2lb
 [BBBBBBRKWKRB](/stripes/bbbbbbrkwkrb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Rosie](/tartans/r/ro/rosie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

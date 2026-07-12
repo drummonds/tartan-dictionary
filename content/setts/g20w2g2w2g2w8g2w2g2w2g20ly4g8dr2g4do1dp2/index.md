@@ -6,7 +6,7 @@ This is the **Bryant (Name)** sett — one scale-free proportion (`g20w2g2w2g2w8
 [BBGBGYGWGWGWGWGWG](/stripes/bbgbgygwgwgwgwgwg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Bryant](/tartans/bryant-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Bryant](/tartans/b/br/bryant-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

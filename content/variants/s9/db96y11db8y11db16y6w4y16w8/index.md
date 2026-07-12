@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of North Carolina"
+  url: "/tartans/u/un/university-of-north-carolina/"
 - name: "University of North Carolina at Greensboro, The"
   url: "/setts/db96y11db8y11db16y6w4y16w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db96y11db8y11db16y6w4y16w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWGW](/stripes/bgbgbgwgw/).
+
+Part of the [University of North Carolina](/tartans/u/un/university-of-north-carolina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

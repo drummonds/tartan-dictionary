@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Livingston, dress"
+  url: "/tartans/l/li/livingston-dress/"
+- name: "Livingston, dress"
   url: "/setts/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/).
+
+Part of the [Livingston, dress](/tartans/l/li/livingston-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

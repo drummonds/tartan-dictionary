@@ -6,6 +6,8 @@ This is the **Ailsa, Grey (Fashion)** sett — one scale-free proportion (`o9w9o
 [GWRWRBRWR](/stripes/gwrwrbrwr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Ailsa](/tartans/a/ai/ailsa-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

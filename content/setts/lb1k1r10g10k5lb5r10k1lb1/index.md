@@ -6,6 +6,8 @@ This is the **Graham Red** sett — one scale-free proportion (`lb1k1r10g10k5lb5
 [WKRGKWRKW](/stripes/wkrgkwrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Graham](/tartans/g/gr/graham-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

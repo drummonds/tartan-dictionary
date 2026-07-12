@@ -6,6 +6,8 @@ This is the **Oxford University** sett — one scale-free proportion (`g16db59ly
 [BGBYBG](/stripes/bgbybg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Oxford University](/tartans/o/ox/oxford-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

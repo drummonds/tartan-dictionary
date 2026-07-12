@@ -6,6 +6,8 @@ This is the **Aberdeen F.C. Corporate Tartan** sett — one scale-free proportio
 [GWBRBRBY](/stripes/gwbrbrby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Aberdeen F.C.](/tartans/a/ab/aberdeen-f-c-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

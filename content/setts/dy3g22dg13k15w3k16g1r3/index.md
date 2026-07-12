@@ -6,6 +6,8 @@ This is the **Lawson, William** sett — one scale-free proportion (`dy3g22dg13k
 [GGGKWKGR](/stripes/gggkwkgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Lawson, William](/tartans/l/la/lawson-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gullane** sett — one scale-free proportion (`k10n2k3r2w1r3w1r4w1
 [KBKRWRWRWRWRWRWBWBWBWKW](/stripes/kbkrwrwrwrwrwrwbwbwbwkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Gullane](/tartans/g/gu/gullane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

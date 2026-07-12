@@ -6,6 +6,8 @@ This is the **Robert, Burns check** sett — one scale-free proportion (`w2k2w2k
 [RGRWKWKWKW](/stripes/rgrwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Robert, Burns check](/tartans/r/ro/robert-burns-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

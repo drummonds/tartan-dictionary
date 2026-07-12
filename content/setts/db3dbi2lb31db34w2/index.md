@@ -6,6 +6,8 @@ This is the **Gilt Edge (Corporate)** sett — one scale-free proportion (`db3db
 [BBWBW](/stripes/bbwbw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Gilt Edge](/tartans/g/gi/gilt-edge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

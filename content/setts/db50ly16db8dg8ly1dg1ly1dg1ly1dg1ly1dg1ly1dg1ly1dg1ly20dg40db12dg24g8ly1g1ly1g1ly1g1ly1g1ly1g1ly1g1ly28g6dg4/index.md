@@ -6,7 +6,7 @@ This is the **Nova Scotia (Commemorative)** sett — one scale-free proportion (
 [BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG](/stripes/bybgygygygygygygygbggygygygygygygygg/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design grouping this sett with its kin.
+Part of the [Nova Scotia](/tartans/n/no/nova-scotia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

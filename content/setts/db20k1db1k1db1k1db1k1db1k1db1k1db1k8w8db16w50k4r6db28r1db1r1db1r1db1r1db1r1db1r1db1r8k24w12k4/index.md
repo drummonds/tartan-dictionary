@@ -6,6 +6,8 @@ This is the **Quebec, Centennial** sett — one scale-free proportion (`db20k1db
 [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbkbkbkwbwkrbrbrbrbrbrbrbrkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Quebec, Centennial](/tartans/q/qu/quebec-centennial-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

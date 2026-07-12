@@ -6,6 +6,8 @@ This is the **Taiwan Scottish** sett — one scale-free proportion (`r13w2r13k3d
 [RWRKBGBKBKBKBW](/stripes/rwrkbgbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Taiwan Scottish](/tartans/t/ta/taiwan-scottish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

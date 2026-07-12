@@ -6,6 +6,8 @@ This is the **Harry (Welsh Name)** sett — one scale-free proportion (`db6n3db3
 [BBBBRBRBRB](/stripes/bbbbrbrbrb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Harry](/tartans/h/ha/harry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

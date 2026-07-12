@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Perry Golf"
+  url: "/tartans/p/pe/perry-golf/"
+- name: "Perry Golf"
   url: "/setts/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYBBBBBBBBYR](/stripes/bybybybbbbbbbbyr/).
+
+Part of the [Perry Golf](/tartans/p/pe/perry-golf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

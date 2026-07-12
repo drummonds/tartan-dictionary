@@ -6,6 +6,8 @@ This is the **Buchele Check (Fashion?)** sett — one scale-free proportion (`r4
 [GYGRYR](/stripes/gygryr/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Buchele Check](/tartans/b/bu/buchele-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

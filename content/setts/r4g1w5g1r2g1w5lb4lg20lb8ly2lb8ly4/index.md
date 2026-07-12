@@ -6,6 +6,8 @@ This is the **Pille Family (Personal)** sett — one scale-free proportion (`r4g
 [RGWGRGWWYWYWY](/stripes/rgwgrgwwywywy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Pille](/tartans/p/pi/pille-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

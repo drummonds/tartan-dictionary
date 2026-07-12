@@ -6,7 +6,7 @@ This is the **MacLeod of Skye (Johnston)** sett — one scale-free proportion (`
 [BKBKBKGKGKGKBR](/stripes/bkbkbkgkgkgkbr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacLeod of Skye](/tartans/macleod-of-skye/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Skye](/tartans/m/ma/macleod-of-skye/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

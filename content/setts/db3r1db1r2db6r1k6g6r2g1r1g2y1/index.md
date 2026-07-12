@@ -7,6 +7,8 @@ This is the **Carnegie** sett — one scale-free proportion (`db3r1db1r2db6r1k6g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1715**.
 
+Part of the [Carnegie](/tartans/c/ca/carnegie-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

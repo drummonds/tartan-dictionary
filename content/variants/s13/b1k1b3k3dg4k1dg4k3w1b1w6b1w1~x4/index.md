@@ -9,12 +9,16 @@ crumbs:
   url: "/groups/military/"
 - name: "Black Watch"
   url: "/groups/military/black-watch/"
+- name: "Black Watch Dress"
+  url: "/tartans/b/bl/black-watch-dress-2/"
 - name: "Black Watch Dress (Fashion)"
   url: "/setts/b1k1b3k3dg4k1dg4k3w1b1w6b1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b1k1b3k3dg4k1dg4k3w1b1w6b1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
+
+Part of the [Black Watch Dress](/tartans/b/bl/black-watch-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

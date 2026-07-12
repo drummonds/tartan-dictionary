@@ -6,6 +6,8 @@ This is the **Falkirk Football Club (Corporate)** sett — one scale-free propor
 [BRBKBKBRW](/stripes/brbkbkbrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Falkirk Football Club](/tartans/f/fa/falkirk-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

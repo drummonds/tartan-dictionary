@@ -6,6 +6,8 @@ This is the **Glen and Son, William (Corporate)** sett — one scale-free propor
 [BKBKBRKBWBW](/stripes/bkbkbrkbwbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Glen and Son, William](/tartans/g/gl/glen-and-son-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenmoidart"
+  url: "/tartans/g/gl/glenmoidart/"
+- name: "Glenmoidart"
   url: "/setts/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3ly2dy2w3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYGWYGWYGWYGWYGWYGWYGWYGWR](/stripes/gwygwygwygwygwygwygwygwygwr/).
+
+Part of the [Glenmoidart](/tartans/g/gl/glenmoidart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 

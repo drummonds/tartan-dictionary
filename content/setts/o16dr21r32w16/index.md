@@ -6,6 +6,8 @@ This is the **Bloomer-Alexander (Personal)** sett — one scale-free proportion 
 [RBRW](/stripes/rbrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bloomer-Alexander](/tartans/b/bl/bloomer-alexander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

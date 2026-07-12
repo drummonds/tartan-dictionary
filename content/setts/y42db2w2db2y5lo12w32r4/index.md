@@ -6,6 +6,8 @@ This is the **Comrie, Gold (Dance)** sett — one scale-free proportion (`y42db2
 [GBWBGYWR](/stripes/gbwbgywr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Comrie Gold](/tartans/c/co/comrie-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

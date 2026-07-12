@@ -6,6 +6,8 @@ This is the **Border Sett** sett — one scale-free proportion (`w75dy1r20w16r20
 [RGWGWRWRGW](/stripes/rgwgwrwrgw/). It is recorded as a single **variant**, below.
 First attested **1818**.
 
+Part of the [Border Sett](/tartans/b/bo/border-sett-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

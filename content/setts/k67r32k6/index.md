@@ -6,6 +6,8 @@ This is the **Lendrum or MacFarlane Clan Tartan** sett — one scale-free propor
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
+Part of the [Lendrum or MacFarlane](/tartans/l/le/lendrum-or-macfarlane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

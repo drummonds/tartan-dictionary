@@ -6,6 +6,8 @@ This is the **Nicolson of Tiree & Coll (Clan)** sett — one scale-free proporti
 [BKBRBG](/stripes/bkbrbg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Nicolson of Tiree & Coll](/tartans/n/ni/nicolson-of-tiree-coll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

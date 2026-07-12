@@ -6,6 +6,8 @@ This is the **Alyssa's Theme** sett — one scale-free proportion (`k2r13k8n2r1k
 [BKBKRBRKRBKRK](/stripes/bkbkrbrkrbkrk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Alyssa's Theme](/tartans/a/al/alyssa-s-theme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

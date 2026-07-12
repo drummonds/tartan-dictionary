@@ -6,6 +6,8 @@ This is the **Cadenhead (2015)** sett — one scale-free proportion (`lb54dy4n4g
 [BGWGRGBGW](/stripes/bgwgrgbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Cadenhead](/tartans/c/ca/cadenhead/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

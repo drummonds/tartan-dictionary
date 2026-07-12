@@ -6,6 +6,8 @@ This is the **Lochaber District** sett — one scale-free proportion (`db2g1db16
 [BGBRKGRG](/stripes/bgbrkgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lochaber District](/tartans/l/lo/lochaber-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

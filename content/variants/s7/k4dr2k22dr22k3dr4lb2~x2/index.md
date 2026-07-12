@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies of Culdares"
+  url: "/families/menzies-of-culdares/"
+- name: "Menzies of Culdares"
+  url: "/tartans/m/me/menzies-of-culdares/"
 - name: "Menzies of Culdares"
   url: "/setts/k4dr2k22dr22k3dr4lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dr2k22dr22k3dr4lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
+
+Part of the [Menzies of Culdares](/tartans/m/me/menzies-of-culdares/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

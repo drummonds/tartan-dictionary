@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Riley-Utter Union"
-  url: "/tartans/riley-utter-union/"
+  url: "/tartans/r/ri/riley-utter-union/"
 - name: "Riley-Utter Union (Personal)"
   url: "/setts/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRGWGWGRGR](/stripes/brbrgrgrgwgwgrgr/).
 
-Part of the [Riley-Utter Union](/tartans/riley-utter-union/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Riley-Utter Union](/tartans/r/ri/riley-utter-union/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

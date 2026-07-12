@@ -6,6 +6,8 @@ This is the **Largan (?)** sett — one scale-free proportion (`db8k39db8k39db87
 [BKBKBR](/stripes/bkbkbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Largan](/tartans/l/la/largan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

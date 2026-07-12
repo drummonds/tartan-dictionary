@@ -6,6 +6,8 @@ This is the **University of Nebraska Alumni Association** sett — one scale-fre
 [KRKRKWKW](/stripes/krkrkwkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [University of Nebraska](/tartans/u/un/university-of-nebraska/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

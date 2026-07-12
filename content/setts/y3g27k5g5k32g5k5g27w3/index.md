@@ -6,7 +6,7 @@ This is the **MacIver hunting** sett — one scale-free proportion (`y3g27k5g5k3
 [GGKGKGKGW](/stripes/ggkgkgkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacIver Hunting](/tartans/maciver-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacIver Hunting](/tartans/m/ma/maciver-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

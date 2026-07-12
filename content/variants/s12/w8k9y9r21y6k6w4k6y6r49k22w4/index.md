@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Normandy"
+  url: "/tartans/n/no/normandy/"
 - name: "Normandy (Fashion)"
   url: "/setts/w8k9y9r21y6k6w4k6y6r49k22w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8k9y9r21y6k6w4k6y6r49k22w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGRGKWKGRKW](/stripes/wkgrgkwkgrkw/).
+
+Part of the [Normandy](/tartans/n/no/normandy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

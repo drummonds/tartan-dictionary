@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jewell"
+  url: "/clan/jewell/"
+- name: "Jewell of Kernow"
+  url: "/families/jewell-of-kernow/"
+- name: "Jewell of Kernow"
+  url: "/tartans/j/je/jewell-of-kernow-2/"
 - name: "Jewell of Kernow (Personal)"
   url: "/setts/w6k29o29dp7k3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6k29o29dp7k3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBRKW](/stripes/rkbrkw/).
+
+Part of the [Jewell of Kernow](/tartans/j/je/jewell-of-kernow-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

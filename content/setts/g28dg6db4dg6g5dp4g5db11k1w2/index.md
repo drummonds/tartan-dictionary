@@ -6,6 +6,8 @@ This is the **Camenisch Enveglan Family (Personal)** sett — one scale-free pro
 [GGBGGBGBKW](/stripes/ggbggbgbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Camenisch Enveglan](/tartans/c/ca/camenisch-enveglan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ch. Supt. Everett and Mrs Julene Sum"
+  url: "/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/"
+- name: "Ch. Supt. Everett and Mrs Julene Sum"
   url: "/setts/r9w27k7w45lb60dg4lo5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9w27k7w45lb60dg4lo5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWWGY](/stripes/rwkwwgy/).
+
+Part of the [Ch. Supt. Everett and Mrs Julene Sum](/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Loch Lomond & the Trossachs (Fashion** sett — one scale-free pro
 [WKGRBKYKRW](/stripes/wkgrbkykrw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Loch Lomond & the Trossachs (Fashion](/tartans/l/lo/loch-lomond-the-trossachs-fashion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

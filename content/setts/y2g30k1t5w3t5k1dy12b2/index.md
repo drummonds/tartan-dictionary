@@ -6,6 +6,8 @@ This is the **St Brigid's Quirindi** sett — one scale-free proportion (`y2g30k
 [BGKBWBKGG](/stripes/bgkbwbkgg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [St Brigid's Quirindi](/tartans/s/st/st-brigid-s-quirindi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

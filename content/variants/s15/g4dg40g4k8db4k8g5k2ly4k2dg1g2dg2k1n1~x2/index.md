@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eastern Shore Police"
+  url: "/tartans/e/ea/eastern-shore-police/"
 - name: "Eastern Shore Police (Corporate)"
   url: "/setts/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGKYKGKBKGGG](/stripes/bkgggkykgkbkggg/).
+
+Part of the [Eastern Shore Police](/tartans/e/ea/eastern-shore-police/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

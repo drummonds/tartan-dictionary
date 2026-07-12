@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lusk"
+  url: "/tartans/l/lu/lusk/"
 - name: "Lusk (Personal)"
   url: "/setts/k2g30k3dbi4k2db18lb1k3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g30k3dbi4k2db18lb1k3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKBWKR](/stripes/kgkbkbwkr/).
+
+Part of the [Lusk](/tartans/l/lu/lusk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

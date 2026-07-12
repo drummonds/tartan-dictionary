@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Palmer, General W.J."
+  url: "/tartans/p/pa/palmer-general-w-j/"
+- name: "Palmer, General W.J."
   url: "/setts/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRWRWRRRWRWBGKBW](/stripes/rrwrwrrrwrwbgkbw/).
+
+Part of the [Palmer, General W.J.](/tartans/p/pa/palmer-general-w-j/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

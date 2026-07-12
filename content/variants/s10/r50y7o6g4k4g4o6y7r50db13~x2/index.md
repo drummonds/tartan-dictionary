@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harding"
+  url: "/tartans/h/ha/harding-2/"
 - name: "Harding (Florida) (Personal)"
   url: "/setts/r50y7o6g4k4g4o6y7r50db13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50y7o6g4k4g4o6y7r50db13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGKGRGR](/stripes/brgrgkgrgr/).
+
+Part of the [Harding](/tartans/h/ha/harding-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

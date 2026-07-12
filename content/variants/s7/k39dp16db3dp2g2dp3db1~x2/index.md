@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Torridon Dress"
+  url: "/tartans/t/to/torridon-dress/"
 - name: "Torridon Dress Tartan"
   url: "/setts/k39dp16db3dp2g2dp3db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k39dp16db3dp2g2dp3db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBKKKKK](/stripes/bbgbbbkkkkk/).
+
+Part of the [Torridon Dress](/tartans/t/to/torridon-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

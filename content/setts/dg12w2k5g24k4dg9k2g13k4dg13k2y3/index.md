@@ -6,6 +6,8 @@ This is the **Handley (Personal)** sett — one scale-free proportion (`dg12w2k5
 [GKGKGKGKGKWG](/stripes/gkgkgkgkgkwg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Handley](/tartans/h/ha/handley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

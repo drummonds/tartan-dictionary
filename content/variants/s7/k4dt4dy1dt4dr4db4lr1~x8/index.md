@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blackdown Hills"
+  url: "/tartans/b/bl/blackdown-hills-2/"
+- name: "Blackdown Hills"
   url: "/setts/k4dt4dy1dt4dr4db4lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dt4dy1dt4dr4db4lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBBBY](/stripes/kbgbbby/).
+
+Part of the [Blackdown Hills](/tartans/b/bl/blackdown-hills-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

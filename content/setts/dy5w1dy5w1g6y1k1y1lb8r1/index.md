@@ -6,6 +6,8 @@ This is the **Glendale** sett — one scale-free proportion (`dy5w1dy5w1g6y1k1y1
 [GWGWGGKGWR](/stripes/gwgwggkgwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glendale](/tartans/g/gl/glendale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

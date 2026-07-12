@@ -6,6 +6,8 @@ This is the **Maver (Buckie)** sett — one scale-free proportion (`dg1y1dg1w1dg
 [GGGWGRG](/stripes/gggwgrg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Maver](/tartans/m/ma/maver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

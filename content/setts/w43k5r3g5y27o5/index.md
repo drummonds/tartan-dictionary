@@ -6,7 +6,7 @@ This is the **Reekie, Charlene** sett — one scale-free proportion (`w43k5r3g5y
 [RGGRKW](/stripes/rggrkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Reekie, Charlene](/tartans/reekie-charlene/) tartan — the named design grouping this sett with its kin.
+Part of the [Reekie, Charlene](/tartans/r/re/reekie-charlene/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

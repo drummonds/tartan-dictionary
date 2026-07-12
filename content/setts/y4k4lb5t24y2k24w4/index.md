@@ -6,6 +6,8 @@ This is the **Mina Perhonen** sett — one scale-free proportion (`y4k4lb5t24y2k
 [GKWBGKW](/stripes/gkwbgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Mina Perhonen](/tartans/m/mi/mina-perhonen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "American Society of Travel Agents, The"
-  url: "/tartans/american-society-of-travel-agents-the/"
+  url: "/tartans/a/am/american-society-of-travel-agents-the/"
 - name: "American Society of Travel Agents, The"
   url: "/setts/db2n18db2n2db20r3db18g2db2g18w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2n18db2n2db20r3db18g2db2g18w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRBGBGW](/stripes/bbbbbrbgbgw/).
 
-Part of the [American Society of Travel Agents, The](/tartans/american-society-of-travel-agents-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [American Society of Travel Agents, The](/tartans/a/am/american-society-of-travel-agents-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

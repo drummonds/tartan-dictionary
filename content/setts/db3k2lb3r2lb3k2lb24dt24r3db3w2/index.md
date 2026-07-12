@@ -6,6 +6,8 @@ This is the **Hamburg #2 (Corporate)** sett — one scale-free proportion (`db3k
 [BKWRWKWBRBW](/stripes/bkwrwkwbrbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hamburg](/tartans/h/ha/hamburg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

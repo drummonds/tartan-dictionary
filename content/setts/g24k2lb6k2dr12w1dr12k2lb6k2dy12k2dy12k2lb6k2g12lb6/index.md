@@ -6,6 +6,8 @@ This is the **Buchanan Hunting (Mackinlay strip)** sett — one scale-free propo
 [GKWKBWBKWKGKGKWKGW](/stripes/gkwkbwbkwkgkgkwkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Buchanan Hunting](/tartans/b/bu/buchanan-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

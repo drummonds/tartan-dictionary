@@ -6,6 +6,8 @@ This is the **Crantock** sett — one scale-free proportion (`b24dp3b3dp3b3dp7dg
 [BBBBBBGR](/stripes/bbbbbbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Crantock](/tartans/c/cr/crantock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

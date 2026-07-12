@@ -6,7 +6,7 @@ This is the **Halliday (Name)** sett — one scale-free proportion (`dp1w1k1w1g1
 [BWKWGWKWKWKWKWG](/stripes/bwkwgwkwkwkwkwg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Halliday](/tartans/halliday/) tartan — the named design grouping this sett with its kin.
+Part of the [Halliday](/tartans/h/ha/halliday/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

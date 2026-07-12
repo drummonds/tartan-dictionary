@@ -1,0 +1,44 @@
+---
+title: "MacPherson of Cluny"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson of Cluny"
+  url: "/families/macpherson-of-cluny/"
+---
+A tartan of the [MacPherson of Cluny](/families/macpherson-of-cluny/) family.
+Its design is pattern [WKWKWRW](/stripes/wkwkwrw/) — the page of every tartan sharing this colour sequence.
+
+MacPherson dress variant, sometimes woven with purple replacing red.
+
+The **MacPherson of Cluny** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w5r3w35k28w4k11w2/">MacPherson of Cluny</a></td><td><code>W/10 R6 W70 K56 W8 K22 W/4</code></td><td>338</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/w5r3w35k28w4k11w2/"><img src="/variants/s7/w5r3w35k28w4k11w2~x2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacPherson, of Cluny
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">338</div><div class="nn-name nn-base"><a href="/variants/s7/w5r3w35k28w4k11w2~x2/">MacPherson of Cluny</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/w5r3w35k28w4k11w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w6t3w20k2w3k25w3~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">0.83</a></div><div class="nn-threads">230</div><div class="nn-name"><a href="/variants/s7/w6t3w20k2w3k25w3~x2/">Forbes Dress (Clans Originaux)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w6t3w20k2w3k25w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy1k4w2k11w17r2w1~x4&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.28</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/">MacPherson - 1842 (VS) Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy1k4w2k11w17r2w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2g4k7w2k1w11db2w2~x4&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.38</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/">Forbes - 1880 (Clans Originaux)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w2g4k7w2k1w11db2w2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3r1w30k20w3k9ly1~x2~w3600000&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.43</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/">MacPherson Dress (1842)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3r1w30k20w3k9y1&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.43</a></div><div class="nn-threads">130</div><div class="nn-name"><a href="/variants/s7/w3r1w30k20w3k9y1/">MacPherson Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w3r1w30k20w3k9y1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3r1w30k20w3k9y1~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.43</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s7/w3r1w30k20w3k9y1~x2/">MacPherson 6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w3r1w30k20w3k9y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2k1w6k6w2k1w1~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">70</div><div class="nn-name"><a href="/variants/s7/w2k1w6k6w2k1w1~x2/">Scott (Abbreviated)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w2k1w6k6w2k1w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w24k16w1k16w3k8w2~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s7/w24k16w1k16w3k8w2~x2/">Saks Fifth Avenue (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w24k16w1k16w3k8w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y3k9w3k20w30dp3w3~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.81</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/">MacPherson Dress (1951)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y3k9w3k20w30dp3w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5k4w32k32w5k4~x2&amp;base=w5r3w35k28w4k11w2~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">310</div><div class="nn-name"><a href="/variants/s6/w5k4w32k32w5k4~x2/">Valley Forge (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w5k4w32k32w5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="176.9" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.8" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><circle cx="299.8" cy="123.1" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.6" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.4" cy="233.4" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.8" cy="178.1" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="288.2" cy="215.7" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><circle cx="287.7" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

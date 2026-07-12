@@ -6,6 +6,8 @@ This is the **Jubilation** sett — one scale-free proportion (`r11w13db30w13db1
 [BRWBWBWBWBWBWR](/stripes/brwbwbwbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Jubilation](/tartans/j/ju/jubilation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

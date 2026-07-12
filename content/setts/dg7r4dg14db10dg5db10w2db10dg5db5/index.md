@@ -6,6 +6,8 @@ This is the **Edmonstone of Duntreath** sett — one scale-free proportion (`dg7
 [BGBWBGBGRG](/stripes/bgbwbgbgrg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Edmonstone of Duntreath](/tartans/e/ed/edmonstone-of-duntreath/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

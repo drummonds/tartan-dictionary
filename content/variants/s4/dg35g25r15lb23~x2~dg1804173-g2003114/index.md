@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunans Rising"
+  url: "/tartans/d/du/dunans-rising/"
+- name: "Dunans Rising"
   url: "/setts/dg35g25r15lb23/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg35g25r15lb23/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRW](/stripes/ggrw/).
+
+Part of the [Dunans Rising](/tartans/d/du/dunans-rising/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

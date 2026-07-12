@@ -6,7 +6,7 @@ This is the **Daniel (Welsh Name)** sett — one scale-free proportion (`k5dbi26
 [BKBKYKBKBKBK](/stripes/bkbkykbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Daniel](/tartans/daniel/) tartan — the named design grouping this sett with its kin.
+Part of the [Daniel](/tartans/d/da/daniel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

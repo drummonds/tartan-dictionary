@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Connor, Hugh"
+  url: "/tartans/o/o/o-connor-hugh/"
 - name: "O'Connor, Hugh (Personal)"
   url: "/setts/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBBGBGBGGBBBBBG](/stripes/bbgbgbbgbgbggbbbbbg/).
+
+Part of the [O'Connor, Hugh](/tartans/o/o/o-connor-hugh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

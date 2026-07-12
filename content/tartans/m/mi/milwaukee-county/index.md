@@ -1,0 +1,38 @@
+---
+title: "Milwaukee County"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KGKBBY](/stripes/kgkbby/) — the page of every tartan sharing this colour sequence.
+
+The **Milwaukee County** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k2g17k16dr2db17lr2/">Milwaukee County</a></td><td><code>K/4 G34 K32 DR4 DB34 LR/4</code></td><td>216</td><td>1950</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2g17k16dr2db17lr2/"><img src="/variants/s6/k2g17k16dr2db17lr2~x2/sett.png" alt="Milwaukee County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Mitchell
+- U.S. Air Force Pipe Band
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s6/k2g17k16dr2db17lr2~x2/">Milwaukee County</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k2g17k16dr2db17lr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g17k16r2db17w2~x2&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">0.32</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s6/k2g17k16r2db17w2~x2/">Galbraith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g12k12r1db12w2~x2&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">0.72</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s6/k2g12k12r1db12w2~x2/">Russell Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g12k12r1db12w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g12k12r1db12w2&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">0.72</a></div><div class="nn-threads">78</div><div class="nn-name"><a href="/variants/s6/k2g12k12r1db12w2/">Mitchell</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g12k12r1db12w2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g16k14y3db16r4~x2&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">0.87</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s6/k4g16k14y3db16r4~x2/">Birse Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4g16k14y3db16r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1k1g6k6db6lr1~x4&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">0.96</a></div><div class="nn-threads">160</div><div class="nn-name"><a href="/variants/s6/dr1k1g6k6db6lr1~x4/">Gaines Center for the Humanities</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr1k1g6k6db6lr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k1g9k9db8w1~x4&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">1.03</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s6/y1k1g9k9db8w1~x4/">MacNeil 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y1k1g9k9db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g25k24r3db24g4~x2&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s6/k4g25k24r3db24g4~x2/">Ferguson of Balquhidder #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4g25k24r3db24g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">1.14</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4/">Leslie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4~db1004274&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">1.14</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/">Syme</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4~db1004274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1dg8w1k8w1db8r1~x4&amp;base=k2g17k16dr2db17lr2~x2" title="compare in the TTD">1.14</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/">Caie (2013)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k1dg8w1k8w1db8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.0" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Russell Clan Tartan</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.9" cy="227.0" r="4" fill="#3465a4"><title>Birse Family Tartan</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.3" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.1" cy="190.1" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="142.8" cy="212.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.4" cy="194.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.8" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.4" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><circle cx="117.6" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

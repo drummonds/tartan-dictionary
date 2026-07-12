@@ -6,6 +6,8 @@ This is the **Brooks Bros Tattersall Camel (Fashio** sett — one scale-free pro
 [BYBYB](/stripes/bybyb/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Brooks Bros Tattersall Camel (Fashio](/tartans/b/br/brooks-bros-tattersall-camel-fashio/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

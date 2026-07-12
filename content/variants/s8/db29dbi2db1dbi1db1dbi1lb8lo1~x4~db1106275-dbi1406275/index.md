@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Marist"
+  url: "/tartans/m/ma/marist/"
 - name: "Marist School, The"
   url: "/setts/db29dbi2db1dbi1db1dbi1lb8lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db29dbi2db1dbi1db1dbi1lb8lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBWY](/stripes/bbbbbbwy/).
+
+Part of the [Marist](/tartans/m/ma/marist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Heart of Scotland (Milne) Fancy Tartan** sett — one scale-free p
 [BBGBBKBWBKBBGBBKBW](/stripes/bbgbbkbwbkbbgbbkbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Heart of Scotland Fancy](/tartans/h/he/heart-of-scotland-fancy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

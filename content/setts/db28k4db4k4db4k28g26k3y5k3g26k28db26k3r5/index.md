@@ -6,7 +6,7 @@ This is the **Baillie Clan Tartan** sett — one scale-free proportion (`db28k4d
 [BKBKBKGKGKGKBKR](/stripes/bkbkbkgkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
-Part of the [Baillie](/tartans/baillie/) tartan — the named design grouping this sett with its kin.
+Part of the [Baillie](/tartans/b/ba/baillie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

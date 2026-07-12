@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Casely"
   url: "/clan/casely/"
 - name: "Casely"
-  url: "/tartans/casely/"
+  url: "/tartans/c/ca/casely/"
 - name: "Casely (Name)"
   url: "/setts/r4g11k11g2db11dy3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g11k11g2db11dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGR](/stripes/gbgkgr/).
 
-Part of the [Casely](/tartans/casely/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Casely](/tartans/c/ca/casely/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

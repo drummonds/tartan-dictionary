@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Callanish, The"
+  url: "/tartans/c/ca/callanish-the/"
+- name: "Callanish, The"
   url: "/setts/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBYYGBYYBGYR](/stripes/rybyygbyybgyr/).
+
+Part of the [Callanish, The](/tartans/c/ca/callanish-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Del Forno Wolf (Personal)** sett — one scale-free proportion (`g
 [BGYBBBBG](/stripes/bgybbbbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Del Forno Wolf](/tartans/d/de/del-forno-wolf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

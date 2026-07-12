@@ -11,8 +11,10 @@ date: 2023-03-18
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db50g4k22g23r1g1r2/">Casely of Mannerston</a> ★</td><td><code>DB/100 G8 K44 G46 R2 G2 R/4</code></td><td>308</td><td>1990</td></tr>
+<tr><td><a href="/setts/db50g4k22g23r1g1r2/">Casely of Mannerston</a></td><td><code>DB/100 G8 K44 G46 R2 G2 R/4</code></td><td>308</td><td>1990</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db50g4k22g23r1g1r2/"><img src="/variants/s7/db50g4k22g23r1g1r2~x2/sett.png" alt="Casely of Mannerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Casely of Mannerston tartan and all its setts →](/tartans/c/ca/casely-of-mannerston/)
 

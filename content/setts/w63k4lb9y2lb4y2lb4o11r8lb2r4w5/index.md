@@ -6,6 +6,8 @@ This is the **Seller, Sillar** sett — one scale-free proportion (`w63k4lb9y2lb
 [WKWGWGWRRWRW](/stripes/wkwgwgwrrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Seller, Sillar](/tartans/s/se/seller-sillar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

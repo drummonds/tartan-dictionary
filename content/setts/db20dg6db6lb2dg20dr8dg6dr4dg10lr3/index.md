@@ -6,7 +6,7 @@ This is the **MacConnell** sett — one scale-free proportion (`db20dg6db6lb2dg2
 [BGBWGBGBGY](/stripes/bgbwgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [MacConnell](/tartans/macconnell/) tartan — the named design grouping this sett with its kin.
+Part of the [MacConnell](/tartans/m/ma/macconnell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

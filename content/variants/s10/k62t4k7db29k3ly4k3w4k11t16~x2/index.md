@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "State Seal of Massachusetts Fash)"
+  url: "/tartans/s/st/state-seal-of-massachusetts-fash/"
+- name: "State Seal of Massachusetts Fash)"
   url: "/setts/k62t4k7db29k3ly4k3w4k11t16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62t4k7db29k3ly4k3w4k11t16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKYKBKBK](/stripes/bkwkykbkbk/).
+
+Part of the [State Seal of Massachusetts Fash)](/tartans/s/st/state-seal-of-massachusetts-fash/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

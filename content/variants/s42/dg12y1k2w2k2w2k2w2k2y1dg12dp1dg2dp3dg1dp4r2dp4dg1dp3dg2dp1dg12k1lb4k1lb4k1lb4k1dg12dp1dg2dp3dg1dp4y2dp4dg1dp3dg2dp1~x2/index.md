@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lodge Dunblane Australis No.966"
+  url: "/tartans/l/lo/lodge-dunblane-australis-no-966/"
+- name: "Lodge Dunblane Australis No.966"
   url: "/setts/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGKWKWKWKGBGBGBRBGBGBGGKWKWKWKGG](/stripes/bgbgbgbgbgbgkwkwkwkgbgbgbrbgbgbggkwkwkwkgg/).
+
+Part of the [Lodge Dunblane Australis No.966](/tartans/l/lo/lodge-dunblane-australis-no-966/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
 

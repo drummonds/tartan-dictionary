@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chattan"
-  url: "/tartans/chattan-2/"
+  url: "/tartans/c/ch/chattan-2/"
 - name: "Chattan (Clan)"
   url: "/setts/r122k4w2g32w4ly7r7k2r7ly7w4lb32k8r8ly12w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r122k4w2g32w4ly7r7k2r7ly7w4lb32k8r8ly12w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWGWYRKRYWWKRYW](/stripes/rkwgwyrkrywwkryw/).
 
-Part of the [Chattan](/tartans/chattan-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Chattan](/tartans/c/ch/chattan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

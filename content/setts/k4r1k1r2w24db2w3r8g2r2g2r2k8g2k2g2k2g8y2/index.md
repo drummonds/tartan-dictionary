@@ -6,6 +6,8 @@ This is the **Princess Beatrice Dress Royal Family Tartan** sett — one scale-f
 [GGKGKGKRGRGRWBWRKRK](/stripes/ggkgkgkrgrgrwbwrkrk/). It is recorded as a single **variant**, below.
 First attested **~1885**.
 
+Part of the [Princess Beatrice Dress Royal](/tartans/p/pr/princess-beatrice-dress-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

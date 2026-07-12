@@ -6,6 +6,8 @@ This is the **Philip Boisserolles de St-Julien, baron of Hartsyde (Personal)** s
 [BBWBBBGGRK](/stripes/bbwbbbggrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Philip Boisserolles de St-Julien, baron of Hartsyde](/tartans/p/ph/philip-boisserolles-de-st-julien-baron-of-hartsyde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

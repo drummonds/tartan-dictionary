@@ -6,6 +6,8 @@ This is the **Unidentified (2013)** sett — one scale-free proportion (`r5dg10l
 [RGYYYYYYYRYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY](/stripes/rgyyyyyyyryyyryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-77/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

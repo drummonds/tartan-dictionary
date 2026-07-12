@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burns Battalion"
+  url: "/tartans/b/bu/burns-battalion/"
 - name: "Burns Battalion (Fashion)"
   url: "/setts/dy22t2dy3y4dy3t2dy12t4w19dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy22t2dy3y4dy3t2dy12t4w19dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGBGBWG](/stripes/gbgggbgbwg/).
+
+Part of the [Burns Battalion](/tartans/b/bu/burns-battalion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

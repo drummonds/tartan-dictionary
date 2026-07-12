@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathdee"
+  url: "/tartans/s/st/strathdee/"
 - name: "Strathdee (Personal)"
   url: "/setts/dg25b10w1b5w1b10dg25r1dg3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg25b10w1b5w1b10dg25r1dg3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBGRGR](/stripes/gbwbwbgrgr/).
+
+Part of the [Strathdee](/tartans/s/st/strathdee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

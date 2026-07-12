@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Rust"
+  url: "/tartans/b/bl/blue-rust/"
 - name: "Blue Rust (Corporate)"
   url: "/setts/db21n2lr1n2db1dr2db1y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db21n2lr1n2db1dr2db1y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBBBBG](/stripes/bbybbbbg/).
+
+Part of the [Blue Rust](/tartans/b/bl/blue-rust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

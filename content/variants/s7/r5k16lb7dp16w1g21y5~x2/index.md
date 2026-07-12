@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gala Water New"
+  url: "/tartans/g/ga/gala-water-new/"
 - name: "Gallowater New District Tartan"
   url: "/setts/r5k16lb7dp16w1g21y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5k16lb7dp16w1g21y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWBWKR](/stripes/ggwbwkr/).
+
+Part of the [Gala Water New](/tartans/g/ga/gala-water-new/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

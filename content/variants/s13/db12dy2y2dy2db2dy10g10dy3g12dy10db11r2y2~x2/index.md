@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacVicker"
+  url: "/tartans/m/ma/macvicker/"
 - name: "MacVicker (Name)"
   url: "/setts/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBGGGGGBRG](/stripes/bgggbgggggbrg/).
+
+Part of the [MacVicker](/tartans/m/ma/macvicker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

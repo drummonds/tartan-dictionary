@@ -6,6 +6,8 @@ This is the **Highland Dusk (Fashion)** sett — one scale-free proportion (`lb4
 [WBWRWRWBWWW](/stripes/wbwrwrwbwww/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Highland Dusk](/tartans/h/hi/highland-dusk-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

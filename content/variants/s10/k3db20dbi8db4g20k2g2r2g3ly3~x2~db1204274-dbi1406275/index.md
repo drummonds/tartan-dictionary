@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Schmidt"
-  url: "/tartans/schmidt/"
+  url: "/tartans/s/sc/schmidt/"
 - name: "Schmidt (2014)"
   url: "/setts/k3db20dbi8db4g20k2g2r2g3ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3db20dbi8db4g20k2g2r2g3ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBBGKGRGY](/stripes/kbbbgkgrgy/).
 
-Part of the [Schmidt](/tartans/schmidt/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Schmidt](/tartans/s/sc/schmidt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

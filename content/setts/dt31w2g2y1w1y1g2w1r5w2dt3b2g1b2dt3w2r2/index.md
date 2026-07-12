@@ -6,6 +6,8 @@ This is the **7th Cavalry (Military)** sett — one scale-free proportion (`dt31
 [BWGGWGGWRWBBGBBWR](/stripes/bwggwggwrwbbgbbwr/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
+Part of the [7th Cavalry](/tartans/0-9/0-9/7th-cavalry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -10,7 +10,7 @@ crumbs:
 - name: "Shaw of Tordarroch"
   url: "/families/shaw-of-tordarroch/"
 - name: "Shaw of Tordarroch, hunting"
-  url: "/tartans/shaw-of-tordarroch-hunting/"
+  url: "/tartans/s/sh/shaw-of-tordarroch-hunting/"
 - name: "Shaw of Tordarroch Hunting Clan Tartan"
   url: "/setts/lb5k1g30dp15r8g30r8dp2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k1g30dp15r8g30r8dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGKW](/stripes/brgrbgkw/).
 
-Part of the [Shaw of Tordarroch, hunting](/tartans/shaw-of-tordarroch-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shaw of Tordarroch, hunting](/tartans/s/sh/shaw-of-tordarroch-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

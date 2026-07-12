@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baron of Crawfordjohn"
+  url: "/tartans/b/ba/baron-of-crawfordjohn/"
 - name: "Baron of Crawfordjohn (Personal)"
   url: "/setts/db8dbi10db22dg7g10dg22dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8dbi10db22dg7g10dg22dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGGGB](/stripes/bbbgggb/).
+
+Part of the [Baron of Crawfordjohn](/tartans/b/ba/baron-of-crawfordjohn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

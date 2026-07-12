@@ -6,6 +6,8 @@ This is the **McCandlish, Red (Name)** sett — one scale-free proportion (`lb3k
 [WKBKBKBKRKY](/stripes/wkbkbkbkrky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [MacCandlish](/tartans/m/ma/maccandlish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

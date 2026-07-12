@@ -6,6 +6,8 @@ This is the **Pardo, Luis Alejandro Aguilar** sett — one scale-free proportion
 [GYRYWWWK](/stripes/gyrywwwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Pardo, Luis Alejandro Aguilar](/tartans/p/pa/pardo-luis-alejandro-aguilar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

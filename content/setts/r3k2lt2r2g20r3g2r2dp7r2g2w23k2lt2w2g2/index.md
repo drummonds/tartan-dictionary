@@ -6,6 +6,8 @@ This is the **Stewart of Appin Dress** sett — one scale-free proportion (`r3k2
 [GWWKWGRBRGRGRWKR](/stripes/gwwkwgrbrgrgrwkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart of Appin Dress](/tartans/s/st/stewart-of-appin-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

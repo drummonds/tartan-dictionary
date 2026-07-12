@@ -6,6 +6,8 @@ This is the **Glen Clova** sett — one scale-free proportion (`b39oi4o6oii2o2w2
 [BRRRRWRRBRBR](/stripes/brrrrwrrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glen Clova](/tartans/g/gl/glen-clova-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

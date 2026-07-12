@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Montgomery, Stuart"
+  url: "/tartans/m/mo/montgomery-stuart/"
 - name: "Montgomery, Stuart (Personal)"
   url: "/setts/db6dg24k1w2k1dg24g24w3k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6dg24k1w2k1dg24g24w3k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWKGGWKW](/stripes/bgkwkggwkw/).
+
+Part of the [Montgomery, Stuart](/tartans/m/mo/montgomery-stuart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

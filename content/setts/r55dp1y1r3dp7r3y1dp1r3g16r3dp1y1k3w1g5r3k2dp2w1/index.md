@@ -6,6 +6,8 @@ This is the **Fennell Grandmothers Canadian Personal Tartan** sett — one scale
 [RBGRBRGBRGRBGKWGRKBW](/stripes/rbgrbrgbrgrbgkwgrkbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Fennell Grandmothers Canadian](/tartans/f/fe/fennell-grandmothers-canadian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

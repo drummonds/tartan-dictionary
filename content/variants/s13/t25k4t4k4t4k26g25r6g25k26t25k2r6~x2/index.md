@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Atholl"
-  url: "/tartans/atholl/"
+  url: "/tartans/a/at/atholl/"
 - name: "Atholl (District)"
   url: "/setts/t25k4t4k4t4k26g25r6g25k26t25k2r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t25k4t4k4t4k26g25r6g25k26t25k2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
-Part of the [Atholl](/tartans/atholl/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Atholl](/tartans/a/at/atholl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

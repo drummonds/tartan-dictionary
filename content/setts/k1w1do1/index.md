@@ -6,6 +6,8 @@ This is the **Hogg** sett — one scale-free proportion (`k1w1do1`), colour orde
 [KWBW](/stripes/kwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hogg](/tartans/h/ho/hogg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

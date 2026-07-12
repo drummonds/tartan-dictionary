@@ -6,6 +6,8 @@ This is the **Moon (Georgia, USA)** sett — one scale-free proportion (`w4k1r5d
 [BRGKGKWBWKGKGRBRKW](/stripes/brgkgkwbwkgkgrbrkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Moon](/tartans/m/mo/moon-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

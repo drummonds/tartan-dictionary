@@ -6,6 +6,8 @@ This is the **Christian Dewar (Personal)** sett — one scale-free proportion (`
 [BKBKBKGYG](/stripes/bkbkbkgyg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Christian Dewar](/tartans/c/ch/christian-dewar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

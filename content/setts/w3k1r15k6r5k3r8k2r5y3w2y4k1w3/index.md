@@ -6,6 +6,8 @@ This is the **Avalon - Stewart House** sett — one scale-free proportion (`w3k1
 [WKGWGRKRKRKRKW](/stripes/wkgwgrkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Avalon](/tartans/a/av/avalon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

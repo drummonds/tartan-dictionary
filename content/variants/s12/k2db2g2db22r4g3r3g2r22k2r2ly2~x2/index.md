@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harris, Jeffrey S"
-  url: "/tartans/harris-jeffrey-s/"
+  url: "/tartans/h/ha/harris-jeffrey-s/"
 - name: "Harris, Jeffrey S (Personal)"
   url: "/setts/k2db2g2db22r4g3r3g2r22k2r2ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2db2g2db22r4g3r3g2r22k2r2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBRGRGRKRY](/stripes/kbgbrgrgrkry/).
 
-Part of the [Harris, Jeffrey S](/tartans/harris-jeffrey-s/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harris, Jeffrey S](/tartans/h/ha/harris-jeffrey-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

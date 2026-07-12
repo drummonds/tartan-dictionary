@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mizzou"
+  url: "/tartans/m/mi/mizzou/"
 - name: "Mizzou (Corporate)"
   url: "/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWKWGKWKWKGKRKGWKWG](/stripes/bgwkwgkwkwkgkrkgwkwg/).
+
+Part of the [Mizzou](/tartans/m/mi/mizzou/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

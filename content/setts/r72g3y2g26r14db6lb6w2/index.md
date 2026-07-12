@@ -6,6 +6,8 @@ This is the **Stewart of Fingask - 1745 (Clan?)** sett — one scale-free propor
 [RGGGRBWW](/stripes/rgggrbww/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Stewart of Fingask](/tartans/s/st/stewart-of-fingask/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scott (MacRae)** sett — one scale-free proportion (`k4db2w1k16w1
 [KBWKWBWBWRWBWBWKWBKR](/stripes/kbwkwbwbwrwbwbwkwbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Scott](/tartans/s/sc/scott-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Merola (2016)** sett — one scale-free proportion (`k36y5k1y1n5k1
 [KBGKGK](/stripes/kbgkgk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Merola](/tartans/m/me/merola/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

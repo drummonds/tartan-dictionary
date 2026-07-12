@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Iron Horse"
-  url: "/tartans/iron-horse/"
+  url: "/tartans/i/ir/iron-horse/"
 - name: "Iron Horse (Corporate)"
   url: "/setts/k16n4o3k2db1w1r1k2o3n4k12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k16n4o3k2db1w1r1k2o3n4k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKRWBKRBKBRKBWRKRBK](/stripes/brkrwbkrbkbrkbwrkrbk/).
 
-Part of the [Iron Horse](/tartans/iron-horse/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Iron Horse](/tartans/i/ir/iron-horse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

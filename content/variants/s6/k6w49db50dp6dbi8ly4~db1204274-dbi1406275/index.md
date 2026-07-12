@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pipers' Trail Dance, The"
-  url: "/tartans/pipers-trail-dance-the/"
+  url: "/tartans/p/pi/pipers-trail-dance-the/"
 - name: "Pipers' Trail Dance, The"
   url: "/setts/k6w49db50dp6dbi8ly4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k6w49db50dp6dbi8ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBBBY](/stripes/kwbbby/).
 
-Part of the [Pipers' Trail Dance, The](/tartans/pipers-trail-dance-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pipers' Trail Dance, The](/tartans/p/pi/pipers-trail-dance-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

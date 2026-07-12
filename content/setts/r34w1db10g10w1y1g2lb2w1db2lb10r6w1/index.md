@@ -6,6 +6,8 @@ This is the **Holyrood, Chair** sett — one scale-free proportion (`r34w1db10g1
 [RWBGWGGWWBWRW](/stripes/rwbgwggwwbwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Holyrood, Chair](/tartans/h/ho/holyrood-chair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

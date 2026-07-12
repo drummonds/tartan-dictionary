@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buchanan, John & Isabella"
+  url: "/tartans/b/bu/buchanan-john-isabella-2/"
+- name: "Buchanan, John & Isabella"
   url: "/setts/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWGWBKWKWGWBWR](/stripes/rwbwgwbkwkwgwbwr/).
+
+Part of the [Buchanan, John & Isabella](/tartans/b/bu/buchanan-john-isabella-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

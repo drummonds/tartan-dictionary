@@ -6,6 +6,8 @@ This is the **Lévesque, Pascal (Personal)** sett — one scale-free proportion 
 [BBBGBGGWRG](/stripes/bbbgbggwrg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Lévesque, Pascal](/tartans/l/l/l-vesque-pascal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

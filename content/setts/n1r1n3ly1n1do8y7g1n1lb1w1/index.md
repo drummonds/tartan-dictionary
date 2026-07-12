@@ -6,6 +6,8 @@ This is the **Porcupine Fancy Tartan** sett — one scale-free proportion (`n1r1
 [BRBYBBGGBWW](/stripes/brbybbggbww/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
+Part of the [Porcupine Fancy](/tartans/p/po/porcupine-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

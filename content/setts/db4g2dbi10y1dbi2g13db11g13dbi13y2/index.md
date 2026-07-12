@@ -6,6 +6,8 @@ This is the **Pinney's of Scotland** sett — one scale-free proportion (`db4g2d
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Pinney's of Scotland](/tartans/p/pi/pinney-s-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,38 @@
+---
+title: "Mar District"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GKGKR](/stripes/gkgkr/) — the page of every tartan sharing this colour sequence.
+
+The **Mar District** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r1k2g16k2y1/">Mar District</a></td><td><code>R/2 K4 G32 K4 Y/2</code></td><td>84</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r1k2g16k2y1/"><img src="/variants/s5/r1k2g16k2y1~x2/sett.png" alt="Mar District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Skene or Tribe of Mar
+- Skene, or Tribe of Mar
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">84</div><div class="nn-name nn-base"><a href="/variants/s5/r1k2g16k2y1~x2/">Mar District</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r1k2g16k2y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k4g45k3y2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.42</a></div><div class="nn-threads">108</div><div class="nn-name"><a href="/variants/s5/r2k4g45k3y2/">Mar (Tribe of..) District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2k4g45k3y2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr2k4g45k3y2~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.44</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s5/dr2k4g45k3y2~x2/">Mar, Tribe of (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr2k4g45k3y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k3g45k3y2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.48</a></div><div class="nn-threads">106</div><div class="nn-name"><a href="/variants/s5/r2k3g45k3y2/">Mar Tribe</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2k3g45k3y2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n4ly1k4g32k4dr2~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.80</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s6/n4ly1k4g32k4dr2~x2/">Tough (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/n4ly1k4g32k4dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k4lb2g64k6y3~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.88</a></div><div class="nn-threads">316</div><div class="nn-name"><a href="/variants/s6/r3k4lb2g64k6y3~x2/">Braemar Royal Highland Gathering</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3k4lb2g64k6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3lb1g21k2dr3lb2~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">0.96</a></div><div class="nn-threads">118</div><div class="nn-name"><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/">Leach Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3lb1g21k2dr3lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g62k40y3k3w3~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">1.47</a></div><div class="nn-threads">314</div><div class="nn-name"><a href="/variants/s5/g62k40y3k3w3~x2/">O'Donoghue</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g62k40y3k3w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=o10k2g5k2dg46ly2k2~x2~o2503076-ly2705081&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">1.51</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/">Green Rover (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5w4r15g70k4w5~x2&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">1.57</a></div><div class="nn-threads">392</div><div class="nn-name"><a href="/variants/s6/k5w4r15g70k4w5~x2/">Tahrir (Liberation)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k5w4r15g70k4w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly10k2g5k2dg46y2k2~x2~g1903133&amp;base=r1k2g16k2y1~x2" title="compare in the TTD">1.75</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/">Green Rover, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.6" r="4" fill="#3465a4"><title>Mar (Tribe of..) District Tartan</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.1" cy="137.1" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s5/r2k3g45k3y2/"><circle cx="513.0" cy="134.9" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/variants/s6/n4ly1k4g32k4dr2~x2/"><circle cx="378.9" cy="106.8" r="4" fill="#3465a4"><title>Tough (Personal)</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.7" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="138.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="299.5" cy="152.4" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.6" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><circle cx="405.1" cy="152.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

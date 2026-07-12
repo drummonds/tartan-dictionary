@@ -6,7 +6,7 @@ This is the **Dunbarton (Quebec)** sett — one scale-free proportion (`ly30r2ly
 [YKYGYGYKYRY](/stripes/ykygygykyry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Dunbarton](/tartans/dunbarton/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbarton](/tartans/d/du/dunbarton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

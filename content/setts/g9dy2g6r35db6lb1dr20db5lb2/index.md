@@ -6,7 +6,7 @@ This is the **Telfer** sett — one scale-free proportion (`g9dy2g6r35db6lb1dr20
 [GGGRBWBBW](/stripes/gggrbwbbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Telfer](/tartans/telfer-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Telfer](/tartans/t/te/telfer-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

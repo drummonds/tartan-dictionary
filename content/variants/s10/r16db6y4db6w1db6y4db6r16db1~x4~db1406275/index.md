@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Superfast Ferries"
+  url: "/tartans/s/su/superfast-ferries-2/"
+- name: "Superfast Ferries"
   url: "/setts/r16db6y4db6w1db6y4db6r16db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16db6y4db6w1db6y4db6r16db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBR](/stripes/brbgbwbgbr/).
+
+Part of the [Superfast Ferries](/tartans/s/su/superfast-ferries-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

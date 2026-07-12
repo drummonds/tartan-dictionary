@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "ODL"
+  url: "/tartans/o/od/odl/"
 - name: "ODL (Corporate)"
   url: "/setts/k4r1dbi3db28dbi36k3r2n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r1dbi3db28dbi36k3r2n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKBBBRK](/stripes/brkbbbrk/).
+
+Part of the [ODL](/tartans/o/od/odl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

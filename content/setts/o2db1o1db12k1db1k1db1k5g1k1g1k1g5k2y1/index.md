@@ -6,6 +6,8 @@ This is the **Herriot (Personal)** sett — one scale-free proportion (`o2db1o1d
 [GKGKGKGKBKBKBRBR](/stripes/gkgkgkgkbkbkbrbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Herriot](/tartans/h/he/herriot-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

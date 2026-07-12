@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mead"
+  url: "/clan/mead/"
+- name: "Mead of Poetry"
+  url: "/families/mead-of-poetry/"
+- name: "Mead of Poetry"
+  url: "/tartans/m/me/mead-of-poetry/"
 - name: "Mead of Poetry, The"
   url: "/setts/w6n2db6n2db25n2dr1n2ly3lb5w6n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6n2db6n2db25n2dr1n2ly3lb5w6n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWYBBBBBBBW](/stripes/bwwybbbbbbbw/).
+
+Part of the [Mead of Poetry](/tartans/m/me/mead-of-poetry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

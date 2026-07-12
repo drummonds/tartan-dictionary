@@ -6,6 +6,8 @@ This is the **Jodi Williams (Personal)** sett — one scale-free proportion (`dg
 [BBBG](/stripes/bbbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Jodi Williams](/tartans/j/jo/jodi-williams/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

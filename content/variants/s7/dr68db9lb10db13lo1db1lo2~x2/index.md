@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canadian Legion Br 50"
+  url: "/tartans/c/ca/canadian-legion-br-50/"
 - name: "Canadian Legion Branch 50"
   url: "/setts/dr68db9lb10db13lo1db1lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr68db9lb10db13lo1db1lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBYBY](/stripes/bbwbyby/).
+
+Part of the [Canadian Legion Br 50](/tartans/c/ca/canadian-legion-br-50/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

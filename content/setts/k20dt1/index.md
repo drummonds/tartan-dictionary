@@ -6,6 +6,8 @@ This is the **Black Shadow (Fashion)** sett — one scale-free proportion (`k20d
 [BK](/stripes/bk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Black Shadow](/tartans/b/bl/black-shadow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

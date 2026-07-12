@@ -6,6 +6,8 @@ This is the **Bargain Booze** sett — one scale-free proportion (`k75lb6k5lb18k
 [KWKWKWK](/stripes/kwkwkwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bargain Booze](/tartans/b/ba/bargain-booze/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

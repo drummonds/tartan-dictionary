@@ -6,7 +6,7 @@ This is the **Duffy Family Tartan** sett — one scale-free proportion (`dg25w1k
 [GGGWKGGGGGKWG](/stripes/gggwkgggggkwg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Duffy](/tartans/duffy-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Duffy](/tartans/d/du/duffy-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Morningside"
+  url: "/tartans/s/sp/spirit-of-morningside-2/"
 - name: "Spirit of Morningside (Fashion)"
   url: "/setts/dp4db5dp3db50k15g3k5g32w2g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp4db5dp3db50k15g3k5g32w2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGKGWG](/stripes/bbbbkgkgwg/).
+
+Part of the [Spirit of Morningside](/tartans/s/sp/spirit-of-morningside-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

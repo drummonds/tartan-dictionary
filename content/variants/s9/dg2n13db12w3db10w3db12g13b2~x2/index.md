@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mounth, The"
-  url: "/tartans/mounth-the-3/"
+  url: "/tartans/m/mo/mounth-the-3/"
 - name: "Mounth, The"
   url: "/setts/dg2n13db12w3db10w3db12g13b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2n13db12w3db10w3db12g13b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBWBBG](/stripes/bgbwbwbbg/).
 
-Part of the [Mounth, The](/tartans/mounth-the-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mounth, The](/tartans/m/mo/mounth-the-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

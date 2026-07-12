@@ -6,6 +6,8 @@ This is the **Dawson-Nunes (Personal)** sett — one scale-free proportion (`db3
 [BKBKBKBKWKB](/stripes/bkbkbkbkwkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Dawson-Nunes](/tartans/d/da/dawson-nunes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

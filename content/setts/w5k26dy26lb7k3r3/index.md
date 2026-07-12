@@ -6,7 +6,7 @@ This is the **Cornish National District Tartan** sett — one scale-free proport
 [RKWGKW](/stripes/rkwgkw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
-Part of the [Cornish National](/tartans/cornish-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Cornish National](/tartans/c/co/cornish-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wcwm 1310"
+  url: "/tartans/w/wc/wcwm-1310/"
+- name: "Wcwm 1310"
   url: "/setts/do10dr3do10g14k12db12do14dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do10dr3do10g14k12db12do14dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGKBBB](/stripes/bbbgkbbb/).
+
+Part of the [Wcwm 1310](/tartans/w/wc/wcwm-1310/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

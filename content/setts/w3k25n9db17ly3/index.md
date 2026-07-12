@@ -6,6 +6,8 @@ This is the **Teylu Coleman (Name)** sett — one scale-free proportion (`w3k25n
 [WKBBY](/stripes/wkbby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Teylu Coleman](/tartans/t/te/teylu-coleman-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

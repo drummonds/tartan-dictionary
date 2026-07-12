@@ -6,6 +6,8 @@ This is the **Sydney Academy** sett — one scale-free proportion (`n31k4n4k4n4k
 [BKBKBKBWKRBKBR](/stripes/bkbkbkbwkrbkbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Sydney Academy](/tartans/s/sy/sydney-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

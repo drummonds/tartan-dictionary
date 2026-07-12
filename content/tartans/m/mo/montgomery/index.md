@@ -1,0 +1,45 @@
+---
+title: "Montgomery"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KGKBKRK](/stripes/kgkbkrk/) — the page of every tartan sharing this colour sequence.
+
+The **Montgomery** tartan groups 3 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k4r5k4dp28k4g5k4/">Montgomery</a> ★</td><td><code>K/8 R10 K8 DP56 K8 G10 K/8</code></td><td>200</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r5k4dp28k4g5k4/"><img src="/variants/s7/k4r5k4dp28k4g5k4~x2/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k4r5k4db28k4g5k4/">Montgomery</a></td><td><code>K/4 R5 K4 DB28 K4 G5 K/4</code></td><td>200</td><td>1893</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r5k4db28k4g5k4/"><img src="/variants/s7/k4r5k4db28k4g5k4~x2/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k4r5k4db28k4g5k4/">Montgomery</a> · <a href="/variants/s7/k4r5k4db28k4g5k4~x2/">Montgomerie of Eglinton</a></td></tr>
+<tr><td><a href="/setts/k4r5k4dr28k4g5k4/">Montgomery</a></td><td><code>K/8 R10 K8 DR56 K8 G10 K/8</code></td><td>100</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r5k4dr28k4g5k4/"><img src="/variants/s7/k4r5k4dr28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k4r5k4dr28k4g5k4/">Montgomery</a> · <a href="/variants/s7/k4r5k4dr28k4g5k4~x2/">Montgomery</a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Montgomerie of Eglinton
+- Montgomrie/Montgomery of Eglinton
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">200</div><div class="nn-name nn-base"><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/">Montgomery</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/k4r5k4dp28k4g5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r5k4db28k4g5k4&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">100</div><div class="nn-name"><a href="/variants/s7/k4r5k4db28k4g5k4/">Montgomery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r5k4db28k4g5k4~x2&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s7/k4r5k4db28k4g5k4~x2/">Montgomerie of Eglinton Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4r5k4db28k4g5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1r1k1db7k1g1k1~x8&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">1.51</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s7/k1r1k1db7k1g1k1~x8/">Eglinton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r5k4dr28k4g5k4~x2&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">1.70</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s7/k4r5k4dr28k4g5k4~x2/">Montgomery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4r5k4dr28k4g5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r5k4dr28k4g5k4&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">1.70</a></div><div class="nn-threads">100</div><div class="nn-name"><a href="/variants/s7/k4r5k4dr28k4g5k4/">Montgomery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4r5k4dr28k4g5k4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9k1g1k1dp6k1dp6y1k2~x6&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">2.45</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/">Red Chapeau</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9k4r9k25dy3dp18k4~x2&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/">Wounded Warriors Canada</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9k4r9k25y3dp18k4~x2&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/">Wounded Warriors Canada</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5k4dp28k4r5k4r5k4dp28k4g5k4~x2&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">382</div><div class="nn-name nn-far"><a href="/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/">Wilson's No.007 Or Eglinton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1g8k9r1k1r1k9db8r1~x6&amp;base=k4r5k4dp28k4g5k4~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">456</div><div class="nn-name nn-far"><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/">Guthrie Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4r5k4db28k4g5k4/"><circle cx="243.5" cy="179.5" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s7/k4r5k4db28k4g5k4~x2/"><circle cx="243.5" cy="179.5" r="4" fill="#3465a4"><title>Montgomerie of Eglinton Family Tartan</title></circle></a><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><circle cx="264.4" cy="176.7" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4~x2/"><circle cx="259.0" cy="177.9" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4/"><circle cx="259.0" cy="177.9" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/"><circle cx="189.4" cy="153.6" r="4" fill="#3465a4"><title>Red Chapeau</title></circle></a><a href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><circle cx="197.7" cy="192.2" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/"><circle cx="193.5" cy="191.0" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><a href="/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/"><circle cx="264.6" cy="157.4" r="4" fill="#3465a4"><title>Wilson's No.007 Or Eglinton</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><circle cx="254.1" cy="175.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thistle Stop LLC"
+  url: "/tartans/t/th/thistle-stop-llc/"
 - name: "Thistle Stop LLC (Corporate)"
   url: "/setts/lg16g1dg1g1lb24k12o16dp2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lg16g1dg1g1lb24k12o16dp2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKWGGGY](/stripes/gbrkwgggy/).
+
+Part of the [Thistle Stop LLC](/tartans/t/th/thistle-stop-llc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

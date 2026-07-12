@@ -6,6 +6,8 @@ This is the **City of New Bern 300** sett — one scale-free proportion (`dr12k2
 [BKGKBKGKBKWBWKBKGK](/stripes/bkgkbkgkbkwbwkbkgk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [City of New Bern 300](/tartans/c/ci/city-of-new-bern-300/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

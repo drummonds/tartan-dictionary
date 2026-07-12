@@ -6,6 +6,8 @@ This is the **Midpac Tissue (non woven)** sett — one scale-free proportion (`r
 [RKGKRKGY](/stripes/rkgkrkgy/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Midpac Tissue](/tartans/m/mi/midpac-tissue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Drummond of Strathallan or Ogilvy** sett — one scale-free propor
 [BGGWGGKRWRKGGGKRKRKRKGGGKRWRKGGWGGBRKRWBWRWBWRKRBGGGGGKWBWKRWRWRKGGKGKGGKRWRWRKGGW](/stripes/bggwggkrwrkgggkrkrkrkgggkrwrkggwggbrkrwbwrwbwrkrbgggggkwbwkrwrwrkggkgkggkrwrwrkggw/). It is recorded as a single **variant**, below.
 First attested **1812**.
 
+Part of the [Drummond of Strathallan](/tartans/d/dr/drummond-of-strathallan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

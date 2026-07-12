@@ -6,6 +6,8 @@ This is the **Woodberry Forest School** sett — one scale-free proportion (`o6g
 [KRGRKWKWKRKWKWKRGR](/stripes/krgrkwkwkrkwkwkrgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Woodberry Forest School](/tartans/w/wo/woodberry-forest-school-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

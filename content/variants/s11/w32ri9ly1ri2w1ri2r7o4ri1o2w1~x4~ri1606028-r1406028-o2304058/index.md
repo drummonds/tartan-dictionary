@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canna"
+  url: "/tartans/c/ca/canna-2/"
+- name: "Canna"
   url: "/setts/w32ri9ly1ri2w1ri2r7o4ri1o2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w32ri9ly1ri2w1ri2r7o4ri1o2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRRRRRWRYRW](/stripes/wrrrrrwryrw/).
+
+Part of the [Canna](/tartans/c/ca/canna-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

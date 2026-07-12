@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shotts & Dykehead"
+  url: "/tartans/s/sh/shotts-dykehead/"
 - name: "Shotts & Dykehead (Corporate)"
   url: "/setts/wi10w2ri3y2ri2w2ri2n14r22wi2r6ri2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/wi10w2ri3y2ri2w2ri2n14r22wi2r6ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRWRBRWRGRWW](/stripes/rrwrbrwrgrww/).
+
+Part of the [Shotts & Dykehead](/tartans/s/sh/shotts-dykehead/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

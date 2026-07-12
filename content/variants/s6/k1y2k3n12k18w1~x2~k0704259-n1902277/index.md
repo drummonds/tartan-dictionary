@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jon's Theme"
+  url: "/tartans/j/jo/jon-s-theme-2/"
+- name: "Jon's Theme"
   url: "/setts/k1y2k3n12k18w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1y2k3n12k18w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKW](/stripes/kgkbkw/).
+
+Part of the [Jon's Theme](/tartans/j/jo/jon-s-theme-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

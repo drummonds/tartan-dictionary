@@ -6,6 +6,8 @@ This is the **Lady Boys of Bangkok (Corporate)** sett — one scale-free proport
 [YRRRWY](/stripes/yrrrwy/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Lady Boys of Bangkok](/tartans/l/la/lady-boys-of-bangkok/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Amnesty International Corporate Tartan** sett — one scale-free p
 [BRKRBWBRKYKRBK](/stripes/brkrbwbrkykrbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Amnesty International](/tartans/a/am/amnesty-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **O'Malley (Name?)** sett — one scale-free proportion (`r45k3y4k3r
 [RGRKBKRKGKR](/stripes/rgrkbkrkgkr/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [O'Malley](/tartans/o/o/o-malley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

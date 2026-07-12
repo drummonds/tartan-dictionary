@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bumbee"
+  url: "/tartans/b/bu/bumbee/"
 - name: "Bumbee #2 (Fashion)"
   url: "/setts/r10k1do1k1r1k1do10k1dr1k1do1k1dr10k1r1k1dr1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10k1do1k1r1k1do10k1dr1k1do1k1dr10k1r1k1dr1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKBKBKBKBKRKBKR](/stripes/kbkrkbkbkbkbkrkbkr/).
+
+Part of the [Bumbee](/tartans/b/bu/bumbee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

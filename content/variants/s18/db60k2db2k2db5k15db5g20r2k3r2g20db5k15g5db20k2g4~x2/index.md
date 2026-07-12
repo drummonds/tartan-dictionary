@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Whitworth"
+  url: "/tartans/w/wh/whitworth/"
 - name: "Whitworth (2003)"
   url: "/setts/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK](/stripes/bkbkbkbgrkrgbkgbkgkbgkbgrkrgbkbkbk/).
+
+Part of the [Whitworth](/tartans/w/wh/whitworth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 

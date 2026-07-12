@@ -6,6 +6,8 @@ This is the **Scottish Association for N.S. (Corp)** sett — one scale-free pro
 [BGBGBKBWR](/stripes/bgbgbkbwr/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Scottish Association for N.S.](/tartans/s/sc/scottish-association-for-n-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

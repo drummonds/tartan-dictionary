@@ -6,6 +6,8 @@ This is the **Scott Hunting Clan Tartan** sett — one scale-free proportion (`r
 [RBGRGWGR](/stripes/rbgrgwgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Scott Hunting](/tartans/s/sc/scott-hunting-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

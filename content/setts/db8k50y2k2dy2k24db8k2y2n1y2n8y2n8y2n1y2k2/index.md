@@ -6,6 +6,8 @@ This is the **Quraysh** sett — one scale-free proportion (`db8k50y2k2dy2k24db8
 [BKGKGKBKGBGBGBGBGK](/stripes/bkgkgkbkgbgbgbgbgk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Quraysh](/tartans/q/qu/quraysh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

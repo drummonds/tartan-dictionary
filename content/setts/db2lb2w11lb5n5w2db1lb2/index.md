@@ -6,6 +6,8 @@ This is the **Conquergood Family Tartan** sett — one scale-free proportion (`d
 [BWWWBWBW](/stripes/bwwwbwbw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Conquergood](/tartans/c/co/conquergood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

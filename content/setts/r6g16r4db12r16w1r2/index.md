@@ -6,6 +6,8 @@ This is the **MacQuarrie LO** sett — one scale-free proportion (`r6g16r4db12r1
 [RGRBRWR](/stripes/rgrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacQuarrie LO](/tartans/m/ma/macquarrie-lo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

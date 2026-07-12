@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferrazza"
+  url: "/tartans/f/fe/ferrazza/"
 - name: "Ferrazza (Personal)"
   url: "/setts/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
+
+Part of the [Ferrazza](/tartans/f/fe/ferrazza/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

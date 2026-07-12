@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cornish Pascoe"
+  url: "/tartans/c/co/cornish-pascoe/"
 - name: "Cornish Pascoe (Name)"
   url: "/setts/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGYGKGBRBRBRBRKW](/stripes/wkgygkgbrbrbrbrkw/).
+
+Part of the [Cornish Pascoe](/tartans/c/co/cornish-pascoe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

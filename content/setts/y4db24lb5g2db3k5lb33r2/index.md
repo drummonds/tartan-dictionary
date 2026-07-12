@@ -6,6 +6,8 @@ This is the **Los Angeles** sett — one scale-free proportion (`y4db24lb5g2db3k
 [GBWGBKWR](/stripes/gbwgbkwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Los Angeles](/tartans/l/lo/los-angeles-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

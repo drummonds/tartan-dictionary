@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leach, Leech, Leitch, hunting"
+  url: "/tartans/l/le/leach-leech-leitch-hunting/"
+- name: "Leach, Leech, Leitch, hunting"
   url: "/setts/b32w1k3w1g14b7k3dr3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b32w1k3w1g14b7k3dr3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWGBKBW](/stripes/bwkwgbkbw/).
+
+Part of the [Leach, Leech, Leitch, hunting](/tartans/l/le/leach-leech-leitch-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

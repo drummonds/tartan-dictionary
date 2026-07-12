@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebron"
+  url: "/tartans/h/he/hebron/"
+- name: "Hebron"
   url: "/setts/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBYBYBBBB](/stripes/bbbbbbybybbbb/).
+
+Part of the [Hebron](/tartans/h/he/hebron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

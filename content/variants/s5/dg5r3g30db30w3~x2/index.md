@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gamba"
+  url: "/tartans/g/ga/gamba/"
 - name: "Gamba Tuscany Fife"
   url: "/setts/dg5r3g30db30w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5r3g30db30w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBW](/stripes/grgbw/).
+
+Part of the [Gamba](/tartans/g/ga/gamba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

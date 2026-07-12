@@ -6,6 +6,8 @@ This is the **Lunch with an Old Bag (Fundraising Committee)** sett — one scale
 [RKRKRBKBKBW](/stripes/rkrkrbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lunch with an Old Bag](/tartans/l/lu/lunch-with-an-old-bag/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

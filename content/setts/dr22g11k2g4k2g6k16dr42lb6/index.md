@@ -6,6 +6,8 @@ This is the **Stewart of Bute Hunting** sett — one scale-free proportion (`dr2
 [BGKGKGKBW](/stripes/bgkgkgkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart of Bute Hunting](/tartans/s/st/stewart-of-bute-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

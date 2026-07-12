@@ -6,6 +6,8 @@ This is the **Hearts Football Club (Corporate)** sett — one scale-free proport
 [BWKRWRWRY](/stripes/bwkrwrwry/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Hearts Football Club](/tartans/h/he/hearts-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

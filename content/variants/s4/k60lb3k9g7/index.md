@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wallington"
+  url: "/tartans/w/wa/wallington/"
 - name: "Wallington (Corporate?)"
   url: "/setts/k60lb3k9g7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k60lb3k9g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWK](/stripes/gkwk/).
+
+Part of the [Wallington](/tartans/w/wa/wallington/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

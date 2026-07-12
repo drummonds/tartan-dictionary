@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Massachusetts"
+  url: "/tartans/m/ma/massachusetts/"
 - name: "Massachusetts - The Bay State"
   url: "/setts/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g12db6g6db22w4db8g4r8db10r3db48lb4db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRGBWBGBG](/stripes/bwbrbrgbwbgbg/).
+
+Part of the [Massachusetts](/tartans/m/ma/massachusetts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

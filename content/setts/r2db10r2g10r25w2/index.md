@@ -6,6 +6,8 @@ This is the **Grant of Lurg** sett — one scale-free proportion (`r2db10r2g10r2
 [RBRGRW](/stripes/rbrgrw/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Grant of Lurg](/tartans/g/gr/grant-of-lurg-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

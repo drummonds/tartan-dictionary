@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Survivor"
+  url: "/tartans/s/su/survivor/"
+- name: "Survivor"
   url: "/setts/k1r1k8g1k1g8y1db8k1db1k8w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1r1k8g1k1g8y1db8k1db1k8w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGGBKBKWK](/stripes/krkgkggbkbkwk/).
+
+Part of the [Survivor](/tartans/s/su/survivor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

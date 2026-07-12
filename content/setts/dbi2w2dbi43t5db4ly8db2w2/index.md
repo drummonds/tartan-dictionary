@@ -6,7 +6,7 @@ This is the **Fife Flyers (Corporate)** sett — one scale-free proportion (`dbi
 [BWBBBYBW](/stripes/bwbbbybw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Fife Flyers](/tartans/fife-flyers/) tartan — the named design grouping this sett with its kin.
+Part of the [Fife Flyers](/tartans/f/fi/fife-flyers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

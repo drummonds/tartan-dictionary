@@ -6,6 +6,8 @@ This is the **Eastern Western Motor Group, Dalbraith** sett — one scale-free p
 [GGGBGBGY](/stripes/gggbgbgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dalbraith-Eastern Western (Corporate](/tartans/d/da/dalbraith-eastern-western-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

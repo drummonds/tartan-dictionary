@@ -6,6 +6,8 @@ This is the **Loevenstein Castle** sett — one scale-free proportion (`dr20k3dr
 [BKBWK](/stripes/bkbwk/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Loevenstein Castle](/tartans/l/lo/loevenstein-castle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

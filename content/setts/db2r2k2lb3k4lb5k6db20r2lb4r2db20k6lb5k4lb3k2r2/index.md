@@ -6,6 +6,8 @@ This is the **Scottish Knights Templar Militi Templi Scotia** sett — one scale
 [BRKWKWKBRWRBKWKWKR](/stripes/brkwkwkbrwrbkwkwkr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Scottish Knights Templar Militi Templi Scotia](/tartans/s/sc/scottish-knights-templar-militi-templi-scotia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

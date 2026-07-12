@@ -6,6 +6,8 @@ This is the **Murdoch, Ellis (Personal)** sett — one scale-free proportion (`d
 [BBWK](/stripes/bbwk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Murdoch, Ellis](/tartans/m/mu/murdoch-ellis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

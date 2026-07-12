@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bermuda"
+  url: "/tartans/b/be/bermuda/"
 - name: "Bermuda Plaid (1947) (District)"
   url: "/setts/lb33r8db12g12lb8db2lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb33r8db12g12lb8db2lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGBRW](/stripes/wbwgbrw/).
+
+Part of the [Bermuda](/tartans/b/be/bermuda/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

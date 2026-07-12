@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Donside Trampoline Club"
+  url: "/tartans/d/do/donside-trampoline-club/"
+- name: "Donside Trampoline Club"
   url: "/setts/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/).
+
+Part of the [Donside Trampoline Club](/tartans/d/do/donside-trampoline-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

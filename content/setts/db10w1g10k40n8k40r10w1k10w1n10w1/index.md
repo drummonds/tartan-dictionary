@@ -6,6 +6,8 @@ This is the **EthosEnergy** sett — one scale-free proportion (`db10w1g10k40n8k
 [BWGKBKRWKWBW](/stripes/bwgkbkrwkwbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [EthosEnergy](/tartans/e/et/ethosenergy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

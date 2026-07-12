@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Registers of Scotland, The"
+  url: "/tartans/r/re/registers-of-scotland-the/"
 - name: "Registers of Scotland, The (Corp)"
   url: "/setts/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYBYBWBBBYBR](/stripes/gbybybwbbbybr/).
+
+Part of the [Registers of Scotland, The](/tartans/r/re/registers-of-scotland-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

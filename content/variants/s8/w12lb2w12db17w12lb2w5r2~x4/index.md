@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Milne"
   url: "/clan/milne/"
 - name: "Milne Royal Blue Dress"
-  url: "/tartans/milne-royal-blue-dress/"
+  url: "/tartans/m/mi/milne-royal-blue-dress/"
 - name: "Milne Royal Blue Dress (Dance)"
   url: "/setts/w12lb2w12db17w12lb2w5r2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w12lb2w12db17w12lb2w5r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWWBWWW](/stripes/rwwwbwww/).
 
-Part of the [Milne Royal Blue Dress](/tartans/milne-royal-blue-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Milne Royal Blue Dress](/tartans/m/mi/milne-royal-blue-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

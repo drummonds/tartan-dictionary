@@ -6,6 +6,8 @@ This is the **Leslie Dress** sett — one scale-free proportion (`r4k6y1k6r4db16
 [BRBRKGKR](/stripes/brbrkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leslie Dress](/tartans/l/le/leslie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

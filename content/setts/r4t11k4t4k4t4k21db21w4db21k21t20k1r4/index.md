@@ -6,6 +6,8 @@ This is the **McCaig (2016)** sett — one scale-free proportion (`r4t11k4t4k4t4
 [RBKBKBKBWBKBKR](/stripes/rbkbkbkbwbkbkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [McCaig](/tartans/m/mc/mccaig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

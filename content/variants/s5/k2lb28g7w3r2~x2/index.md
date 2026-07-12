@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cleland"
-  url: "/tartans/cleland/"
+  url: "/tartans/c/cl/cleland/"
 - name: "Cleland Corporate Tartan"
   url: "/setts/k2lb28g7w3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2lb28g7w3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWR](/stripes/kwgwr/).
 
-Part of the [Cleland](/tartans/cleland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cleland](/tartans/c/cl/cleland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

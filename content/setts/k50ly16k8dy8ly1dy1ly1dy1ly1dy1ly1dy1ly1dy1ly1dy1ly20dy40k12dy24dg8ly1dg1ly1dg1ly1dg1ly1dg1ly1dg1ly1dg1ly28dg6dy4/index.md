@@ -6,6 +6,8 @@ This is the **Alberta (Commemorative)** sett — one scale-free proportion (`k50
 [GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK](/stripes/ggygygygygygygyggkgygygygygygygygkyk/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Alberta](/tartans/a/al/alberta-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

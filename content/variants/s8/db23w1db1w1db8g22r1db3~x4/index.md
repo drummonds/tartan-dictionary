@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roxburgh"
-  url: "/tartans/roxburgh/"
+  url: "/tartans/r/ro/roxburgh/"
 - name: "Roxburgh, Green (District)"
   url: "/setts/db23w1db1w1db8g22r1db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db23w1db1w1db8g22r1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWBWB](/stripes/brgbwbwb/).
 
-Part of the [Roxburgh](/tartans/roxburgh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Roxburgh](/tartans/r/ro/roxburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

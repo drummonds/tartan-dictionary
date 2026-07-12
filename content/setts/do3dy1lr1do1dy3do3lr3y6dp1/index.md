@@ -6,6 +6,8 @@ This is the **Toorak Chapler** sett — one scale-free proportion (`do3dy1lr1do1
 [BGYBGBYGB](/stripes/bgybgbygb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Toorak Chapler](/tartans/t/to/toorak-chapler/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

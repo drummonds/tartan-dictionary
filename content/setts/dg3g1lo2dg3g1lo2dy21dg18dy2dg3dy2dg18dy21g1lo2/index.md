@@ -7,6 +7,8 @@ This is the **Prince David** sett — one scale-free proportion (`dg3g1lo2dg3g1l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1930**.
 
+Part of the [Prince David Royal](/tartans/p/pr/prince-david-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

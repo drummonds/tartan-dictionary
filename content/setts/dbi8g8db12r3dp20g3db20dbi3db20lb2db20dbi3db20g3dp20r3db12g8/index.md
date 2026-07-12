@@ -6,7 +6,7 @@ This is the **Strathisla** sett — one scale-free proportion (`dbi8g8db12r3dp20
 [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Strathisla](/tartans/strathisla-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Strathisla](/tartans/s/st/strathisla-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

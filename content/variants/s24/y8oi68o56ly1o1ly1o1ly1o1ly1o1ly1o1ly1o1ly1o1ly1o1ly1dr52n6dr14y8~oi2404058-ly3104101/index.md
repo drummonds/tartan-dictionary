@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lehbrink No. 1"
+  url: "/tartans/l/le/lehbrink-no-1/"
 - name: "Lehbrink No. 1 (Fashion)"
   url: "/setts/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBYRYRYRYRYRYRYRYRYRRG](/stripes/gbbbyryryryryryryryryrrg/).
+
+Part of the [Lehbrink No. 1](/tartans/l/le/lehbrink-no-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

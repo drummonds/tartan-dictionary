@@ -6,6 +6,8 @@ This is the **Georgian Bay, Waters of** sett — one scale-free proportion (`db3
 [BWBBGR](/stripes/bwbbgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Georgian Bay, Waters of](/tartans/g/ge/georgian-bay-waters-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

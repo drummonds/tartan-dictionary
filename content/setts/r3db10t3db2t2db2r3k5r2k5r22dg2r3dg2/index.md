@@ -6,6 +6,8 @@ This is the **Lochcarron Dress** sett — one scale-free proportion (`r3db10t3db
 [GRGRKRKRBBBBBR](/stripes/grgrkrkrbbbbbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lochcarron Dress](/tartans/l/lo/lochcarron-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

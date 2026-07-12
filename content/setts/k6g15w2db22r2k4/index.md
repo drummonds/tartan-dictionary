@@ -6,7 +6,7 @@ This is the **Leslie, Hebridean** sett — one scale-free proportion (`k6g15w2db
 [KGWBRK](/stripes/kgwbrk/). It is recorded as a single **variant**, below.
 First attested **1740**.
 
-Part of the [Leslie, Hebridean](/tartans/leslie-hebridean/) tartan — the named design grouping this sett with its kin.
+Part of the [Leslie, Hebridean](/tartans/l/le/leslie-hebridean/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

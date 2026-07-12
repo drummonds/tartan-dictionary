@@ -6,6 +6,8 @@ This is the **Highland Park** sett — one scale-free proportion (`lo2k3db6dr4k4
 [WKBBKBBKY](/stripes/wkbbkbbky/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Highland Park](/tartans/h/hi/highland-park/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

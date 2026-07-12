@@ -6,6 +6,8 @@ This is the **Hay-Stewart** sett — one scale-free proportion (`dr4w25t4k6ly2k2
 [BWBKYKWKGBKBWBKBGKWKYKBW](/stripes/bwbkykwkgbkbwbkbgkwkykbw/). It is recorded as a single **variant**, below.
 First attested **1838**.
 
+Part of the [Hay-Stewart](/tartans/h/ha/hay-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

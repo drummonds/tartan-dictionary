@@ -6,6 +6,8 @@ This is the **Holmes (Clan?)** sett — one scale-free proportion (`k30r3k3r3k6d
 [BGBKRKRK](/stripes/bgbkrkrk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Holmes](/tartans/h/ho/holmes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

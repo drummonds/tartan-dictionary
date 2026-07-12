@@ -6,7 +6,7 @@ This is the **Contreceour Dress Corporate Tartan** sett — one scale-free propo
 [GWGKWRWKGKGWRWW](/stripes/gwgkwrwkgkgwrww/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Contreceour Dress](/tartans/contreceour-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Contreceour Dress](/tartans/c/co/contreceour-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

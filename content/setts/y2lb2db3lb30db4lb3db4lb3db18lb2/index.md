@@ -6,6 +6,8 @@ This is the **Traynor** sett — one scale-free proportion (`y2lb2db3lb30db4lb3d
 [GWBWBWBWBW](/stripes/gwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Traynor](/tartans/t/tr/traynor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Valley of the"
+  url: "/tartans/v/va/valley-of-the/"
 - name: "Valley of the Green #2"
   url: "/setts/w9r2w2r6w14r2k14g14r6g2r2g8y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9r2w2r6w14r2k14g14r6g2r2g8y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGRGKRWRWRW](/stripes/ggrgrgkrwrwrw/).
+
+Part of the [Valley of the](/tartans/v/va/valley-of-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

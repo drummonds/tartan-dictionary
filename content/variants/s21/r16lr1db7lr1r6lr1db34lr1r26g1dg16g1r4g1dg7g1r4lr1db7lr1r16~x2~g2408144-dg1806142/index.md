@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Boisdale"
+  url: "/families/macdonald-of-boisdale/"
+- name: "MacDonald of Boisdale"
+  url: "/tartans/m/ma/macdonald-of-boisdale-2/"
 - name: "MacDonald of Boisdale"
   url: "/setts/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBYRGGGRGGGRYBYRYBYR](/stripes/rybyrgggrgggrybyrybyr/).
+
+Part of the [MacDonald of Boisdale](/tartans/m/ma/macdonald-of-boisdale-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

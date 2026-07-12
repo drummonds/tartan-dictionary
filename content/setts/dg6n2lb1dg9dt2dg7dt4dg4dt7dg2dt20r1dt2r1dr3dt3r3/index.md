@@ -6,7 +6,7 @@ This is the **Queensferry (District)** sett — one scale-free proportion (`dg6n
 [GBWGBGBGBGBRBRBBR](/stripes/gbwgbgbgbgbrbrbbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Queensferry](/tartans/queensferry/) tartan — the named design grouping this sett with its kin.
+Part of the [Queensferry](/tartans/q/qu/queensferry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

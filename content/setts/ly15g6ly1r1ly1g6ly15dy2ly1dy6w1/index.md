@@ -6,6 +6,8 @@ This is the **Connaught** sett — one scale-free proportion (`ly15g6ly1r1ly1g6l
 [WGYGYGYRYGY](/stripes/wgygygyrygy/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Connacht](/tartans/c/co/connacht-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

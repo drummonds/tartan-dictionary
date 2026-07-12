@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Sinclair"
   url: "/clan/sinclair/"
 - name: "Sinclair"
-  url: "/tartans/sinclair/"
+  url: "/tartans/s/si/sinclair/"
 - name: "Sinclair (Logan)"
   url: "/setts/r28g16k4w1db6r28/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r28g16k4w1db6r28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
 
-Part of the [Sinclair](/tartans/sinclair/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sinclair](/tartans/s/si/sinclair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

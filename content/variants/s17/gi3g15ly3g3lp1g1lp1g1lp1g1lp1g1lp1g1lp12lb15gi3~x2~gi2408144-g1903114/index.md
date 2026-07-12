@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prickly Thistle"
+  url: "/tartans/p/pr/prickly-thistle-2/"
 - name: "Prickly Thistle (Corporate)"
   url: "/setts/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGYGWGWGWGWGWGWWG](/stripes/ggygwgwgwgwgwgwwg/).
+
+Part of the [Prickly Thistle](/tartans/p/pr/prickly-thistle-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

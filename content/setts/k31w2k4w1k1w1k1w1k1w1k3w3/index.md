@@ -6,6 +6,8 @@ This is the **Scott (Black and White)** sett — one scale-free proportion (`k31
 [KWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Scott](/tartans/s/sc/scott-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

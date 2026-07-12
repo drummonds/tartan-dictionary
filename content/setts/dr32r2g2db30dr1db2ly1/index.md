@@ -6,6 +6,8 @@ This is the **Highland Prince (Fashion)** sett — one scale-free proportion (`d
 [BRGBBBY](/stripes/brgbbby/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Highland Prince](/tartans/h/hi/highland-prince/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

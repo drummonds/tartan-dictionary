@@ -6,6 +6,8 @@ This is the **Connacht Irish District Tartan** sett — one scale-free proportio
 [RBGBGW](/stripes/rbgbgw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Connacht](/tartans/c/co/connacht-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

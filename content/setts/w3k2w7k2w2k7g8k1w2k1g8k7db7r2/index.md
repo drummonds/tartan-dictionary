@@ -6,6 +6,8 @@ This is the **MacKenzie Dress - 1950 (Clan)** sett — one scale-free proportion
 [RBKGKWKGKWKWKW](/stripes/rbkgkwkgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacKenzie Dress](/tartans/m/ma/mackenzie-dress-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

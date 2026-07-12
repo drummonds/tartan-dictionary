@@ -6,6 +6,8 @@ This is the **Gallowater, Original** sett — one scale-free proportion (`r10k17
 [GGBWKR](/stripes/ggbwkr/). It is recorded as a single **variant**, below.
 First attested **1793**.
 
+Part of the [Gallowater, Original](/tartans/g/ga/gallowater-original/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

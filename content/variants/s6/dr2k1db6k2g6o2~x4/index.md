@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacEachain"
+  url: "/tartans/m/ma/maceachain/"
 - name: "MacEachain (Clan)"
   url: "/setts/dr2k1db6k2g6o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2k1db6k2g6o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGR](/stripes/bkbkgr/).
+
+Part of the [MacEachain](/tartans/m/ma/maceachain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

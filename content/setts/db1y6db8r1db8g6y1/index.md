@@ -7,6 +7,8 @@ This is the **Hill of Banchory Primary School** sett — one scale-free proporti
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Hill of Banchory Primary](/tartans/h/hi/hill-of-banchory-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

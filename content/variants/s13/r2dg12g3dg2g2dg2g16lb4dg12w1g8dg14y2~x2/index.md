@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Field Gun Association"
+  url: "/tartans/f/fi/field-gun-association/"
+- name: "Field Gun Association"
   url: "/setts/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGWGGGGGGR](/stripes/gggwgwggggggr/).
+
+Part of the [Field Gun Association](/tartans/f/fi/field-gun-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

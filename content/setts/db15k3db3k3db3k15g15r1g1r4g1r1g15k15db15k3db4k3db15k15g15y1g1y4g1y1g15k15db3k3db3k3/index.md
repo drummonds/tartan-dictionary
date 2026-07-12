@@ -6,6 +6,8 @@ This is the **Gordon #4** sett — one scale-free proportion (`db15k3db3k3db3k15
 [BKBKBKGRGRGRGKBKBKBKGGGGGGGKBKBK](/stripes/bkbkbkgrgrgrgkbkbkbkgggggggkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gordon 6](/tartans/g/go/gordon-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

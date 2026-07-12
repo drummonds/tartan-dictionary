@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's Lionheart"
+  url: "/tartans/s/sc/scotland-s-lionheart/"
+- name: "Scotland's Lionheart"
   url: "/setts/k78y16k2dt2k2y2k3r2k10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k78y16k2dt2k2y2k3r2k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKGKRK](/stripes/kgkbkgkrk/).
+
+Part of the [Scotland's Lionheart](/tartans/s/sc/scotland-s-lionheart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

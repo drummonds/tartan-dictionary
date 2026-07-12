@@ -6,6 +6,8 @@ This is the **Union Club of British Columbia** sett — one scale-free proportio
 [GBWBKBWWWBKR](/stripes/gbwbkbwwwbkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Union Club of British Columbia](/tartans/u/un/union-club-of-british-columbia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

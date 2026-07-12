@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan West"
   url: "/clan/west/"
 - name: "West Highland Way"
-  url: "/tartans/west-highland-way/"
+  url: "/tartans/w/we/west-highland-way/"
 - name: "West Highland Way (Corporate)"
   url: "/setts/db7lb1db1r2db9r1k9g13dp2g18r1g6/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db7lb1db1r2db9r1k9g13dp2g18r1g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBRKGBGRG](/stripes/bwbrbrkgbgrg/).
 
-Part of the [West Highland Way](/tartans/west-highland-way/) tartan — the named design grouping this sett with its other cloths.
+Part of the [West Highland Way](/tartans/w/we/west-highland-way/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Printing Industries of America"
+  url: "/tartans/p/pr/printing-industries-of-america/"
+- name: "Printing Industries of America"
   url: "/setts/k7r2k2ki6y1ki1y1ki4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7r2k2ki6y1ki1y1ki4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKKRK](/stripes/kgkgkkrk/).
+
+Part of the [Printing Industries of America](/tartans/p/pr/printing-industries-of-america/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

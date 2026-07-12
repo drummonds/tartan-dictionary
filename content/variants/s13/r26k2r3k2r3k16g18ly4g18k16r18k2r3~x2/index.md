@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Red Watch"
+  url: "/tartans/r/re/red-watch-2/"
 - name: "Red Watch (Fashion) #3"
   url: "/setts/r26k2r3k2r3k16g18ly4g18k16r18k2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r26k2r3k2r3k16g18ly4g18k16r18k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKGYGKRKRKR](/stripes/rkrkgygkrkrkr/).
+
+Part of the [Red Watch](/tartans/r/re/red-watch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

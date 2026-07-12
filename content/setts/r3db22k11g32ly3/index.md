@@ -6,6 +6,8 @@ This is the **Cultoquhey (Corporate)** sett — one scale-free proportion (`r3db
 [RBKGY](/stripes/rbkgy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cultoquhey](/tartans/c/cu/cultoquhey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

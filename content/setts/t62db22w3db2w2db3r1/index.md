@@ -7,6 +7,8 @@ This is the **North Tyneside Pipe Band** sett — one scale-free proportion (`t6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [North Tyneside](/tartans/n/no/north-tyneside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

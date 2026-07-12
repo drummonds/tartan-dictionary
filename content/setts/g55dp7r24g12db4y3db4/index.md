@@ -6,6 +6,8 @@ This is the **Crieff and Strathearn District Tartan** sett — one scale-free pr
 [BGBGRBG](/stripes/bgbgrbg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Crieff and Strathearn](/tartans/c/cr/crieff-and-strathearn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

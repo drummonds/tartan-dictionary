@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Danareth"
-  url: "/tartans/danareth/"
+  url: "/tartans/d/da/danareth/"
 - name: "Danareth (Corporate)"
   url: "/setts/k7g6ly3k12dr19k12g62k62g12dr7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7g6ly3k12dr19k12g62k62g12dr7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBKYGK](/stripes/bgkgkbkygk/).
 
-Part of the [Danareth](/tartans/danareth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Danareth](/tartans/d/da/danareth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

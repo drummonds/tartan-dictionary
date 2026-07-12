@@ -6,6 +6,8 @@ This is the **Metropolitan Atlanta Police, Emerald Society** sett — one scale-
 [RKBKBKGBGKBKR](/stripes/rkbkbkgbgkbkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Metropolitan Atlanta Police, Emerald Society](/tartans/m/me/metropolitan-atlanta-police-emerald-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

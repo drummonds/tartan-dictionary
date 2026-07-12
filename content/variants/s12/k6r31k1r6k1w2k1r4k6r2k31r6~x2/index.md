@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of Georgia"
+  url: "/tartans/u/un/university-of-georgia/"
 - name: "University of Georgia (Corporate)"
   url: "/setts/k6r31k1r6k1w2k1r4k6r2k31r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r31k1r6k1w2k1r4k6r2k31r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKWKRKRKR](/stripes/krkrkwkrkrkr/).
+
+Part of the [University of Georgia](/tartans/u/un/university-of-georgia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

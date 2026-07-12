@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Racing Wanless Australian"
+  url: "/tartans/r/ra/racing-wanless-australian/"
 - name: "Wanless (Personal)"
   url: "/setts/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRWBGWBGWBGRWBGW](/stripes/bgbgrwbgwbgwbgrwbgw/).
+
+Part of the [Racing Wanless Australian](/tartans/r/ra/racing-wanless-australian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

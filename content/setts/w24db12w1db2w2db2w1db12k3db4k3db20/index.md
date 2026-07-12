@@ -6,6 +6,8 @@ This is the **Costa, David (Personal)** sett — one scale-free proportion (`w24
 [BKBKBWBWBWBW](/stripes/bkbkbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Costa, David](/tartans/c/co/costa-david/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

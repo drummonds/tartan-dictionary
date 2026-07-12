@@ -6,6 +6,8 @@ This is the **De Baseggio (Personal)** sett — one scale-free proportion (`t4db
 [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [De Baseggio](/tartans/d/de/de-baseggio/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

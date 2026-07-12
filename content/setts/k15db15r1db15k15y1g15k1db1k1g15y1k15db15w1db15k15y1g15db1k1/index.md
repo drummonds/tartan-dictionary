@@ -6,6 +6,8 @@ This is the **Perthshire Highland Society (Corp)** sett — one scale-free propo
 [KBGGKBWBKGGKBKGGKBRBK](/stripes/kbggkbwbkggkbkggkbrbk/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Perthshire Highland Society](/tartans/p/pe/perthshire-highland-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

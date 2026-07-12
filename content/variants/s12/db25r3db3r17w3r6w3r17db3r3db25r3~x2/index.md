@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bon Accord Corporate Com"
+  url: "/tartans/b/bo/bon-accord-corporate-com/"
 - name: "Bon Accord Corporate Com Tartan"
   url: "/setts/db25r3db3r17w3r6w3r17db3r3db25r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25r3db3r17w3r6w3r17db3r3db25r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRWRWRBRBR](/stripes/brbrwrwrbrbr/).
+
+Part of the [Bon Accord Corporate Com](/tartans/b/bo/bon-accord-corporate-com/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Harazeen** sett — one scale-free proportion (`r2g1w1k1`), colour
 [KWGRKWGR](/stripes/kwgrkwgr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Harazeen](/tartans/h/ha/harazeen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

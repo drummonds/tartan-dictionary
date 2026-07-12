@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vassseur Mignon"
+  url: "/tartans/v/va/vassseur-mignon/"
 - name: "Vassseur Mignon ({Personal)"
   url: "/setts/r2ly2r2ly2g5o5g11n11g5o11ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly2r2ly2g5o5g11n11g5o11ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYGRGBGRY](/stripes/ryrygrgbgry/).
+
+Part of the [Vassseur Mignon](/tartans/v/va/vassseur-mignon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Richmond de Ellel"
+  url: "/tartans/r/ri/richmond-de-ellel/"
 - name: "Richmond de Ellel (Personal)"
   url: "/setts/k5ly25k10r3k10ly25w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5ly25k10r3k10ly25w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKRKYW](/stripes/kykrkyw/).
+
+Part of the [Richmond de Ellel](/tartans/r/ri/richmond-de-ellel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Internationale, The"
+  url: "/tartans/i/in/internationale-the/"
+- name: "Internationale, The"
   url: "/setts/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKYRYRYRYRYKRYR](/stripes/gkgkyryryryrykryr/).
+
+Part of the [Internationale, The](/tartans/i/in/internationale-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

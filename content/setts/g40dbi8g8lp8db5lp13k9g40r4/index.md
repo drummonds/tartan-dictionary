@@ -6,6 +6,8 @@ This is the **Vorwerk, The** sett — one scale-free proportion (`g40dbi8g8lp8db
 [GBGWBWKGR](/stripes/gbgwbwkgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Vorwerk, The](/tartans/v/vo/vorwerk-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

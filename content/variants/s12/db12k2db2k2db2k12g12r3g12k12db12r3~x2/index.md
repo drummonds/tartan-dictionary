@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenalmond College"
+  url: "/tartans/g/gl/glenalmond-college/"
+- name: "Glenalmond College"
   url: "/setts/db12k2db2k2db2k12g12r3g12k12db12r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2db2k2db2k12g12r3g12k12db12r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
+
+Part of the [Glenalmond College](/tartans/g/gl/glenalmond-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

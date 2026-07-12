@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Abernethy"
+  url: "/tartans/a/ab/abernethy-2/"
 - name: "Abernethy (Colerain USA) (Personal)"
   url: "/setts/lo1db14r28g14r1g14lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo1db14r28g14r1g14lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBRGRGY](/stripes/ybrgrgy/).
+
+Part of the [Abernethy](/tartans/a/ab/abernethy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

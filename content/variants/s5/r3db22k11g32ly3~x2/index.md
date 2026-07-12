@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cultoquhey"
+  url: "/tartans/c/cu/cultoquhey/"
 - name: "Cultoquhey (Corporate)"
   url: "/setts/r3db22k11g32ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db22k11g32ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGY](/stripes/rbkgy/).
+
+Part of the [Cultoquhey](/tartans/c/cu/cultoquhey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

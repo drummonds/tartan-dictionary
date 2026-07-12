@@ -6,6 +6,8 @@ This is the **Tyrone** sett — one scale-free proportion (`dr50o6do7g2do2w2do2o
 [BRBGBWBRBBBG](/stripes/brbgbwbrbbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tyrone](/tartans/t/ty/tyrone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

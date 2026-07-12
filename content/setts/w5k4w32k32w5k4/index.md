@@ -6,6 +6,8 @@ This is the **Valley Forge (Artefact)** sett — one scale-free proportion (`w5k
 [KWKWKW](/stripes/kwkwkw/). It is recorded as a single **variant**, below.
 First attested **1777**.
 
+Part of the [Valley Forge](/tartans/v/va/valley-forge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Motherwell Football Club 1991** sett — one scale-free proportion
 [BGBKBKRBKW](/stripes/bgbkbkrbkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Motherwell Football Club 1991](/tartans/m/mo/motherwell-football-club-1991/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

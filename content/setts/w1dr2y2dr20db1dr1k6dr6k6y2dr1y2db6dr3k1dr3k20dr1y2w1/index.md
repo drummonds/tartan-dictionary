@@ -6,6 +6,8 @@ This is the **McDill (2015)** sett — one scale-free proportion (`w1dr2y2dr20db
 [WBGBBBKBKGBGBBKBKBGW](/stripes/wbgbbbkbkgbgbbkbkbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [McDill](/tartans/m/mc/mcdill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

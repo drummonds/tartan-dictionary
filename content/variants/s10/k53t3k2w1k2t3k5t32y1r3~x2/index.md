@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Estonian National"
+  url: "/tartans/e/es/estonian-national/"
 - name: "Estonian National Tartan (District)"
   url: "/setts/k53t3k2w1k2t3k5t32y1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k53t3k2w1k2t3k5t32y1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKBKBGR](/stripes/kbkwkbkbgr/).
+
+Part of the [Estonian National](/tartans/e/es/estonian-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

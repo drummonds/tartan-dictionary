@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gordonstoun"
-  url: "/tartans/gordonstoun-6/"
+  url: "/tartans/g/go/gordonstoun-6/"
 - name: "Gordonstoun #2"
   url: "/setts/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWBBGGGBBWBGBGBGW](/stripes/gbgbgbwbbgggbbwbgbgbgw/).
 
-Part of the [Gordonstoun](/tartans/gordonstoun-6/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gordonstoun](/tartans/g/go/gordonstoun-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

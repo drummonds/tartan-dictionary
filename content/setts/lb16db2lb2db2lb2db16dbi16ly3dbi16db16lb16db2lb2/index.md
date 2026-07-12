@@ -6,6 +6,8 @@ This is the **Adair (Name)** sett — one scale-free proportion (`lb16db2lb2db2l
 [WBWBBYBBWBWBW](/stripes/wbwbbybbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
+Part of the [Adair](/tartans/a/ad/adair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wiseman Dairies Corporate Tartan** sett — one scale-free proport
 [BKWGWGWGWKWWWW](/stripes/bkwgwgwgwkwwww/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Wiseman Dairies](/tartans/w/wi/wiseman-dairies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

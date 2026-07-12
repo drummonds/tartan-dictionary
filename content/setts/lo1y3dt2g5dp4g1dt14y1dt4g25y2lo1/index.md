@@ -6,6 +6,8 @@ This is the **Walker, Gauvin (Personal)** sett — one scale-free proportion (`l
 [YGBGBGBGBGGY](/stripes/ygbgbgbgbggy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Walker, Gauvin](/tartans/w/wa/walker-gauvin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

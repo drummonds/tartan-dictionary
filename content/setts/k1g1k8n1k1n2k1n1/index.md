@@ -7,6 +7,8 @@ This is the **Nightstalker** sett — one scale-free proportion (`k1g1k8n1k1n2k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2008**.
 
+Part of the [Nightstalker](/tartans/n/ni/nightstalker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
+- name: "MacAulay Hunting"
+  url: "/tartans/m/ma/macaulay-hunting/"
 - name: "MacAulay Hunting"
   url: "/setts/g6k16w1k16g8k4g12r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6k16w1k16g8k4g12r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKGR](/stripes/gkwkgkgr/).
+
+Part of the [MacAulay Hunting](/tartans/m/ma/macaulay-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

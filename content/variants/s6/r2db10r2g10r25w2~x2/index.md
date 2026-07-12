@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Lurg"
+  url: "/families/grant-of-lurg/"
+- name: "Grant of Lurg"
+  url: "/tartans/g/gr/grant-of-lurg-2/"
 - name: "Grant of Lurg"
   url: "/setts/r2db10r2g10r25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db10r2g10r25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRW](/stripes/rbrgrw/).
+
+Part of the [Grant of Lurg](/tartans/g/gr/grant-of-lurg-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

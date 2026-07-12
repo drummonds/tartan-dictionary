@@ -6,6 +6,8 @@ This is the **McShane (Personal)** sett — one scale-free proportion (`g9lb2g9k
 [GWGKGYWR](/stripes/gwgkgywr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [McShane](/tartans/m/mc/mcshane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Apache North Sea Commemorative"
+  url: "/tartans/a/ap/apache-north-sea-commemorative/"
 - name: "Apache North Sea Commemorative Tartan"
   url: "/setts/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKBBKBBKBBKBBKBBGBG](/stripes/bgbbkbbkbbkbbkbbkbbgbg/).
+
+Part of the [Apache North Sea Commemorative](/tartans/a/ap/apache-north-sea-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 

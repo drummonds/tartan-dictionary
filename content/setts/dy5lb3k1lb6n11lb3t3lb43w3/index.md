@@ -6,6 +6,8 @@ This is the **Royal College of Midwives** sett — one scale-free proportion (`d
 [GWKWBWBWW](/stripes/gwkwbwbww/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Midwives](/tartans/m/mi/midwives/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

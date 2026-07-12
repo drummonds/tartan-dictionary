@@ -6,6 +6,8 @@ This is the **Hood (Artefact)** sett — one scale-free proportion (`k8n2k8n2k8n
 [KBKBKBKBKBBKWKBKBBKBW](/stripes/kbkbkbkbkbbkwkbkbbkbw/). It is recorded as a single **variant**, below.
 First attested **~1800**.
 
+Part of the [Hood](/tartans/h/ho/hood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

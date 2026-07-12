@@ -6,6 +6,8 @@ This is the **Mount Dora** sett — one scale-free proportion (`db42dp4db16dg10k
 [BBBGKRKGKW](/stripes/bbbgkrkgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Mount Dora](/tartans/m/mo/mount-dora/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

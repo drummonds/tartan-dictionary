@@ -6,6 +6,8 @@ This is the **Unidentified 18th Century** sett — one scale-free proportion (`d
 [BRBRBRBRGR](/stripes/brbrbrbrgr/). It is recorded as a single **variant**, below.
 First attested **1859**.
 
+Part of the [Unidentified 18th Century](/tartans/u/un/unidentified-18th-century/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

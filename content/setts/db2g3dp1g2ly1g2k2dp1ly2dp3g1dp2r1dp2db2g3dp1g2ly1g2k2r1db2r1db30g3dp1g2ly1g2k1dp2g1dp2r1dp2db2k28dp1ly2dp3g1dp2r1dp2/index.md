@@ -6,6 +6,8 @@ This is the **Highland Mist Corporate Tartan** sett — one scale-free proportio
 [BGBGYGKBYBGBRBBGBGYGKRBRBGBGYGKBGBRBBKBYBGBRB](/stripes/bgbgygkbybgbrbbgbgygkrbrbgbgygkbgbrbbkbybgbrb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Highland Mist](/tartans/h/hi/highland-mist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

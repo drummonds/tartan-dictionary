@@ -6,6 +6,8 @@ This is the **Firenze ~ Florence** sett — one scale-free proportion (`r46w1y3d
 [BGWRBRWGBGBGBGWR](/stripes/bgwrbrwgbgbgbgwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Firenze ~ Florence](/tartans/f/fi/firenze-florence/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

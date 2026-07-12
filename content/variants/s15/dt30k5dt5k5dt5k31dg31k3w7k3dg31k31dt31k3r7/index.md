@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "78th Regiment"
+  url: "/tartans/0-9/0-9/78th-regiment/"
 - name: "78th Regiment (Highlanders) (Mil.)"
   url: "/setts/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
+
+Part of the [78th Regiment](/tartans/0-9/0-9/78th-regiment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

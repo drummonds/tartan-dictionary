@@ -6,6 +6,8 @@ This is the **Earl of Dumfries (Personal)** sett — one scale-free proportion (
 [BKGKGKBRKRKRGKG](/stripes/bkgkgkbrkrkrgkg/). It is recorded as a single **variant**, below.
 First attested **~1940**.
 
+Part of the [Earl of Dumfries](/tartans/e/ea/earl-of-dumfries/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

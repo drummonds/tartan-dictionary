@@ -6,6 +6,8 @@ This is the **Prince Charles Edward (Edinburgh)** sett — one scale-free propor
 [GRKRBRKRKRGRK](/stripes/grkrbrkrkrgrk/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Albany](/tartans/a/al/albany/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

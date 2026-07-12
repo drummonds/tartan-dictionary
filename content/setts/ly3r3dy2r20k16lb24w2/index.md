@@ -6,7 +6,7 @@ This is the **Oor Wullie (Corporate)** sett — one scale-free proportion (`ly3r
 [WWKRGRY](/stripes/wwkrgry/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Oor Wullie](/tartans/oor-wullie/) tartan — the named design grouping this sett with its kin.
+Part of the [Oor Wullie](/tartans/o/oo/oor-wullie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

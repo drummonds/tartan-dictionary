@@ -7,6 +7,8 @@ This is the **MacGiboney Dress** sett — one scale-free proportion (`g5lb5t1lb1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
+Part of the [MacGiboney](/tartans/m/ma/macgiboney-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

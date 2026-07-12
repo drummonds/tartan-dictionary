@@ -6,7 +6,7 @@ This is the **Hek Family (Sunningdale, Berwick on Tweed)** sett — one scale-fr
 [BWBKBKBBG](/stripes/bwbkbkbbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Hek](/tartans/hek/) tartan — the named design grouping this sett with its kin.
+Part of the [Hek](/tartans/h/he/hek/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

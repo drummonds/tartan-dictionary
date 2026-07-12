@@ -6,7 +6,7 @@ This is the **Italian American (Corporate)** sett — one scale-free proportion 
 [RKWKBKGWR](/stripes/rkwkbkgwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Italian American](/tartans/italian-american/) tartan — the named design grouping this sett with its kin.
+Part of the [Italian American](/tartans/i/it/italian-american/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

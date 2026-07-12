@@ -7,6 +7,8 @@ This is the **Gordon VS** sett — one scale-free proportion (`db28k1db1k1db3k12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Gordon VS](/tartans/g/go/gordon-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

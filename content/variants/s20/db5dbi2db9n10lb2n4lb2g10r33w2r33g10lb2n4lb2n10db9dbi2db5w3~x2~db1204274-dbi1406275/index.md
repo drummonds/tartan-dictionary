@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inverclyde"
+  url: "/tartans/i/in/inverclyde-4/"
+- name: "Inverclyde"
   url: "/setts/db5dbi2db9n10lb2n4lb2g10r33w2r33g10lb2n4lb2n10db9dbi2db5w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5dbi2db9n10lb2n4lb2g10r33w2r33g10lb2n4lb2n10db9dbi2db5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBWGRWRGWBWBBBBW](/stripes/bbbbwbwgrwrgwbwbbbbw/).
+
+Part of the [Inverclyde](/tartans/i/in/inverclyde-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

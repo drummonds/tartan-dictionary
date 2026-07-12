@@ -6,7 +6,7 @@ This is the **Riley-Utter Union (Personal)** sett — one scale-free proportion 
 [BRBRGRGRGWGWGRGR](/stripes/brbrgrgrgwgwgrgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Riley-Utter Union](/tartans/riley-utter-union/) tartan — the named design grouping this sett with its kin.
+Part of the [Riley-Utter Union](/tartans/r/ri/riley-utter-union/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

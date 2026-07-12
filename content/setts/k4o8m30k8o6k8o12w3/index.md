@@ -6,6 +6,8 @@ This is the **Believe - Corinna** sett — one scale-free proportion (`k4o8m30k8
 [KRRKRKRW](/stripes/krrkrkrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Believe](/tartans/b/be/believe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

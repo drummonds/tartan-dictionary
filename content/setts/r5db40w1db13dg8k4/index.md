@@ -6,6 +6,8 @@ This is the **London Caledonian Rugby Club** sett — one scale-free proportion 
 [KGBWBR](/stripes/kgbwbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [London Caledonian Rugby Club](/tartans/l/lo/london-caledonian-rugby-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

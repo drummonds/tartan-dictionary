@@ -6,7 +6,7 @@ This is the **Kingsbarns Golf Links** sett — one scale-free proportion (`k8r3b
 [BGKGKBGBRK](/stripes/bgkgkbgbrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Kingsbarns Golf Links](/tartans/kingsbarns-golf-links/) tartan — the named design grouping this sett with its kin.
+Part of the [Kingsbarns Golf Links](/tartans/k/ki/kingsbarns-golf-links/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

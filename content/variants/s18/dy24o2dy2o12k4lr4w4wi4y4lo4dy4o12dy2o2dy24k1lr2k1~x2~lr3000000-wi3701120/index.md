@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bear"
-  url: "/tartans/bear/"
+  url: "/tartans/b/be/bear/"
 - name: "Bear (Corporate)"
   url: "/setts/dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2dy24k1lr2k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2dy24k1lr2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKYWWGYGRGRGKYK](/stripes/grgrkywwgygrgrgkyk/).
 
-Part of the [Bear](/tartans/bear/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bear](/tartans/b/be/bear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

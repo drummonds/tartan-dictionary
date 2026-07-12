@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Katsushika"
-  url: "/tartans/katsushika/"
+  url: "/tartans/k/ka/katsushika/"
 - name: "Katsushika (Corporate)"
   url: "/setts/db22ly2db1ly2db10y2g11y6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db22ly2db1ly2db10y2g11y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBGGG](/stripes/bybybggg/).
 
-Part of the [Katsushika](/tartans/katsushika/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Katsushika](/tartans/k/ka/katsushika/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

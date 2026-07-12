@@ -6,6 +6,8 @@ This is the **Harmon Family Tartan** sett — one scale-free proportion (`k8y2k2
 [GBGBGBKBKBGBKGKGKK](/stripes/gbgbgbkbkbgbkgkgkk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Harmon](/tartans/h/ha/harmon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

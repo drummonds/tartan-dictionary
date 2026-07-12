@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Clyde College"
+  url: "/tartans/g/gl/glasgow-clyde-college/"
+- name: "Glasgow Clyde College"
   url: "/setts/lb48r1db10r1lb10n2db27w1o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb48r1db10r1lb10n2db27w1o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBBWRBRW](/stripes/rwbbwrbrw/).
+
+Part of the [Glasgow Clyde College](/tartans/g/gl/glasgow-clyde-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

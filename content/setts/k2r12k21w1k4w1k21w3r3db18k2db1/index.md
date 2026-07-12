@@ -6,6 +6,8 @@ This is the **Bishop** sett — one scale-free proportion (`k2r12k21w1k4w1k21w3r
 [BKBRWKWKWKRK](/stripes/bkbrwkwkwkrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Bishop](/tartans/b/bi/bishop/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

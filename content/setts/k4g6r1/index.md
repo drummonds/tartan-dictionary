@@ -6,7 +6,7 @@ This is the **Kincaid of Kincaid Family Tartan** sett — one scale-free proport
 [KGR](/stripes/kgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Kincaid of Kincaid](/tartans/kincaid-of-kincaid/) tartan — the named design grouping this sett with its kin.
+Part of the [Kincaid of Kincaid](/tartans/k/ki/kincaid-of-kincaid/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

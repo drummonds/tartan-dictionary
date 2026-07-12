@@ -7,6 +7,8 @@ This is the **Ross (Wilsons)** sett — one scale-free proportion (`r25g6r25g29r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Ross](/tartans/r/ro/ross-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

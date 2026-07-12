@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kozmyk"
+  url: "/tartans/k/ko/kozmyk/"
 - name: "Kozmyk (Corporate)"
   url: "/setts/y6dy14db10dy58g3dy8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6dy14db10dy58g3dy8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGGGW](/stripes/ggbgggw/).
+
+Part of the [Kozmyk](/tartans/k/ko/kozmyk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

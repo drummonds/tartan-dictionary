@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
+- name: "Lumsden of Clova"
+  url: "/families/lumsden-of-clova/"
+- name: "Lumsden, of Clova"
+  url: "/tartans/l/lu/lumsden-of-clova-2/"
 - name: "Lumsden, of Clova"
   url: "/setts/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG](/stripes/brbrgrgrgrgrgrgrwrbrbrwrgrgrgrg/).
+
+Part of the [Lumsden, of Clova](/tartans/l/lu/lumsden-of-clova-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 

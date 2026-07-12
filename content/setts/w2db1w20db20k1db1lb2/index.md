@@ -6,7 +6,7 @@ This is the **Cunningham, Dress Blue (Dance) Fashion Tartan** sett — one scale
 [WBKBWBW](/stripes/wbkbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Cunningham Dress](/tartans/cunningham-dress-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

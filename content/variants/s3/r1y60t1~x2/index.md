@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nutwood"
+  url: "/tartans/n/nu/nutwood/"
+- name: "Nutwood"
   url: "/setts/r1y60t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1y60t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGR](/stripes/bgr/).
+
+Part of the [Nutwood](/tartans/n/nu/nutwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

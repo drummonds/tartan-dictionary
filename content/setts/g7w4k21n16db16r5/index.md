@@ -6,6 +6,8 @@ This is the **Hawkes, Norman (Personal)** sett — one scale-free proportion (`g
 [GWKBBR](/stripes/gwkbbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hawkes, Norman](/tartans/h/ha/hawkes-norman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

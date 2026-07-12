@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fort William"
-  url: "/tartans/fort-william-2/"
+  url: "/tartans/f/fo/fort-william-2/"
 - name: "Fort William (District?)"
   url: "/setts/dg17lb2g2lb2k21lb2k3dg30k2lb2k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg17lb2g2lb2k21lb2k3dg30k2lb2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWKWKGKWK](/stripes/gwgwkwkgkwk/).
 
-Part of the [Fort William](/tartans/fort-william-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fort William](/tartans/f/fo/fort-william-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

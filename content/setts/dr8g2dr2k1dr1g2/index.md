@@ -6,6 +6,8 @@ This is the **Waverley Care Aids Trust (Corporate)** sett — one scale-free pro
 [BGBKBG](/stripes/bgbkbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Waverley Care Aids Trust](/tartans/w/wa/waverley-care-aids-trust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

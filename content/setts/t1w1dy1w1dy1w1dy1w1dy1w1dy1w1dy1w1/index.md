@@ -6,6 +6,8 @@ This is the **Tulchan Estate Check (Corporate)** sett — one scale-free proport
 [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Tulchan Estate Check](/tartans/t/tu/tulchan-estate-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

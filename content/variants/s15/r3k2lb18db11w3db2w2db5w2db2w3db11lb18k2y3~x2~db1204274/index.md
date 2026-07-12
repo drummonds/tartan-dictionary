@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Citadel Military Academy Regimental"
+  url: "/tartans/c/ci/citadel-military-academy-regimental/"
 - name: "Citadel Military Academy Regimental Tartan"
   url: "/setts/r3k2lb18db11w3db2w2db5w2db2w3db11lb18k2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k2lb18db11w3db2w2db5w2db2w3db11lb18k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWBWBWBWBWBWKR](/stripes/gkwbwbwbwbwbwkr/).
+
+Part of the [Citadel Military Academy Regimental](/tartans/c/ci/citadel-military-academy-regimental/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

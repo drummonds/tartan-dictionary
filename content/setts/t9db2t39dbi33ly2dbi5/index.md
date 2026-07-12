@@ -6,7 +6,7 @@ This is the **Port Authority of NY & NJ American Corporate Tartan** sett — one
 [BBBBYB](/stripes/bbbbyb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Port Authority of NY & NJ](/tartans/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its kin.
+Part of the [Port Authority of NY & NJ](/tartans/p/po/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

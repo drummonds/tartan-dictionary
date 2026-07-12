@@ -6,6 +6,8 @@ This is the **Palm Beach Gardens Police** sett — one scale-free proportion (`g
 [BBWGWG](/stripes/bbwgwg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Palm Beach Gardens Police](/tartans/p/pa/palm-beach-gardens-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

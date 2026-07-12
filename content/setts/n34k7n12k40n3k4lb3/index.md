@@ -6,6 +6,8 @@ This is the **TACC** sett — one scale-free proportion (`n34k7n12k40n3k4lb3`), 
 [BKBKBKW](/stripes/bkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [TACC](/tartans/t/ta/tacc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

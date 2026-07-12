@@ -6,6 +6,8 @@ This is the **Longniddry** sett — one scale-free proportion (`dr16db4ly2lyi2db
 [BBYYBYBYYBBBYBBBYYB](/stripes/bbyybybyybbbybbbyyb/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Longniddry](/tartans/l/lo/longniddry-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

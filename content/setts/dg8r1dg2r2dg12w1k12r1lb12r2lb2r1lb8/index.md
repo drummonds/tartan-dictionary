@@ -6,6 +6,8 @@ This is the **Boston Pipe Band, Greater** sett — one scale-free proportion (`d
 [GRGRGWKRWRWRW](/stripes/grgrgwkrwrwrw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Boston Pipe Band, Greater](/tartans/b/bo/boston-pipe-band-greater/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

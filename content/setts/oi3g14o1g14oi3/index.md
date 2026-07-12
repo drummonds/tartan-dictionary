@@ -6,6 +6,8 @@ This is the **Pearson** sett — one scale-free proportion (`oi3g14o1g14oi3`), c
 [RGRGR](/stripes/rgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Pearson](/tartans/p/pe/pearson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

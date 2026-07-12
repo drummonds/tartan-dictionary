@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stuart-Houghton"
+  url: "/tartans/s/st/stuart-houghton-2/"
 - name: "Stuart-Houghton Family Tartan"
   url: "/setts/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBKBBKWKWKGBG](/stripes/bkbwbkbbkwkwkgbg/).
+
+Part of the [Stuart-Houghton](/tartans/s/st/stuart-houghton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

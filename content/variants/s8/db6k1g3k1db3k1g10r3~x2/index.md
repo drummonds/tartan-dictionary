@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "AIton"
+  url: "/tartans/a/ai/aiton/"
 - name: "AIton - 1979 (Clan)"
   url: "/setts/db6k1g3k1db3k1g10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k1g3k1db3k1g10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKGR](/stripes/bkgkbkgr/).
+
+Part of the [AIton](/tartans/a/ai/aiton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

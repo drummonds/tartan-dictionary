@@ -6,6 +6,8 @@ This is the **Williamson/Smart** sett — one scale-free proportion (`db10n3db10
 [BBBRKGKR](/stripes/bbbrkgkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Williamson/Smart](/tartans/w/wi/williamson-smart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Trost** sett — one scale-free proportion (`g4ri2r2ri24w2ri3w3ri3
 [GRRRWRWRGRBRBRGRWRWRRRG](/stripes/grrrwrwrgrbrbrgrwrwrrrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Trost](/tartans/t/tr/trost/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

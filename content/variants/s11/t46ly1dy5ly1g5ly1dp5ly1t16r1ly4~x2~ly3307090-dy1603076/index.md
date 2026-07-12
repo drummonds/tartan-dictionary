@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Craven County"
-  url: "/tartans/craven-county/"
+  url: "/tartans/c/cr/craven-county/"
 - name: "Craven County (Commemorative)"
   url: "/setts/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYGYBYBRY](/stripes/bygygybybry/).
 
-Part of the [Craven County](/tartans/craven-county/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Craven County](/tartans/c/cr/craven-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

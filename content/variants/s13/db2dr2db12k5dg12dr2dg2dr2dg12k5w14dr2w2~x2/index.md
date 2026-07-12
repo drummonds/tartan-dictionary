@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blair Dress"
-  url: "/tartans/blair-dress/"
+  url: "/tartans/b/bl/blair-dress/"
 - name: "Blair Dress"
   url: "/setts/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGBGBGKWBW](/stripes/bbbkgbgbgkwbw/).
 
-Part of the [Blair Dress](/tartans/blair-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blair Dress](/tartans/b/bl/blair-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

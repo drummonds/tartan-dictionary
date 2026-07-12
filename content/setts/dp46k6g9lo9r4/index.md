@@ -6,6 +6,8 @@ This is the **Ayllu Thuban (Corporate)** sett — one scale-free proportion (`dp
 [BKGYR](/stripes/bkgyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Ayllu Thuban](/tartans/a/ay/ayllu-thuban/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

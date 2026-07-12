@@ -6,7 +6,7 @@ This is the **Nickel Lodge Centennial (Corporate)** sett — one scale-free prop
 [BGBGBBWGG](/stripes/bgbgbbwgg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Nickel Lodge Centennial](/tartans/nickel-lodge-centennial/) tartan — the named design grouping this sett with its kin.
+Part of the [Nickel Lodge Centennial](/tartans/n/ni/nickel-lodge-centennial/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Ailsa Craig** sett — one scale-free proportion (`r5w2o20dy2k16w1
 [RWRGKWKW](/stripes/rwrgkwkw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Ailsa Craig](/tartans/a/ai/ailsa-craig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

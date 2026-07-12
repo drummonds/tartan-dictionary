@@ -6,6 +6,8 @@ This is the **Tartan for London, A (Fashion)** sett — one scale-free proportio
 [BGYGBWG](/stripes/bgygbwg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Tartan for London, A](/tartans/t/ta/tartan-for-london-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

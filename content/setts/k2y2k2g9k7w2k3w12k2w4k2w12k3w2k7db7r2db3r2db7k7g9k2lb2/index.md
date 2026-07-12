@@ -6,7 +6,7 @@ This is the **Malcolm, dress** sett — one scale-free proportion (`k2y2k2g9k7w2
 [KGKGKWKWKWKWKWKBRBRBKGKW](/stripes/kgkgkwkwkwkwkwkbrbrbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Malcolm Dress](/tartans/malcolm-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Malcolm Dress](/tartans/m/ma/malcolm-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

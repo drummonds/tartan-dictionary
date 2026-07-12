@@ -7,6 +7,8 @@ This is the **Spirit of South Lanarkshire** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Spirit of South Lanarkshire (Distric](/tartans/s/sp/spirit-of-south-lanarkshire-distric/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

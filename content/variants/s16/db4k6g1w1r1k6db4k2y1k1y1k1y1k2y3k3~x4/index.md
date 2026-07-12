@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baseggio"
+  url: "/tartans/b/ba/baseggio/"
 - name: "Baseggio Name Tartan"
   url: "/setts/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGWRKBKGKGKGKGK](/stripes/bkgwrkbkgkgkgkgk/).
+
+Part of the [Baseggio](/tartans/b/ba/baseggio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

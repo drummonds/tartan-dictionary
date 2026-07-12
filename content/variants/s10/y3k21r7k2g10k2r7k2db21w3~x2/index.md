@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tantallon"
-  url: "/tartans/tantallon/"
+  url: "/tartans/t/ta/tantallon/"
 - name: "Tantallon"
   url: "/setts/y3k21r7k2g10k2r7k2db21w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3k21r7k2g10k2r7k2db21w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKRKBW](/stripes/gkrkgkrkbw/).
 
-Part of the [Tantallon](/tartans/tantallon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tantallon](/tartans/t/ta/tantallon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

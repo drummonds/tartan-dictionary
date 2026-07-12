@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Beatrice Dress"
-  url: "/tartans/princess-beatrice-dress/"
+  url: "/tartans/p/pr/princess-beatrice-dress/"
 - name: "Princess Beatrice, dress"
   url: "/setts/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKRKRKRWBWRGRK](/stripes/ggkgkgkrkrkrwbwrgrk/).
 
-Part of the [Princess Beatrice Dress](/tartans/princess-beatrice-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Princess Beatrice Dress](/tartans/p/pr/princess-beatrice-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 

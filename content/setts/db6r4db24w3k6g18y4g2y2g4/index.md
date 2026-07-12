@@ -6,6 +6,8 @@ This is the **Greene** sett — one scale-free proportion (`db6r4db24w3k6g18y4g2
 [BRBWKGGGGG](/stripes/brbwkggggg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Greene](/tartans/g/gr/greene/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

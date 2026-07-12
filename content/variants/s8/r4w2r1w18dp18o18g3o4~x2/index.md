@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gigha Lilac"
+  url: "/tartans/g/gi/gigha-lilac/"
 - name: "Gigha Lilac Fashion Tartan"
   url: "/setts/r4w2r1w18dp18o18g3o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4w2r1w18dp18o18g3o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBWRWR](/stripes/rgrbwrwr/).
+
+Part of the [Gigha Lilac](/tartans/g/gi/gigha-lilac/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Yusra Personal Tartan** sett — one scale-free proportion (`r12k3
 [RBKBWKR](/stripes/rbkbwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Yusra](/tartans/y/yu/yusra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

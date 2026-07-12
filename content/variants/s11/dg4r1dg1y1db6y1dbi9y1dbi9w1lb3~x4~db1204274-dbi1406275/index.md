@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Knox"
+  url: "/tartans/k/kn/knox-2/"
 - name: "Knox #2"
   url: "/setts/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBGBGGRGRGGBGBGBWW](/stripes/wbgbgbggrgrggbgbgbww/).
+
+Part of the [Knox](/tartans/k/kn/knox-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

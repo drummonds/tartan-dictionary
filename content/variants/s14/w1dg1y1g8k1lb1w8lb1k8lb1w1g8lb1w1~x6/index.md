@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Praetorian"
+  url: "/tartans/p/pr/praetorian/"
 - name: "Praetorian Green"
   url: "/setts/w1dg1y1g8k1lb1w8lb1k8lb1w1g8lb1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1dg1y1g8k1lb1w8lb1k8lb1w1g8lb1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGGKWWWKWWGWW](/stripes/wgggkwwwkwwgww/).
+
+Part of the [Praetorian](/tartans/p/pr/praetorian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

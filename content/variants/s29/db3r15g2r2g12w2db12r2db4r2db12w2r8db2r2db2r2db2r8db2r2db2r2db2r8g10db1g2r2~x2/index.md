@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Summerville Presbyterian Church (Cor"
+  url: "/tartans/s/su/summerville-presbyterian-church-cor/"
+- name: "Summerville Presbyterian Church (Cor"
   url: "/setts/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGWBRBRBWRBRBRBRBRBRBRGBGR](/stripes/brgrgwbrbrbwrbrbrbrbrbrbrgbgr/).
+
+Part of the [Summerville Presbyterian Church (Cor](/tartans/s/su/summerville-presbyterian-church-cor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

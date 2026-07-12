@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Schwarzen Keiler, Die"
-  url: "/tartans/schwarzen-keiler-die/"
+  url: "/tartans/s/sc/schwarzen-keiler-die/"
 - name: "Schwarzen Keiler, Die"
   url: "/setts/dg6k6r1w1k6dg32k6r1w1k6dg6y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg6k6r1w1k6dg32k6r1w1k6dg6y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKWRKGKWRKG](/stripes/ggkwrkgkwrkg/).
 
-Part of the [Schwarzen Keiler, Die](/tartans/schwarzen-keiler-die/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Schwarzen Keiler, Die](/tartans/s/sc/schwarzen-keiler-die/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Port Authority of NY & NJ"
-  url: "/tartans/port-authority-of-ny-nj/"
+  url: "/tartans/p/po/port-authority-of-ny-nj/"
 - name: "Port Authority of NY & NJ"
   url: "/setts/lb9db2lb39dbi33ly2dbi5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb9db2lb39dbi33ly2dbi5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWBW](/stripes/bybwbw/).
 
-Part of the [Port Authority of NY & NJ](/tartans/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Port Authority of NY & NJ](/tartans/p/po/port-authority-of-ny-nj/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

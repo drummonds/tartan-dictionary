@@ -6,7 +6,7 @@ This is the **Prehospital EMS (Corporate)** sett — one scale-free proportion (
 [GBYWK](/stripes/gbywk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Prehospital EMS](/tartans/prehospital-ems/) tartan — the named design grouping this sett with its kin.
+Part of the [Prehospital EMS](/tartans/p/pr/prehospital-ems/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Singh** sett — one scale-free proportion (`dr3lb2g18lo2g18dp34dr
 [BBBGYGWB](/stripes/bbbgygwb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Singh](/tartans/s/si/singh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Williams of Wales** sett — one scale-free proportion (`k2dr30dg2
 [GKBGBKBGBKBGBGBGBGBKBGBKBGBK](/stripes/gkbgbkbgbkbgbgbgbgbkbgbkbgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Williams of Wales](/tartans/w/wi/williams-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

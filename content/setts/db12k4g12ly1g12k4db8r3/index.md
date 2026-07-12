@@ -6,6 +6,8 @@ This is the **Art Pewter Silver** sett — one scale-free proportion (`db12k4g12
 [BKGYGKBR](/stripes/bkgygkbr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Art Pewter Silver](/tartans/a/ar/art-pewter-silver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

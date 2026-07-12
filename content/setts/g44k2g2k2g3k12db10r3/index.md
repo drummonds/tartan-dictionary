@@ -6,6 +6,8 @@ This is the **Celtic (New) Corporate Sport Tartan** sett — one scale-free prop
 [GKGKGKBR](/stripes/gkgkgkbr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Celtic Corporate Sport](/tartans/c/ce/celtic-corporate-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

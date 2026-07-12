@@ -6,6 +6,8 @@ This is the **Currie of Balilone (Variant Franklin)** sett — one scale-free pr
 [GKGGKWKWKWKWK](/stripes/gkggkwkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Currie of Balilone](/tartans/c/cu/currie-of-balilone-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

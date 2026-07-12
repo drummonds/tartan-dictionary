@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Teirney"
+  url: "/tartans/t/te/teirney/"
 - name: "Teirney (Estimated threadcount)"
   url: "/setts/g10w2g2w2t8r8k1r7k1r8t8g8w2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10w2g2w2t8r8k1r7k1r8t8g8w2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBRKRKRBWGWG](/stripes/gwgbrkrkrbwgwg/).
+
+Part of the [Teirney](/tartans/t/te/teirney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

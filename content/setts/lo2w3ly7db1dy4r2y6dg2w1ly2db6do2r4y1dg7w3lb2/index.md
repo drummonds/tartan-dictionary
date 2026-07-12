@@ -6,6 +6,8 @@ This is the **St Anne de Portneuf Canadian District Tartan** sett — one scale-
 [WWGGRBBYWGGRGBYWY](/stripes/wwggrbbywggrgbywy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [St Anne de Portneuf](/tartans/s/st/st-anne-de-portneuf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

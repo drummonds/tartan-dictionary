@@ -6,7 +6,7 @@ This is the **Lawrie** sett — one scale-free proportion (`dp6dy2dp1dg25db16k2d
 [BGBGBKB](/stripes/bgbgbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Lawrie](/tartans/lawrie/) tartan — the named design grouping this sett with its kin.
+Part of the [Lawrie](/tartans/l/la/lawrie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

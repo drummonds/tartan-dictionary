@@ -6,6 +6,8 @@ This is the **Scottish Association for Neurological Sciences** sett — one scal
 [BGBGBKBWR](/stripes/bgbgbkbwr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Scottish Association for Neurological Sciences](/tartans/s/sc/scottish-association-for-neurological-sciences/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

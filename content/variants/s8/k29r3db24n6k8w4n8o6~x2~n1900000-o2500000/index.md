@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yates"
-  url: "/tartans/yates/"
+  url: "/tartans/y/ya/yates/"
 - name: "Yates (Personal)"
   url: "/setts/k29r3db24n6k8w4n8o6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k29r3db24n6k8w4n8o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBBKWBR](/stripes/krbbkwbr/).
 
-Part of the [Yates](/tartans/yates/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Yates](/tartans/y/ya/yates/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

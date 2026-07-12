@@ -6,6 +6,8 @@ This is the **Scottish Airports** sett — one scale-free proportion (`dg4g18dg3
 [BGKGGG](/stripes/bgkggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Airports](/tartans/s/sc/scottish-airports-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

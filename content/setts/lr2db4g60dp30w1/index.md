@@ -6,7 +6,7 @@ This is the **McGuinness, Tam (Personal)** sett — one scale-free proportion (`
 [WBGBY](/stripes/wbgby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [McGuinness, Tam](/tartans/mcguinness-tam/) tartan — the named design grouping this sett with its kin.
+Part of the [McGuinness, Tam](/tartans/m/mc/mcguinness-tam/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

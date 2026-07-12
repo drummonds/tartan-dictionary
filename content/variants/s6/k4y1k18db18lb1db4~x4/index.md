@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lyndon Prep"
+  url: "/tartans/l/ly/lyndon-prep/"
 - name: "Lyndon Prep (School)"
   url: "/setts/k4y1k18db18lb1db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4y1k18db18lb1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGK](/stripes/bwbkgk/).
+
+Part of the [Lyndon Prep](/tartans/l/ly/lyndon-prep/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

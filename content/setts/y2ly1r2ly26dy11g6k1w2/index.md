@@ -7,6 +7,8 @@ This is the **Saskatchewan** sett — one scale-free proportion (`y2ly1r2ly26dy1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1959**.
 
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

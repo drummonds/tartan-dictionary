@@ -6,6 +6,8 @@ This is the **Me to You** sett — one scale-free proportion (`db32w3db3y3k3g3k3
 [BWBGKGKRBKBG](/stripes/bwbgkgkrbkbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Me to You](/tartans/m/me/me-to-you/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

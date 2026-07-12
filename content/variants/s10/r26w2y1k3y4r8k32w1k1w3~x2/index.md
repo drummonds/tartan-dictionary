@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sens"
-  url: "/tartans/sens/"
+  url: "/tartans/s/se/sens/"
 - name: "Sens"
   url: "/setts/r26w2y1k3y4r8k32w1k1w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r26w2y1k3y4r8k32w1k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGKGRKWKW](/stripes/rwgkgrkwkw/).
 
-Part of the [Sens](/tartans/sens/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sens](/tartans/s/se/sens/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

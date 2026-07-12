@@ -6,6 +6,8 @@ This is the **Arran - 1989 (Fashion)** sett — one scale-free proportion (`lb12
 [BWBWKWKW](/stripes/bwbwkwkw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Arran](/tartans/a/ar/arran-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

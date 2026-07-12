@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Selkirk"
+  url: "/tartans/s/se/selkirk/"
+- name: "Selkirk"
   url: "/setts/db24b2db12k2w2k3dg2k3dbi4k3dg2k3w2k2r12b2dbi24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24b2db12k2w2k3dg2k3dbi4k3dg2k3w2k2r12b2dbi24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKWKGKBKGKWKRBB](/stripes/bbbkwkgkbkgkwkrbb/).
+
+Part of the [Selkirk](/tartans/s/se/selkirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 

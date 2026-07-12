@@ -6,6 +6,8 @@ This is the **New York City American District Tartan** sett — one scale-free p
 [BBKBBGRGBBKB](/stripes/bbkbbgrgbbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [New York City](/tartans/n/ne/new-york-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

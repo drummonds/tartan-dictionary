@@ -6,6 +6,8 @@ This is the **Scottish American Soc. of Michigan** sett — one scale-free propo
 [GWGYBR](/stripes/gwgybr/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Scottish American Soc. of Michigan](/tartans/s/sc/scottish-american-soc-of-michigan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

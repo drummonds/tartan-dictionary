@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Because You Care"
+  url: "/tartans/b/be/because-you-care/"
+- name: "Because You Care"
   url: "/setts/g16dp4g8dp13k3w26dp10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16dp4g8dp13k3w26dp10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBGBG](/stripes/bwkbgbg/).
+
+Part of the [Because You Care](/tartans/b/be/because-you-care/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

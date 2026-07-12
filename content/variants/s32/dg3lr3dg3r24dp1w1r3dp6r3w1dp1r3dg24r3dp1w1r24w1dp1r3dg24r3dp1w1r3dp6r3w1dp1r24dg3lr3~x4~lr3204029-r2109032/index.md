@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "King George"
-  url: "/tartans/king-george-2/"
+  url: "/tartans/k/ki/king-george-2/"
 - name: "King George IV"
   url: "/setts/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/).
 
-Part of the [King George](/tartans/king-george-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [King George](/tartans/k/ki/king-george-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

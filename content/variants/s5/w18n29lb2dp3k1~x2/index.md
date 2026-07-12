@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch at Loch Awe"
+  url: "/tartans/k/ki/kinloch-at-loch-awe/"
 - name: "Kinloch at Loch Awe (Personal)"
   url: "/setts/w18n29lb2dp3k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w18n29lb2dp3k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBW](/stripes/kbwbw/).
+
+Part of the [Kinloch at Loch Awe](/tartans/k/ki/kinloch-at-loch-awe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

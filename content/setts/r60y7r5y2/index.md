@@ -6,6 +6,8 @@ This is the **Scania 1658** sett — one scale-free proportion (`r60y7r5y2`), co
 [GRGR](/stripes/grgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Scania 1658](/tartans/s/sc/scania-1658/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

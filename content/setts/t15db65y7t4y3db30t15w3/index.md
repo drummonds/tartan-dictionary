@@ -6,6 +6,8 @@ This is the **Hoosier (Fashion)** sett — one scale-free proportion (`t15db65y7
 [BBGBGBBW](/stripes/bbgbgbbw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Hoosier](/tartans/h/ho/hoosier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

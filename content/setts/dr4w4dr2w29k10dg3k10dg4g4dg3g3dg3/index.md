@@ -6,6 +6,8 @@ This is the **Ross Arisaid** sett — one scale-free proportion (`dr4w4dr2w29k10
 [BWBWKGKGGGGG](/stripes/bwbwkgkggggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ross Arisaid](/tartans/r/ro/ross-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

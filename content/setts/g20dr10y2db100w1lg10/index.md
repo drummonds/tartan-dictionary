@@ -6,6 +6,8 @@ This is the **Ravetta, Phil (Fife)** sett — one scale-free proportion (`g20dr1
 [GBGBWY](/stripes/gbgbwy/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Ravetta, Phil](/tartans/r/ra/ravetta-phil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

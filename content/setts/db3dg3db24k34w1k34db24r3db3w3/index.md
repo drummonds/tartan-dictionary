@@ -6,7 +6,7 @@ This is the **Al-Fadhli (Personal)** sett — one scale-free proportion (`db3dg3
 [BGBKWKBRBW](/stripes/bgbkwkbrbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Al-Fadhli](/tartans/al-fadhli/) tartan — the named design grouping this sett with its kin.
+Part of the [Al-Fadhli](/tartans/a/al/al-fadhli/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grey Spencer"
+  url: "/tartans/g/gr/grey-spencer/"
 - name: "Grey Spencer Plaid"
   url: "/setts/n8k40dy2n2w2n2k9w5n2w5k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n8k40dy2n2w2n2k9w5n2w5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBWBKWBWK](/stripes/bkgbwbkwbwk/).
+
+Part of the [Grey Spencer](/tartans/g/gr/grey-spencer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

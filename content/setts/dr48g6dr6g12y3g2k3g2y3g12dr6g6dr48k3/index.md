@@ -6,6 +6,8 @@ This is the **Oakhall** sett — one scale-free proportion (`dr48g6dr6g12y3g2k3g
 [BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Oakhall](/tartans/o/oa/oakhall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

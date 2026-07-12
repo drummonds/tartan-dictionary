@@ -6,7 +6,7 @@ This is the **Ranking Corporate Tartan** sett — one scale-free proportion (`db
 [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Ranking](/tartans/ranking/) tartan — the named design grouping this sett with its kin.
+Part of the [Ranking](/tartans/r/ra/ranking/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

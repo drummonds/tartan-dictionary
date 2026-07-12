@@ -6,6 +6,8 @@ This is the **Norwich University Regimental Tartan** sett — one scale-free pro
 [BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Norwich University Regimental](/tartans/n/no/norwich-university-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

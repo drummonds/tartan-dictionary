@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Finnie"
-  url: "/tartans/finnie/"
+  url: "/tartans/f/fi/finnie/"
 - name: "Finnie (Personal)"
   url: "/setts/k4n1dp5n1k20db37n4db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4n1dp5n1k20db37n4db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBK](/stripes/bbbkbbbk/).
 
-Part of the [Finnie](/tartans/finnie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Finnie](/tartans/f/fi/finnie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

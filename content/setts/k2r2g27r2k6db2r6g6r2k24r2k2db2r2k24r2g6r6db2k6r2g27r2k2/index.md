@@ -6,6 +6,8 @@ This is the **Cumming/Buchan Hunting** sett — one scale-free proportion (`k2r2
 [KRGRKBRGRKRBKRKRGRBKRGRK](/stripes/krgrkbrgrkrbkrkrgrbkrgrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cumming/Buchan Hunting](/tartans/c/cu/cumming-buchan-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

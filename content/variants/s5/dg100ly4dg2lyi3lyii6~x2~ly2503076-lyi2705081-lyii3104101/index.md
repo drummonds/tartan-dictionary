@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lagrande"
+  url: "/tartans/l/la/lagrande/"
+- name: "Lagrande"
   url: "/setts/dg100ly4dg2lyi3lyii6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg100ly4dg2lyi3lyii6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYY](/stripes/gygyy/).
+
+Part of the [Lagrande](/tartans/l/la/lagrande/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Mayo** sett — one scale-free proportion (`k4g16db11r16g25y2lb3`)
 [KGBRGGW](/stripes/kgbrggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mayo](/tartans/m/ma/mayo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

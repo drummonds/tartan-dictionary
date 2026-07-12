@@ -6,6 +6,8 @@ This is the **Byers (Name)** sett — one scale-free proportion (`k5g40db20ly3`)
 [KGBY](/stripes/kgby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Byers](/tartans/b/by/byers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

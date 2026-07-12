@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Henkel"
+  url: "/tartans/h/he/henkel/"
+- name: "Henkel"
   url: "/setts/n28k3r22k8w3k8r22k3n28k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n28k3r22k8w3k8r22k3n28k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKWKRKBK](/stripes/bkrkwkrkbk/).
+
+Part of the [Henkel](/tartans/h/he/henkel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

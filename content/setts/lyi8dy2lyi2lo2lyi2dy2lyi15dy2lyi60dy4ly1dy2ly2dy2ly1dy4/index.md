@@ -6,6 +6,8 @@ This is the **UPS No. 1 (Corporate)** sett — one scale-free proportion (`lyi8d
 [GYGYGYGYGYGYYYGY](/stripes/gygygygygygyyygy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [UPS No. 1](/tartans/u/up/ups-no-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

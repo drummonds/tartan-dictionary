@@ -6,7 +6,7 @@ This is the **National Millennium** sett — one scale-free proportion (`w2db4r1
 [WBRKGGBKW](/stripes/wbrkggbkw/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
-Part of the [National Millennium](/tartans/national-millennium/) tartan — the named design grouping this sett with its kin.
+Part of the [National Millennium](/tartans/n/na/national-millennium/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

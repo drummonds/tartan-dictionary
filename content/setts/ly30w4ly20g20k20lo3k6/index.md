@@ -7,6 +7,8 @@ This is the **St Andrews Bay** sett — one scale-free proportion (`ly30w4ly20g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
+Part of the [St Andrews Bay](/tartans/s/st/st-andrews-bay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

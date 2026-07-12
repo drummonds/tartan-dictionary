@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Supporter.com"
-  url: "/tartans/supporter-com/"
+  url: "/tartans/s/su/supporter-com/"
 - name: "Supporter.com"
   url: "/setts/db120g9r7y12g33y33db26/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db120g9r7y12g33y33db26/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGRGB](/stripes/bgggrgb/).
 
-Part of the [Supporter.com](/tartans/supporter-com/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Supporter.com](/tartans/s/su/supporter-com/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

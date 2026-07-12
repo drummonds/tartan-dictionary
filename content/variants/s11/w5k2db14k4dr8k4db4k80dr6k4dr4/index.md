@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "American Heritage"
+  url: "/tartans/a/am/american-heritage/"
+- name: "American Heritage"
   url: "/setts/w5k2db14k4dr8k4db4k80dr6k4dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5k2db14k4dr8k4db4k80dr6k4dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKW](/stripes/bkbkbkbkbkw/).
+
+Part of the [American Heritage](/tartans/a/am/american-heritage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

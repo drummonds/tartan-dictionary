@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yes Scotland"
+  url: "/tartans/y/ye/yes-scotland-2/"
 - name: "Yes Scotland (Fashion)"
   url: "/setts/n12g4dp4g4n31dt3db12w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12g4dp4g4n31dt3db12w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBBW](/stripes/bgbgbbbw/).
+
+Part of the [Yes Scotland](/tartans/y/ye/yes-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

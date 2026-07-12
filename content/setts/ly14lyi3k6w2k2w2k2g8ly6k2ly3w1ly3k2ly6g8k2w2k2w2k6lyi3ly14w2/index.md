@@ -6,6 +6,8 @@ This is the **O'Farrell** sett — one scale-free proportion (`ly14lyi3k6w2k2w2k
 [WYYKWKWKGYKYWYKYGKWKWKYY](/stripes/wyykwkwkgykywykygkwkwkyy/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [O'Farrell](/tartans/o/o/o-farrell-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

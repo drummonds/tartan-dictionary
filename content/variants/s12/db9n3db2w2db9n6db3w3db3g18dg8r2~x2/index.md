@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patterson, William J.M."
+  url: "/tartans/p/pa/patterson-william-j-m/"
 - name: "Patterson, William J.M. (Personal)"
   url: "/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9n3db2w2db9n6db3w3db3g18dg8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBBWBGGR](/stripes/bbbwbbbwbggr/).
+
+Part of the [Patterson, William J.M.](/tartans/p/pa/patterson-william-j-m/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

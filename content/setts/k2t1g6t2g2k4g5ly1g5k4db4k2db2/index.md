@@ -6,6 +6,8 @@ This is the **Gordon Dress (US Fashion)** sett — one scale-free proportion (`k
 [BKBKGYGKGBGBK](/stripes/bkbkgygkgbgbk/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Gordon Dress](/tartans/g/go/gordon-dress-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

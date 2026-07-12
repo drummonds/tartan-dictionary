@@ -6,7 +6,7 @@ This is the **Semper** sett — one scale-free proportion (`g16dg1y4dg41y1dg6gi2
 [GGGGGGGG](/stripes/gggggggg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Semper](/tartans/semper/) tartan — the named design grouping this sett with its kin.
+Part of the [Semper](/tartans/s/se/semper/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

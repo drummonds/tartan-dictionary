@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carleton College Rugby"
+  url: "/tartans/c/ca/carleton-college-rugby/"
+- name: "Carleton College Rugby"
   url: "/setts/ly5db30w3g15y8r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly5db30w3g15y8r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGWBY](/stripes/rggwby/).
+
+Part of the [Carleton College Rugby](/tartans/c/ca/carleton-college-rugby/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

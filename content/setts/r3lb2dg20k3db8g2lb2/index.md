@@ -6,6 +6,8 @@ This is the **Royal British Legion (Corporate)** sett — one scale-free proport
 [RWGKBGW](/stripes/rwgkbgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Royal British Legion](/tartans/r/ro/royal-british-legion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

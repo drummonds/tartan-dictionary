@@ -6,6 +6,8 @@ This is the **MacNeil 4** sett — one scale-free proportion (`y1k1g9k9db8w1`), 
 [GKGKBW](/stripes/gkgkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNeil 4](/tartans/m/ma/macneil-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

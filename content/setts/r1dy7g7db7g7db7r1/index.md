@@ -6,7 +6,7 @@ This is the **Tennant (Yules)** sett — one scale-free proportion (`r1dy7g7db7g
 [RBGBGGR](/stripes/rbgbggr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Tennant](/tartans/tennant/) tartan — the named design grouping this sett with its kin.
+Part of the [Tennant](/tartans/t/te/tennant/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

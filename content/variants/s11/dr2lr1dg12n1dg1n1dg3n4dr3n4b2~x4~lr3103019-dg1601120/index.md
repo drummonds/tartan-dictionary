@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tasmanian"
+  url: "/tartans/t/ta/tasmanian/"
+- name: "Tasmanian"
   url: "/setts/dr2lr1dg12n1dg1n1dg3n4dr3n4b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2lr1dg12n1dg1n1dg3n4dr3n4b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBGBGYB](/stripes/bbbbgbgbgyb/).
+
+Part of the [Tasmanian](/tartans/t/ta/tasmanian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

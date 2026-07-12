@@ -6,7 +6,7 @@ This is the **Moray of Abercairney** sett — one scale-free proportion (`db3lb1
 [BWKRBGRWB](/stripes/bwkrbgrwb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Moray of Abercairney](/tartans/moray-of-abercairney/) tartan — the named design grouping this sett with its kin.
+Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

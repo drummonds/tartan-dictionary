@@ -6,6 +6,8 @@ This is the **Buchan Cumming MacIntyre District Tartan** sett — one scale-free
 [BKRGRKRGRKBRGRKRKBRKRGR](/stripes/bkrgrkrgrkbrgrkrkbrkrgr/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Buchan](/tartans/b/bu/buchan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

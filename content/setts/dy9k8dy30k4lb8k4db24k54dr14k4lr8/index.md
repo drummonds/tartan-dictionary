@@ -6,6 +6,8 @@ This is the **Dublin County, Crest Range** sett — one scale-free proportion (`
 [GKGKWKBKBKY](/stripes/gkgkwkbkbky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Dublin County, Crest Range](/tartans/d/du/dublin-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

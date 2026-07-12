@@ -6,6 +6,8 @@ This is the **Boys Brigade** sett — one scale-free proportion (`r3dg28g19dg3db
 [RGGGBGBGGGW](/stripes/rgggbgbgggw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Boys Brigade](/tartans/b/bo/boys-brigade/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

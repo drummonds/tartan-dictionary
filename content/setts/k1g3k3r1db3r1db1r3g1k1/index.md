@@ -7,7 +7,7 @@ This is the **MacInroy** sett — one scale-free proportion (`k1g3k3r1db3r1db1r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1856**.
 
-Part of the [MacInroy](/tartans/macinroy-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInroy](/tartans/m/ma/macinroy-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

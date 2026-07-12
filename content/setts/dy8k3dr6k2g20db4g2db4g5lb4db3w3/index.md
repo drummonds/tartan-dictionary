@@ -6,6 +6,8 @@ This is the **Down County, Crest Range** sett — one scale-free proportion (`dy
 [GKBKGBGBGWBW](/stripes/gkbkgbgbgwbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Down County, Crest Range](/tartans/d/do/down-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

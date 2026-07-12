@@ -6,6 +6,8 @@ This is the **Colleges Scotland (Corp)** sett — one scale-free proportion (`t1
 [BKRKBBW](/stripes/bkrkbbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Colleges Scotland](/tartans/c/co/colleges-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

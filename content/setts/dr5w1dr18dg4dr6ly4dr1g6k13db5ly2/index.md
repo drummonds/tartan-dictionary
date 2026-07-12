@@ -6,6 +6,8 @@ This is the **Canfield (Personal)** sett — one scale-free proportion (`dr5w1dr
 [BWBGBYBGKBY](/stripes/bwbgbybgkby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Canfield](/tartans/c/ca/canfield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

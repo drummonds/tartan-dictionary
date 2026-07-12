@@ -6,6 +6,8 @@ This is the **Regan** sett — one scale-free proportion (`dp1k1w1dp10y1db2k1db2
 [BKWBGBKBWG](/stripes/bkwbgbkbwg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Regan](/tartans/r/re/regan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

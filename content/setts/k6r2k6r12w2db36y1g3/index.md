@@ -6,6 +6,8 @@ This is the **Fremont Presbyterian Church (P)** sett — one scale-free proporti
 [GGBWRKRK](/stripes/ggbwrkrk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Fremont Presbyterian Church](/tartans/f/fr/fremont-presbyterian-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

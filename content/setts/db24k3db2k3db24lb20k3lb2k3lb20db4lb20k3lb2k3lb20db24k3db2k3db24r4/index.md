@@ -6,6 +6,8 @@ This is the **Roberts of Wales** sett — one scale-free proportion (`db24k3db2k
 [BKBKBWKWKWBWKWKWBKBKBR](/stripes/bkbkbwkwkwbwkwkwbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Roberts of Wales](/tartans/r/ro/roberts-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

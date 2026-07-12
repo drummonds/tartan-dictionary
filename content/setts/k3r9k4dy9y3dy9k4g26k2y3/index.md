@@ -6,6 +6,8 @@ This is the **Cavan, County** sett — one scale-free proportion (`k3r9k4dy9y3dy
 [GKGKGGGKRK](/stripes/gkgkgggkrk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Cavan, County](/tartans/c/ca/cavan-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

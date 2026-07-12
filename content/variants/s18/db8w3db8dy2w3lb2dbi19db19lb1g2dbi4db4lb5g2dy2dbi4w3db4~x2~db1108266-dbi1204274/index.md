@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coast & Glen Ltd"
+  url: "/tartans/c/co/coast-glen-ltd/"
 - name: "Coast & Glen (Fishbox) Ltd"
   url: "/setts/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8w3db8dy2w3lb2dbi19db19lb1g2dbi4db4lb5g2dy2dbi4w3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGGWBBGWBBWWGBWB](/stripes/bwbggwbbgwbbwwgbwb/).
+
+Part of the [Coast & Glen Ltd](/tartans/c/co/coast-glen-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

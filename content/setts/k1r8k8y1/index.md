@@ -7,6 +7,8 @@ This is the **Wallace** sett — one scale-free proportion (`k1r8k8y1`), colour 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1800**.
 
+Part of the [Wallace](/tartans/w/wa/wallace-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

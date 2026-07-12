@@ -6,6 +6,8 @@ This is the **Raymond of Doune** sett — one scale-free proportion (`dr4dg10lo1
 [BBWBWYGB](/stripes/bbwbwygb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Raymond of Doune](/tartans/r/ra/raymond-of-doune/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

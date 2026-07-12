@@ -6,6 +6,8 @@ This is the **Ormiston (Personal)** sett — one scale-free proportion (`g26db3d
 [GBBBBBBWK](/stripes/gbbbbbbwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Ormiston](/tartans/o/or/ormiston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

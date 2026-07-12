@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Springbank"
-  url: "/tartans/springbank/"
+  url: "/tartans/s/sp/springbank/"
 - name: "Springbank"
   url: "/setts/k14n2k2n5k25w1n9b3k3w1k14/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k14n2k2n5k25w1n9b3k3w1k14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWBBKWK](/stripes/kbkbkwbbkwk/).
 
-Part of the [Springbank](/tartans/springbank/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Springbank](/tartans/s/sp/springbank/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

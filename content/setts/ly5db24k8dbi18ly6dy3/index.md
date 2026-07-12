@@ -6,6 +6,8 @@ This is the **Cala Homes (Corporate)** sett — one scale-free proportion (`ly5d
 [GYBKBY](/stripes/gybkby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Cala Homes](/tartans/c/ca/cala-homes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

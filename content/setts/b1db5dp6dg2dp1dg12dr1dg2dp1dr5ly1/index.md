@@ -6,6 +6,8 @@ This is the **Telfer, Jamie (Name)** sett — one scale-free proportion (`b1db5d
 [BBBGBGBGBBY](/stripes/bbbgbgbgbby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Jamie Telfer of the Fair Dodhead Commemorative](/tartans/j/ja/jamie-telfer-of-the-fair-dodhead-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

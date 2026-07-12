@@ -6,6 +6,8 @@ This is the **Loughborough Sport** sett — one scale-free proportion (`k15n3w10
 [BWBBWBK](/stripes/bwbbwbk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Loughborough Sport](/tartans/l/lo/loughborough-sport-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

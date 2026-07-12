@@ -6,6 +6,8 @@ This is the **Glen Orchy (Fashion)** sett — one scale-free proportion (`dg5r4m
 [GBRRGRBGRGRBRRG](/stripes/gbrrgrbgrgrbrrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Glen Orchy](/tartans/g/gl/glen-orchy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

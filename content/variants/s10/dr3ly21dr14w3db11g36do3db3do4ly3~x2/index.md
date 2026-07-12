@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Florida"
+  url: "/tartans/s/st/state-seal-of-florida/"
 - name: "State Seal of Florida (Fashion)"
   url: "/setts/dr3ly21dr14w3db11g36do3db3do4ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3ly21dr14w3db11g36do3db3do4ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWBGBBBY](/stripes/bybwbgbbby/).
+
+Part of the [State Seal of Florida](/tartans/s/st/state-seal-of-florida/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacTeddy"
+  url: "/tartans/m/ma/macteddy-2/"
+- name: "MacTeddy"
   url: "/setts/lb3w10db10g10r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3w10db10g10r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBWW](/stripes/rgbww/).
+
+Part of the [MacTeddy](/tartans/m/ma/macteddy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Apollo 12 (Commemorative)** sett — one scale-free proportion (`d
 [BKBWBKBKBYB](/stripes/bkbwbkbkbyb/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Apollo 12](/tartans/a/ap/apollo-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

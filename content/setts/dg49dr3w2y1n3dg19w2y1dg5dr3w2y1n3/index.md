@@ -6,6 +6,8 @@ This is the **Hogan (Name)** sett — one scale-free proportion (`dg49dr3w2y1n3d
 [BGWBGGWGBGWBG](/stripes/bgwbggwgbgwbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Hogan](/tartans/h/ho/hogan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

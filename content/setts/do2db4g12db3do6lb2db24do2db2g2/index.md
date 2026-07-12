@@ -6,6 +6,8 @@ This is the **Wicklow** sett — one scale-free proportion (`do2db4g12db3do6lb2d
 [BBGBBWBBBG](/stripes/bbgbbwbbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wicklow](/tartans/w/wi/wicklow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

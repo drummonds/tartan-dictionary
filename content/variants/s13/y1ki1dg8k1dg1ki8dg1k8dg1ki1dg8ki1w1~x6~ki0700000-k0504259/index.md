@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robieson, Graham A."
+  url: "/tartans/r/ro/robieson-graham-a/"
 - name: "Robieson, Graham A. (Personal)"
   url: "/setts/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKW](/stripes/gkgkgkgkgkgkw/).
+
+Part of the [Robieson, Graham A.](/tartans/r/ro/robieson-graham-a/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

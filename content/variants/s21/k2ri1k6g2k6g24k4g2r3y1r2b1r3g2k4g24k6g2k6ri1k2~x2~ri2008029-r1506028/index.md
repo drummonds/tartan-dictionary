@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinnear, Pilette of"
+  url: "/tartans/k/ki/kinnear-pilette-of/"
+- name: "Kinnear, Pilette of"
   url: "/setts/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKGKGRBRGRGKGKGKRK](/stripes/krkgkgkgrbrgrgkgkgkrk/).
+
+Part of the [Kinnear, Pilette of](/tartans/k/ki/kinnear-pilette-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 

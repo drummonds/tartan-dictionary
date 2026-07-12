@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jaggy Thistle"
+  url: "/tartans/j/ja/jaggy-thistle/"
 - name: "Jaggy Thistle (Fashion)"
   url: "/setts/lp9n4lp5o4k3o12n18g4n18o6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lp9n4lp5o4k3o12n18g4n18o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRKRWBW](/stripes/rbgbrkrwbw/).
+
+Part of the [Jaggy Thistle](/tartans/j/ja/jaggy-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

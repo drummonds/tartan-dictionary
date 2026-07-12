@@ -6,6 +6,8 @@ This is the **St. Mary's Help of... (School)** sett — one scale-free proportio
 [GKGKBKBKBKBKBKGKR](/stripes/gkgkbkbkbkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [St. Mary's Help of Christians Sch](/tartans/s/st/st-mary-s-help-of-christians-sch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

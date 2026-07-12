@@ -6,6 +6,8 @@ This is the **Caithness (1848) (District?)** sett — one scale-free proportion 
 [RGKWWR](/stripes/rgkwwr/). It is recorded as a single **variant**, below.
 First attested **1848**.
 
+Part of the [Caithness](/tartans/c/ca/caithness-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

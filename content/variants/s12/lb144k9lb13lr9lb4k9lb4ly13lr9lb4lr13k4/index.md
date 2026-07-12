@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "London Fog"
+  url: "/tartans/l/lo/london-fog-3/"
 - name: "London Fog Blue (Fashion)"
   url: "/setts/lb144k9lb13lr9lb4k9lb4ly13lr9lb4lr13k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb144k9lb13lr9lb4k9lb4ly13lr9lb4lr13k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYWYYWKWYWKW](/stripes/kywyywkwywkw/).
+
+Part of the [London Fog](/tartans/l/lo/london-fog-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Traill (Personal)** sett — one scale-free proportion (`r16y2dy7y
 [GKWGGGR](/stripes/gkwgggr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Traill](/tartans/t/tr/traill-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

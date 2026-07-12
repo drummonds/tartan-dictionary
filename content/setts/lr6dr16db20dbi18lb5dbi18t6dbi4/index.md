@@ -6,6 +6,8 @@ This is the **Queen of the South F.C. (Sports)** sett — one scale-free proport
 [BBBWBBBY](/stripes/bbbwbbby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Queen of the South F.C.](/tartans/q/qu/queen-of-the-south-f-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Murdoch Clebration (Personal)** sett — one scale-free proportion
 [KBRBRBKW](/stripes/kbrbrbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Murdoch Clebration](/tartans/m/mu/murdoch-clebration/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

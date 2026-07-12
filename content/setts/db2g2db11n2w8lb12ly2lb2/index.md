@@ -6,6 +6,8 @@ This is the **Elora (District)** sett — one scale-free proportion (`db2g2db11n
 [BGBBWWYW](/stripes/bgbbwwyw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Elora](/tartans/e/el/elora/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

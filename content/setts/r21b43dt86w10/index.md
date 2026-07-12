@@ -6,6 +6,8 @@ This is the **Fong Wedding (Personal)** sett — one scale-free proportion (`r21
 [RBBW](/stripes/rbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Fong Wedding](/tartans/f/fo/fong-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

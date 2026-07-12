@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
+- name: "Lloyd"
+  url: "/tartans/l/ll/lloyd/"
 - name: "Lloyd of Wales"
   url: "/setts/n40r2n20g19db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n40r2n20g19db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRB](/stripes/bgbrb/).
+
+Part of the [Lloyd](/tartans/l/ll/lloyd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

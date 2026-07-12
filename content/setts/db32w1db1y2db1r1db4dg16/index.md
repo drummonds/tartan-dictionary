@@ -6,6 +6,8 @@ This is the **Royal Agricultural Winter Fair** sett — one scale-free proportio
 [BWBGBRBG](/stripes/bwbgbrbg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Royal Agricultural Winter Fair](/tartans/r/ro/royal-agricultural-winter-fair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

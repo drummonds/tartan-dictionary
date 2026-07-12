@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lawrence's Seven Pillars of Khaki"
+  url: "/tartans/l/la/lawrence-s-seven-pillars-of-khaki/"
+- name: "Lawrence's Seven Pillars of Khaki"
   url: "/setts/r3dy23y8g6y8db6y10db12y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3dy23y8g6y8db6y10db12y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGGGGR](/stripes/gbgbggggr/).
+
+Part of the [Lawrence's Seven Pillars of Khaki](/tartans/l/la/lawrence-s-seven-pillars-of-khaki/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

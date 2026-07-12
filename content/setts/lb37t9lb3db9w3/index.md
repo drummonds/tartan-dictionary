@@ -6,6 +6,8 @@ This is the **Loch Lomond Trade Tartan** sett — one scale-free proportion (`lb
 [WBWBW](/stripes/wbwbw/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
+Part of the [Loch Lomond](/tartans/l/lo/loch-lomond/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

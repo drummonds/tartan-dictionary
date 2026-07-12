@@ -6,6 +6,8 @@ This is the **Roach (2015)** sett — one scale-free proportion (`db18w1db1w1db4
 [BWBWBRKGGGGGG](/stripes/bwbwbrkgggggg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Roach](/tartans/r/ro/roach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

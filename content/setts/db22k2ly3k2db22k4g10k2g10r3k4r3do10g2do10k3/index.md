@@ -6,6 +6,8 @@ This is the **Yeomans (2016)** sett — one scale-free proportion (`db22k2ly3k2d
 [BKYKBKGKGRKRBGBK](/stripes/bkykbkgkgrkrbgbk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Yeomans](/tartans/y/ye/yeomans/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

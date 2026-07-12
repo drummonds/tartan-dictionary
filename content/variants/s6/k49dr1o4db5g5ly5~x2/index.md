@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "CREATeGlasgow"
+  url: "/tartans/c/cr/createglasgow/"
+- name: "CREATeGlasgow"
   url: "/setts/k49dr1o4db5g5ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k49dr1o4db5g5ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRBGY](/stripes/kbrbgy/).
+
+Part of the [CREATeGlasgow](/tartans/c/cr/createglasgow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

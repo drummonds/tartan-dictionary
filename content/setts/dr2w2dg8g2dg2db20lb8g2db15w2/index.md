@@ -6,6 +6,8 @@ This is the **Tupper, John Charles (Personal)** sett — one scale-free proporti
 [BWGGGBWGBW](/stripes/bwgggbwgbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Tupper, John Charles](/tartans/t/tu/tupper-john-charles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Davidson (Wedding) (Personal)** sett — one scale-free proportion
 [RBKGWGW](/stripes/rbkgwgw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Davidson](/tartans/d/da/davidson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

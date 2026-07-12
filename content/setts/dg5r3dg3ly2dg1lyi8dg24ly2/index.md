@@ -6,6 +6,8 @@ This is the **St. Christopher (Corporate)** sett — one scale-free proportion (
 [GRGYGYGY](/stripes/grgygygy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [St. Christopher](/tartans/s/st/st-christopher-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

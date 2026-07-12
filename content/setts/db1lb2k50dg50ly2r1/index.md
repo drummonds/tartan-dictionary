@@ -6,6 +6,8 @@ This is the **Josse (Personal)** sett — one scale-free proportion (`db1lb2k50d
 [BWKGYR](/stripes/bwkgyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Josse](/tartans/j/jo/josse/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

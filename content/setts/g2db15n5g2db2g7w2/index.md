@@ -6,6 +6,8 @@ This is the **Chambers Bay** sett — one scale-free proportion (`g2db15n5g2db2g
 [GBBGBGW](/stripes/gbbgbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Chambers Bay](/tartans/c/ch/chambers-bay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

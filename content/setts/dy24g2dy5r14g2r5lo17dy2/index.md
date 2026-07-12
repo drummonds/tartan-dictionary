@@ -6,6 +6,8 @@ This is the **Loch Rannoch #2** sett — one scale-free proportion (`dy24g2dy5r1
 [GGGRGRYG](/stripes/gggrgryg/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Loch Rannoch](/tartans/l/lo/loch-rannoch-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

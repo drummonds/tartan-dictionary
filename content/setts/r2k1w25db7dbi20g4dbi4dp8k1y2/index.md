@@ -6,6 +6,8 @@ This is the **Guardian of Scotland Dress (Fashion)** sett — one scale-free pro
 [GKBBGBBWKR](/stripes/gkbbgbbwkr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Guardian of Scotland Dress](/tartans/g/gu/guardian-of-scotland-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

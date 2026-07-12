@@ -6,6 +6,8 @@ This is the **Snelgrove Htg (Name)** sett — one scale-free proportion (`k3r12d
 [KRBYGBW](/stripes/krbygbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Snelgrove Hunting](/tartans/s/sn/snelgrove-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

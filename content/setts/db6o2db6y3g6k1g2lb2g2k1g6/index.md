@@ -6,6 +6,8 @@ This is the **Presbyterian Synod (US) (Corporate)** sett — one scale-free prop
 [BRBGGKGWGKG](/stripes/brbggkgwgkg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Presbyterian Synod](/tartans/p/pr/presbyterian-synod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

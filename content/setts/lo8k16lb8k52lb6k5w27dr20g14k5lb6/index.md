@@ -6,6 +6,8 @@ This is the **Sligo County Crest (Fashion)** sett — one scale-free proportion 
 [WKGBWKWKWKY](/stripes/wkgbwkwkwky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Sligo County Crest](/tartans/s/sl/sligo-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Drummond (Grey) Clan Tartan** sett — one scale-free proportion (
 [KWKBWKWKBKWKWK](/stripes/kwkbwkwkbkwkwk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Drummond](/tartans/d/dr/drummond/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

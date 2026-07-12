@@ -6,7 +6,7 @@ This is the **Open Championship (2000)** sett — one scale-free proportion (`y1
 [GBBBG](/stripes/gbbbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Open Championship](/tartans/open-championship-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Open Championship](/tartans/o/op/open-championship-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

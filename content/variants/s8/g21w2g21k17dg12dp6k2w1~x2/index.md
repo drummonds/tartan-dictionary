@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hibernian F. C."
+  url: "/tartans/h/hi/hibernian-f-c/"
 - name: "Hibernian F. C. (2004) (C orporate)"
   url: "/setts/g21w2g21k17dg12dp6k2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g21w2g21k17dg12dp6k2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKGBKW](/stripes/gwgkgbkw/).
+
+Part of the [Hibernian F. C.](/tartans/h/hi/hibernian-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

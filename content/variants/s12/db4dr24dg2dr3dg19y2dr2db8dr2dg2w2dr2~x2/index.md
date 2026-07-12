@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michael from Appin"
+  url: "/tartans/m/mi/michael-from-appin/"
 - name: "Michael from Appin (Personal)"
   url: "/setts/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGGBBBGWB](/stripes/bbgbggbbbgwb/).
+
+Part of the [Michael from Appin](/tartans/m/mi/michael-from-appin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

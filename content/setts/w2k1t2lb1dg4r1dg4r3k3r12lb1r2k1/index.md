@@ -6,6 +6,8 @@ This is the **Peacock (Personal)** sett — one scale-free proportion (`w2k1t2lb
 [KRWRKRGRGWBKW](/stripes/krwrkrgrgwbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Peacock](/tartans/p/pe/peacock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Dauphinee (Personal)** sett — one scale-free proportion (`r9k4w6
 [RKWKBYBKWKR](/stripes/rkwkbybkwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Dauphinee](/tartans/dauphinee/) tartan — the named design grouping this sett with its kin.
+Part of the [Dauphinee](/tartans/d/da/dauphinee/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

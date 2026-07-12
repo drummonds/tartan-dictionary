@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Joker Fancy"
+  url: "/tartans/j/jo/joker-fancy/"
 - name: "Joker Fancy Tartan"
   url: "/setts/t11k1t3k5dp9lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t11k1t3k5dp9lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBY](/stripes/bkbkby/).
+
+Part of the [Joker Fancy](/tartans/j/jo/joker-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

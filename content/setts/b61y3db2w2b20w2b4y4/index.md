@@ -6,7 +6,7 @@ This is the **Royal Warrant Holders** sett — one scale-free proportion (`b61y3
 [BGBWBWBG](/stripes/bgbwbwbg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Royal Warrant Holders](/tartans/royal-warrant-holders/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Warrant Holders](/tartans/r/ro/royal-warrant-holders/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oliver Dress, Pink"
+  url: "/tartans/o/ol/oliver-dress-pink/"
 - name: "Oliver Dress, Pink (Dance?)"
   url: "/setts/w5g3r3g3r3lb20r16w21k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5g3r3g3r3lb20r16w21k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRWRGRGW](/stripes/kwrwrgrgw/).
+
+Part of the [Oliver Dress, Pink](/tartans/o/ol/oliver-dress-pink/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

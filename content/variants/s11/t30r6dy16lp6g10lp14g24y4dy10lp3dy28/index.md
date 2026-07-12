@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Greyfriars"
-  url: "/tartans/greyfriars/"
+  url: "/tartans/g/gr/greyfriars/"
 - name: "Greyfriars (District)"
   url: "/setts/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGWGWGGGWG](/stripes/brgwgwgggwg/).
 
-Part of the [Greyfriars](/tartans/greyfriars/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Greyfriars](/tartans/g/gr/greyfriars/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

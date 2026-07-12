@@ -6,6 +6,8 @@ This is the **Wolverines (Corporate)** sett — one scale-free proportion (`lr8w
 [YWBKWY](/stripes/ywbkwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wolverines](/tartans/w/wo/wolverines/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

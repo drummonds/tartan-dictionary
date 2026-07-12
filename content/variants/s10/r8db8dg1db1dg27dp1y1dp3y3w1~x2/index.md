@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holyoke St Patrick's"
+  url: "/tartans/h/ho/holyoke-st-patrick-s/"
 - name: "Holyoke St. Patrick's"
   url: "/setts/r8db8dg1db1dg27dp1y1dp3y3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8db8dg1db1dg27dp1y1dp3y3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBGBGW](/stripes/rbgbgbgbgw/).
+
+Part of the [Holyoke St Patrick's](/tartans/h/ho/holyoke-st-patrick-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

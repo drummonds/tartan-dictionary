@@ -6,6 +6,8 @@ This is the **Brown Heather (Fashion)** sett — one scale-free proportion (`do1
 [BGBGBG](/stripes/bgbgbg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Brown Heather](/tartans/b/br/brown-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

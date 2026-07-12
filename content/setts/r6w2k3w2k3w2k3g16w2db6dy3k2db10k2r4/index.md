@@ -6,6 +6,8 @@ This is the **Webb (Personal)** sett — one scale-free proportion (`r6w2k3w2k3w
 [KBKGBWGKWKWKWRWKWKWKGWBGKBKR](/stripes/kbkgbwgkwkwkwrwkwkwkgwbgkbkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Webb](/tartans/w/we/webb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

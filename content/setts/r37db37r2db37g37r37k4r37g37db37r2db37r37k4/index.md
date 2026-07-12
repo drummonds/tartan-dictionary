@@ -6,6 +6,8 @@ This is the **Skene of Cromar** sett — one scale-free proportion (`r37db37r2db
 [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

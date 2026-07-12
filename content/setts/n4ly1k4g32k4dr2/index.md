@@ -6,6 +6,8 @@ This is the **Tough (Personal)** sett — one scale-free proportion (`n4ly1k4g32
 [BKGKYB](/stripes/bkgkyb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Tough](/tartans/t/to/tough/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

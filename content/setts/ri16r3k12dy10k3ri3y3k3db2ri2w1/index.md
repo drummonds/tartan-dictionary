@@ -6,6 +6,8 @@ This is the **Colville (Personal)** sett — one scale-free proportion (`ri16r3k
 [RRKGKRGKBRW](/stripes/rrkgkrgkbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Colville](/tartans/c/co/colville/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

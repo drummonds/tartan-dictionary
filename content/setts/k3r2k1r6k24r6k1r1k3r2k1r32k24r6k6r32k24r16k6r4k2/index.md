@@ -6,6 +6,8 @@ This is the **MacLeod** sett — one scale-free proportion (`k3r2k1r6k24r6k1r1k3
 [KRKRKRKRKRKRKRKRKRKRK](/stripes/krkrkrkrkrkrkrkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacLeod](/tartans/m/ma/macleod-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

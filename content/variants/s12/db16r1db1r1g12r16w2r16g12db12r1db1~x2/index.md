@@ -10,7 +10,7 @@ crumbs:
 - name: "Fraser of Lovat"
   url: "/families/fraser-of-lovat/"
 - name: "Fraser of Lovat"
-  url: "/tartans/fraser-of-lovat/"
+  url: "/tartans/f/fr/fraser-of-lovat/"
 - name: "Fraser of Lovat Clan Tartan"
   url: "/setts/db16r1db1r1g12r16w2r16g12db12r1db1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16r1db1r1g12r16w2r16g12db12r1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRWRGRBRB](/stripes/brbgrwrgrbrb/).
 
-Part of the [Fraser of Lovat](/tartans/fraser-of-lovat/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fraser of Lovat](/tartans/f/fr/fraser-of-lovat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

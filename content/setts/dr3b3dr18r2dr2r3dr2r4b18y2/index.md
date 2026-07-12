@@ -6,6 +6,8 @@ This is the **FC Barcelona (Corporate)** sett — one scale-free proportion (`dr
 [BBBRBRBRBG](/stripes/bbbrbrbrbg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [FC Barcelona](/tartans/f/fc/fc-barcelona/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

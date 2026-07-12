@@ -6,6 +6,8 @@ This is the **Bermuda Plaid (1947) (District)** sett — one scale-free proporti
 [WBWGBRW](/stripes/wbwgbrw/). It is recorded as a single **variant**, below.
 First attested **1947**.
 
+Part of the [Bermuda](/tartans/b/be/bermuda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

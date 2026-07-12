@@ -6,6 +6,8 @@ This is the **Coopers & Lybrand Corporate Commem. Tartan** sett — one scale-fr
 [BGRBBKGRBBBBBRGKBBRG](/stripes/bgrbbkgrbbbbbrgkbbrg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Coopers & Lybrand Corporate Commem.](/tartans/c/co/coopers-lybrand-corporate-commem/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

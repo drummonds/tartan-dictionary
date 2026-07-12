@@ -6,7 +6,7 @@ This is the **Angus District Tartan** sett — one scale-free proportion (`k3r1k
 [KRKBRBRBR](/stripes/krkbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~1906**.
 
-Part of the [Angus](/tartans/angus/) tartan — the named design grouping this sett with its kin.
+Part of the [Angus](/tartans/a/an/angus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

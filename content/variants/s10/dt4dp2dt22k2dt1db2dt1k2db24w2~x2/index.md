@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Wales"
+  url: "/tartans/s/sp/spirit-of-wales/"
 - name: "Spirit of Wales (Fashion)"
   url: "/setts/dt4dp2dt22k2dt1db2dt1k2db24w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt4dp2dt22k2dt1db2dt1k2db24w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBKBW](/stripes/bbbkbbbkbw/).
+
+Part of the [Spirit of Wales](/tartans/s/sp/spirit-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

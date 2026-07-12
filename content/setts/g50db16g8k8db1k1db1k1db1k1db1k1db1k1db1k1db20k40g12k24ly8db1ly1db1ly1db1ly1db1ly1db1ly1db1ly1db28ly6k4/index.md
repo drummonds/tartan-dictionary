@@ -6,6 +6,8 @@ This is the **Manitoba (Commemorative)** sett — one scale-free proportion (`g5
 [GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK](/stripes/gbgkbkbkbkbkbkbkbkgkybybybybybybybyk/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Manitoba](/tartans/m/ma/manitoba-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

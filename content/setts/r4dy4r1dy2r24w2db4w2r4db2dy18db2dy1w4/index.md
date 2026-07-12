@@ -6,6 +6,8 @@ This is the **San Francisco** sett — one scale-free proportion (`r4dy4r1dy2r24
 [RGRGRWBWRBGBGW](/stripes/rgrgrwbwrbgbgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [San Francisco](/tartans/s/sa/san-francisco/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

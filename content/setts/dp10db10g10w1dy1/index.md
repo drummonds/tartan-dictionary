@@ -6,6 +6,8 @@ This is the **Edelstein (Personal)** sett — one scale-free proportion (`dp10db
 [BBGWG](/stripes/bbgwg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Edelstein](/tartans/e/ed/edelstein/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

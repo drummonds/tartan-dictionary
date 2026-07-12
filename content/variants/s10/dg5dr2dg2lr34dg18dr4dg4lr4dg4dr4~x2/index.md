@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buccleuch Dress"
+  url: "/tartans/b/bu/buccleuch-dress/"
 - name: "Buccleuch Dress (Fashion)"
   url: "/setts/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGBGYGBG](/stripes/bgygbgygbg/).
+
+Part of the [Buccleuch Dress](/tartans/b/bu/buccleuch-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

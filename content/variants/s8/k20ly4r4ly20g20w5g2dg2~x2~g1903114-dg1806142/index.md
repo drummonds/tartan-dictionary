@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hackett Hunting"
+  url: "/tartans/h/ha/hackett-hunting/"
 - name: "Hackett Hunting (Personal)"
   url: "/setts/k20ly4r4ly20g20w5g2dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20ly4r4ly20g20w5g2dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGYRYK](/stripes/ggwgyryk/).
+
+Part of the [Hackett Hunting](/tartans/h/ha/hackett-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Jones, Alexander Michael (Personal)** sett — one scale-free prop
 [GWGGKBRBWWG](/stripes/gwggkbrbwwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Jones, Alexander Michael](/tartans/j/jo/jones-alexander-michael/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

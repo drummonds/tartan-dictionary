@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hanna"
+  url: "/clan/hanna/"
+- name: "Hanna of Falkirk"
+  url: "/families/hanna-of-falkirk/"
+- name: "Hanna of Falkirk"
+  url: "/tartans/h/ha/hanna-of-falkirk/"
 - name: "Hanna of Falkirk (Clan?)"
   url: "/setts/k9r4k2r4k2r30k9r4k14lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9r4k2r4k2r30k9r4k14lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKY](/stripes/krkrkrkrky/).
+
+Part of the [Hanna of Falkirk](/tartans/h/ha/hanna-of-falkirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

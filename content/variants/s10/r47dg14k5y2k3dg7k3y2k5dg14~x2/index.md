@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harbor Club"
-  url: "/tartans/harbor-club/"
+  url: "/tartans/h/ha/harbor-club/"
 - name: "Harbor Club"
   url: "/setts/r47dg14k5y2k3dg7k3y2k5dg14/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r47dg14k5y2k3dg7k3y2k5dg14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGRGKGKGKGK](/stripes/gkgkgkgkgrgkgkgkgk/).
 
-Part of the [Harbor Club](/tartans/harbor-club/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harbor Club](/tartans/h/ha/harbor-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Masai Shuka 28 (Artefact)** sett — one scale-free proportion (`w
 [BRW](/stripes/brw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 28](/tartans/m/ma/masai-shuka-28/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

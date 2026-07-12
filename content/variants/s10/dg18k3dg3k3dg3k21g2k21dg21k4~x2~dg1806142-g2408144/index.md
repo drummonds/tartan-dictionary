@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Guildry of Stirling"
-  url: "/tartans/guildry-of-stirling/"
+  url: "/tartans/g/gu/guildry-of-stirling/"
 - name: "Guildry of Stirling"
   url: "/setts/dg18k3dg3k3dg3k21g2k21dg21k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg18k3dg3k3dg3k21g2k21dg21k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGK](/stripes/gkgkgkgkgk/).
 
-Part of the [Guildry of Stirling](/tartans/guildry-of-stirling/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Guildry of Stirling](/tartans/g/gu/guildry-of-stirling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

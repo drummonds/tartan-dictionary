@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Herry"
+  url: "/tartans/h/he/herry/"
 - name: "Herry (2016)"
   url: "/setts/db50w4db8y1db8y8g1y8db8w1db8y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50w4db8y1db8y8g1y8db8w1db8y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBGGGBWBG](/stripes/bwbgbgggbwbg/).
+
+Part of the [Herry](/tartans/h/he/herry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

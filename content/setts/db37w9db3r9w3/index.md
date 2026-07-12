@@ -6,7 +6,7 @@ This is the **Glen Moy Trade Tartan** sett — one scale-free proportion (`db37w
 [BWBRW](/stripes/bwbrw/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
-Part of the [Glen Moy](/tartans/glen-moy-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Moy](/tartans/g/gl/glen-moy-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

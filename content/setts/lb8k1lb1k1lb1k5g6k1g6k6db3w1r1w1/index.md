@@ -6,6 +6,8 @@ This is the **Gemmell** sett — one scale-free proportion (`lb8k1lb1k1lb1k5g6k1
 [WKWKWKGKGKBWRW](/stripes/wkwkwkgkgkbwrw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Gemmell](/tartans/g/ge/gemmell-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

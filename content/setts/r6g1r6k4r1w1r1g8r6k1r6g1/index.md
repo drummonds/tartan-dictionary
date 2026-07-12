@@ -6,7 +6,7 @@ This is the **MacNicol** sett — one scale-free proportion (`r6g1r6k4r1w1r1g8r6
 [GRKRGRWRKRGR](/stripes/grkrgrwrkrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacNicol](/tartans/macnicol-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNicol](/tartans/m/ma/macnicol-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

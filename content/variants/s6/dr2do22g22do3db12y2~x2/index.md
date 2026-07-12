@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lisbon"
+  url: "/tartans/l/li/lisbon/"
+- name: "Lisbon"
   url: "/setts/dr2do22g22do3db12y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2do22g22do3db12y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBG](/stripes/bbgbbg/).
+
+Part of the [Lisbon](/tartans/l/li/lisbon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

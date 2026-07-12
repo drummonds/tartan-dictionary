@@ -6,6 +6,8 @@ This is the **Harley Davidson (Corporate)** sett — one scale-free proportion (
 [RBKRKR](/stripes/rbkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Harley Davidson](/tartans/h/ha/harley-davidson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

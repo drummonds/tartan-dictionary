@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Batson"
+  url: "/tartans/b/ba/batson/"
 - name: "Batson (Personal)"
   url: "/setts/k69r14y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k69r14y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRK](/stripes/grk/).
+
+Part of the [Batson](/tartans/b/ba/batson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

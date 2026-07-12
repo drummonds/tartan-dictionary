@@ -6,6 +6,8 @@ This is the **Bon Accord Corporate Com Tartan** sett — one scale-free proporti
 [BRBRWRWRBRBR](/stripes/brbrwrwrbrbr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Bon Accord Corporate Com](/tartans/b/bo/bon-accord-corporate-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

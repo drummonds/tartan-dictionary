@@ -7,7 +7,7 @@ This is the **Fitzgerald dress** sett — one scale-free proportion (`w2k1ri3lb3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1985**.
 
-Part of the [Fitzgerald dress](/tartans/fitzgerald-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Fitzgerald dress](/tartans/f/fi/fitzgerald-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

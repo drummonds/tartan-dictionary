@@ -6,6 +6,8 @@ This is the **Dauphinee, Andrew Hunter (Personal)** sett — one scale-free prop
 [BWBBBBBBR](/stripes/bwbbbbbbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Dauphinee, Andrew Hunter](/tartans/d/da/dauphinee-andrew-hunter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

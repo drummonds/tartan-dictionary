@@ -6,7 +6,7 @@ This is the **MacRae Hunting** sett — one scale-free proportion (`dg24k4dg6r4d
 [GKGRGKBW](/stripes/gkgrgkbw/). It is recorded as a single **variant**, below.
 First attested **1715**.
 
-Part of the [MacRae Hunting](/tartans/macrae-hunting-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRae Hunting](/tartans/m/ma/macrae-hunting-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Genet"
+  url: "/clan/genet/"
+- name: "Genet, Citizen"
+  url: "/tartans/g/ge/genet-citizen/"
 - name: "Genet, Citizen (Commem)"
   url: "/setts/r2k9g12db8r1db1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k9g12db8r1db1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGBRBW](/stripes/rkgbrbw/).
+
+Part of the [Genet, Citizen](/tartans/g/ge/genet-citizen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

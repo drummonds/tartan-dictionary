@@ -6,6 +6,8 @@ This is the **Ross Anderson (Fashion) #2** sett — one scale-free proportion (`
 [GBBBBYKYKWKBBK](/stripes/gbbbbykykwkbbk/). It is recorded as a single **variant**, below.
 First attested **1936**.
 
+Part of the [Ross Anderson](/tartans/r/ro/ross-anderson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roman"
+  url: "/tartans/r/ro/roman/"
 - name: "Roman (Personal)"
   url: "/setts/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWYBYWYBKBYB](/stripes/bgkwybywybkbyb/).
+
+Part of the [Roman](/tartans/r/ro/roman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

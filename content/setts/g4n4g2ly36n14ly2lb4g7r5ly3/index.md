@@ -6,6 +6,8 @@ This is the **Rikaco Eve (Fashion)** sett — one scale-free proportion (`g4n4g2
 [GBGYBYWGRY](/stripes/gbgybywgry/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Rikaco Eve](/tartans/r/ri/rikaco-eve-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

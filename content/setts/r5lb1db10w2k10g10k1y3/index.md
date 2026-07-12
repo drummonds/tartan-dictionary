@@ -7,6 +7,8 @@ This is the **Culloden 1746 - Original** sett — one scale-free proportion (`r5
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1746**.
 
+Part of the [Culloden](/tartans/c/cu/culloden-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

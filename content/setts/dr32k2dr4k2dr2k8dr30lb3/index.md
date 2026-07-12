@@ -6,6 +6,8 @@ This is the **University of Chicago (Corporate)** sett — one scale-free propor
 [BKBKBKBW](/stripes/bkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [University of Chicago](/tartans/u/un/university-of-chicago/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

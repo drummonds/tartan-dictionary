@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenaladale"
+  url: "/tartans/g/gl/glenaladale/"
+- name: "Glenaladale"
   url: "/setts/db28r26w2db5w2r26g28r5w2r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28r26w2db5w2r26g28r5w2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBWRGRWR](/stripes/brwbwrgrwr/).
+
+Part of the [Glenaladale](/tartans/g/gl/glenaladale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

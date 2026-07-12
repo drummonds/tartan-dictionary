@@ -6,6 +6,8 @@ This is the **Blueheart** sett — one scale-free proportion (`k1db18lb5db1lb3db
 [KBWBWBK](/stripes/kbwbwbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Blueheart](/tartans/b/bl/blueheart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

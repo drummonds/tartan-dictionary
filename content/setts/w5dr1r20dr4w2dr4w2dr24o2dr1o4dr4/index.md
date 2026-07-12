@@ -6,6 +6,8 @@ This is the **Chrysanthemum (Japanese Four Seasons)** sett — one scale-free pr
 [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Chrysanthemum](/tartans/c/ch/chrysanthemum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

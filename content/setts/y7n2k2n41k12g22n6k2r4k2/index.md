@@ -6,7 +6,7 @@ This is the **Dinwiddie** sett — one scale-free proportion (`y7n2k2n41k12g22n6
 [GBKBKGBKRK](/stripes/gbkbkgbkrk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Dinwiddie](/tartans/dinwiddie/) tartan — the named design grouping this sett with its kin.
+Part of the [Dinwiddie](/tartans/d/di/dinwiddie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

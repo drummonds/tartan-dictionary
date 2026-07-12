@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cork"
+  url: "/tartans/c/co/cork/"
+- name: "Cork"
   url: "/setts/g28r12g4db20y2db3y2db3g7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g28r12g4db20y2db3y2db3g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGRG](/stripes/gbgbgbgrg/).
+
+Part of the [Cork](/tartans/c/co/cork/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

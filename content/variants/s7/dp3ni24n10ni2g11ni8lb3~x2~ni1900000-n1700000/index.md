@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hesco"
+  url: "/tartans/h/he/hesco/"
+- name: "Hesco"
   url: "/setts/dp3ni24n10ni2g11ni8lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3ni24n10ni2g11ni8lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGBW](/stripes/bbbbgbw/).
+
+Part of the [Hesco](/tartans/h/he/hesco/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

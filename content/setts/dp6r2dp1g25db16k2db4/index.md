@@ -6,7 +6,7 @@ This is the **Laurie Clan Tartan** sett — one scale-free proportion (`dp6r2dp1
 [BKBGBRB](/stripes/bkbgbrb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Laurie](/tartans/laurie/) tartan — the named design grouping this sett with its kin.
+Part of the [Laurie](/tartans/l/la/laurie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

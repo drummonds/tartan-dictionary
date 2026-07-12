@@ -6,6 +6,8 @@ This is the **New South Wales** sett — one scale-free proportion (`g3y1g3r1g14
 [BGBGBGKGKGRGGG](/stripes/bgbgbgkgkgrggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [New South Wales](/tartans/n/ne/new-south-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wacker** sett — one scale-free proportion (`dbi6k3dbi3db13g13k1g
 [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Wacker](/tartans/w/wa/wacker-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

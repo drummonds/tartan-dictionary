@@ -6,7 +6,7 @@ This is the **Yates** sett — one scale-free proportion (`k37r4db30n7k10w5n10y7
 [GBWKBBRK](/stripes/gbwkbbrk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Yates](/tartans/yates/) tartan — the named design grouping this sett with its kin.
+Part of the [Yates](/tartans/y/ya/yates/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

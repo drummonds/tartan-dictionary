@@ -6,6 +6,8 @@ This is the **Waterloo** sett — one scale-free proportion (`y3dg6k6y4r1y1`), c
 [GGKGRG](/stripes/ggkgrg/). It is recorded as a single **variant**, below.
 First attested **1821**.
 
+Part of the [Waterloo](/tartans/w/wa/waterloo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

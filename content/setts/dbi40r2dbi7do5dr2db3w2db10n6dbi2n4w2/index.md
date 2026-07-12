@@ -6,6 +6,8 @@ This is the **Plymouth Armada** sett — one scale-free proportion (`dbi40r2dbi7
 [BRBBBBWBBBBW](/stripes/brbbbbwbbbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Plymouth Armada](/tartans/p/pl/plymouth-armada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

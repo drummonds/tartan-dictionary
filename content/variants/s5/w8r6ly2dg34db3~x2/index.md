@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Milling-Kristensen"
+  url: "/tartans/m/mi/milling-kristensen/"
 - name: "Milling-Kristensen (Personal)"
   url: "/setts/w8r6ly2dg34db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8r6ly2dg34db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYRW](/stripes/bgyrw/).
+
+Part of the [Milling-Kristensen](/tartans/m/mi/milling-kristensen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Mead of Poetry, The** sett — one scale-free proportion (`w6n2db6
 [BWWYBBBBBBBW](/stripes/bwwybbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Mead of Poetry](/tartans/m/me/mead-of-poetry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

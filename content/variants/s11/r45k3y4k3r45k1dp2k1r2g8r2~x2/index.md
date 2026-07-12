@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Malley"
+  url: "/tartans/o/o/o-malley/"
 - name: "O'Malley (Name?)"
   url: "/setts/r45k3y4k3r45k1dp2k1r2g8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r45k3y4k3r45k1dp2k1r2g8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKBKRKGKR](/stripes/rgrkbkrkgkr/).
+
+Part of the [O'Malley](/tartans/o/o/o-malley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

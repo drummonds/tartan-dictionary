@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loton"
+  url: "/tartans/l/lo/loton/"
 - name: "Loton (Personal)"
   url: "/setts/dr6dg2b2dg17dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6dg2b2dg17dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGB](/stripes/bgbgb/).
+
+Part of the [Loton](/tartans/l/lo/loton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

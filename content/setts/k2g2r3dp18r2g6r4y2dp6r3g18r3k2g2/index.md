@@ -6,6 +6,8 @@ This is the **MacIntyre and Glenorchy** sett — one scale-free proportion (`k2g
 [GKRGRBGRGRBRGK](/stripes/gkrgrbgrgrbrgk/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
+Part of the [MacIntyre and Glenorchy](/tartans/m/ma/macintyre-and-glenorchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

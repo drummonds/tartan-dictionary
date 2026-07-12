@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manchester City Football Club"
+  url: "/tartans/m/ma/manchester-city-football-club/"
 - name: "Manchester City Football Club \"Blue"
   url: "/setts/db4t13r2db2k2db2w5db2ly2db2t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4t13r2db2k2db2w5db2ly2db2t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBKBWBYBB](/stripes/bbrbkbwbybb/).
+
+Part of the [Manchester City Football Club](/tartans/m/ma/manchester-city-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

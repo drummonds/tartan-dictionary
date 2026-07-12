@@ -6,6 +6,8 @@ This is the **Princess Louise** sett — one scale-free proportion (`g8k4t28k5t5
 [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Princess Louise](/tartans/p/pr/princess-louise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

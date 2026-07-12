@@ -6,7 +6,7 @@ This is the **Stansbury (2014)** sett — one scale-free proportion (`g28r3k28db
 [GRKBWGRK](/stripes/grkbwgrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Stansbury](/tartans/stansbury/) tartan — the named design grouping this sett with its kin.
+Part of the [Stansbury](/tartans/s/st/stansbury/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

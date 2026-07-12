@@ -6,6 +6,8 @@ This is the **Triad Highland Games Proposed** sett — one scale-free proportion
 [RGKRKWR](/stripes/rgkrkwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Triad Highland Games](/tartans/t/tr/triad-highland-games/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

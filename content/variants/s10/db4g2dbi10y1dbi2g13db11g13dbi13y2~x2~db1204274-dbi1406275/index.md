@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pinney's of Scotland"
+  url: "/tartans/p/pi/pinney-s-of-scotland-2/"
+- name: "Pinney's of Scotland"
   url: "/setts/db4g2dbi10y1dbi2g13db11g13dbi13y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g2dbi10y1dbi2g13db11g13dbi13y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
+
+Part of the [Pinney's of Scotland](/tartans/p/pi/pinney-s-of-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

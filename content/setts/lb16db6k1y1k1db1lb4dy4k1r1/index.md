@@ -6,6 +6,8 @@ This is the **Kirk in the Hills** sett — one scale-free proportion (`lb16db6k1
 [RKGWBKGKBW](/stripes/rkgwbkgkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kirk in the Hills](/tartans/k/ki/kirk-in-the-hills-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

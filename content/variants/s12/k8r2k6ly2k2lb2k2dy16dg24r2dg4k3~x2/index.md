@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tara"
+  url: "/tartans/t/ta/tara/"
 - name: "Tara (District)"
   url: "/setts/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/).
+
+Part of the [Tara](/tartans/t/ta/tara/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

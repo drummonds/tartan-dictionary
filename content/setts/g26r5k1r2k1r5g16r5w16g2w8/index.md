@@ -6,6 +6,8 @@ This is the **Livingston (Personal)** sett — one scale-free proportion (`g26r5
 [GRKRKRGRWGW](/stripes/grkrkrgrwgw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Livingston](/tartans/l/li/livingston-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

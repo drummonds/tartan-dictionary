@@ -6,6 +6,8 @@ This is the **Porsche Bank Austria** sett — one scale-free proportion (`db49k2
 [BKGKGKRBRKB](/stripes/bkgkgkrbrkb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Porsche Bank Austria](/tartans/p/po/porsche-bank-austria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Niagara Region** sett — one scale-free proportion (`w4k2w2k28dt4
 [RGRKRBKBKWKW](/stripes/rgrkrbkbkwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Niagara Region](/tartans/n/ni/niagara-region/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

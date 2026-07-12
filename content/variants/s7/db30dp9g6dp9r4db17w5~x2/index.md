@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Woodcock"
+  url: "/tartans/w/wo/woodcock/"
 - name: "Woodcock (2014)"
   url: "/setts/db30dp9g6dp9r4db17w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30dp9g6dp9r4db17w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBRBW](/stripes/bbgbrbw/).
+
+Part of the [Woodcock](/tartans/w/wo/woodcock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

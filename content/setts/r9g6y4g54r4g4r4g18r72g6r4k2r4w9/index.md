@@ -6,7 +6,7 @@ This is the **Hay Clan Tartan** sett — one scale-free proportion (`r9g6y4g54r4
 [RGGGRGRGRGRKRW](/stripes/rgggrgrgrgrkrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Hay](/tartans/hay-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Hay](/tartans/h/ha/hay-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

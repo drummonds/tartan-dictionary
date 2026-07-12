@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sunderland"
+  url: "/clan/sunderland/"
+- name: "Sunderland"
+  url: "/tartans/s/su/sunderland/"
 - name: "Sunderland"
   url: "/setts/db12w4db1w4r8w2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12w4db1w4r8w2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWRWR](/stripes/bwbwrwr/).
+
+Part of the [Sunderland](/tartans/s/su/sunderland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

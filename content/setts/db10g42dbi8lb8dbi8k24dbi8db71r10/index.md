@@ -6,6 +6,8 @@ This is the **Robert Burns Legacy** sett — one scale-free proportion (`db10g42
 [BGBWBKBBR](/stripes/bgbwbkbbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Robert Burns Legacy](/tartans/r/ro/robert-burns-legacy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

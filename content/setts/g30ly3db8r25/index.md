@@ -6,7 +6,7 @@ This is the **Dohmen (Personal)** sett — one scale-free proportion (`g30ly3db8
 [GYBR](/stripes/gybr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Dohmen](/tartans/dohmen/) tartan — the named design grouping this sett with its kin.
+Part of the [Dohmen](/tartans/d/do/dohmen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

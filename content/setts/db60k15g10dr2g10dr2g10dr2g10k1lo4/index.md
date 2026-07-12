@@ -6,7 +6,7 @@ This is the **Muir (Clan)** sett — one scale-free proportion (`db60k15g10dr2g1
 [BKGBGBGBGKY](/stripes/bkgbgbgbgky/). It is recorded as a single **variant**, below.
 First attested **~1880**.
 
-Part of the [Muir](/tartans/muir/) tartan — the named design grouping this sett with its kin.
+Part of the [Muir](/tartans/m/mu/muir/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

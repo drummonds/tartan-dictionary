@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Perratt"
+  url: "/tartans/p/pe/perratt/"
 - name: "Perratt (Personal)"
   url: "/setts/k83g4r4g10k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k83g4r4g10k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGKW](/stripes/kgrgkw/).
+
+Part of the [Perratt](/tartans/p/pe/perratt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

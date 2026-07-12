@@ -7,7 +7,7 @@ This is the **MacGregor of Balquhidder Clan Tartan** sett — one scale-free pro
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [MacGregor of Balquhidder](/tartans/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor of Balquhidder](/tartans/m/ma/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

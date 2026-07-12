@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbecue"
+  url: "/tartans/b/ba/barbecue-2/"
 - name: "Barbecue Plaid"
   url: "/setts/r45k2r2k28w16r4k4lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r45k2r2k28w16r4k4lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWRKY](/stripes/rkrkwrky/).
+
+Part of the [Barbecue](/tartans/b/ba/barbecue-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

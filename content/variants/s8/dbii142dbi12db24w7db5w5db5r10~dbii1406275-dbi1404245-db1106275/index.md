@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen Innes"
-  url: "/tartans/glen-innes/"
+  url: "/tartans/g/gl/glen-innes/"
 - name: "Glen Innes (District)"
   url: "/setts/dbii142dbi12db24w7db5w5db5r10/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbii142dbi12db24w7db5w5db5r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBWBR](/stripes/bbbwbwbr/).
 
-Part of the [Glen Innes](/tartans/glen-innes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen Innes](/tartans/g/gl/glen-innes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

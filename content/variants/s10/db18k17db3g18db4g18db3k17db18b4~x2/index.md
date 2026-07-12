@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Airports"
+  url: "/tartans/s/sc/scottish-airports/"
 - name: "Scottish Airports Corporate Tartan"
   url: "/setts/db18k17db3g18db4g18db3k17db18b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db18k17db3g18db4g18db3k17db18b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGBGBKB](/stripes/bbkbgbgbkb/).
+
+Part of the [Scottish Airports](/tartans/s/sc/scottish-airports/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

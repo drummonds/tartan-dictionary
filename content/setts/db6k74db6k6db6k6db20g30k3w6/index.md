@@ -6,6 +6,8 @@ This is the **Scruffy Wallace** sett — one scale-free proportion (`db6k74db6k6
 [BKBKBKBGKW](/stripes/bkbkbkbgkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Scruffy Wallace](/tartans/s/sc/scruffy-wallace/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
+- name: "Nicolson of the Isles"
+  url: "/families/nicolson-of-the-isles/"
+- name: "Nicolson of the Isles"
+  url: "/tartans/n/ni/nicolson-of-the-isles/"
 - name: "Nicolson of the Isles (Personal)"
   url: "/setts/y2r4db4lb35g5r12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2r4db4lb35g5r12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBWGRW](/stripes/grbwgrw/).
+
+Part of the [Nicolson of the Isles](/tartans/n/ni/nicolson-of-the-isles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

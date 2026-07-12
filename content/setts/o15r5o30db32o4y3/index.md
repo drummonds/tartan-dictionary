@@ -6,7 +6,7 @@ This is the **Cameron, hunting** sett — one scale-free proportion (`o15r5o30db
 [GRBRRR](/stripes/grbrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Cameron Hunting](/tartans/cameron-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Cameron Hunting](/tartans/c/ca/cameron-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

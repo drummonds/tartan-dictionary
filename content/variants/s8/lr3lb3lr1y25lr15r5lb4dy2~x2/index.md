@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rikaco Morning Dew 2"
+  url: "/tartans/r/ri/rikaco-morning-dew-2/"
 - name: "Rikaco Morning Dew #2"
   url: "/setts/lr3lb3lr1y25lr15r5lb4dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr3lb3lr1y25lr15r5lb4dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRYGYWY](/stripes/gwrygywy/).
+
+Part of the [Rikaco Morning Dew 2](/tartans/r/ri/rikaco-morning-dew-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

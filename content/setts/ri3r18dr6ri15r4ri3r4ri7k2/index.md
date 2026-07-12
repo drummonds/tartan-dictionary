@@ -6,7 +6,7 @@ This is the **Tune Hotels Corporate Tartan** sett — one scale-free proportion 
 [KRRRRRBRR](/stripes/krrrrrbrr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Tune Hotels](/tartans/tune-hotels/) tartan — the named design grouping this sett with its kin.
+Part of the [Tune Hotels](/tartans/t/tu/tune-hotels/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

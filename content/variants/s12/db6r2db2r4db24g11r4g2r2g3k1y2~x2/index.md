@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Law"
+  url: "/clan/law/"
+- name: "Law of Heather Athol"
+  url: "/families/law-of-heather-athol/"
+- name: "Law of Heather Athol"
+  url: "/tartans/l/la/law-of-heather-athol/"
 - name: "Law of Heather Athol (Personal)"
   url: "/setts/db6r2db2r4db24g11r4g2r2g3k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r2db2r4db24g11r4g2r2g3k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGRGRGKG](/stripes/brbrbgrgrgkg/).
+
+Part of the [Law of Heather Athol](/tartans/l/la/law-of-heather-athol/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

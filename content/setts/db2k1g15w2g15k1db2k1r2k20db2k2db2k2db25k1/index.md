@@ -6,6 +6,8 @@ This is the **Rankin, John (Personal)** sett — one scale-free proportion (`db2
 [BKGWGKBKRKBKBKBK](/stripes/bkgwgkbkrkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Rankin, John](/tartans/r/ra/rankin-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

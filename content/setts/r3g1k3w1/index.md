@@ -6,6 +6,8 @@ This is the **SAL Glindrande Stiernan** sett — one scale-free proportion (`r3g
 [RGKW](/stripes/rgkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [SAL Glindrande Stiernan](/tartans/s/sa/sal-glindrande-stiernan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

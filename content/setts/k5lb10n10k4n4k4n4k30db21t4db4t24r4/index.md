@@ -6,6 +6,8 @@ This is the **Anderson-Moffat (Personal)** sett — one scale-free proportion (`
 [KWBKBKBKBBBBR](/stripes/kwbkbkbkbbbbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Anderson-Moffat](/tartans/a/an/anderson-moffat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

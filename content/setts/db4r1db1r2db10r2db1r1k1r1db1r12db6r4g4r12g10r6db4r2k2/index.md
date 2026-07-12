@@ -6,6 +6,8 @@ This is the **MacLeod of Tullibardine** sett — one scale-free proportion (`db4
 [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/). It is recorded as a single **variant**, below.
 First attested **1748**.
 
+Part of the [MacLeod of Tullibardine](/tartans/m/ma/macleod-of-tullibardine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

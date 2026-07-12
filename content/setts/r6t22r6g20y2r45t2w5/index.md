@@ -6,6 +6,8 @@ This is the **Elbrick Dress (Personal)** sett — one scale-free proportion (`r6
 [RBRGGRBW](/stripes/rbrggrbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Elbrick Dress](/tartans/e/el/elbrick-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

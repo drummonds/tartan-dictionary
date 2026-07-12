@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dalziel"
-  url: "/tartans/dalziel/"
+  url: "/tartans/d/da/dalziel/"
 - name: "Dalziel"
   url: "/setts/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-Part of the [Dalziel](/tartans/dalziel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dalziel](/tartans/d/da/dalziel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 

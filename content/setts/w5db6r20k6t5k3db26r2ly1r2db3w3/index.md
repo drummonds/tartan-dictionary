@@ -7,6 +7,8 @@ This is the **Clinton Wedding** sett — one scale-free proportion (`w5db6r20k6t
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2009**.
 
+Part of the [Clinton Wedding](/tartans/c/cl/clinton-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

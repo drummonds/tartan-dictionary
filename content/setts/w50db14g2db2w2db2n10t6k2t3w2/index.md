@@ -6,7 +6,7 @@ This is the **Blue Dunnett** sett — one scale-free proportion (`w50db14g2db2w2
 [WBGBWBBBKBW](/stripes/wbgbwbbbkbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Blue Dunnett](/tartans/blue-dunnett/) tartan — the named design grouping this sett with its kin.
+Part of the [Blue Dunnett](/tartans/b/bl/blue-dunnett/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

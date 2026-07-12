@@ -6,6 +6,8 @@ This is the **Scotland Forever Fashion Weavers Tartan** sett — one scale-free 
 [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Scotland Forever Fashion Weavers](/tartans/s/sc/scotland-forever-fashion-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

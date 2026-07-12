@@ -6,7 +6,7 @@ This is the **Lennox Dress District Tartan** sett — one scale-free proportion 
 [RRRRWGW](/stripes/rrrrwgw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Lennox Dress](/tartans/lennox-dress-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Lennox Dress](/tartans/l/le/lennox-dress-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

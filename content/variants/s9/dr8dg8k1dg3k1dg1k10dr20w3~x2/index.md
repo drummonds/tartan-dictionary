@@ -10,7 +10,7 @@ crumbs:
 - name: "Hunter of Bute"
   url: "/families/hunter-of-bute/"
 - name: "Hunter of Bute"
-  url: "/tartans/hunter-of-bute/"
+  url: "/tartans/h/hu/hunter-of-bute/"
 - name: "Hunter of Bute (Clan ?)"
   url: "/setts/dr8dg8k1dg3k1dg1k10dr20w3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr8dg8k1dg3k1dg1k10dr20w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/).
 
-Part of the [Hunter of Bute](/tartans/hunter-of-bute/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hunter of Bute](/tartans/h/hu/hunter-of-bute/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -7,6 +7,8 @@ This is the **Armstrong** sett — one scale-free proportion (`r3db12k1db1k1db2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Armstrong](/tartans/a/ar/armstrong/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

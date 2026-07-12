@@ -10,7 +10,7 @@ crumbs:
 - name: "Harmon of Plenderleith"
   url: "/families/harmon-of-plenderleith/"
 - name: "Harmon of Plenderleith"
-  url: "/tartans/harmon-of-plenderleith/"
+  url: "/tartans/h/ha/harmon-of-plenderleith/"
 - name: "Harmon of Plenderleith (Personal)"
   url: "/setts/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBBBGBBGBGBK](/stripes/gbgbgbkbbbgbbgbgbk/).
 
-Part of the [Harmon of Plenderleith](/tartans/harmon-of-plenderleith/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harmon of Plenderleith](/tartans/h/ha/harmon-of-plenderleith/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

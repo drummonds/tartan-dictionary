@@ -6,6 +6,8 @@ This is the **Military Medical Memorial (USA)** sett — one scale-free proporti
 [BWRGKR](/stripes/bwrgkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Military Medical Memorial](/tartans/m/mi/military-medical-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

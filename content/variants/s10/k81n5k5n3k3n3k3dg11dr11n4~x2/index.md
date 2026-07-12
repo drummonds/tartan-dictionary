@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Racing Stewart"
-  url: "/tartans/racing-stewart/"
+  url: "/tartans/r/ra/racing-stewart/"
 - name: "Racing Stewart (Stealth)"
   url: "/setts/k81n5k5n3k3n3k3dg11dr11n4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k81n5k5n3k3n3k3dg11dr11n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGKBKBKBK](/stripes/bbgkbkbkbk/).
 
-Part of the [Racing Stewart](/tartans/racing-stewart/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Racing Stewart](/tartans/r/ra/racing-stewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

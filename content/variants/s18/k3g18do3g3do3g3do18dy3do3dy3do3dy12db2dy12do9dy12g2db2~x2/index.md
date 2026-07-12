@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Van Ingelgem Hunting"
+  url: "/tartans/v/va/van-ingelgem-hunting/"
 - name: "Van Ingelgem Hunting (Personal)"
   url: "/setts/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g18do3g3do3g3do18dy3do3dy3do3dy12db2dy12do9dy12g2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBGBGBGBGBGBGBGK](/stripes/bggbgbgbgbgbgbgbgk/).
+
+Part of the [Van Ingelgem Hunting](/tartans/v/va/van-ingelgem-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

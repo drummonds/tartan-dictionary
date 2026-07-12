@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Robert, Burns check"
+  url: "/tartans/r/ro/robert-burns-check/"
+- name: "Robert, Burns check"
   url: "/setts/w2k2w2k2w2k2w1o1g1o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k2w2k2w2k2w1o1g1o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRWKWKWKW](/stripes/rgrwkwkwkw/).
+
+Part of the [Robert, Burns check](/tartans/r/ro/robert-burns-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burns 250th Anniversary"
+  url: "/tartans/b/bu/burns-250th-anniversary/"
 - name: "Burns 250th Anniversary (Commem.)"
   url: "/setts/r8ly2r24k6dy3g2dy3g2dy3k3w3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8ly2r24k6dy3g2dy3g2dy3k3w3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKGGGGGKRYR](/stripes/kwkgggggkryr/).
+
+Part of the [Burns 250th Anniversary](/tartans/b/bu/burns-250th-anniversary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

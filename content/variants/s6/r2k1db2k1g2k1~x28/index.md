@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burnicle"
+  url: "/tartans/b/bu/burnicle/"
 - name: "Burnicle (2015)"
   url: "/setts/r2k1db2k1g2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1db2k1g2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBKR](/stripes/kgkbkr/).
+
+Part of the [Burnicle](/tartans/b/bu/burnicle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

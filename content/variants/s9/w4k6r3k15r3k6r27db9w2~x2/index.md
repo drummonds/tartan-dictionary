@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Memery"
+  url: "/tartans/m/me/memery/"
 - name: "Memery (Reston, USA)"
   url: "/setts/w4k6r3k15r3k6r27db9w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k6r3k15r3k6r27db9w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKRKRKW](/stripes/wbrkrkrkw/).
+
+Part of the [Memery](/tartans/m/me/memery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

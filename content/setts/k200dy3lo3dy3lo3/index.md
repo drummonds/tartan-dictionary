@@ -6,6 +6,8 @@ This is the **SmartWool** sett — one scale-free proportion (`k200dy3lo3dy3lo3`
 [KGYGY](/stripes/kgygy/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [SmartWool](/tartans/s/sm/smartwool/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

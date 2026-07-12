@@ -6,6 +6,8 @@ This is the **London Fog Black 2 (fashion)** sett — one scale-free proportion 
 [KWKYKYKYKY](/stripes/kwkykykyky/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [London Fog Black 2](/tartans/l/lo/london-fog-black-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

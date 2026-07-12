@@ -6,6 +6,8 @@ This is the **Glasgow, Rock and Wheel** sett — one scale-free proportion (`g25
 [BBGBBBG](/stripes/bbgbbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glasgow, Rock and Wheel](/tartans/g/gl/glasgow-rock-and-wheel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

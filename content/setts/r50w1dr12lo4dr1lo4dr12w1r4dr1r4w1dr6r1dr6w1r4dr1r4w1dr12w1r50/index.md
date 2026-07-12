@@ -6,6 +6,8 @@ This is the **Glenorchy, Lord (Portrait)** sett — one scale-free proportion (`
 [RWBWRBRWBRBWRBRWBYBYBWR](/stripes/rwbwrbrwbrbwrbrwbybybwr/). It is recorded as a single **variant**, below.
 First attested **1720**.
 
+Part of the [Glenorchy, Lord](/tartans/g/gl/glenorchy-lord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

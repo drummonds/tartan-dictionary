@@ -6,7 +6,7 @@ This is the **Forrester/Foster Hunting** sett — one scale-free proportion (`k3
 [KGGWGKGKGW](/stripes/kggwgkgkgw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Forrester Hunting](/tartans/forrester-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Forrester Hunting](/tartans/f/fo/forrester-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

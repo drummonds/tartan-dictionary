@@ -6,6 +6,8 @@ This is the **Wisconsin in Scotland (Corporate)** sett — one scale-free propor
 [GBGBBBRWRBBBGBW](/stripes/gbgbbbrwrbbbgbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Wisconsin in Scotland](/tartans/w/wi/wisconsin-in-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Marshall** sett — one scale-free proportion (`r4n4dt2n24lb1dt14n
 [BBRBBWBBBR](/stripes/bbrbbwbbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Marshall](/tartans/m/ma/marshall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

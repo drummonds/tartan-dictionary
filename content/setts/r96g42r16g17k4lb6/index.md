@@ -6,6 +6,8 @@ This is the **MacGregor Hunting Glengyle Clan Tartan** sett — one scale-free p
 [RGRGKW](/stripes/rgrgkw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [MacGregor Hunting Glengyle](/tartans/m/ma/macgregor-hunting-glengyle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

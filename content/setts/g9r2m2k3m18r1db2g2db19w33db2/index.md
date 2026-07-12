@@ -6,6 +6,8 @@ This is the **Pride of Scotland Dress (Dance)** sett — one scale-free proporti
 [BWBGBRRKRRG](/stripes/bwbgbrrkrrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Pride of Scotland Dress](/tartans/p/pr/pride-of-scotland-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

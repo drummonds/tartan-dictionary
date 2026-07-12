@@ -7,6 +7,8 @@ This is the **MacKinnon Htg (Clan)** sett — one scale-free proportion (`g1dy8g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1959**.
 
+Part of the [MacKinnon Hunting](/tartans/m/ma/mackinnon-hunting-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

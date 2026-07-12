@@ -6,7 +6,7 @@ This is the **Newlands of Lauriston (Name)** sett — one scale-free proportion 
 [BKBBKGBGBG](/stripes/bkbbkgbgbg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Newlands of Lauriston](/tartans/newlands-of-lauriston/) tartan — the named design grouping this sett with its kin.
+Part of the [Newlands of Lauriston](/tartans/n/ne/newlands-of-lauriston/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

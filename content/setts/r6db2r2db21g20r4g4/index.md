@@ -6,7 +6,7 @@ This is the **Robertson of Struan** sett — one scale-free proportion (`r6db2r2
 [GRGBRBR](/stripes/grgbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Robertson of Struan](/tartans/robertson-of-struan/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson of Struan](/tartans/r/ro/robertson-of-struan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

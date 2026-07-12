@@ -6,6 +6,8 @@ This is the **Thomas Blake Glover** sett — one scale-free proportion (`db4b16o
 [BBRBRBBBBBBR](/stripes/bbrbrbbbbbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Thomas Blake Glover](/tartans/t/th/thomas-blake-glover-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacGillivray Hunting Clan Tartan** sett — one scale-free proport
 [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacGillivray](/tartans/m/ma/macgillivray-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

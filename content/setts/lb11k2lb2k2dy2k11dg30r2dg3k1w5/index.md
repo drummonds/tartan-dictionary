@@ -6,7 +6,7 @@ This is the **Labrador** sett — one scale-free proportion (`lb11k2lb2k2dy2k11d
 [WKGRGKGKWKW](/stripes/wkgrgkgkwkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Labrador](/tartans/labrador/) tartan — the named design grouping this sett with its kin.
+Part of the [Labrador](/tartans/l/la/labrador/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

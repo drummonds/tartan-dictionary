@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maine State"
-  url: "/tartans/maine-state/"
+  url: "/tartans/m/ma/maine-state/"
 - name: "Maine State"
   url: "/setts/g2r2lb23db2lb2db6lb2db2g33r2lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2r2lb23db2lb2db6lb2db2g33r2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBWBWBGRW](/stripes/grwbwbwbgrw/).
 
-Part of the [Maine State](/tartans/maine-state/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Maine State](/tartans/m/ma/maine-state/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Maresh** sett — one scale-free proportion (`k3y3g22db6k17g6db22r
 [BRBGKBGGK](/stripes/brbgkbggk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Maresh](/tartans/m/ma/maresh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

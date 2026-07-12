@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mair"
-  url: "/tartans/mair/"
+  url: "/tartans/m/ma/mair/"
 - name: "Mair (Personal)"
   url: "/setts/r23g3ly1g3r2db18r2w1g3r2db2r23/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r23g3ly1g3r2db18r2w1g3r2db2r23/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGWRBRGYGR](/stripes/rbrgwrbrgygr/).
 
-Part of the [Mair](/tartans/mair/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mair](/tartans/m/ma/mair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

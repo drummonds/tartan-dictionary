@@ -6,6 +6,8 @@ This is the **MacKellar Dress, Maroon (Dance)** sett — one scale-free proporti
 [BWBKGWGYGWG](/stripes/bwbkgwgygwg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacKellar Dress, Maroon](/tartans/m/ma/mackellar-dress-maroon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

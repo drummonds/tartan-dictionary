@@ -6,6 +6,8 @@ This is the **Unidentified (Tony Murray Collection** sett — one scale-free pro
 [BGGGKWGWWWW](/stripes/bgggkwgwwww/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Unidentified (Tony Murray Collection](/tartans/u/un/unidentified-tony-murray-collection/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

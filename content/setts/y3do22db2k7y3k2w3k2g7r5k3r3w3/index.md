@@ -6,7 +6,7 @@ This is the **Cree Clan Tartan** sett — one scale-free proportion (`y3do22db2k
 [GBBKGKWKGRKRW](/stripes/gbbkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Cree](/tartans/cree-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Cree](/tartans/c/cr/cree-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

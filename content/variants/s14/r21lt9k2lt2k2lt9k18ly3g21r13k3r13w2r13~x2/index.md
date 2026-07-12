@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Cameron Commando"
+  url: "/tartans/c/ca/caledonian-cameron-commando/"
+- name: "Caledonian Cameron Commando"
   url: "/setts/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKYGRKRWR](/stripes/rwkwkwkygrkrwr/).
+
+Part of the [Caledonian Cameron Commando](/tartans/c/ca/caledonian-cameron-commando/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Kerry County Crest (Fashion)** sett — one scale-free proportion 
 [GBGBWGBWGG](/stripes/gbgbwgbwgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Kerry County Crest](/tartans/k/ke/kerry-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

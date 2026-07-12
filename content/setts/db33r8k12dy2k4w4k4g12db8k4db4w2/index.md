@@ -6,6 +6,8 @@ This is the **MacLulich** sett — one scale-free proportion (`db33r8k12dy2k4w4k
 [BRKGKWKGBKBW](/stripes/brkgkwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacLulich](/tartans/m/ma/maclulich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Quebec Plaid Du.. Corporate Tartan** sett — one scale-free propo
 [BGBGKRGRBWKR](/stripes/bgbgkrgrbwkr/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
+Part of the [Quebec Plaid Du..](/tartans/q/qu/quebec-plaid-du/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

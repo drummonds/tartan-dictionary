@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jubilee"
+  url: "/tartans/j/ju/jubilee-2/"
 - name: "Jubilee (Artefact)"
   url: "/setts/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGBGWGWGYGWGWG](/stripes/gwgwgbgwgwgygwgwg/).
+
+Part of the [Jubilee](/tartans/j/ju/jubilee-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

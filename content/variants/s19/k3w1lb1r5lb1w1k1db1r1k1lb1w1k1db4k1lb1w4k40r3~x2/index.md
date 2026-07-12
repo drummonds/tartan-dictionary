@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "JCM Customs"
-  url: "/tartans/jcm-customs/"
+  url: "/tartans/j/jc/jcm-customs/"
 - name: "J.C.M. Customs"
   url: "/setts/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/).
 
-Part of the [JCM Customs](/tartans/jcm-customs/) tartan — the named design grouping this sett with its other cloths.
+Part of the [JCM Customs](/tartans/j/jc/jcm-customs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

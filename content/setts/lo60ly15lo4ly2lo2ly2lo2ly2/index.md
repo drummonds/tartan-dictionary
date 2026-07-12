@@ -6,6 +6,8 @@ This is the **Masai Shuka 09 (Artefact)** sett — one scale-free proportion (`l
 [YYYYYYYY](/stripes/yyyyyyyy/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 09](/tartans/m/ma/masai-shuka-09/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

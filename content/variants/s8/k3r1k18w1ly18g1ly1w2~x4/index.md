@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunlop Hunting"
+  url: "/tartans/d/du/dunlop-hunting/"
+- name: "Dunlop Hunting"
   url: "/setts/k3r1k18w1ly18g1ly1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r1k18w1ly18g1ly1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWYGYW](/stripes/krkwygyw/).
+
+Part of the [Dunlop Hunting](/tartans/d/du/dunlop-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

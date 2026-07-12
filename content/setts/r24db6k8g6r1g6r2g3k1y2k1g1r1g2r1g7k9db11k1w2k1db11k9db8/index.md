@@ -6,6 +6,8 @@ This is the **MacDonald of Prince Edward Island** sett — one scale-free propor
 [BKBKWKBKGRGRGKGKGRGRGKBR](/stripes/bkbkwkbkgrgrgkgkgrgrgkbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacDonald of Prince Edward Island](/tartans/m/ma/macdonald-of-prince-edward-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

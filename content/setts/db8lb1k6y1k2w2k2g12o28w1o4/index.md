@@ -6,6 +6,8 @@ This is the **MacLean of Kingairloch** sett — one scale-free proportion (`db8l
 [BWKGKWKGRWR](/stripes/bwkgkwkgrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacLean of Kingairloch](/tartans/m/ma/maclean-of-kingairloch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

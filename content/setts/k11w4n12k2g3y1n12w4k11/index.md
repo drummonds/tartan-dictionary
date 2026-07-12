@@ -6,6 +6,8 @@ This is the **Hancock Personal Tartan** sett — one scale-free proportion (`k11
 [KWBKGGBWKWBGGKBW](/stripes/kwbkggbwkwbggkbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Hancock](/tartans/h/ha/hancock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

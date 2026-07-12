@@ -6,6 +6,8 @@ This is the **Instakilt, Pink (Fashion)** sett — one scale-free proportion (`r
 [RKRKRWR](/stripes/rkrkrwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Instakilt, Pink](/tartans/i/in/instakilt-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

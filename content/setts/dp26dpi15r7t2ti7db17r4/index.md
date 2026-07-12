@@ -6,6 +6,8 @@ This is the **Redpath, Ronald (Personal)** sett — one scale-free proportion (`
 [BBRBBBR](/stripes/bbrbbbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Redpath, Ronald](/tartans/r/re/redpath-ronald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

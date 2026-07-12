@@ -6,6 +6,8 @@ This is the **Wilson's, No 64 or Abercrombie** sett — one scale-free proportio
 [KBKGWGK](/stripes/kbkgwgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 64 or Abercrombie](/tartans/w/wi/wilson-s-no-64-or-abercrombie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

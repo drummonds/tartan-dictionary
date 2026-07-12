@@ -6,6 +6,8 @@ This is the **Bogle (2015)** sett — one scale-free proportion (`k38r16k1y2k1r1
 [KKKKKKRKGKRKKKW](/stripes/kkkkkkrkgkrkkkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bogle](/tartans/b/bo/bogle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

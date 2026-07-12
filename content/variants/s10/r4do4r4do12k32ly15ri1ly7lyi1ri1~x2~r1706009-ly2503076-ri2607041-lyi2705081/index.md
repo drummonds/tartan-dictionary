@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hard Rock Cafe"
+  url: "/tartans/h/ha/hard-rock-cafe/"
 - name: "Hard Rock Cafe (Corporate)"
   url: "/setts/r4do4r4do12k32ly15ri1ly7lyi1ri1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4do4r4do12k32ly15ri1ly7lyi1ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKYRYYR](/stripes/rbrbkyryyr/).
+
+Part of the [Hard Rock Cafe](/tartans/h/ha/hard-rock-cafe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

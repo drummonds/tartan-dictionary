@@ -7,6 +7,8 @@ This is the **Spirit of Ulster** sett — one scale-free proportion (`w2db4r2db9
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Spirit of Ulster](/tartans/s/sp/spirit-of-ulster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

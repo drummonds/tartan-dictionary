@@ -6,7 +6,7 @@ This is the **MacByrd (Personal)** sett — one scale-free proportion (`ly50k1dr
 [BWBGWBKY](/stripes/bwbgwbky/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
-Part of the [MacByrd](/tartans/macbyrd/) tartan — the named design grouping this sett with its kin.
+Part of the [MacByrd](/tartans/m/ma/macbyrd/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

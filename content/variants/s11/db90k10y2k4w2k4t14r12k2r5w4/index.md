@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lanyard"
+  url: "/tartans/l/la/lanyard/"
 - name: "Lanyard Blue (Fashion)"
   url: "/setts/db90k10y2k4w2k4t14r12k2r5w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db90k10y2k4w2k4t14r12k2r5w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWKBRKRW](/stripes/bkgkwkbrkrw/).
+
+Part of the [Lanyard](/tartans/l/la/lanyard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Bute Heather, Black** sett — one scale-free proportion (`k6y20k6
 [KGKGKGKGK](/stripes/kgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Bute Heather](/tartans/b/bu/bute-heather-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

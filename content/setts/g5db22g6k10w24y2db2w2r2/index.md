@@ -6,7 +6,7 @@ This is the **Haymarket Dress Blue Trade Tartan** sett — one scale-free propor
 [GBGKWGBWR](/stripes/gbgkwgbwr/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
-Part of the [Haymarket Dress](/tartans/haymarket-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Haymarket Dress](/tartans/h/ha/haymarket-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

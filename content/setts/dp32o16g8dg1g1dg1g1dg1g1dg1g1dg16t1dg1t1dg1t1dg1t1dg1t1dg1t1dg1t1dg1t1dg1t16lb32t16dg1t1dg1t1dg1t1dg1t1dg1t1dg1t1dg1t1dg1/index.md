@@ -6,6 +6,8 @@ This is the **Virginia (Fashion)** sett — one scale-free proportion (`dp32o16g
 [BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG](/stripes/brggggggggggbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Virginia](/tartans/v/vi/virginia-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ancient Universal (Fashion?)** sett — one scale-free proportion 
 [GGGGGGGG](/stripes/gggggggg/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [Ancient Universal](/tartans/a/an/ancient-universal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

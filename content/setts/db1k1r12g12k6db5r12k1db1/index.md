@@ -6,7 +6,7 @@ This is the **Montrose Clan Tartan** sett — one scale-free proportion (`db1k1r
 [BKRBKGRKB](/stripes/bkrbkgrkb/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Montrose](/tartans/montrose-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Montrose](/tartans/m/mo/montrose-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

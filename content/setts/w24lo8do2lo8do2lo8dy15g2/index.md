@@ -6,6 +6,8 @@ This is the **Unidentified from Winnipeg** sett — one scale-free proportion (`
 [GGYBYBYW](/stripes/ggybybyw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified from Winnipeg](/tartans/u/un/unidentified-from-winnipeg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

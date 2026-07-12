@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Breon"
-  url: "/tartans/breon/"
+  url: "/tartans/b/br/breon/"
 - name: "Breon (Personal)"
   url: "/setts/t25g25k6db10r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t25g25k6db10r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBR](/stripes/bgkbr/).
 
-Part of the [Breon](/tartans/breon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Breon](/tartans/b/br/breon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

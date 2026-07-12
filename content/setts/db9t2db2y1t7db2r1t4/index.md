@@ -6,6 +6,8 @@ This is the **Mercer, Charles** sett — one scale-free proportion (`db9t2db2y1t
 [BBBGBBRB](/stripes/bbbgbbrb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Mercer](/tartans/m/me/mercer-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

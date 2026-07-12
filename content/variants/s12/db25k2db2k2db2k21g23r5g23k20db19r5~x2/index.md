@@ -10,7 +10,7 @@ crumbs:
 - name: "Murray of Atholl"
   url: "/families/murray-of-atholl/"
 - name: "Murray of Atholl"
-  url: "/tartans/murray-of-atholl/"
+  url: "/tartans/m/mu/murray-of-atholl/"
 - name: "Murray of Atholl #2"
   url: "/setts/db25k2db2k2db2k21g23r5g23k20db19r5/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db25k2db2k2db2k21g23r5g23k20db19r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
 
-Part of the [Murray of Atholl](/tartans/murray-of-atholl/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Murray of Atholl](/tartans/m/mu/murray-of-atholl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

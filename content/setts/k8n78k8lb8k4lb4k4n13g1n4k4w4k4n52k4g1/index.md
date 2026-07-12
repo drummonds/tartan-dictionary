@@ -6,7 +6,7 @@ This is the **Maxem Eyewear** sett — one scale-free proportion (`k8n78k8lb8k4l
 [GKBKWKBGBKWKWKBK](/stripes/gkbkwkbgbkwkwkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Maxem Eyewear](/tartans/maxem-eyewear/) tartan — the named design grouping this sett with its kin.
+Part of the [Maxem Eyewear](/tartans/m/ma/maxem-eyewear/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

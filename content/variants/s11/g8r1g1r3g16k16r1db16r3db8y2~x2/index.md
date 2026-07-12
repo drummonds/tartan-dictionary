@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
+- name: "Cameron of Erracht"
+  url: "/families/cameron-of-erracht/"
+- name: "Cameron of Erracht"
+  url: "/tartans/c/ca/cameron-of-erracht/"
 - name: "Cameron of Erracht"
   url: "/setts/g8r1g1r3g16k16r1db16r3db8y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r1g1r3g16k16r1db16r3db8y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRKGRGRG](/stripes/gbrbrkgrgrg/).
+
+Part of the [Cameron of Erracht](/tartans/c/ca/cameron-of-erracht/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

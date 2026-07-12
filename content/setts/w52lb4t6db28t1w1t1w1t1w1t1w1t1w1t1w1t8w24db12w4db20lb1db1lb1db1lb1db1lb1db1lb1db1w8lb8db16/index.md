@@ -6,6 +6,8 @@ This is the **Lake Superior Ice Water Mansion** sett — one scale-free proporti
 [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Lake Superior](/tartans/l/la/lake-superior/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

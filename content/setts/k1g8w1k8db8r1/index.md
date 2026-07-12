@@ -7,7 +7,7 @@ This is the **Syme** sett — one scale-free proportion (`k1g8w1k8db8r1`), colou
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [Leslie Hunting](/tartans/leslie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Leslie Hunting](/tartans/l/le/leslie-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Marchant** sett — one scale-free proportion (`dg15k8db15k8dg23ki
 [GKBKGKW](/stripes/gkbkgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Marchant](/tartans/m/ma/marchant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

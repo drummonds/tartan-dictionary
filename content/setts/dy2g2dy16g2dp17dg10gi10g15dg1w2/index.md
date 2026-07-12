@@ -6,7 +6,7 @@ This is the **Grewar (Name)** sett — one scale-free proportion (`dy2g2dy16g2dp
 [GGGGBGGGGW](/stripes/ggggbggggw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Grewar](/tartans/grewar/) tartan — the named design grouping this sett with its kin.
+Part of the [Grewar](/tartans/g/gr/grewar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

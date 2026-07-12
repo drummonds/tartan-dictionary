@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Romsdal"
+  url: "/tartans/r/ro/romsdal-2/"
 - name: "Romsdal District Tartan"
   url: "/setts/g40k10r7k10r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40k10r7k10r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKR](/stripes/gkrkr/).
+
+Part of the [Romsdal](/tartans/r/ro/romsdal-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

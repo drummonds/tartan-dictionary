@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Welsh Assembly"
+  url: "/tartans/w/we/welsh-assembly/"
 - name: "Welsh Assembly (Fashion)"
   url: "/setts/g5n9g4w5g30r2g4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5n9g4w5g30r2g4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGRGR](/stripes/gbgwgrgr/).
+
+Part of the [Welsh Assembly](/tartans/w/we/welsh-assembly/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

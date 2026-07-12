@@ -6,6 +6,8 @@ This is the **Campbell Red** sett — one scale-free proportion (`r3k1g21k19db19
 [RKGKBKBKBKGKW](/stripes/rkgkbkbkbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell](/tartans/c/ca/campbell-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Shrek** sett — one scale-free proportion (`dy4dg3dy30y12dg5lg4dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Shrek](/tartans/s/sh/shrek/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Chang-Miller (Personal)** sett — one scale-free proportion (`r23
 [RBRRRBRBKY](/stripes/rbrrrbrbky/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Chang-Miller](/tartans/c/ch/chang-miller/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

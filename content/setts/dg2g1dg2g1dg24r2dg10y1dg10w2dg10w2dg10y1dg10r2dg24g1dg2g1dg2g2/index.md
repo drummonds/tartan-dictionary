@@ -6,6 +6,8 @@ This is the **Womens Royal Army Corps Assoc.** sett — one scale-free proportio
 [GGGGGGRGGGWGWGGGRGGGGG](/stripes/ggggggrgggwgwgggrggggg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Womens Royal Army Corps Assoc.](/tartans/w/wo/womens-royal-army-corps-assoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

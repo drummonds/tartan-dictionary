@@ -6,6 +6,8 @@ This is the **Blaylock** sett — one scale-free proportion (`k4w2db8w3r16k2r5y2
 [KWBWRKRGRW](/stripes/kwbwrkrgrw/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
+Part of the [Blaylock](/tartans/b/bl/blaylock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

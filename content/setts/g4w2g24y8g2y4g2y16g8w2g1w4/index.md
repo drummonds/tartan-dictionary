@@ -6,6 +6,8 @@ This is the **Australian Spirit** sett — one scale-free proportion (`g4w2g24y8
 [GWGGGGGGGWGW](/stripes/gwgggggggwgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Australian Spirit](/tartans/a/au/australian-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

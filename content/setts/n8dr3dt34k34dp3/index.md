@@ -6,6 +6,8 @@ This is the **Passion of Scotland, Pewter (Fashion** sett — one scale-free pro
 [BBBKB](/stripes/bbbkb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Passion of Scotland Pewter](/tartans/p/pa/passion-of-scotland-pewter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

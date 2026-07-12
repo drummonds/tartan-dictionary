@@ -6,6 +6,8 @@ This is the **Duke of Sussex (Earl of Inverness)** sett — one scale-free propo
 [RGWGYGYR](/stripes/rgwgygyr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Duke of Sussex](/tartans/d/du/duke-of-sussex-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

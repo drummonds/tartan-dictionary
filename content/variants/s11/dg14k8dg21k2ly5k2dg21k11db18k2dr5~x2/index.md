@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "de Vere-Austin"
+  url: "/tartans/d/de/de-vere-austin/"
 - name: "de Vere-Austin (Clan)"
   url: "/setts/dg14k8dg21k2ly5k2dg21k11db18k2dr5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg14k8dg21k2ly5k2dg21k11db18k2dr5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKYKGKG](/stripes/bkbkgkykgkg/).
+
+Part of the [de Vere-Austin](/tartans/d/de/de-vere-austin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

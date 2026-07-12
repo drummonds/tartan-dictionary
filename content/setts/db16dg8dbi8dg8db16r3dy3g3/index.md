@@ -6,7 +6,7 @@ This is the **Glen Erin Canadian Tartan** sett — one scale-free proportion (`d
 [BGBGBRGG](/stripes/bgbgbrgg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Glen Erin](/tartans/glen-erin/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Erin](/tartans/g/gl/glen-erin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

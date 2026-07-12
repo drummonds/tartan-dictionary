@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Moskyok-Collins"
-  url: "/tartans/moskyok-collins/"
+  url: "/tartans/m/mo/moskyok-collins/"
 - name: "Moskyok-Collins (Personal)"
   url: "/setts/y6w2n4lb1dt6lb1t40lb1dt6lb1n4w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y6w2n4lb1dt6lb1t40lb1dt6lb1n4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWBWBWBW](/stripes/gwbwbwbwbwbw/).
 
-Part of the [Moskyok-Collins](/tartans/moskyok-collins/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moskyok-Collins](/tartans/m/mo/moskyok-collins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

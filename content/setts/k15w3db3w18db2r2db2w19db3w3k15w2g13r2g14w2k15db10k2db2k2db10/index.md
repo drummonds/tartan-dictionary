@@ -6,6 +6,8 @@ This is the **Colquhoun Dress Clan Tartan** sett — one scale-free proportion (
 [BKBKBKWGRGWKWBWBRBWBWK](/stripes/bkbkbkwgrgwkwbwbrbwbwk/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Colquhoun Dress](/tartans/c/co/colquhoun-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

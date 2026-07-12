@@ -6,6 +6,8 @@ This is the **Hobkirk** sett — one scale-free proportion (`t5w1o9t5r4t5g20y1g1
 [BWRBRBGGGGGGGBRBRW](/stripes/bwrbrbgggggggbrbrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hobkirk](/tartans/h/ho/hobkirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

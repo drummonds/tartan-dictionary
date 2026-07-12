@@ -6,6 +6,8 @@ This is the **MacInnes Hunting Dress Clan Tartan** sett — one scale-free propo
 [RKWRKBKBKGGWBW](/stripes/rkwrkbkbkggwbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacInnes Hunting Dress](/tartans/m/ma/macinnes-hunting-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

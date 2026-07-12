@@ -6,6 +6,8 @@ This is the **Aberfeldy** sett — one scale-free proportion (`w2dg2r2dg16t2k13r
 [WBKWBRBRKBGRGW](/stripes/wbkwbrbrkbgrgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Aberfeldy](/tartans/a/ab/aberfeldy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

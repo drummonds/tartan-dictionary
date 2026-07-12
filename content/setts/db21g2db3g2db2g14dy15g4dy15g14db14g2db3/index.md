@@ -6,6 +6,8 @@ This is the **Montmorency Family Tartan** sett — one scale-free proportion (`d
 [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Montmorency](/tartans/m/mo/montmorency-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heart of Midlothian Football Club"
+  url: "/tartans/h/he/heart-of-midlothian-football-club/"
+- name: "Heart of Midlothian Football Club"
   url: "/setts/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWRWRKWBWKRWRWR](/stripes/grwrwrkwbwkrwrwr/).
+
+Part of the [Heart of Midlothian Football Club](/tartans/h/he/heart-of-midlothian-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

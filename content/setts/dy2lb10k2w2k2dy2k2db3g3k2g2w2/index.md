@@ -6,6 +6,8 @@ This is the **MacSheehy** sett — one scale-free proportion (`dy2lb10k2w2k2dy2k
 [GWKWKGKBGKGW](/stripes/gwkwkgkbgkgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacSheehy](/tartans/m/ma/macsheehy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

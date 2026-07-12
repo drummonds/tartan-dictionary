@@ -6,7 +6,7 @@ This is the **Tokyo Bluebells (Corporate)** sett — one scale-free proportion (
 [BRBRBKBW](/stripes/brbrbkbw/). It is recorded as a single **variant**, below.
 First attested **~1995**.
 
-Part of the [Tokyo Bluebells](/tartans/tokyo-bluebells/) tartan — the named design grouping this sett with its kin.
+Part of the [Tokyo Bluebells](/tartans/t/to/tokyo-bluebells/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

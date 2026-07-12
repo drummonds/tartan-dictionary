@@ -6,7 +6,7 @@ This is the **Stewart of Appin Hunting Clan Tartan** sett — one scale-free pro
 [BRBWGGRGRG](/stripes/brbwggrgrg/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Stewart of Appin Hunting](/tartans/stewart-of-appin-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Appin Hunting](/tartans/s/st/stewart-of-appin-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

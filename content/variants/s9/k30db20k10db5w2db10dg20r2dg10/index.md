@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cailleach"
+  url: "/tartans/c/ca/cailleach/"
+- name: "Cailleach"
   url: "/setts/k30db20k10db5w2db10dg20r2dg10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k30db20k10db5w2db10dg20r2dg10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBWBKBK](/stripes/grgbwbkbk/).
+
+Part of the [Cailleach](/tartans/c/ca/cailleach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

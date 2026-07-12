@@ -6,6 +6,8 @@ This is the **MacKessog Glebe (Commemorative)** sett — one scale-free proporti
 [BGYGBWBGYGR](/stripes/bgygbwbgygr/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [MacKessog Glebe](/tartans/m/ma/mackessog-glebe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

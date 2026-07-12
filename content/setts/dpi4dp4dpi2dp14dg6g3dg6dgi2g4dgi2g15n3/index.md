@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Heather (Corporate)** sett — one scale-free pro
 [BBBBGGGGGGGB](/stripes/bbbbgggggggb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Kinloch Anderson Heather](/tartans/k/ki/kinloch-anderson-heather-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

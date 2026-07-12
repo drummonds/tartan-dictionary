@@ -6,6 +6,8 @@ This is the **Strathtay** sett — one scale-free proportion (`lb6dg2lb2dg5dr20o
 [BGRRRRBRBGWGW](/stripes/bgrrrrbrbgwgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Strathtay](/tartans/s/st/strathtay-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

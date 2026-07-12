@@ -6,6 +6,8 @@ This is the **Henderson Dress (Dance)** sett — one scale-free proportion (`w1b
 [WBWBWKWKY](/stripes/wbwbwkwky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Henderson Dress](/tartans/h/he/henderson-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

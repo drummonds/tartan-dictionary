@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wild Rose"
+  url: "/tartans/w/wi/wild-rose/"
 - name: "Wild Rose (Commemorative)"
   url: "/setts/dp12n3r13dp4r10w2lb18n22r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp12n3r13dp4r10w2lb18n22r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRWWBR](/stripes/bbrbrwwbr/).
+
+Part of the [Wild Rose](/tartans/w/wi/wild-rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

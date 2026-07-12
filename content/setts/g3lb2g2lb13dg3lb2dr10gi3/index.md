@@ -6,6 +6,8 @@ This is the **Manitoba Dress (Dance)** sett — one scale-free proportion (`g3lb
 [GBWGWGWG](/stripes/gbwgwgwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Manitoba Dress](/tartans/m/ma/manitoba-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

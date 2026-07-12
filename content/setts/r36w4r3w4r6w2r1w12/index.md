@@ -7,6 +7,8 @@ This is the **Menzies Dress** sett — one scale-free proportion (`r36w4r3w4r6w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
+Part of the [Menzies Dress](/tartans/m/me/menzies-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Brithwe Dewi Sant (Welsh)** sett — one scale-free proportion (`d
 [GRGRGWGRGRG](/stripes/grgrgwgrgrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Brithwe Dewi Sant](/tartans/b/br/brithwe-dewi-sant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

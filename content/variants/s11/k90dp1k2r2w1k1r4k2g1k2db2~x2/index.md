@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "CoVASS"
+  url: "/tartans/c/co/covass/"
 - name: "CoVASS (Corporate)"
   url: "/setts/k90dp1k2r2w1k1r4k2g1k2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k90dp1k2r2w1k1r4k2g1k2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKWRKBK](/stripes/bkgkrkwrkbk/).
+
+Part of the [CoVASS](/tartans/c/co/covass/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

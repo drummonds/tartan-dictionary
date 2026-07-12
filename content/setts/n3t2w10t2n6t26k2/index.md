@@ -6,6 +6,8 @@ This is the **MacLintock #2** sett — one scale-free proportion (`n3t2w10t2n6t2
 [BBWBBBK](/stripes/bbwbbbk/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [MacLintock](/tartans/m/ma/maclintock-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Cameron of Locheil** sett — one scale-free proportion (`r6g3r6db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1764**.
 
+Part of the [Cameron of Locheil](/tartans/c/ca/cameron-of-locheil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

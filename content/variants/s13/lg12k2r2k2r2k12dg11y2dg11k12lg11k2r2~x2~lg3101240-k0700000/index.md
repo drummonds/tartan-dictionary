@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "92nd Regiment Drummers'"
+  url: "/tartans/0-9/0-9/92nd-regiment-drummers/"
 - name: "92nd Regiment Drummers' Plaid (Mil.)"
   url: "/setts/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKYKGGGKRKRKY](/stripes/rkykgggkrkrky/).
+
+Part of the [92nd Regiment Drummers'](/tartans/0-9/0-9/92nd-regiment-drummers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Ballindalloch (Estate Check)** sett — one scale-free proportion 
 [GYGYGYGY](/stripes/gygygygy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Ballindalloch](/tartans/b/ba/ballindalloch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

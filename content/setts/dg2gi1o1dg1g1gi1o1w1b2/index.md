@@ -6,6 +6,8 @@ This is the **Stirling** sett — one scale-free proportion (`dg2gi1o1dg1g1gi1o1
 [BWRGGGRGG](/stripes/bwrgggrgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stirling](/tartans/s/st/stirling-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

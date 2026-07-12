@@ -6,7 +6,7 @@ This is the **Pride of Lorient (Fashion)** sett — one scale-free proportion (`
 [RWBWBWBWBBBBBBBBW](/stripes/rwbwbwbwbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Pride of Lorient](/tartans/pride-of-lorient/) tartan — the named design grouping this sett with its kin.
+Part of the [Pride of Lorient](/tartans/p/pr/pride-of-lorient/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Unidentified No 115** sett — one scale-free proportion (`db10k6l
 [BKWGKGWK](/stripes/bkwgkgwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 115](/tartans/u/un/unidentified-no-115/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

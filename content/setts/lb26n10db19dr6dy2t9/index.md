@@ -6,6 +6,8 @@ This is the **Meeson Formal** sett — one scale-free proportion (`lb26n10db19dr
 [BGBBBW](/stripes/bgbbbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Meeson Formal](/tartans/m/me/meeson-formal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cree"
-  url: "/tartans/cree-2/"
+  url: "/tartans/c/cr/cree-2/"
 - name: "Cree Clan Tartan"
   url: "/setts/y3do22db2k7y3k2w3k2g7r5k3r3w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3do22db2k7y3k2w3k2g7r5k3r3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBKGKWKGRKRW](/stripes/gbbkgkwkgrkrw/).
 
-Part of the [Cree](/tartans/cree-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cree](/tartans/c/cr/cree-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Justus Hunting"
-  url: "/tartans/justus-hunting/"
+  url: "/tartans/j/ju/justus-hunting/"
 - name: "Justus Hunting (Personal)"
   url: "/setts/db1dg4dr1dg1lo1dg4db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1dg4dr1dg1lo1dg4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGYGB](/stripes/bgbgygb/).
 
-Part of the [Justus Hunting](/tartans/justus-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Justus Hunting](/tartans/j/ju/justus-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Phillips"
+  url: "/clan/phillips/"
+- name: "Phillips"
+  url: "/tartans/p/ph/phillips/"
 - name: "Phillips Name Tartan"
   url: "/setts/do40t2dp2t2do2dpi5dp20t2dp20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do40t2dp2t2do2dpi5dp20t2dp20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBB](/stripes/bbbbbbbbb/).
+
+Part of the [Phillips](/tartans/p/ph/phillips/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

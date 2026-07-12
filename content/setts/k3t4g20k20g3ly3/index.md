@@ -6,6 +6,8 @@ This is the **Michaluk (Personal)** sett — one scale-free proportion (`k3t4g20
 [KBGKGY](/stripes/kbgkgy/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Michaluk](/tartans/m/mi/michaluk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

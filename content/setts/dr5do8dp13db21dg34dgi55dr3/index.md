@@ -6,6 +6,8 @@ This is the **Uitwaaien Papi (Personal)** sett — one scale-free proportion (`d
 [BBBBGGB](/stripes/bbbbggb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Uitwaaien Papi](/tartans/u/ui/uitwaaien-papi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

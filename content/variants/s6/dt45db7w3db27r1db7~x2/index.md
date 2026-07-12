@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Navy/Edzell"
+  url: "/tartans/u/u/u-s-navy-edzell/"
 - name: "U.S. Navy/Edzell (Military)"
   url: "/setts/dt45db7w3db27r1db7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt45db7w3db27r1db7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
+
+Part of the [U.S. Navy/Edzell](/tartans/u/u/u-s-navy-edzell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

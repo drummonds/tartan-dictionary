@@ -6,7 +6,7 @@ This is the **Cochrane (1984) Clan Tartan** sett — one scale-free proportion (
 [GBRBRKGRGRGRGRG](/stripes/gbrbrkgrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Cochrane](/tartans/cochrane/) tartan — the named design grouping this sett with its kin.
+Part of the [Cochrane](/tartans/c/co/cochrane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

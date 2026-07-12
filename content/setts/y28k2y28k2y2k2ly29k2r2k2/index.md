@@ -6,6 +6,8 @@ This is the **Ulster Irish District Tartan** sett — one scale-free proportion 
 [GKGKGKYKRK](/stripes/gkgkgkykrk/). It is recorded as a single **variant**, below.
 First attested **~1590**.
 
+Part of the [Ulster](/tartans/u/ul/ulster-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

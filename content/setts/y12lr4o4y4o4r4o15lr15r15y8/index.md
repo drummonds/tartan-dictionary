@@ -6,6 +6,8 @@ This is the **Glasgow's Miles Better (Corporate)** sett — one scale-free propo
 [GRYRRRGRYG](/stripes/gryrrrgryg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glasgow's Miles Better](/tartans/g/gl/glasgow-s-miles-better-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Doyle"
+  url: "/tartans/d/do/doyle-2/"
+- name: "Doyle"
   url: "/setts/g24r9g4dg19y2dg6g7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g24r9g4dg19y2dg6g7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGRG](/stripes/gggggrg/).
+
+Part of the [Doyle](/tartans/d/do/doyle-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

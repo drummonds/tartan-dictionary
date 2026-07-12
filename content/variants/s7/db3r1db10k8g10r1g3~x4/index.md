@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blair"
-  url: "/tartans/blair/"
+  url: "/tartans/b/bl/blair/"
 - name: "Blair Clan Tartan"
   url: "/setts/db3r1db10k8g10r1g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3r1db10k8g10r1g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
-Part of the [Blair](/tartans/blair/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blair](/tartans/b/bl/blair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

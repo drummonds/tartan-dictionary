@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Columba"
+  url: "/clan/columba/"
+- name: "Columba of Iona"
+  url: "/families/columba-of-iona/"
+- name: "Columba of Iona"
+  url: "/tartans/c/co/columba-of-iona/"
 - name: "Columba of Iona (School)"
   url: "/setts/db14o3db14dy6db14w4db14y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db14o3db14dy6db14w4db14y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBG](/stripes/brbgbwbg/).
+
+Part of the [Columba of Iona](/tartans/c/co/columba-of-iona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Auchairne Grey** sett — one scale-free proportion (`r13o3r4o56n4
 [RBRRRR](/stripes/rbrrrr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Auchairne](/tartans/a/au/auchairne-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

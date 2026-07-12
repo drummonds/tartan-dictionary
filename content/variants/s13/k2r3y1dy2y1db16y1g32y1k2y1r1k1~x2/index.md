@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Neumann"
+  url: "/tartans/n/ne/neumann/"
 - name: "Neumann - German Pipe Smokers (Corp)"
   url: "/setts/k2r3y1dy2y1db16y1g32y1k2y1r1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2r3y1dy2y1db16y1g32y1k2y1r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGGGBGGGKGRK](/stripes/krgggbgggkgrk/).
+
+Part of the [Neumann](/tartans/n/ne/neumann/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

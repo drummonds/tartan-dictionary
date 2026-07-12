@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Tweed"
+  url: "/tartans/u/un/unidentified-tweed/"
+- name: "Unidentified Tweed"
   url: "/setts/db4w1db12g12db1g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w1db12g12db1g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBG](/stripes/bwbgbg/).
+
+Part of the [Unidentified Tweed](/tartans/u/un/unidentified-tweed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

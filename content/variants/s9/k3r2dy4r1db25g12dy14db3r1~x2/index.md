@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mann"
+  url: "/tartans/m/ma/mann/"
+- name: "Mann"
   url: "/setts/k3r2dy4r1db25g12dy14db3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r2dy4r1db25g12dy14db3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRBGGBR](/stripes/krgrbggbr/).
+
+Part of the [Mann](/tartans/m/ma/mann/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

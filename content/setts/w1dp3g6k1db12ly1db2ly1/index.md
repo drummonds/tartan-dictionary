@@ -6,7 +6,7 @@ This is the **Lambert, Patrice (Personal)** sett — one scale-free proportion (
 [WBGKBYBY](/stripes/wbgkbyby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Lambert, Patrice](/tartans/lambert-patrice/) tartan — the named design grouping this sett with its kin.
+Part of the [Lambert, Patrice](/tartans/l/la/lambert-patrice/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

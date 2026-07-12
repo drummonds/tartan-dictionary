@@ -6,6 +6,8 @@ This is the **MacEwan Arisaid (Dance)** sett — one scale-free proportion (`dr3
 [BKWBKBKBKWKY](/stripes/bkwbkbkbkwky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacEwan Arisaid](/tartans/m/ma/macewan-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

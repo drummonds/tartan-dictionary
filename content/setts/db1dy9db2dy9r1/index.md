@@ -6,6 +6,8 @@ This is the **Brooks Brothers Tattersall Camel** sett — one scale-free proport
 [BGBGR](/stripes/bgbgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Brooks Brothers Tattersall Camel](/tartans/b/br/brooks-brothers-tattersall-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

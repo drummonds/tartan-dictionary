@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oakwood"
+  url: "/tartans/o/oa/oakwood-2/"
 - name: "Oakwood Purple (Fashion)"
   url: "/setts/dr13b2dr2b2dr4m10lr2m2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr13b2dr2b2dr4m10lr2m2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRYR](/stripes/bbbbbryr/).
+
+Part of the [Oakwood](/tartans/o/oa/oakwood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

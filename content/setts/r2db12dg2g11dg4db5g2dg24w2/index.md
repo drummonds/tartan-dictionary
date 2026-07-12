@@ -6,6 +6,8 @@ This is the **Fraser Gathering, Green (1997)** sett — one scale-free proportio
 [RBGGGBGGW](/stripes/rbgggbggw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Fraser Gathering Hunting](/tartans/f/fr/fraser-gathering-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

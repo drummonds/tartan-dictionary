@@ -6,6 +6,8 @@ This is the **Lamont** sett — one scale-free proportion (`dp11o2dp2o2dp2o11g14
 [BRBRBRGW](/stripes/brbrbrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lamont](/tartans/l/la/lamont-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

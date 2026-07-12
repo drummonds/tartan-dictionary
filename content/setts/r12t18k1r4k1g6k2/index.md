@@ -6,6 +6,8 @@ This is the **Confederate** sett — one scale-free proportion (`r12t18k1r4k1g6k
 [KGKRKBR](/stripes/kgkrkbr/). It is recorded as a single **variant**, below.
 First attested **1861**.
 
+Part of the [Confederate](/tartans/c/co/confederate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

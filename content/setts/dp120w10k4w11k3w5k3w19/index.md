@@ -6,6 +6,8 @@ This is the **Menzies Mauve Dress Clan Tartan** sett — one scale-free proporti
 [BWKWKWKW](/stripes/bwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~1870**.
 
+Part of the [Menzies Mauve Dress](/tartans/m/me/menzies-mauve-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

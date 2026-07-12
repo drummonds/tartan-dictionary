@@ -6,6 +6,8 @@ This is the **MacDonald of Belfinlay** sett — one scale-free proportion (`k8g4
 [KGRGRGRGRK](/stripes/kgrgrgrgrk/). It is recorded as a single **variant**, below.
 First attested **1914**.
 
+Part of the [MacDonald of Belfinlay](/tartans/m/ma/macdonald-of-belfinlay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

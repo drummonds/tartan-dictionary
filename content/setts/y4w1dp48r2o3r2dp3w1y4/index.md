@@ -6,7 +6,7 @@ This is the **Wedding Day** sett — one scale-free proportion (`y4w1dp48r2o3r2d
 [GWBRRRBWG](/stripes/gwbrrrbwg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Wedding Day](/tartans/wedding-day/) tartan — the named design grouping this sett with its kin.
+Part of the [Wedding Day](/tartans/w/we/wedding-day/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Oakhall (Corporate)** sett — one scale-free proportion (`k3dr48g
 [KBGBGGGK](/stripes/kbgbgggk/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Oakhall](/tartans/o/oa/oakhall-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

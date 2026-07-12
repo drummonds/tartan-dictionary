@@ -6,6 +6,8 @@ This is the **Cercle de Fermieres de St-Elie . . .** sett — one scale-free pro
 [RYBRGYR](/stripes/rybrgyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Cercle de Fermieres de St-Elie . . .](/tartans/c/ce/cercle-de-fermieres-de-st-elie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

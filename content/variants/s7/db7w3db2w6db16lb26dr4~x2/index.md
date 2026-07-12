@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Keela"
+  url: "/tartans/k/ke/keela/"
+- name: "Keela"
   url: "/setts/db7w3db2w6db16lb26dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7w3db2w6db16lb26dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWB](/stripes/bwbwbwb/).
+
+Part of the [Keela](/tartans/k/ke/keela/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

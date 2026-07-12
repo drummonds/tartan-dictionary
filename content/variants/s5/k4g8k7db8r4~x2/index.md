@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Durham"
-  url: "/tartans/durham/"
+  url: "/tartans/d/du/durham/"
 - name: "Durham"
   url: "/setts/k4g8k7db8r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4g8k7db8r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBR](/stripes/kgkbr/).
 
-Part of the [Durham](/tartans/durham/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Durham](/tartans/d/du/durham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

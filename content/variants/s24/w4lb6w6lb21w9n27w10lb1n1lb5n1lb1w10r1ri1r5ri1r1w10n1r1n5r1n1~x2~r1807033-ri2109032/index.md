@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oriflame"
+  url: "/tartans/o/or/oriflame/"
+- name: "Oriflame"
   url: "/setts/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWRRRRRWWBWBWWBWWWWW](/stripes/brbrbwrrrrrwwbwbwwbwwwww/).
+
+Part of the [Oriflame](/tartans/o/or/oriflame/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

@@ -6,6 +6,8 @@ This is the **Ferguson the Astronomer** sett — one scale-free proportion (`r48
 [RGGGKWR](/stripes/rgggkwr/). It is recorded as a single **variant**, below.
 First attested **1776**.
 
+Part of the [Ferguson the Astronomer](/tartans/f/fe/ferguson-the-astronomer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

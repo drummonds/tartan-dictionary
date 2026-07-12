@@ -6,6 +6,8 @@ This is the **Glencross, Tynron (Name)** sett — one scale-free proportion (`r3
 [RGBGGW](/stripes/rgbggw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Glencross, Tynron](/tartans/g/gl/glencross-tynron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

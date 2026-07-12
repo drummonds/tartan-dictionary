@@ -6,6 +6,8 @@ This is the **Recycled Lamb, The** sett — one scale-free proportion (`g15r1g8d
 [GGRBBBBWBBBGRG](/stripes/ggrbbbbwbbbgrg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Recycled Lamb, The](/tartans/r/re/recycled-lamb-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

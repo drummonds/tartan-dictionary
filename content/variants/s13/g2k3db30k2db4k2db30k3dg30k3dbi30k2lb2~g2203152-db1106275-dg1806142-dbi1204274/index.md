@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Davies"
+  url: "/clan/davies/"
+- name: "Davies"
+  url: "/tartans/d/da/davies/"
 - name: "Davies (Welsh Name)"
   url: "/setts/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKGKBKW](/stripes/gkbkbkbkgkbkw/).
+
+Part of the [Davies](/tartans/d/da/davies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

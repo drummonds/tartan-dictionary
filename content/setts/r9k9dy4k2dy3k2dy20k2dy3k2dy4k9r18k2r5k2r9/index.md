@@ -6,6 +6,8 @@ This is the **Aubigny Auld Alliance District Tartan** sett — one scale-free pr
 [RKGKGKGKGKGKRKRKR](/stripes/rkgkgkgkgkgkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Aubigny Auld Alliance](/tartans/a/au/aubigny-auld-alliance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

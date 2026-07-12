@@ -6,6 +6,8 @@ This is the **Royal College of G.P.s (Corporate)** sett — one scale-free propo
 [YBBBGBKY](/stripes/ybbbgbky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Royal College of G.P.s](/tartans/r/ro/royal-college-of-g-p-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

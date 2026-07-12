@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Knockando Woolmill"
-  url: "/tartans/knockando-woolmill/"
+  url: "/tartans/k/kn/knockando-woolmill/"
 - name: "Knockando Woolmill"
   url: "/setts/db16k1r7k1r7k1db7g24y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16k1r7k1r7k1db7g24y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKBGG](/stripes/bkrkrkbgg/).
 
-Part of the [Knockando Woolmill](/tartans/knockando-woolmill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Knockando Woolmill](/tartans/k/kn/knockando-woolmill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

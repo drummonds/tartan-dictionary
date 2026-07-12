@@ -6,6 +6,8 @@ This is the **Fowdar (Personal)** sett — one scale-free proportion (`k9w6k46db
 [GRGRBRBRBKWK](/stripes/grgrbrbrbkwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Fowdar](/tartans/f/fo/fowdar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bartlam"
-  url: "/tartans/bartlam/"
+  url: "/tartans/b/ba/bartlam/"
 - name: "Bartlam (Personal)"
   url: "/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do12db2do2db2do2db12do2db2do2db2do12n12dr2n12do12db11do2db2do2db11do12n12ly2n12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBBBBBBBBBBBYB](/stripes/bbbbbbbbbbbbbbbbbbbbbbyb/).
 
-Part of the [Bartlam](/tartans/bartlam/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bartlam](/tartans/b/ba/bartlam/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

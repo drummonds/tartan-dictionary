@@ -6,6 +6,8 @@ This is the **Kapasi (Personal)** sett — one scale-free proportion (`k12g2k2g2
 [KGKGKGKWKRGYGRKWKGKGKGKW](/stripes/kgkgkgkwkrgygrkwkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Kapasi](/tartans/k/ka/kapasi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

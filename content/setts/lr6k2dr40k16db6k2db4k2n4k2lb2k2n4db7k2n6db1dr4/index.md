@@ -7,6 +7,8 @@ This is the **Breeding** sett — one scale-free proportion (`lr6k2dr40k16db6k2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [Breeding](/tartans/b/br/breeding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

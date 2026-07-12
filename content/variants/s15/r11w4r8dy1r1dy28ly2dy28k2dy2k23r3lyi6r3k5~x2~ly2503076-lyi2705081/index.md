@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Register of Tartans"
-  url: "/tartans/scottish-register-of-tartans/"
+  url: "/tartans/s/sc/scottish-register-of-tartans/"
 - name: "Scottish Register of Tartans (Corp)"
   url: "/setts/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRYRKGKGYGRGRWR](/stripes/kryrkgkgygrgrwr/).
 
-Part of the [Scottish Register of Tartans](/tartans/scottish-register-of-tartans/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Register of Tartans](/tartans/s/sc/scottish-register-of-tartans/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

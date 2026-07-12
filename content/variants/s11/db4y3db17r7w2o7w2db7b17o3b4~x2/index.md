@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Asman Hunting"
+  url: "/tartans/a/as/asman-hunting/"
+- name: "Asman Hunting"
   url: "/setts/db4y3db17r7w2o7w2db7b17o3b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y3db17r7w2o7w2db7b17o3b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRWRWBBRB](/stripes/bgbrwrwbbrb/).
+
+Part of the [Asman Hunting](/tartans/a/as/asman-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

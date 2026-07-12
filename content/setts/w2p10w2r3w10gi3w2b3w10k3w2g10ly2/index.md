@@ -6,6 +6,8 @@ This is the **Morris of Balgonie Arisaid (Personal)** sett — one scale-free pr
 [WBWRWGWBWKWGY](/stripes/wbwrwgwbwkwgy/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Morris of Balgonie Arisaid](/tartans/m/mo/morris-of-balgonie-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

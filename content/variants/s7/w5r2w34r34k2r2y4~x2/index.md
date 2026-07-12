@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cunningham Burgandy Dress"
+  url: "/tartans/c/cu/cunningham-burgandy-dress/"
 - name: "Cunningham Dress Burgundy (Dance)"
   url: "/setts/w5r2w34r34k2r2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5r2w34r34k2r2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRWRW](/stripes/grkrwrw/).
+
+Part of the [Cunningham Burgandy Dress](/tartans/c/cu/cunningham-burgandy-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

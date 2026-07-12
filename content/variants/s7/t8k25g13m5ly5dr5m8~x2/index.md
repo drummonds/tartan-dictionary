@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bro-Menez Are"
+  url: "/tartans/b/br/bro-menez-are/"
 - name: "Bro-Menez Are (Corporate)"
   url: "/setts/t8k25g13m5ly5dr5m8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t8k25g13m5ly5dr5m8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRYBR](/stripes/bkgrybr/).
+
+Part of the [Bro-Menez Are](/tartans/b/br/bro-menez-are/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

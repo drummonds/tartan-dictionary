@@ -6,7 +6,7 @@ This is the **Nickel Lodge Centennial** sett — one scale-free proportion (`n16
 [BGBGBBWGG](/stripes/bgbgbbwgg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [Nickel Lodge Centennial](/tartans/nickel-lodge-centennial/) tartan — the named design grouping this sett with its kin.
+Part of the [Nickel Lodge Centennial](/tartans/n/ni/nickel-lodge-centennial/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Eichelberger Family, Jörg (Personal)** sett — one scale-free pr
 [KRGBGRW](/stripes/krgbgrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Eichelberger Family, Jörg](/tartans/e/ei/eichelberger-family-j-rg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

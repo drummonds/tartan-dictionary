@@ -6,6 +6,8 @@ This is the **MacKintosh Fragment** sett — one scale-free proportion (`r1g14r1
 [RGRGRGW](/stripes/rgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKintosh Fragment](/tartans/m/ma/mackintosh-fragment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

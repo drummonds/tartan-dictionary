@@ -6,6 +6,8 @@ This is the **Red Watch** sett — one scale-free proportion (`k10r3k1`), colour
 [KRK](/stripes/krk/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Red Watch](/tartans/r/re/red-watch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

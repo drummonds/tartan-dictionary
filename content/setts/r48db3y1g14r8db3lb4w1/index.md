@@ -7,7 +7,7 @@ This is the **Prince Charles Cloak** sett — one scale-free proportion (`r48db3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Prince Charles Cloak](/tartans/prince-charles-cloak/) tartan — the named design grouping this sett with its kin.
+Part of the [Prince Charles Cloak](/tartans/p/pr/prince-charles-cloak/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

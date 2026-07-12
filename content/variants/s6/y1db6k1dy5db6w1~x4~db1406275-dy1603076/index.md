@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ancient Atlantic"
+  url: "/tartans/a/an/ancient-atlantic/"
+- name: "Ancient Atlantic"
   url: "/setts/y1db6k1dy5db6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1db6k1dy5db6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGBW](/stripes/gbkgbw/).
+
+Part of the [Ancient Atlantic](/tartans/a/an/ancient-atlantic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

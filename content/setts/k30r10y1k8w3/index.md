@@ -6,6 +6,8 @@ This is the **Union Fire Club Pipes and Drums** sett — one scale-free proporti
 [KRGKW](/stripes/krgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Union Fire Club Pipes and Drums](/tartans/u/un/union-fire-club-pipes-and-drums/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

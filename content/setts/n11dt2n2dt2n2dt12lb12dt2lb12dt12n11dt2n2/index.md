@@ -6,6 +6,8 @@ This is the **Scottish Scouts (1922) (Corporate)** sett — one scale-free propo
 [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/). It is recorded as a single **variant**, below.
 First attested **~1922**.
 
+Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

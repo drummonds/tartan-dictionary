@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNicol Hunting"
-  url: "/tartans/macnicol-hunting/"
+  url: "/tartans/m/ma/macnicol-hunting/"
 - name: "MacNicol Htg (Clan)"
   url: "/setts/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRGKGKWKG](/stripes/bkgkgkbrkrgkgkwkg/).
 
-Part of the [MacNicol Hunting](/tartans/macnicol-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNicol Hunting](/tartans/m/ma/macnicol-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

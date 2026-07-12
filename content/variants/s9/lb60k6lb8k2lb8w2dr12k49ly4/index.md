@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Motherwell F.C."
+  url: "/tartans/m/mo/motherwell-f-c/"
 - name: "Motherwell Football Club. Modern"
   url: "/setts/lb60k6lb8k2lb8w2dr12k49ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb60k6lb8k2lb8w2dr12k49ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWWBKY](/stripes/wkwkwwbky/).
+
+Part of the [Motherwell F.C.](/tartans/m/mo/motherwell-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Brough from Orkney (Name)** sett — one scale-free proportion (`k
 [BKBBKRKBBYBBK](/stripes/bkbbkrkbbybbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Brough from Orkney](/tartans/b/br/brough-from-orkney/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Vosko Family Tartan** sett — one scale-free proportion (`db25k12
 [BKGKRKGKG](/stripes/bkgkrkgkg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [Vosko](/tartans/vosko/) tartan — the named design grouping this sett with its kin.
+Part of the [Vosko](/tartans/v/vo/vosko/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

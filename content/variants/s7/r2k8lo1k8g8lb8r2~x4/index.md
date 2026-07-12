@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brodie Hunting"
-  url: "/tartans/brodie-hunting-2/"
+  url: "/tartans/b/br/brodie-hunting-2/"
 - name: "Brodie Hunting (Clan)"
   url: "/setts/r2k8lo1k8g8lb8r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k8lo1k8g8lb8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKYKGWR](/stripes/rkykgwr/).
 
-Part of the [Brodie Hunting](/tartans/brodie-hunting-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brodie Hunting](/tartans/b/br/brodie-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

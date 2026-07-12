@@ -6,6 +6,8 @@ This is the **Summerville Presbyterian Church (Cor** sett — one scale-free pro
 [BRGRGWBRBRBWRBRBRBRBRBRBRGBGR](/stripes/brgrgwbrbrbwrbrbrbrbrbrbrgbgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Summerville Presbyterian Church (Cor](/tartans/s/su/summerville-presbyterian-church-cor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

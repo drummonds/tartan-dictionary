@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Daks"
+  url: "/tartans/d/da/daks-15/"
 - name: "Daks - Chino Check - B.11155"
   url: "/setts/oi22o3k7y2k2n2k2db10dy6k2dy3oi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/oi22o3k7y2k2n2k2db10dy6k2dy3oi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGBKBKGKRR](/stripes/rgkgbkbkgkrr/).
+
+Part of the [Daks](/tartans/d/da/daks-15/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

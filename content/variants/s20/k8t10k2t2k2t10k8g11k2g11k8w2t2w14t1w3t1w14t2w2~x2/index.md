@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell, The 42nd Dress"
+  url: "/tartans/c/ca/campbell-the-42nd-dress/"
 - name: "Campbell, The 42nd Dress"
   url: "/setts/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/).
+
+Part of the [Campbell, The 42nd Dress](/tartans/c/ca/campbell-the-42nd-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

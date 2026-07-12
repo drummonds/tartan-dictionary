@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Disciples of Christ MM"
+  url: "/tartans/d/di/disciples-of-christ-mm/"
 - name: "Disciples of Christ Motorcycle Ministry (Switzerland)"
   url: "/setts/k22g21k5g12lb12n3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k22g21k5g12lb12n3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGWBW](/stripes/kgkgwbw/).
+
+Part of the [Disciples of Christ MM](/tartans/d/di/disciples-of-christ-mm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

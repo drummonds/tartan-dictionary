@@ -6,7 +6,7 @@ This is the **Gretna Gold Fashion Tartan** sett — one scale-free proportion (`
 [BRBBKBWBKBBRBR](/stripes/brbbkbwbkbbrbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Gretna Gold](/tartans/gretna-gold/) tartan — the named design grouping this sett with its kin.
+Part of the [Gretna Gold](/tartans/g/gr/gretna-gold/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

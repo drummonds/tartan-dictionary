@@ -7,6 +7,8 @@ This is the **Baxter (Clan)** sett — one scale-free proportion (`w2r16k1lb2k1y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1856**.
 
+Part of the [Baxter of Balgavies](/tartans/b/ba/baxter-of-balgavies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

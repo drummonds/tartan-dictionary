@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Layton"
+  url: "/tartans/l/la/layton/"
 - name: "Layton (Name)"
   url: "/setts/dg4r3dg24k1w7k1g24ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4r3dg24k1w7k1g24ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWKGY](/stripes/grgkwkgy/).
+
+Part of the [Layton](/tartans/l/la/layton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

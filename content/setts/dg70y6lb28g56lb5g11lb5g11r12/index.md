@@ -6,6 +6,8 @@ This is the **Dalwhinnie** sett — one scale-free proportion (`dg70y6lb28g56lb5
 [GGWGWGWGR](/stripes/ggwgwgwgr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Dalwhinnie](/tartans/d/da/dalwhinnie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

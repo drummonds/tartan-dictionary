@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Johnnie Walker"
+  url: "/tartans/j/jo/johnnie-walker/"
 - name: "Johnnie Walker (2003) (Corporate)"
   url: "/setts/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKYKYKBBK](/stripes/bbbbkykykbbk/).
+
+Part of the [Johnnie Walker](/tartans/j/jo/johnnie-walker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

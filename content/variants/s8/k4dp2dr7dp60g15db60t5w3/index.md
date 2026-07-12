@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Albannach"
-  url: "/tartans/albannach/"
+  url: "/tartans/a/al/albannach/"
 - name: "Albannach (Corporate)"
   url: "/setts/k4dp2dr7dp60g15db60t5w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4dp2dr7dp60g15db60t5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBBGBBW](/stripes/kbbbgbbw/).
 
-Part of the [Albannach](/tartans/albannach/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Albannach](/tartans/a/al/albannach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

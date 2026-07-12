@@ -6,6 +6,8 @@ This is the **Staley (2014)** sett — one scale-free proportion (`db9w2dg25do10
 [BKBGWB](/stripes/bkbgwb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Staley](/tartans/s/st/staley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

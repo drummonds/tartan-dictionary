@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "ABF The Soldiers' Charity"
+  url: "/tartans/a/ab/abf-the-soldiers-charity/"
+- name: "ABF The Soldiers' Charity"
   url: "/setts/k25g29b24r2g11r2b24g29k25dy4k5r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k25g29b24r2g11r2b24g29k25dy4k5r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBRGRBGKGKR](/stripes/kgbrgrbgkgkr/).
+
+Part of the [ABF The Soldiers' Charity](/tartans/a/ab/abf-the-soldiers-charity/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

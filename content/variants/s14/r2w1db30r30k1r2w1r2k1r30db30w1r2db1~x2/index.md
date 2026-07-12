@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Knights Templar"
+  url: "/tartans/k/kn/knights-templar/"
 - name: "Knights Templar - Grand Priory"
   url: "/setts/r2w1db30r30k1r2w1r2k1r30db30w1r2db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2w1db30r30k1r2w1r2k1r30db30w1r2db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBRKRWRKRBWR](/stripes/brwbrkrwrkrbwr/).
+
+Part of the [Knights Templar](/tartans/k/kn/knights-templar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

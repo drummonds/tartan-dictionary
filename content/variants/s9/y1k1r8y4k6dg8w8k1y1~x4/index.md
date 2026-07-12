@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham, Red Dress"
+  url: "/tartans/g/gr/graham-red-dress/"
 - name: "Graham, Red Dress"
   url: "/setts/y1k1r8y4k6dg8w8k1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1k1r8y4k6dg8w8k1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGKGWKG](/stripes/gkrgkgwkg/).
+
+Part of the [Graham, Red Dress](/tartans/g/gr/graham-red-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

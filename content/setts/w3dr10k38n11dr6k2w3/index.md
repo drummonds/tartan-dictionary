@@ -6,7 +6,7 @@ This is the **Phantom** sett — one scale-free proportion (`w3dr10k38n11dr6k2w3
 [WBKBBKW](/stripes/wbkbbkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Phantom](/tartans/phantom/) tartan — the named design grouping this sett with its kin.
+Part of the [Phantom](/tartans/p/ph/phantom/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Nutwood** sett — one scale-free proportion (`r1y60t1`), colour o
 [BGR](/stripes/bgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Nutwood](/tartans/n/nu/nutwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Burt Family** sett — one scale-free proportion (`dp2dg13db8dg3db
 [BGBGBBBBR](/stripes/bgbgbbbbr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Burt](/tartans/b/bu/burt-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

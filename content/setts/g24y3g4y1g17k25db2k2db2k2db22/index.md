@@ -6,6 +6,8 @@ This is the **Hunting, The** sett — one scale-free proportion (`g24y3g4y1g17k2
 [BKBKBKGGGGG](/stripes/bkbkbkggggg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Hunting, The](/tartans/h/hu/hunting-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

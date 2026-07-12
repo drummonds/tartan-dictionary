@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millarkie, Will"
+  url: "/tartans/m/mi/millarkie-will/"
 - name: "Millarkie, Will (Personal)"
   url: "/setts/k15db10k15dr7k15w5k15db10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15db10k15dr7k15w5k15db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBKBK](/stripes/bkwkbkbk/).
+
+Part of the [Millarkie, Will](/tartans/m/mi/millarkie-will/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Thorntons Law Corporate Tartan** sett — one scale-free proportio
 [BGRW](/stripes/bgrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Thorntons Law](/tartans/t/th/thorntons-law/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

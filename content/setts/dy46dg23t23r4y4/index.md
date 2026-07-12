@@ -6,6 +6,8 @@ This is the **McMoosie Htg (Fashion)** sett — one scale-free proportion (`dy46
 [GGBRG](/stripes/ggbrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [McMoosie Hunting](/tartans/m/mc/mcmoosie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

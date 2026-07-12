@@ -6,6 +6,8 @@ This is the **Ferguson of Atholl Clan** sett — one scale-free proportion (`t24
 [BKGRGKW](/stripes/bkgrgkw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Ferguson of Atholl](/tartans/f/fe/ferguson-of-atholl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

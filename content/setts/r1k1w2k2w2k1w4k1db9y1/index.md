@@ -6,6 +6,8 @@ This is the **Thom(p)son** sett — one scale-free proportion (`r1k1w2k2w2k1w4k1
 [GBKWKWKWKR](/stripes/gbkwkwkwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Thomson](/tartans/t/th/thomson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

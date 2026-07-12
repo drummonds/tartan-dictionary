@@ -6,6 +6,8 @@ This is the **Loch Leven, Check** sett — one scale-free proportion (`k2g13k11l
 [KGKWWK](/stripes/kgkwwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Loch Leven, Check](/tartans/l/lo/loch-leven-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

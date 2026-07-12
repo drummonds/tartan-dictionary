@@ -6,6 +6,8 @@ This is the **Alister Grant 'Mohr', the Laird's Champion** sett — one scale-fr
 [GKYKRYR](/stripes/gkykryr/). It is recorded as a single **variant**, below.
 First attested **1714**.
 
+Part of the [Alister Grant 'Mohr', the Laird's Champion](/tartans/a/al/alister-grant-mohr-the-laird-s-champion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

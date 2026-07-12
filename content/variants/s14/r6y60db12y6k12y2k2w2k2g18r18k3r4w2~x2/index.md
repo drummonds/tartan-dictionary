@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria"
+  url: "/tartans/v/vi/victoria-3/"
 - name: "Victoria (Yellow)"
   url: "/setts/r6y60db12y6k12y2k2w2k2g18r18k3r4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6y60db12y6k12y2k2w2k2g18r18k3r4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGKGKWKGRKRW](/stripes/rgbgkgkwkgrkrw/).
+
+Part of the [Victoria](/tartans/v/vi/victoria-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Highland Dusk** sett — one scale-free proportion (`n43dbi2n2r1n1
 [BBBRBBBBBWB](/stripes/bbbrbbbbbwb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Highland Dusk](/tartans/h/hi/highland-dusk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

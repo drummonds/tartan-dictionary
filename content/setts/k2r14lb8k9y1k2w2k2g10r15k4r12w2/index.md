@@ -6,6 +6,8 @@ This is the **Harden (Name)** sett — one scale-free proportion (`k2r14lb8k9y1k
 [KRWKGKWKGRKRW](/stripes/krwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Harden](/tartans/h/ha/harden-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

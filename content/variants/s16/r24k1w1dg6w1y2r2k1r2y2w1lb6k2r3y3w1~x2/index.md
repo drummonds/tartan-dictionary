@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hong Kong Police Pipe Band"
+  url: "/tartans/h/ho/hong-kong-police-pipe-band/"
+- name: "Hong Kong Police Pipe Band"
   url: "/setts/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWGRKRGWWKRGWGRKWWGRKRGWGWKR](/stripes/kwgwgrkrgwwkrgwgrkwwgrkrgwgwkr/).
+
+Part of the [Hong Kong Police Pipe Band](/tartans/h/ho/hong-kong-police-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Sullivan-Beare"
+  url: "/tartans/o/o/o-sullivan-beare-2/"
 - name: "O'Sullivan-Beare (Family)"
   url: "/setts/lb40k3lb3k3lb3n8k24n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb40k3lb3k3lb3n8k24n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWKWKW](/stripes/bkbwkwkw/).
+
+Part of the [O'Sullivan-Beare](/tartans/o/o/o-sullivan-beare-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

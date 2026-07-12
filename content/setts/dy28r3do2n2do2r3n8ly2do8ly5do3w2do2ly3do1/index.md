@@ -6,6 +6,8 @@ This is the **Caithness District Tartan** sett — one scale-free proportion (`d
 [BYBWBYBYBRBBBRG](/stripes/bybwbybybrbbbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Caithness](/tartans/c/ca/caithness-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

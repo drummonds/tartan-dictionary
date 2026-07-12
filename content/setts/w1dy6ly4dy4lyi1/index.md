@@ -6,6 +6,8 @@ This is the **Amber Rose (Fashion)** sett — one scale-free proportion (`w1dy6l
 [WGYGY](/stripes/wgygy/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Amber Rose](/tartans/a/am/amber-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

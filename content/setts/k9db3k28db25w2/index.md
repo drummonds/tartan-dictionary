@@ -6,6 +6,8 @@ This is the **Press & Journal** sett — one scale-free proportion (`k9db3k28db2
 [KBKBW](/stripes/kbkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Press & Journal](/tartans/p/pr/press-journal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

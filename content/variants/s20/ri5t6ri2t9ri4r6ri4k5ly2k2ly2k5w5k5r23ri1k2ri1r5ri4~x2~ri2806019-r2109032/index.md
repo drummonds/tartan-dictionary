@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood Red Anderson"
+  url: "/tartans/w/we/westwood-red-anderson/"
 - name: "Westwood Red Anderson (Fashion)"
   url: "/setts/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/).
+
+Part of the [Westwood Red Anderson](/tartans/w/we/westwood-red-anderson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Daniel Melrose"
+  url: "/tartans/d/da/daniel-melrose/"
 - name: "Daniel Melrose Family Tartan"
   url: "/setts/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGBGBGKBRBRBRBRKY](/stripes/wkgbgbgkbrbrbrbrky/).
+
+Part of the [Daniel Melrose](/tartans/d/da/daniel-melrose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

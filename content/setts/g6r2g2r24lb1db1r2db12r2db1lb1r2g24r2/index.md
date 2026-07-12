@@ -6,6 +6,8 @@ This is the **Unidentified Coat** sett — one scale-free proportion (`g6r2g2r24
 [GRGRWBRBRBWRGR](/stripes/grgrwbrbrbwrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Coat](/tartans/u/un/unidentified-coat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

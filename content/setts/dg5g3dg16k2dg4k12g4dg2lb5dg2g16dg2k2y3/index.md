@@ -6,6 +6,8 @@ This is the **Celtic Football Club (1996)** sett — one scale-free proportion (
 [GGGKGKGGWGGGKG](/stripes/gggkgkggwgggkg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Celtic Football Club](/tartans/c/ce/celtic-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

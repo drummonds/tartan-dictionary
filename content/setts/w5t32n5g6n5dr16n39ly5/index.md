@@ -6,6 +6,8 @@ This is the **Washington DC (Fashion)** sett — one scale-free proportion (`w5t
 [WBBGBBBY](/stripes/wbbgbbby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Washington DC](/tartans/w/wa/washington-dc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

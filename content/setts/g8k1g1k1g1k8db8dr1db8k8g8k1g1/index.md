@@ -6,7 +6,7 @@ This is the **Urquhart (Logan)** sett — one scale-free proportion (`g8k1g1k1g1
 [GKGKBBBKGKGKG](/stripes/gkgkbbbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Urquhart](/tartans/urquhart/) tartan — the named design grouping this sett with its kin.
+Part of the [Urquhart](/tartans/u/ur/urquhart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

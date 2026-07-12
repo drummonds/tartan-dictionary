@@ -7,6 +7,8 @@ This is the **Barra Fuschia** sett — one scale-free proportion (`dp6w6r3w30dp2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Barra Fuschia](/tartans/b/ba/barra-fuschia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Clerke of Ulva** sett — one scale-free proportion (`y3dg3k4dg14k
 [GGKGKGKBYBYBY](/stripes/ggkgkgkbybyby/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Clerke of Ulva](/tartans/c/cl/clerke-of-ulva-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

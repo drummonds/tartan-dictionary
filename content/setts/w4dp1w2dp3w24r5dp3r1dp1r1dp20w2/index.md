@@ -6,6 +6,8 @@ This is the **Menzies Cerise Dress Tartan** sett — one scale-free proportion (
 [WBRBRBRWBWBW](/stripes/wbrbrbrwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Menzies Cerise Dress](/tartans/m/me/menzies-cerise-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **O'Connell, William (Name)** sett — one scale-free proportion (`d
 [BGBWGKGKGW](/stripes/bgbwgkgkgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [O'Connell, William](/tartans/o/o/o-connell-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

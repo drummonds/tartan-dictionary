@@ -6,6 +6,8 @@ This is the **Wilson's No.001** sett — one scale-free proportion (`r14lb8k9y1k
 [KRWKGKWKGRKRWRKRGKWKGKWR](/stripes/krwkgkwkgrkrwrkrgkwkgkwr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Harden](/tartans/h/ha/harden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

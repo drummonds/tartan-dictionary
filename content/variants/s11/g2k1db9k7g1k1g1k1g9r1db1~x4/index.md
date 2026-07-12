@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Princess Louise"
+  url: "/tartans/p/pr/princess-louise-2/"
 - name: "Princess Louise (Royal)"
   url: "/setts/g2k1db9k7g1k1g1k1g9r1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2k1db9k7g1k1g1k1g9r1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGKGKBKG](/stripes/brgkgkgkbkg/).
+
+Part of the [Princess Louise](/tartans/p/pr/princess-louise-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

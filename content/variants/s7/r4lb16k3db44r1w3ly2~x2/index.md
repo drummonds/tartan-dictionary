@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dress"
-  url: "/tartans/dress/"
+  url: "/tartans/d/dr/dress/"
 - name: "Dress Blue (Fashion)"
   url: "/setts/r4lb16k3db44r1w3ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4lb16k3db44r1w3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBRWY](/stripes/rwkbrwy/).
 
-Part of the [Dress](/tartans/dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dress](/tartans/d/dr/dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

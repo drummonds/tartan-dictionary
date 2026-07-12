@@ -6,6 +6,8 @@ This is the **Madoc (Welsh Name)** sett — one scale-free proportion (`k3g3k2g4
 [KGKGKGRGKGK](/stripes/kgkgkgrgkgk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Madoc](/tartans/m/ma/madoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Confederate Rose** sett — one scale-free proportion (`dp24w4m10w
 [BWRWGWBWBWRWBW](/stripes/bwrwgwbwbwrwbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Confederate Rose](/tartans/c/co/confederate-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

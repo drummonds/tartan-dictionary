@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pennsylvania"
-  url: "/tartans/pennsylvania/"
+  url: "/tartans/p/pe/pennsylvania/"
 - name: "Pennsylvania (District)"
   url: "/setts/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGKBGBKBGBKGBGB](/stripes/bgbgbgkbgbkbgbkgbgb/).
 
-Part of the [Pennsylvania](/tartans/pennsylvania/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pennsylvania](/tartans/p/pe/pennsylvania/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

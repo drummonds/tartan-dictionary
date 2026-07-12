@@ -6,6 +6,8 @@ This is the **MacLachlan, Green Dress (Fashion)** sett — one scale-free propor
 [GKGBRBGKGKG](/stripes/gkgbrbgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [MacLachlan, Green Dress](/tartans/m/ma/maclachlan-green-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

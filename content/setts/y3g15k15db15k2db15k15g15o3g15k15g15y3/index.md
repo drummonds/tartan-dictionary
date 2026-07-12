@@ -6,7 +6,7 @@ This is the **MacBride Family Tartan** sett — one scale-free proportion (`y3g1
 [GGKBKBKGRGKGG](/stripes/ggkbkbkgrgkgg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [MacBride](/tartans/macbride/) tartan — the named design grouping this sett with its kin.
+Part of the [MacBride](/tartans/m/ma/macbride/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

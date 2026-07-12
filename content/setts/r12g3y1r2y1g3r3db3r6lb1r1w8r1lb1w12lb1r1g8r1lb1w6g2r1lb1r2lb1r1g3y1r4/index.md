@@ -6,6 +6,8 @@ This is the **MacAlister Dress** sett — one scale-free proportion (`r12g3y1r2y
 [RGGRGGRBRWRWRWWWRGRWWGRWRWRGGR](/stripes/rggrggrbrwrwrwwwrgrwwgrwrwrggr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacAlister Dress](/tartans/m/ma/macalister-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

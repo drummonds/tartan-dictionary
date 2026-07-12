@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wicks"
+  url: "/tartans/w/wi/wicks-2/"
 - name: "Wicks (Personal)"
   url: "/setts/dp30n20dg8y3dg8n20dp30y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp30n20dg8y3dg8n20dp30y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGGBBG](/stripes/bbgggbbg/).
+
+Part of the [Wicks](/tartans/w/wi/wicks-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

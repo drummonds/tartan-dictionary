@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Laxey Manx"
+  url: "/tartans/l/la/laxey-manx/"
 - name: "Manx Laxey (Blue)"
   url: "/setts/w4lb28dp7y2dg16lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb28dp7y2dg16lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGBWW](/stripes/wggbww/).
+
+Part of the [Laxey Manx](/tartans/l/la/laxey-manx/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

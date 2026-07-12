@@ -6,6 +6,8 @@ This is the **Manx Heritage** sett — one scale-free proportion (`n3dg19r2dg2r2
 [BGRGRBRGRGRWRW](/stripes/bgrgrbrgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Manx Heritage](/tartans/m/ma/manx-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

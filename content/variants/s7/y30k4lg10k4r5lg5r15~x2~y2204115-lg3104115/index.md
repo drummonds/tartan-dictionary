@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Alister Grant 'Mohr', the Laird's Champion"
+  url: "/tartans/a/al/alister-grant-mohr-the-laird-s-champion/"
+- name: "Alister Grant 'Mohr', the Laird's Champion"
   url: "/setts/y30k4lg10k4r5lg5r15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y30k4lg10k4r5lg5r15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKRYR](/stripes/gkykryr/).
+
+Part of the [Alister Grant 'Mohr', the Laird's Champion](/tartans/a/al/alister-grant-mohr-the-laird-s-champion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

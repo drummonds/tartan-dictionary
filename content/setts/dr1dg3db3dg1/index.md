@@ -6,6 +6,8 @@ This is the **Barwell** sett — one scale-free proportion (`dr1dg3db3dg1`), col
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Barwell](/tartans/b/ba/barwell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,7 +7,7 @@ This is the **Menzies VS** sett — one scale-free proportion (`w4r1w2r3w24dr5r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Menzies VS](/tartans/menzies-vs/) tartan — the named design grouping this sett with its kin.
+Part of the [Menzies VS](/tartans/m/me/menzies-vs/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Pearce Scotch Plaid 4 (Fashion)** sett — one scale-free proporti
 [GGWBWBW](/stripes/ggwbwbw/). It is recorded as a single **variant**, below.
 First attested **~1971**.
 
+Part of the [Pearce Scotch Plaid 4](/tartans/p/pe/pearce-scotch-plaid-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Haig Check (Estate Check)** sett — one scale-free proportion (`k
 [BWKWKWKW](/stripes/bwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1908**.
 
+Part of the [Haig Check](/tartans/h/ha/haig-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

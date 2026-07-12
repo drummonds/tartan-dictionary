@@ -6,6 +6,8 @@ This is the **Burns' Birthplace (Commem)** sett — one scale-free proportion (`
 [RGRGRGY](/stripes/rgrgrgy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Burns' Birthplace](/tartans/b/bu/burns-birthplace/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

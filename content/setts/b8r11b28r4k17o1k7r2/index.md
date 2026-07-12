@@ -6,7 +6,7 @@ This is the **Kilbranan Sound (Personal)** sett — one scale-free proportion (`
 [BRBRKRKR](/stripes/brbrkrkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Kilbranan Sound](/tartans/kilbranan-sound/) tartan — the named design grouping this sett with its kin.
+Part of the [Kilbranan Sound](/tartans/k/ki/kilbranan-sound/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

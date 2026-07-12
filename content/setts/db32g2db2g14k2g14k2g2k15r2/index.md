@@ -6,7 +6,7 @@ This is the **Dunedin Chapter** sett — one scale-free proportion (`db32g2db2g1
 [BGBGKGKGKR](/stripes/bgbgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Dunedin Chapter](/tartans/dunedin-chapter/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunedin Chapter](/tartans/d/du/dunedin-chapter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Bonner (Bonnar) Family Tartan** sett — one scale-free proportion
 [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Bonner](/tartans/b/bo/bonner/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

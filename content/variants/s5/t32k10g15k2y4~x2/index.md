@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rothesay & Caithness Fencibles"
+  url: "/tartans/r/ro/rothesay-caithness-fencibles/"
 - name: "Rothesay & Caithness Fencibles (Mil)"
   url: "/setts/t32k10g15k2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t32k10g15k2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKG](/stripes/bkgkg/).
+
+Part of the [Rothesay & Caithness Fencibles](/tartans/r/ro/rothesay-caithness-fencibles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

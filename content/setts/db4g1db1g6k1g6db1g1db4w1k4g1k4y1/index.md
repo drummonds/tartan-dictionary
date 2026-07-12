@@ -6,7 +6,7 @@ This is the **MacAlpine (1906)** sett — one scale-free proportion (`db4g1db1g6
 [BGBGKGBGBWKGKG](/stripes/bgbgkgbgbwkgkg/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [MacAlpine](/tartans/macalpine/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAlpine](/tartans/m/ma/macalpine/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

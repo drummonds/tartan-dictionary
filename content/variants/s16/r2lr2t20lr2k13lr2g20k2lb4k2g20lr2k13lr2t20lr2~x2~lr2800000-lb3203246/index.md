@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Stirling"
   url: "/clan/stirling/"
 - name: "Stirling"
-  url: "/tartans/stirling/"
+  url: "/tartans/s/st/stirling/"
 - name: "Stirling"
   url: "/setts/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/).
 
-Part of the [Stirling](/tartans/stirling/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stirling](/tartans/s/st/stirling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

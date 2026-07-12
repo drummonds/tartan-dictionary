@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLean of Kingairloch"
   url: "/families/maclean-of-kingairloch/"
 - name: "MacLean of Kingairloch"
-  url: "/tartans/maclean-of-kingairloch/"
+  url: "/tartans/m/ma/maclean-of-kingairloch/"
 - name: "MacLean of Kingairloch Clan Tartan"
   url: "/setts/db8lb1k6y1k2w2k2g12dy28w1dy4/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8lb1k6y1k2w2k2g12dy28w1dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGKWKGGWG](/stripes/bwkgkwkggwg/).
 
-Part of the [MacLean of Kingairloch](/tartans/maclean-of-kingairloch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLean of Kingairloch](/tartans/m/ma/maclean-of-kingairloch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

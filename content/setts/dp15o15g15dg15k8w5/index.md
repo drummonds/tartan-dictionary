@@ -6,6 +6,8 @@ This is the **Williams, Edmund (Personal)** sett — one scale-free proportion (
 [BRGGKW](/stripes/brggkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Williams, Edmund](/tartans/w/wi/williams-edmund/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

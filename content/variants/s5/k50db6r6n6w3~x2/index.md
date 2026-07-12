@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Friends of Nordegg"
-  url: "/tartans/friends-of-nordegg/"
+  url: "/tartans/f/fr/friends-of-nordegg/"
 - name: "Friends of Nordegg (Corporate)"
   url: "/setts/k50db6r6n6w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k50db6r6n6w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRBW](/stripes/kbrbw/).
 
-Part of the [Friends of Nordegg](/tartans/friends-of-nordegg/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Friends of Nordegg](/tartans/f/fr/friends-of-nordegg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

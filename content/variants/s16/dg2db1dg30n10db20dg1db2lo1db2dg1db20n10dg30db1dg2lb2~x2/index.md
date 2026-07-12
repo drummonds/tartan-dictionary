@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Borderland"
+  url: "/tartans/s/sc/scottish-borderland-2/"
+- name: "Scottish Borderland"
   url: "/setts/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBGBYBGBBGBGW](/stripes/gbgbbgbybgbbgbgw/).
+
+Part of the [Scottish Borderland](/tartans/s/sc/scottish-borderland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

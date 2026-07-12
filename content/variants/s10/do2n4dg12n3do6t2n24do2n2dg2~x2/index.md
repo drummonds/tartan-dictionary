@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wicklow Irish County"
+  url: "/tartans/w/wi/wicklow-irish-county/"
 - name: "Wicklow Irish County Tartan"
   url: "/setts/do2n4dg12n3do6t2n24do2n2dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do2n4dg12n3do6t2n24do2n2dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBBBBG](/stripes/bbgbbbbbbg/).
+
+Part of the [Wicklow Irish County](/tartans/w/wi/wicklow-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

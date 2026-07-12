@@ -6,6 +6,8 @@ This is the **Leckie (Personal)** sett — one scale-free proportion (`r3b1r12o3
 [GWGRRBR](/stripes/gwgrrbr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Leckie](/tartans/l/le/leckie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

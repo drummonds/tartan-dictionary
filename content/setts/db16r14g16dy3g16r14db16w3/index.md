@@ -6,6 +6,8 @@ This is the **Forrester (James) (Personal)** sett — one scale-free proportion 
 [BRGGGRBW](/stripes/brgggrbw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Forrester](/tartans/f/fo/forrester-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

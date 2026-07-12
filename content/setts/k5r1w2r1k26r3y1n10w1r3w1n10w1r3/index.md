@@ -6,6 +6,8 @@ This is the **El Dorado Hills Firefighters Pipes and Drums** sett — one scale-
 [KRWRKRGBWRWBWR](/stripes/krwrkrgbwrwbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [El Dorado Hills Firefighters Pipes and Drums](/tartans/e/el/el-dorado-hills-firefighters-pipes-and-drums/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

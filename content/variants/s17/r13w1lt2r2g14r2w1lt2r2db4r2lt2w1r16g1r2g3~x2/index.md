@@ -10,7 +10,7 @@ crumbs:
 - name: "MacDonald of Lochmaddy"
   url: "/families/macdonald-of-lochmaddy/"
 - name: "MacDonald of Lochmaddy"
-  url: "/tartans/macdonald-of-lochmaddy/"
+  url: "/tartans/m/ma/macdonald-of-lochmaddy/"
 - name: "MacDonald of Lochmaddy"
   url: "/setts/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/).
 
-Part of the [MacDonald of Lochmaddy](/tartans/macdonald-of-lochmaddy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald of Lochmaddy](/tartans/m/ma/macdonald-of-lochmaddy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

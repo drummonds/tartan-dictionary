@@ -6,6 +6,8 @@ This is the **Isle of Arran (Personal)** sett — one scale-free proportion (`r1
 [RYBRBYGBY](/stripes/rybrbygby/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Isle of Arran](/tartans/i/is/isle-of-arran-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

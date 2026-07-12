@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British American School"
+  url: "/tartans/b/br/british-american-school/"
 - name: "British American School (Corporate)"
   url: "/setts/db2b2r1b16w1db20r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2b2r1b16w1db20r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBWBR](/stripes/bbrbwbr/).
+
+Part of the [British American School](/tartans/b/br/british-american-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

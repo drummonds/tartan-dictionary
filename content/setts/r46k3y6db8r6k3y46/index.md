@@ -6,7 +6,7 @@ This is the **Scrymgeour** sett — one scale-free proportion (`r46k3y6db8r6k3y4
 [GKRBGKR](/stripes/gkrbgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Scrymgeour](/tartans/scrymgeour/) tartan — the named design grouping this sett with its kin.
+Part of the [Scrymgeour](/tartans/s/sc/scrymgeour/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

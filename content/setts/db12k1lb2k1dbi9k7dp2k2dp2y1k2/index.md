@@ -6,7 +6,7 @@ This is the **Churchill (Personal)** sett — one scale-free proportion (`db12k1
 [BKWKBKBKBGK](/stripes/bkwkbkbkbgk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Churchill](/tartans/churchill/) tartan — the named design grouping this sett with its kin.
+Part of the [Churchill](/tartans/c/ch/churchill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

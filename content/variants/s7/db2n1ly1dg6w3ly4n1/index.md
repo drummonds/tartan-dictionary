@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Equorian Olympic"
+  url: "/tartans/e/eq/equorian-olympic/"
+- name: "Equorian Olympic"
   url: "/setts/db2n1ly1dg6w3ly4n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2n1ly1dg6w3ly4n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYGWYB](/stripes/bbygwyb/).
+
+Part of the [Equorian Olympic](/tartans/e/eq/equorian-olympic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

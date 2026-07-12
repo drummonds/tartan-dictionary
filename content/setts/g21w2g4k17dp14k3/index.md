@@ -6,6 +6,8 @@ This is the **Wilson's No 158** sett — one scale-free proportion (`g21w2g4k17d
 [GWGKBK](/stripes/gwgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's No 158](/tartans/w/wi/wilson-s-no-158/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

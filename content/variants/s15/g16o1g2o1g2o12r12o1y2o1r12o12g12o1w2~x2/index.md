@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Prince Edward Island"
+  url: "/tartans/p/pr/prince-edward-island-3/"
+- name: "Prince Edward Island"
   url: "/setts/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRRRGRRRGRW](/stripes/grgrgrrrgrrrgrw/).
+
+Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

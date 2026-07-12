@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Turblin, Jean Pierre"
+  url: "/tartans/t/tu/turblin-jean-pierre/"
 - name: "Turblin, Jean Pierre (Personal)"
   url: "/setts/y2w2k3y1r8w6y8r2w1r1w22k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2w2k3y1r8w6y8r2w1r1w22k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGRWGRWRWK](/stripes/gwkgrwgrwrwk/).
+
+Part of the [Turblin, Jean Pierre](/tartans/t/tu/turblin-jean-pierre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

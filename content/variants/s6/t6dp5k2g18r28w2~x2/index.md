@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dundhuin Ladies"
+  url: "/tartans/d/du/dundhuin-ladies/"
 - name: "Dundhuin Ladies (Personal)"
   url: "/setts/t6dp5k2g18r28w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6dp5k2g18r28w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGRW](/stripes/bbkgrw/).
+
+Part of the [Dundhuin Ladies](/tartans/d/du/dundhuin-ladies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

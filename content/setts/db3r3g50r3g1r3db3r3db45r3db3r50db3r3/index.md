@@ -6,6 +6,8 @@ This is the **Culloden Unidentified** sett — one scale-free proportion (`db3r3
 [BRGRGRBRBRBRBR](/stripes/brgrgrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Culloden Unidentified](/tartans/c/cu/culloden-unidentified/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

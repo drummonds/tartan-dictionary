@@ -6,6 +6,8 @@ This is the **Shepherd, (Name)** sett — one scale-free proportion (`g40dy5k40l
 [GGKWGWGGGGGWGWGKWGW](/stripes/ggkwgwgggggwgwgkwgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Shepherd](/tartans/s/sh/shepherd-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

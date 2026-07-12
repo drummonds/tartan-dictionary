@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kerry, County"
+  url: "/tartans/k/ke/kerry-county/"
+- name: "Kerry, County"
   url: "/setts/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/).
+
+Part of the [Kerry, County](/tartans/k/ke/kerry-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

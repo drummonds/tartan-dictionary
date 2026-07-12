@@ -6,6 +6,8 @@ This is the **Teylu Coleman (Cornwall)** sett — one scale-free proportion (`y3
 [GBBKW](/stripes/gbbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Teylu Coleman](/tartans/t/te/teylu-coleman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

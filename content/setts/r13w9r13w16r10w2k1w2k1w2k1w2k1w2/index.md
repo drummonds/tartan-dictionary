@@ -6,6 +6,8 @@ This is the **d'Andeville, Xavier (Personal)** sett — one scale-free proportio
 [RWRWRWKWKWKWKW](/stripes/rwrwrwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [D'Andeville, Xavier](/tartans/d/d/d-andeville-xavier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

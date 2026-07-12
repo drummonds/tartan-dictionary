@@ -7,6 +7,8 @@ This is the **Strachan (Name)** sett — one scale-free proportion (`r2k3db42k3y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1987**.
 
+Part of the [Strachan](/tartans/s/st/strachan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

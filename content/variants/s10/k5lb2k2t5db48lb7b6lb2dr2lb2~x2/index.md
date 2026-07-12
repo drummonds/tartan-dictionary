@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gemmell"
+  url: "/tartans/g/ge/gemmell-2/"
 - name: "Gemmell Blue (2001) (Personal)"
   url: "/setts/k5lb2k2t5db48lb7b6lb2dr2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5lb2k2t5db48lb7b6lb2dr2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBBWBWBW](/stripes/kwkbbwbwbw/).
+
+Part of the [Gemmell](/tartans/g/ge/gemmell-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Cascade Summers** sett — one scale-free proportion (`k3lb13m11t3
 [BYRGBKWKBRWK](/stripes/byrgbkwkbrwk/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Cascade Summers](/tartans/c/ca/cascade-summers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **West Virginia** sett — one scale-free proportion (`ly4g4db8r8g8r
 [YGBGWRWKRGRBGY](/stripes/ygbgwrwkrgrbgy/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [West Virginia](/tartans/w/we/west-virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Letang (Personal)** sett — one scale-free proportion (`t14lb2ly2
 [BWYWBKWRWRWRWR](/stripes/bwywbkwrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Letang](/tartans/l/le/letang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

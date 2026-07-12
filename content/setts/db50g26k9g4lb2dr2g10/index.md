@@ -6,6 +6,8 @@ This is the **Java Saint Andrew Society Hunting** sett — one scale-free propor
 [BGKGWBG](/stripes/bgkgwbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Java Saint Andrew Society Hunting](/tartans/j/ja/java-saint-andrew-society-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

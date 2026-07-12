@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pasteur Fancy"
+  url: "/tartans/p/pa/pasteur-fancy/"
 - name: "Pasteur Fancy Tartan"
   url: "/setts/do10lr1do30y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do10lr1do30y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBG](/stripes/bybg/).
+
+Part of the [Pasteur Fancy](/tartans/p/pa/pasteur-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

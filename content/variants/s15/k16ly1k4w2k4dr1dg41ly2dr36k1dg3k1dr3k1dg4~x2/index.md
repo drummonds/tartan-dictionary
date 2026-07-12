@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Belk Heritage"
+  url: "/tartans/b/be/belk-heritage/"
 - name: "Belk Heritage (Fashion)"
   url: "/setts/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKBYGBKWKYK](/stripes/gkbkgkbygbkwkyk/).
+
+Part of the [Belk Heritage](/tartans/b/be/belk-heritage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,6 +6,8 @@ This is the **Cochrane of Dundonald** sett — one scale-free proportion (`g44r4
 [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Cochrane of Dundonald](/tartans/c/co/cochrane-of-dundonald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

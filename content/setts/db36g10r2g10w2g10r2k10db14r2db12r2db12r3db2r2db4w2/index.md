@@ -6,6 +6,8 @@ This is the **Rankin #2** sett — one scale-free proportion (`db36g10r2g10w2g10
 [BGRGWGRKBRBRBRBRBW](/stripes/bgrgwgrkbrbrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **1932**.
 
+Part of the [Rankin](/tartans/r/ra/rankin-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

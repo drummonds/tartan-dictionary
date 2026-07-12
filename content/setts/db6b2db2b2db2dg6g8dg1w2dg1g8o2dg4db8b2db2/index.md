@@ -6,6 +6,8 @@ This is the **Forbes, of Druminnor** sett — one scale-free proportion (`db6b2d
 [BBBBBGGGWGGRGBBB](/stripes/bbbbbgggwggrgbbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Forbes, of Druminnor](/tartans/f/fo/forbes-of-druminnor-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

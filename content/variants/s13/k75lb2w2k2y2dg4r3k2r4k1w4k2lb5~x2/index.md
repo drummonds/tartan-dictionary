@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New World Celts"
+  url: "/tartans/n/ne/new-world-celts/"
 - name: "New World Celts (Corporate)"
   url: "/setts/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWWKGGRKRKWKW](/stripes/kwwkggrkrkwkw/).
+
+Part of the [New World Celts](/tartans/n/ne/new-world-celts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

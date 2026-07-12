@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Strange"
+  url: "/clan/strange/"
+- name: "Strange of Balcaskie"
+  url: "/families/strange-of-balcaskie/"
+- name: "Strange Of Balcaskie"
+  url: "/tartans/s/st/strange-of-balcaskie/"
 - name: "Strange Of Balcaskie"
   url: "/setts/g32o7g7o16db32y3o8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g32o7g7o16db32y3o8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBGR](/stripes/grgrbgr/).
+
+Part of the [Strange Of Balcaskie](/tartans/s/st/strange-of-balcaskie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

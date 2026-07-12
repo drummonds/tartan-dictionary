@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Duchess of Kent"
-  url: "/tartans/duchess-of-kent/"
+  url: "/tartans/d/du/duchess-of-kent/"
 - name: "Duchess of Kent"
   url: "/setts/r2lb20k3r2k2r3k2r3k2r3k2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2lb20k3r2k2r3k2r3k2r3k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKRKRKRKRKW](/stripes/rwkrkrkrkrkw/).
 
-Part of the [Duchess of Kent](/tartans/duchess-of-kent/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duchess of Kent](/tartans/d/du/duchess-of-kent/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

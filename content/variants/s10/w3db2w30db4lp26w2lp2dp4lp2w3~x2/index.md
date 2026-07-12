@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harris, Lilac"
+  url: "/tartans/h/ha/harris-lilac-2/"
 - name: "Harris, Lilac (Dance)"
   url: "/setts/w3db2w30db4lp26w2lp2dp4lp2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db2w30db4lp26w2lp2dp4lp2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWWWBWW](/stripes/wbwbwwwbww/).
+
+Part of the [Harris, Lilac](/tartans/h/ha/harris-lilac-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **McCrann, Julian David (Personal)** sett — one scale-free proport
 [BRBRBGKGKGGGW](/stripes/brbrbgkgkgggw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [McCrann, Julian David](/tartans/m/mc/mccrann-julian-david/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

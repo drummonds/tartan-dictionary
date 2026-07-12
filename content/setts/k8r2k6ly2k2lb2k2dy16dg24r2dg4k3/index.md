@@ -6,6 +6,8 @@ This is the **Tara (District)** sett — one scale-free proportion (`k8r2k6ly2k2
 [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/). It is recorded as a single **variant**, below.
 First attested **~1967**.
 
+Part of the [Tara](/tartans/t/ta/tara/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

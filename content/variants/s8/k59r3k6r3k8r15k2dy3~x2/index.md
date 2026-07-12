@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Army PTC Assoc."
+  url: "/tartans/r/ro/royal-army-ptc-assoc/"
 - name: "Royal Army PTC Assoc. (Military)"
   url: "/setts/k59r3k6r3k8r15k2dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k59r3k6r3k8r15k2dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKRK](/stripes/gkrkrkrk/).
+
+Part of the [Royal Army PTC Assoc.](/tartans/r/ro/royal-army-ptc-assoc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

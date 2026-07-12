@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Angus Dress 1992"
+  url: "/tartans/a/an/angus-dress-1992/"
 - name: "Angus Dress 1992 (Dance)"
   url: "/setts/k3r1k32db6w20db2r1db2r1db2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r1k32db6w20db2r1db2r1db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBWBRBRBR](/stripes/krkbwbrbrbr/).
+
+Part of the [Angus Dress 1992](/tartans/a/an/angus-dress-1992/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

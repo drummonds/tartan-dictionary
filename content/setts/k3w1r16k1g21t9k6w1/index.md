@@ -6,6 +6,8 @@ This is the **Ford & Etal** sett — one scale-free proportion (`k3w1r16k1g21t9k
 [KWRKGBKW](/stripes/kwrkgbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Ford & Etal](/tartans/f/fo/ford-etal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

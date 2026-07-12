@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Abbotsford"
-  url: "/tartans/abbotsford/"
+  url: "/tartans/a/ab/abbotsford/"
 - name: "Abbotsford Check"
   url: "/setts/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGBKWKWKWKWKWKGRGWGK](/stripes/gkwkgbkwkwkwkwkwkgrgwgk/).
 
-Part of the [Abbotsford](/tartans/abbotsford/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Abbotsford](/tartans/a/ab/abbotsford/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

@@ -6,6 +6,8 @@ This is the **Malone, Keagan Allen (Personal)** sett — one scale-free proporti
 [WBGGWGGWGGGWGW](/stripes/wbggwggwgggwgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Malone, Keagan Allen](/tartans/m/ma/malone-keagan-allen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

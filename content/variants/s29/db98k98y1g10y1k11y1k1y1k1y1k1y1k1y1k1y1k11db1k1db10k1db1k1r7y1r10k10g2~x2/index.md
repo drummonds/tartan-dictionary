@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood Metropolitan 1"
+  url: "/tartans/w/we/westwood-metropolitan-1/"
 - name: "Westwood Metropolitan 1 (Fashion)"
   url: "/setts/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGKGKGKGKGKGKGKBKBKBKRGRKG](/stripes/bkgggkgkgkgkgkgkgkbkbkbkrgrkg/).
+
+Part of the [Westwood Metropolitan 1](/tartans/w/we/westwood-metropolitan-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 

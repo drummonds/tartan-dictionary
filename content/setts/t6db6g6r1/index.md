@@ -6,6 +6,8 @@ This is the **Norwich No.040** sett — one scale-free proportion (`t6db6g6r1`),
 [BBGR](/stripes/bbgr/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.040](/tartans/n/no/norwich-no-040/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

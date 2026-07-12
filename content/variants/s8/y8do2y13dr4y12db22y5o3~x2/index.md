@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kildare, County"
+  url: "/tartans/k/ki/kildare-county/"
+- name: "Kildare, County"
   url: "/setts/y8do2y13dr4y12db22y5o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y8do2y13dr4y12db22y5o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGRGBGBGBG](/stripes/bgbgbgrgbgbgbg/).
+
+Part of the [Kildare, County](/tartans/k/ki/kildare-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

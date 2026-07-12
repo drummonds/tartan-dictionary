@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Angus"
-  url: "/tartans/angus/"
+  url: "/tartans/a/an/angus/"
 - name: "Angus District Tartan"
   url: "/setts/k3r1k32db28r1db2r1db2r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r1k32db28r1db2r1db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
 
-Part of the [Angus](/tartans/angus/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Angus](/tartans/a/an/angus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

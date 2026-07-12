@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Childers"
-  url: "/tartans/childers-3/"
+  url: "/tartans/c/ch/childers-3/"
 - name: "Childers (Personal)"
   url: "/setts/k44g8k4dg13k4w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k44g8k4dg13k4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKW](/stripes/kgkgkw/).
 
-Part of the [Childers](/tartans/childers-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Childers](/tartans/c/ch/childers-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

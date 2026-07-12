@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fletcher"
+  url: "/clan/fletcher/"
+- name: "Fletcher"
+  url: "/tartans/f/fl/fletcher/"
 - name: "Fletcher"
   url: "/setts/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGKGRKBKB](/stripes/bkbkbkrgkgrkbkb/).
+
+Part of the [Fletcher](/tartans/f/fl/fletcher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

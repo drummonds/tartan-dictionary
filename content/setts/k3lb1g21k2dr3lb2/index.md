@@ -6,6 +6,8 @@ This is the **Leach Hunting** sett — one scale-free proportion (`k3lb1g21k2dr3
 [KWGKBW](/stripes/kwgkbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Leach Hunting](/tartans/l/le/leach-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

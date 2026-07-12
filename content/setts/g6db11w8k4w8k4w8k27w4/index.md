@@ -6,6 +6,8 @@ This is the **Breton District Tartan** sett — one scale-free proportion (`g6db
 [GBWKWKWKW](/stripes/gbwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Breton](/tartans/b/br/breton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

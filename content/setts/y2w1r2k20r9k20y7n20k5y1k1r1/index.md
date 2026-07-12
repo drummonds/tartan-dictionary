@@ -6,6 +6,8 @@ This is the **Cates Dress** sett — one scale-free proportion (`y2w1r2k20r9k20y
 [GWRKRKGBKGKR](/stripes/gwrkrkgbkgkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Cates Dress](/tartans/c/ca/cates-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

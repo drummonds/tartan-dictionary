@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wexford County, Crest Range"
+  url: "/tartans/w/we/wexford-county-crest-range/"
+- name: "Wexford County, Crest Range"
   url: "/setts/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGWGGKWKBWGKW](/stripes/wgwgwggkwkbwgkw/).
+
+Part of the [Wexford County, Crest Range](/tartans/w/we/wexford-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

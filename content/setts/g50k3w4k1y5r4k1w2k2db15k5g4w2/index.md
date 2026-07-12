@@ -6,6 +6,8 @@ This is the **Abbotsford, City of** sett — one scale-free proportion (`g50k3w4
 [GKWKGRKWKBKGW](/stripes/gkwkgrkwkbkgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Abbotsford, City of](/tartans/a/ab/abbotsford-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

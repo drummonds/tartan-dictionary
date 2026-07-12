@@ -6,6 +6,8 @@ This is the **Le Mirage (Corporate?)** sett — one scale-free proportion (`db36
 [BBRWKBBRWK](/stripes/bbrwkbbrwk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Le Mirage](/tartans/l/le/le-mirage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

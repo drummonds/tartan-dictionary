@@ -6,7 +6,7 @@ This is the **MacWhirter** sett — one scale-free proportion (`lb1dg8k1lb2k1y2k
 [WGKWKGKWKRWW](/stripes/wgkwkgkwkrww/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [MacWhirter](/tartans/macwhirter/) tartan — the named design grouping this sett with its kin.
+Part of the [MacWhirter](/tartans/m/ma/macwhirter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

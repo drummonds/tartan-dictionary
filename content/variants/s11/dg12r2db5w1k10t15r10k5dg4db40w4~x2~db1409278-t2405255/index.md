@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gemmell Dress"
+  url: "/tartans/g/ge/gemmell-dress/"
 - name: "Gemmell of Dumfries & Galloway (Personal)"
   url: "/setts/dg12r2db5w1k10t15r10k5dg4db40w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12r2db5w1k10t15r10k5dg4db40w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBWKBRKGBW](/stripes/grbwkbrkgbw/).
+
+Part of the [Gemmell Dress](/tartans/g/ge/gemmell-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

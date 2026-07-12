@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Goil Dress"
+  url: "/tartans/g/go/goil-dress/"
+- name: "Goil Dress"
   url: "/setts/t42db10lo2db2lb2db2t10lb6db2lb3t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t42db10lo2db2lb2db2t10lb6db2lb3t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBWBBWBWB](/stripes/bbybwbbwbwb/).
+
+Part of the [Goil Dress](/tartans/g/go/goil-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

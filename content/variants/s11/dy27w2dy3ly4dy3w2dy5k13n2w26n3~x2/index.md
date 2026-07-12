@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKellar Dress, Maroon"
+  url: "/tartans/m/ma/mackellar-dress-maroon/"
 - name: "MacKellar Dress, Maroon (Dance)"
   url: "/setts/dy27w2dy3ly4dy3w2dy5k13n2w26n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy27w2dy3ly4dy3w2dy5k13n2w26n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGWGYGWG](/stripes/bwbkgwgygwg/).
+
+Part of the [MacKellar Dress, Maroon](/tartans/m/ma/mackellar-dress-maroon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

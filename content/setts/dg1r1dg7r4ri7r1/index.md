@@ -7,6 +7,8 @@ This is the **MacNab #2** sett — one scale-free proportion (`dg1r1dg7r4ri7r1`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1990**.
 
+Part of the [Dewar](/tartans/d/de/dewar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highland Queen"
-  url: "/tartans/highland-queen/"
+  url: "/tartans/h/hi/highland-queen/"
 - name: "Highland Queen (Corporate)"
   url: "/setts/r8g4r30db6r2k1r2g6r8k1r4y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8g4r30db6r2k1r2g6r8k1r4y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRKRBRGR](/stripes/grkrgrkrbrgr/).
 
-Part of the [Highland Queen](/tartans/highland-queen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Highland Queen](/tartans/h/hi/highland-queen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

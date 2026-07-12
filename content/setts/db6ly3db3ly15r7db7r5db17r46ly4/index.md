@@ -6,6 +6,8 @@ This is the **Harry/Parry** sett — one scale-free proportion (`db6ly3db3ly15r7
 [BYBYRBRBRY](/stripes/bybyrbrbry/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Harry/Parry](/tartans/h/ha/harry-parry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

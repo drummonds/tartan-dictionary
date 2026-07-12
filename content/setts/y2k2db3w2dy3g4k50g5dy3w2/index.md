@@ -6,7 +6,7 @@ This is the **Hawes (2014)** sett — one scale-free proportion (`y2k2db3w2dy3g4
 [GKBWGGKGGW](/stripes/gkbwggkggw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Hawes](/tartans/hawes/) tartan — the named design grouping this sett with its kin.
+Part of the [Hawes](/tartans/h/ha/hawes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

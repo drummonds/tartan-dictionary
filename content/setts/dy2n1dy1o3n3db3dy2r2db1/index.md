@@ -6,6 +6,8 @@ This is the **Titanic** sett — one scale-free proportion (`dy2n1dy1o3n3db3dy2r
 [BRGBBRGBG](/stripes/brgbbrgbg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Titanic](/tartans/t/ti/titanic-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

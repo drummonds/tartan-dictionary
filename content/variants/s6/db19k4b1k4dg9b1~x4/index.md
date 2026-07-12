@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Monarchs"
-  url: "/tartans/monarchs/"
+  url: "/tartans/m/mo/monarchs/"
 - name: "Monarchs"
   url: "/setts/db19k4b1k4dg9b1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db19k4b1k4dg9b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKB](/stripes/bgkbkb/).
 
-Part of the [Monarchs](/tartans/monarchs/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Monarchs](/tartans/m/mo/monarchs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Scottish Highlander Universal Tartan** sett — one scale-free pro
 [BBRBBBWBWBBBRB](/stripes/bbrbbbwbwbbbrb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Scottish Highlander](/tartans/s/sc/scottish-highlander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Commonwealth Games 1986** sett — one scale-free proportion (`db6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1985**.
 
+Part of the [Commonwealth Games 1986](/tartans/c/co/commonwealth-games-1986/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

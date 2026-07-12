@@ -6,7 +6,7 @@ This is the **Blair Clan Tartan** sett — one scale-free proportion (`db3r1db10
 [BRBKGRG](/stripes/brbkgrg/). It is recorded as a single **variant**, below.
 First attested **~1963**.
 
-Part of the [Blair](/tartans/blair/) tartan — the named design grouping this sett with its kin.
+Part of the [Blair](/tartans/b/bl/blair/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

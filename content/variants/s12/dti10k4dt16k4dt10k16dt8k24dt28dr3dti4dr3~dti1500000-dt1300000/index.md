@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Mirren"
+  url: "/tartans/s/st/st-mirren/"
 - name: "St. Mirren (Corporate)"
   url: "/setts/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBKBKBKB](/stripes/bbbbkbkbkbkb/).
+
+Part of the [St. Mirren](/tartans/s/st/st-mirren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

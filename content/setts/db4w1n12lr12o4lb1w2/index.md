@@ -6,6 +6,8 @@ This is the **Ontex** sett — one scale-free proportion (`db4w1n12lr12o4lb1w2`)
 [BWBYRWW](/stripes/bwbyrww/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Ontex](/tartans/o/on/ontex/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

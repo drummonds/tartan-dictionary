@@ -6,6 +6,8 @@ This is the **Perthshire Clayquhat District Tartan** sett — one scale-free pro
 [RKGRBWR](/stripes/rkgrbwr/). It is recorded as a single **variant**, below.
 First attested **~1739**.
 
+Part of the [Perthshire Clayquhat](/tartans/p/pe/perthshire-clayquhat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

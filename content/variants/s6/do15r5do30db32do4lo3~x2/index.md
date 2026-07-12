@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Cameron"
   url: "/clan/cameron/"
 - name: "Cameron Hunting"
-  url: "/tartans/cameron-hunting/"
+  url: "/tartans/c/ca/cameron-hunting/"
 - name: "Cameron Hunting (Clan)"
   url: "/setts/do15r5do30db32do4lo3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do15r5do30db32do4lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBY](/stripes/brbbby/).
 
-Part of the [Cameron Hunting](/tartans/cameron-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cameron Hunting](/tartans/c/ca/cameron-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

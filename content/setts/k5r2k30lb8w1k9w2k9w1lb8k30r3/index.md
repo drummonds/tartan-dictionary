@@ -6,6 +6,8 @@ This is the **Glasgow Caledonian University Corporate Tartan** sett — one scal
 [KRKWWKWKWWKR](/stripes/krkwwkwkwwkr/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [Glasgow Caledonian University](/tartans/g/gl/glasgow-caledonian-university-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

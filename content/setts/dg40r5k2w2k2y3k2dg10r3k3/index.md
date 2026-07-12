@@ -6,6 +6,8 @@ This is the **Arnold Palmer Corporate Tartan** sett — one scale-free proportio
 [GRKWKGKGRK](/stripes/grkwkgkgrk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Arnold Palmer](/tartans/a/ar/arnold-palmer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

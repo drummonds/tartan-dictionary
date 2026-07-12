@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Johore"
+  url: "/tartans/j/jo/johore/"
+- name: "Johore"
   url: "/setts/n57w5g20n5lo10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n57w5g20n5lo10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBYBGW](/stripes/bwgbybgw/).
+
+Part of the [Johore](/tartans/j/jo/johore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

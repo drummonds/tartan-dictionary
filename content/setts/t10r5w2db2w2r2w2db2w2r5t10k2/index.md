@@ -6,6 +6,8 @@ This is the **U.S. Postal Service** sett — one scale-free proportion (`t10r5w2
 [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [U.S. Postal Service](/tartans/u/u/u-s-postal-service/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

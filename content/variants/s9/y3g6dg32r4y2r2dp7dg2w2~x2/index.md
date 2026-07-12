@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pienaar"
+  url: "/tartans/p/pi/pienaar/"
 - name: "Pienaar (Personal)"
   url: "/setts/y3g6dg32r4y2r2dp7dg2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3g6dg32r4y2r2dp7dg2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRBGW](/stripes/gggrgrbgw/).
+
+Part of the [Pienaar](/tartans/p/pi/pienaar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

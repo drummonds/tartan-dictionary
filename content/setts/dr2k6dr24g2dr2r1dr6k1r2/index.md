@@ -6,6 +6,8 @@ This is the **Fitzgibbon Red** sett — one scale-free proportion (`dr2k6dr24g2d
 [BKBGBRBKR](/stripes/bkbgbrbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Fitzgibbon](/tartans/f/fi/fitzgibbon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th-6/"
 - name: "Unnamed C18th - S.Uist"
   url: "/setts/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBBBGYBGBBBGBGW](/stripes/bbbgbbbgybgbbbgbgw/).
+
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

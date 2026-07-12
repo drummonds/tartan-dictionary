@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dege"
+  url: "/clan/dege/"
+- name: "Dege of Saville Row"
+  url: "/families/dege-of-saville-row/"
+- name: "Dege of Saville Row"
+  url: "/tartans/d/de/dege-of-saville-row/"
 - name: "Dege of Saville Row Corporate Tartan"
   url: "/setts/dy11db1dy3dbi1db9r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy11db1dy3dbi1db9r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBR](/stripes/gbgbbr/).
+
+Part of the [Dege of Saville Row](/tartans/d/de/dege-of-saville-row/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

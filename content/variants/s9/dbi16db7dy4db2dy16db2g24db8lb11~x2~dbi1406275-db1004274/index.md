@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wicklow County, Crest Range"
+  url: "/tartans/w/wi/wicklow-county-crest-range/"
+- name: "Wicklow County, Crest Range"
   url: "/setts/dbi16db7dy4db2dy16db2g24db8lb11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi16db7dy4db2dy16db2g24db8lb11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
+
+Part of the [Wicklow County, Crest Range](/tartans/w/wi/wicklow-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

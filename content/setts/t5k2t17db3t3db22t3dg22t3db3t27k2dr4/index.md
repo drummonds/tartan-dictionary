@@ -7,6 +7,8 @@ This is the **Leith** sett — one scale-free proportion (`t5k2t17db3t3db22t3dg2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1995**.
 
+Part of the [Leith](/tartans/l/le/leith-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

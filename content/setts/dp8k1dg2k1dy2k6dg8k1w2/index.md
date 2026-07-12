@@ -6,7 +6,7 @@ This is the **Coffield-Limesand (Personal)** sett — one scale-free proportion 
 [BKGKGKGKW](/stripes/bkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Coffield-Limesand](/tartans/coffield-limesand/) tartan — the named design grouping this sett with its kin.
+Part of the [Coffield-Limesand](/tartans/c/co/coffield-limesand/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

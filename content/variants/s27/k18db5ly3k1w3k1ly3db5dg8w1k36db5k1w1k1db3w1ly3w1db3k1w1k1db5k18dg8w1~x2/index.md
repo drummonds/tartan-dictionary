@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacPerl"
+  url: "/tartans/m/ma/macperl/"
 - name: "MacPerl (Personal)"
   url: "/setts/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYKWKYBGWKBKWKBWYWBKWKBKGW](/stripes/kbykwkybgwkbkwkbwywbkwkbkgw/).
+
+Part of the [MacPerl](/tartans/m/ma/macperl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 

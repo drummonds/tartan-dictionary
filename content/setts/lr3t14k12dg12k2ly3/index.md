@@ -6,7 +6,7 @@ This is the **MacNeil of Barra (Clan)** sett — one scale-free proportion (`lr3
 [YBKGKY](/stripes/ybkgky/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [MacNeil of Barra](/tartans/macneil-of-barra/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil of Barra](/tartans/m/ma/macneil-of-barra/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

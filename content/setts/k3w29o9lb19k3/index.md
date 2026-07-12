@@ -6,6 +6,8 @@ This is the **Islander Dress** sett — one scale-free proportion (`k3w29o9lb19k
 [KWRWK](/stripes/kwrwk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Islander Dress](/tartans/i/is/islander-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

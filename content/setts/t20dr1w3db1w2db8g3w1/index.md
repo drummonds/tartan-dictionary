@@ -6,7 +6,7 @@ This is the **Kruenaegel and Schropp (Name)** sett — one scale-free proportion
 [BBWBWBGW](/stripes/bbwbwbgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Kruenaegel and Schropp](/tartans/kruenaegel-and-schropp/) tartan — the named design grouping this sett with its kin.
+Part of the [Kruenaegel and Schropp](/tartans/k/kr/kruenaegel-and-schropp/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

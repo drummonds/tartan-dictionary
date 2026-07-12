@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shedor"
+  url: "/tartans/s/sh/shedor/"
 - name: "Shedor (2013)"
   url: "/setts/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/).
+
+Part of the [Shedor](/tartans/s/sh/shedor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

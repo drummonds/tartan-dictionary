@@ -6,6 +6,8 @@ This is the **Thompson Camel Clan Tartan** sett — one scale-free proportion (`
 [RYKWKW](/stripes/rykwkw/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Thompson Camel](/tartans/t/th/thompson-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Big Spruce Brewing** sett — one scale-free proportion (`dg11y1dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2014**.
 
+Part of the [Big Spruce Brewing](/tartans/b/bi/big-spruce-brewing/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

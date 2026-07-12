@@ -6,6 +6,8 @@ This is the **Murray (Variation) Clan Tartan** sett — one scale-free proportio
 [BKBKGR](/stripes/bkbkgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [Murray](/tartans/m/mu/murray-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

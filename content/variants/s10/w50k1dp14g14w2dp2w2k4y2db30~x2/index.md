@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacBeth Dress"
+  url: "/tartans/m/ma/macbeth-dress-2/"
 - name: "MacBeth Dress (Dance)"
   url: "/setts/w50k1dp14g14w2dp2w2k4y2db30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50k1dp14g14w2dp2w2k4y2db30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWBWGBKW](/stripes/bgkwbwgbkw/).
+
+Part of the [MacBeth Dress](/tartans/m/ma/macbeth-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

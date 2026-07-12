@@ -6,6 +6,8 @@ This is the **Quinn (Name?)** sett — one scale-free proportion (`r20dg5r5dg30y
 [GRGRGKGGGRGR](/stripes/grgrgkgggrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Quinn](/tartans/q/qu/quinn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

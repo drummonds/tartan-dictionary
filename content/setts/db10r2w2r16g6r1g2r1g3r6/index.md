@@ -6,6 +6,8 @@ This is the **Harkness Family Tartan** sett — one scale-free proportion (`db10
 [BRWRGRGRGR](/stripes/brwrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Harkness](/tartans/h/ha/harkness-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Scottish Register of Tartans (Corp)** sett — one scale-free prop
 [KRYRKGKGYGRGRWR](/stripes/kryrkgkgygrgrwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Scottish Register of Tartans](/tartans/scottish-register-of-tartans/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Register of Tartans](/tartans/s/sc/scottish-register-of-tartans/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

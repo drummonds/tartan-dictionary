@@ -6,6 +6,8 @@ This is the **Edinburgh Bus Company (Corporate)** sett — one scale-free propor
 [BRGRBW](/stripes/brgrbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Edinburgh Bus Company](/tartans/e/ed/edinburgh-bus-company/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

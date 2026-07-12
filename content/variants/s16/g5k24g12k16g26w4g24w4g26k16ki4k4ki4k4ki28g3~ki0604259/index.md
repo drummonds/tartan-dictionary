@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Connor, Old"
+  url: "/tartans/o/o/o-connor-old/"
+- name: "O'Connor, Old"
   url: "/setts/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGWGWGKKKKKKG](/stripes/gkgkgwgwgkkkkkkg/).
+
+Part of the [O'Connor, Old](/tartans/o/o/o-connor-old/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

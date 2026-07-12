@@ -6,7 +6,7 @@ This is the **Tilted Kilt (Corporate)** sett — one scale-free proportion (`r66
 [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [TIlted](/tartans/tilted/) tartan — the named design grouping this sett with its kin.
+Part of the [TIlted](/tartans/t/ti/tilted/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

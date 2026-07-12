@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Timmins"
+  url: "/tartans/t/ti/timmins/"
 - name: "Timmins (2013)"
   url: "/setts/r4k2dp14k12lo1lb32k12lb14k2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k2dp14k12lo1lb32k12lb14k2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWYKBKR](/stripes/gkwkwykbkr/).
+
+Part of the [Timmins](/tartans/t/ti/timmins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

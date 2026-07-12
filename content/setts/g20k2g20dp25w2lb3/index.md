@@ -6,6 +6,8 @@ This is the **Lawrence of Broughty Ferry** sett — one scale-free proportion (`
 [GKGBWW](/stripes/gkgbww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lawrence of Broughty Ferry](/tartans/l/la/lawrence-of-broughty-ferry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

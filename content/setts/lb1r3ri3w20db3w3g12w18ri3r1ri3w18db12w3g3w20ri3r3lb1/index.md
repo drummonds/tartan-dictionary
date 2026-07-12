@@ -7,6 +7,8 @@ This is the **MacLeod, Arisaid** sett — one scale-free proportion (`lb1r3ri3w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1978**.
 
+Part of the [MacLeod, Arisaid](/tartans/m/ma/macleod-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Celtic Society"
-  url: "/tartans/glasgow-celtic-society/"
+  url: "/tartans/g/gl/glasgow-celtic-society/"
 - name: "Glasgow Celtic Society Corporate Tartan"
   url: "/setts/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGKGKGKGRGBK](/stripes/bgbgbgbgkgkgkgrgbk/).
 
-Part of the [Glasgow Celtic Society](/tartans/glasgow-celtic-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glasgow Celtic Society](/tartans/g/gl/glasgow-celtic-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

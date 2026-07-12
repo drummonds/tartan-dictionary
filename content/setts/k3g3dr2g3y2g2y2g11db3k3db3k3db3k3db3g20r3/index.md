@@ -6,7 +6,7 @@ This is the **Myron Family Tartan** sett — one scale-free proportion (`k3g3dr2
 [KGBGGGGGBKBKBKBGR](/stripes/kgbgggggbkbkbkbgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Myron](/tartans/myron/) tartan — the named design grouping this sett with its kin.
+Part of the [Myron](/tartans/m/my/myron/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Waterford** sett — one scale-free proportion (`dg30ly3k20dr2k3b4
 [GYKBKBBK](/stripes/gykbkbbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Waterford](/tartans/w/wa/waterford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

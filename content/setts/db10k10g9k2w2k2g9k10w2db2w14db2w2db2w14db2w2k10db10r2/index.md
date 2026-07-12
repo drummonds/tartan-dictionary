@@ -6,6 +6,8 @@ This is the **MacKenzie Dress Clan Tartan** sett — one scale-free proportion (
 [BKGKWKGKWBWBWBWBWKBR](/stripes/bkgkwkgkwbwbwbwbwkbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacKenzie Dress](/tartans/m/ma/mackenzie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

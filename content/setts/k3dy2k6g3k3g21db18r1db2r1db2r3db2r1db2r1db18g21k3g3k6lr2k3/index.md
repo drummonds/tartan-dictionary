@@ -6,7 +6,7 @@ This is the **Wood (Clan)** sett — one scale-free proportion (`k3dy2k6g3k3g21d
 [KGKGKGBRBRBRBRBRBGKGKYK](/stripes/kgkgkgbrbrbrbrbrbgkgkyk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Wood](/tartans/wood/) tartan — the named design grouping this sett with its kin.
+Part of the [Wood](/tartans/w/wo/wood/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

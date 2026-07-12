@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Watret"
-  url: "/tartans/watret/"
+  url: "/tartans/w/wa/watret/"
 - name: "Watret (Artefact)"
   url: "/setts/db21dp21y21o2r21lo21y21db2r2dp2o21/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db21dp21y21o2r21lo21y21db2r2dp2o21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRRYGBRBR](/stripes/bbgrrygbrbr/).
 
-Part of the [Watret](/tartans/watret/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Watret](/tartans/w/wa/watret/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

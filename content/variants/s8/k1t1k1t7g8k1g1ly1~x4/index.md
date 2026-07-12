@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Banff Centennial"
-  url: "/tartans/banff-centennial/"
+  url: "/tartans/b/ba/banff-centennial/"
 - name: "Banff Centennial (Commemorative)"
   url: "/setts/k1t1k1t7g8k1g1ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1t1k1t7g8k1g1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-Part of the [Banff Centennial](/tartans/banff-centennial/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Banff Centennial](/tartans/b/ba/banff-centennial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Bryant (Dalgleish) (Personal)** sett — one scale-free proportion
 [KGBKBW](/stripes/kgbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Bryant](/tartans/b/br/bryant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

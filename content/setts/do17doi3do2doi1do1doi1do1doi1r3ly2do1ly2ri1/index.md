@@ -6,6 +6,8 @@ This is the **Kinnaird (1984)** sett — one scale-free proportion (`do17doi3do2
 [BBBBBBBBRYBYR](/stripes/bbbbbbbbrybyr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kinnaird](/tartans/k/ki/kinnaird-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

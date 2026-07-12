@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Club"
+  url: "/tartans/c/ca/caledonian-club/"
+- name: "Caledonian Club"
   url: "/setts/b24db4b4db4b4db20dp32n4dp32db35r5db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b24db4b4db4b4db20dp32n4dp32db35r5db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBRB](/stripes/bbbbbbbbbbrb/).
+
+Part of the [Caledonian Club](/tartans/c/ca/caledonian-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

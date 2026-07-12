@@ -6,7 +6,7 @@ This is the **Vetoclock** sett — one scale-free proportion (`n110o3lr14w1dp10w
 [BBRYWBWYRB](/stripes/bbrywbwyrb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Vetoclock](/tartans/vetoclock/) tartan — the named design grouping this sett with its kin.
+Part of the [Vetoclock](/tartans/v/ve/vetoclock/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

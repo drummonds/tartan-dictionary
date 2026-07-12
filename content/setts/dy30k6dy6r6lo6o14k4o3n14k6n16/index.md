@@ -6,6 +6,8 @@ This is the **Bracken (WCWM)** sett — one scale-free proportion (`dy30k6dy6r6l
 [BKBRKRYRGKG](/stripes/bkbrkryrgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Bracken](/tartans/b/br/bracken/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Angove, the Black Swan"
+  url: "/tartans/a/an/angove-the-black-swan/"
 - name: "Angove, the Black Swan (Name)"
   url: "/setts/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKGYGKBKG](/stripes/bbkbkbkgygkbkg/).
+
+Part of the [Angove, the Black Swan](/tartans/a/an/angove-the-black-swan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

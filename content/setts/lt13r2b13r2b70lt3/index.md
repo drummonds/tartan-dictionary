@@ -6,6 +6,8 @@ This is the **Agua** sett — one scale-free proportion (`lt13r2b13r2b70lt3`), c
 [WBRBRW](/stripes/wbrbrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Agua](/tartans/a/ag/agua/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

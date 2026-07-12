@@ -6,6 +6,8 @@ This is the **Virgin One** sett — one scale-free proportion (`ly11r2ly11w6ly7w
 [WYWYRY](/stripes/wywyry/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Virgin One](/tartans/v/vi/virgin-one-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

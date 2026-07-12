@@ -6,6 +6,8 @@ This is the **Henry, David G (Personal)** sett — one scale-free proportion (`y
 [GGGGGBWBWG](/stripes/gggggbwbwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Henry, David G](/tartans/h/he/henry-david-g/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

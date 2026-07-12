@@ -6,6 +6,8 @@ This is the **Menzies Dress Tartan** sett — one scale-free proportion (`w6k1w2
 [RKWKWKWKW](/stripes/rkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Menzies Dress](/tartans/m/me/menzies-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

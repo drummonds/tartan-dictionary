@@ -7,6 +7,8 @@ This is the **Johnston Dress (Clan?)** sett — one scale-free proportion (`k3db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Johnston Dress](/tartans/j/jo/johnston-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

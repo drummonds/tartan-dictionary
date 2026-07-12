@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Trost"
+  url: "/tartans/t/tr/trost/"
+- name: "Trost"
   url: "/setts/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRRRWRWRGRBRBRGRWRWRRRG](/stripes/grrrwrwrgrbrbrgrwrwrrrg/).
+
+Part of the [Trost](/tartans/t/tr/trost/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mullikin"
-  url: "/tartans/mullikin/"
+  url: "/tartans/m/mu/mullikin/"
 - name: "Mullikin (2013)"
   url: "/setts/r5w4lg6db2g43db2lg4r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r5w4lg6db2g43db2lg4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYBGBYR](/stripes/rwybgbyr/).
 
-Part of the [Mullikin](/tartans/mullikin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mullikin](/tartans/m/mu/mullikin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

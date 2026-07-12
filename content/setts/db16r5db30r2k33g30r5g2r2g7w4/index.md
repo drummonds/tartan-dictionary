@@ -6,7 +6,7 @@ This is the **MacDonell of Glengarry #3** sett — one scale-free proportion (`d
 [BRBRKGRGRGW](/stripes/brbrkgrgrgw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacDonell of Glengarry](/tartans/macdonell-of-glengarry/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonell of Glengarry](/tartans/m/ma/macdonell-of-glengarry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Ayrton Laoch Family Tartan** sett — one scale-free proportion (`
 [RBGBGBGGGR](/stripes/rbgbgbgggr/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Ayrton Laoch](/tartans/a/ay/ayrton-laoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

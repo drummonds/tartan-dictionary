@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean 8"
+  url: "/tartans/h/he/hebridean-8/"
 - name: "Hebrides #12"
   url: "/setts/k2r2k12r2k2r18k2r2k12r2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2r2k12r2k2r18k2r2k12r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRWRKRKRKRKR](/stripes/krkrkrkrkrwrkrkrkrkr/).
+
+Part of the [Hebridean 8](/tartans/h/he/hebridean-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

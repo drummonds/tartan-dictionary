@@ -6,6 +6,8 @@ This is the **Corey in Balachuirn** sett — one scale-free proportion (`db32dy1
 [BGGYG](/stripes/bggyg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Corey in Balachuirn](/tartans/c/co/corey-in-balachuirn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

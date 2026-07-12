@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edelstein"
+  url: "/tartans/e/ed/edelstein/"
 - name: "Edelstein (Personal)"
   url: "/setts/dp10db10g10w1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp10db10g10w1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWG](/stripes/bbgwg/).
+
+Part of the [Edelstein](/tartans/e/ed/edelstein/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

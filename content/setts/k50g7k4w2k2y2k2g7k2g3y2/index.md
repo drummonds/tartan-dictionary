@@ -6,7 +6,7 @@ This is the **Initial City Link** sett — one scale-free proportion (`k50g7k4w2
 [GGKGKGKWKGK](/stripes/ggkgkgkwkgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Initial City Link](/tartans/initial-city-link/) tartan — the named design grouping this sett with its kin.
+Part of the [Initial City Link](/tartans/i/in/initial-city-link/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

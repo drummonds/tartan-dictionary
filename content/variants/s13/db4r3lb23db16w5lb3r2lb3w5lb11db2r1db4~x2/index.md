@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Illinois, St Andrews Society"
-  url: "/tartans/illinois-st-andrews-society/"
+  url: "/tartans/i/il/illinois-st-andrews-society/"
 - name: "Illinois St Andrews Society Corporate Tartan"
   url: "/setts/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWWWRWWBWRB](/stripes/brbwwwrwwbwrb/).
 
-Part of the [Illinois, St Andrews Society](/tartans/illinois-st-andrews-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Illinois, St Andrews Society](/tartans/i/il/illinois-st-andrews-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

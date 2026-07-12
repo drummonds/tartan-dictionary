@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Etive Burgundy"
+  url: "/tartans/e/et/etive-burgundy/"
 - name: "Etive, Burgundy (Dance)"
   url: "/setts/r15ri1g3k1w11r3g3ri3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15ri1g3k1w11r3g3ri3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGKWRGRW](/stripes/rrgkwrgrw/).
+
+Part of the [Etive Burgundy](/tartans/e/et/etive-burgundy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

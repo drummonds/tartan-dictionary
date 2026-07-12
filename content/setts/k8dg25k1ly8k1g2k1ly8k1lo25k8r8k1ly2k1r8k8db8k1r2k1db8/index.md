@@ -6,7 +6,7 @@ This is the **Rosalyn** sett — one scale-free proportion (`k8dg25k1ly8k1g2k1ly
 [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Rosalyn](/tartans/rosalyn/) tartan — the named design grouping this sett with its kin.
+Part of the [Rosalyn](/tartans/r/ro/rosalyn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

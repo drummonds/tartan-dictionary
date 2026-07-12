@@ -6,7 +6,7 @@ This is the **MacKintosh Hunting Clan Tartan** sett — one scale-free proportio
 [BRGRBGG](/stripes/brgrbgg/). It is recorded as a single **variant**, below.
 First attested **1951**.
 
-Part of the [MacKintosh Hunting](/tartans/mackintosh-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKintosh Hunting](/tartans/m/ma/mackintosh-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

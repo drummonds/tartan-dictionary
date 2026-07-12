@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathtummel"
+  url: "/tartans/s/st/strathtummel-2/"
+- name: "Strathtummel"
   url: "/setts/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
+
+Part of the [Strathtummel](/tartans/s/st/strathtummel-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

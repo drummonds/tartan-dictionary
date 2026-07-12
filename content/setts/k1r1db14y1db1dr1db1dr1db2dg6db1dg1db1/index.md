@@ -6,7 +6,7 @@ This is the **Merchant Company, The** sett — one scale-free proportion (`k1r1d
 [BGBGBBBBBGBRK](/stripes/bgbgbbbbbgbrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Merchant Company, The](/tartans/merchant-company-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Merchant Company, The](/tartans/m/me/merchant-company-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

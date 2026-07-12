@@ -6,6 +6,8 @@ This is the **Reston (Personal)** sett — one scale-free proportion (`w4db32k2l
 [WBKWKGKGKWKGW](/stripes/wbkwkgkgkwkgw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Reston](/tartans/r/re/reston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

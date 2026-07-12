@@ -6,6 +6,8 @@ This is the **Birral/Burrell** sett — one scale-free proportion (`lb4dp8w2g32w
 [WBWGWRRBRRWBRWBWW](/stripes/wbwgwrrbrrwbrwbww/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
+Part of the [Birral/Burrell](/tartans/b/bi/birral-burrell-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

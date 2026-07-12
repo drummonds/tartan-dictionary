@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St Patrick Trade or Fancy"
+  url: "/tartans/s/st/st-patrick-trade-or-fancy/"
 - name: "St Patrick Trade or Fancy Tartan"
   url: "/setts/y4g2w3g40w3g3w4g3w13g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4g2w3g40w3g3w4g3w13g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGWGWGWG](/stripes/ggwgwgwgwg/).
+
+Part of the [St Patrick Trade or Fancy](/tartans/s/st/st-patrick-trade-or-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

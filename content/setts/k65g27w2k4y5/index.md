@@ -6,6 +6,8 @@ This is the **Perry, hunting (Green)** sett — one scale-free proportion (`k65g
 [GKWGK](/stripes/gkwgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Perry, hunting](/tartans/p/pe/perry-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

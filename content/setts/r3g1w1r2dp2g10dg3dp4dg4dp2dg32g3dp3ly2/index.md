@@ -6,6 +6,8 @@ This is the **McGran (Personal)** sett — one scale-free proportion (`r3g1w1r2d
 [RGWRBGGBGBGGBY](/stripes/rgwrbggbgbggby/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [McGran](/tartans/m/mc/mcgran/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

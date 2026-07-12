@@ -6,6 +6,8 @@ This is the **Royal Pharmaceutical, Society** sett — one scale-free proportion
 [RBGBGBGBW](/stripes/rbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal Pharmaceutical, Society](/tartans/r/ro/royal-pharmaceutical-society-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

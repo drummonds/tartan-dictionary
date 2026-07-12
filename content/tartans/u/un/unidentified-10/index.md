@@ -1,0 +1,37 @@
+---
+title: "Unidentified 10"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GRBW](/stripes/grbw/) — the page of every tartan sharing this colour sequence.
+
+The **Unidentified 10** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g14r3db9lb2/">Unidentified 10</a></td><td><code>G/28 R6 DB18 LB/4</code></td><td>80</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g14r3db9lb2/"><img src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="Unidentified 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Unidentified #4
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">80</div><div class="nn-name nn-base"><a href="/variants/s4/g14r3db9lb2~x2/">Unidentified 10</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3db11lb2~x2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.20</a></div><div class="nn-threads">90</div><div class="nn-name"><a href="/variants/s4/g15r3db11lb2~x2/">MacNab</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3db11w2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.51</a></div><div class="nn-threads">45</div><div class="nn-name"><a href="/variants/s4/g15r3db11w2/">MacNab WI2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3db11w2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db5g6r1~x4&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.63</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s3/db5g6r1~x4/">Wilson's No 84, Ferguson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/db5g6r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=b5g7k1lb1~x4&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.75</a></div><div class="nn-threads">88</div><div class="nn-name"><a href="/variants/s4/b5g7k1lb1~x4/">Wilson's, No 195</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/b5g7k1lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db13r2g13~x2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.78</a></div><div class="nn-threads">60</div><div class="nn-name"><a href="/variants/s3/db13r2g13~x2/">Wilson's No.062</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/db13r2g13~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g17r2db15~x2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.80</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s3/g17r2db15~x2/">Ferguson (Old) Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g17r2db15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g13r2lb13~x2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.83</a></div><div class="nn-threads">60</div><div class="nn-name"><a href="/variants/s3/g13r2lb13~x2/">Wilson's No.161</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g13r2lb13~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db21g34r14w6~x2&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.91</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s4/db21g34r14w6~x2/">Harbison (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db21g34r14w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6g5r1~x4&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.94</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s3/db6g5r1~x4/">Ferguson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/db6g5r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db13r5g5w3~x8&amp;base=g14r3db9lb2~x2" title="compare in the TTD">0.97</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s4/db13r5g5w3~x8/">International Highland Games Fed.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db13r5g5w3~x8/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.5" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.6" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.9" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s4/b5g7k1lb1~x4/"><circle cx="252.0" cy="248.8" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.3" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s3/g17r2db15~x2/"><circle cx="312.4" cy="294.2" r="4" fill="#3465a4"><title>Ferguson (Old) Clan Tartan</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="288.1" cy="282.9" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="290.4" cy="310.2" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><circle cx="258.2" cy="262.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

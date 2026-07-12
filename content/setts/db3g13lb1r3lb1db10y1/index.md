@@ -6,6 +6,8 @@ This is the **Graeme Heckenberg Hunting** sett — one scale-free proportion (`d
 [BGWRWBG](/stripes/bgwrwbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Graeme Heckenberg Hunting](/tartans/g/gr/graeme-heckenberg-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

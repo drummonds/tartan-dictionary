@@ -6,7 +6,7 @@ This is the **Ryutokukan High School (Corporate)** sett — one scale-free propo
 [RBRBRBRBRGBW](/stripes/rbrbrbrbrgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Ryutokukan High School](/tartans/ryutokukan-high-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Ryutokukan High School](/tartans/r/ry/ryutokukan-high-school/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

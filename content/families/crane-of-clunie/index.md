@@ -18,5 +18,5 @@ A family of [Clan Crane](/clan/crane/).
 </tbody>
 </table>
 
-[See the Crane of Clunie tartan and all its setts →](/tartans/crane-of-clunie/)
+[See the Crane of Clunie tartan and all its setts →](/tartans/c/cr/crane-of-clunie/)
 

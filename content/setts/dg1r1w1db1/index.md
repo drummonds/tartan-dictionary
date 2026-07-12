@@ -6,6 +6,8 @@ This is the **Algarve** sett — one scale-free proportion (`dg1r1w1db1`), colou
 [BWRG](/stripes/bwrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Algarve](/tartans/a/al/algarve/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

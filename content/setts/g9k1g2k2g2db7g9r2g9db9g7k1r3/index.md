@@ -6,6 +6,8 @@ This is the **Moncrieff of Atholl** sett — one scale-free proportion (`g9k1g2k
 [GKGKGBGRGBGKR](/stripes/gkgkgbgrgbgkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Moncrieff of Atholl](/tartans/m/mo/moncrieff-of-atholl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

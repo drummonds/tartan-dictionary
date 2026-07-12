@@ -6,6 +6,8 @@ This is the **Kinloch Anderson #2 (Corporate)** sett — one scale-free proporti
 [BBBBKGKRGRGB](/stripes/bbbbkgkrgrgb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Kinloch Anderson](/tartans/k/ki/kinloch-anderson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

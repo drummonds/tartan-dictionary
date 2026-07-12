@@ -6,6 +6,8 @@ This is the **Vincent** sett — one scale-free proportion (`dr1t4dr4db1dr4db4do
 [BBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Vincent](/tartans/v/vi/vincent/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

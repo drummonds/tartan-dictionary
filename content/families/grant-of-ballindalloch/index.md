@@ -19,5 +19,5 @@ A family of [Clan Grant](/clan/grant/).
 </tbody>
 </table>
 
-[See the Grant of Ballindalloch tartan and all its setts →](/tartans/grant-of-ballindalloch/)
+[See the Grant of Ballindalloch tartan and all its setts →](/tartans/g/gr/grant-of-ballindalloch/)
 

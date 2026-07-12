@@ -6,6 +6,8 @@ This is the **Ikelman No 4** sett — one scale-free proportion (`r10k15g2k2w1k1
 [RKGKWKW](/stripes/rkgkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ikelman No 4](/tartans/i/ik/ikelman-no-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

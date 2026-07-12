@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hirter Karo"
+  url: "/tartans/h/hi/hirter-karo/"
 - name: "Hirter Karo (Corporate)"
   url: "/setts/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/).
+
+Part of the [Hirter Karo](/tartans/h/hi/hirter-karo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

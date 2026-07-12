@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wishart Hunting"
-  url: "/tartans/wishart-hunting/"
+  url: "/tartans/w/wi/wishart-hunting/"
 - name: "Wishart Htg (Clan)"
   url: "/setts/k7db4g31db3y2db27lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7db4g31db3y2db27lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGBW](/stripes/kbgbgbw/).
 
-Part of the [Wishart Hunting](/tartans/wishart-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wishart Hunting](/tartans/w/wi/wishart-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

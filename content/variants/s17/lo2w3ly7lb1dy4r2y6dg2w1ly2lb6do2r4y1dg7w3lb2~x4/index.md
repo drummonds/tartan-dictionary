@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ste-Anne-de-Portneuf"
+  url: "/tartans/s/st/ste-anne-de-portneuf/"
+- name: "Ste-Anne-de-Portneuf"
   url: "/setts/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWGGRBWYWGGRGWYWY](/stripes/wwggrbwywggrgwywy/).
+
+Part of the [Ste-Anne-de-Portneuf](/tartans/s/st/ste-anne-de-portneuf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

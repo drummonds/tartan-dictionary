@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Havel"
+  url: "/tartans/h/ha/havel/"
+- name: "Havel"
   url: "/setts/r21k21w10k10w21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r21k21w10k10w21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKW](/stripes/rkwkw/).
+
+Part of the [Havel](/tartans/h/ha/havel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Collister (Personal)** sett — one scale-free proportion (`k26n2k
 [KBKBKBWBBY](/stripes/kbkbkbwbby/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Collister](/tartans/c/co/collister/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

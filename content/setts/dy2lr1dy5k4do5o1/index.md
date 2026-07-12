@@ -6,6 +6,8 @@ This is the **Huntly #3** sett — one scale-free proportion (`dy2lr1dy5k4do5o1`
 [GYGKBRBKGY](/stripes/gygkbrbkgy/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Huntly](/tartans/h/hu/huntly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

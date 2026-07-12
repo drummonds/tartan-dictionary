@@ -6,6 +6,8 @@ This is the **Caledonian Society Ancient Artifact Tartan** sett — one scale-fr
 [RGGKWWBW](/stripes/rggkwwbw/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Ancient Caledonian Society](/tartans/a/an/ancient-caledonian-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

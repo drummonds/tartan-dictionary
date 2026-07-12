@@ -6,6 +6,8 @@ This is the **Rattray of Lude** sett — one scale-free proportion (`k1g8k4r1db8
 [KGKRBRBRGW](/stripes/kgkrbrbrgw/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Rattray of Lude](/tartans/r/ra/rattray-of-lude/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pride of Wales (Fashion)** sett — one scale-free proportion (`g1
 [GKBWBKBKBKBR](/stripes/gkbwbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Pride of Wales](/tartans/p/pr/pride-of-wales-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

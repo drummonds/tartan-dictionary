@@ -6,7 +6,7 @@ This is the **Letham (S.Australia)** sett — one scale-free proportion (`g40k20
 [GKWKWGKW](/stripes/gkwkwgkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Letham](/tartans/letham/) tartan — the named design grouping this sett with its kin.
+Part of the [Letham](/tartans/l/le/letham/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

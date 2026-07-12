@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galt, Alexander, Sir"
+  url: "/tartans/g/ga/galt-alexander-sir/"
+- name: "Galt, Alexander, Sir"
   url: "/setts/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKYKYKBBKBKY](/stripes/bgkykykbbkbky/).
+
+Part of the [Galt, Alexander, Sir](/tartans/g/ga/galt-alexander-sir/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

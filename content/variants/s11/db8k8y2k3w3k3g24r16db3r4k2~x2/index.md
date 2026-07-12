@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Maclean"
   url: "/clan/maclean/"
 - name: "MacLean"
-  url: "/tartans/maclean-2/"
+  url: "/tartans/m/ma/maclean-2/"
 - name: "MacLean"
   url: "/setts/db8k8y2k3w3k3g24r16db3r4k2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k8y2k3w3k3g24r16db3r4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWKGRBRK](/stripes/bkgkwkgrbrk/).
 
-Part of the [MacLean](/tartans/maclean-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLean](/tartans/m/ma/maclean-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

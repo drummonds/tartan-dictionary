@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Herron"
+  url: "/clan/herron/"
+- name: "Herron from Ulster"
+  url: "/tartans/h/he/herron-from-ulster/"
 - name: "Herron from Ulster (Personal)"
   url: "/setts/dg12k11dg1k1dg1db10dg1k1dg1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12k11dg1k1dg1db10dg1k1dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGKGKG](/stripes/gkgbgkgkg/).
+
+Part of the [Herron from Ulster](/tartans/h/he/herron-from-ulster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Evergreen** sett — one scale-free proportion (`w2n30ly10w1ly10n1
 [BGBYWYBW](/stripes/bgbywybw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Evergreen](/tartans/e/ev/evergreen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

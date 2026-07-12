@@ -6,6 +6,8 @@ This is the **Annan (Fashion)** sett — one scale-free proportion (`y16oi2y2o2y
 [GBBGRGRGRG](/stripes/gbbgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Annan](/tartans/a/an/annan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barony of Gartly"
+  url: "/tartans/b/ba/barony-of-gartly/"
 - name: "Barony of Gartly (Personal)"
   url: "/setts/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27o4dg27dt8db3dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGRGBGBGBGBGWBWGBBBBGB](/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/).
+
+Part of the [Barony of Gartly](/tartans/b/ba/barony-of-gartly/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

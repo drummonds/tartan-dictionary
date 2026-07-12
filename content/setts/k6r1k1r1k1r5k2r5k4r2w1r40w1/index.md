@@ -6,6 +6,8 @@ This is the **Jupiter Shop Channel Co Ltd** sett — one scale-free proportion (
 [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Jupiter Shop Channel Co Ltd](/tartans/j/ju/jupiter-shop-channel-co-ltd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

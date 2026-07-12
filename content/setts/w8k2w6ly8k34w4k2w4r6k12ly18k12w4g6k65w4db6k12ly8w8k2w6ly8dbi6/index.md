@@ -6,7 +6,7 @@ This is the **Lindenwood University (Corporate)** sett — one scale-free propor
 [BYWKWYKBWKGWKYKRWKWKYWKW](/stripes/bywkwykbwkgwkykrwkwkywkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Lindenwood University](/tartans/lindenwood-university/) tartan — the named design grouping this sett with its kin.
+Part of the [Lindenwood University](/tartans/l/li/lindenwood-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Bannockbane Silver** sett — one scale-free proportion (`db3dr2db
 [BBBBWBBB](/stripes/bbbbwbbb/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [Bannockbane Silver](/tartans/bannockbane-silver/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane Silver](/tartans/b/ba/bannockbane-silver/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

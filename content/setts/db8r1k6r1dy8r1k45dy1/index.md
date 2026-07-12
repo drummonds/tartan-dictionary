@@ -6,7 +6,7 @@ This is the **degli Uberti, Baron of Cartsburn (Personal)** sett — one scale-f
 [BRKRGRKG](/stripes/brkrgrkg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [degli Uberti, Baron of Cartsburn](/tartans/degli-uberti-baron-of-cartsburn/) tartan — the named design grouping this sett with its kin.
+Part of the [degli Uberti, Baron of Cartsburn](/tartans/d/de/degli-uberti-baron-of-cartsburn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

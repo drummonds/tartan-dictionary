@@ -6,6 +6,8 @@ This is the **Kintyre** sett — one scale-free proportion (`dr1o6ly2w1k8w1ly2w9
 [BRYWKWYWKWG](/stripes/brywkwywkwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kintyre](/tartans/k/ki/kintyre-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

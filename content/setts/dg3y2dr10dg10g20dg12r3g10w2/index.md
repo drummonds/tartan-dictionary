@@ -6,6 +6,8 @@ This is the **Patel (2013)** sett — one scale-free proportion (`dg3y2dr10dg10g
 [GGBGGGRGW](/stripes/ggbgggrgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Patel](/tartans/p/pa/patel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Heather** sett — one scale-free proportion (`o4
 [BGGGGGGGBRBR](/stripes/bgggggggbrbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Kinloch Anderson Heather](/tartans/k/ki/kinloch-anderson-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

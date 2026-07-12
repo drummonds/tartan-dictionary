@@ -6,6 +6,8 @@ This is the **Barbour Corporate Tartan** sett — one scale-free proportion (`ly
 [RKWBYGY](/stripes/rkwbygy/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Barbour](/tartans/b/ba/barbour-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ferguson Britt Red (Corporate)** sett — one scale-free proportio
 [BRBBR](/stripes/brbbr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Ferguson Britt](/tartans/f/fe/ferguson-britt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

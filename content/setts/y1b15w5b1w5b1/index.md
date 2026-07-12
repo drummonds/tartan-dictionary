@@ -6,6 +6,8 @@ This is the **Whitley (Personal)** sett — one scale-free proportion (`y1b15w5b
 [BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Whitley](/tartans/w/wh/whitley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

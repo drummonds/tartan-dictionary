@@ -6,7 +6,7 @@ This is the **City of London (Corporate)** sett — one scale-free proportion (`
 [KBWR](/stripes/kbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [City of London](/tartans/city-of-london/) tartan — the named design grouping this sett with its kin.
+Part of the [City of London](/tartans/c/ci/city-of-london/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

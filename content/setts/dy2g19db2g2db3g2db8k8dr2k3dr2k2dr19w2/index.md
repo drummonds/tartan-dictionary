@@ -6,6 +6,8 @@ This is the **Gotts (Personal)** sett — one scale-free proportion (`dy2g19db2g
 [GGBGBGBKBKBKBW](/stripes/ggbgbgbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Gotts](/tartans/g/go/gotts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

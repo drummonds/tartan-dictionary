@@ -6,6 +6,8 @@ This is the **Chicago University of.. Corporate Tartan** sett — one scale-free
 [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Chicago University of..](/tartans/c/ch/chicago-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

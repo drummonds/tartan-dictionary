@@ -6,6 +6,8 @@ This is the **Tyrconnell (Personal)** sett — one scale-free proportion (`g44db
 [GBRBG](/stripes/gbrbg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Tyrconnell](/tartans/t/ty/tyrconnell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

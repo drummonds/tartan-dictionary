@@ -6,6 +6,8 @@ This is the **Law of Heather Athol (Personal)** sett — one scale-free proporti
 [BRBRBGRGRGKG](/stripes/brbrbgrgrgkg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Law of Heather Athol](/tartans/l/la/law-of-heather-athol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

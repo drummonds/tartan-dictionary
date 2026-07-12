@@ -6,6 +6,8 @@ This is the **Buildbase** sett — one scale-free proportion (`dr8w1k3dr3k10w3k5
 [BWKBKWKWKBKW](/stripes/bwkbkwkwkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Buildbase](/tartans/b/bu/buildbase/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

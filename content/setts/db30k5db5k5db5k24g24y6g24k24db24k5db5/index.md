@@ -6,6 +6,8 @@ This is the **Lamberton (?)** sett — one scale-free proportion (`db30k5db5k5db
 [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Lamberton](/tartans/l/la/lamberton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

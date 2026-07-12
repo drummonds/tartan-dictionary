@@ -6,6 +6,8 @@ This is the **Blackcraig (Personal)** sett — one scale-free proportion (`k10w1
 [KWKWKWKWRWKWK](/stripes/kwkwkwkwrwkwk/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Blackcraig](/tartans/b/bl/blackcraig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

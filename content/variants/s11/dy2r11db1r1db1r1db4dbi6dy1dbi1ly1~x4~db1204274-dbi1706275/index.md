@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "NHK Asaichi"
+  url: "/tartans/n/nh/nhk-asaichi/"
+- name: "NHK Asaichi"
   url: "/setts/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBRBBGBY](/stripes/grbrbrbbgby/).
+
+Part of the [NHK Asaichi](/tartans/n/nh/nhk-asaichi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

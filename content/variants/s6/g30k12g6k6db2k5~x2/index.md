@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fife, Duchess of.."
+  url: "/tartans/f/fi/fife-duchess-of/"
+- name: "Fife, Duchess of.."
   url: "/setts/g30k12g6k6db2k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30k12g6k6db2k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBK](/stripes/gkgkbk/).
+
+Part of the [Fife, Duchess of..](/tartans/f/fi/fife-duchess-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

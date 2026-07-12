@@ -6,6 +6,8 @@ This is the **Heritage of Wales (Fashion)** sett — one scale-free proportion (
 [RBRBKBW](/stripes/rbrbkbw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Heritage of Wales](/tartans/h/he/heritage-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

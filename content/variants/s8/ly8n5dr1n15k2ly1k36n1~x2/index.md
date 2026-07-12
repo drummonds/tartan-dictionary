@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cirse 3D"
+  url: "/tartans/c/ci/cirse-3d/"
+- name: "Cirse 3D"
   url: "/setts/ly8n5dr1n15k2ly1k36n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly8n5dr1n15k2ly1k36n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBBBY](/stripes/bkykbbby/).
+
+Part of the [Cirse 3D](/tartans/c/ci/cirse-3d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

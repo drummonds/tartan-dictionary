@@ -6,6 +6,8 @@ This is the **Colbert Check (Fashion)** sett — one scale-free proportion (`k62
 [KWGKWKYW](/stripes/kwgkwkyw/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Colbert Check](/tartans/c/co/colbert-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

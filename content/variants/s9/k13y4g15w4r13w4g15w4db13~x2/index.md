@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of 1994"
-  url: "/tartans/spirit-of-1994/"
+  url: "/tartans/s/sp/spirit-of-1994/"
 - name: "Spirit of 1994"
   url: "/setts/k13y4g15w4r13w4g15w4db13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k13y4g15w4r13w4g15w4db13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWRWGGK](/stripes/bwgwrwggk/).
 
-Part of the [Spirit of 1994](/tartans/spirit-of-1994/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spirit of 1994](/tartans/s/sp/spirit-of-1994/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

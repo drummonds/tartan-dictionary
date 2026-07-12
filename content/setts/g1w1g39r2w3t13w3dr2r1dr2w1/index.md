@@ -6,6 +6,8 @@ This is the **Schuster (Perosnal)** sett — one scale-free proportion (`g1w1g39
 [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Schuster](/tartans/s/sc/schuster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

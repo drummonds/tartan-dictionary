@@ -6,6 +6,8 @@ This is the **Barbour - Muted** sett — one scale-free proportion (`ly4r2ly21dt
 [YRWBYRY](/stripes/yrwbyry/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Barbour](/tartans/b/ba/barbour-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

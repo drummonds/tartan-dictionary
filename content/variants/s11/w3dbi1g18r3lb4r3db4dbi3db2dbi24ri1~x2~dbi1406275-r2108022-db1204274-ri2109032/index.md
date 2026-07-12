@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coldstream"
+  url: "/tartans/c/co/coldstream/"
 - name: "Queen of the South Football Club"
   url: "/setts/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBRWRGBW](/stripes/rbbbbrwrgbw/).
+
+Part of the [Coldstream](/tartans/c/co/coldstream/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

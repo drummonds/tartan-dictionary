@@ -6,6 +6,8 @@ This is the **Stuart/Stewart of Appin (Dress Hunting Stewart)** sett — one sca
 [GWWKWGRBRGRGRWKR](/stripes/gwwkwgrbrgrgrwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stuart/Stewart of Appin](/tartans/s/st/stuart-stewart-of-appin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

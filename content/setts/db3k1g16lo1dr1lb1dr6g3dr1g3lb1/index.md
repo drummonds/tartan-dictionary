@@ -6,7 +6,7 @@ This is the **Canadian Caledonian Hunting** sett — one scale-free proportion (
 [BKGYBWBGBGW](/stripes/bkgybwbgbgw/). It is recorded as a single **variant**, below.
 First attested **1939**.
 
-Part of the [Canadian Caledonian Hunting](/tartans/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Canadian Caledonian Hunting](/tartans/c/ca/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sprouston"
+  url: "/tartans/s/sp/sprouston/"
+- name: "Sprouston"
   url: "/setts/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGBGBGGGGGBGBGWGRGWGRGW](/stripes/gbgggbgbgggggbgbgwgrgwgrgw/).
+
+Part of the [Sprouston](/tartans/s/sp/sprouston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

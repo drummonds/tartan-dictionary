@@ -6,6 +6,8 @@ This is the **Ertico** sett — one scale-free proportion (`k3ly1dbi1db6r2db1r1d
 [KYBBRBRBBW](/stripes/kybbrbrbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Ertico](/tartans/e/er/ertico/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

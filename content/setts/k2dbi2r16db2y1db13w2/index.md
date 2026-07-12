@@ -7,7 +7,7 @@ This is the **Wishart, dress** sett — one scale-free proportion (`k2dbi2r16db2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
-Part of the [Wishart Dress](/tartans/wishart-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Wishart Dress](/tartans/w/wi/wishart-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

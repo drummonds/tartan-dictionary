@@ -6,6 +6,8 @@ This is the **Cascade Summers, (The Resort at the Mountain)** sett — one scale
 [BBRGBKWKBRWK](/stripes/bbrgbkwkbrwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cascade Summers](/tartans/c/ca/cascade-summers-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

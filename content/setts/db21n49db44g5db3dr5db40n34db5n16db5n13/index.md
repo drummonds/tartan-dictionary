@@ -6,6 +6,8 @@ This is the **Cara O Cruz** sett — one scale-free proportion (`db21n49db44g5db
 [BBBBBBBBGBBB](/stripes/bbbbbbbbgbbb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Cara O Cruz](/tartans/c/ca/cara-o-cruz/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackstock Hunting"
+  url: "/tartans/b/bl/blackstock-hunting/"
 - name: "Blackstock Hunting Family Tartan"
   url: "/setts/k2r7k6g12y1g1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2r7k6g12y1g1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGGKRK](/stripes/kgggkrk/).
+
+Part of the [Blackstock Hunting](/tartans/b/bl/blackstock-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

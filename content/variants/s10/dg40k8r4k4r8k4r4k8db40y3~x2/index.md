@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Griffiths"
+  url: "/clan/griffiths/"
+- name: "Griffiths of Llangynin"
+  url: "/families/griffiths-of-llangynin/"
+- name: "Griffiths of Llangynin"
+  url: "/tartans/g/gr/griffiths-of-llangynin/"
 - name: "Griffiths of Llangynin (Personal)"
   url: "/setts/dg40k8r4k4r8k4r4k8db40y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg40k8r4k4r8k4r4k8db40y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRKRKRKG](/stripes/gbkrkrkrkg/).
+
+Part of the [Griffiths of Llangynin](/tartans/g/gr/griffiths-of-llangynin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

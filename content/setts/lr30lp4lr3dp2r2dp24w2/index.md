@@ -6,6 +6,8 @@ This is the **St. Andrew's Links Dress (Corporate)** sett — one scale-free pro
 [WBRBYWY](/stripes/wbrbywy/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [St. Andrew's Links Dress](/tartans/s/st/st-andrew-s-links-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

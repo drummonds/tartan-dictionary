@@ -6,7 +6,7 @@ This is the **PMMC** sett — one scale-free proportion (`r3k11dg29k28g19y2db1`)
 [BGGKGKR](/stripes/bggkgkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [PMMC](/tartans/pmmc/) tartan — the named design grouping this sett with its kin.
+Part of the [PMMC](/tartans/p/pm/pmmc/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

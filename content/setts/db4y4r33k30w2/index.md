@@ -6,6 +6,8 @@ This is the **Wormeck (2013) Germany** sett — one scale-free proportion (`db4y
 [BGRKW](/stripes/bgrkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wormeck German](/tartans/w/wo/wormeck-german/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

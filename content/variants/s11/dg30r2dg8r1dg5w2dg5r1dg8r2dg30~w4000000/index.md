@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brithwe Dewi Sant"
+  url: "/tartans/b/br/brithwe-dewi-sant/"
 - name: "Brithwe Dewi Sant (Welsh)"
   url: "/setts/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGWGRGRG](/stripes/grgrgwgrgrg/).
+
+Part of the [Brithwe Dewi Sant](/tartans/b/br/brithwe-dewi-sant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

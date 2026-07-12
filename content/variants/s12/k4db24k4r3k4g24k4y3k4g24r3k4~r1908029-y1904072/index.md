@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
+- name: "Skene N"
+  url: "/tartans/s/sk/skene-n/"
 - name: "Skene N"
   url: "/setts/k4db24k4r3k4g24k4y3k4g24r3k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db24k4r3k4g24k4y3k4g24r3k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKGKGKGRK](/stripes/kbkrkgkgkgrk/).
+
+Part of the [Skene N](/tartans/s/sk/skene-n/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Macallan Distillery** sett — one scale-free proportion (`g8r1g2r
 [GRGRGKGWRWRW](/stripes/grgrgkgwrwrw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Macallan Distillery](/tartans/m/ma/macallan-distillery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

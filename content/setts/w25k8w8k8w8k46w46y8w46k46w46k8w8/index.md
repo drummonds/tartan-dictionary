@@ -6,6 +6,8 @@ This is the **Poulter SG ? Black & white (Fashion)** sett — one scale-free pro
 [WKWKWGWKWKWKW](/stripes/wkwkwgwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Poulter SG ? Black &](/tartans/p/po/poulter-sg-black/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

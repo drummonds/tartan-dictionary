@@ -6,6 +6,8 @@ This is the **Grotto Dove (Dance)** sett — one scale-free proportion (`w102dp2
 [WBWBWBGRBRW](/stripes/wbwbwbgrbrw/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Grotto Dove](/tartans/g/gr/grotto-dove-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

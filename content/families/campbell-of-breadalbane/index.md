@@ -18,5 +18,5 @@ A family of [Clan Campbell](/clan/campbell/).
 </tbody>
 </table>
 
-[See the Campbell of Breadalbane tartan and all its setts →](/tartans/campbell-of-breadalbane/)
+[See the Campbell of Breadalbane tartan and all its setts →](/tartans/c/ca/campbell-of-breadalbane/)
 

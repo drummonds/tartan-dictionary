@@ -6,6 +6,8 @@ This is the **Balmoral Royal Tartan** sett — one scale-free proportion (`n2r1n
 [BRBWKBWBWBKBR](/stripes/brbwkbwbwbkbr/). It is recorded as a single **variant**, below.
 First attested **1860**.
 
+Part of the [Balmoral](/tartans/b/ba/balmoral-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

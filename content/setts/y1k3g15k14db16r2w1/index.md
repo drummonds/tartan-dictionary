@@ -6,7 +6,7 @@ This is the **Macneil of Barra - Chief (Personal)** sett — one scale-free prop
 [GKGKBRW](/stripes/gkgkbrw/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
-Part of the [MacNeil](/tartans/macneil/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil](/tartans/m/ma/macneil/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

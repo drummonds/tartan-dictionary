@@ -6,7 +6,7 @@ This is the **Celtic Norse Heritage Society** sett — one scale-free proportion
 [BKBGY](/stripes/bkbgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Celtic Norse Heritage Society](/tartans/celtic-norse-heritage-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Celtic Norse Heritage Society](/tartans/c/ce/celtic-norse-heritage-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

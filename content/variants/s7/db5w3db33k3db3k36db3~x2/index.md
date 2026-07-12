@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Argentina"
+  url: "/tartans/a/ar/argentina/"
+- name: "Argentina"
   url: "/setts/db5w3db33k3db3k36db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5w3db33k3db3k36db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWB](/stripes/bkbkbwb/).
+
+Part of the [Argentina](/tartans/a/ar/argentina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

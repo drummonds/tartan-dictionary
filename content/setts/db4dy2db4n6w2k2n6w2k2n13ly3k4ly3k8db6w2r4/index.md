@@ -6,6 +6,8 @@ This is the **Clauweart** sett — one scale-free proportion (`db4dy2db4n6w2k2n6
 [BGBBWKBWKBYKYKBWR](/stripes/bgbbwkbwkbykykbwr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Clauweart](/tartans/c/cl/clauweart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

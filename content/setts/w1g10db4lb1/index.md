@@ -6,6 +6,8 @@ This is the **Wilson's, No 205** sett — one scale-free proportion (`w1g10db4lb
 [WBGW](/stripes/wbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's, No 205](/tartans/w/wi/wilson-s-no-205-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

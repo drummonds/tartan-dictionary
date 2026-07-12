@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
+- name: "East Kilbride"
+  url: "/tartans/e/ea/east-kilbride-2/"
 - name: "East Kilbride #2"
   url: "/setts/w2dr14k1n5k1n5do8dr10ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2dr14k1n5k1n5do8dr10ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBKBBBY](/stripes/wbkbkbbby/).
+
+Part of the [East Kilbride](/tartans/e/ea/east-kilbride-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

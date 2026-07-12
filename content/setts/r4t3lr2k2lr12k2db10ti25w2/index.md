@@ -6,6 +6,8 @@ This is the **O'Reilly (Estimated threadcount)** sett — one scale-free proport
 [RBYKYKBBW](/stripes/rbykykbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [O'Reilly](/tartans/o/o/o-reilly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

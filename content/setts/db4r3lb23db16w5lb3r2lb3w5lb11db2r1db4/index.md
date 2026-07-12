@@ -6,7 +6,7 @@ This is the **Illinois St Andrews Society Corporate Tartan** sett — one scale-
 [BRBWWWRWWBWRB](/stripes/brbwwwrwwbwrb/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [Illinois, St Andrews Society](/tartans/illinois-st-andrews-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Illinois, St Andrews Society](/tartans/i/il/illinois-st-andrews-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

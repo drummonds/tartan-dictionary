@@ -6,6 +6,8 @@ This is the **Cailleach** sett — one scale-free proportion (`k30db20k10db5w2db
 [GRGBWBKBK](/stripes/grgbwbkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Cailleach](/tartans/c/ca/cailleach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

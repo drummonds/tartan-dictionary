@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacSween Hunting"
+  url: "/tartans/m/ma/macsween-hunting/"
 - name: "MacSween Hunting (Lochs, Isle of Lewis) (Personal)"
   url: "/setts/y3k22g4dg18g31r3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k22g4dg18g31r3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGRG](/stripes/gkgggrg/).
+
+Part of the [MacSween Hunting](/tartans/m/ma/macsween-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

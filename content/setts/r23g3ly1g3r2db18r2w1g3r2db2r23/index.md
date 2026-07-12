@@ -6,7 +6,7 @@ This is the **Mair (Personal)** sett — one scale-free proportion (`r23g3ly1g3r
 [RBRGWRBRGYGR](/stripes/rbrgwrbrgygr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Mair](/tartans/mair/) tartan — the named design grouping this sett with its kin.
+Part of the [Mair](/tartans/m/ma/mair/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

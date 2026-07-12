@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Traynor"
+  url: "/tartans/t/tr/traynor/"
+- name: "Traynor"
   url: "/setts/y2lb2db3lb30db4lb3db4lb3db18lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2lb2db3lb30db4lb3db4lb3db18lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWBWBW](/stripes/gwbwbwbwbw/).
+
+Part of the [Traynor](/tartans/t/tr/traynor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

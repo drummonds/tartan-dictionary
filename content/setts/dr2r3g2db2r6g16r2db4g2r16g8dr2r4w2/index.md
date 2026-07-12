@@ -7,7 +7,7 @@ This is the **MacKinnon** sett — one scale-free proportion (`dr2r3g2db2r6g16r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacKinnon](/tartans/mackinnon-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKinnon](/tartans/m/ma/mackinnon-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

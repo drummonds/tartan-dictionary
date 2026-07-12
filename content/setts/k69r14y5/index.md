@@ -6,6 +6,8 @@ This is the **Batson (Personal)** sett — one scale-free proportion (`k69r14y5`
 [GRK](/stripes/grk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Batson](/tartans/b/ba/batson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

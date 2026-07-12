@@ -6,6 +6,8 @@ This is the **Cameron of Locheil Htg (1952) (Clan)** sett — one scale-free pro
 [GGBGRGR](/stripes/ggbgrgr/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
+Part of the [Cameron of Locheil Hunting](/tartans/c/ca/cameron-of-locheil-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

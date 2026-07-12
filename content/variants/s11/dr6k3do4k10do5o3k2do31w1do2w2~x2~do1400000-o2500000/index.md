@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen and Son, William"
+  url: "/tartans/g/gl/glen-and-son-william/"
 - name: "Glen and Son, William (Corporate)"
   url: "/setts/dr6k3do4k10do5o3k2do31w1do2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6k3do4k10do5o3k2do31w1do2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBRKBWBW](/stripes/bkbkbrkbwbw/).
+
+Part of the [Glen and Son, William](/tartans/g/gl/glen-and-son-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wirth, Iwan"
-  url: "/tartans/wirth-iwan/"
+  url: "/tartans/w/wi/wirth-iwan/"
 - name: "Wirth, Iwan (Personal)"
   url: "/setts/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGRBWBBGGWBGWGGBWBGGGGG](/stripes/bbggrbwbbggwbgwggbwbggggg/).
 
-Part of the [Wirth, Iwan](/tartans/wirth-iwan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wirth, Iwan](/tartans/w/wi/wirth-iwan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

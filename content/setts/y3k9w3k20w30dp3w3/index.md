@@ -6,7 +6,7 @@ This is the **MacPherson Dress (1951)** sett — one scale-free proportion (`y3k
 [GKWKWBW](/stripes/gkwkwbw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [MacPherson Dress](/tartans/macpherson-dress-4/) tartan — the named design grouping this sett with its kin.
+Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Prince of Wales Check** sett — one scale-free proportion (`lb2do
 [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Prince of Wales Check](/tartans/p/pr/prince-of-wales-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

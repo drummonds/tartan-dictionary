@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "de Meuron Dress"
+  url: "/tartans/d/de/de-meuron-dress/"
 - name: "de Meuron Dress (Family)"
   url: "/setts/w40dp5w6ly26n13w9dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w40dp5w6ly26n13w9dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBYWBW](/stripes/gwbywbw/).
+
+Part of the [de Meuron Dress](/tartans/d/de/de-meuron-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

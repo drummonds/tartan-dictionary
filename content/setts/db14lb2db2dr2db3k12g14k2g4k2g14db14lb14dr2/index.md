@@ -6,6 +6,8 @@ This is the **Scotland's National Dress** sett — one scale-free proportion (`d
 [BWBBBKGKGKGBWB](/stripes/bwbbbkgkgkgbwb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Scotland's National Dress](/tartans/s/sc/scotland-s-national-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

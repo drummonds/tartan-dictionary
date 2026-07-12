@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Old** sett — one scale-free proportion (`db5k2g2k
 [BKGKGKBRBRBRWR](/stripes/bkgkgkbrbrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart Old](/tartans/s/st/stewart-old-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

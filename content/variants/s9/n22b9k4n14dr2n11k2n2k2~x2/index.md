@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Greyhound Grenadiers Pipe Band"
+  url: "/tartans/g/gr/greyhound-grenadiers-pipe-band/"
+- name: "Greyhound Grenadiers Pipe Band"
   url: "/setts/n22b9k4n14dr2n11k2n2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n22b9k4n14dr2n11k2n2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBKBBBKBBBKBK](/stripes/bkbbbkbbbkbbbkbk/).
+
+Part of the [Greyhound Grenadiers Pipe Band](/tartans/g/gr/greyhound-grenadiers-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

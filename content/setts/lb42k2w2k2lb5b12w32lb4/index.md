@@ -6,6 +6,8 @@ This is the **Longniddry, dress (Turquoise)** sett — one scale-free proportion
 [WKWKWBWW](/stripes/wkwkwbww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Longniddry, dress](/tartans/l/lo/longniddry-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

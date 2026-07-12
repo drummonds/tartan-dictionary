@@ -6,6 +6,8 @@ This is the **Quenouille (2011)** sett — one scale-free proportion (`y49r16k11
 [GRK](/stripes/grk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Quenouille](/tartans/q/qu/quenouille/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

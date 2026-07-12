@@ -6,6 +6,8 @@ This is the **Nisbet** sett — one scale-free proportion (`r10g24k10r28lb3r6`),
 [RGKRWR](/stripes/rgkrwr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Nisbet](/tartans/n/ni/nisbet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

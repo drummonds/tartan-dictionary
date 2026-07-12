@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Balnagowan"
+  url: "/tartans/b/ba/balnagowan/"
 - name: "Balnagowan (Harrods)"
   url: "/setts/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGRGKGKGRGRG](/stripes/ggrgrgkgkgrgrg/).
+
+Part of the [Balnagowan](/tartans/b/ba/balnagowan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

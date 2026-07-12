@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lopatinsky"
-  url: "/tartans/lopatinsky/"
+  url: "/tartans/l/lo/lopatinsky/"
 - name: "Lopatinsky (Personal)"
   url: "/setts/db24r6w6r6w6r6db25k12t36y6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24r6w6r6w6r6db25k12t36y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWRBKBG](/stripes/brwrwrbkbg/).
 
-Part of the [Lopatinsky](/tartans/lopatinsky/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lopatinsky](/tartans/l/lo/lopatinsky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

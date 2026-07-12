@@ -6,6 +6,8 @@ This is the **Connelly Tartan** sett — one scale-free proportion (`dg12dgi6r1d
 [GGRGGBGW](/stripes/ggrggbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Connelly](/tartans/c/co/connelly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

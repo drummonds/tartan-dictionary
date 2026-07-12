@@ -6,7 +6,7 @@ This is the **Borthwick Dress Artifact Tartan** sett — one scale-free proporti
 [GKRKWKWKW](/stripes/gkrkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Borthwick Dress](/tartans/borthwick-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Borthwick Dress](/tartans/b/bo/borthwick-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

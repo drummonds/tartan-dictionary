@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walters"
-  url: "/tartans/walters/"
+  url: "/tartans/w/wa/walters/"
 - name: "Walters (Personal)"
   url: "/setts/dg2dp2dg24dpi1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg2dp2dg24dpi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBG](/stripes/bgbg/).
 
-Part of the [Walters](/tartans/walters/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Walters](/tartans/w/wa/walters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

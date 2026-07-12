@@ -1,0 +1,43 @@
+---
+title: "Skene of Cromar"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
+- name: "Skene of Cromar"
+  url: "/families/skene-of-cromar/"
+---
+A tartan of the [Skene of Cromar](/families/skene-of-cromar/) family.
+Its design is pattern [KRBRBGRK](/stripes/krbrbgrk/) — the page of every tartan sharing this colour sequence.
+
+The **Skene of Cromar** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k4r37db37r2db37g37r37k4/">Skene of Cromar</a></td><td><code>K/8 R74 DB74 R4 DB74 G74 R74 K/8</code></td><td>382</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r37db37r2db37g37r37k4/"><img src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/k4r37db37r2db37g37r37k4/">Skene, of Cromar</a> · <a href="/variants/s8/k4r37db37r2db37g37r37k4~x2/">1950 (Clan)</a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Skene, of Cromar
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">382</div><div class="nn-name nn-base"><a href="/variants/s8/k4r37db37r2db37g37r37k4/">Skene of Cromar</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r37db37r2db37g37r37k4~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">0.00</a></div><div class="nn-threads">764</div><div class="nn-name"><a href="/variants/s8/k4r37db37r2db37g37r37k4~x2/">Skene of Cromar - 1950 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4r37db37r2db37g37r37k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3db12r4g18r6k2~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.10</a></div><div class="nn-threads nn-far">170</div><div class="nn-name nn-far"><a href="/variants/s6/r3db12r4g18r6k2~x2/">Eyre (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3db12r4g18r6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2r2db28k11r27w2r2~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s7/db2r2db28k11r27w2r2~x2/">Americana - 1978 #2 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db2r2db28k11r27w2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3db15r3g8r20k2~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">194</div><div class="nn-name nn-far"><a href="/variants/s6/r3db15r3g8r20k2~x2/">Finnigan (Estimated threadcount)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3db15r3g8r20k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8r11db28r4k17o1k7r2~x2~db1704245&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/db8r11db28r4k17o1k7r2~x2~db1704245/">Kilbranan Sound (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db8r11db28r4k17o1k7r2~x2~db1704245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b8r11b28r4k17o1k7r2~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/b8r11b28r4k17o1k7r2~x2/">Kilbranan Sound (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b8r11b28r4k17o1k7r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4r14t2dg16r3k3r3t12dg4~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.61</a></div><div class="nn-threads nn-far">228</div><div class="nn-name nn-far"><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/">Crook</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp32g16r14k4r6dp7k2~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.61</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/">Aisteach</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp32g16r14k4r6dp7k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db26g11r8k2r2w2r4w1r15~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">202</div><div class="nn-name nn-far"><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/">Royal Scottish Assurance (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db26dg11r8k2r2w2r4w1r15~x2&amp;base=k4r37db37r2db37g37r37k4" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">202</div><div class="nn-name nn-far"><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/">Royal Scottish Assurance</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="193.3" cy="172.6" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.5" cy="208.1" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.2" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.0" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s8/db8r11db28r4k17o1k7r2~x2~db1704245/"><circle cx="239.6" cy="137.0" r="4" fill="#3465a4"><title>Kilbranan Sound (Personal)</title></circle></a><a href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><circle cx="228.9" cy="132.4" r="4" fill="#3465a4"><title>Kilbranan Sound (Personal)</title></circle></a><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.8" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="248.0" cy="168.5" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><circle cx="193.3" cy="172.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

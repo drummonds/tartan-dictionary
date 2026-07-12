@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ellis Island"
-  url: "/tartans/ellis-island/"
+  url: "/tartans/e/el/ellis-island/"
 - name: "Ellis Island"
   url: "/setts/r68k1g6db4g1db12w1g6y1g24y1g2y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r68k1g6db4g1db12w1g6y1g24y1g2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGWBGBGKR](/stripes/ggggggwbgbgkr/).
 
-Part of the [Ellis Island](/tartans/ellis-island/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ellis Island](/tartans/e/el/ellis-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

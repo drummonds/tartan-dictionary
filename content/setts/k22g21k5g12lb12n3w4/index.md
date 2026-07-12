@@ -6,6 +6,8 @@ This is the **Disciples of Christ Motorcycle Ministry (Switzerland)** sett — o
 [KGKGWBW](/stripes/kgkgwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Disciples of Christ MM](/tartans/d/di/disciples-of-christ-mm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

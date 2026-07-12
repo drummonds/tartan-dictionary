@@ -7,7 +7,7 @@ This is the **Frame** sett — one scale-free proportion (`w4t14r1t1w1t1r1t14r14
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1982**.
 
-Part of the [Frame](/tartans/frame/) tartan — the named design grouping this sett with its kin.
+Part of the [Frame](/tartans/f/fr/frame/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

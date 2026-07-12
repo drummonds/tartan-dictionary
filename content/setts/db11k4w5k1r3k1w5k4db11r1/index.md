@@ -6,6 +6,8 @@ This is the **Hydro-Electric** sett — one scale-free proportion (`db11k4w5k1r3
 [BKWKRKWKBR](/stripes/bkwkrkwkbr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Hydro-Electric](/tartans/h/hy/hydro-electric-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Rowardennan** sett — one scale-free proportion (`k3dr22g5dg10do1
 [GBGGBK](/stripes/gbggbk/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Rowardennan](/tartans/r/ro/rowardennan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

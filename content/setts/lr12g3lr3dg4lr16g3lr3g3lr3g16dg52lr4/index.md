@@ -7,6 +7,8 @@ This is the **Kelso** sett — one scale-free proportion (`lr12g3lr3dg4lr16g3lr3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1984**.
 
+Part of the [Kelso](/tartans/k/ke/kelso/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

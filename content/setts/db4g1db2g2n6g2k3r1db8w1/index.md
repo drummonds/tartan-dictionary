@@ -6,6 +6,8 @@ This is the **EAIE 2015** sett — one scale-free proportion (`db4g1db2g2n6g2k3r
 [BGBGBGKRBW](/stripes/bgbgbgkrbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [EAIE 2015](/tartans/e/ea/eaie-2015/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

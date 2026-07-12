@@ -6,6 +6,8 @@ This is the **Hilton Champion Corporate Golf Tartan** sett — one scale-free pr
 [RWKKKKKRKRW](/stripes/rwkkkkkrkrw/). It is recorded as a single **variant**, below.
 First attested **~1970**.
 
+Part of the [Hilton Champion Corporate Golf](/tartans/h/hi/hilton-champion-corporate-golf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

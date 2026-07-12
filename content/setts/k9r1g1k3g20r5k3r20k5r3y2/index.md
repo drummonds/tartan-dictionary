@@ -6,6 +6,8 @@ This is the **Army Cadet Force (Military)** sett — one scale-free proportion (
 [GRKRKRGKGRK](/stripes/grkrkrgkgrk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Army Cadet Force](/tartans/a/ar/army-cadet-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

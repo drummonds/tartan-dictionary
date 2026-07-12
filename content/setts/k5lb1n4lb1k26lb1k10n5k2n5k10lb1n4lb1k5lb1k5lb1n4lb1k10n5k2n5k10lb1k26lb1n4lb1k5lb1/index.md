@@ -6,6 +6,8 @@ This is the **Clergy (Logan) (Corporate)** sett — one scale-free proportion (`
 [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

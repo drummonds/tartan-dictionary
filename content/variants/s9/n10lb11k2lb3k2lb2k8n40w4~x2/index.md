@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Doune"
-  url: "/tartans/doune/"
+  url: "/tartans/d/do/doune/"
 - name: "Doune (District)"
   url: "/setts/n10lb11k2lb3k2lb2k8n40w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n10lb11k2lb3k2lb2k8n40w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKWKBW](/stripes/bwkwkwkbw/).
 
-Part of the [Doune](/tartans/doune/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Doune](/tartans/d/do/doune/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

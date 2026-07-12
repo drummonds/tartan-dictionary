@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hydro-Electric"
+  url: "/tartans/h/hy/hydro-electric/"
 - name: "Hydro-Electric (Corporate)"
   url: "/setts/r3k1w5k4db11r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k1w5k4db11r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWKR](/stripes/rbkwkr/).
+
+Part of the [Hydro-Electric](/tartans/h/hy/hydro-electric/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

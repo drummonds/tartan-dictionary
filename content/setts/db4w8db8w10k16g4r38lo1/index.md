@@ -6,6 +6,8 @@ This is the **Edinburgh Napier University** sett — one scale-free proportion (
 [BWBWKGRY](/stripes/bwbwkgry/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Edinburgh Napier University](/tartans/e/ed/edinburgh-napier-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

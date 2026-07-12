@@ -6,6 +6,8 @@ This is the **Borthwick D** sett — one scale-free proportion (`g12k1r10k2n10k1
 [GKRKBKBKR](/stripes/gkrkbkbkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Borthwick D](/tartans/b/bo/borthwick-d-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

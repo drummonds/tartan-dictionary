@@ -6,6 +6,8 @@ This is the **Omani Regiment 2nd Pipe Sqn.** sett — one scale-free proportion 
 [GRWRGW](/stripes/grwrgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Omani Regiment 2nd Pipe Sqn.](/tartans/o/om/omani-regiment-2nd-pipe-sqn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

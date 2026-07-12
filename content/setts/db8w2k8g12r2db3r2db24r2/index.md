@@ -6,6 +6,8 @@ This is the **Burt #2 (Name)** sett — one scale-free proportion (`db8w2k8g12r2
 [BWKGRBRBR](/stripes/bwkgrbrbr/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [Burt](/tartans/b/bu/burt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

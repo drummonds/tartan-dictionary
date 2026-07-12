@@ -6,6 +6,8 @@ This is the **Cairngorm Trade Tartan** sett — one scale-free proportion (`n2w2
 [BWGWBW](/stripes/bwgwbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Cairngorm](/tartans/c/ca/cairngorm-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

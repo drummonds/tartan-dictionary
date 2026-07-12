@@ -6,6 +6,8 @@ This is the **Aberdeen Academy of Performing Art** sett — one scale-free propo
 [BBBBWW](/stripes/bbbbww/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Aberdeen Academy of Performing Art](/tartans/a/ab/aberdeen-academy-of-performing-art/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Muylle, Jelle"
+  url: "/tartans/m/mu/muylle-jelle/"
 - name: "Muylle, Jelle (Personal)"
   url: "/setts/k5r1y1k1y1r1k8db1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5r1y1k1y1r1k8db1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKGRKBW](/stripes/krgkgrkbw/).
+
+Part of the [Muylle, Jelle](/tartans/m/mu/muylle-jelle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

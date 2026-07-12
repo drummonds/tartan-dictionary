@@ -6,6 +6,8 @@ This is the **Trafalger Trade Tartan** sett — one scale-free proportion (`g3db
 [GBGBKG](/stripes/gbgbkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Trafalger](/tartans/t/tr/trafalger/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

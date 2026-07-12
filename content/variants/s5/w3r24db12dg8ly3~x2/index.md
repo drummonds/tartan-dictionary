@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McGill University"
-  url: "/tartans/mcgill-university/"
+  url: "/tartans/m/mc/mcgill-university/"
 - name: "McGill University (Corporate)"
   url: "/setts/w3r24db12dg8ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r24db12dg8ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBGY](/stripes/wrbgy/).
 
-Part of the [McGill University](/tartans/mcgill-university/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McGill University](/tartans/m/mc/mcgill-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,7 +6,7 @@ This is the **Selvon-Bruce (Personal)** sett — one scale-free proportion (`k3g
 [KGKGRBY](/stripes/kgkgrby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Selvon-Bruce](/tartans/selvon-bruce/) tartan — the named design grouping this sett with its kin.
+Part of the [Selvon-Bruce](/tartans/s/se/selvon-bruce/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

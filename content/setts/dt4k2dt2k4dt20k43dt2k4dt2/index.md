@@ -6,6 +6,8 @@ This is the **Dark Island Black (Fashion)** sett — one scale-free proportion (
 [BKBKBKBKB](/stripes/bkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Dark Island](/tartans/d/da/dark-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

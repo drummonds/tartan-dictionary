@@ -6,6 +6,8 @@ This is the **Leinster** sett — one scale-free proportion (`dg3g15dg2g2k10dy2d
 [GGGGKGBKGKBKGR](/stripes/ggggkgbkgkbkgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Leinster](/tartans/l/le/leinster-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

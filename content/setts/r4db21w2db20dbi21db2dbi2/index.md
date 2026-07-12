@@ -6,6 +6,8 @@ This is the **St. George's School (Birmingham)** sett — one scale-free proport
 [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [St. George's](/tartans/s/st/st-george-s-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

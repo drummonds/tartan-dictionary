@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Safeway"
-  url: "/tartans/safeway/"
+  url: "/tartans/s/sa/safeway/"
 - name: "Safeway"
   url: "/setts/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-Part of the [Safeway](/tartans/safeway/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Safeway](/tartans/s/sa/safeway/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

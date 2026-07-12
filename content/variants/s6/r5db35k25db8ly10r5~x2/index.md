@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "University of Notre Dame"
+  url: "/tartans/u/un/university-of-notre-dame/"
+- name: "University of Notre Dame"
   url: "/setts/r5db35k25db8ly10r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5db35k25db8ly10r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBYR](/stripes/rbkbyr/).
+
+Part of the [University of Notre Dame](/tartans/u/un/university-of-notre-dame/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

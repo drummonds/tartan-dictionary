@@ -6,6 +6,8 @@ This is the **Canadian Legion Branch 50** sett — one scale-free proportion (`d
 [BBWBYBY](/stripes/bbwbyby/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
+Part of the [Canadian Legion Br 50](/tartans/c/ca/canadian-legion-br-50/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

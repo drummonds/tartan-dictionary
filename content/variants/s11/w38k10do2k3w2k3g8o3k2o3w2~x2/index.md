@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenmore"
+  url: "/tartans/g/gl/glenmore-2/"
 - name: "Glenmore Green"
   url: "/setts/w38k10do2k3w2k3g8o3k2o3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w38k10do2k3w2k3g8o3k2o3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKWKGRKRW](/stripes/wkbkwkgrkrw/).
+
+Part of the [Glenmore](/tartans/g/gl/glenmore-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

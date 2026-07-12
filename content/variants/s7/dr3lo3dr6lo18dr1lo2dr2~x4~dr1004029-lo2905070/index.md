@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loughheed"
+  url: "/tartans/l/lo/loughheed/"
 - name: "Loughheed (Personal)"
   url: "/setts/dr3lo3dr6lo18dr1lo2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lo3dr6lo18dr1lo2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBYB](/stripes/bybybyb/).
+
+Part of the [Loughheed](/tartans/l/lo/loughheed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

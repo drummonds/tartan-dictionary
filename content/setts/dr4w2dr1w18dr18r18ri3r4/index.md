@@ -6,6 +6,8 @@ This is the **Gigha, Cherry (Dance)** sett — one scale-free proportion (`dr4w2
 [BWBWBRRR](/stripes/bwbwbrrr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Gigha Cherry](/tartans/g/gi/gigha-cherry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sobieski-Stewart"
+  url: "/tartans/s/so/sobieski-stewart/"
+- name: "Sobieski-Stewart"
   url: "/setts/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKWRWRWRWRWRWRWRWRWBWR](/stripes/kwrkwrwrwrwrwrwrwrwrwbwr/).
+
+Part of the [Sobieski-Stewart](/tartans/s/so/sobieski-stewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

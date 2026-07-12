@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenorchy, Lord"
+  url: "/tartans/g/gl/glenorchy-lord/"
 - name: "Glenorchy, Lord (Portrait)"
   url: "/setts/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWRBRWBRBWRBRWBYBYBWR](/stripes/rwbwrbrwbrbwrbrwbybybwr/).
+
+Part of the [Glenorchy, Lord](/tartans/g/gl/glenorchy-lord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

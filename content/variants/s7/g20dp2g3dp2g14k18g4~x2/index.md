@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pringle, James"
+  url: "/tartans/p/pr/pringle-james/"
 - name: "Pringle, James (Fashion)"
   url: "/setts/g20dp2g3dp2g14k18g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20dp2g3dp2g14k18g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGKG](/stripes/gbgbgkg/).
+
+Part of the [Pringle, James](/tartans/p/pr/pringle-james/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Bro-sant-Malou (Corporate)** sett — one scale-free proportion (`
 [GYWWRK](/stripes/gywwrk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-sant-Malou](/tartans/b/br/bro-sant-malou-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

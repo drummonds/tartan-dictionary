@@ -6,6 +6,8 @@ This is the **Process Safety Solutions Ltd** sett — one scale-free proportion 
 [KRKGKBGBKR](/stripes/krkgkbgbkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Process Safety Solutions Ltd](/tartans/p/pr/process-safety-solutions-ltd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Grant, Piper to the Laird of** sett — one scale-free proportion 
 [KGRKBGKRKGKR](/stripes/kgrkbgkrkgkr/). It is recorded as a single **variant**, below.
 First attested **1714**.
 
+Part of the [Grant, Piper to the Laird of](/tartans/g/gr/grant-piper-to-the-laird-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

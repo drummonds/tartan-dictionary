@@ -6,6 +6,8 @@ This is the **Loyalhanna (District?)** sett — one scale-free proportion (`db15
 [BWGKBKG](/stripes/bwgkbkg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Loyalhanna](/tartans/l/lo/loyalhanna-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

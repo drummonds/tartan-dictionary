@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wood"
+  url: "/tartans/w/wo/wood-2/"
 - name: "Wood (Personal)"
   url: "/setts/g11lb3g5r3g5k22db22k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g11lb3g5r3g5k22db22k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRGKBK](/stripes/gwgrgkbk/).
+
+Part of the [Wood](/tartans/w/wo/wood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

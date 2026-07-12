@@ -6,7 +6,7 @@ This is the **Scottish Rugby Union Corporate Tartan** sett — one scale-free pr
 [BKBKGWGWGKW](/stripes/bkbkgwgwgkw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Scottish Rugby Union](/tartans/scottish-rugby-union/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

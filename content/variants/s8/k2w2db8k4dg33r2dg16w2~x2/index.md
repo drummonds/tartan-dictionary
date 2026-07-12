@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sarros, Terrence"
+  url: "/tartans/s/sa/sarros-terrence/"
 - name: "Sarros, Terrence (USA) (Personal)"
   url: "/setts/k2w2db8k4dg33r2dg16w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2w2db8k4dg33r2dg16w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKGRGW](/stripes/kwbkgrgw/).
+
+Part of the [Sarros, Terrence](/tartans/s/sa/sarros-terrence/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lorne, Marquis of"
+  url: "/tartans/l/lo/lorne-marquis-of-2/"
+- name: "Lorne, Marquis of"
   url: "/setts/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBWBRBGBGBG](/stripes/bgbgbgbgbwbrbgbgbg/).
+
+Part of the [Lorne, Marquis of](/tartans/l/lo/lorne-marquis-of-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 

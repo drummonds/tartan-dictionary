@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Calum's Cabin"
-  url: "/tartans/calum-s-cabin/"
+  url: "/tartans/c/ca/calum-s-cabin/"
 - name: "Calum's Cabin"
   url: "/setts/db32lo4dbi12db2dbi4db2dbi2n16db67lo6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db32lo4dbi12db2dbi4db2dbi2n16db67lo6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBBBBBBY](/stripes/bybbbbbbby/).
 
-Part of the [Calum's Cabin](/tartans/calum-s-cabin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Calum's Cabin](/tartans/c/ca/calum-s-cabin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

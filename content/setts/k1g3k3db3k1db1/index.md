@@ -6,6 +6,8 @@ This is the **Sutherland 42nd** sett — one scale-free proportion (`k1g3k3db3k1
 [BKBKGK](/stripes/bkbkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Sutherland 42nd](/tartans/s/su/sutherland-42nd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

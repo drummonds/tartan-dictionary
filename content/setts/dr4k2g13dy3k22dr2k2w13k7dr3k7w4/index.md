@@ -6,6 +6,8 @@ This is the **Tyrone County, Crest Range** sett — one scale-free proportion (`
 [BKGGKBKWKBKW](/stripes/bkggkbkwkbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Tyrone County, Crest Range](/tartans/t/ty/tyrone-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rosslyn Chapel"
-  url: "/tartans/rosslyn-chapel/"
+  url: "/tartans/r/ro/rosslyn-chapel/"
 - name: "Rosslyn Chapel"
   url: "/setts/g12db1dp4db30b3w2b3w2b3w10r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12db1dp4db30b3w2b3w2b3w10r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBWBWBWR](/stripes/gbbbbwbwbwr/).
 
-Part of the [Rosslyn Chapel](/tartans/rosslyn-chapel/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rosslyn Chapel](/tartans/r/ro/rosslyn-chapel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

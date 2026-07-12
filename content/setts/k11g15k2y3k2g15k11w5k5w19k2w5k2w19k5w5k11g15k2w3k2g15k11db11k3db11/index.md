@@ -6,6 +6,8 @@ This is the **Campbell of Argyll Dress Trade Tartan** sett — one scale-free pr
 [BKBKGKWKGKWKWKWKWKWKGKGKGK](/stripes/bkbkgkwkgkwkwkwkwkwkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Campbell](/tartans/c/ca/campbell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Covington, Christopher"
+  url: "/tartans/c/co/covington-christopher/"
 - name: "Covington, Christopher (Personal)"
   url: "/setts/k33w3b2db7k2w3k5b21k15b1lg18b1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k33w3b2db7k2w3k5b21k15b1lg18b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/).
+
+Part of the [Covington, Christopher](/tartans/c/co/covington-christopher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

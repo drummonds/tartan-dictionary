@@ -6,7 +6,7 @@ This is the **Tomomi** sett — one scale-free proportion (`ly5w15r40y4g2lb2`), 
 [WGGRWY](/stripes/wggrwy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Tomomi](/tartans/tomomi/) tartan — the named design grouping this sett with its kin.
+Part of the [Tomomi](/tartans/t/to/tomomi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

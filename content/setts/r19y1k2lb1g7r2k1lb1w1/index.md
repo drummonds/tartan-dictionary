@@ -6,6 +6,8 @@ This is the **Drummond Old Clan Tartan** sett — one scale-free proportion (`r1
 [RGKWGRKWW](/stripes/rgkwgrkww/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Drummond](/tartans/d/dr/drummond-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

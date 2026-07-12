@@ -6,6 +6,8 @@ This is the **Elliot (Clan)** sett — one scale-free proportion (`db44dy12db9dr
 [BBGB](/stripes/bbgb/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Elliot](/tartans/e/el/elliot-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

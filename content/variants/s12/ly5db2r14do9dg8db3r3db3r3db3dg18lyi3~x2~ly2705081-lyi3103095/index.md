@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Meath, County"
+  url: "/tartans/m/me/meath-county/"
+- name: "Meath, County"
   url: "/setts/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBRBGBRBRBGY](/stripes/ybrbgbrbrbgy/).
+
+Part of the [Meath, County](/tartans/m/me/meath-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

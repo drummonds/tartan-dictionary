@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ritchie, Stephen James"
+  url: "/tartans/r/ri/ritchie-stephen-james/"
 - name: "Ritchie, Stephen James (Personal)"
   url: "/setts/db4n19lr2k19n2lr25lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4n19lr2k19n2lr25lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYKBYW](/stripes/bbykbyw/).
+
+Part of the [Ritchie, Stephen James](/tartans/r/ri/ritchie-stephen-james/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

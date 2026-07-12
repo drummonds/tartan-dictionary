@@ -6,6 +6,8 @@ This is the **Brittany National Walking (Fashion)** sett — one scale-free prop
 [GRBKYKBGW](/stripes/grbkykbgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Brittany National Walking](/tartans/b/br/brittany-national-walking/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

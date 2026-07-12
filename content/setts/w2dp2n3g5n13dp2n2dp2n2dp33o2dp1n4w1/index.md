@@ -6,6 +6,8 @@ This is the **Scottish Bakers** sett — one scale-free proportion (`w2dp2n3g5n1
 [WBBGBBBBBBRBBW](/stripes/wbbgbbbbbbrbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Scottish Bakers](/tartans/s/sc/scottish-bakers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

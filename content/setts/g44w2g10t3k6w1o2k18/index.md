@@ -6,6 +6,8 @@ This is the **Mull Rugby Club Corporate Sport Tartan** sett — one scale-free p
 [GWGBKWRK](/stripes/gwgbkwrk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Mull Rugby Club Corporate Sport](/tartans/m/mu/mull-rugby-club-corporate-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Simon and Friends"
+  url: "/tartans/s/si/simon-and-friends/"
 - name: "Simon and Friends (Hamburg) (Personal)"
   url: "/setts/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKWKBGBKGKGK](/stripes/gkgkwkbgbkgkgk/).
+
+Part of the [Simon and Friends](/tartans/s/si/simon-and-friends/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

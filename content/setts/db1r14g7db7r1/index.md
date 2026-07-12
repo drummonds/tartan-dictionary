@@ -6,6 +6,8 @@ This is the **Fraser of Boblainy, Hugh (Personal)** sett — one scale-free prop
 [BRGBR](/stripes/brgbr/). It is recorded as a single **variant**, below.
 First attested **1805**.
 
+Part of the [Fraser of Boblainy, Hugh](/tartans/f/fr/fraser-of-boblainy-hugh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

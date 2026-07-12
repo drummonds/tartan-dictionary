@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "SABA"
+  url: "/tartans/s/sa/saba/"
+- name: "SABA"
   url: "/setts/w3db2dbi15lb15r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db2dbi15lb15r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBBW](/stripes/rwbbw/).
+
+Part of the [SABA](/tartans/s/sa/saba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

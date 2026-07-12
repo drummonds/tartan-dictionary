@@ -6,6 +6,8 @@ This is the **Scotland 1782 (Fashion)** sett — one scale-free proportion (`g3d
 [GBKBKBBBBGKBW](/stripes/gbkbkbbbbgkbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Scotland 1782](/tartans/s/sc/scotland-1782/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

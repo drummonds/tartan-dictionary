@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orlando Police Department (Corporate"
+  url: "/tartans/o/or/orlando-police-department-corporate/"
 - name: "Orlando Police Department"
   url: "/setts/db12y1lb16db1lb1db14lb3db14y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12y1lb16db1lb1db14lb3db14y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBWBWBGBWBWBWG](/stripes/bgwbwbwbgbwbwbwg/).
+
+Part of the [Orlando Police Department (Corporate](/tartans/o/or/orlando-police-department-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

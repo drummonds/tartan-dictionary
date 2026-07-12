@@ -6,7 +6,7 @@ This is the **Brown Ellis (Personal)** sett — one scale-free proportion (`k4db
 [KBKBKBKBKGKY](/stripes/kbkbkbkbkgky/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Brown Ellis](/tartans/brown-ellis/) tartan — the named design grouping this sett with its kin.
+Part of the [Brown Ellis](/tartans/b/br/brown-ellis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

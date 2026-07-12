@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wellmont Foundation"
+  url: "/tartans/w/we/wellmont-foundation/"
 - name: "Wellmont Foundation (Corporate)"
   url: "/setts/dt12w2dt13dg3g2r24g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt12w2dt13dg3g2r24g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGGRG](/stripes/bwbggrg/).
+
+Part of the [Wellmont Foundation](/tartans/w/we/wellmont-foundation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

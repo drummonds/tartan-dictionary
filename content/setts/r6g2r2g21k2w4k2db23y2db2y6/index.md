@@ -6,6 +6,8 @@ This is the **Glasgow, City of Culture** sett — one scale-free proportion (`r6
 [GBGBKWKGRGR](/stripes/gbgbkwkgrgr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Culture The...](/tartans/c/cu/culture-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

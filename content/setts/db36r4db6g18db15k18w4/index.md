@@ -6,6 +6,8 @@ This is the **Grainger** sett — one scale-free proportion (`db36r4db6g18db15k1
 [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
+Part of the [Grainger](/tartans/g/gr/grainger/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

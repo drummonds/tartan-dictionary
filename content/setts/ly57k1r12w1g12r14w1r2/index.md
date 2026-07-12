@@ -6,6 +6,8 @@ This is the **MacBrair Hunting** sett — one scale-free proportion (`ly57k1r12w
 [RWRGWRKY](/stripes/rwrgwrky/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [MacBrair Hunting](/tartans/m/ma/macbrair-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

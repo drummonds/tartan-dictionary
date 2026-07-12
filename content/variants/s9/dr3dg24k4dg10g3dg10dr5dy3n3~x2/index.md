@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Battle of the Somme Centenary"
-  url: "/tartans/battle-of-the-somme-centenary/"
+  url: "/tartans/b/ba/battle-of-the-somme-centenary/"
 - name: "Battle of the Somme Centenary"
   url: "/setts/dr3dg24k4dg10g3dg10dr5dy3n3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr3dg24k4dg10g3dg10dr5dy3n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGGKGB](/stripes/bgbgggkgb/).
 
-Part of the [Battle of the Somme Centenary](/tartans/battle-of-the-somme-centenary/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Battle of the Somme Centenary](/tartans/b/ba/battle-of-the-somme-centenary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

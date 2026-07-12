@@ -6,6 +6,8 @@ This is the **Thin Blue Line UK** sett — one scale-free proportion (`db5k35lb3
 [BKWKRKGKWK](/stripes/bkwkrkgkwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Thin Blue Line UK](/tartans/t/th/thin-blue-line-uk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

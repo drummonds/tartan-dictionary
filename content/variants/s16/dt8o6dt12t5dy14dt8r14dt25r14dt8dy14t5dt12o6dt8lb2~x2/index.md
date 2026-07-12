@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Johnstons"
+  url: "/clan/johnstons/"
+- name: "Johnstons of Elgin Bicentennial"
+  url: "/families/johnstons-of-elgin-bicentennial/"
+- name: "Johnstons of Elgin Bicentennial"
+  url: "/tartans/j/jo/johnstons-of-elgin-bicentennial/"
 - name: "Johnstons of Elgin Bicentennial"
   url: "/setts/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBGBRBRBGBBRBW](/stripes/brbbgbrbrbgbbrbw/).
+
+Part of the [Johnstons of Elgin Bicentennial](/tartans/j/jo/johnstons-of-elgin-bicentennial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

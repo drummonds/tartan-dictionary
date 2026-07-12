@@ -7,7 +7,7 @@ This is the **Cumming LO** sett — one scale-free proportion (`r4w1r4g10y1k10lb
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Cumming LO](/tartans/cumming-lo/) tartan — the named design grouping this sett with its kin.
+Part of the [Cumming LO](/tartans/c/cu/cumming-lo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

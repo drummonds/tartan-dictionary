@@ -6,6 +6,8 @@ This is the **St. Andrew's Soc. of Philadelphia (C** sett — one scale-free pro
 [BRBGBBBGBGBY](/stripes/brbgbbbgbgby/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [St. Andrew's Soc. of Philadelphia (C](/tartans/s/st/st-andrew-s-soc-of-philadelphia-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

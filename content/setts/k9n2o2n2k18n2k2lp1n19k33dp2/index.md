@@ -6,6 +6,8 @@ This is the **Pride of Scotland Contemporary** sett — one scale-free proportio
 [BKBWKBKBRBK](/stripes/bkbwkbkbrbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Pride of Scotland Contemporary](/tartans/p/pr/pride-of-scotland-contemporary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

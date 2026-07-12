@@ -6,6 +6,8 @@ This is the **MacKay, Marled** sett — one scale-free proportion (`k4n1k1n1k1n1
 [BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacKay, Marled](/tartans/m/ma/mackay-marled/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

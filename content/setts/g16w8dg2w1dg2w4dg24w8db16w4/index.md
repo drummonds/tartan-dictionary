@@ -6,6 +6,8 @@ This is the **Spirit of Pakistan, The** sett — one scale-free proportion (`g16
 [GWGWGWGWBW](/stripes/gwgwgwgwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Spirit of Pakistan, The](/tartans/s/sp/spirit-of-pakistan-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

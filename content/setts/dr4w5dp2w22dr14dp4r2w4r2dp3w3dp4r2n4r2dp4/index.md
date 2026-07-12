@@ -6,6 +6,8 @@ This is the **Skye Dress Red, Earl of (Dance)** sett — one scale-free proporti
 [BRBRBWBRWRBBWBWBWBWBBRWRBWBRBR](/stripes/brbrbwbrwrbbwbwbwbwbbrwrbwbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Skye Dress Red, Earl of](/tartans/s/sk/skye-dress-red-earl-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

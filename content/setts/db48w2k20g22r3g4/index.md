@@ -6,6 +6,8 @@ This is the **MacFadzean Clan Tartan** sett — one scale-free proportion (`db48
 [BWKGRG](/stripes/bwkgrg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacFadzean](/tartans/m/ma/macfadzean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

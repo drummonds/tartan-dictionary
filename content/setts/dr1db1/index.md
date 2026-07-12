@@ -7,6 +7,8 @@ This is the **Rob Roy, Blue & Red (Fashion)** sett — one scale-free proportion
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1800**.
 
+Part of the [Cairnbulg & Inverllocjy Fisher](/tartans/c/ca/cairnbulg-inverllocjy-fisher/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

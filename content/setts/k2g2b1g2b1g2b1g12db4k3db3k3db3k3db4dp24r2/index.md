@@ -6,6 +6,8 @@ This is the **Rendell, Charles (Personal)** sett — one scale-free proportion (
 [KGBGBGBGBKBKBKBBR](/stripes/kgbgbgbgbkbkbkbbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Rendell, Charles](/tartans/r/re/rendell-charles-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

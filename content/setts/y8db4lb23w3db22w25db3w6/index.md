@@ -6,6 +6,8 @@ This is the **Culloden Blue Dress Fancy Tartan** sett — one scale-free proport
 [GBWWBWBW](/stripes/gbwwbwbw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Culloden Blue Dress Fancy](/tartans/c/cu/culloden-blue-dress-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

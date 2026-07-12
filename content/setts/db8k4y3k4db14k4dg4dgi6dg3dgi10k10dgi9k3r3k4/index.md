@@ -6,6 +6,8 @@ This is the **Wells (Personal)** sett — one scale-free proportion (`db8k4y3k4d
 [KRKGKGGGGKBKGKBKGKBKGGGGKGKR](/stripes/krkgkggggkbkgkbkgkbkggggkgkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Wells](/tartans/w/we/wells-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

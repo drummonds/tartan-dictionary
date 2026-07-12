@@ -7,6 +7,8 @@ This is the **Huntly Old** sett — one scale-free proportion (`dr16w2dr7w2k14lb
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Huntly Old](/tartans/h/hu/huntly-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Griffiths of Llangynin (Personal)** sett — one scale-free propor
 [GBKRKRKRKG](/stripes/gbkrkrkrkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Griffiths of Llangynin](/tartans/g/gr/griffiths-of-llangynin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

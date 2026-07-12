@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baker Dress"
+  url: "/tartans/b/ba/baker-dress/"
 - name: "Baker Dress Family Tartan"
   url: "/setts/db28y3w1y3db4w2r1w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28y3w1y3db4w2r1w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGBWRW](/stripes/bgwgbwrw/).
+
+Part of the [Baker Dress](/tartans/b/ba/baker-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

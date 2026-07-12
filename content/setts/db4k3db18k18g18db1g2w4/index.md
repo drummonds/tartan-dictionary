@@ -6,6 +6,8 @@ This is the **Dress Watch** sett — one scale-free proportion (`db4k3db18k18g18
 [BKBKGBGW](/stripes/bkbkgbgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Dress Watch](/tartans/d/dr/dress-watch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

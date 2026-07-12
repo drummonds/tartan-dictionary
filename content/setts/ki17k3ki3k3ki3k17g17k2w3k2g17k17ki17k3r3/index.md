@@ -6,6 +6,8 @@ This is the **Cumbernauld** sett — one scale-free proportion (`ki17k3ki3k3ki3k
 [KKKKKKGKWKGKKKR](/stripes/kkkkkkgkwkgkkkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cumbernauld](/tartans/c/cu/cumbernauld-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

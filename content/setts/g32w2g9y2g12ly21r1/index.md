@@ -6,6 +6,8 @@ This is the **Weathered Cyclist** sett — one scale-free proportion (`g32w2g9y2
 [GWGGGYR](/stripes/gwgggyr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Weathered Cyclist](/tartans/w/we/weathered-cyclist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

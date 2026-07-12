@@ -6,6 +6,8 @@ This is the **MacNamara** sett — one scale-free proportion (`dy4t17k11r17t27k2
 [GBKRBKW](/stripes/gbkrbkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacNamara](/tartans/m/ma/macnamara/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

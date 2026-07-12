@@ -6,6 +6,8 @@ This is the **Sackett** sett — one scale-free proportion (`k8dy8k1dy8k8lb1dg8k
 [GKGKWGKGKGKGWKGKGK](/stripes/gkgkwgkgkgkgwkgkgk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sackett](/tartans/s/sa/sackett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

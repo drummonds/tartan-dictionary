@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bartlett"
+  url: "/clan/bartlett/"
+- name: "Bartlett of El Paso"
+  url: "/families/bartlett-of-el-paso/"
+- name: "Bartlett of El Paso"
+  url: "/tartans/b/ba/bartlett-of-el-paso/"
 - name: "Bartlett of El Paso (Name)"
   url: "/setts/r3w2db2ly1db39ly1db1g2db1lyi15db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w2db2ly1db39ly1db1g2db1lyi15db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBYBYBWR](/stripes/bybgbybybwr/).
+
+Part of the [Bartlett of El Paso](/tartans/b/ba/bartlett-of-el-paso/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

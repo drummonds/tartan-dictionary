@@ -6,6 +6,8 @@ This is the **Black Watch Regimental Tartan** sett — one scale-free proportion
 [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **1739**.
 
+Part of the [Black Watch Regimental](/tartans/b/bl/black-watch-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

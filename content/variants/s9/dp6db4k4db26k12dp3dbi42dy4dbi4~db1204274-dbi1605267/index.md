@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Goldblatt, Joe Jeff"
-  url: "/tartans/goldblatt-joe-jeff/"
+  url: "/tartans/g/go/goldblatt-joe-jeff/"
 - name: "Goldblatt, Joe Jeff (Personal)"
   url: "/setts/dp6db4k4db26k12dp3dbi42dy4dbi4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp6db4k4db26k12dp3dbi42dy4dbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBBGB](/stripes/bbkbkbbgb/).
 
-Part of the [Goldblatt, Joe Jeff](/tartans/goldblatt-joe-jeff/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Goldblatt, Joe Jeff](/tartans/g/go/goldblatt-joe-jeff/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

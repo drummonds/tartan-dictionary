@@ -6,6 +6,8 @@ This is the **Kyle Blue (Clan)** sett — one scale-free proportion (`r54dp6r5dp
 [BRBRBRBR](/stripes/brbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kyle](/tartans/k/ky/kyle-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

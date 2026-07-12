@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "BuchananMacGregor Hastie"
+  url: "/tartans/b/bu/buchananmacgregor-hastie/"
 - name: "Buchanan(Mtd)MacGregor Hastie V. Tartan"
   url: "/setts/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGKBKGKGKBKBWBKBKGKGK](/stripes/bkgbgkbkgkgkbkbwbkbkgkgk/).
+
+Part of the [BuchananMacGregor Hastie](/tartans/b/bu/buchananmacgregor-hastie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 

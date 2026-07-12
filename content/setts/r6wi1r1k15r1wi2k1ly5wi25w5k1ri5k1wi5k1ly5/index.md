@@ -6,6 +6,8 @@ This is the **Puccini's Madama Butterfly** sett — one scale-free proportion (`
 [RWRKRWKYWWKRKWKY](/stripes/rwrkrwkywwkrkwky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Puccini's Madama Butterfly](/tartans/p/pu/puccini-s-madama-butterfly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

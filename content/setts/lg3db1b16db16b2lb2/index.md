@@ -6,6 +6,8 @@ This is the **U.S.S. John Paul Jones #1** sett — one scale-free proportion (`l
 [WBBBBY](/stripes/wbbbby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [U.S.S. John Paul Jones](/tartans/u/u/u-s-s-john-paul-jones-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

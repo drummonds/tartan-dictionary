@@ -6,6 +6,8 @@ This is the **Kile (Red line) (Personal)** sett — one scale-free proportion (`
 [BWBWBWKY](/stripes/bwbwbwky/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Kile](/tartans/k/ki/kile/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

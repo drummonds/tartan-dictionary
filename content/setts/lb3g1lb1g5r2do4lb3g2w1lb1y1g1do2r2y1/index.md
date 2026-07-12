@@ -6,6 +6,8 @@ This is the **Highlands of Haliburton (District)** sett — one scale-free propo
 [GRBGGWWGWBRGWGW](/stripes/grbggwwgwbrgwgw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Haliburton](/tartans/h/ha/haliburton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

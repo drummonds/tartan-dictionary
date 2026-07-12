@@ -7,7 +7,7 @@ This is the **Hanna** sett — one scale-free proportion (`k16w25db4w2db4w2db4w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1900**.
 
-Part of the [Hanna](/tartans/hanna-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hanna](/tartans/h/ha/hanna-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Bedford Academy (Corporate)** sett — one scale-free proportion (
 [BBBBWBBGB](/stripes/bbbbwbbgb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Bedford Academy](/tartans/bedford-academy/) tartan — the named design grouping this sett with its kin.
+Part of the [Bedford Academy](/tartans/b/be/bedford-academy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

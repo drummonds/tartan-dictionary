@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Proctor"
-  url: "/tartans/proctor/"
+  url: "/tartans/p/pr/proctor/"
 - name: "Proctor (Name)"
   url: "/setts/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg39k2dg2k2dg2k3t13k2w4k2t13k3dg24y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKWKBKGKGKG](/stripes/ggkbkwkbkgkgkg/).
 
-Part of the [Proctor](/tartans/proctor/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Proctor](/tartans/p/pr/proctor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

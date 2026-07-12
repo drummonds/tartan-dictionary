@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Corryvrechan Dress"
+  url: "/tartans/c/co/corryvrechan-dress/"
 - name: "Corryvrechan Dress (Corporate)"
   url: "/setts/lb40db12ly2db2lb2db2g6w21r2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb40db12ly2db2lb2db2g6w21r2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYBWBGWRW](/stripes/wbybwbgwrw/).
+
+Part of the [Corryvrechan Dress](/tartans/c/co/corryvrechan-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

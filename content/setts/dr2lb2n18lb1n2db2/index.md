@@ -6,6 +6,8 @@ This is the **St. Giles Cathedral (Corporate)** sett — one scale-free proporti
 [BBWBWB](/stripes/bbwbwb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [St. Giles Cathedral](/tartans/s/st/st-giles-cathedral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

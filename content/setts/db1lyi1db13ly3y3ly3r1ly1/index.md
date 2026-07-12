@@ -6,6 +6,8 @@ This is the **Glen Moray** sett — one scale-free proportion (`db1lyi1db13ly3y3
 [BYBYGYRY](/stripes/bybygyry/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Glen Moray](/tartans/g/gl/glen-moray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

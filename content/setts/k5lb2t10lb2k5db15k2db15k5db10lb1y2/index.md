@@ -6,6 +6,8 @@ This is the **Goodwin, Robert Richard (Personal)** sett — one scale-free propo
 [GWBKBKBKWBWK](/stripes/gwbkbkbkwbwk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Goodwin, Robert Richard](/tartans/g/go/goodwin-robert-richard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

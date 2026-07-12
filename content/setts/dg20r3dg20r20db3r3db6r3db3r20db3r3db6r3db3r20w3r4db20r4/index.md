@@ -6,6 +6,8 @@ This is the **MacRae Red Clan Tartan** sett — one scale-free proportion (`dg20
 [GRGRBRBRBRBRBRBRWRBR](/stripes/grgrbrbrbrbrbrbrwrbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacRae](/tartans/m/ma/macrae-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

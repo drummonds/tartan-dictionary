@@ -6,6 +6,8 @@ This is the **Dabney Red (Personal)** sett — one scale-free proportion (`r5t3r
 [BRBRGRGRBGRBR](/stripes/brbrgrgrbgrbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Dabney](/tartans/d/da/dabney/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Lyon, Jeffrey M (Hunting) (Personal)** sett — one scale-free pro
 [BGBGRGBWBW](/stripes/bgbgrgbwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Lyon, Jeffrey M](/tartans/lyon-jeffrey-m/) tartan — the named design grouping this sett with its kin.
+Part of the [Lyon, Jeffrey M](/tartans/l/ly/lyon-jeffrey-m/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

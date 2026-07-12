@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Evans"
   url: "/clan/evans/"
 - name: "Evans"
-  url: "/tartans/evans/"
+  url: "/tartans/e/ev/evans/"
 - name: "Evans Welsh Name Tartan"
   url: "/setts/ri2k3db30k2db4k2db30k36r30k2lb2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri2k3db30k2db4k2db30k36r30k2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBKBKBKRKW](/stripes/rkbkbkbkrkw/).
 
-Part of the [Evans](/tartans/evans/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Evans](/tartans/e/ev/evans/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

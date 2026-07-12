@@ -6,6 +6,8 @@ This is the **Hunting Kenmore Trade Com. Tartan** sett — one scale-free propor
 [KGGGGGK](/stripes/kgggggk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Hunting Kenmore Trade Com.](/tartans/h/hu/hunting-kenmore-trade-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacKeane (Clan?)** sett — one scale-free proportion (`r4k8r4k8r1
 [GKRKRKR](/stripes/gkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacKeane](/tartans/m/ma/mackeane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

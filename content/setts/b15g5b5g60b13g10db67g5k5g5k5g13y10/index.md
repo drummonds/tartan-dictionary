@@ -6,6 +6,8 @@ This is the **Beatrice, Princess.. (hunting)** sett — one scale-free proportio
 [BGBGBGBGKGKGG](/stripes/bgbgbgbgkgkgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Beatrice, Princess..](/tartans/b/be/beatrice-princess/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

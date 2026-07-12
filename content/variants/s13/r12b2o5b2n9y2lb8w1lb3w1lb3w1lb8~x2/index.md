@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Saint Joseph de Sorel"
+  url: "/tartans/s/sa/saint-joseph-de-sorel-3/"
+- name: "Saint Joseph de Sorel"
   url: "/setts/r12b2o5b2n9y2lb8w1lb3w1lb3w1lb8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12b2o5b2n9y2lb8w1lb3w1lb3w1lb8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBBGWWWWWWW](/stripes/rbrbbgwwwwwww/).
+
+Part of the [Saint Joseph de Sorel](/tartans/s/sa/saint-joseph-de-sorel-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

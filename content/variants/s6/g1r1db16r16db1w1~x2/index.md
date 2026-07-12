@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galloway Dress"
-  url: "/tartans/galloway-dress/"
+  url: "/tartans/g/ga/galloway-dress/"
 - name: "Galloway, dress"
   url: "/setts/g1r1db16r16db1w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g1r1db16r16db1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRBW](/stripes/grbrbw/).
 
-Part of the [Galloway Dress](/tartans/galloway-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Galloway Dress](/tartans/g/ga/galloway-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

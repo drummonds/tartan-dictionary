@@ -6,6 +6,8 @@ This is the **Ballater** sett — one scale-free proportion (`dr3lb6k1dr1k1lb6dr
 [BBBBWKBKWB](/stripes/bbbbwkbkwb/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Ballater](/tartans/b/ba/ballater/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

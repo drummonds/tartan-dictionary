@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Hotel"
+  url: "/tartans/c/ca/caledonian-hotel/"
 - name: "Caledonian Hotel (Corporate)"
   url: "/setts/n9db1n1db1n1db7dg7dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n9db1n1db1n1db7dg7dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGB](/stripes/bbbbbbgb/).
+
+Part of the [Caledonian Hotel](/tartans/c/ca/caledonian-hotel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

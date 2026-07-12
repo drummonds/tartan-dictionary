@@ -6,6 +6,8 @@ This is the **MacKerral Family Tartan** sett — one scale-free proportion (`w4l
 [GBWW](/stripes/gbww/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [MacKerral](/tartans/m/ma/mackerral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

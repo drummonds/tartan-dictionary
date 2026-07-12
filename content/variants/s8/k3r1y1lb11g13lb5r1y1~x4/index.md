@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Snodgrass"
-  url: "/tartans/snodgrass/"
+  url: "/tartans/s/sn/snodgrass/"
 - name: "Snodgrass (Clan)"
   url: "/setts/k3r1y1lb11g13lb5r1y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r1y1lb11g13lb5r1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWGWGRK](/stripes/grwgwgrk/).
 
-Part of the [Snodgrass](/tartans/snodgrass/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Snodgrass](/tartans/s/sn/snodgrass/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

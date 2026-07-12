@@ -6,6 +6,8 @@ This is the **Nazarian (Personal)** sett — one scale-free proportion (`dy6w4k3
 [GWKWWRKWWGWGK](/stripes/gwkwwrkwwgwgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Nazarian](/tartans/n/na/nazarian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

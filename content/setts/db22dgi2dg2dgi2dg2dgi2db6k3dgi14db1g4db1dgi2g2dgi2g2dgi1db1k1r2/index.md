@@ -6,7 +6,7 @@ This is the **Peter Pan** sett — one scale-free proportion (`db22dgi2dg2dgi2dg
 [BGGGGGBKGBGBGGGGGBKR](/stripes/bgggggbkgbgbgggggbkr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Peter Pan](/tartans/peter-pan/) tartan — the named design grouping this sett with its kin.
+Part of the [Peter Pan](/tartans/p/pe/peter-pan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

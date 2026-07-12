@@ -6,6 +6,8 @@ This is the **MacLean of Duart Hunting** sett — one scale-free proportion (`dg
 [GKWKGKGK](/stripes/gkwkgkgk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacLean of Duart Hunting](/tartans/m/ma/maclean-of-duart-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

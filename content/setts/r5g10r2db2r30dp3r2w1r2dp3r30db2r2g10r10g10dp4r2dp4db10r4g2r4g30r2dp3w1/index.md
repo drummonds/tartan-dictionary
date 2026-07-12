@@ -6,6 +6,8 @@ This is the **MacDougall Clan Tartan** sett — one scale-free proportion (`r5g1
 [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
+Part of the [MacDougall](/tartans/m/ma/macdougall-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

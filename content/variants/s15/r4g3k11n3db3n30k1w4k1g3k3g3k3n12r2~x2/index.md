@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Trew 40th"
+  url: "/tartans/t/tr/trew-40th/"
 - name: "Trew 40th (Personal)"
   url: "/setts/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKGKWKBBBKGR](/stripes/rbkgkgkwkbbbkgr/).
+
+Part of the [Trew 40th](/tartans/t/tr/trew-40th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

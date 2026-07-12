@@ -6,6 +6,8 @@ This is the **Tyrolean (Fashion?)** sett — one scale-free proportion (`y3dy6g1
 [GGGKRW](/stripes/gggkrw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Tyrolean](/tartans/t/ty/tyrolean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

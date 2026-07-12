@@ -6,6 +6,8 @@ This is the **Macintosh, Charles Rennie (Commem)** sett — one scale-free propo
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Macintosh, Charles Rennie](/tartans/m/ma/macintosh-charles-rennie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

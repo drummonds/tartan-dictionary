@@ -7,7 +7,7 @@ This is the **MacNeil of Barra** sett — one scale-free proportion (`y3k2g12k12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1886**.
 
-Part of the [MacNeil of Barra](/tartans/macneil-of-barra/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil of Barra](/tartans/m/ma/macneil-of-barra/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Mack of Stoneywood Dress (Personal)** sett — one scale-free prop
 [BBBBBBBB](/stripes/bbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Mack of Stoneywood Dress](/tartans/m/ma/mack-of-stoneywood-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

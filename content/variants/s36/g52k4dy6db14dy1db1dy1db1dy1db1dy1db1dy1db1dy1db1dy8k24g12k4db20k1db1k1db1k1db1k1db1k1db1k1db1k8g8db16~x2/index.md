@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canadian Centennial"
+  url: "/tartans/c/ca/canadian-centennial-2/"
 - name: "Canadian Centennial #3"
   url: "/setts/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/).
+
+Part of the [Canadian Centennial](/tartans/c/ca/canadian-centennial-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
 

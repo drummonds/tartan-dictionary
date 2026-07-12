@@ -6,6 +6,8 @@ This is the **Stewart/Stuart, Royal (No black line)** sett — one scale-free pr
 [BBKYKWGBKBWBKBGWKYKB](/stripes/bbkykwgbkbwbkbgwkykb/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Stewart/Stuart, Royal](/tartans/s/st/stewart-stuart-royal-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

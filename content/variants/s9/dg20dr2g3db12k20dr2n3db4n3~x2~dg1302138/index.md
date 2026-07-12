@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ithilien Commemorative"
+  url: "/tartans/i/it/ithilien-commemorative/"
 - name: "Ithilien Commemorative Tartan"
   url: "/setts/dg20dr2g3db12k20dr2n3db4n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg20dr2g3db12k20dr2n3db4n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKBGBG](/stripes/bbbbkbgbg/).
+
+Part of the [Ithilien Commemorative](/tartans/i/it/ithilien-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

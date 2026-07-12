@@ -6,6 +6,8 @@ This is the **Yarrow** sett — one scale-free proportion (`dy42do10lb2do2ly2do2
 [GBWBYBGYBYG](/stripes/gbwbybgybyg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Yarrow](/tartans/y/ya/yarrow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

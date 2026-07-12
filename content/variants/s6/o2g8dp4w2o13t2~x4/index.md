@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ellan Vannin"
+  url: "/tartans/e/el/ellan-vannin-2/"
+- name: "Ellan Vannin"
   url: "/setts/o2g8dp4w2o13t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2g8dp4w2o13t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBGR](/stripes/brwbgr/).
+
+Part of the [Ellan Vannin](/tartans/e/el/ellan-vannin-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

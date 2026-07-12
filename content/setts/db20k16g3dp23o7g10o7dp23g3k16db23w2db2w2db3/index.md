@@ -6,6 +6,8 @@ This is the **Pride of Bannockburn Fashion Tartan** sett — one scale-free prop
 [BKGBRGRBGKBWBWB](/stripes/bkgbrgrbgkbwbwb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Pride of Bannockburn](/tartans/p/pr/pride-of-bannockburn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

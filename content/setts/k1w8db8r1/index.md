@@ -6,6 +6,8 @@ This is the **MacRae Dress Purple** sett — one scale-free proportion (`k1w8db8
 [KWBR](/stripes/kwbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacRae Dress](/tartans/m/ma/macrae-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

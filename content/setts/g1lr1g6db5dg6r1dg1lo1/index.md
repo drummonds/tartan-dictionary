@@ -7,6 +7,8 @@ This is the **Vermont** sett — one scale-free proportion (`g1lr1g6db5dg6r1dg1l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1994**.
 
+Part of the [Vermont](/tartans/v/ve/vermont-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kildare, County** sett — one scale-free proportion (`y8do2y13dr4
 [BGBGBGRGBGBGBG](/stripes/bgbgbgrgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kildare, County](/tartans/k/ki/kildare-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

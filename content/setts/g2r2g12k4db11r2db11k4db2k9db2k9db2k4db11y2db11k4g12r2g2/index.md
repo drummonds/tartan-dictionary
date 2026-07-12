@@ -6,6 +6,8 @@ This is the **Allen, Christopher Holler** sett — one scale-free proportion (`g
 [GRGKBGBKBKBKBKBRBKGRG](/stripes/grgkbgbkbkbkbkbrbkgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Allen, Christopher Holler](/tartans/a/al/allen-christopher-holler/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

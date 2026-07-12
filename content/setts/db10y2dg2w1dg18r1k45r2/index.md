@@ -6,6 +6,8 @@ This is the **Downs** sett — one scale-free proportion (`db10y2dg2w1dg18r1k45r
 [BGGWGRKR](/stripes/bggwgrkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Downs](/tartans/d/do/downs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

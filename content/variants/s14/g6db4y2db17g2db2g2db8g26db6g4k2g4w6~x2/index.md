@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hay Hunting"
+  url: "/tartans/h/ha/hay-hunting/"
+- name: "Hay Hunting"
   url: "/setts/g6db4y2db17g2db2g2db8g26db6g4k2g4w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6db4y2db17g2db2g2db8g26db6g4k2g4w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGBGBGKGW](/stripes/gbgbgbgbgbgkgw/).
+
+Part of the [Hay Hunting](/tartans/h/ha/hay-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laois, County"
+  url: "/tartans/l/la/laois-county/"
+- name: "Laois, County"
   url: "/setts/do15dy2do5dy5k18db5do5db2do15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do15dy2do5dy5k18db5do5db2do15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGBGB](/stripes/bbbbkgbgb/).
+
+Part of the [Laois, County](/tartans/l/la/laois-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

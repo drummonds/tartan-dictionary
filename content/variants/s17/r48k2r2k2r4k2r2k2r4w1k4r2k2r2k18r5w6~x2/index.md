@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Milan Club Scozia"
+  url: "/tartans/m/mi/milan-club-scozia/"
 - name: "Milan Club Scozia (Corporate)"
   url: "/setts/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKRKRWKRKRKRW](/stripes/rkrkrkrkrwkrkrkrw/).
+
+Part of the [Milan Club Scozia](/tartans/m/mi/milan-club-scozia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

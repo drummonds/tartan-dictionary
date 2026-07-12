@@ -6,7 +6,7 @@ This is the **Guildry of Stirling** sett — one scale-free proportion (`g18k3g3
 [GKGKGKGKGK](/stripes/gkgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Guildry of Stirling](/tartans/guildry-of-stirling/) tartan — the named design grouping this sett with its kin.
+Part of the [Guildry of Stirling](/tartans/g/gu/guildry-of-stirling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

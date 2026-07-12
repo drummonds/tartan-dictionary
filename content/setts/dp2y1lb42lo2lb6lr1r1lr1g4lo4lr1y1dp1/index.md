@@ -6,6 +6,8 @@ This is the **Kerr of Ardgowan Dress (Personal)** sett — one scale-free propor
 [BGWYWYRYGYYGB](/stripes/bgwywyrygyygb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kerr of Ardgowan Dress](/tartans/k/ke/kerr-of-ardgowan-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

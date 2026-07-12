@@ -6,6 +6,8 @@ This is the **Anthony Plaid Blue** sett — one scale-free proportion (`db18g1dy
 [BGGGYBBGBY](/stripes/bgggybbgby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anthony](/tartans/a/an/anthony/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

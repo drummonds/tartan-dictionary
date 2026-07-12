@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ramblers Red Hat Society"
-  url: "/tartans/ramblers-red-hat-society/"
+  url: "/tartans/r/ra/ramblers-red-hat-society/"
 - name: "Ramblers Red Hat Society (Corporate)"
   url: "/setts/w4r2dp2r2b2dp38b2r12dp2w1dp3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4r2dp2r2b2dp38b2r12dp2w1dp3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBRBBBRBRW](/stripes/rbwbrbbbrbrw/).
 
-Part of the [Ramblers Red Hat Society](/tartans/ramblers-red-hat-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ramblers Red Hat Society](/tartans/r/ra/ramblers-red-hat-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

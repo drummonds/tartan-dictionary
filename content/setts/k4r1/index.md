@@ -7,6 +7,8 @@ This is the **St Kilda** sett — one scale-free proportion (`k4r1`), colour ord
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1900**.
 
+Part of the [St Kilda](/tartans/s/st/st-kilda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

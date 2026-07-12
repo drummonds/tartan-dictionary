@@ -6,6 +6,8 @@ This is the **Red Chapeau** sett — one scale-free proportion (`r9k1g1k1dp6k1dp
 [KGBKBKGKR](/stripes/kgbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Red Chapeau](/tartans/r/re/red-chapeau/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

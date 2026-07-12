@@ -6,7 +6,7 @@ This is the **MacGill Clan Tartan** sett — one scale-free proportion (`r47g16k
 [RGKWGRGWBKRGW](/stripes/rgkwgrgwbkrgw/). It is recorded as a single **variant**, below.
 First attested **~1745**.
 
-Part of the [MacGill](/tartans/macgill/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGill](/tartans/m/ma/macgill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

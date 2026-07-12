@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson"
+  url: "/tartans/a/an/anderson-11/"
 - name: "Anderson Blue"
   url: "/setts/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBRKRWRWKRWR](/stripes/bkrkbrkrwrwkrwr/).
+
+Part of the [Anderson](/tartans/a/an/anderson-11/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

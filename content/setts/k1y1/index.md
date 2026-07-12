@@ -7,6 +7,8 @@ This is the **Justus Check (Personal)** sett — one scale-free proportion (`k1y
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
+Part of the [Justus Check](/tartans/j/ju/justus-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenfarclas Distillery** sett — one scale-free proportion (`o8db
 [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Glenfarclas Distillery](/tartans/g/gl/glenfarclas-distillery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

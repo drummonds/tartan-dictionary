@@ -6,6 +6,8 @@ This is the **van der Watt Personal)** sett — one scale-free proportion (`r1db
 [RBKBKGKBGKGY](/stripes/rbkbkgkbgkgy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [van der Watt](/tartans/v/va/van-der-watt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

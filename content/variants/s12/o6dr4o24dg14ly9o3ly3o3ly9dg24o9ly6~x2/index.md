@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pierce"
+  url: "/tartans/p/pi/pierce/"
+- name: "Pierce"
   url: "/setts/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGYRYRYGRY](/stripes/rbrgyryrygry/).
+
+Part of the [Pierce](/tartans/p/pi/pierce/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

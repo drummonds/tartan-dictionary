@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spirit of Bannockburn"
-  url: "/tartans/spirit-of-bannockburn/"
+  url: "/tartans/s/sp/spirit-of-bannockburn/"
 - name: "Spirit of Bannockburn"
   url: "/setts/dp4o4dp3g20dp5k4dp3k7dp3k3db35w2db35k3dp3k7dp3k4dp5g20dp3o4dp4k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp4o4dp3g20dp5k4dp3k7dp3k3db35w2db35k3dp3k7dp3k4dp5g20dp3o4dp4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBKBKBKBWBKBKBKBGBRBK](/stripes/brbgbkbkbkbwbkbkbkbgbrbk/).
 
-Part of the [Spirit of Bannockburn](/tartans/spirit-of-bannockburn/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

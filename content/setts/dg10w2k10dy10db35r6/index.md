@@ -6,7 +6,7 @@ This is the **Hatfield & Mize (Personal)** sett — one scale-free proportion (`
 [GWKGBR](/stripes/gwkgbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Hatfield & Mize](/tartans/hatfield-mize/) tartan — the named design grouping this sett with its kin.
+Part of the [Hatfield & Mize](/tartans/h/ha/hatfield-mize/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

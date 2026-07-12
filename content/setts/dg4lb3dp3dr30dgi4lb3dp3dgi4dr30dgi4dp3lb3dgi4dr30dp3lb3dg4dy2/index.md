@@ -6,6 +6,8 @@ This is the **Islay Whisky Club Corporate Weavers Tartan** sett — one scale-fr
 [GGWBBGWBGBGBWGBBWG](/stripes/ggwbbgwbgbgbwgbbwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Islay Whisky Club](/tartans/i/is/islay-whisky-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

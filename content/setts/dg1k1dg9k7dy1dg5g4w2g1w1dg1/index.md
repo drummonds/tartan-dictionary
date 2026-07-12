@@ -6,6 +6,8 @@ This is the **Parkhead** sett — one scale-free proportion (`dg1k1dg9k7dy1dg5g4
 [GKGKGGGWGWG](/stripes/gkgkgggwgwg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Parkhead](/tartans/p/pa/parkhead/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

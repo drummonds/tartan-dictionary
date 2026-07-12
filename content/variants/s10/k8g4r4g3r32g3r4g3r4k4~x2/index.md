@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Belfinlay"
+  url: "/families/macdonald-of-belfinlay/"
+- name: "MacDonald of Belfinlay"
+  url: "/tartans/m/ma/macdonald-of-belfinlay/"
 - name: "MacDonald of Belfinlay"
   url: "/setts/k8g4r4g3r32g3r4g3r4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8g4r4g3r32g3r4g3r4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGRGRGRK](/stripes/kgrgrgrgrk/).
+
+Part of the [MacDonald of Belfinlay](/tartans/m/ma/macdonald-of-belfinlay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Stewart/Stuart Royal (VS)** sett — one scale-free proportion (`w
 [RWKWKWGRKRWRKRGWKWKW](/stripes/rwkwkwgrkrwrkrgwkwkw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Stewart/Stuart Royal](/tartans/s/st/stewart-stuart-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

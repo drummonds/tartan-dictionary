@@ -6,7 +6,7 @@ This is the **Muskoka Canadian Tartan** sett — one scale-free proportion (`w4g
 [GBGRGWGW](/stripes/gbgrgwgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Muskoka](/tartans/muskoka/) tartan — the named design grouping this sett with its kin.
+Part of the [Muskoka](/tartans/m/mu/muskoka/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

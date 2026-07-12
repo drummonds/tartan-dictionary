@@ -10,7 +10,7 @@ crumbs:
 - name: "MacLeod, of Argentina"
   url: "/families/macleod-of-argentina/"
 - name: "MacLeod of Argentina"
-  url: "/tartans/macleod-of-argentina/"
+  url: "/tartans/m/ma/macleod-of-argentina/"
 - name: "MacLeod of Argentina"
   url: "/setts/t10w3t12ly14r4/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t10w3t12ly14r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYR](/stripes/bwbyr/).
 
-Part of the [MacLeod of Argentina](/tartans/macleod-of-argentina/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLeod of Argentina](/tartans/m/ma/macleod-of-argentina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

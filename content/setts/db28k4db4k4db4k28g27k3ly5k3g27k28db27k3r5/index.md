@@ -6,7 +6,7 @@ This is the **Baillie (William Wilson)** sett — one scale-free proportion (`db
 [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Baillie](/tartans/baillie/) tartan — the named design grouping this sett with its kin.
+Part of the [Baillie](/tartans/b/ba/baillie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

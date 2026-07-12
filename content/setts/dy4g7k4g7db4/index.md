@@ -6,6 +6,8 @@ This is the **Daks (House)** sett — one scale-free proportion (`dy4g7k4g7db4`)
 [BGKGG](/stripes/bgkgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Daks](/tartans/d/da/daks-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

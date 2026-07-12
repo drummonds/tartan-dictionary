@@ -6,7 +6,7 @@ This is the **Walters (Personal)** sett — one scale-free proportion (`dg2dp2dg
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Walters](/tartans/walters/) tartan — the named design grouping this sett with its kin.
+Part of the [Walters](/tartans/w/wa/walters/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

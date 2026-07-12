@@ -6,6 +6,8 @@ This is the **Innes** sett — one scale-free proportion (`r24k4r4k4r4k24lb7k24r
 [RKRKRKWKRKRKRGRBRKGKRW](/stripes/rkrkrkwkrkrkrgrbrkgkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Innes](/tartans/i/in/innes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

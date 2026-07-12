@@ -6,7 +6,7 @@ This is the **Hopetoun** sett — one scale-free proportion (`g13k2g2k11y1k2y1k1
 [GBGKGKGKGKG](/stripes/gbgkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Hopetoun](/tartans/hopetoun/) tartan — the named design grouping this sett with its kin.
+Part of the [Hopetoun](/tartans/h/ho/hopetoun/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

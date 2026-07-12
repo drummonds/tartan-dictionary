@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hyndman"
-  url: "/tartans/hyndman-4/"
+  url: "/tartans/h/hy/hyndman-4/"
 - name: "Hyndman Family Tartan"
   url: "/setts/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGYGKBRBRY](/stripes/bbbbbgygkbrbry/).
 
-Part of the [Hyndman](/tartans/hyndman-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hyndman](/tartans/h/hy/hyndman-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

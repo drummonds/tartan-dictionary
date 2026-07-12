@@ -6,6 +6,8 @@ This is the **Glen Forest** sett — one scale-free proportion (`o10dy5w8ly8dy5w
 [GYWYWGWGWGYWGR](/stripes/gywywgwgwgywgr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Glen Forest](/tartans/g/gl/glen-forest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

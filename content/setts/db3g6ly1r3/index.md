@@ -6,6 +6,8 @@ This is the **Delroeux (Personal)** sett — one scale-free proportion (`db3g6ly
 [BGYR](/stripes/bgyr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Delroeux](/tartans/d/de/delroeux/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wolverine Corporate Tartan** sett — one scale-free proportion (`
 [GKBKKG](/stripes/gkbkkg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wolverine](/tartans/w/wo/wolverine-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

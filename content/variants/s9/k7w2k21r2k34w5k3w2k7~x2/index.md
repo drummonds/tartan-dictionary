@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Mirren Football Club"
+  url: "/tartans/s/st/st-mirren-football-club/"
+- name: "St. Mirren Football Club"
   url: "/setts/k7w2k21r2k34w5k3w2k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7w2k21r2k34w5k3w2k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKWKWKWKWKRKW](/stripes/kwkrkwkwkwkwkrkw/).
+
+Part of the [St. Mirren Football Club](/tartans/s/st/st-mirren-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

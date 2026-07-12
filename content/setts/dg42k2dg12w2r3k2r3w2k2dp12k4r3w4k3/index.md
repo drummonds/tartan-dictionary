@@ -6,6 +6,8 @@ This is the **MacFarlane Hunting (MacGregor Hastie)** sett — one scale-free pr
 [GKGWRKRWKBKRWK](/stripes/gkgwrkrwkbkrwk/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [MacFarlane Hunting](/tartans/m/ma/macfarlane-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **MacClure Clan/Family Tartan** sett — one scale-free proportion (
 [KBGBKBBBGBYK](/stripes/kbgbkbbbgbyk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [MacClure](/tartans/macclure/) tartan — the named design grouping this sett with its kin.
+Part of the [MacClure](/tartans/m/ma/macclure/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

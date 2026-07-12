@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Scrimgeour"
+  url: "/clan/scrimgeour/"
+- name: "Scrimgeour of Glassary"
+  url: "/families/scrimgeour-of-glassary/"
+- name: "Scrimgeour of Glassary"
+  url: "/tartans/s/sc/scrimgeour-of-glassary/"
 - name: "Scrimgeour of Glassary"
   url: "/setts/r32k3lo6g10r6k3lo32/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r32k3lo6g10r6k3lo32/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGRKYKRGYKR](/stripes/kygrkykrgykr/).
+
+Part of the [Scrimgeour of Glassary](/tartans/s/sc/scrimgeour-of-glassary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

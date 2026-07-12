@@ -6,6 +6,8 @@ This is the **Stewart (Silk Fragment)** sett — one scale-free proportion (`db4
 [BWBWWYGWGWBWGWGWBWYBWWWB](/stripes/bwbwwygwgwbwgwgwbwybwwwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart](/tartans/s/st/stewart-15/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

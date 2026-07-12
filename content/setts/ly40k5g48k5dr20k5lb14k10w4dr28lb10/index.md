@@ -6,6 +6,8 @@ This is the **Kildare County Crest (Fashion)** sett — one scale-free proportio
 [WBWKWKBKGKY](/stripes/wbwkwkbkgky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Kildare County Crest](/tartans/k/ki/kildare-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Miyuki"
+  url: "/tartans/m/mi/miyuki-3/"
+- name: "Miyuki"
   url: "/setts/db40ly1db1r9db1ly1db6ly1db1r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40ly1db1r9db1ly1db6ly1db1r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBRBYBYBR](/stripes/bybrbybybr/).
+
+Part of the [Miyuki](/tartans/m/mi/miyuki-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

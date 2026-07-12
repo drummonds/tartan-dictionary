@@ -6,7 +6,7 @@ This is the **Kelsey, William (Personal)** sett — one scale-free proportion (`
 [GRGRGBBKBBKY](/stripes/grgrgbbkbbky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Kelsey, William](/tartans/kelsey-william/) tartan — the named design grouping this sett with its kin.
+Part of the [Kelsey, William](/tartans/k/ke/kelsey-william/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

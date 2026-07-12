@@ -6,6 +6,8 @@ This is the **MacKean dress Family/Clan Tartan** sett — one scale-free proport
 [KGKGKBKWKBKGKGKR](/stripes/kgkgkbkwkbkgkgkr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [MacKean dress Family/Clan](/tartans/m/ma/mackean-dress-family-clan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

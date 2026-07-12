@@ -6,6 +6,8 @@ This is the **Stewart of Galloway Clan Tartan** sett — one scale-free proporti
 [GGRGKWKGKWRG](/stripes/ggrgkwkgkwrg/). It is recorded as a single **variant**, below.
 First attested **~1820**.
 
+Part of the [Stewart of Galloway](/tartans/s/st/stewart-of-galloway-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

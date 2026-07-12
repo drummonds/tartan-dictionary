@@ -6,6 +6,8 @@ This is the **Manderson Family Tartan** sett — one scale-free proportion (`k4n
 [KBKGKRGBRBW](/stripes/kbkgkrgbrbw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Manderson](/tartans/m/ma/manderson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

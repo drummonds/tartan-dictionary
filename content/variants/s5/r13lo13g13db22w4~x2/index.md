@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clan Haggis World"
-  url: "/tartans/clan-haggis-world/"
+  url: "/tartans/c/cl/clan-haggis-world/"
 - name: "Clan Haggis World (Corporate)"
   url: "/setts/r13lo13g13db22w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r13lo13g13db22w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYGBW](/stripes/rygbw/).
 
-Part of the [Clan Haggis World](/tartans/clan-haggis-world/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clan Haggis World](/tartans/c/cl/clan-haggis-world/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

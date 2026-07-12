@@ -6,6 +6,8 @@ This is the **Hanna of Stirlingshire (Clan)** sett — one scale-free proportion
 [BKYKYKYKBY](/stripes/bkykykykby/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
+Part of the [Hanna of Stirlingshire](/tartans/h/ha/hanna-of-stirlingshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

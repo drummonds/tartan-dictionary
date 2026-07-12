@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Louise"
+  url: "/clan/louise/"
+- name: "Louise"
+  url: "/tartans/l/lo/louise-2/"
 - name: "Lorne, Louise of"
   url: "/setts/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
+
+Part of the [Louise](/tartans/l/lo/louise-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

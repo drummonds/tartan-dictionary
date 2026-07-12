@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fort William"
+  url: "/tartans/f/fo/fort-william/"
 - name: "Fort William (Fashion)"
   url: "/setts/o10lb2g3lb2do24lb4do4o34do2lb3do2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o10lb2g3lb2do24lb4do4o34do2lb3do2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBWBWGWR](/stripes/bwbrbwbwgwr/).
+
+Part of the [Fort William](/tartans/f/fo/fort-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

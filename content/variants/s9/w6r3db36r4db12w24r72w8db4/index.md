@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Snoozzzeee"
+  url: "/tartans/s/sn/snoozzzeee/"
+- name: "Snoozzzeee"
   url: "/setts/w6r3db36r4db12w24r72w8db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6r3db36r4db12w24r72w8db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/).
+
+Part of the [Snoozzzeee](/tartans/s/sn/snoozzzeee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

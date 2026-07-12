@@ -6,6 +6,8 @@ This is the **Broz Sanz Elementary School** sett — one scale-free proportion (
 [BRBWBRBKBKBK](/stripes/brbwbrbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1945**.
 
+Part of the [Broz Sanz Elementary School](/tartans/b/br/broz-sanz-elementary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

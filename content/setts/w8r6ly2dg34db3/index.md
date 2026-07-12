@@ -6,6 +6,8 @@ This is the **Milling-Kristensen (Personal)** sett — one scale-free proportion
 [BGYRW](/stripes/bgyrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Milling-Kristensen](/tartans/m/mi/milling-kristensen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

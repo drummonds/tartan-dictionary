@@ -6,7 +6,7 @@ This is the **MacClure Htg (Name)** sett — one scale-free proportion (`k2w1g2d
 [KGRGKGBGGGWK](/stripes/kgrgkgbgggwk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [MacClure Hunting](/tartans/macclure-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacClure Hunting](/tartans/m/ma/macclure-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

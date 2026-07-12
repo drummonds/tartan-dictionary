@@ -6,6 +6,8 @@ This is the **Manitoba Cue (Corporate)** sett — one scale-free proportion (`k8
 [GKGKYGKRGK](/stripes/gkgkygkrgk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Manitoba Cue](/tartans/m/ma/manitoba-cue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

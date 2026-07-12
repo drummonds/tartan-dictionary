@@ -6,6 +6,8 @@ This is the **Grotto Dove** sett — one scale-free proportion (`lb26k7g1k1lb1k1
 [WBKBGKWKGKW](/stripes/wbkbgkwkgkw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Grotto Dove](/tartans/g/gr/grotto-dove/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

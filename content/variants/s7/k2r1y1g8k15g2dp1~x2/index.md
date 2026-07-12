@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coalfields Regeneration Trust, The"
+  url: "/tartans/c/co/coalfields-regeneration-trust-the-2/"
+- name: "Coalfields Regeneration Trust, The"
   url: "/setts/k2r1y1g8k15g2dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2r1y1g8k15g2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGGRK](/stripes/bgkggrk/).
+
+Part of the [Coalfields Regeneration Trust, The](/tartans/c/co/coalfields-regeneration-trust-the-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

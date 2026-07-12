@@ -6,6 +6,8 @@ This is the **Lee (Personal)** sett — one scale-free proportion (`g2k1g12dr4g3
 [GKGBGBW](/stripes/gkgbgbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Lee](/tartans/l/le/lee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

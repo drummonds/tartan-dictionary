@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McFly"
+  url: "/tartans/m/mc/mcfly/"
 - name: "McFly School"
   url: "/setts/n14k2db3k1lo2k1db3k14db3k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n14k2db3k1lo2k1db3k14db3k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKYKBKBKW](/stripes/bkbkykbkbkw/).
+
+Part of the [McFly](/tartans/m/mc/mcfly/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

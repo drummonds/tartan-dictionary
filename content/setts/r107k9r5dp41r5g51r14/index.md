@@ -6,7 +6,7 @@ This is the **Buccleuch** sett — one scale-free proportion (`r107k9r5dp41r5g51
 [RGRBRKR](/stripes/rgrbrkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Buccleuch](/tartans/buccleuch/) tartan — the named design grouping this sett with its kin.
+Part of the [Buccleuch](/tartans/b/bu/buccleuch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

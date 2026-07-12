@@ -6,6 +6,8 @@ This is the **Salt Lake City Arts Council (Corp)** sett — one scale-free propo
 [BBBBBBGGRKWR](/stripes/bbbbbbggrkwr/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Salt Lake City Arts Council](/tartans/s/sa/salt-lake-city-arts-council/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

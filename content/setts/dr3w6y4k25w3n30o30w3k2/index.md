@@ -6,6 +6,8 @@ This is the **Craparo** sett — one scale-free proportion (`dr3w6y4k25w3n30o30w
 [BWGKWBRWK](/stripes/bwgkwbrwk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Craparo](/tartans/c/cr/craparo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

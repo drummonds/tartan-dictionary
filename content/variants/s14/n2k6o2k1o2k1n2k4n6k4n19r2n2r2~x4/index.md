@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
+- name: "Lochcarron Mill"
+  url: "/tartans/l/lo/lochcarron-mill/"
 - name: "Lochcarron Mill"
   url: "/setts/n2k6o2k1o2k1n2k4n6k4n19r2n2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2k6o2k1o2k1n2k4n6k4n19r2n2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKBKBKBRBR](/stripes/bkrkrkbkbkbrbr/).
+
+Part of the [Lochcarron Mill](/tartans/l/lo/lochcarron-mill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

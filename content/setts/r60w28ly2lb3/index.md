@@ -6,7 +6,7 @@ This is the **Willis, H Graham** sett — one scale-free proportion (`r60w28ly2l
 [RWYW](/stripes/rwyw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Willis, H Graham](/tartans/willis-h-graham/) tartan — the named design grouping this sett with its kin.
+Part of the [Willis, H Graham](/tartans/w/wi/willis-h-graham/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

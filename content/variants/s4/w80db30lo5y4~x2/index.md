@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tarbh Deargh"
+  url: "/tartans/t/ta/tarbh-deargh/"
 - name: "Tarbh Deargh (Red Bull)"
   url: "/setts/w80db30lo5y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w80db30lo5y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBW](/stripes/gybw/).
+
+Part of the [Tarbh Deargh](/tartans/t/ta/tarbh-deargh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

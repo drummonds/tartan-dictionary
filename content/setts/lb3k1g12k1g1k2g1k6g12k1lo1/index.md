@@ -6,6 +6,8 @@ This is the **MacCandlish Hunting Green** sett — one scale-free proportion (`l
 [WKGKGKGKGKY](/stripes/wkgkgkgkgky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacCandlish Hunting](/tartans/m/ma/maccandlish-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

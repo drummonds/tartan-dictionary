@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Monaghan, County"
+  url: "/tartans/m/mo/monaghan-county/"
+- name: "Monaghan, County"
   url: "/setts/ly3do2r14ly8do14dg16r13do2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly3do2r14ly8do14dg16r13do2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBYRBYBRYBGRBY](/stripes/brgbyrbybrybgrby/).
+
+Part of the [Monaghan, County](/tartans/m/mo/monaghan-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

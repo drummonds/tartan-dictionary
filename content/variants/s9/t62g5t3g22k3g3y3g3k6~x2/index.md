@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oliver Hunting"
-  url: "/tartans/oliver-hunting/"
+  url: "/tartans/o/ol/oliver-hunting/"
 - name: "Oliver Hunting - 1973 (Clan)"
   url: "/setts/t62g5t3g22k3g3y3g3k6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t62g5t3g22k3g3y3g3k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKGGGK](/stripes/bgbgkgggk/).
 
-Part of the [Oliver Hunting](/tartans/oliver-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Oliver Hunting](/tartans/o/ol/oliver-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

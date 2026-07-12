@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Milne"
+  url: "/clan/milne/"
+- name: "Milne Purple Dress"
+  url: "/tartans/m/mi/milne-purple-dress/"
 - name: "Milne Purple Dress Tartan"
   url: "/setts/w5db2w12o17w12db2w12db2w12o17w12db2w5r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5db2w12o17w12db2w12db2w12o17w12db2w5r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWRWBWBWRWBW](/stripes/rwbwrwbwbwrwbw/).
+
+Part of the [Milne Purple Dress](/tartans/m/mi/milne-purple-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

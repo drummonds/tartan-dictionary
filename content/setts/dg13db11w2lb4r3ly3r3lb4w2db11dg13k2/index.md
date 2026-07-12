@@ -6,6 +6,8 @@ This is the **Kentucky, State of** sett — one scale-free proportion (`dg13db11
 [GBWWRYRWWBGK](/stripes/gbwwryrwwbgk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Kentucky, State of](/tartans/k/ke/kentucky-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Logan - 1810 (Cockburn Collection)** sett — one scale-free propo
 [KRGRKRK](/stripes/krgrkrk/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Logan](/tartans/logan-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Logan](/tartans/l/lo/logan-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

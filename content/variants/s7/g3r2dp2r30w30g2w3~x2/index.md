@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Torridon Burgundy"
+  url: "/tartans/t/to/torridon-burgundy/"
 - name: "Torridon, Burgundy (Dance)"
   url: "/setts/g3r2dp2r30w30g2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3r2dp2r30w30g2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRWGW](/stripes/grbrwgw/).
+
+Part of the [Torridon Burgundy](/tartans/t/to/torridon-burgundy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

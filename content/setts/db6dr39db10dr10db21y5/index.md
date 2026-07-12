@@ -6,6 +6,8 @@ This is the **Rajput** sett — one scale-free proportion (`db6dr39db10dr10db21y
 [BBBBBG](/stripes/bbbbbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Rajput](/tartans/r/ra/rajput/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

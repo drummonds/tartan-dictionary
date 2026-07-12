@@ -6,6 +6,8 @@ This is the **Royal Canadian Mounted Police** sett — one scale-free proportion
 [BBKWGRKRG](/stripes/bbkwgrkrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal Canadian Mounted Police](/tartans/r/ro/royal-canadian-mounted-police-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Old Dress** sett — one scale-free proportion (`
 [BBBBKGKWBWGB](/stripes/bbbbkgkwbwgb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Kinloch Anderson Dress](/tartans/k/ki/kinloch-anderson-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

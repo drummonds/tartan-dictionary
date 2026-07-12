@@ -6,7 +6,7 @@ This is the **Campbell of Breadalbane** sett — one scale-free proportion (`db4
 [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Campbell of Breadalbane](/tartans/campbell-of-breadalbane/) tartan — the named design grouping this sett with its kin.
+Part of the [Campbell of Breadalbane](/tartans/c/ca/campbell-of-breadalbane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

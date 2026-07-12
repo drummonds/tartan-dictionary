@@ -6,6 +6,8 @@ This is the **Strang (Personal)** sett — one scale-free proportion (`r36g18r4g
 [GRGKYKGKYKGRGR](/stripes/grgkykgkykgrgr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Strang](/tartans/s/st/strang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

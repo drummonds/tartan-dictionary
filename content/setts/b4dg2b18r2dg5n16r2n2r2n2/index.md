@@ -6,6 +6,8 @@ This is the **Clyde** sett — one scale-free proportion (`b4dg2b18r2dg5n16r2n2r
 [BGBRGBRBRB](/stripes/bgbrgbrbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clyde](/tartans/c/cl/clyde-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

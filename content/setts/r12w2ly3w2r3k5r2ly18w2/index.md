@@ -6,6 +6,8 @@ This is the **Ballater Trade or 'Fancy' Tartan** sett — one scale-free proport
 [RWYWRKRYW](/stripes/rwywrkryw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ballater Trade or 'Fancy'](/tartans/b/ba/ballater-trade-or-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

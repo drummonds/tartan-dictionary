@@ -6,6 +6,8 @@ This is the **Queen of the South Football Club** sett — one scale-free proport
 [RBBBBRWRGBW](/stripes/rbbbbrwrgbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Coldstream](/tartans/c/co/coldstream/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

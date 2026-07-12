@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Popular"
+  url: "/tartans/p/po/popular/"
+- name: "Popular"
   url: "/setts/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKRKWKRBRKW](/stripes/krkwkrkwkrbrkw/).
+
+Part of the [Popular](/tartans/p/po/popular/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

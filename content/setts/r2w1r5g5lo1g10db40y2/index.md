@@ -6,6 +6,8 @@ This is the **St. Andrew Quebec City (Corporate)** sett — one scale-free propo
 [GBGYGRWR](/stripes/gbgygrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [St. Andrew Quebec City](/tartans/s/st/st-andrew-quebec-city-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

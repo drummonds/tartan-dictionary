@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fulbright, Senator"
+  url: "/tartans/f/fu/fulbright-senator/"
 - name: "Fulbright, Senator (Personal)"
   url: "/setts/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBYBBBBBBBBBBR](/stripes/bbbbbybbbbbbbbbbr/).
+
+Part of the [Fulbright, Senator](/tartans/f/fu/fulbright-senator/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

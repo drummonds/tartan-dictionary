@@ -6,6 +6,8 @@ This is the **MacCallum High School** sett — one scale-free proportion (`n9b3n
 [BBBBB](/stripes/bbbbb/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [MacCallum HS of Philadelphia](/tartans/m/ma/maccallum-hs-of-philadelphia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

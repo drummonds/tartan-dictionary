@@ -6,7 +6,7 @@ This is the **Staines** sett — one scale-free proportion (`db12k1`), colour or
 [BK](/stripes/bk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Staines](/tartans/staines/) tartan — the named design grouping this sett with its kin.
+Part of the [Staines](/tartans/s/st/staines/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

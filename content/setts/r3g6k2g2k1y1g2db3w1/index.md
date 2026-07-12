@@ -6,7 +6,7 @@ This is the **Bisset Clan Tartan** sett — one scale-free proportion (`r3g6k2g2
 [RGKGKGGBW](/stripes/rgkgkggbw/). It is recorded as a single **variant**, below.
 First attested **1976**.
 
-Part of the [Bisset](/tartans/bisset/) tartan — the named design grouping this sett with its kin.
+Part of the [Bisset](/tartans/b/bi/bisset/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

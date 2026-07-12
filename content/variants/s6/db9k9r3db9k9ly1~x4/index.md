@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Old Brigade"
-  url: "/tartans/old-brigade/"
+  url: "/tartans/o/ol/old-brigade/"
 - name: "Old Brigade"
   url: "/setts/db9k9r3db9k9ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db9k9r3db9k9ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKY](/stripes/bkrbky/).
 
-Part of the [Old Brigade](/tartans/old-brigade/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Old Brigade](/tartans/o/ol/old-brigade/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

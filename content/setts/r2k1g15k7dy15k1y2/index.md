@@ -6,6 +6,8 @@ This is the **Unidentified 20th Centuary** sett — one scale-free proportion (`
 [GKGKGKR](/stripes/gkgkgkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Unidentified 20th Centuary](/tartans/u/un/unidentified-20th-centuary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

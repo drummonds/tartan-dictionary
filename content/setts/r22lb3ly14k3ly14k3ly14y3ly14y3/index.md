@@ -6,6 +6,8 @@ This is the **Sutherland of Duffus (Clan)** sett — one scale-free proportion (
 [GYGYKYKYWR](/stripes/gygykykywr/). It is recorded as a single **variant**, below.
 First attested **~1715**.
 
+Part of the [Sutherland of Duffus](/tartans/s/su/sutherland-of-duffus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

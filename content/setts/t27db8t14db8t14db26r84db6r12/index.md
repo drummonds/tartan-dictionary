@@ -6,6 +6,8 @@ This is the **POF (Fashion)** sett — one scale-free proportion (`t27db8t14db8t
 [BBBBBBRBR](/stripes/bbbbbbrbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [POF](/tartans/p/po/pof/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

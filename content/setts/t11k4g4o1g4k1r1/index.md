@@ -6,6 +6,8 @@ This is the **Ednie (Personal)** sett — one scale-free proportion (`t11k4g4o1g
 [BKGRGKR](/stripes/bkgrgkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Ednie](/tartans/e/ed/ednie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

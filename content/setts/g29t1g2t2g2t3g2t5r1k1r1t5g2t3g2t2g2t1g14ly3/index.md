@@ -6,6 +6,8 @@ This is the **Murphy & his Gang (Personal)** sett — one scale-free proportion 
 [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Murphy & his Gang](/tartans/m/mu/murphy-his-gang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

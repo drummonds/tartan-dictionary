@@ -7,6 +7,8 @@ This is the **Isle of Barra** sett — one scale-free proportion (`dp2w12t11lb12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2008**.
 
+Part of the [Isle of Barra](/tartans/i/is/isle-of-barra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

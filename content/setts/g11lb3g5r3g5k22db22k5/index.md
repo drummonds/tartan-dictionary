@@ -6,6 +6,8 @@ This is the **Wood (Personal)** sett — one scale-free proportion (`g11lb3g5r3g
 [GWGRGKBK](/stripes/gwgrgkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wood](/tartans/w/wo/wood-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

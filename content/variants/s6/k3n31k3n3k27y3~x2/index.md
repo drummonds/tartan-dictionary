@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish National Party"
+  url: "/tartans/s/sc/scottish-national-party/"
 - name: "Scottish National Party (Corporate)"
   url: "/setts/k3n31k3n3k27y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3n31k3n3k27y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBK](/stripes/gkbkbk/).
+
+Part of the [Scottish National Party](/tartans/s/sc/scottish-national-party/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

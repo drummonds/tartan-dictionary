@@ -6,6 +6,8 @@ This is the **Dewar Highlander Corporate Tartan** sett — one scale-free propor
 [GKGKBGBKGKGKG](/stripes/gkgkbgbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Dewar Highlander](/tartans/d/de/dewar-highlander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

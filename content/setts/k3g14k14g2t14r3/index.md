@@ -6,6 +6,8 @@ This is the **Morrison Society** sett — one scale-free proportion (`k3g14k14g2
 [KGKGBR](/stripes/kgkgbr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Morrison Society](/tartans/m/mo/morrison-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

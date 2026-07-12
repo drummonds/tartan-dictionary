@@ -6,6 +6,8 @@ This is the **Clarks No. 1 (Fashion)** sett — one scale-free proportion (`db5l
 [BWBGBGRYBR](/stripes/bwbgbgrybr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Clarks No. 1](/tartans/c/cl/clarks-no-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

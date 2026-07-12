@@ -6,6 +6,8 @@ This is the **Culloden House Bed Hangings** sett — one scale-free proportion (
 [WRBRWRWRBWGWBWGWBRWRRWRRWBWGGGWWW](/stripes/wrbrwrwrbwgwbwgwbrwrrwrrwbwgggwww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Culloden House Bed Hangings](/tartans/c/cu/culloden-house-bed-hangings/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gemmell of Dumfries & Galloway (Personal)** sett — one scale-fre
 [GRBWKBRKGBW](/stripes/grbwkbrkgbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Gemmell Dress](/tartans/g/ge/gemmell-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

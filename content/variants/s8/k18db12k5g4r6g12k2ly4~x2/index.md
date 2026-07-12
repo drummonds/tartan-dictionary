@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLeish"
+  url: "/tartans/m/ma/macleish/"
+- name: "MacLeish"
   url: "/setts/k18db12k5g4r6g12k2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k18db12k5g4r6g12k2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGRGKY](/stripes/kbkgrgky/).
+
+Part of the [MacLeish](/tartans/m/ma/macleish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

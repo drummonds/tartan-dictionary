@@ -6,6 +6,8 @@ This is the **Big Sur MacLaren (Personal)** sett — one scale-free proportion (
 [GKGRGKW](/stripes/gkgrgkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Big Sur MacLaren](/tartans/b/bi/big-sur-maclaren/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

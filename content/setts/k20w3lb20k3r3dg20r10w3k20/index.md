@@ -6,6 +6,8 @@ This is the **Soutar/Souter** sett — one scale-free proportion (`k20w3lb20k3r3
 [KWRGRKWWKWWKRGRW](/stripes/kwrgrkwwkwwkrgrw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Soutar](/tartans/s/so/soutar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

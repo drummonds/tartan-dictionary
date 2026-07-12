@@ -6,6 +6,8 @@ This is the **Edinburgh TIC (Corporate)** sett — one scale-free proportion (`d
 [BRBRWRBR](/stripes/brbrwrbr/). It is recorded as a single **variant**, below.
 First attested **~1980**.
 
+Part of the [Edinburgh TIC](/tartans/e/ed/edinburgh-tic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

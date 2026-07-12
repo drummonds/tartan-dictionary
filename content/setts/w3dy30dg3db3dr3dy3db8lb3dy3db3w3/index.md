@@ -6,6 +6,8 @@ This is the **Rosemount Course, Blairgowrie Golf Club** sett — one scale-free 
 [WBGWBGBBGGW](/stripes/wbgwbgbbggw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Rosemount Course, Blairgowrie Golf Club](/tartans/r/ro/rosemount-course-blairgowrie-golf-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Citadel Military Academy Regimental Tartan** sett — one scale-fr
 [GKWBWBWBWBWBWKR](/stripes/gkwbwbwbwbwbwkr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Citadel Military Academy Regimental](/tartans/c/ci/citadel-military-academy-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

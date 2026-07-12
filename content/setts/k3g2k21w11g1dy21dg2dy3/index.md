@@ -6,7 +6,7 @@ This is the **Dalveen (Fashion)** sett — one scale-free proportion (`k3g2k21w1
 [GGGGWKGK](/stripes/ggggwkgk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Dalveen](/tartans/dalveen/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalveen](/tartans/d/da/dalveen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

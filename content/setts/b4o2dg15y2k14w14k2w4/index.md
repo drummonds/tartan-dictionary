@@ -6,6 +6,8 @@ This is the **Culloden, Stirling** sett — one scale-free proportion (`b4o2dg15
 [BRGGKWKW](/stripes/brggkwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Culloden, Stirling](/tartans/c/cu/culloden-stirling/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

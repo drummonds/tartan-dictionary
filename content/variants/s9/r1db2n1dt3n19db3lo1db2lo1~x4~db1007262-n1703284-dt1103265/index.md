@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pagus Wasia"
+  url: "/tartans/p/pa/pagus-wasia/"
 - name: "Pagus Wasia District Tartan"
   url: "/setts/r1db2n1dt3n19db3lo1db2lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1db2n1dt3n19db3lo1db2lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBBYBY](/stripes/rbbbbbyby/).
+
+Part of the [Pagus Wasia](/tartans/p/pa/pagus-wasia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

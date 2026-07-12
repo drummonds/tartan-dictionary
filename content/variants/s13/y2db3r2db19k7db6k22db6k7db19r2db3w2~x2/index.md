@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacIver"
+  url: "/clan/maciver/"
+- name: "MacIver of Strome"
+  url: "/families/maciver-of-strome/"
+- name: "MacIver of Strome"
+  url: "/tartans/m/ma/maciver-of-strome/"
 - name: "MacIver of Strome (Personal)"
   url: "/setts/y2db3r2db19k7db6k22db6k7db19r2db3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db3r2db19k7db6k22db6k7db19r2db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBKBKBKBRBW](/stripes/gbrbkbkbkbrbw/).
+
+Part of the [MacIver of Strome](/tartans/m/ma/maciver-of-strome/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

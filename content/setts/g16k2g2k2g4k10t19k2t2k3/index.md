@@ -6,7 +6,7 @@ This is the **Kerr Hunting** sett — one scale-free proportion (`g16k2g2k2g4k10
 [BKBKGKGKGKGKGKBKBK](/stripes/bkbkgkgkgkgkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Kerr Hunting](/tartans/kerr-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Kerr Hunting](/tartans/k/ke/kerr-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

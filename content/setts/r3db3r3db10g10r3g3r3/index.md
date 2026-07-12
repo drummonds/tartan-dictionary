@@ -6,6 +6,8 @@ This is the **Flora MacDonald** sett — one scale-free proportion (`r3db3r3db10
 [RBRBGRGR](/stripes/rbrbgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Flora MacDonald](/tartans/f/fl/flora-macdonald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

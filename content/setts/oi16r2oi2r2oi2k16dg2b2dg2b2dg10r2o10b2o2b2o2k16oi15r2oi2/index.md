@@ -6,6 +6,8 @@ This is the **Cherry Valley New York** sett — one scale-free proportion (`oi16
 [RRRKRBRBRRGBGBGKRRRRR](/stripes/rrrkrbrbrrgbgbgkrrrrr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Cherry Valley New York](/tartans/c/ch/cherry-valley-new-york/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

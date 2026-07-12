@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queen of the South"
+  url: "/tartans/q/qu/queen-of-the-south/"
+- name: "Queen of the South"
   url: "/setts/w3dg22b11db3b11g4b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dg22b11db3b11g4b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBGW](/stripes/bgbbbgw/).
+
+Part of the [Queen of the South](/tartans/q/qu/queen-of-the-south/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

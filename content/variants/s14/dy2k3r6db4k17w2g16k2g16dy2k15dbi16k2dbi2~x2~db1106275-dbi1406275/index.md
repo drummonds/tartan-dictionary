@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Allison"
-  url: "/tartans/allison-3/"
+  url: "/tartans/a/al/allison-3/"
 - name: "Allison (MacGregor-Hastie)"
   url: "/setts/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGKGWKBRKG](/stripes/bkbkggkgwkbrkg/).
 
-Part of the [Allison](/tartans/allison-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Allison](/tartans/a/al/allison-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

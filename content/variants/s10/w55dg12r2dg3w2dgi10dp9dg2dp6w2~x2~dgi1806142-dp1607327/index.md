@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathyre Dress"
-  url: "/tartans/strathyre-dress/"
+  url: "/tartans/s/st/strathyre-dress/"
 - name: "Strathyre Dress (Dance)"
   url: "/setts/w55dg12r2dg3w2dgi10dp9dg2dp6w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w55dg12r2dg3w2dgi10dp9dg2dp6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGBGBWBGBGWGRGW](/stripes/grgwgbgbwbgbgwgrgw/).
 
-Part of the [Strathyre Dress](/tartans/strathyre-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathyre Dress](/tartans/s/st/strathyre-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

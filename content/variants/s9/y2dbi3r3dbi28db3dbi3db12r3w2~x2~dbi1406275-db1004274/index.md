@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Scottish Corporation"
+  url: "/tartans/r/ro/royal-scottish-corporation/"
+- name: "Royal Scottish Corporation"
   url: "/setts/y2dbi3r3dbi28db3dbi3db12r3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2dbi3r3dbi28db3dbi3db12r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBBBBRW](/stripes/gbrbbbbrw/).
+
+Part of the [Royal Scottish Corporation](/tartans/r/ro/royal-scottish-corporation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

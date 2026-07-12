@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "USCBP"
+  url: "/tartans/u/us/uscbp/"
 - name: "USCBP - Office of Field Operations"
   url: "/setts/k6db3k3db33k16b21k3b3r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6db3k3db33k16b21k3b3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBR](/stripes/kbkbkbkbr/).
+
+Part of the [USCBP](/tartans/u/us/uscbp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant"
+  url: "/tartans/g/gr/grant-5/"
 - name: "Grant - 1714 (Piper) (Portrait)"
   url: "/setts/r24k2g8k2r8k1g24lb6k2r14lb18k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24k2g8k2r8k1g24lb6k2r14lb18k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKWGKRKGKR](/stripes/kwrkwgkrkgkr/).
+
+Part of the [Grant](/tartans/g/gr/grant-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

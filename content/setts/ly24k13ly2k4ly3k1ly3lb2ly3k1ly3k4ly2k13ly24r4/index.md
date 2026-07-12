@@ -6,6 +6,8 @@ This is the **Cardiff City Football Club** sett — one scale-free proportion (`
 [RYKYKYKYWYKYKYKY](/stripes/rykykykywykykyky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Cardiff City Football Club](/tartans/c/ca/cardiff-city-football-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKessog"
+  url: "/tartans/m/ma/mackessog/"
+- name: "MacKessog"
   url: "/setts/r1ly8dy2ly2db6w1db6ly2dy2ly8o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1ly8dy2ly2db6w1db6ly2dy2ly8o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYGYBWBYGYR](/stripes/rygybwbygyr/).
+
+Part of the [MacKessog](/tartans/m/ma/mackessog/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

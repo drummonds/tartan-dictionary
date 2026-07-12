@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wild Highlanders"
+  url: "/tartans/w/wi/wild-highlanders/"
+- name: "Wild Highlanders"
   url: "/setts/k36w3k10w3dg28dr6k18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k36w3k10w3dg28dr6k18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGWKWK](/stripes/kbgwkwk/).
+
+Part of the [Wild Highlanders](/tartans/w/wi/wild-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

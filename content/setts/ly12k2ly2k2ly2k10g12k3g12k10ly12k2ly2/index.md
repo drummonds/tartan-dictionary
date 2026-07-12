@@ -6,7 +6,7 @@ This is the **Brown Watch** sett — one scale-free proportion (`ly12k2ly2k2ly2k
 [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Brown Watch](/tartans/brown-watch/) tartan — the named design grouping this sett with its kin.
+Part of the [Brown Watch](/tartans/b/br/brown-watch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wallace"
+  url: "/tartans/w/wa/wallace-3/"
 - name: "Wallace Blue (Fashion)"
   url: "/setts/w2g29lb12db29lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2g29lb12db29lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGW](/stripes/wbwgw/).
+
+Part of the [Wallace](/tartans/w/wa/wallace-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

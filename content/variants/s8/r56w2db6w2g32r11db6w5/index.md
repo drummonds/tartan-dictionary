@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spens"
-  url: "/tartans/spens/"
+  url: "/tartans/s/sp/spens/"
 - name: "Spens Family Tartan"
   url: "/setts/r56w2db6w2g32r11db6w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r56w2db6w2g32r11db6w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWGRBW](/stripes/rwbwgrbw/).
 
-Part of the [Spens](/tartans/spens/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spens](/tartans/s/sp/spens/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

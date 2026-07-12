@@ -6,7 +6,7 @@ This is the **Auld Bernensis** sett — one scale-free proportion (`k62r3k3lo3k3
 [BKRKYKRK](/stripes/bkrkykrk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Auld Bernensis](/tartans/auld-bernensis/) tartan — the named design grouping this sett with its kin.
+Part of the [Auld Bernensis](/tartans/a/au/auld-bernensis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

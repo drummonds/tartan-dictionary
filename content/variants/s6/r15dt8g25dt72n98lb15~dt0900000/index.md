@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Afternoon Tea / Black Tea"
+  url: "/tartans/a/af/afternoon-tea-black-tea/"
+- name: "Afternoon Tea / Black Tea"
   url: "/setts/r15dt8g25dt72n98lb15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15dt8g25dt72n98lb15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBBW](/stripes/rbgbbw/).
+
+Part of the [Afternoon Tea / Black Tea](/tartans/a/af/afternoon-tea-black-tea/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

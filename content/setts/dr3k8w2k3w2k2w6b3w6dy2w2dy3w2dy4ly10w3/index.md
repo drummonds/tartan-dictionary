@@ -6,6 +6,8 @@ This is the **Clanedin/Commonwealth** sett — one scale-free proportion (`dr3k8
 [BKWKWKWBWGWGWGYW](/stripes/bkwkwkwbwgwgwgyw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Clanedin/Commonwealth](/tartans/c/cl/clanedin-commonwealth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

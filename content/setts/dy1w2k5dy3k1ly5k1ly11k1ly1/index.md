@@ -6,6 +6,8 @@ This is the **Braemar or Blair Atholl Trade Tartan** sett — one scale-free pro
 [GWKGKYKYKY](/stripes/gwkgkykyky/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Braemar or Blair Atholl](/tartans/b/br/braemar-or-blair-atholl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heather"
-  url: "/tartans/heather-2/"
+  url: "/tartans/h/he/heather-2/"
 - name: "Heather (NSPCC) (Corporate)"
   url: "/setts/dg4dpi48dp10lb3dp16lb3n30lb3db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg4dpi48dp10lb3dp16lb3n30lb3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBG](/stripes/bwbwbwbbg/).
 
-Part of the [Heather](/tartans/heather-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Heather](/tartans/h/he/heather-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

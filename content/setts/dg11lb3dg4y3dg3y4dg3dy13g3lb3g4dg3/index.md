@@ -6,6 +6,8 @@ This is the **Harmony 2 & 3** sett — one scale-free proportion (`dg11lb3dg4y3d
 [GGWGGGGGGGWG](/stripes/ggwgggggggwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harmony 2 & 3](/tartans/h/ha/harmony-2-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

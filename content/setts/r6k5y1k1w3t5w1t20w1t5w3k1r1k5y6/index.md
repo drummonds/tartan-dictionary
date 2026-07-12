@@ -7,6 +7,8 @@ This is the **Oromocto** sett — one scale-free proportion (`r6k5y1k1w3t5w1t20w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1970**.
 
+Part of the [Oromocto](/tartans/o/or/oromocto/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

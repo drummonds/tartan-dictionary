@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Father's Pride, The"
+  url: "/tartans/f/fa/father-s-pride-the/"
+- name: "Father's Pride, The"
   url: "/setts/ki90n8k10n3k4g4k3r16k14ly6k28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ki90n8k10n3k4g4k3r16k14ly6k28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
+
+Part of the [Father's Pride, The](/tartans/f/fa/father-s-pride-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

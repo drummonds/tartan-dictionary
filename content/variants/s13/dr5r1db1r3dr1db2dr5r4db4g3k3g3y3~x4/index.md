@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacEochaidh"
+  url: "/tartans/m/ma/maceochaidh/"
 - name: "MacEochaidh (Personal)"
   url: "/setts/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBBRBGKGG](/stripes/brbrbbbrbgkgg/).
+
+Part of the [MacEochaidh](/tartans/m/ma/maceochaidh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

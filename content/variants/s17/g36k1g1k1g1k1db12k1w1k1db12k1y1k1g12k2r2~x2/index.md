@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Cockburn"
   url: "/clan/cockburn/"
 - name: "Cockburn"
-  url: "/tartans/cockburn/"
+  url: "/tartans/c/co/cockburn/"
 - name: "Cockburn"
   url: "/setts/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBKWKBKGKGKR](/stripes/gkgkgkbkwkbkgkgkr/).
 
-Part of the [Cockburn](/tartans/cockburn/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cockburn](/tartans/c/co/cockburn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

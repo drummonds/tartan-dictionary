@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart/Stuart Royal"
+  url: "/tartans/s/st/stewart-stuart-royal-2/"
 - name: "Stewart/Stuart Royal (B,W. & Grey)"
   url: "/setts/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKWKWKWKWKWKBKBK](/stripes/bkbkwkwkwkwkwkwkbkbk/).
+
+Part of the [Stewart/Stuart Royal](/tartans/s/st/stewart-stuart-royal-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

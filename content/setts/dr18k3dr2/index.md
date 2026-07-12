@@ -6,7 +6,7 @@ This is the **Buie** sett — one scale-free proportion (`dr18k3dr2`), colour or
 [BKB](/stripes/bkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Buie](/tartans/buie/) tartan — the named design grouping this sett with its kin.
+Part of the [Buie](/tartans/b/bu/buie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rutherford, John"
+  url: "/tartans/r/ru/rutherford-john/"
 - name: "Rutherford, John (Personal)"
   url: "/setts/db64r3k3r3dp61dg5dp6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db64r3k3r3dp61dg5dp6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKRB](/stripes/bgbrkrb/).
+
+Part of the [Rutherford, John](/tartans/r/ru/rutherford-john/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

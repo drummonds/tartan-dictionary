@@ -6,6 +6,8 @@ This is the **Unidentified (ex Tony Murray)** sett — one scale-free proportion
 [RYGGGGGBW](/stripes/rygggggbw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-42/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

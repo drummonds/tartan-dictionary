@@ -6,6 +6,8 @@ This is the **Christian Hunting (Personal)** sett — one scale-free proportion 
 [GBGKBGR](/stripes/gbgkbgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Christian Hunting](/tartans/c/ch/christian-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

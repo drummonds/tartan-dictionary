@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ewell Castle School"
-  url: "/tartans/ewell-castle-school/"
+  url: "/tartans/e/ew/ewell-castle-school/"
 - name: "Ewell Castle School"
   url: "/setts/dt4r1dt18db18w1db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dt4r1dt18db18w1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBWB](/stripes/brbbwb/).
 
-Part of the [Ewell Castle School](/tartans/ewell-castle-school/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ewell Castle School](/tartans/e/ew/ewell-castle-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

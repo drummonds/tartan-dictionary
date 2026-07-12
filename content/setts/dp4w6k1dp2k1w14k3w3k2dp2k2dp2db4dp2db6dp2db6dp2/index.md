@@ -6,7 +6,7 @@ This is the **Royal Canadian Air Force** sett — one scale-free proportion (`dp
 [BBBBBBBKBKWKWKBKWB](/stripes/bbbbbbbkbkwkwkbkwb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Royal Canadian Air Force](/tartans/royal-canadian-air-force-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Canadian Air Force](/tartans/r/ro/royal-canadian-air-force-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

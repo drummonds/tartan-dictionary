@@ -6,6 +6,8 @@ This is the **Lethbridge, City of** sett — one scale-free proportion (`g20ri1g
 [GRGGWKWGRGWK](/stripes/grggwkwgrgwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [City of Lethbridge](/tartans/c/ci/city-of-lethbridge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

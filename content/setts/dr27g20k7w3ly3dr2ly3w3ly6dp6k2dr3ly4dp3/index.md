@@ -6,6 +6,8 @@ This is the **Roman (Personal)** sett — one scale-free proportion (`dr27g20k7w
 [BGKWYBYWYBKBYB](/stripes/bgkwybywybkbyb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Roman](/tartans/r/ro/roman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

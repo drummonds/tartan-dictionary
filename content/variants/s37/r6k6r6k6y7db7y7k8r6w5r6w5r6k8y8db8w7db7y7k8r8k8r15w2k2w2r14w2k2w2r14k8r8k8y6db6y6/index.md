@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie 5"
+  url: "/tartans/o/og/ogilvie-5/"
 - name: "Ogilvie #3"
   url: "/setts/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRKRWKWRWKWRKRKGBWBGKRWRWRKGBGKRKR](/stripes/gbgkrkrwkwrwkwrkrkgbwbgkrwrwrkgbgkrkr/).
+
+Part of the [Ogilvie 5](/tartans/o/og/ogilvie-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [37 stripe tartan](/stripes/stripes37/).
 

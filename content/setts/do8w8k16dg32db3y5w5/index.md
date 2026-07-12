@@ -6,6 +6,8 @@ This is the **Mellor, Phillip (Oldham)** sett — one scale-free proportion (`do
 [BWKGBGW](/stripes/bwkgbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Mellor, Phillip](/tartans/m/me/mellor-phillip/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

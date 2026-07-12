@@ -6,6 +6,8 @@ This is the **Chalet** sett — one scale-free proportion (`g4r16k5r50g4w1`), co
 [GRKRGW](/stripes/grkrgw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Chalet](/tartans/c/ch/chalet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

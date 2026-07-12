@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boroughmuir"
+  url: "/tartans/b/bo/boroughmuir-2/"
+- name: "Boroughmuir"
   url: "/setts/dg30w8b32y1b8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30w8b32y1b8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWG](/stripes/bgbwg/).
+
+Part of the [Boroughmuir](/tartans/b/bo/boroughmuir-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **MacFarland-Collins (Name)** sett — one scale-free proportion (`d
 [BBKBWB](/stripes/bbkbwb/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [MacFarland-Collins](/tartans/m/ma/macfarland-collins/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

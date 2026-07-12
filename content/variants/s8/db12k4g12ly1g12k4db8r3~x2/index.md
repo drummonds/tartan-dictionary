@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Art Pewter Silver"
+  url: "/tartans/a/ar/art-pewter-silver/"
+- name: "Art Pewter Silver"
   url: "/setts/db12k4g12ly1g12k4db8r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k4g12ly1g12k4db8r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYGKBR](/stripes/bkgygkbr/).
+
+Part of the [Art Pewter Silver](/tartans/a/ar/art-pewter-silver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

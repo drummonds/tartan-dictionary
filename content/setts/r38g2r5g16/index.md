@@ -7,6 +7,8 @@ This is the **MacDonald Lord of the Isles** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [MacDonald Lord of the Isles](/tartans/m/ma/macdonald-lord-of-the-isles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

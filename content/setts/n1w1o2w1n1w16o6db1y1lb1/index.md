@@ -6,6 +6,8 @@ This is the **Gray, Thomas (Personal)** sett — one scale-free proportion (`n1w
 [BWRWBWRBGW](/stripes/bwrwbwrbgw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Gray, Thomas](/tartans/g/gr/gray-thomas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

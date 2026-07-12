@@ -6,6 +6,8 @@ This is the **Shawn Jones Afghan Memorial, The** sett — one scale-free proport
 [RGKBYR](/stripes/rgkbyr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Shawn Jones Afghan Memorial, The](/tartans/s/sh/shawn-jones-afghan-memorial-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

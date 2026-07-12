@@ -6,6 +6,8 @@ This is the **Bijral** sett — one scale-free proportion (`k2r1dg10k10lb4k2lb2k
 [KRGKWKWKWKW](/stripes/krgkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bijral](/tartans/b/bi/bijral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

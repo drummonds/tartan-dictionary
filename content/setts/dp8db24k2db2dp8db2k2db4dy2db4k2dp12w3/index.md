@@ -6,6 +6,8 @@ This is the **Heddle** sett — one scale-free proportion (`dp8db24k2db2dp8db2k2
 [BBKBBBKBGBKBW](/stripes/bbkbbbkbgbkbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Heddle](/tartans/h/he/heddle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

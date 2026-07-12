@@ -6,6 +6,8 @@ This is the **Burberry Counterfeit** sett — one scale-free proportion (`o3w3k3
 [RWKYR](/stripes/rwkyr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Burberry Counterfeit](/tartans/b/bu/burberry-counterfeit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

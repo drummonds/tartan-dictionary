@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberdeen University"
-  url: "/tartans/aberdeen-university/"
+  url: "/tartans/a/ab/aberdeen-university/"
 - name: "Aberdeen University (1992)"
   url: "/setts/dy4r27k12db15dy4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy4r27k12db15dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRG](/stripes/gbkrg/).
 
-Part of the [Aberdeen University](/tartans/aberdeen-university/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aberdeen University](/tartans/a/ab/aberdeen-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

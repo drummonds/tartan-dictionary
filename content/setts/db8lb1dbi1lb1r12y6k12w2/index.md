@@ -6,6 +6,8 @@ This is the **Maryland** sett — one scale-free proportion (`db8lb1dbi1lb1r12y6
 [BWBWRGKW](/stripes/bwbwrgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Maryland](/tartans/m/ma/maryland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

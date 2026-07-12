@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Berger-MacLaren"
+  url: "/tartans/b/be/berger-maclaren/"
+- name: "Berger-MacLaren"
   url: "/setts/lb37k12ly17r3ly17k1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb37k12ly17r3ly17k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYRYKW](/stripes/gkyrykw/).
+
+Part of the [Berger-MacLaren](/tartans/b/be/berger-maclaren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

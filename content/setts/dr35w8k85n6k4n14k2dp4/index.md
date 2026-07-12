@@ -6,6 +6,8 @@ This is the **MacEvil (Corporate)** sett — one scale-free proportion (`dr35w8k
 [BKBKBKWB](/stripes/bkbkbkwb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [MacEvil](/tartans/m/ma/macevil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

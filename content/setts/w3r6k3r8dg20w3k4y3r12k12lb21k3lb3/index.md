@@ -6,6 +6,8 @@ This is the **Dykes, of Perthshire** sett — one scale-free proportion (`w3r6k3
 [WKWKRGKWGRKRW](/stripes/wkwkrgkwgrkrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dykes of Perthshire](/tartans/d/dy/dykes-of-perthshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

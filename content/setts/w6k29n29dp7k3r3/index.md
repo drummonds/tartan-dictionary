@@ -6,6 +6,8 @@ This is the **Jewell of Kernow (Personal)** sett — one scale-free proportion (
 [RKBBKW](/stripes/rkbbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Jewell of Kernow](/tartans/j/je/jewell-of-kernow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

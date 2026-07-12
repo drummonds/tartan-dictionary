@@ -6,6 +6,8 @@ This is the **Tombow 21st School Memorial** sett — one scale-free proportion (
 [GBBKBGGGW](/stripes/gbbkbgggw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Tombow 21st School Memorial](/tartans/t/to/tombow-21st-school-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

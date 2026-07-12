@@ -6,6 +6,8 @@ This is the **Wyckoff, Ann Grainger Phillips** sett — one scale-free proportio
 [WBWWWWWRW](/stripes/wbwwwwwrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Wyckoff, Ann Grainger Phillips](/tartans/w/wy/wyckoff-ann-grainger-phillips/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

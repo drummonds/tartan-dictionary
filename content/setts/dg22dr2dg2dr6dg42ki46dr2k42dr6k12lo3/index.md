@@ -6,6 +6,8 @@ This is the **79th Regiment (Military)** sett — one scale-free proportion (`dg
 [GBGBGKBKBKY](/stripes/gbgbgkbkbky/). It is recorded as a single **variant**, below.
 First attested **1793**.
 
+Part of the [79th Regiment](/tartans/0-9/0-9/79th-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

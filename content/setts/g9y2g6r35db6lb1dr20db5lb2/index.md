@@ -7,7 +7,7 @@ This is the **Telfer (Name)** sett — one scale-free proportion (`g9y2g6r35db6l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2009**.
 
-Part of the [Telfer](/tartans/telfer-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Telfer](/tartans/t/te/telfer-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Dollar Academy, The** sett — one scale-free proportion (`w4db52k
 [KBGKBKBKBW](/stripes/kbgkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dollar Academy, The](/tartans/d/do/dollar-academy-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Strathspey (Estate Check)** sett — one scale-free proportion (`d
 [BWKWBWKWB](/stripes/bwkwbwkwb/). It is recorded as a single **variant**, below.
 First attested **~1968**.
 
+Part of the [Strathspey](/tartans/s/st/strathspey-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

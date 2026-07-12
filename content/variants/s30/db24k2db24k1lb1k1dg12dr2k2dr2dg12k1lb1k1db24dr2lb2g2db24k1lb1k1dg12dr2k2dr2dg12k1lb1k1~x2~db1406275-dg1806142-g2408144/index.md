@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Italian"
+  url: "/tartans/i/it/italian-2/"
+- name: "Italian"
   url: "/setts/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKGBKBGKWKBBWGBKWKGBKBGKWK](/stripes/bkbkwkgbkbgkwkbbwgbkwkgbkbgkwk/).
+
+Part of the [Italian](/tartans/i/it/italian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

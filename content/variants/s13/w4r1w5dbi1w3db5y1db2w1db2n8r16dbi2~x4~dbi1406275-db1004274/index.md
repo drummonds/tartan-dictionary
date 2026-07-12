@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Warden"
+  url: "/tartans/w/wa/warden/"
+- name: "Warden"
   url: "/setts/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBWBGBWBWRW](/stripes/brbbwbgbwbwrw/).
+
+Part of the [Warden](/tartans/w/wa/warden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

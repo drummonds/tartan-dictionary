@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Psychological Operations Regiment"
+  url: "/tartans/p/ps/psychological-operations-regiment/"
+- name: "Psychological Operations Regiment"
   url: "/setts/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGKGKBKGKGKBWB](/stripes/bwbkgkgkbkgkgkbwb/).
+
+Part of the [Psychological Operations Regiment](/tartans/p/ps/psychological-operations-regiment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arduaine"
+  url: "/tartans/a/ar/arduaine/"
 - name: "Arduaine, Red (Dance)"
   url: "/setts/w5k2w30r24w3r8db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5k2w30r24w3r8db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWKW](/stripes/brwrwkw/).
+
+Part of the [Arduaine](/tartans/a/ar/arduaine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

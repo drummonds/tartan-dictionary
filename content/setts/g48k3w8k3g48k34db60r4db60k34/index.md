@@ -6,6 +6,8 @@ This is the **MacPhail Hunting Corporate Tartan** sett — one scale-free propor
 [GKWKGKBRBK](/stripes/gkwkgkbrbk/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [MacPhail Hunting](/tartans/m/ma/macphail-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

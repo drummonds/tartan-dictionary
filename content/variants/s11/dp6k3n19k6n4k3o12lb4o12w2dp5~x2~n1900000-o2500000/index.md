@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotland Forever Antique"
+  url: "/tartans/s/sc/scotland-forever-antique/"
 - name: "Scotland Forever Antique (Fashion)"
   url: "/setts/dp6k3n19k6n4k3o12lb4o12w2dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6k3n19k6n4k3o12lb4o12w2dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRWRWB](/stripes/bkbkbkrwrwb/).
+
+Part of the [Scotland Forever Antique](/tartans/s/sc/scotland-forever-antique/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Chattan (variation)** sett — one scale-free proportion (`r11k1w1
 [GRKWGWGRKRGWGWKR](/stripes/grkwgwgrkrgwgwkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Chattan](/tartans/c/ch/chattan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shearer"
+  url: "/tartans/s/sh/shearer/"
+- name: "Shearer"
   url: "/setts/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBRBRBGBGBGRGBGBGBRYRBGBGR](/stripes/rgbgbrbrbgbgbgrgbgbgbryrbgbgr/).
+
+Part of the [Shearer](/tartans/s/sh/shearer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 

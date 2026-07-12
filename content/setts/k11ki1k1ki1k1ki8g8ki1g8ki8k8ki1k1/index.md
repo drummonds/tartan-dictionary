@@ -6,6 +6,8 @@ This is the **Royal Regiment of Scotland (Mltry)** sett — one scale-free propo
 [KKKKGKGKKKKKK](/stripes/kkkkgkgkkkkkk/). It is recorded as a single **variant**, below.
 First attested **1725**.
 
+Part of the [Royal Regiment of Scotland](/tartans/r/ro/royal-regiment-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

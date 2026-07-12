@@ -7,6 +7,8 @@ This is the **MacDiarmid Dress** sett — one scale-free proportion (`w38r12w37g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1830**.
 
+Part of the [MacDiarmid Dress](/tartans/m/ma/macdiarmid-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

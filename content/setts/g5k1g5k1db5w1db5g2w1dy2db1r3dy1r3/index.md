@@ -6,6 +6,8 @@ This is the **Festival Celtique de Québec** sett — one scale-free proportion 
 [GKGKBWBGWGBRGR](/stripes/gkgkbwbgwgbrgr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Festival Celtique de Québec](/tartans/f/fe/festival-celtique-de-qu-bec/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

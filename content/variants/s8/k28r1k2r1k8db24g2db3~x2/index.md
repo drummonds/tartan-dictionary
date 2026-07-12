@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Home"
-  url: "/tartans/home/"
+  url: "/tartans/h/ho/home/"
 - name: "Home or Hume (Vestiarium Scoticum)"
   url: "/setts/k28r1k2r1k8db24g2db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k28r1k2r1k8db24g2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKRK](/stripes/bgbkrkrk/).
 
-Part of the [Home](/tartans/home/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Home](/tartans/h/ho/home/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

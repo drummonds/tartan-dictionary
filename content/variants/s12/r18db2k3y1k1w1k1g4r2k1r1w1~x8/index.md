@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Stewart MINI Design"
+  url: "/tartans/r/ro/royal-stewart-mini-design/"
 - name: "Stewart/Stuart, Royal #2"
   url: "/setts/r18db2k3y1k1w1k1g4r2k1r1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r18db2k3y1k1w1k1g4r2k1r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGRKRW](/stripes/rbkgkwkgrkrw/).
+
+Part of the [Royal Stewart MINI Design](/tartans/r/ro/royal-stewart-mini-design/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

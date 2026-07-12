@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fettes"
-  url: "/tartans/fettes/"
+  url: "/tartans/f/fe/fettes/"
 - name: "Fettes Personal Tartan"
   url: "/setts/k50db3o2r3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k50db3o2r3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRRW](/stripes/kbrrw/).
 
-Part of the [Fettes](/tartans/fettes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fettes](/tartans/f/fe/fettes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

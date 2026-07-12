@@ -6,6 +6,8 @@ This is the **Baron of Greencastle Htg (Personal)** sett — one scale-free prop
 [BBBBKBKBKGGGB](/stripes/bbbbkbkbkgggb/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Baron of Greencastle Hunting](/tartans/b/ba/baron-of-greencastle-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

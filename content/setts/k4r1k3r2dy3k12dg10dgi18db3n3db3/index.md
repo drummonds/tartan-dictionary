@@ -6,6 +6,8 @@ This is the **Blake, William & Agnes (Australia)** sett — one scale-free propo
 [BBBGGKGRKRK](/stripes/bbbggkgrkrk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Blake, William & Agnes](/tartans/b/bl/blake-william-agnes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **STLTH** sett — one scale-free proportion (`dt4k2dt4k45n2k3n2`), 
 [BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [STLTH](/tartans/s/st/stlth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

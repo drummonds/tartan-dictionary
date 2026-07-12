@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant Hunting"
+  url: "/tartans/g/gr/grant-hunting/"
 - name: "Grant Hunting Clan Tartan"
   url: "/setts/db11k2db2k2db2k11g11r2g3k1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k2db2k2db2k11g11r2g3k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRGKG](/stripes/bkbkbkgrgkg/).
+
+Part of the [Grant Hunting](/tartans/g/gr/grant-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

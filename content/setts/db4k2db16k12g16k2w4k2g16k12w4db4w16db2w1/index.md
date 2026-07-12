@@ -6,7 +6,7 @@ This is the **Forbes Dress** sett — one scale-free proportion (`db4k2db16k12g1
 [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Forbes Dress](/tartans/forbes-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Forbes Dress](/tartans/f/fo/forbes-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Derbyshire"
+  url: "/tartans/d/de/derbyshire/"
+- name: "Derbyshire"
   url: "/setts/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGRKRBWBKRBGKGKR](/stripes/kgkgrkrbwbkrbgkgkr/).
+
+Part of the [Derbyshire](/tartans/d/de/derbyshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

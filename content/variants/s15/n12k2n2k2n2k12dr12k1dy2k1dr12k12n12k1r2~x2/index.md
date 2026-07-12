@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Flaumandrum"
+  url: "/tartans/f/fl/flaumandrum/"
+- name: "Flaumandrum"
   url: "/setts/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKBKBKR](/stripes/bkbkbkbkgkbkbkr/).
+
+Part of the [Flaumandrum](/tartans/f/fl/flaumandrum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

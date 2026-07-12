@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Curnow"
+  url: "/clan/curnow/"
+- name: "Curnow of Kernow"
+  url: "/families/curnow-of-kernow/"
+- name: "Curnow of Kernow"
+  url: "/tartans/c/cu/curnow-of-kernow-2/"
 - name: "Curnow of Kernow (Personal)"
   url: "/setts/dp26ly2r3ly2dp26k13y2k8w3k8y2k13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp26ly2r3ly2dp26k13y2k8w3k8y2k13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYRYBKGKWKGK](/stripes/byrybkgkwkgk/).
+
+Part of the [Curnow of Kernow](/tartans/c/cu/curnow-of-kernow-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

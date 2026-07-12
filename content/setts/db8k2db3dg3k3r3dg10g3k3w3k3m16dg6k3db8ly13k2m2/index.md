@@ -6,6 +6,8 @@ This is the **Kukri** sett — one scale-free proportion (`db8k2db3dg3k3r3dg10g3
 [BKBGKRGGKWKRGKBYKR](/stripes/bkbgkrggkwkrgkbykr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Kukri](/tartans/k/ku/kukri-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

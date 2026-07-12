@@ -6,6 +6,8 @@ This is the **Kelvingrove (Fashion)** sett — one scale-free proportion (`k16b1
 [BYBKBKBK](/stripes/bybkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Kelvingrove](/tartans/k/ke/kelvingrove/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

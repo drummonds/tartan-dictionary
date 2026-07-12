@@ -6,6 +6,8 @@ This is the **Shanahan (Corporate)** sett — one scale-free proportion (`k2r2k4
 [KRKYGKGBR](/stripes/krkygkgbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Shanahan](/tartans/s/sh/shanahan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

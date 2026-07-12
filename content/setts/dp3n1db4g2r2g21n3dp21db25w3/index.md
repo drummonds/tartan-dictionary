@@ -6,6 +6,8 @@ This is the **Accenture** sett — one scale-free proportion (`dp3n1db4g2r2g21n3
 [BBBGRGBBBW](/stripes/bbbgrgbbbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Accenture](/tartans/a/ac/accenture/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

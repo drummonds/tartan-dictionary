@@ -6,7 +6,7 @@ This is the **Sutherland, Dress** sett — one scale-free proportion (`w5g2w23k7
 [RBRBKBKBKWGW](/stripes/rbrbkbkbkwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Sutherland Dress](/tartans/sutherland-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Sutherland Dress](/tartans/s/su/sutherland-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

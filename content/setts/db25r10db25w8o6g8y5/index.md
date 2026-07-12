@@ -6,6 +6,8 @@ This is the **Barneys (Scunthorpe) (Personal)** sett — one scale-free proporti
 [BRBWRGG](/stripes/brbwrgg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Barneys](/tartans/b/ba/barneys-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

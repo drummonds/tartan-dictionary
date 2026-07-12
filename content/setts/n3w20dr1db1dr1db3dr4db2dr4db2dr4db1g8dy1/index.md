@@ -6,6 +6,8 @@ This is the **Cairn (Fashion)** sett — one scale-free proportion (`n3w20dr1db1
 [BWBBBBBBBBBBGG](/stripes/bwbbbbbbbbbbgg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Cairn](/tartans/c/ca/cairn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

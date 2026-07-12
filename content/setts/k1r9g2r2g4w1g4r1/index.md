@@ -6,6 +6,8 @@ This is the **Comyn** sett — one scale-free proportion (`k1r9g2r2g4w1g4r1`), c
 [KRGRGWGR](/stripes/krgrgwgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Comyn](/tartans/c/co/comyn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Brittany National (District)** sett — one scale-free proportion 
 [GBYKYKYKY](/stripes/gbykykyky/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Brittany National](/tartans/b/br/brittany-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

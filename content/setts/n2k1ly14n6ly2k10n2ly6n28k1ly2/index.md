@@ -6,6 +6,8 @@ This is the **State Seal of Rhode Island (Fash.)** sett — one scale-free propo
 [BKYBYKBYBKY](/stripes/bkybykbybky/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Rhode Island](/tartans/s/st/state-seal-of-rhode-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

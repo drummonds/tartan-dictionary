@@ -6,7 +6,7 @@ This is the **Avalon - Carroll House** sett — one scale-free proportion (`w3k1
 [WKBKBKBKBGWGKW](/stripes/wkbkbkbkbgwgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Avalon](/tartans/avalon-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Avalon](/tartans/a/av/avalon-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Leando (Coldingham) Hunting (Personal)** sett — one scale-free p
 [RKRGWGWGKRGRW](/stripes/rkrgwgwgkrgrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Leando Hunting](/tartans/l/le/leando-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

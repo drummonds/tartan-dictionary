@@ -6,7 +6,7 @@ This is the **New Glasgow (Canada)** sett — one scale-free proportion (`g28r4d
 [BRGRWBRG](/stripes/brgrwbrg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [New Glasgow](/tartans/new-glasgow/) tartan — the named design grouping this sett with its kin.
+Part of the [New Glasgow](/tartans/n/ne/new-glasgow/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

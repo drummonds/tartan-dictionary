@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Long Way Down, The"
+  url: "/tartans/l/lo/long-way-down-the/"
 - name: "Long Way Down, The (Corporate)"
   url: "/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGGGWGWGGR](/stripes/gygggwgwggr/).
+
+Part of the [Long Way Down, The](/tartans/l/lo/long-way-down-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

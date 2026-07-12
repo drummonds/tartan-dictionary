@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burke , Kevin"
+  url: "/tartans/b/bu/burke-kevin/"
 - name: "Burke (Kennesaw), Kevin"
   url: "/setts/k62r23k1y5k1r3k1y2k1r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62r23k1y5k1r3k1y2k1r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKGKRKGKR](/stripes/krkgkrkgkr/).
+
+Part of the [Burke , Kevin](/tartans/b/bu/burke-kevin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

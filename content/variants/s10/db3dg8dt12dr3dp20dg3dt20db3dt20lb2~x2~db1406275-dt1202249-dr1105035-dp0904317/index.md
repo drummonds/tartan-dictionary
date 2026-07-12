@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathisla"
+  url: "/tartans/s/st/strathisla/"
 - name: "Strathisla District Tartan"
   url: "/setts/db3dg8dt12dr3dp20dg3dt20db3dt20lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dg8dt12dr3dp20dg3dt20db3dt20lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBGBBBW](/stripes/bgbbbgbbbw/).
+
+Part of the [Strathisla](/tartans/s/st/strathisla/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

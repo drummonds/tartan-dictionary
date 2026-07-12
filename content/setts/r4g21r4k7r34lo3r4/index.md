@@ -6,6 +6,8 @@ This is the **Kirk** sett — one scale-free proportion (`r4g21r4k7r34lo3r4`), c
 [RYRKRGRGRKRY](/stripes/ryrkrgrgrkry/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Kirk](/tartans/k/ki/kirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

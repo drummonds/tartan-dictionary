@@ -7,6 +7,8 @@ This is the **MacThomas LC** sett — one scale-free proportion (`db5dp3db32k16g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [MacThomas LC](/tartans/m/ma/macthomas-lc-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

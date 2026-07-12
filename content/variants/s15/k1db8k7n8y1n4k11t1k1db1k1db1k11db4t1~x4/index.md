@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shadow Halls"
+  url: "/tartans/s/sh/shadow-halls/"
+- name: "Shadow Halls"
   url: "/setts/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/).
+
+Part of the [Shadow Halls](/tartans/s/sh/shadow-halls/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

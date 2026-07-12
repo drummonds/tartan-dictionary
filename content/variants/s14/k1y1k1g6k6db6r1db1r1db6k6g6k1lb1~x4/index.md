@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Malcolm"
-  url: "/tartans/malcolm/"
+  url: "/tartans/m/ma/malcolm/"
 - name: "Malcolm Clan Tartan"
   url: "/setts/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKBRBRBKGKW](/stripes/kgkgkbrbrbkgkw/).
 
-Part of the [Malcolm](/tartans/malcolm/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Malcolm](/tartans/m/ma/malcolm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

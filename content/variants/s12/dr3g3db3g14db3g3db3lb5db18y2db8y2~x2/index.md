@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "California Burns"
+  url: "/tartans/c/ca/california-burns/"
 - name: "California Burns (Personal)"
   url: "/setts/dr3g3db3g14db3g3db3lb5db18y2db8y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3g3db3g14db3g3db3lb5db18y2db8y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBWBGBG](/stripes/bgbgbgbwbgbg/).
+
+Part of the [California Burns](/tartans/c/ca/california-burns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

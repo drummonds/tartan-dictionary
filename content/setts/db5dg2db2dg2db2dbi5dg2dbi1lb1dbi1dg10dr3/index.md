@@ -6,6 +6,8 @@ This is the **Richard of Wales** sett — one scale-free proportion (`db5dg2db2d
 [BGBGBBGBWBGB](/stripes/bgbgbbgbwbgb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Richard of Wales](/tartans/r/ri/richard-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Contrecoeur Dress** sett — one scale-free proportion (`w2n2g2dy1
 [RWBGWGBWRWGGGBW](/stripes/rwbgwgbwrwgggbw/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Contrecoeur Dress](/tartans/c/co/contrecoeur-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Murray of Dunmore (Clan)** sett — one scale-free proportion (`dg
 [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Murray of Dunmore](/tartans/m/mu/murray-of-dunmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

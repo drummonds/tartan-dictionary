@@ -6,6 +6,8 @@ This is the **Shanahan** sett — one scale-free proportion (`t17dg16k2dg24ly3k4
 [BGKGYKRKRKYGKGBR](/stripes/bgkgykrkrkygkgbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Shanahan](/tartans/s/sh/shanahan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

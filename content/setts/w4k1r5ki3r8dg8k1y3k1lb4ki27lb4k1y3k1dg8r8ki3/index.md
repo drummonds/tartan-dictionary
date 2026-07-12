@@ -6,6 +6,8 @@ This is the **Moon (Name)** sett — one scale-free proportion (`w4k1r5ki3r8dg8k
 [KRGKGKWKWKGKGRKRKW](/stripes/krgkgkwkwkgkgrkrkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Moon](/tartans/m/mo/moon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

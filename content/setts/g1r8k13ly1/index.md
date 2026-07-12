@@ -6,7 +6,7 @@ This is the **Billy Apple** sett — one scale-free proportion (`g1r8k13ly1`), c
 [GRKY](/stripes/grky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Billy Apple®](/tartans/billy-apple-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Billy Apple®](/tartans/b/bi/billy-apple-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

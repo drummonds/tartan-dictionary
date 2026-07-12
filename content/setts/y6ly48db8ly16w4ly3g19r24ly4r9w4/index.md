@@ -6,6 +6,8 @@ This is the **Muirhead (Original)** sett — one scale-free proportion (`y6ly48d
 [GYBYWYGRYRW](/stripes/gybywygryrw/). It is recorded as a single **variant**, below.
 First attested **1854**.
 
+Part of the [Muirhead](/tartans/m/mu/muirhead-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

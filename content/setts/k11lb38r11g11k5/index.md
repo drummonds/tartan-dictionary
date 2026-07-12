@@ -6,6 +6,8 @@ This is the **All as One (Corporate)** sett — one scale-free proportion (`k11l
 [KGRWK](/stripes/kgrwk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [All as One](/tartans/a/al/all-as-one/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

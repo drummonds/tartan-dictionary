@@ -6,6 +6,8 @@ This is the **Glenurquhart Estate Check** sett — one scale-free proportion (`w
 [WKWKWKWKWKWKWKWKWKWKW](/stripes/wkwkwkwkwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Glenurquhart](/tartans/g/gl/glenurquhart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

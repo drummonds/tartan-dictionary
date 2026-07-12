@@ -6,6 +6,8 @@ This is the **Midnight Glen (Fashion)** sett — one scale-free proportion (`dp3
 [BKYBKBKYR](/stripes/bkybkbkyr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Midnight Glen](/tartans/m/mi/midnight-glen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

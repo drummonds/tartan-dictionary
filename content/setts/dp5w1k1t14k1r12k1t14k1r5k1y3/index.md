@@ -6,6 +6,8 @@ This is the **Saltcoats** sett — one scale-free proportion (`dp5w1k1t14k1r12k1
 [BWKBKRKBKRKGKRKBKRKBKW](/stripes/bwkbkrkbkrkgkrkbkrkbkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Saltcoats](/tartans/s/sa/saltcoats/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

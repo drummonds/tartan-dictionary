@@ -6,6 +6,8 @@ This is the **Arran, Isle of (Lochcarron)** sett — one scale-free proportion (
 [BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK](/stripes/bgbgbgbgbkrkrkrkrwrkrkrkrkbkbkbkrkrkrkrwrkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Arran, Isle of](/tartans/a/ar/arran-isle-of-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

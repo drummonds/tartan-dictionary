@@ -6,6 +6,8 @@ This is the **Total** sett — one scale-free proportion (`r48b4r28k5w4k6b4k7g8k
 [GBRKWKBKGKBKWKRBR](/stripes/gbrkwkbkgkbkwkrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Total](/tartans/t/to/total-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

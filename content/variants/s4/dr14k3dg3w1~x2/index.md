@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bacon"
-  url: "/tartans/bacon-2/"
+  url: "/tartans/b/ba/bacon-2/"
 - name: "Bacon, Red (Fashion)"
   url: "/setts/dr14k3dg3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr14k3dg3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGW](/stripes/bkgw/).
 
-Part of the [Bacon](/tartans/bacon-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bacon](/tartans/b/ba/bacon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

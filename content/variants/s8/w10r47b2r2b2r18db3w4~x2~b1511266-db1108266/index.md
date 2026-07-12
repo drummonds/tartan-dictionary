@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Swiss National"
-  url: "/tartans/swiss-national/"
+  url: "/tartans/s/sw/swiss-national/"
 - name: "Swiss National"
   url: "/setts/w10r47b2r2b2r18db3w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w10r47b2r2b2r18db3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBRBRW](/stripes/wbrbrbrw/).
 
-Part of the [Swiss National](/tartans/swiss-national/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Swiss National](/tartans/s/sw/swiss-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

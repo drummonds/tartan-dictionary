@@ -6,6 +6,8 @@ This is the **Wcwm 1873-5** sett — one scale-free proportion (`k1dp8dr1dy3dr1d
 [BGKGBGBBK](/stripes/bgkgbgbbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1873-5](/tartans/w/wc/wcwm-1873-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

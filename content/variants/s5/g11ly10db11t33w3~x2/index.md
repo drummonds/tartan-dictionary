@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sterling"
+  url: "/tartans/s/st/sterling/"
 - name: "Sterling (Name)"
   url: "/setts/g11ly10db11t33w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g11ly10db11t33w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBBW](/stripes/gybbw/).
+
+Part of the [Sterling](/tartans/s/st/sterling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

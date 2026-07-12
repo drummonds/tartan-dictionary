@@ -6,7 +6,7 @@ This is the **Ainslie #2** sett — one scale-free proportion (`dr6k2dr2k4dr2k2d
 [BKBKBKBGBYBKBWB](/stripes/bkbkbkbgbybkbwb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Ainslie](/tartans/ainslie-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Ainslie](/tartans/a/ai/ainslie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

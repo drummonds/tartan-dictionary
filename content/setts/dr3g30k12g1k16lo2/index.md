@@ -6,6 +6,8 @@ This is the **MacArthur-Fox Htg (Personal)** sett — one scale-free proportion 
 [BGKGKY](/stripes/bgkgky/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [MacArthur-Fox Hunting](/tartans/m/ma/macarthur-fox-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

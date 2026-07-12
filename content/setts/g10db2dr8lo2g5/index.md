@@ -6,6 +6,8 @@ This is the **Cub Scouts of America** sett — one scale-free proportion (`g10db
 [GBBYG](/stripes/gbbyg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Cub Scouts of America](/tartans/c/cu/cub-scouts-of-america/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

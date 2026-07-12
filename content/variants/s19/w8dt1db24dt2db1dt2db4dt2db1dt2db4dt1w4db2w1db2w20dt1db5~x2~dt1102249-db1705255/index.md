@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Finnish"
+  url: "/tartans/f/fi/finnish/"
+- name: "Finnish"
   url: "/setts/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/).
+
+Part of the [Finnish](/tartans/f/fi/finnish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

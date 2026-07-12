@@ -6,7 +6,7 @@ This is the **Chindecella Ruadh (Kemete Heil)** sett — one scale-free proporti
 [BBBBBBBB](/stripes/bbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Chindecella Ruadh](/tartans/chindecella-ruadh/) tartan — the named design grouping this sett with its kin.
+Part of the [Chindecella Ruadh](/tartans/c/ch/chindecella-ruadh/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

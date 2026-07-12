@@ -6,6 +6,8 @@ This is the **Brotherston (Personal)** sett — one scale-free proportion (`k10l
 [KWBGKGBRBR](/stripes/kwbgkgbrbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Brotherston](/tartans/b/br/brotherston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

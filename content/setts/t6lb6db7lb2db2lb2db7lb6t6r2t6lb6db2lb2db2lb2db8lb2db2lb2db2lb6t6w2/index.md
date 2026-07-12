@@ -6,6 +6,8 @@ This is the **Weait (2016)** sett — one scale-free proportion (`t6lb6db7lb2db2
 [BWBWBWBWBRBWBWBWBWBWBWBW](/stripes/bwbwbwbwbrbwbwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Weait](/tartans/w/we/weait/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

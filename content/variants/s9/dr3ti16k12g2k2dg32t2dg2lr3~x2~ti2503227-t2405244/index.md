@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Ambulance Service (Corporat"
+  url: "/tartans/s/sc/scottish-ambulance-service-corporat/"
+- name: "Scottish Ambulance Service (Corporat"
   url: "/setts/dr3ti16k12g2k2dg32t2dg2lr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3ti16k12g2k2dg32t2dg2lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKGBGY](/stripes/bbkgkgbgy/).
+
+Part of the [Scottish Ambulance Service (Corporat](/tartans/s/sc/scottish-ambulance-service-corporat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

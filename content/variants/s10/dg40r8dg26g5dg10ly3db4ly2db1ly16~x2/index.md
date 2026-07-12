@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lodge Isandlwana"
+  url: "/tartans/l/lo/lodge-isandlwana/"
+- name: "Lodge Isandlwana"
   url: "/setts/dg40r8dg26g5dg10ly3db4ly2db1ly16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg40r8dg26g5dg10ly3db4ly2db1ly16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGYBYBY](/stripes/grgggybyby/).
+
+Part of the [Lodge Isandlwana](/tartans/l/lo/lodge-isandlwana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

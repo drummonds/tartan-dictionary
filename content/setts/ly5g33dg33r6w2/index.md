@@ -6,6 +6,8 @@ This is the **Symington** sett — one scale-free proportion (`ly5g33dg33r6w2`),
 [WRGGY](/stripes/wrggy/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Symington](/tartans/s/sy/symington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

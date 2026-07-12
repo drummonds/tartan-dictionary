@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Penman"
-  url: "/tartans/penman/"
+  url: "/tartans/p/pe/penman/"
 - name: "Penman"
   url: "/setts/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGBGGBBKRKGB](/stripes/bbggbggbbkrkgb/).
 
-Part of the [Penman](/tartans/penman/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Penman](/tartans/p/pe/penman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

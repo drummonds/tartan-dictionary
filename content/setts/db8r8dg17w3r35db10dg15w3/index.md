@@ -6,6 +6,8 @@ This is the **James of Glencarr (Personal)** sett — one scale-free proportion 
 [BRGWRBGW](/stripes/brgwrbgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [James of Glencarr](/tartans/j/ja/james-of-glencarr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

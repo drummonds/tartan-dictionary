@@ -6,6 +6,8 @@ This is the **Ivanka Trump (Personal)** sett — one scale-free proportion (`r12
 [RWKWKWRWRWWWRKW](/stripes/rwkwkwrwrwwwrkw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Ivanka Trump](/tartans/i/iv/ivanka-trump/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

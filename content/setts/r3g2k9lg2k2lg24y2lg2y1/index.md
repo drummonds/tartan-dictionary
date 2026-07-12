@@ -6,6 +6,8 @@ This is the **Bell of the Borders** sett — one scale-free proportion (`r3g2k9l
 [GYGYKYKGR](/stripes/gygykykgr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Bell of the Borders](/tartans/b/be/bell-of-the-borders/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

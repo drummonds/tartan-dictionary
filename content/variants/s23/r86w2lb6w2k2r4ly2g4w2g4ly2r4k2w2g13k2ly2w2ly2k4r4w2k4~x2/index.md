@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Gesto"
+  url: "/families/macleod-of-gesto/"
+- name: "MacLeod of Gesto"
+  url: "/tartans/m/ma/macleod-of-gesto-4/"
 - name: "MacLeod of Gesto (Clan)"
   url: "/setts/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRKYWYKGWKRYGWGYRKWWWR](/stripes/kwrkywykgwkrygwgyrkwwwr/).
+
+Part of the [MacLeod of Gesto](/tartans/m/ma/macleod-of-gesto-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 

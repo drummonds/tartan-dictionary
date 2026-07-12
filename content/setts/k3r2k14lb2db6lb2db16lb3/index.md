@@ -6,6 +6,8 @@ This is the **Immanuel Presbyterian Church (Milwaukee)** sett — one scale-free
 [KRKWBWBW](/stripes/krkwbwbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Immanuel Presbyterian Church](/tartans/i/im/immanuel-presbyterian-church-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

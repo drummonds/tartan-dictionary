@@ -6,6 +6,8 @@ This is the **MacScott Family (America) (Personal)** sett — one scale-free pro
 [GGBGBWBGGG](/stripes/ggbgbwbggg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [MacScott](/tartans/m/ma/macscott/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

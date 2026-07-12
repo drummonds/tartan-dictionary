@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "Macleod, Winnifred"
+  url: "/tartans/m/ma/macleod-winnifred/"
 - name: "Macleod, Winnifred Mary, Dress"
   url: "/setts/k23y3k23w36r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k23y3k23w36r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWR](/stripes/kgkwr/).
+
+Part of the [Macleod, Winnifred](/tartans/m/ma/macleod-winnifred/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

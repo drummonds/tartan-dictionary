@@ -6,6 +6,8 @@ This is the **Wingtip** sett — one scale-free proportion (`db11lb1k3w1lg4dr5y1
 [BGBYWKWB](/stripes/bgbywkwb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Wingtip](/tartans/w/wi/wingtip/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

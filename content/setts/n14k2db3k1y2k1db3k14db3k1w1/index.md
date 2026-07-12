@@ -6,6 +6,8 @@ This is the **McGuffey (School)** sett — one scale-free proportion (`n14k2db3k
 [BKBKGKBKBKW](/stripes/bkbkgkbkbkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [McGuffey](/tartans/m/mc/mcguffey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

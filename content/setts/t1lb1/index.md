@@ -6,6 +6,8 @@ This is the **Bruce Special 1985 XXX** sett — one scale-free proportion (`t1lb
 [BW](/stripes/bw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bruce Special 1985 XXX](/tartans/b/br/bruce-special-1985-xxx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

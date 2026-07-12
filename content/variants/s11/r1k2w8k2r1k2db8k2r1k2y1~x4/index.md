@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Andreou"
+  url: "/tartans/a/an/andreou/"
 - name: "Andreou Family (Personal)"
   url: "/setts/r1k2w8k2r1k2db8k2r1k2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k2w8k2r1k2db8k2r1k2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKBKRKWKR](/stripes/gkrkbkrkwkr/).
+
+Part of the [Andreou](/tartans/a/an/andreou/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

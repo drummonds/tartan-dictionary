@@ -6,6 +6,8 @@ This is the **Ithilien Commemorative Tartan** sett — one scale-free proportion
 [BBBBKBGBG](/stripes/bbbbkbgbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Ithilien Commemorative](/tartans/i/it/ithilien-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

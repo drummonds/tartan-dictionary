@@ -6,6 +6,8 @@ This is the **Stephen F Austin State University** sett — one scale-free propor
 [BWKBKBBW](/stripes/bwkbkbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Stephen F Austin State University](/tartans/s/st/stephen-f-austin-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Amarillo"
-  url: "/tartans/amarillo/"
+  url: "/tartans/a/am/amarillo/"
 - name: "Amarillo"
   url: "/setts/db18k2g2db9k4dg9r4db9g2k2ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db18k2g2db9k4dg9r4db9g2k2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBKGRBGKY](/stripes/bkgbkgrbgky/).
 
-Part of the [Amarillo](/tartans/amarillo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Amarillo](/tartans/a/am/amarillo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

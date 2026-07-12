@@ -6,6 +6,8 @@ This is the **Loch Lomond Millennium** sett — one scale-free proportion (`k3b2
 [GBKGBRBGKBK](/stripes/gbkgbrbgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Loch Lomond Millennium](/tartans/l/lo/loch-lomond-millennium/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

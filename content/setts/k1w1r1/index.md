@@ -6,6 +6,8 @@ This is the **Dacre Estate Check** sett — one scale-free proportion (`k1w1r1`)
 [KWR](/stripes/kwr/). It is recorded as a single **variant**, below.
 First attested **1868**.
 
+Part of the [Dacre](/tartans/d/da/dacre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

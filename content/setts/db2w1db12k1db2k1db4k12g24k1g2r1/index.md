@@ -6,7 +6,7 @@ This is the **Urquhart** sett — one scale-free proportion (`db2w1db12k1db2k1db
 [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Urquhart](/tartans/urquhart-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Urquhart](/tartans/u/ur/urquhart-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

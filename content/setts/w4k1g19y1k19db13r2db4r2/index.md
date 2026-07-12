@@ -6,7 +6,7 @@ This is the **Whitson Family Tartan** sett — one scale-free proportion (`w4k1g
 [RBRBKGGKW](/stripes/rbrbkggkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Whitson](/tartans/whitson/) tartan — the named design grouping this sett with its kin.
+Part of the [Whitson](/tartans/w/wh/whitson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

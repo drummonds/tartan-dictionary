@@ -7,6 +7,8 @@ This is the **Wilson's No.187** sett — one scale-free proportion (`k1g1r1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Wilson's No.187](/tartans/w/wi/wilson-s-no-187/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Weaving for Life** sett — one scale-free proportion (`lr24n2lr6m
 [WYWYRYBY](/stripes/wywyryby/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Weaving for Life](/tartans/w/we/weaving-for-life/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

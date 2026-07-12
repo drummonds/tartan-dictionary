@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Balamory"
+  url: "/tartans/b/ba/balamory/"
+- name: "Balamory"
   url: "/setts/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBWBYBWB](/stripes/bwbwbwbbwbybwb/).
+
+Part of the [Balamory](/tartans/b/ba/balamory/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

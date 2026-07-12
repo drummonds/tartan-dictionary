@@ -6,6 +6,8 @@ This is the **Daks (Loden)** sett — one scale-free proportion (`db3dy7g2y2g14d
 [BGGGGGGB](/stripes/bggggggb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Daks](/tartans/d/da/daks-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

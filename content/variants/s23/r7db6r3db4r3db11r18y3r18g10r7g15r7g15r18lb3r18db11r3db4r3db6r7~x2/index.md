@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fox"
+  url: "/tartans/f/fo/fox/"
 - name: "Fox, Red"
   url: "/setts/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRGRGRGRGRWRBRBRBR](/stripes/rbrbrbrgrgrgrgrwrbrbrbr/).
+
+Part of the [Fox](/tartans/f/fo/fox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

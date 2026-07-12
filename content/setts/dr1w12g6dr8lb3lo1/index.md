@@ -6,7 +6,7 @@ This is the **MacLean Dress (Lumsden)** sett — one scale-free proportion (`dr1
 [BWGBWY](/stripes/bwgbwy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacLean Dress](/tartans/maclean-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean Dress](/tartans/m/ma/maclean-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

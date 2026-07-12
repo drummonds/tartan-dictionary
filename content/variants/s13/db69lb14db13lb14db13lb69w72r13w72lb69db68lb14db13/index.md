@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Poulter Sonic"
-  url: "/tartans/poulter-sonic/"
+  url: "/tartans/p/po/poulter-sonic/"
 - name: "Poulter Sonic"
   url: "/setts/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/).
 
-Part of the [Poulter Sonic](/tartans/poulter-sonic/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Poulter Sonic](/tartans/p/po/poulter-sonic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

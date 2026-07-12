@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Whitson"
-  url: "/tartans/whitson/"
+  url: "/tartans/w/wh/whitson/"
 - name: "Whitson"
   url: "/setts/lb4k1g19lo1k19db13dr2db4dr2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4k1g19lo1k19db13dr2db4dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYKBBBBBBBKYGKW](/stripes/kgykbbbbbbbkygkw/).
 
-Part of the [Whitson](/tartans/whitson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Whitson](/tartans/w/wh/whitson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

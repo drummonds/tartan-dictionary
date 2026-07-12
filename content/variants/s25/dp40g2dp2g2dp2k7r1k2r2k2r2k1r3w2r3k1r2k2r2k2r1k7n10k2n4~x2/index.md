@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Isle of Arran"
+  url: "/tartans/i/is/isle-of-arran/"
 - name: "Isle of Arran (Lochcarron) (Fashion)"
   url: "/setts/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/).
+
+Part of the [Isle of Arran](/tartans/i/is/isle-of-arran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 

@@ -6,6 +6,8 @@ This is the **Valdres, Kvam & Vang #2** sett — one scale-free proportion (`k4w
 [KWRKGRKGRKR](/stripes/kwrkgrkgrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Valdres, Kvam & Vang](/tartans/v/va/valdres-kvam-vang-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

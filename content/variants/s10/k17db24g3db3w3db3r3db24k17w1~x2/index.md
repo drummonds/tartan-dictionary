@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Al-Fadhli"
-  url: "/tartans/al-fadhli/"
+  url: "/tartans/a/al/al-fadhli/"
 - name: "Al-Fadhli (Personal)"
   url: "/setts/k17db24g3db3w3db3r3db24k17w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k17db24g3db3w3db3r3db24k17w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBWBRBKW](/stripes/kbgbwbrbkw/).
 
-Part of the [Al-Fadhli](/tartans/al-fadhli/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Al-Fadhli](/tartans/a/al/al-fadhli/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

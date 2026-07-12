@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenbarr"
+  url: "/tartans/g/gl/glenbarr/"
+- name: "Glenbarr"
   url: "/setts/g3k6r2k6g3k2g16k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3k6r2k6g3k2g16k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKGK](/stripes/gkrkgkgk/).
+
+Part of the [Glenbarr](/tartans/g/gl/glenbarr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

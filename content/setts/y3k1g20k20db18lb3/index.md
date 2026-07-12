@@ -6,6 +6,8 @@ This is the **Smith** sett — one scale-free proportion (`y3k1g20k20db18lb3`), 
 [GKGKBW](/stripes/gkgkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Smith](/tartans/s/sm/smith-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

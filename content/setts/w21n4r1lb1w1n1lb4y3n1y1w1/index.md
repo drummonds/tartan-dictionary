@@ -6,6 +6,8 @@ This is the **Glen Ross (WCWM - 1)** sett — one scale-free proportion (`w21n4r
 [WBRWWBWGBGW](/stripes/wbrwwbwgbgw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Glen Ross](/tartans/g/gl/glen-ross/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

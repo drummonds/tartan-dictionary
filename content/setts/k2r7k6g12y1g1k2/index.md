@@ -6,6 +6,8 @@ This is the **Blackstock Hunting Family Tartan** sett — one scale-free proport
 [KGGGKRK](/stripes/kgggkrk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Blackstock Hunting](/tartans/b/bl/blackstock-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

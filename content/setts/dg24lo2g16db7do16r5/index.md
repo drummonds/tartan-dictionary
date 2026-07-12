@@ -6,7 +6,7 @@ This is the **Waterford, County (District)** sett — one scale-free proportion 
 [GYGBBR](/stripes/gygbbr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Waterford, County](/tartans/waterford-county/) tartan — the named design grouping this sett with its kin.
+Part of the [Waterford, County](/tartans/w/wa/waterford-county/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

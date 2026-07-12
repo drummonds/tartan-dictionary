@@ -6,6 +6,8 @@ This is the **Wellmont Foundation (Corporate)** sett — one scale-free proporti
 [BWBGGRG](/stripes/bwbggrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Wellmont Foundation](/tartans/w/we/wellmont-foundation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

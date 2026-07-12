@@ -6,6 +6,8 @@ This is the **Holehouse, Dag (Personal)** sett — one scale-free proportion (`g
 [GGBKR](/stripes/ggbkr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Holehouse, Dag](/tartans/h/ho/holehouse-dag/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

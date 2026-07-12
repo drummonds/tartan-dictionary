@@ -6,7 +6,7 @@ This is the **Burns Family Tartan** sett — one scale-free proportion (`r3g3r3g
 [GRGRBRGRGRGR](/stripes/grgrbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Burns](/tartans/burns/) tartan — the named design grouping this sett with its kin.
+Part of the [Burns](/tartans/b/bu/burns/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

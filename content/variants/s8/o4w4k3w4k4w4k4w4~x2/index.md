@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Feshie"
+  url: "/tartans/g/gl/glen-feshie/"
 - name: "Glen Feshie Check"
   url: "/setts/o4w4k3w4k4w4k4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4w4k3w4k4w4k4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKW](/stripes/rwkwkwkw/).
+
+Part of the [Glen Feshie](/tartans/g/gl/glen-feshie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

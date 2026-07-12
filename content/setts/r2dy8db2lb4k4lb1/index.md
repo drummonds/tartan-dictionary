@@ -6,7 +6,7 @@ This is the **Thompson's Fancy Personal Tartan** sett — one scale-free proport
 [RGBWKW](/stripes/rgbwkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Thompson's Fancy](/tartans/thompson-s-fancy/) tartan — the named design grouping this sett with its kin.
+Part of the [Thompson's Fancy](/tartans/t/th/thompson-s-fancy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

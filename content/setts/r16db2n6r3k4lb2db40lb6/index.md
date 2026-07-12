@@ -6,6 +6,8 @@ This is the **St. Leonards (Corporate)** sett — one scale-free proportion (`r1
 [RBBRKWBW](/stripes/rbbrkwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [St. Leonards](/tartans/s/st/st-leonards/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

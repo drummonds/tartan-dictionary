@@ -6,6 +6,8 @@ This is the **Royal Army PTC Assoc. (Military)** sett — one scale-free proport
 [GKRKRKRK](/stripes/gkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Royal Army PTC Assoc.](/tartans/r/ro/royal-army-ptc-assoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

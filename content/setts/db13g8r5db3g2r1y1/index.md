@@ -6,6 +6,8 @@ This is the **Fibonacci7** sett — one scale-free proportion (`db13g8r5db3g2r1y
 [BGRBGRG](/stripes/bgrbgrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Fibonacci7](/tartans/f/fi/fibonacci7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

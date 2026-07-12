@@ -6,6 +6,8 @@ This is the **Loch Carron** sett — one scale-free proportion (`r5db30k19g23k2w
 [GBKGKWKWKGKBR](/stripes/gbkgkwkwkgkbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Loch Carron](/tartans/l/lo/loch-carron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

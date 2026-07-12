@@ -6,6 +6,8 @@ This is the **Scotland's People** sett — one scale-free proportion (`r7y3r27k1
 [GRGRKRKRKRGR](/stripes/grgrkrkrkrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Scotland's People](/tartans/s/sc/scotland-s-people/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

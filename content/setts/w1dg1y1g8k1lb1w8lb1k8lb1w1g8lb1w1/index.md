@@ -6,6 +6,8 @@ This is the **Praetorian Green** sett — one scale-free proportion (`w1dg1y1g8k
 [WGGGKWWWKWWGWW](/stripes/wgggkwwwkwwgww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Praetorian](/tartans/p/pr/praetorian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

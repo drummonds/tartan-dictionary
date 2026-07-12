@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Afternoon Tea / Darjeeling"
-  url: "/tartans/afternoon-tea-darjeeling/"
+  url: "/tartans/a/af/afternoon-tea-darjeeling/"
 - name: "Afternoon Tea / Darjeeling"
   url: "/setts/y15db8r25db72dg98w15/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y15db8r25db72dg98w15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBGW](/stripes/gbrbgw/).
 
-Part of the [Afternoon Tea / Darjeeling](/tartans/afternoon-tea-darjeeling/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Afternoon Tea / Darjeeling](/tartans/a/af/afternoon-tea-darjeeling/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

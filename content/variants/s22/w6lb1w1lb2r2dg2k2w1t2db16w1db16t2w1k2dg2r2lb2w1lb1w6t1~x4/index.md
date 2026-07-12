@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arctic"
+  url: "/tartans/a/ar/arctic-2/"
 - name: "Arctic (District)"
   url: "/setts/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/).
+
+Part of the [Arctic](/tartans/a/ar/arctic-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

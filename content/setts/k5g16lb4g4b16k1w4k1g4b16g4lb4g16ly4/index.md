@@ -6,6 +6,8 @@ This is the **Unidentified (Callander 2009)** sett — one scale-free proportion
 [KGWGBKWKGBGWGY](/stripes/kgwgbkwkgbgwgy/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-57/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

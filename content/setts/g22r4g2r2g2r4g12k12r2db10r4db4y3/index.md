@@ -7,6 +7,8 @@ This is the **Cochrane LC** sett — one scale-free proportion (`g22r4g2r2g2r4g1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Cochrane LC](/tartans/c/co/cochrane-lc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

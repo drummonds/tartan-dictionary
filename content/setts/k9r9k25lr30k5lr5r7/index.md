@@ -6,6 +6,8 @@ This is the **Rocket Dog (Fashion)** sett — one scale-free proportion (`k9r9k2
 [KRKYKYR](/stripes/krkykyr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Rocket Dog](/tartans/r/ro/rocket-dog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

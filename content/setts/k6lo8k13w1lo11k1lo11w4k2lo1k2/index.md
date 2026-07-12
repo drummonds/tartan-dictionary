@@ -6,6 +6,8 @@ This is the **Oregon State University** sett — one scale-free proportion (`k6l
 [KYKWYKYWKYK](/stripes/kykwykywkyk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Oregon State University](/tartans/o/or/oregon-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

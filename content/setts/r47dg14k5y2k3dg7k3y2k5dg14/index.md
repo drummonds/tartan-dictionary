@@ -6,7 +6,7 @@ This is the **Harbor Club** sett — one scale-free proportion (`r47dg14k5y2k3dg
 [GKGKGKGKGRGKGKGKGK](/stripes/gkgkgkgkgrgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Harbor Club](/tartans/harbor-club/) tartan — the named design grouping this sett with its kin.
+Part of the [Harbor Club](/tartans/h/ha/harbor-club/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

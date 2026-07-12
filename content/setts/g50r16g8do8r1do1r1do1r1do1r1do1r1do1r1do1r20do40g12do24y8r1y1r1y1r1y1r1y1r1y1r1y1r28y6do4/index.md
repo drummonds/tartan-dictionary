@@ -6,7 +6,7 @@ This is the **Newfoundland (CIDD 28098)** sett — one scale-free proportion (`g
 [BGRGRGRGRGRGRGRGBGBRBRBRBRBRBRBRBGRG](/stripes/bgrgrgrgrgrgrgrgbgbrbrbrbrbrbrbrbgrg/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [Newfoundland](/tartans/newfoundland-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Newfoundland](/tartans/n/ne/newfoundland-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

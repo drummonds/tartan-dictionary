@@ -6,6 +6,8 @@ This is the **St Andrews Old Course Hotel, Golf Course and Spa** sett — one sc
 [BGBKBG](/stripes/bgbkbg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [St Andrews Old Course Hotel, Golf Course and Spa](/tartans/s/st/st-andrews-old-course-hotel-golf-course-and-spa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

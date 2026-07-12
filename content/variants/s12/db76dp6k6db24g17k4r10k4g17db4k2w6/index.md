@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Heritage Society (Corporate"
+  url: "/tartans/s/sc/scottish-heritage-society-corporate/"
+- name: "Scottish Heritage Society (Corporate"
   url: "/setts/db76dp6k6db24g17k4r10k4g17db4k2w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db76dp6k6db24g17k4r10k4g17db4k2w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBGKRKGBKW](/stripes/bbkbgkrkgbkw/).
+
+Part of the [Scottish Heritage Society (Corporate](/tartans/s/sc/scottish-heritage-society-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

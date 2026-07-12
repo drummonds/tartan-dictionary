@@ -7,7 +7,7 @@ This is the **Yates (Personal)** sett — one scale-free proportion (`k29r3db24n
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
-Part of the [Yates](/tartans/yates/) tartan — the named design grouping this sett with its kin.
+Part of the [Yates](/tartans/y/ya/yates/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

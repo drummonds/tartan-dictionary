@@ -6,6 +6,8 @@ This is the **Blairlogie (District)** sett — one scale-free proportion (`k28r2
 [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
+Part of the [Blairlogie](/tartans/b/bl/blairlogie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

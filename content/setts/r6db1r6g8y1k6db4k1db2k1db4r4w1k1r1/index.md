@@ -6,6 +6,8 @@ This is the **MacPherson Clan Tartan** sett — one scale-free proportion (`r6db
 [RBRGGKBKBKBRWKR](/stripes/rbrggkbkbkbrwkr/). It is recorded as a single **variant**, below.
 First attested **1886**.
 
+Part of the [MacPherson 9](/tartans/m/ma/macpherson-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

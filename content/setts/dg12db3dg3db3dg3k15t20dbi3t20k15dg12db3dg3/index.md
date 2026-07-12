@@ -6,6 +6,8 @@ This is the **Lemania (District)** sett — one scale-free proportion (`dg12db3d
 [GBGBGKBBBKGBG](/stripes/gbgbgkbbbkgbg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lemania](/tartans/l/le/lemania-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

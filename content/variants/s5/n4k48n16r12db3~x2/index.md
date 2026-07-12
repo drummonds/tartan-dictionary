@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Calgary Firefighters"
+  url: "/tartans/c/ca/calgary-firefighters/"
+- name: "Calgary Firefighters"
   url: "/setts/n4k48n16r12db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4k48n16r12db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRB](/stripes/bkbrb/).
+
+Part of the [Calgary Firefighters](/tartans/c/ca/calgary-firefighters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chartered Accountants of Scotland"
+  url: "/tartans/c/ch/chartered-accountants-of-scotland/"
+- name: "Chartered Accountants of Scotland"
   url: "/setts/dy4g3r2g36t30k3t3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4g3r2g36t30k3t3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGBKBK](/stripes/ggrgbkbk/).
+
+Part of the [Chartered Accountants of Scotland](/tartans/c/ch/chartered-accountants-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Lloyd of Dolobran (Personal)** sett — one scale-free proportion 
 [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
-Part of the [Lloyd of Dolobran](/tartans/lloyd-of-dolobran/) tartan — the named design grouping this sett with its kin.
+Part of the [Lloyd of Dolobran](/tartans/l/ll/lloyd-of-dolobran/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

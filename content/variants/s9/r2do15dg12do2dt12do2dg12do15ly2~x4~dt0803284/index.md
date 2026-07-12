@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Amazing Union"
-  url: "/tartans/amazing-union/"
+  url: "/tartans/a/am/amazing-union/"
 - name: "Amazing Union (Personal)"
   url: "/setts/r2do15dg12do2dt12do2dg12do15ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2do15dg12do2dt12do2dg12do15ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBBBGBY](/stripes/rbgbbbgby/).
 
-Part of the [Amazing Union](/tartans/amazing-union/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Amazing Union](/tartans/a/am/amazing-union/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

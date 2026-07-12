@@ -7,7 +7,7 @@ This is the **MacNicol Hunting** sett — one scale-free proportion (`db10k1g1k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacNicol Hunting](/tartans/macnicol-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNicol Hunting](/tartans/m/ma/macnicol-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

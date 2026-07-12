@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laurie"
-  url: "/tartans/laurie/"
+  url: "/tartans/l/la/laurie/"
 - name: "Laurie Clan Tartan"
   url: "/setts/dp6r2dp1g25db16k2db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp6r2dp1g25db16k2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBRB](/stripes/bkbgbrb/).
 
-Part of the [Laurie](/tartans/laurie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Laurie](/tartans/l/la/laurie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

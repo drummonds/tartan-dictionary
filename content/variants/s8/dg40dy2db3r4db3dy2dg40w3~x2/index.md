@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Asher"
-  url: "/tartans/asher/"
+  url: "/tartans/a/as/asher/"
 - name: "Asher (Personal)"
   url: "/setts/dg40dy2db3r4db3dy2dg40w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg40dy2db3r4db3dy2dg40w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRBGGW](/stripes/ggbrbggw/).
 
-Part of the [Asher](/tartans/asher/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Asher](/tartans/a/as/asher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

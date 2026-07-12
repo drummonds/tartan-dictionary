@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Washington County Sheriff’s Office"
-  url: "/tartans/washington-county-sheriff-s-office/"
+  url: "/tartans/w/wa/washington-county-sheriff-s-office/"
 - name: "Washington County Sheriff’s Office (Oregon)"
   url: "/setts/lb6k6lb6db3w1k39dy3k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb6k6lb6db3w1k39dy3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWBWKW](/stripes/kgkwbwkw/).
 
-Part of the [Washington County Sheriff’s Office](/tartans/washington-county-sheriff-s-office/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Washington County Sheriff’s Office](/tartans/w/wa/washington-county-sheriff-s-office/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

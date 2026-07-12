@@ -6,6 +6,8 @@ This is the **MacFrog (Personal)** sett — one scale-free proportion (`r3db20g3
 [GWGBKGBR](/stripes/gwgbkgbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacFrog](/tartans/m/ma/macfrog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

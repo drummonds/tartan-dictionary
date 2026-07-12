@@ -6,6 +6,8 @@ This is the **Birral (Clan)** sett — one scale-free proportion (`r65w2dp8lb4w2
 [BWRRBRRWGWBWWWBWR](/stripes/bwrrbrrwgwbwwwbwr/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
+Part of the [Birral](/tartans/b/bi/birral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Louisiana** sett — one scale-free proportion (`k3g3lb2g11k12db18
 [KGWGKBKW](/stripes/kgwgkbkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Louisiana](/tartans/l/lo/louisiana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

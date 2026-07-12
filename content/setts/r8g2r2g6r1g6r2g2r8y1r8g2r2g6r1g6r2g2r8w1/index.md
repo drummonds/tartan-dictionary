@@ -6,6 +6,8 @@ This is the **Bruce (VS) Clan Tartan** sett — one scale-free proportion (`r8g2
 [RGRGRGRGRGRGRGRGRGRW](/stripes/rgrgrgrgrgrgrgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Bruce](/tartans/b/br/bruce-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

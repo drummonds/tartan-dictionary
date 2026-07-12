@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "United French Freemasons (Corporate"
+  url: "/tartans/u/un/united-french-freemasons-corporate/"
+- name: "United French Freemasons (Corporate"
   url: "/setts/db144dr9lb44db4lb4db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db144dr9lb44db4lb4db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
+
+Part of the [United French Freemasons (Corporate](/tartans/u/un/united-french-freemasons-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

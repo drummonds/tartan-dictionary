@@ -6,6 +6,8 @@ This is the **Yes Scotland** sett — one scale-free proportion (`lb12g4dp4g4lb3
 [WBBWGBGW](/stripes/wbbwgbgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Yes Scotland](/tartans/y/ye/yes-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

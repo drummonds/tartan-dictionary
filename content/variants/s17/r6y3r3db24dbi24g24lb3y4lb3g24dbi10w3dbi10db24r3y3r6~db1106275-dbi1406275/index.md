@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stevens"
+  url: "/tartans/s/st/stevens-2/"
 - name: "Stevens (Personal)"
   url: "/setts/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6y3r3db24dbi24g24lb3y4lb3g24dbi10w3dbi10db24r3y3r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBBGWGWGBWBBRGRGRBBWBGWGWGBBRGR](/stripes/grbbgwgwgbwbbrgrgrbbwbgwgwgbbrgr/).
+
+Part of the [Stevens](/tartans/s/st/stevens-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Quinn"
-  url: "/tartans/quinn-2/"
+  url: "/tartans/q/qu/quinn-2/"
 - name: "Quinn (Personal)"
   url: "/setts/dr1t8k4g1dg4g1k4t8y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr1t8k4g1dg4g1k4t8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGGGKBG](/stripes/bbkgggkbg/).
 
-Part of the [Quinn](/tartans/quinn-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Quinn](/tartans/q/qu/quinn-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

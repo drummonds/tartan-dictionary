@@ -6,6 +6,8 @@ This is the **Griffiths (Welsh Name)** sett — one scale-free proportion (`ly4d
 [YBBBBBRBBBY](/stripes/ybbbbbrbbby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Griffiths](/tartans/g/gr/griffiths/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kuznetsov (2014)** sett — one scale-free proportion (`db49y12r12
 [BGRGGWB](/stripes/bgrggwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Kuznetsov](/tartans/k/ku/kuznetsov/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

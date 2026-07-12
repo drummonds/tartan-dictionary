@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Andrew's Soc. of Philadelphia (C"
+  url: "/tartans/s/st/st-andrew-s-soc-of-philadelphia-c/"
+- name: "St. Andrew's Soc. of Philadelphia (C"
   url: "/setts/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBBBGBGBY](/stripes/brbgbbbgbgby/).
+
+Part of the [St. Andrew's Soc. of Philadelphia (C](/tartans/s/st/st-andrew-s-soc-of-philadelphia-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

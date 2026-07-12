@@ -7,6 +7,8 @@ This is the **Innes** sett — one scale-free proportion (`g7k1g7lb1k6lb1`), col
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1850**.
 
+Part of the [Innes](/tartans/i/in/innes-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Unidentified (Paisley)** sett — one scale-free proportion (`db4k
 [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKGKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkgkgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1875**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-29/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hunnisett /Edinchip Corporate Tartan** sett — one scale-free pro
 [BWBKGGGKRKR](/stripes/bwbkgggkrkr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Hunnisett /Edinchip](/tartans/h/hu/hunnisett-edinchip/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

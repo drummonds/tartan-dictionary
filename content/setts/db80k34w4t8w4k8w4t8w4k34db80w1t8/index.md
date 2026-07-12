@@ -6,6 +6,8 @@ This is the **Scottish Bluebell (Corporate)** sett — one scale-free proportion
 [BKWBWKWBWKBWB](/stripes/bkwbwkwbwkbwb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Scottish Bluebell](/tartans/s/sc/scottish-bluebell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

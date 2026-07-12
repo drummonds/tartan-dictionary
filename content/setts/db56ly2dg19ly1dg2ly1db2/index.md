@@ -6,6 +6,8 @@ This is the **Lewis of Wales** sett — one scale-free proportion (`db56ly2dg19l
 [BYGYGYBYGYGY](/stripes/bygygybygygy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lewis](/tartans/l/le/lewis-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Chisholm Hunting (HSL) Clan Tartan** sett — one scale-free propo
 [RGBGBGBRWR](/stripes/rgbgbgbrwr/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
-Part of the [Chisholm Hunting](/tartans/chisholm-hunting-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Chisholm Hunting](/tartans/c/ch/chisholm-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

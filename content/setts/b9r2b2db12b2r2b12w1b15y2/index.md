@@ -6,6 +6,8 @@ This is the **Boswell (Name)** sett — one scale-free proportion (`b9r2b2db12b2
 [BRBBBRBWBG](/stripes/brbbbrbwbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Boswell](/tartans/b/bo/boswell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

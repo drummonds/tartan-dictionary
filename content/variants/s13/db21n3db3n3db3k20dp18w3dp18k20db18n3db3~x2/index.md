@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacPoiret"
+  url: "/tartans/w/we/westwood-macpoiret/"
 - name: "Westwood MacPoiret (Fashion)"
   url: "/setts/db21n3db3n3db3k20dp18w3dp18k20db18n3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db21n3db3n3db3k20dp18w3dp18k20db18n3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKBWBKBBB](/stripes/bbbbbkbwbkbbb/).
+
+Part of the [Westwood MacPoiret](/tartans/w/we/westwood-macpoiret/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

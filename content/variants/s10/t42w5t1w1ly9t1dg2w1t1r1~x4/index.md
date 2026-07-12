@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stratford , City of"
-  url: "/tartans/stratford-city-of/"
+  url: "/tartans/s/st/stratford-city-of/"
 - name: "Stratford, (Oregon) City of (Dist.)"
   url: "/setts/t42w5t1w1ly9t1dg2w1t1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t42w5t1w1ly9t1dg2w1t1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWYBGWBR](/stripes/bwbwybgwbr/).
 
-Part of the [Stratford , City of](/tartans/stratford-city-of/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stratford , City of](/tartans/s/st/stratford-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

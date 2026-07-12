@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crieff Red Dress"
+  url: "/tartans/c/cr/crieff-red-dress/"
 - name: "Crieff Red Dress (Dance)"
   url: "/setts/k2g2w2g3w33r2dp10r3g3r26g2r4m2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g2w2g3w33r2dp10r3g3r26g2r4m2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/).
+
+Part of the [Crieff Red Dress](/tartans/c/cr/crieff-red-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

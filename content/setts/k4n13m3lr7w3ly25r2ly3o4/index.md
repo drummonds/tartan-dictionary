@@ -6,6 +6,8 @@ This is the **Australian Donkey** sett — one scale-free proportion (`k4n13m3lr
 [KBRYWYRYR](/stripes/kbrywyryr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Australian Donkey](/tartans/a/au/australian-donkey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

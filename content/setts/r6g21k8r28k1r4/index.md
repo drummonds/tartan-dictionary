@@ -6,7 +6,7 @@ This is the **Dunbar Family Tartan** sett — one scale-free proportion (`r6g21k
 [RGKRKR](/stripes/rgkrkr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Dunbar](/tartans/dunbar-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunbar](/tartans/d/du/dunbar-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

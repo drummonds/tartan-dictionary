@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
+- name: "Nicolson of Tiree & Coll"
+  url: "/families/nicolson-of-tiree-coll/"
+- name: "Nicolson of Tiree & Coll"
+  url: "/tartans/n/ni/nicolson-of-tiree-coll/"
 - name: "Nicolson of Tiree & Coll (Clan)"
   url: "/setts/g3dbi8r11db3k2dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dbi8r11db3k2dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBG](/stripes/bkbrbg/).
+
+Part of the [Nicolson of Tiree & Coll](/tartans/n/ni/nicolson-of-tiree-coll/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

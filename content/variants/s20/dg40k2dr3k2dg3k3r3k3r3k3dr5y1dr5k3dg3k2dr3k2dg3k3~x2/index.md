@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Austrian Bowhunters Hunting"
+  url: "/tartans/a/au/austrian-bowhunters-hunting/"
+- name: "Austrian Bowhunters Hunting"
   url: "/setts/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKGKRKRKBGBKGKBKGK](/stripes/gkbkgkrkrkbgbkgkbkgk/).
+
+Part of the [Austrian Bowhunters Hunting](/tartans/a/au/austrian-bowhunters-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

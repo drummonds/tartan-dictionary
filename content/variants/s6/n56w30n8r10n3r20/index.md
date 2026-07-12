@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walsh, Michael Edward"
+  url: "/tartans/w/wa/walsh-michael-edward/"
 - name: "Walsh, Michael Edward (Personal)"
   url: "/setts/n56w30n8r10n3r20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n56w30n8r10n3r20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBR](/stripes/bwbrbr/).
+
+Part of the [Walsh, Michael Edward](/tartans/w/wa/walsh-michael-edward/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

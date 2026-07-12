@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maine Dirigo"
+  url: "/tartans/m/ma/maine-dirigo/"
+- name: "Maine Dirigo"
   url: "/setts/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGRGBGBWBWRG](/stripes/bwgrgbgbwbwrg/).
+
+Part of the [Maine Dirigo](/tartans/m/ma/maine-dirigo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -7,7 +7,7 @@ This is the **MacDonald Lord of the Isles Hunting** sett — one scale-free prop
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1893**.
 
-Part of the [MacDonald, Lord of the Isles Hunting](/tartans/macdonald-lord-of-the-isles-hunting-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald, Lord of the Isles Hunting](/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

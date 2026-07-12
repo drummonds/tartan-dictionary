@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacGregor (Clan Gregor)"
   url: "/clan/macgregor/"
 - name: "MacGregor"
-  url: "/tartans/macgregor-11/"
+  url: "/tartans/m/ma/macgregor-11/"
 - name: "MacGregor #2"
   url: "/setts/r39g6r2g3w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r39g6r2g3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGW](/stripes/rgrgw/).
 
-Part of the [MacGregor](/tartans/macgregor-11/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor](/tartans/m/ma/macgregor-11/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

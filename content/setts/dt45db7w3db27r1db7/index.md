@@ -6,6 +6,8 @@ This is the **U.S. Navy/Edzell (Military)** sett — one scale-free proportion (
 [BBWBRB](/stripes/bbwbrb/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [U.S. Navy/Edzell](/tartans/u/u/u-s-navy-edzell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

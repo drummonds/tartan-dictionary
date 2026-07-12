@@ -6,6 +6,8 @@ This is the **Blackdown Hills** sett — one scale-free proportion (`k4dt4dy1dt4
 [KBGBBBY](/stripes/kbgbbby/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Blackdown Hills](/tartans/b/bl/blackdown-hills-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

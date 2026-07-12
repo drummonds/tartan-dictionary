@@ -6,6 +6,8 @@ This is the **Belk Heritage Hunting (Fashion)** sett — one scale-free proporti
 [GKGKGKGBYGGKBKYK](/stripes/gkgkgkgbyggkbkyk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Belk Heritage Hunting](/tartans/b/be/belk-heritage-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

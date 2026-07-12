@@ -6,6 +6,8 @@ This is the **Liberton** sett — one scale-free proportion (`k5lb5y2lb5k5db25k5
 [KWGRGWKBKWGWK](/stripes/kwgrgwkbkwgwk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Liberton](/tartans/l/li/liberton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

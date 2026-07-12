@@ -6,6 +6,8 @@ This is the **Bryson (1988) (Name)** sett — one scale-free proportion (`lr2r1t
 [WKBRY](/stripes/wkbry/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Bryson](/tartans/b/br/bryson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

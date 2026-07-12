@@ -6,6 +6,8 @@ This is the **St Johns County Sheriff Office (Cor)** sett — one scale-free pro
 [KGYBR](/stripes/kgybr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [St Johns County Sheriff Office](/tartans/s/st/st-johns-county-sheriff-office/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Ferguson's Promise (Commemorative)** sett — one scale-free propo
 [BKRRRKW](/stripes/bkrrrkw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
-Part of the [Ferguson's Promise](/tartans/ferguson-s-promise/) tartan — the named design grouping this sett with its kin.
+Part of the [Ferguson's Promise](/tartans/f/fe/ferguson-s-promise/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

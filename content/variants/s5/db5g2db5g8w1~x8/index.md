@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Hamilton"
   url: "/clan/hamilton/"
 - name: "Hamilton Hunting"
-  url: "/tartans/hamilton-hunting/"
+  url: "/tartans/h/ha/hamilton-hunting/"
 - name: "Hamilton Hunting Clan Tartan"
   url: "/setts/db5g2db5g8w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db5g2db5g8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
 
-Part of the [Hamilton Hunting](/tartans/hamilton-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hamilton Hunting](/tartans/h/ha/hamilton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

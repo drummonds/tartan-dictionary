@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Qualifications Authority"
+  url: "/tartans/s/sc/scottish-qualifications-authority/"
 - name: "Scottish Qualifications Auth. (Corp)"
   url: "/setts/db36lo5db8lb3db8lb10db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db36lo5db8lb3db8lb10db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBYB](/stripes/bwbwbyb/).
+
+Part of the [Scottish Qualifications Authority](/tartans/s/sc/scottish-qualifications-authority/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

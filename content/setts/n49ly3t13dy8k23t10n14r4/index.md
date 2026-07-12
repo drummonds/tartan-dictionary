@@ -6,6 +6,8 @@ This is the **State Seal of West Virginia (Fash)** sett — one scale-free propo
 [BYBGKBBR](/stripes/bybgkbbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of West Virginia](/tartans/s/st/state-seal-of-west-virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

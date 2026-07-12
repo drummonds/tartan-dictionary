@@ -6,6 +6,8 @@ This is the **Victoria** sett — one scale-free proportion (`r4g1w19db4w4db1k5y
 [RGWBWBKGKBWGRGRGW](/stripes/rgwbwbkgkbwgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Victoria](/tartans/v/vi/victoria-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

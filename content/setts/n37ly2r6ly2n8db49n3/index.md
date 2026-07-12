@@ -6,6 +6,8 @@ This is the **U.S. Merchant Marine Academy (Corpo** sett — one scale-free prop
 [BBBYRYB](/stripes/bbbyryb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [U.S. Merchant Marine Academy](/tartans/u/u/u-s-merchant-marine-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

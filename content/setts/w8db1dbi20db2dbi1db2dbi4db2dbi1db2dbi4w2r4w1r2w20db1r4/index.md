@@ -6,6 +6,8 @@ This is the **Florida** sett — one scale-free proportion (`w8db1dbi20db2dbi1db
 [RBWRWRWBBBBBBBBBBW](/stripes/rbwrwrwbbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Florida](/tartans/f/fl/florida/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

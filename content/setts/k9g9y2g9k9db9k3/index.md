@@ -7,6 +7,8 @@ This is the **Campbell Breadalbane** sett — one scale-free proportion (`k9g9y2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
+Part of the [Campbell Breadalbane](/tartans/c/ca/campbell-breadalbane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

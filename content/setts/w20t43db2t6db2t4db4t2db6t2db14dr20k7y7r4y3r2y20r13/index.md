@@ -6,6 +6,8 @@ This is the **Declaration of Scottish Independence, Arbroath 1320** sett — one
 [RGRGRGKBBBBBBBBBBBW](/stripes/rgrgrgkbbbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Declaration of Scottish Independence, Arbroath 1320](/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **British Columbia (Commemorative)** sett — one scale-free proport
 [BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG](/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [British Columbia](/tartans/british-columbia/) tartan — the named design grouping this sett with its kin.
+Part of the [British Columbia](/tartans/b/br/british-columbia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

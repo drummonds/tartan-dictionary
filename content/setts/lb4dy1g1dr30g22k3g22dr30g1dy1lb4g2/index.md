@@ -6,6 +6,8 @@ This is the **Connemarra Irish District Tartan** sett — one scale-free proport
 [GWGGBGKGBGGW](/stripes/gwggbgkgbggw/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
+Part of the [Connemarra](/tartans/c/co/connemarra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

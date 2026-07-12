@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Atlas Textile"
+  url: "/tartans/a/at/atlas-textile/"
 - name: "Johnston Orange/Black (Corporate)"
   url: "/setts/w1lo1k1lo12k12lo1k1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1lo1k1lo12k12lo1k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYKYKYKY](/stripes/wykykyky/).
+
+Part of the [Atlas Textile](/tartans/a/at/atlas-textile/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

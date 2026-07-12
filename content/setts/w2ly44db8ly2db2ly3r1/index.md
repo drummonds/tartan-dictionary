@@ -6,6 +6,8 @@ This is the **Reece (Name)** sett — one scale-free proportion (`w2ly44db8ly2db
 [RYBYBYW](/stripes/rybybyw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Reece](/tartans/r/re/reece/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

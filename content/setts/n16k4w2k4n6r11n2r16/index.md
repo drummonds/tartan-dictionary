@@ -6,6 +6,8 @@ This is the **Sidney (Nova Scotia) Canadian Tartan** sett — one scale-free pro
 [BKWKBRBR](/stripes/bkwkbrbr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Sidney](/tartans/s/si/sidney-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

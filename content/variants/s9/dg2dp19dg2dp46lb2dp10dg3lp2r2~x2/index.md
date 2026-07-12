@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Hoxa"
+  url: "/tartans/s/sp/spirit-of-hoxa-2/"
 - name: "Spirit of Hoxa (District)"
   url: "/setts/dg2dp19dg2dp46lb2dp10dg3lp2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2dp19dg2dp46lb2dp10dg3lp2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWBGWR](/stripes/gbgbwbgwr/).
+
+Part of the [Spirit of Hoxa](/tartans/s/sp/spirit-of-hoxa-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

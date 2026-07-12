@@ -6,6 +6,8 @@ This is the **Dewar** sett — one scale-free proportion (`dy1r7dy4g7dy1g1`), co
 [GGGGRGRGGG](/stripes/ggggrgrggg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Dewar](/tartans/d/de/dewar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

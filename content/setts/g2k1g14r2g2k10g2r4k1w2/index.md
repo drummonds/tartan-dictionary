@@ -6,6 +6,8 @@ This is the **MacCarthy (Fashion?)** sett — one scale-free proportion (`g2k1g1
 [GKGRGKGRKW](/stripes/gkgrgkgrkw/). It is recorded as a single **variant**, below.
 First attested **~1953**.
 
+Part of the [MacCarthy](/tartans/m/ma/maccarthy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

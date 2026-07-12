@@ -6,6 +6,8 @@ This is the **Earl Blue Marl** sett — one scale-free proportion (`db80k28dp9k3
 [BKBKRK](/stripes/bkbkrk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Earl Blue Marl](/tartans/e/ea/earl-blue-marl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

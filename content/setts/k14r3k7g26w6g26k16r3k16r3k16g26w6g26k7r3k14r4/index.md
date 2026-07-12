@@ -6,6 +6,8 @@ This is the **J & B Whisky (Original)** sett — one scale-free proportion (`k14
 [KRKGWGKRKRKGWGKRKR](/stripes/krkgwgkrkrkgwgkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [J & B Whisky](/tartans/j/j/j-b-whisky-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

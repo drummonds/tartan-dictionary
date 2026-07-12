@@ -6,6 +6,8 @@ This is the **Pride of the Clyde** sett — one scale-free proportion (`dbi8w4db
 [BWBBBBBW](/stripes/bwbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Pride of the Clyde](/tartans/p/pr/pride-of-the-clyde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

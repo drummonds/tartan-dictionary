@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Murtaugh Hunting"
-  url: "/tartans/murtaugh-hunting/"
+  url: "/tartans/m/mu/murtaugh-hunting/"
 - name: "Murtaugh Hunting Tartan"
   url: "/setts/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBWBGBWKGKGWKBKWBK](/stripes/bkbgbwbgbwkgkgwkbkwbk/).
 
-Part of the [Murtaugh Hunting](/tartans/murtaugh-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Murtaugh Hunting](/tartans/m/mu/murtaugh-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 

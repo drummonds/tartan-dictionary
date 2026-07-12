@@ -6,6 +6,8 @@ This is the **VersaCold/Atlas (Corporate)** sett — one scale-free proportion (
 [BBKBKBKBR](/stripes/bbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [VersaCold/Atlas](/tartans/v/ve/versacold-atlas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Thistle** sett — one scale-free proportion (`db2ki3db33
 [BKBKKBBBWB](/stripes/bkbkkbbbwb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Scottish Thistle](/tartans/s/sc/scottish-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

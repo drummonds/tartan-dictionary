@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Muirhead"
+  url: "/tartans/m/mu/muirhead/"
 - name: "Muirhead (Clan)"
   url: "/setts/y3dg14g9db4g8w2g12r12g2r5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dg14g9db4g8w2g12r12g2r5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGWGRGRW](/stripes/gggbgwgrgrw/).
+
+Part of the [Muirhead](/tartans/m/mu/muirhead/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

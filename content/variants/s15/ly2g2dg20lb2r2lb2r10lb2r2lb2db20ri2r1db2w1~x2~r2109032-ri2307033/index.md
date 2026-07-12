@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British Airways"
+  url: "/tartans/b/br/british-airways/"
 - name: "British Airways (Corporate)"
   url: "/setts/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRRBWRWRWRWGGY](/stripes/wbrrbwrwrwrwggy/).
+
+Part of the [British Airways](/tartans/b/br/british-airways/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

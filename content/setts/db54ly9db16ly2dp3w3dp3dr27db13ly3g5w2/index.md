@@ -6,6 +6,8 @@ This is the **Queen's University Ont. (Corporate)** sett — one scale-free prop
 [BYBYBWBBBYGW](/stripes/bybybwbbbygw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Queen's University Ont.](/tartans/q/qu/queen-s-university-ont/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

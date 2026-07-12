@@ -6,6 +6,8 @@ This is the **Rainbow (Fort Worth)** sett — one scale-free proportion (`g1w1t1
 [GWBWYWRWYWGW](/stripes/gwbwywrwywgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Rainbow](/tartans/r/ra/rainbow-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

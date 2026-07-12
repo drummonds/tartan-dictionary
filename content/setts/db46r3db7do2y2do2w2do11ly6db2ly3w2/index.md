@@ -6,7 +6,7 @@ This is the **Lady Diana Plaid Trade or Fancy Tartan** sett — one scale-free p
 [BRBBGBWBYBYW](/stripes/brbbgbwbybyw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
-Part of the [Lady Diana](/tartans/lady-diana/) tartan — the named design grouping this sett with its kin.
+Part of the [Lady Diana](/tartans/l/la/lady-diana/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

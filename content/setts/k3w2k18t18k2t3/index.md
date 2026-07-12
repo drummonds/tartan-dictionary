@@ -6,7 +6,7 @@ This is the **Swan (Name)** sett — one scale-free proportion (`k3w2k18t18k2t3`
 [BKBKWK](/stripes/bkbkwk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Swan](/tartans/swan/) tartan — the named design grouping this sett with its kin.
+Part of the [Swan](/tartans/s/sw/swan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kernow Spirit"
+  url: "/tartans/k/ke/kernow-spirit/"
 - name: "Kernow Spirit (Corporate)"
   url: "/setts/k14w4k8y45w3k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14w4k8y45w3k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGKWK](/stripes/gkwgkwk/).
+
+Part of the [Kernow Spirit](/tartans/k/ke/kernow-spirit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **MacDonald of Dunyveg Family Tartan** sett — one scale-free propo
 [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [MacDonald of Denovan](/tartans/m/ma/macdonald-of-denovan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

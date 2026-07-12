@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Stuart / Stewart"
+  url: "/tartans/r/ro/royal-stuart-stewart/"
+- name: "Royal Stuart / Stewart"
   url: "/setts/k14w4k14w19k4w4k4n4k16n11k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14w4k14w19k4w4k4n4k16n11k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/).
+
+Part of the [Royal Stuart / Stewart](/tartans/r/ro/royal-stuart-stewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

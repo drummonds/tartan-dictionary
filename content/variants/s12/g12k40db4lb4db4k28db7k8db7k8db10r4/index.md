@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Wales"
+  url: "/tartans/p/pr/pride-of-wales-2/"
 - name: "Pride of Wales (Fashion)"
   url: "/setts/g12k40db4lb4db4k28db7k8db7k8db10r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g12k40db4lb4db4k28db7k8db7k8db10r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWBKBKBKBR](/stripes/gkbwbkbkbkbr/).
+
+Part of the [Pride of Wales](/tartans/p/pr/pride-of-wales-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

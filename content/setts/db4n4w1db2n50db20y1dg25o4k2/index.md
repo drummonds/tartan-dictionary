@@ -6,6 +6,8 @@ This is the **Boisserolles de St-Julien, Baron of** sett — one scale-free prop
 [BBWBBBGGRK](/stripes/bbwbbbggrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Boisserolles de St-Julien, Baron of](/tartans/b/bo/boisserolles-de-st-julien-baron-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

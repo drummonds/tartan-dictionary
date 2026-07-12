@@ -6,6 +6,8 @@ This is the **Bryce Family Tartan** sett — one scale-free proportion (`r1g7r9y
 [GRGR](/stripes/grgr/). It is recorded as a single **variant**, below.
 First attested **~1953**.
 
+Part of the [Bryce](/tartans/b/br/bryce/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

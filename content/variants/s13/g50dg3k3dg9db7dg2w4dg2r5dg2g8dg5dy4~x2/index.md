@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Irish American"
+  url: "/tartans/i/ir/irish-american/"
+- name: "Irish American"
   url: "/setts/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGRGWGBGKGG](/stripes/ggggrgwgbgkgg/).
+
+Part of the [Irish American](/tartans/i/ir/irish-american/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

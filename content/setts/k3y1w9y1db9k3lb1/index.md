@@ -6,6 +6,8 @@ This is the **St. Francis Xavier University** sett — one scale-free proportion
 [KGWGBKW](/stripes/kgwgbkw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [St. Francis Xavier University](/tartans/s/st/st-francis-xavier-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

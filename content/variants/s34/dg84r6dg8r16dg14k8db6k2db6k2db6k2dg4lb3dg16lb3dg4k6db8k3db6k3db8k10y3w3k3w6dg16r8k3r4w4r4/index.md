@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duke of Edinburgh"
+  url: "/tartans/d/du/duke-of-edinburgh/"
 - name: "Duke of Edinburgh (Fashion)"
   url: "/setts/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGKBKBKBKGWGWGKBKBKBKGWKWGRKRWR](/stripes/grgrgkbkbkbkgwgwgkbkbkbkgwkwgrkrwr/).
+
+Part of the [Duke of Edinburgh](/tartans/d/du/duke-of-edinburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 

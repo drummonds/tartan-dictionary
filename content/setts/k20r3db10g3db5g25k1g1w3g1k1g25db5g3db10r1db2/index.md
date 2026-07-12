@@ -6,7 +6,7 @@ This is the **Blairlogie or Blair Athol District Tartan** sett — one scale-fre
 [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/). It is recorded as a single **variant**, below.
 First attested **1882**.
 
-Part of the [Blairlogie or Blair Athol](/tartans/blairlogie-or-blair-athol/) tartan — the named design grouping this sett with its kin.
+Part of the [Blairlogie or Blair Athol](/tartans/b/bl/blairlogie-or-blair-athol/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Army of Oman"
+  url: "/tartans/r/ro/royal-army-of-oman/"
+- name: "Royal Army of Oman"
   url: "/setts/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGKGGRGWG](/stripes/grkrgkggrgwg/).
+
+Part of the [Royal Army of Oman](/tartans/r/ro/royal-army-of-oman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

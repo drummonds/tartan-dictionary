@@ -6,6 +6,8 @@ This is the **MacKenzie** sett — one scale-free proportion (`r1g11k4db2k1db1k1
 [RGKBKBKBKBKBKGW](/stripes/rgkbkbkbkbkbkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKenzie](/tartans/m/ma/mackenzie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

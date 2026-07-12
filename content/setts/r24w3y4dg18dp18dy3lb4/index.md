@@ -6,7 +6,7 @@ This is the **Walter** sett — one scale-free proportion (`r24w3y4dg18dp18dy3lb
 [RWGGBGW](/stripes/rwggbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Walter](/tartans/walter/) tartan — the named design grouping this sett with its kin.
+Part of the [Walter](/tartans/w/wa/walter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

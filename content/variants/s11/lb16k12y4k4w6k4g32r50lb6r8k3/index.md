@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Duart"
+  url: "/families/maclean-of-duart/"
+- name: "MacLean of Duart 3"
+  url: "/tartans/m/ma/maclean-of-duart-3/"
 - name: "MacLean of Duart #3"
   url: "/setts/lb16k12y4k4w6k4g32r50lb6r8k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb16k12y4k4w6k4g32r50lb6r8k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRGKWKGKW](/stripes/krwrgkwkgkw/).
+
+Part of the [MacLean of Duart 3](/tartans/m/ma/maclean-of-duart-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

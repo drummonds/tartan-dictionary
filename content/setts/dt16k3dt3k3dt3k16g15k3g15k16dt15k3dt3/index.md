@@ -6,6 +6,8 @@ This is the **42nd Regiment (Military)** sett — one scale-free proportion (`dt
 [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **~1819**.
 
+Part of the [42nd Regiment](/tartans/0-9/0-9/42nd-regiment-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

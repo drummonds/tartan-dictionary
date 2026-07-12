@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Riley's Theme"
+  url: "/tartans/r/ri/riley-s-theme/"
+- name: "Riley's Theme"
   url: "/setts/db20k4g5dp14w1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20k4g5dp14w1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBWB](/stripes/bkgbwb/).
+
+Part of the [Riley's Theme](/tartans/r/ri/riley-s-theme/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

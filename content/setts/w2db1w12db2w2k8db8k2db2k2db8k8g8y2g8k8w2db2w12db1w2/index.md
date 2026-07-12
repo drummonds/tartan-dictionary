@@ -6,6 +6,8 @@ This is the **Gordon Dress (Clan)** sett — one scale-free proportion (`w2db1w1
 [WBWBWKBKBKBKGGGKWBWBW](/stripes/wbwbwkbkbkbkgggkwbwbw/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Gordon Dress](/tartans/g/go/gordon-dress-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

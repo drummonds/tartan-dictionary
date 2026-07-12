@@ -6,6 +6,8 @@ This is the **Logan, Light** sett — one scale-free proportion (`dp9b4dp1b4dg15
 [BBBBGRB](/stripes/bbbbgrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Logan, Light](/tartans/l/lo/logan-light-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

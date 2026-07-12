@@ -6,6 +6,8 @@ This is the **State Seal of Georgia (Fashion)** sett — one scale-free proporti
 [KBKWKYYWRYK](/stripes/kbkwkyywryk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Georgia](/tartans/s/st/state-seal-of-georgia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

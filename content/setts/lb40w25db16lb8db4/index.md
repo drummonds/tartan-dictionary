@@ -6,6 +6,8 @@ This is the **Louise Beveridge (Personal)** sett — one scale-free proportion (
 [BWBWW](/stripes/bwbww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Louise Beveridge](/tartans/l/lo/louise-beveridge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

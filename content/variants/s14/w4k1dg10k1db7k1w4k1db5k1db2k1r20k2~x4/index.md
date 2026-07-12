@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed"
+  url: "/tartans/u/un/unnamed-7/"
 - name: "Unnamed - C19th (Annie Oakley)"
   url: "/setts/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBKBKWKBKGKW](/stripes/krkbkbkwkbkgkw/).
+
+Part of the [Unnamed](/tartans/u/un/unnamed-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

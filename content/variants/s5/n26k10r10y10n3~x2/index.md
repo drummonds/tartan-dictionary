@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ikelman No 2"
+  url: "/tartans/i/ik/ikelman-no-2/"
+- name: "Ikelman No 2"
   url: "/setts/n26k10r10y10n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n26k10r10y10n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKB](/stripes/bgrkb/).
+
+Part of the [Ikelman No 2](/tartans/i/ik/ikelman-no-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

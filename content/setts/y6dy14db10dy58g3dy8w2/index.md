@@ -6,6 +6,8 @@ This is the **Kozmyk (Corporate)** sett — one scale-free proportion (`y6dy14db
 [GGBGGGW](/stripes/ggbgggw/). It is recorded as a single **variant**, below.
 First attested **1962**.
 
+Part of the [Kozmyk](/tartans/k/ko/kozmyk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

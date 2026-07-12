@@ -6,6 +6,8 @@ This is the **Greenup (2015)** sett — one scale-free proportion (`dy8g50db4lb2
 [GGBWWG](/stripes/ggbwwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Greenup](/tartans/g/gr/greenup/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacDonell of Keppoch Clan Tartan** sett — one scale-free proport
 [RBRGRBRBRGR](/stripes/rbrgrbrbrgr/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
+Part of the [MacDonell of Keppoch](/tartans/m/ma/macdonell-of-keppoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

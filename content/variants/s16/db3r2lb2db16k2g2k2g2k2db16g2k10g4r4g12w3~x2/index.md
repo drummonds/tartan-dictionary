@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Annandale"
+  url: "/tartans/a/an/annandale-2/"
 - name: "Annandale (Personal)"
   url: "/setts/db3r2lb2db16k2g2k2g2k2db16g2k10g4r4g12w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r2lb2db16k2g2k2g2k2db16g2k10g4r4g12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBKGKGKBGKGRGW](/stripes/brwbkgkgkbgkgrgw/).
+
+Part of the [Annandale](/tartans/a/an/annandale-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

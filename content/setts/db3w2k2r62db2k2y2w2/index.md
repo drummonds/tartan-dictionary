@@ -6,6 +6,8 @@ This is the **Singer Sewing Machine Company** sett — one scale-free proportion
 [BWKRBKGW](/stripes/bwkrbkgw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Singer Sewing Machine Company](/tartans/s/si/singer-sewing-machine-company/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Trafalgar (Fashion)** sett — one scale-free proportion (`g3db1g8
 [GBGBKG](/stripes/gbgbkg/). It is recorded as a single **variant**, below.
 First attested **~1969**.
 
+Part of the [Trafalgar](/tartans/t/tr/trafalgar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Doig (Personal)** sett — one scale-free proportion (`r52y2r1y2lb
 [RGRGWBGRWBW](/stripes/rgrgwbgrwbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Doig](/tartans/d/do/doig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

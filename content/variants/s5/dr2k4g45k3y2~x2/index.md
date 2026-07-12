@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mar, Tribe of"
+  url: "/tartans/m/ma/mar-tribe-of/"
 - name: "Mar, Tribe of (Clan)"
   url: "/setts/dr2k4g45k3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2k4g45k3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKG](/stripes/bkgkg/).
+
+Part of the [Mar, Tribe of](/tartans/m/ma/mar-tribe-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

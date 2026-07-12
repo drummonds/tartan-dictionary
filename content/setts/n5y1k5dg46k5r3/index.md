@@ -6,6 +6,8 @@ This is the **Touch** sett — one scale-free proportion (`n5y1k5dg46k5r3`), col
 [BGKGKR](/stripes/bgkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Touch](/tartans/t/to/touch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Rice Welsh Name Tartan** sett — one scale-free proportion (`ly4r
 [YGBGBGRYRY](/stripes/ygbgbgryry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Rice](/tartans/rice/) tartan — the named design grouping this sett with its kin.
+Part of the [Rice](/tartans/r/ri/rice/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

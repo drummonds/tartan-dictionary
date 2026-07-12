@@ -6,6 +6,8 @@ This is the **Spragg (Name)** sett — one scale-free proportion (`r2g16ri1r2ri1
 [RGRRRGW](/stripes/rgrrrgw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Spragg](/tartans/s/sp/spragg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

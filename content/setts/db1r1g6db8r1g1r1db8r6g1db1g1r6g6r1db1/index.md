@@ -6,6 +6,8 @@ This is the **Crieff Hydro Hotel** sett — one scale-free proportion (`db1r1g6d
 [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Crieff Hydro Hotel](/tartans/c/cr/crieff-hydro-hotel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

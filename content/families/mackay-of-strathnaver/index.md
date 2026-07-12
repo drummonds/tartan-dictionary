@@ -18,5 +18,5 @@ A family of [Clan Mackay](/clan/mackay/).
 </tbody>
 </table>
 
-[See the MacKay of Strathnaver tartan and all its setts →](/tartans/mackay-of-strathnaver-2/)
+[See the MacKay of Strathnaver tartan and all its setts →](/tartans/m/ma/mackay-of-strathnaver-2/)
 

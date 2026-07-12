@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buglass"
+  url: "/tartans/b/bu/buglass/"
+- name: "Buglass"
   url: "/setts/b3g1b1g14o2g2o2g4o11dg25y2dg3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b3g1b1g14o2g2o2g4o11dg25y2dg3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRGRGRGGGW](/stripes/bgbgrgrgrgggw/).
+
+Part of the [Buglass](/tartans/b/bu/buglass/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

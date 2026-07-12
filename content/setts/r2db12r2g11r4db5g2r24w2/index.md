@@ -6,6 +6,8 @@ This is the **Fraser Gathering, Red (1997)** sett — one scale-free proportion 
 [RBRGRBGRW](/stripes/rbrgrbgrw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Fraser Gathering](/tartans/f/fr/fraser-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

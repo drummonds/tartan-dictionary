@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Hanna"
   url: "/clan/hanna/"
 - name: "Hanna"
-  url: "/tartans/hanna-2/"
+  url: "/tartans/h/ha/hanna-2/"
 - name: "Hanna Personal Tartan"
   url: "/setts/k8w13db2w1db2w1db2w1db2w1db2w1db2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8w13db2w1db2w1db2w1db2w1db2w1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
 
-Part of the [Hanna](/tartans/hanna-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hanna](/tartans/h/ha/hanna-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Forbes of Druinnor (Artefact)** sett — one scale-free proportion
 [BGBBGGBWBGBBGBGB](/stripes/bgbbggbwbgbbgbgb/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
+Part of the [Forbes of Druinnor](/tartans/f/fo/forbes-of-druinnor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

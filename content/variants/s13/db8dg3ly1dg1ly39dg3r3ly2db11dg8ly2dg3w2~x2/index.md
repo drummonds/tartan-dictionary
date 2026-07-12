@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Afghanistan Memorial"
+  url: "/tartans/a/af/afghanistan-memorial/"
+- name: "Afghanistan Memorial"
   url: "/setts/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGYGRYBGYGW](/stripes/bgygygrybgygw/).
+
+Part of the [Afghanistan Memorial](/tartans/a/af/afghanistan-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

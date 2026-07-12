@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mull Rugby Club"
+  url: "/tartans/m/mu/mull-rugby-club-2/"
+- name: "Mull Rugby Club"
   url: "/setts/k44r2w10r3k6r1w2k18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k44r2w10r3k6r1w2k18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRKRWK](/stripes/krwrkrwk/).
+
+Part of the [Mull Rugby Club](/tartans/m/mu/mull-rugby-club-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

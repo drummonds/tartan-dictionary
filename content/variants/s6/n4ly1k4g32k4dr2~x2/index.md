@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tough"
+  url: "/tartans/t/to/tough/"
 - name: "Tough (Personal)"
   url: "/setts/n4ly1k4g32k4dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4ly1k4g32k4dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKYB](/stripes/bkgkyb/).
+
+Part of the [Tough](/tartans/t/to/tough/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

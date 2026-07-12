@@ -6,7 +6,7 @@ This is the **Smithers (Name)** sett — one scale-free proportion (`dp2t6n1t3lb
 [BBBBWBKGKGB](/stripes/bbbbwbkgkgb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Smithers](/tartans/smithers-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Smithers](/tartans/s/sm/smithers-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tombow 21st School Memorial"
+  url: "/tartans/t/to/tombow-21st-school-memorial/"
+- name: "Tombow 21st School Memorial"
   url: "/setts/dy4db3dt18k3dt2g18dy3g2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4db3dt18k3dt2g18dy3g2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBKBGGGW](/stripes/gbbkbgggw/).
+
+Part of the [Tombow 21st School Memorial](/tartans/t/to/tombow-21st-school-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

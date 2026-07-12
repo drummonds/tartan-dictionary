@@ -6,6 +6,8 @@ This is the **Livingstone Australia (NSW) (Clan)** sett — one scale-free propo
 [GRKYRKYRGRGR](/stripes/grkyrkyrgrgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Livingstone Australia](/tartans/l/li/livingstone-australia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

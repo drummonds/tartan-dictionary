@@ -6,6 +6,8 @@ This is the **Ferguson Britt** sett — one scale-free proportion (`k12r1do12dy1
 [GKRBGBGBRK](/stripes/gkrbgbgbrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ferguson Britt](/tartans/f/fe/ferguson-britt-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

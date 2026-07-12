@@ -6,6 +6,8 @@ This is the **Coeur D'Alene Firefighters Richard Gaines Memorial** sett — one 
 [GKRKRWKWKRKWK](/stripes/gkrkrwkwkrkwk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Coeur D'Alene Firefighters (Corporat](/tartans/c/co/coeur-d-alene-firefighters-corporat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Manx Ellan Vannin** sett — one scale-free proportion (`dg14w2db3
 [GWBGGGBWGW](/stripes/gwbgggbwgw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Manx Ellan Vannin](/tartans/m/ma/manx-ellan-vannin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

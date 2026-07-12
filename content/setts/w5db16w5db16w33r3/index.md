@@ -6,7 +6,7 @@ This is the **Buchanan Dress, Blue (Dance)** sett — one scale-free proportion 
 [RWBWBW](/stripes/rwbwbw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Buchanan Dress](/tartans/buchanan-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

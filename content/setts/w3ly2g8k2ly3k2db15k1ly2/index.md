@@ -6,6 +6,8 @@ This is the **MacManus (Estimated threadcount)** sett — one scale-free proport
 [WYGKYKBKY](/stripes/wygkykbky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacManus](/tartans/m/ma/macmanus-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

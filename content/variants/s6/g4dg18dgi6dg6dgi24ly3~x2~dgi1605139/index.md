@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Park"
+  url: "/tartans/p/pa/park/"
 - name: "Park (Estate Check)"
   url: "/setts/g4dg18dgi6dg6dgi24ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4dg18dgi6dg6dgi24ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGY](/stripes/gggggy/).
+
+Part of the [Park](/tartans/p/pa/park/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

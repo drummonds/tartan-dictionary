@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wilson's No.007 Or Eglinton"
+  url: "/tartans/w/wi/wilson-s-no-007-or-eglinton/"
+- name: "Wilson's No.007 Or Eglinton"
   url: "/setts/g5k4dp28k4r5k4r5k4dp28k4g5k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k4dp28k4r5k4r5k4dp28k4g5k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKRKRKBKGK](/stripes/gkbkrkrkbkgk/).
+
+Part of the [Wilson's No.007 Or Eglinton](/tartans/w/wi/wilson-s-no-007-or-eglinton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

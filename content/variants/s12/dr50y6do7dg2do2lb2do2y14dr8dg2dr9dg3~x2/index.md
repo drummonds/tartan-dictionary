@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tyrone, County"
+  url: "/tartans/t/ty/tyrone-county/"
+- name: "Tyrone, County"
   url: "/setts/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBGBGBG](/stripes/bgbgbwbgbgbg/).
+
+Part of the [Tyrone, County](/tartans/t/ty/tyrone-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

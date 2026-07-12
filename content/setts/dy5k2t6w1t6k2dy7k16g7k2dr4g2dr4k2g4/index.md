@@ -6,7 +6,7 @@ This is the **Redgate Hunting #2 (Name)** sett — one scale-free proportion (`d
 [GKBGBKGKGKBWBKG](/stripes/gkbgbkgkgkbwbkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Redgate Hunting](/tartans/redgate-hunting-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Redgate Hunting](/tartans/r/re/redgate-hunting-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

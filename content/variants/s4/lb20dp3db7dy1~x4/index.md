@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Peacock"
-  url: "/tartans/peacock-2/"
+  url: "/tartans/p/pe/peacock-2/"
 - name: "Peacock (Samantha)"
   url: "/setts/lb20dp3db7dy1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb20dp3db7dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBW](/stripes/gbbw/).
 
-Part of the [Peacock](/tartans/peacock-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Peacock](/tartans/p/pe/peacock-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

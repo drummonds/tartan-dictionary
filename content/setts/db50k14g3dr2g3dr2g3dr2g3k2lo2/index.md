@@ -6,6 +6,8 @@ This is the **Minnock (Name)** sett — one scale-free proportion (`db50k14g3dr2
 [BKGBGBGBGKY](/stripes/bkgbgbgbgky/). It is recorded as a single **variant**, below.
 First attested **~1880**.
 
+Part of the [Minnick](/tartans/m/mi/minnick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

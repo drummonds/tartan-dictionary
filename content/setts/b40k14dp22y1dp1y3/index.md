@@ -6,7 +6,7 @@ This is the **British Energy** sett — one scale-free proportion (`b40k14dp22y1
 [BKBGBG](/stripes/bkbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [British Energy](/tartans/british-energy/) tartan — the named design grouping this sett with its kin.
+Part of the [British Energy](/tartans/b/br/british-energy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

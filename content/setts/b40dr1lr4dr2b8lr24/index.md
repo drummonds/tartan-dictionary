@@ -6,6 +6,8 @@ This is the **Loevenstein Castle 3 (Artefact)** sett — one scale-free proporti
 [BBYBBY](/stripes/bbybby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Loevenstein Castle 3](/tartans/l/lo/loevenstein-castle-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cumming and Glenorchy** sett — one scale-free proportion (`r3db2
 [RBRGRWBRGRBGRBWRGRBRBW](/stripes/rbrgrwbrgrbgrbwrgrbrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cumming and Glenorchy](/tartans/c/cu/cumming-and-glenorchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

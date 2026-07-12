@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stenhousemuir F.C."
+  url: "/tartans/s/st/stenhousemuir-f-c/"
+- name: "Stenhousemuir F.C."
   url: "/setts/dr6k2dr4y3dr60db14dr3db3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6k2dr4y3dr60db14dr3db3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBBBBW](/stripes/bkbgbbbbw/).
+
+Part of the [Stenhousemuir F.C.](/tartans/s/st/stenhousemuir-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

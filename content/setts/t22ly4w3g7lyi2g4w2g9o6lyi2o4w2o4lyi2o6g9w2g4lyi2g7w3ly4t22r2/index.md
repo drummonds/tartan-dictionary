@@ -6,6 +6,8 @@ This is the **Isle of Man** sett — one scale-free proportion (`t22ly4w3g7lyi2g
 [BYWGYGWGRYRWRYRGWGYGWYBR](/stripes/bywgygwgryrwryrgwgygwybr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Isle of Man](/tartans/i/is/isle-of-man-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

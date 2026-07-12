@@ -6,6 +6,8 @@ This is the **Oban Mist** sett — one scale-free proportion (`k8t1o1ki10o16lb2k
 [KBRKRWKBBBW](/stripes/kbrkrwkbbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Oban Mist](/tartans/o/ob/oban-mist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

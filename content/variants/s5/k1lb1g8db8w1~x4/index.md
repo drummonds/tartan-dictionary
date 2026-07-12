@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Douglas"
   url: "/clan/douglas/"
 - name: "Douglas"
-  url: "/tartans/douglas-3/"
+  url: "/tartans/d/do/douglas-3/"
 - name: "Douglas"
   url: "/setts/k1lb1g8db8w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1lb1g8db8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGBW](/stripes/kwgbw/).
 
-Part of the [Douglas](/tartans/douglas-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Douglas](/tartans/d/do/douglas-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

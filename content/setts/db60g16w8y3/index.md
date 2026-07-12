@@ -6,6 +6,8 @@ This is the **MaleHsuHK (Hong Kong) (Personal)** sett — one scale-free proport
 [BGWG](/stripes/bgwg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [MaleHsuHK](/tartans/m/ma/malehsuhk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Black Watch (Coarse Kilt)** sett — one scale-free proportion (`r
 [RKBKGKR](/stripes/rkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1788**.
 
-Part of the [Black Watch](/tartans/black-watch/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Watch](/tartans/b/bl/black-watch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

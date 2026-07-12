@@ -7,6 +7,8 @@ This is the **Great Dane, The** sett — one scale-free proportion (`db6dr30db6d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2006**.
 
+Part of the [Great Dane, The](/tartans/g/gr/great-dane-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

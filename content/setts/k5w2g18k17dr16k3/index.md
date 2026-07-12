@@ -7,7 +7,7 @@ This is the **Melville** sett — one scale-free proportion (`k5w2g18k17dr16k3`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Melville](/tartans/melville/) tartan — the named design grouping this sett with its kin.
+Part of the [Melville](/tartans/m/me/melville/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

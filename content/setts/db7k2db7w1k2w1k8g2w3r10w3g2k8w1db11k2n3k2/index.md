@@ -6,6 +6,8 @@ This is the **Bell (2015)** sett — one scale-free proportion (`db7k2db7w1k2w1k
 [BKBWKWKGWRWGKWBKBK](/stripes/bkbwkwkgwrwgkwbkbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bell](/tartans/b/be/bell-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

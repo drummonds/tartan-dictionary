@@ -6,7 +6,7 @@ This is the **Blue Ridge (District)** sett — one scale-free proportion (`g6lb8
 [GWRWGWGWGW](/stripes/gwrwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Blue Ridge](/tartans/blue-ridge/) tartan — the named design grouping this sett with its kin.
+Part of the [Blue Ridge](/tartans/b/bl/blue-ridge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

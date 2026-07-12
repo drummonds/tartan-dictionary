@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Robert Lee Jordan Defiance"
-  url: "/tartans/robert-lee-jordan-defiance/"
+  url: "/tartans/r/ro/robert-lee-jordan-defiance/"
 - name: "Robert Lee Jordan Defiance (Per.)"
   url: "/setts/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBBBBBBGBGKY](/stripes/rwkbbbbbbgbgky/).
 
-Part of the [Robert Lee Jordan Defiance](/tartans/robert-lee-jordan-defiance/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Robert Lee Jordan Defiance](/tartans/r/ro/robert-lee-jordan-defiance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

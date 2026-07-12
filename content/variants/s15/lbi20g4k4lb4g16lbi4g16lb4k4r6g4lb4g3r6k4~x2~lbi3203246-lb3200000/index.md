@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gayre"
-  url: "/tartans/gayre/"
+  url: "/tartans/g/ga/gayre/"
 - name: "Gayre"
   url: "/setts/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGWGRKWGWGWKGW](/stripes/krgwgrkwgwgwkgw/).
 
-Part of the [Gayre](/tartans/gayre/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gayre](/tartans/g/ga/gayre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

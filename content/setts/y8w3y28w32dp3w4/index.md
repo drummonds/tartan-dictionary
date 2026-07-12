@@ -6,6 +6,8 @@ This is the **Ailsa Yellow Fashion Tartan** sett — one scale-free proportion (
 [GWGWBW](/stripes/gwgwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ailsa](/tartans/a/ai/ailsa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

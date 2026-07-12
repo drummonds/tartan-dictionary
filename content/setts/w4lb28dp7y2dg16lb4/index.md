@@ -6,6 +6,8 @@ This is the **Manx Laxey (Blue)** sett — one scale-free proportion (`w4lb28dp7
 [WGGBWW](/stripes/wggbww/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Laxey Manx](/tartans/l/la/laxey-manx/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

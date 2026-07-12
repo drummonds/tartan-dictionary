@@ -6,6 +6,8 @@ This is the **Westwood MacPoiret (Fashion)** sett — one scale-free proportion 
 [BBBBBKBWBKBBB](/stripes/bbbbbkbwbkbbb/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Westwood MacPoiret](/tartans/w/we/westwood-macpoiret/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

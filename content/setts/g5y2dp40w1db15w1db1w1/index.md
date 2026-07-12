@@ -6,7 +6,7 @@ This is the **Jackson (Personal)** sett — one scale-free proportion (`g5y2dp40
 [GGBWBWBW](/stripes/ggbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Jackson](/tartans/jackson/) tartan — the named design grouping this sett with its kin.
+Part of the [Jackson](/tartans/j/ja/jackson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

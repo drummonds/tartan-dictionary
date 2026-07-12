@@ -6,6 +6,8 @@ This is the **Rutlin (Personal)** sett — one scale-free proportion (`n6db2n1w1
 [BBBWBBBYG](/stripes/bbbwbbbyg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Rutlin](/tartans/r/ru/rutlin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

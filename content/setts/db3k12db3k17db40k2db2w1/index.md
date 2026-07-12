@@ -6,7 +6,7 @@ This is the **Blue Spirit Fashion Tartan** sett — one scale-free proportion (`
 [BKBKBKBW](/stripes/bkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Blue Spirit](/tartans/blue-spirit/) tartan — the named design grouping this sett with its kin.
+Part of the [Blue Spirit](/tartans/b/bl/blue-spirit/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -1,0 +1,33 @@
+---
+title: "Braveheart"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KRGWGWGWGWGWGWGWGWGWGW](/stripes/krgwgwgwgwgwgwgwgwgwgw/) — the page of every tartan sharing this colour sequence.
+
+Designed by Michael King of Aberdeen to forestall commercial exploitation of the Braveheart film; never woven.
+
+The **Braveheart** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2/">Braveheart</a></td><td><code>W/42 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 O40 K/4</code></td><td>202</td><td>1995</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">202</div><div class="nn-name nn-base"><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/">Braveheart</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2&amp;base=w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">418</div><div class="nn-name nn-far"><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/">Stewart/Stuart Royal (VS)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2&amp;base=w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2" title="compare in the TTD">3.14</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/">Espana</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r3w28k2w2k2w2g12r8k1r1w1~x2&amp;base=w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2" title="compare in the TTD">3.92</a></div><div class="nn-threads nn-far2">240</div><div class="nn-name nn-far2"><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/">Royal Stuart Royal Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/"><circle cx="250.6" cy="66.9" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (VS)</title></circle></a><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/"><circle cx="264.9" cy="44.2" r="4" fill="#3465a4"><title>Espana</title></circle></a><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.1" cy="88.1" r="4" fill="#3465a4"><title>Royal Stuart Royal Family Tartan</title></circle></a><circle cx="247.9" cy="48.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

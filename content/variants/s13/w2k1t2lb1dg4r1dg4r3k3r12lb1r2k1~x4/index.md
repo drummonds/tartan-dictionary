@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peacock"
+  url: "/tartans/p/pe/peacock/"
 - name: "Peacock (Personal)"
   url: "/setts/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRKRGRGWBKW](/stripes/krwrkrgrgwbkw/).
+
+Part of the [Peacock](/tartans/p/pe/peacock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

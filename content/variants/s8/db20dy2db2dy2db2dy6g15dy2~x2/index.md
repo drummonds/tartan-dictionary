@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gammell"
+  url: "/tartans/g/ga/gammell/"
 - name: "Gammell (Brown) (Personal)"
   url: "/setts/db20dy2db2dy2db2dy6g15dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20dy2db2dy2db2dy6g15dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGGG](/stripes/bgbgbggg/).
+
+Part of the [Gammell](/tartans/g/ga/gammell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

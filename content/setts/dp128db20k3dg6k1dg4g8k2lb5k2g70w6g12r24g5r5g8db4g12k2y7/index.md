@@ -6,6 +6,8 @@ This is the **Unidentified #3** sett — one scale-free proportion (`dp128db20k3
 [BBKGKGGKWKGWGRGRGBGKG](/stripes/bbkgkggkwkgwgrgrgbgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Annandale](/tartans/a/an/annandale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

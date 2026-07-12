@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nethybridge"
+  url: "/tartans/n/ne/nethybridge/"
+- name: "Nethybridge"
   url: "/setts/db2dr49dg51dr9w2dr9db51dr49db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dr49dg51dr9w2dr9db51dr49db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBGBB](/stripes/bbbbwbgbb/).
+
+Part of the [Nethybridge](/tartans/n/ne/nethybridge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Mar, Tribe of (Clan)** sett — one scale-free proportion (`dr2k4g
 [BKGKG](/stripes/bkgkg/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Mar, Tribe of](/tartans/m/ma/mar-tribe-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

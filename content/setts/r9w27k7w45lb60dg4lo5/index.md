@@ -6,6 +6,8 @@ This is the **Ch. Supt. Everett and Mrs Julene Sum** sett — one scale-free pro
 [RWKWWGY](/stripes/rwkwwgy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ch. Supt. Everett and Mrs Julene Sum](/tartans/c/ch/ch-supt-everett-and-mrs-julene-sum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

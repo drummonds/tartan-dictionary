@@ -6,6 +6,8 @@ This is the **Royal Air Force Regimental Tartan** sett — one scale-free propor
 [BBWBWBKBBBW](/stripes/bbwbwbkbbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Royal Air Force Regimental](/tartans/r/ro/royal-air-force-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

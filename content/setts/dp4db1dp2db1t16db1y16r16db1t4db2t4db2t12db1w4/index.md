@@ -7,6 +7,8 @@ This is the **Spirit of Romania** sett — one scale-free proportion (`dp4db1dp2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2013**.
 
+Part of the [Spirit of Romania](/tartans/s/sp/spirit-of-romania/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

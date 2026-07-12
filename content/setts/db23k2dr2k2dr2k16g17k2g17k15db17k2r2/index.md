@@ -6,6 +6,8 @@ This is the **The Red Hackle** sett — one scale-free proportion (`db23k2dr2k2d
 [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [The Red Hackle](/tartans/t/th/the-red-hackle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

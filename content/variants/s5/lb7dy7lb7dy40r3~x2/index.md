@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coca Cola"
+  url: "/tartans/c/co/coca-cola/"
+- name: "Coca Cola"
   url: "/setts/lb7dy7lb7dy40r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb7dy7lb7dy40r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWGW](/stripes/rgwgw/).
+
+Part of the [Coca Cola](/tartans/c/co/coca-cola/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

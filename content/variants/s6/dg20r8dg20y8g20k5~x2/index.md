@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cates Armigers"
+  url: "/tartans/c/ca/cates-armigers/"
 - name: "Cates Armigers (Personal)"
   url: "/setts/dg20r8dg20y8g20k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg20r8dg20y8g20k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGGK](/stripes/grgggk/).
+
+Part of the [Cates Armigers](/tartans/c/ca/cates-armigers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

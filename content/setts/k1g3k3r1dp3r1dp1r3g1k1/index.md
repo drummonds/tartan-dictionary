@@ -6,7 +6,7 @@ This is the **MacInroy Clan Tartan** sett — one scale-free proportion (`k1g3k3
 [KGKRBRBRGK](/stripes/kgkrbrbrgk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacInroy](/tartans/macinroy-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInroy](/tartans/m/ma/macinroy-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

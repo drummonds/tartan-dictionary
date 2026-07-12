@@ -18,5 +18,5 @@ A family of [Clan Fraser](/clan/fraser/).
 </tbody>
 </table>
 
-[See the Fraser of Altyre tartan and all its setts →](/tartans/fraser-of-altyre/)
+[See the Fraser of Altyre tartan and all its setts →](/tartans/f/fr/fraser-of-altyre/)
 

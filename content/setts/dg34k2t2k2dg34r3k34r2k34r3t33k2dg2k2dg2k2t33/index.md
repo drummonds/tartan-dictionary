@@ -6,7 +6,7 @@ This is the **Stewart of Bute** sett — one scale-free proportion (`dg34k2t2k2d
 [BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK](/stripes/bkgkgkbrkrkrgkbkgkbkgrkrkrbkgkgk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Stewart of Bute](/tartans/stewart-of-bute/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Bute](/tartans/s/st/stewart-of-bute/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Carnegie Dress #2 (Fashion)** sett — one scale-free proportion (
 [WBWBWBKGBGBGY](/stripes/wbwbwbkgbgbgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Carnegie Dress](/tartans/carnegie-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Carnegie Dress](/tartans/c/ca/carnegie-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

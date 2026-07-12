@@ -6,7 +6,7 @@ This is the **King Edward VII Royal Family Tartan** sett — one scale-free prop
 [GGBKBKBKBGRGRGGGR](/stripes/ggbkbkbkbgrgrgggr/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
-Part of the [King Edward](/tartans/king-edward/) tartan — the named design grouping this sett with its kin.
+Part of the [King Edward](/tartans/k/ki/king-edward/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

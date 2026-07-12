@@ -6,6 +6,8 @@ This is the **Highland Granite Weavers Tartan** sett — one scale-free proporti
 [BRKRKRKBWBWBKRKRKR](/stripes/brkrkrkbwbwbkrkrkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Highland Granite Weavers](/tartans/h/hi/highland-granite-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Josse , Gilbert"
+  url: "/tartans/j/jo/josse-gilbert/"
 - name: "Josse (Bro Sant Malo), Gilbert (Personal)"
   url: "/setts/db1lb2k50dg50dy2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1lb2k50dg50dy2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGGR](/stripes/bwkggr/).
+
+Part of the [Josse , Gilbert](/tartans/j/jo/josse-gilbert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

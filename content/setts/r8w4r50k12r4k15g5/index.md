@@ -6,6 +6,8 @@ This is the **Instakilt, Red (Fashion)** sett — one scale-free proportion (`r8
 [GKRKRWR](/stripes/gkrkrwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Instakilt](/tartans/i/in/instakilt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

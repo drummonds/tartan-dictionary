@@ -6,6 +6,8 @@ This is the **Dunedin (USA) (District)** sett — one scale-free proportion (`w3
 [KBGRBRBWW](/stripes/kbgrbrbww/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Dunedin](/tartans/d/du/dunedin-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

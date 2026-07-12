@@ -6,7 +6,7 @@ This is the **Oban Grey District Tartan** sett — one scale-free proportion (`k
 [KWKBR](/stripes/kwkbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Oban](/tartans/oban/) tartan — the named design grouping this sett with its kin.
+Part of the [Oban](/tartans/o/ob/oban/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

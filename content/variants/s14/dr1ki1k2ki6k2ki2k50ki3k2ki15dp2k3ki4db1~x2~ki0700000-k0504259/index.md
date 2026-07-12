@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bowcutt, David"
+  url: "/tartans/b/bo/bowcutt-david/"
 - name: "Bowcutt, David (Personal)"
   url: "/setts/dr1ki1k2ki6k2ki2k50ki3k2ki15dp2k3ki4db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1ki1k2ki6k2ki2k50ki3k2ki15dp2k3ki4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKKBKKKKKKKKKB](/stripes/bkkbkkkkkkkkkb/).
+
+Part of the [Bowcutt, David](/tartans/b/bo/bowcutt-david/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

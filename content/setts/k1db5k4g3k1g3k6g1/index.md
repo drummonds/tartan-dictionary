@@ -6,6 +6,8 @@ This is the **Keith McCormick (Personal)** sett — one scale-free proportion (`
 [GKGKGKBK](/stripes/gkgkgkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Keith McCormick](/tartans/k/ke/keith-mccormick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

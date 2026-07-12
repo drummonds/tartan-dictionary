@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Princess Elizabeth"
+  url: "/tartans/p/pr/princess-elizabeth-2/"
 - name: "Princess Elizabeth #2"
   url: "/setts/r60db8w3db10y3lb4y3r19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r60db8w3db10y3lb4y3r19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBGWGR](/stripes/rbwbgwgr/).
+
+Part of the [Princess Elizabeth](/tartans/p/pr/princess-elizabeth-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

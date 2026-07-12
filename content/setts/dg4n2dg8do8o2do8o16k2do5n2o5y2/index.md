@@ -6,6 +6,8 @@ This is the **Blaylock Hunting** sett — one scale-free proportion (`dg4n2dg8do
 [GBGBRBRKBBRG](/stripes/gbgbrbrkbbrg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Blaylock Hunting](/tartans/b/bl/blaylock-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

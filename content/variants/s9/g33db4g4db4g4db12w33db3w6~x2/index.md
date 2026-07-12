@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lindsay Dress"
+  url: "/tartans/l/li/lindsay-dress/"
 - name: "Lindsay Dress, Green (Dance)"
   url: "/setts/g33db4g4db4g4db12w33db3w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g33db4g4db4g4db12w33db3w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBWBW](/stripes/gbgbgbwbw/).
+
+Part of the [Lindsay Dress](/tartans/l/li/lindsay-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

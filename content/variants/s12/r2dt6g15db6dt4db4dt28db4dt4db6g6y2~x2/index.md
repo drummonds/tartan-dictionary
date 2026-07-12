@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Los Angeles Police Bagpipe Band"
+  url: "/tartans/l/lo/los-angeles-police-bagpipe-band/"
+- name: "Los Angeles Police Bagpipe Band"
   url: "/setts/r2dt6g15db6dt4db4dt28db4dt4db6g6y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dt6g15db6dt4db4dt28db4dt4db6g6y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBBBBBBGBR](/stripes/ggbbbbbbbgbr/).
+
+Part of the [Los Angeles Police Bagpipe Band](/tartans/l/lo/los-angeles-police-bagpipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

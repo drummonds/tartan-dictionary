@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "160th SOAR Night Stalkers"
+  url: "/tartans/0-9/0-9/160th-soar-night-stalkers/"
 - name: "160th SOAR(A) Night Stalkers (Mil.)"
   url: "/setts/k2t8k6g35k8ly2w2k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2t8k6g35k8ly2w2k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKYWKY](/stripes/kbkgkywky/).
+
+Part of the [160th SOAR Night Stalkers](/tartans/0-9/0-9/160th-soar-night-stalkers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

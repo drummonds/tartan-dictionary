@@ -6,7 +6,7 @@ This is the **Home or Hume (Vestiarium Scoticum)** sett — one scale-free propo
 [BGBKRKRK](/stripes/bgbkrkrk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Home](/tartans/home/) tartan — the named design grouping this sett with its kin.
+Part of the [Home](/tartans/h/ho/home/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

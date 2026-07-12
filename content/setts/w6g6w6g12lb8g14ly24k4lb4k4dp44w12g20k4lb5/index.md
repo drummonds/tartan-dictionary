@@ -6,6 +6,8 @@ This is the **Wexford County Crest (Fashion)** sett — one scale-free proportio
 [WGWGWGYKWKBWGKW](/stripes/wgwgwgykwkbwgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Wexford County Crest](/tartans/w/we/wexford-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

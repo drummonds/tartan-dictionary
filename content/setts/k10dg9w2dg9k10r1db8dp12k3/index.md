@@ -7,6 +7,8 @@ This is the **Hunter Graham** sett — one scale-free proportion (`k10dg9w2dg9k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Hunter Graham](/tartans/h/hu/hunter-graham/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Grey Watch Trade Tartan** sett — one scale-free proportion (`n25
 [BKBKBWKWKBKB](/stripes/bkbkbwkwkbkb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Grey Watch](/tartans/g/gr/grey-watch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

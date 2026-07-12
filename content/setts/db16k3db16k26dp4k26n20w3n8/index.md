@@ -6,6 +6,8 @@ This is the **Scotsburn Croft** sett — one scale-free proportion (`db16k3db16k
 [BKBKBKBWB](/stripes/bkbkbkbwb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Scotsburn Croft](/tartans/s/sc/scotsburn-croft/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **MacGregor of Cardney** sett — one scale-free proportion (`r18g9r
 [RGRGKW](/stripes/rgrgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacGregor of Cardney](/tartans/macgregor-of-cardney/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor of Cardney](/tartans/m/ma/macgregor-of-cardney/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

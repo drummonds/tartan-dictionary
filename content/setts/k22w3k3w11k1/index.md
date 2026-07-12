@@ -6,6 +6,8 @@ This is the **MacPhee MacFee or MacIver** sett — one scale-free proportion (`k
 [KWKWK](/stripes/kwkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPhee MacFee or MacIver](/tartans/m/ma/macphee-macfee-or-maciver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

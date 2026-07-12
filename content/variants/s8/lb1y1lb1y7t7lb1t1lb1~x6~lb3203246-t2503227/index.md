@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auld Lang Syne"
+  url: "/tartans/a/au/auld-lang-syne-5/"
 - name: "Auld Lang Syne (Fashion)"
   url: "/setts/lb1y1lb1y7t7lb1t1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb1y1lb1y7t7lb1t1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBGWGW](/stripes/wbwbgwgw/).
+
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

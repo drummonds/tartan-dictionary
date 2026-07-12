@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "All Breeds Dairy Goats"
+  url: "/tartans/a/al/all-breeds-dairy-goats-3/"
 - name: "All Breeds Dairy Goats (Corporate)"
   url: "/setts/db10r10k36w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly26w26g10y10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10r10k36w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly26w26g10y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWYWYWYWYWYKYKYKYKYKYWYWYWYWYWYWGG](/stripes/brkwywywywywykykykykykywywywywywywgg/).
+
+Part of the [All Breeds Dairy Goats](/tartans/a/al/all-breeds-dairy-goats-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

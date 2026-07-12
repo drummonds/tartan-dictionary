@@ -6,6 +6,8 @@ This is the **Madras College (Corporate)** sett — one scale-free proportion (`
 [RBKWGWW](/stripes/rbkwgww/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Madras College](/tartans/m/ma/madras-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

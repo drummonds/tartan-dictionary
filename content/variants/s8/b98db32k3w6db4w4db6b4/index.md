@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Irn Bru"
+  url: "/tartans/i/ir/irn-bru/"
+- name: "Irn Bru"
   url: "/setts/b98db32k3w6db4w4db6b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b98db32k3w6db4w4db6b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWBWBB](/stripes/bbkwbwbb/).
+
+Part of the [Irn Bru](/tartans/i/ir/irn-bru/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

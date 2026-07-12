@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen Trool"
-  url: "/tartans/glen-trool-2/"
+  url: "/tartans/g/gl/glen-trool-2/"
 - name: "Glen Trool"
   url: "/setts/dg37o9dg3r9o3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg37o9dg3r9o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRR](/stripes/grgrr/).
 
-Part of the [Glen Trool](/tartans/glen-trool-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen Trool](/tartans/g/gl/glen-trool-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

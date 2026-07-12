@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Telfer"
-  url: "/tartans/telfer/"
+  url: "/tartans/t/te/telfer/"
 - name: "Telfer Green (Name)"
   url: "/setts/g7ly2g5dg37db6dr16db5t2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g7ly2g5dg37db6dr16db5t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGGYG](/stripes/bbbbggyg/).
 
-Part of the [Telfer](/tartans/telfer/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Telfer](/tartans/t/te/telfer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

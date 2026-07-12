@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ewbank"
+  url: "/tartans/e/ew/ewbank/"
+- name: "Ewbank"
   url: "/setts/r3t14y2k2t14k36y2k2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3t14y2k2t14k36y2k2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKGBR](/stripes/gkgkbkgbr/).
+
+Part of the [Ewbank](/tartans/e/ew/ewbank/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

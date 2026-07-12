@@ -7,6 +7,8 @@ This is the **Selby** sett — one scale-free proportion (`g3db1g1db12k2db2k2db3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2009**.
 
+Part of the [Selby](/tartans/s/se/selby/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

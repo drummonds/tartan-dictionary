@@ -6,6 +6,8 @@ This is the **Frederiction Police Force** sett — one scale-free proportion (`r
 [GBGBGBKR](/stripes/gbgbgbkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Frederiction Police Force](/tartans/f/fr/frederiction-police-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

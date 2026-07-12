@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Australian, dress"
+  url: "/tartans/a/au/australian-dress-2/"
+- name: "Australian, dress"
   url: "/setts/w50o4b2k2b2o4b10o15lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50o4b2k2b2o4b10o15lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBKBRBRW](/stripes/wrbkbrbrw/).
+
+Part of the [Australian, dress](/tartans/a/au/australian-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

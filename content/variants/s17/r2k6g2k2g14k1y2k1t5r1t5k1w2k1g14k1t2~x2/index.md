@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Duncan"
+  url: "/clan/duncan/"
+- name: "Duncan of Sketraw"
+  url: "/families/duncan-of-sketraw/"
+- name: "Duncan of Sketraw"
+  url: "/tartans/d/du/duncan-of-sketraw/"
 - name: "Duncan of Sketraw"
   url: "/setts/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKWKBRBKGKGKGKR](/stripes/bkgkwkbrbkgkgkgkr/).
+
+Part of the [Duncan of Sketraw](/tartans/d/du/duncan-of-sketraw/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

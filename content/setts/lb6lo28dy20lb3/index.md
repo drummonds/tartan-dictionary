@@ -6,7 +6,7 @@ This is the **Prince of Orange Tartan** sett — one scale-free proportion (`lb6
 [WGYW](/stripes/wgyw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Prince of Orange](/tartans/prince-of-orange/) tartan — the named design grouping this sett with its kin.
+Part of the [Prince of Orange](/tartans/p/pr/prince-of-orange/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

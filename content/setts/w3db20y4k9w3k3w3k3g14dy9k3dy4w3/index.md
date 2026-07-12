@@ -6,6 +6,8 @@ This is the **Clodagh Cork Irish District Tartan** sett — one scale-free propo
 [WBGKWKWKGGKGW](/stripes/wbgkwkwkggkgw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Clodagh Cork](/tartans/c/cl/clodagh-cork/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **O'Donohue Personal)** sett — one scale-free proportion (`b24w2b6
 [BWBGRBRGKY](/stripes/bwbgrbrgky/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [O'Donohue](/tartans/o/o/o-donohue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

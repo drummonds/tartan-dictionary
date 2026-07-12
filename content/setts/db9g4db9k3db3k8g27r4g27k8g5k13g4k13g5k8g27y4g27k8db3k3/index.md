@@ -6,6 +6,8 @@ This is the **Stewart Hunting General Tartan** sett — one scale-free proportio
 [BGBKBKGRGKGKGKGKGGGKBK](/stripes/bgbkbkgrgkgkgkgkgggkbk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Stewart Hunting General](/tartans/s/st/stewart-hunting-general/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

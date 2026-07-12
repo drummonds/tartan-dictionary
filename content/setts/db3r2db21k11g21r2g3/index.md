@@ -7,7 +7,7 @@ This is the **MacThomas** sett — one scale-free proportion (`db3r2db21k11g21r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacThomas](/tartans/macthomas/) tartan — the named design grouping this sett with its kin.
+Part of the [MacThomas](/tartans/m/ma/macthomas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

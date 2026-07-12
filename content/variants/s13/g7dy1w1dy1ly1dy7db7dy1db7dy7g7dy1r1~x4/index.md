@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hash House Harriers Hunting"
+  url: "/tartans/h/ha/hash-house-harriers-hunting/"
+- name: "Hash House Harriers Hunting"
   url: "/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGYGBGBGGGR](/stripes/ggwgygbgbgggr/).
+
+Part of the [Hash House Harriers Hunting](/tartans/h/ha/hash-house-harriers-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

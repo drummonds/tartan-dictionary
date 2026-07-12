@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bristol Gramar School Check"
+  url: "/tartans/b/br/bristol-gramar-school-check/"
 - name: "Bristol Gramar School Check (School)"
   url: "/setts/r4t3n12db8t2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4t3n12db8t2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBR](/stripes/rbbbbr/).
+
+Part of the [Bristol Gramar School Check](/tartans/b/br/bristol-gramar-school-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

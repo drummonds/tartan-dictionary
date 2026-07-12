@@ -6,6 +6,8 @@ This is the **Hakkarain Personal Finnish Tartan** sett — one scale-free propor
 [BBKRKR](/stripes/bbkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Hakkarain Personal Finnish](/tartans/h/ha/hakkarain-personal-finnish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

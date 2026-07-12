@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ailsa Royal"
+  url: "/tartans/a/ai/ailsa-royal/"
 - name: "Ailsa, Royal Blue (Dance)"
   url: "/setts/dbi8lb3dbi28w32db3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi8lb3dbi28w32db3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
+
+Part of the [Ailsa Royal](/tartans/a/ai/ailsa-royal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

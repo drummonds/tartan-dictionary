@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michael"
+  url: "/tartans/m/mi/michael/"
 - name: "Michael (John) (Personal)"
   url: "/setts/g5w1r5k5db43r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5w1r5k5db43r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKBR](/stripes/gwrkbr/).
+
+Part of the [Michael](/tartans/m/mi/michael/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

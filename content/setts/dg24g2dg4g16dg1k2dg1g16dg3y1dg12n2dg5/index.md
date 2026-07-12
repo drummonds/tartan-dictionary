@@ -6,6 +6,8 @@ This is the **O'Neill, Martin** sett — one scale-free proportion (`dg24g2dg4g1
 [GBGGGGGKGGGGG](/stripes/gbgggggkggggg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [O'Neill, Martin](/tartans/o/o/o-neill-martin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

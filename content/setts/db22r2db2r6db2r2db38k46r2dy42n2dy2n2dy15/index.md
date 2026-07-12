@@ -6,6 +6,8 @@ This is the **Applestone** sett — one scale-free proportion (`db22r2db2r6db2r2
 [BRBRBRBKRGBGBG](/stripes/brbrbrbkrgbgbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Applestone](/tartans/a/ap/applestone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

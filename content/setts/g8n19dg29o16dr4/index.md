@@ -6,6 +6,8 @@ This is the **Styrian (Fashion)** sett — one scale-free proportion (`g8n19dg29
 [BRGBG](/stripes/brgbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Styrian](/tartans/s/st/styrian-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

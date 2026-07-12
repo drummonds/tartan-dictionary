@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shepherd"
+  url: "/tartans/s/sh/shepherd-2/"
+- name: "Shepherd"
   url: "/setts/k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KW](/stripes/kw/).
+
+Part of the [Shepherd](/tartans/s/sh/shepherd-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 

@@ -6,6 +6,8 @@ This is the **Montreal** sett — one scale-free proportion (`ly78g10r2g1r2g6ly2
 [GYGYGRGRGY](/stripes/gygygrgrgy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Montreal](/tartans/m/mo/montreal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

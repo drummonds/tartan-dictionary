@@ -6,6 +6,8 @@ This is the **MacDougall (Lochcarron)** sett — one scale-free proportion (`w6r
 [WRGRGRGWRWGRGRGRWRW](/stripes/wrgrgrgwrwgrgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacDougall](/tartans/m/ma/macdougall-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

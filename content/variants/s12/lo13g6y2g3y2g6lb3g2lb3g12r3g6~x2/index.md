@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Brien"
-  url: "/tartans/o-brien/"
+  url: "/tartans/o/o/o-brien/"
 - name: "O'Brien"
   url: "/setts/lo13g6y2g3y2g6lb3g2lb3g12r3g6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lo13g6y2g3y2g6lb3g2lb3g12r3g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGWGGGGGY](/stripes/grgwgwgggggy/).
 
-Part of the [O'Brien](/tartans/o-brien/) tartan — the named design grouping this sett with its other cloths.
+Part of the [O'Brien](/tartans/o/o/o-brien/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

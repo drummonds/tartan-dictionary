@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sawicki, Peter"
-  url: "/tartans/sawicki-peter/"
+  url: "/tartans/s/sa/sawicki-peter/"
 - name: "Sawicki, Peter (Personal)"
   url: "/setts/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
 
-Part of the [Sawicki, Peter](/tartans/sawicki-peter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sawicki, Peter](/tartans/s/sa/sawicki-peter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

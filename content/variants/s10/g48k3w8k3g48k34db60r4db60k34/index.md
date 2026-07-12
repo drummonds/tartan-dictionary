@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacPhail Hunting"
+  url: "/tartans/m/ma/macphail-hunting/"
 - name: "MacPhail Hunting Corporate Tartan"
   url: "/setts/g48k3w8k3g48k34db60r4db60k34/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g48k3w8k3g48k34db60r4db60k34/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKBRBK](/stripes/gkwkgkbrbk/).
+
+Part of the [MacPhail Hunting](/tartans/m/ma/macphail-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

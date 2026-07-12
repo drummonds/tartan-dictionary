@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's National"
+  url: "/tartans/s/sc/scotland-s-national/"
+- name: "Scotland's National"
   url: "/setts/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKBBBWB](/stripes/bkbkgkgkgkbbbwb/).
+
+Part of the [Scotland's National](/tartans/s/sc/scotland-s-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

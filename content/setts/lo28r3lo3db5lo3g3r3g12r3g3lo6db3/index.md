@@ -7,6 +7,8 @@ This is the **Bird of Paradise** sett — one scale-free proportion (`lo28r3lo3d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1972**.
 
+Part of the [Bird of Paradise](/tartans/b/bi/bird-of-paradise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

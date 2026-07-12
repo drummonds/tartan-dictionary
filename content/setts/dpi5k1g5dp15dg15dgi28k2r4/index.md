@@ -6,7 +6,7 @@ This is the **Batten of Argyll Clan Tartan** sett — one scale-free proportion 
 [BKGBGGKR](/stripes/bkgbggkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Batten of Argyll](/tartans/batten-of-argyll/) tartan — the named design grouping this sett with its kin.
+Part of the [Batten of Argyll](/tartans/b/ba/batten-of-argyll/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

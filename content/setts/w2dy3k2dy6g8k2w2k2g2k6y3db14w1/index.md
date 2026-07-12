@@ -6,7 +6,7 @@ This is the **Bowling Irish Family Tartan** sett — one scale-free proportion (
 [WBGKGKWKGGKGW](/stripes/wbgkgkwkggkgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Bowling](/tartans/bowling/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowling](/tartans/b/bo/bowling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

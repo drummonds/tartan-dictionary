@@ -6,6 +6,8 @@ This is the **Pride of Yorkland (Fashion)** sett — one scale-free proportion (
 [GKBKBW](/stripes/gkbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Pride of Yorkland](/tartans/p/pr/pride-of-yorkland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Carnet (Fashion)** sett — one scale-free proportion (`do6g3do3g1
 [BGBGBG](/stripes/bgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Carnet](/tartans/c/ca/carnet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

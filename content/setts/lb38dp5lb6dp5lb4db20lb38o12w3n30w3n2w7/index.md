@@ -6,6 +6,8 @@ This is the **Morris, Tom (Corporate)** sett — one scale-free proportion (`lb3
 [WBWBWBWRWBWBW](/stripes/wbwbwbwrwbwbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lethcoe](/tartans/l/le/lethcoe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,7 +7,7 @@ This is the **MacDonald of Clanranald** sett — one scale-free proportion (`db8
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacDonald of Clanranald](/tartans/macdonald-of-clanranald/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald of Clanranald](/tartans/m/ma/macdonald-of-clanranald/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

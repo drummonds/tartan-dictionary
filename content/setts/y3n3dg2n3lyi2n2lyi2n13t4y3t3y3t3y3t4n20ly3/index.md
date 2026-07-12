@@ -6,6 +6,8 @@ This is the **Fermanagh Irish County Tartan** sett — one scale-free proportion
 [GBGBYBYBBGBGBGBBY](/stripes/gbgbybybbgbgbgbby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Fermanagh Irish County](/tartans/f/fe/fermanagh-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacTavish of Dunardry Dress** sett — one scale-free proportion (
 [WKWGYWW](/stripes/wkwgyww/). It is recorded as a single **variant**, below.
 First attested **1845**.
 
+Part of the [MacTavish of Dunardry](/tartans/m/ma/mactavish-of-dunardry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

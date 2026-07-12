@@ -6,6 +6,8 @@ This is the **Nevada State American District Tartan** sett — one scale-free pr
 [BRBGBBBBW](/stripes/brbgbbbbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Nevada State](/tartans/n/ne/nevada-state-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

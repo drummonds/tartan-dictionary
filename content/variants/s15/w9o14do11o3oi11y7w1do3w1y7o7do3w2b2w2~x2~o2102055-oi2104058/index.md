@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hudson Bay Company"
+  url: "/tartans/h/hu/hudson-bay-company-2/"
 - name: "Hudson Bay Company Artifact"
   url: "/setts/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBRGWBWGRRBRW](/stripes/wbwbrgwbwgrrbrw/).
+
+Part of the [Hudson Bay Company](/tartans/h/hu/hudson-bay-company-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

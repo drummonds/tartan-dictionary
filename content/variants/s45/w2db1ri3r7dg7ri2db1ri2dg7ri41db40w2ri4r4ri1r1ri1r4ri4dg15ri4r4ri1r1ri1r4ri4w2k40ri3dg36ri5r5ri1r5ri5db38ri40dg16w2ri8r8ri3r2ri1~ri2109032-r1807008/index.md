@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th-5/"
 - name: "Unnamed C18th - Hynde Cotton Plaid"
   url: "/setts/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/rrrrrwgrbrrrrrgrkwrrrrrrrgrrrrrrrwbrgrbrgrrbw/).
+
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [45 stripe tartan](/stripes/stripes45/).
 

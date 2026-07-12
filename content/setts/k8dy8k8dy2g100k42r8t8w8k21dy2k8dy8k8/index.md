@@ -6,6 +6,8 @@ This is the **Tarassow Russian Scouts Corporate Tartan** sett — one scale-free
 [KGKGGKRBWKGKGK](/stripes/kgkggkrbwkgkgk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Tarassow Russian Scouts](/tartans/t/ta/tarassow-russian-scouts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

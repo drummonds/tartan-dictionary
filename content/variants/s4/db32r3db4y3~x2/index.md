@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLaine"
+  url: "/clan/maclaine/"
+- name: "MacLaine of Lochbuie"
+  url: "/families/maclaine-of-lochbuie/"
+- name: "MacLaine of Lochbuie"
+  url: "/tartans/m/ma/maclaine-of-lochbuie/"
 - name: "MacLaine of Lochbuie"
   url: "/setts/db32r3db4y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db32r3db4y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBG](/stripes/brbg/).
+
+Part of the [MacLaine of Lochbuie](/tartans/m/ma/maclaine-of-lochbuie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

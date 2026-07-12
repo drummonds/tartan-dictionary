@@ -6,6 +6,8 @@ This is the **MacHarg, Iain** sett — one scale-free proportion (`g20k2g2k2g2k8
 [BBBKGKGKG](/stripes/bbbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [MacHarg](/tartans/m/ma/macharg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

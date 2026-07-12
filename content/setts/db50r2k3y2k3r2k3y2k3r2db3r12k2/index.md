@@ -6,6 +6,8 @@ This is the **Leslie (J Cant)** sett — one scale-free proportion (`db50r2k3y2k
 [BRKGKRKGKRBRK](/stripes/brkgkrkgkrbrk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Leslie](/tartans/l/le/leslie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

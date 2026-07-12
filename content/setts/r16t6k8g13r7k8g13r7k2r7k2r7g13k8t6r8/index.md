@@ -6,6 +6,8 @@ This is the **MacDuff** sett — one scale-free proportion (`r16t6k8g13r7k8g13r7
 [RBKGRKGRKRKRGKBR](/stripes/rbkgrkgrkrkrgkbr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacDuff](/tartans/m/ma/macduff-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

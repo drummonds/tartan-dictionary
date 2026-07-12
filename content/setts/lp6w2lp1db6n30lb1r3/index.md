@@ -6,6 +6,8 @@ This is the **Kuehle (Personal)** sett — one scale-free proportion (`lp6w2lp1d
 [RWBBWWW](/stripes/rwbbwww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Kuehle](/tartans/k/ku/kuehle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

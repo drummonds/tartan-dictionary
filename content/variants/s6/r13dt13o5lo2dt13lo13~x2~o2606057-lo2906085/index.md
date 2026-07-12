@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Torana"
+  url: "/tartans/t/to/torana/"
+- name: "Torana"
   url: "/setts/r13dt13o5lo2dt13lo13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r13dt13o5lo2dt13lo13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRYBY](/stripes/rbryby/).
+
+Part of the [Torana](/tartans/t/to/torana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **World Fed. of Bldg Contractors (Corp** sett — one scale-free pro
 [RBBBW](/stripes/rbbbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [World Fed. of Bldg Contractors (Corp](/tartans/w/wo/world-fed-of-bldg-contractors-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

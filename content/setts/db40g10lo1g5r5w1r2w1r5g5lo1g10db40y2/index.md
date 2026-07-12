@@ -6,6 +6,8 @@ This is the **St. Andrew Quebec City** sett — one scale-free proportion (`db40
 [BGYGRWRWRGYGBG](/stripes/bgygrwrwrgygbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [St. Andrew Quebec City](/tartans/s/st/st-andrew-quebec-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Smeaton 1985 (Name)** sett — one scale-free proportion (`k6r4lb3
 [KRWRKRKYKR](/stripes/krwrkrkykr/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [Smeaton](/tartans/s/sm/smeaton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

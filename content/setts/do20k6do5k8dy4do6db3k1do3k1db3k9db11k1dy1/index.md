@@ -6,6 +6,8 @@ This is the **Amble** sett — one scale-free proportion (`do20k6do5k8dy4do6db3k
 [BKBKGBBKBKBKBKG](/stripes/bkbkgbbkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Amble](/tartans/a/am/amble/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

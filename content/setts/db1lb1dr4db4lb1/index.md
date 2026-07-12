@@ -6,6 +6,8 @@ This is the **Laval, Tartan de** sett — one scale-free proportion (`db1lb1dr4d
 [BWBBW](/stripes/bwbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Laval, Tartan de](/tartans/l/la/laval-tartan-de/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

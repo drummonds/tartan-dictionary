@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walker, Evening"
+  url: "/tartans/w/wa/walker-evening/"
 - name: "Walker, Evening (Name)"
   url: "/setts/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBKBKBKY](/stripes/gbgbkbkbkbky/).
+
+Part of the [Walker, Evening](/tartans/w/wa/walker-evening/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

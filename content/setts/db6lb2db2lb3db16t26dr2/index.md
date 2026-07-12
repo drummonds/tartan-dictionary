@@ -6,6 +6,8 @@ This is the **Federal Bureau of Investigation** sett — one scale-free proporti
 [BBBWBWB](/stripes/bbbwbwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [FBI](/tartans/f/fb/fbi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

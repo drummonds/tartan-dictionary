@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wallenberg, Nicolas Dress"
+  url: "/tartans/w/wa/wallenberg-nicolas-dress/"
 - name: "Wallenberg, Nicolas Dress (Personal)"
   url: "/setts/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBBGBBBBRBRWB](/stripes/brbbbbgbbbbrbrwb/).
+
+Part of the [Wallenberg, Nicolas Dress](/tartans/w/wa/wallenberg-nicolas-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

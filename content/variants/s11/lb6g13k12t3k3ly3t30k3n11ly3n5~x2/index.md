@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Kentucky"
+  url: "/tartans/s/st/state-seal-of-kentucky/"
 - name: "State Seal of Kentucky (Fashion)"
   url: "/setts/lb6g13k12t3k3ly3t30k3n11ly3n5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6g13k12t3k3ly3t30k3n11ly3n5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBKBYKBKGW](/stripes/bybkbykbkgw/).
+
+Part of the [State Seal of Kentucky](/tartans/s/st/state-seal-of-kentucky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

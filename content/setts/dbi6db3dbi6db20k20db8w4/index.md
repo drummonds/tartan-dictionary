@@ -6,7 +6,7 @@ This is the **Allianz Deutschland 2012 (Corporate)** sett — one scale-free pro
 [BBBBKBW](/stripes/bbbbkbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Allianz Deutschland 2012](/tartans/allianz-deutschland-2012/) tartan — the named design grouping this sett with its kin.
+Part of the [Allianz Deutschland 2012](/tartans/a/al/allianz-deutschland-2012/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

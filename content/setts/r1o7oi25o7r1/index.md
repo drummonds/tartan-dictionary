@@ -6,6 +6,8 @@ This is the **Unnamed Brown (Teddy Bear)** sett — one scale-free proportion (`
 [RRRRR](/stripes/rrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unnamed](/tartans/u/un/unnamed-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

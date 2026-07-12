@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Passion of Scotland"
+  url: "/tartans/p/pa/passion-of-scotland-2/"
 - name: "Passion of Scotland, Purple (Fashion"
   url: "/setts/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBKBKBKBKBBBR](/stripes/bwkbkbkbkbkbbbr/).
+
+Part of the [Passion of Scotland](/tartans/p/pa/passion-of-scotland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,7 +6,7 @@ This is the **Anderson Family Tartan** sett — one scale-free proportion (`r4g6
 [RGRGRBRKGKGKWKWRKRWR](/stripes/rgrgrbrkgkgkwkwrkrwr/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
-Part of the [Anderson](/tartans/anderson-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Anderson](/tartans/a/an/anderson-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Lambert Dark (Personal)** sett — one scale-free proportion (`k34
 [BKGKRKGWGKRKGK](/stripes/bkgkrkgwgkrkgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lambert Dark](/tartans/l/la/lambert-dark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

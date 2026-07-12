@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Colvin"
+  url: "/tartans/c/co/colvin/"
+- name: "Colvin"
   url: "/setts/b36w4b4w4b16dg64r9b6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b36w4b4w4b16dg64r9b6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBWBWB](/stripes/brgbwbwb/).
+
+Part of the [Colvin](/tartans/c/co/colvin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

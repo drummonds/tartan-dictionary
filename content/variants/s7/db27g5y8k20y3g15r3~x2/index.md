@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nelson Mandela"
-  url: "/tartans/nelson-mandela/"
+  url: "/tartans/n/ne/nelson-mandela/"
 - name: "Nelson Mandela (Personal)"
   url: "/setts/db27g5y8k20y3g15r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db27g5y8k20y3g15r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGKGGR](/stripes/bggkggr/).
 
-Part of the [Nelson Mandela](/tartans/nelson-mandela/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nelson Mandela](/tartans/n/ne/nelson-mandela/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

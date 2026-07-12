@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black and White Colourway"
+  url: "/tartans/b/bl/black-and-white-colourway/"
+- name: "Black and White Colourway"
   url: "/setts/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/).
+
+Part of the [Black and White Colourway](/tartans/b/bl/black-and-white-colourway/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

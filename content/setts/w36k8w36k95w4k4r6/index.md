@@ -6,6 +6,8 @@ This is the **Gretna Football Club** sett — one scale-free proportion (`w36k8w
 [KWKWKRKWKWKW](/stripes/kwkwkrkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Gretna Football Club](/tartans/g/gr/gretna-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

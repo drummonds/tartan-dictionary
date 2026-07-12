@@ -6,7 +6,7 @@ This is the **Mekos, The** sett — one scale-free proportion (`dy19g23ly3db15r1
 [GGYBRW](/stripes/ggybrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Mekos, The](/tartans/mekos-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Mekos, The](/tartans/m/me/mekos-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

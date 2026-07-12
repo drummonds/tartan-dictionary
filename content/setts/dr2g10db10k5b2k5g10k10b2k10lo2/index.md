@@ -6,6 +6,8 @@ This is the **Nairn (Edinburgh Woollen Mill)** sett — one scale-free proportio
 [BGBKBKGKBKY](/stripes/bgbkbkgkbky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Nairn](/tartans/n/na/nairn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

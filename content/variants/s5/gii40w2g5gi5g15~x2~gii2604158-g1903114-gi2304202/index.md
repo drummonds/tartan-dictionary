@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Castle Bay"
+  url: "/tartans/c/ca/castle-bay/"
 - name: "Castle Bay (Fashion)"
   url: "/setts/gii40w2g5gi5g15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/gii40w2g5gi5g15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWG](/stripes/gggwg/).
+
+Part of the [Castle Bay](/tartans/c/ca/castle-bay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

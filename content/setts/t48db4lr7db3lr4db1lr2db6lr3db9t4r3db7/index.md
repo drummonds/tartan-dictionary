@@ -6,6 +6,8 @@ This is the **Budge (Personal)** sett — one scale-free proportion (`t48db4lr7d
 [BBYBYBYBYBBRB](/stripes/bbybybybybbrb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Budge](/tartans/b/bu/budge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

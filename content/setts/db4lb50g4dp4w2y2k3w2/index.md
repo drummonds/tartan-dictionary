@@ -6,6 +6,8 @@ This is the **Glasgow Islay, The** sett — one scale-free proportion (`db4lb50g
 [BWGBWGKW](/stripes/bwgbwgkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Glasgow Islay](/tartans/g/gl/glasgow-islay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

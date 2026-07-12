@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "BABC"
+  url: "/tartans/b/ba/babc/"
+- name: "BABC"
   url: "/setts/r3db4w2db33dbi32db2r4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db4w2db33dbi32db2r4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBBBRW](/stripes/rbwbbbrw/).
+
+Part of the [BABC](/tartans/b/ba/babc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

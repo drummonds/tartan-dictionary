@@ -6,6 +6,8 @@ This is the **South African Air Force (Military)** sett — one scale-free propo
 [BKWGWKBK](/stripes/bkwgwkbk/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [South African Air Force](/tartans/s/so/south-african-air-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

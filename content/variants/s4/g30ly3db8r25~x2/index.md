@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dohmen"
-  url: "/tartans/dohmen/"
+  url: "/tartans/d/do/dohmen/"
 - name: "Dohmen (Personal)"
   url: "/setts/g30ly3db8r25/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g30ly3db8r25/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBR](/stripes/gybr/).
 
-Part of the [Dohmen](/tartans/dohmen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dohmen](/tartans/d/do/dohmen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

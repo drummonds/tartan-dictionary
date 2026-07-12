@@ -6,6 +6,8 @@ This is the **Paul Henry (Personal)** sett — one scale-free proportion (`dbi4d
 [BBBKBRBBBKB](/stripes/bbbkbrbbbkb/). It is recorded as a single **variant**, below.
 First attested **1961**.
 
+Part of the [Paul Henry](/tartans/p/pa/paul-henry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

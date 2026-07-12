@@ -6,6 +6,8 @@ This is the **Holden Beige (Corporate)** sett — one scale-free proportion (`w1
 [RYKWKWKW](/stripes/rykwkwkw/). It is recorded as a single **variant**, below.
 First attested **~1977**.
 
+Part of the [Holden Beige](/tartans/h/ho/holden-beige/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

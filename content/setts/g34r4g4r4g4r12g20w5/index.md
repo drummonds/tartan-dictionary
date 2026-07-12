@@ -6,6 +6,8 @@ This is the **Leeds, University of (Dance) #1** sett — one scale-free proporti
 [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Leeds, University of](/tartans/l/le/leeds-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

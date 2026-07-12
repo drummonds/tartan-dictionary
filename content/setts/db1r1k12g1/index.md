@@ -6,6 +6,8 @@ This is the **MacNathair Sgianach** sett — one scale-free proportion (`db1r1k1
 [BRKG](/stripes/brkg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacNathair Sgianach](/tartans/m/ma/macnathair-sgianach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

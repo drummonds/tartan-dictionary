@@ -1,0 +1,44 @@
+---
+title: "MacTavish"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacTavish"
+  url: "/clan/mactavish/"
+---
+A tartan of [Clan MacTavish](/clan/mactavish/).
+Its design is pattern [BKBKRB](/stripes/bkbkrb/) — the page of every tartan sharing this colour sequence.
+
+The **MacTavish** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db4r30k6db13k13db3/">MacTavish</a> ★</td><td><code>DB/8 R60 K12 DB26 K26 DB/6</code></td><td>262</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db4r30k6db13k13db3/"><img src="/variants/s6/db4r30k6db13k13db3~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb2r12k2lb6k6lb1/">Thompson/Thomson/MacTavish #2</a></td><td><code>LB/4 R24 K4 LB12 K12 LB/2</code></td><td>110</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2r12k2lb6k6lb1/"><img src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="Thompson/Thomson/MacTavish #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Thompson/Thomson/MacTavish
+- Thompson/Thomson/MacTavish #2
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">262</div><div class="nn-name nn-base"><a href="/variants/s6/db4r30k6db13k13db3~x2/">MacTavish</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db4r30k6db13k13db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb4r28k6lb12k12lb3~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">0.27</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/">Thomson, Red (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb2r12k2lb6k6lb1~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">0.46</a></div><div class="nn-threads">110</div><div class="nn-name"><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/">Thompson/Thomson/MacTavish #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb2r12k2lb6k6lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1r12k6y1k6db1~x4&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">1.67</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/db1r12k6y1k6db1~x4/">Cetoloni (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1r12k6y1k6db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3db22k3db3k11r20y3~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s7/y3db22k3db3k11r20y3~x2/">Biffy Clyro</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y3db22k3db3k11r20y3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly3db22k3db3k11r20ly3~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/">Biffy Clyro</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly3db22k3db3k11r20ly3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db23k4db4r4db4r25w4k4w4~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.35</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/">Ainslie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12k3db2r2db2r12w2k1w2~x4&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/">Ainslie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r26lb3r4k16db16k4~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s6/r26lb3r4k16db16k4~x2/">Graham of Menteith, (Red)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r26lb3r4k16db16k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r36lb3r5k21db24k3~x2~db1406275&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">290</div><div class="nn-name nn-far"><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/">Graham of Menteith (Red)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9k4r9k25y3dp18k4~x2&amp;base=db4r30k6db13k13db3~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/">Wounded Warriors Canada</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="198.1" cy="200.3" r="4" fill="#3465a4"><title>Thomson, Red (Name)</title></circle></a><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><circle cx="198.6" cy="192.0" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.2" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="173.5" cy="176.5" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.1" cy="195.2" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="207.3" cy="176.6" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/variants/s7/r9k4r9k25y3dp18k4~x2/"><circle cx="193.5" cy="191.0" r="4" fill="#3465a4"><title>Wounded Warriors Canada</title></circle></a><circle cx="217.5" cy="199.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

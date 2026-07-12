@@ -6,6 +6,8 @@ This is the **Dogrobes** sett — one scale-free proportion (`r3w2r9dt15w2dt15lb
 [RWRBWBWRW](/stripes/rwrbwbwrw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Dogrobes](/tartans/d/do/dogrobes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

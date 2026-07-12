@@ -6,6 +6,8 @@ This is the **Allied Facenna** sett — one scale-free proportion (`ly17k17db3k3
 [GYKBKBKBKYWYKBKBKBKBKBKY](/stripes/gykbkbkbkywykbkbkbkbkbky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Allied Facenna](/tartans/a/al/allied-facenna-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

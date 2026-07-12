@@ -6,6 +6,8 @@ This is the **Lougheed** sett — one scale-free proportion (`w3dr3k4w2dr18k1dr2
 [KBKBWKBW](/stripes/kbkbwkbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lougheed](/tartans/l/lo/lougheed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

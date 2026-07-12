@@ -7,6 +7,8 @@ This is the **Herd/Hurd** sett — one scale-free proportion (`db3g12k13w2db13w3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1978**.
 
+Part of the [Herd/Hurd](/tartans/h/he/herd-hurd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

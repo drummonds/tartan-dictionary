@@ -6,6 +6,8 @@ This is the **American St Andrews Societies** sett — one scale-free proportion
 [BWWWBKRWRWRWR](/stripes/bwwwbkrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [American St Andrews Societies](/tartans/a/am/american-st-andrews-societies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

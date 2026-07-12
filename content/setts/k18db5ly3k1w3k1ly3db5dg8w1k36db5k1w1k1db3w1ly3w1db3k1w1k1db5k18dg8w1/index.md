@@ -6,6 +6,8 @@ This is the **MacPerl (Personal)** sett — one scale-free proportion (`k18db5ly
 [KBYKWKYBGWKBKWKBWYWBKWKBKGW](/stripes/kbykwkybgwkbkwkbwywbkwkbkgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [MacPerl](/tartans/m/ma/macperl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

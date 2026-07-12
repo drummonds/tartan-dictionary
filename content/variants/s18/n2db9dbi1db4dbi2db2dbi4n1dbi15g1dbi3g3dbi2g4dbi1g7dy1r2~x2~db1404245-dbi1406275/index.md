@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glaz"
-  url: "/tartans/glaz/"
+  url: "/tartans/g/gl/glaz/"
 - name: "Glaz (Fashion)"
   url: "/setts/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n2db9dbi1db4dbi2db2dbi4n1dbi15g1dbi3g3dbi2g4dbi1g7dy1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBGBGBGBGGR](/stripes/bbbbbbbbbgbgbgbggr/).
 
-Part of the [Glaz](/tartans/glaz/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glaz](/tartans/g/gl/glaz/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

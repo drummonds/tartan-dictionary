@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFarhadian"
+  url: "/tartans/m/ma/macfarhadian/"
 - name: "MacFarhadian (Personal)"
   url: "/setts/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGWKGBRGRBGRBRGBR](/stripes/krgwkgbrgrbgrbrgbr/).
+
+Part of the [MacFarhadian](/tartans/m/ma/macfarhadian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

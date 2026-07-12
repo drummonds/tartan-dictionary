@@ -6,6 +6,8 @@ This is the **Ross Hunting Clan Tartan** sett — one scale-free proportion (`dg
 [GGGGGKGKGRGR](/stripes/gggggkgkgrgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Ross Hunting](/tartans/r/ro/ross-hunting-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

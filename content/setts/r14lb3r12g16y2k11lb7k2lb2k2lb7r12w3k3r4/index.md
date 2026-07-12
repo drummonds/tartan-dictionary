@@ -6,6 +6,8 @@ This is the **Kidd** sett — one scale-free proportion (`r14lb3r12g16y2k11lb7k2
 [RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Kidd](/tartans/k/ki/kidd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

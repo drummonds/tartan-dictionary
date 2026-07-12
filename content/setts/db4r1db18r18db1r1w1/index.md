@@ -6,6 +6,8 @@ This is the **St. Mildreds Check (School)** sett — one scale-free proportion (
 [BRBRBRW](/stripes/brbrbrw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [St. Mildreds Check](/tartans/s/st/st-mildreds-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

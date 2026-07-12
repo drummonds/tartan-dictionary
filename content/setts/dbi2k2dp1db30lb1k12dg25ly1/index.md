@@ -6,6 +6,8 @@ This is the **Castellari of Lochaber Lairds (Pers** sett — one scale-free prop
 [BKBBWKGY](/stripes/bkbbwkgy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Castellari of Lochaber Lairds (Pers](/tartans/c/ca/castellari-of-lochaber-lairds-pers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

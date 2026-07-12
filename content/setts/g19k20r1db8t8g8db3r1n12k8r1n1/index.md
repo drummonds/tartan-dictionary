@@ -6,6 +6,8 @@ This is the **Vine (2015)** sett — one scale-free proportion (`g19k20r1db8t8g8
 [BRKBRBGBBRKG](/stripes/brkbrbgbbrkg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Vine](/tartans/v/vi/vine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tyneside Scottish"
-  url: "/tartans/tyneside-scottish-3/"
+  url: "/tartans/t/ty/tyneside-scottish-3/"
 - name: "Tyneside Scottish Purple (Mil/Distr)"
   url: "/setts/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/).
 
-Part of the [Tyneside Scottish](/tartans/tyneside-scottish-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

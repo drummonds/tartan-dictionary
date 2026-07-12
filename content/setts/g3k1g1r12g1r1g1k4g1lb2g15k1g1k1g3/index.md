@@ -6,6 +6,8 @@ This is the **Hickey (Name)** sett — one scale-free proportion (`g3k1g1r12g1r1
 [GKGKGWGKGRGRGKG](/stripes/gkgkgwgkgrgrgkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Hickey](/tartans/h/hi/hickey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Paxton (Personal)** sett — one scale-free proportion (`k24dp5k9g
 [BKBGKGKGKBK](/stripes/bkbgkgkgkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Paxton](/tartans/p/pa/paxton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

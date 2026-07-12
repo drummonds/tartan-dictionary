@@ -6,6 +6,8 @@ This is the **Stuart/Stewart variant** sett — one scale-free proportion (`k6g1
 [KGWKWBWKGKGRGRW](/stripes/kgwkwbwkgkgrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stuart/Stewart variant](/tartans/s/st/stuart-stewart-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Alberta District Tartan** sett — one scale-free proportion (`g12
 [GKRKWKG](/stripes/gkrkwkg/). It is recorded as a single **variant**, below.
 First attested **1961**.
 
-Part of the [Alberta](/tartans/alberta/) tartan — the named design grouping this sett with its kin.
+Part of the [Alberta](/tartans/a/al/alberta/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

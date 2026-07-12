@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Forbes"
+  url: "/clan/forbes/"
+- name: "Forbes VS"
+  url: "/tartans/f/fo/forbes-vs/"
 - name: "Forbes VS"
   url: "/setts/r1g16k8g3k4y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1g16k8g3k4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGR](/stripes/gkgkgr/).
+
+Part of the [Forbes VS](/tartans/f/fo/forbes-vs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Dunblane District Tartan** sett — one scale-free proportion (`g6
 [GGWGWGWGWRBW](/stripes/ggwgwgwgwrbw/). It is recorded as a single **variant**, below.
 First attested **1729**.
 
-Part of the [Dunblane](/tartans/dunblane/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunblane](/tartans/d/du/dunblane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

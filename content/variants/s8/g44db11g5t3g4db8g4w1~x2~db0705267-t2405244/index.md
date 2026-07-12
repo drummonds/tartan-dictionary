@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hastings-Stephenson"
+  url: "/tartans/h/ha/hastings-stephenson/"
 - name: "Hastings-Stephenson (Personal)"
   url: "/setts/g44db11g5t3g4db8g4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g44db11g5t3g4db8g4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGW](/stripes/gbgbgbgw/).
+
+Part of the [Hastings-Stephenson](/tartans/h/ha/hastings-stephenson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

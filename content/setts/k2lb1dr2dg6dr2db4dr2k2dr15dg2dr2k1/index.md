@@ -6,7 +6,7 @@ This is the **MacClure** sett — one scale-free proportion (`k2lb1dr2dg6dr2db4d
 [KBGBKBBBGBWK](/stripes/kbgbkbbbgbwk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [MacClure](/tartans/macclure/) tartan — the named design grouping this sett with its kin.
+Part of the [MacClure](/tartans/m/ma/macclure/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

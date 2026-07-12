@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish American"
+  url: "/tartans/s/sc/scottish-american/"
+- name: "Scottish American"
   url: "/setts/db50dp3k3db11dp8db2r6db2dbi8db2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50dp3k3db11dp8db2r6db2dbi8db2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBBRBBBW](/stripes/bbkbbbrbbbw/).
+
+Part of the [Scottish American](/tartans/s/sc/scottish-american/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

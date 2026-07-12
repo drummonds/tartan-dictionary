@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ballater"
+  url: "/tartans/b/ba/ballater/"
+- name: "Ballater"
   url: "/setts/dr3lb6k1dr1k1lb6dr2db6b1db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lb6k1dr1k1lb6dr2db6b1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWKBKWB](/stripes/bbbbwkbkwb/).
+
+Part of the [Ballater](/tartans/b/ba/ballater/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

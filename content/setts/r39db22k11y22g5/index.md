@@ -6,7 +6,7 @@ This is the **Abbink, Ingmar (Personal)** sett — one scale-free proportion (`r
 [GGKBR](/stripes/ggkbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Abbink, Ingmar](/tartans/abbink-ingmar/) tartan — the named design grouping this sett with its kin.
+Part of the [Abbink, Ingmar](/tartans/a/ab/abbink-ingmar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

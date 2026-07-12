@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Australian Dress"
+  url: "/tartans/a/au/australian-dress/"
 - name: "Australian Dress District Tartan"
   url: "/setts/w50dy4ly2k2ly2dy4ly10dy15lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w50dy4ly2k2ly2dy4ly10dy15lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGYGYKYGW](/stripes/wgygykygw/).
+
+Part of the [Australian Dress](/tartans/a/au/australian-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

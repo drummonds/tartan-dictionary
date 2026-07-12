@@ -6,6 +6,8 @@ This is the **Fyvie, Magenta (Dance)** sett — one scale-free proportion (`dp12
 [BGRGRRGRWRRGB](/stripes/bgrgrrgrwrrgb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Fyvie Magenta](/tartans/f/fy/fyvie-magenta/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

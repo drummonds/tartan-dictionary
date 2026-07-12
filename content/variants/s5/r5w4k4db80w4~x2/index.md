@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Volunteer Lifesaving Corps"
+  url: "/tartans/v/vo/volunteer-lifesaving-corps/"
 - name: "Volunteer Lifesaving Corps (Corp.)"
   url: "/setts/r5w4k4db80w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5w4k4db80w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBW](/stripes/rwkbw/).
+
+Part of the [Volunteer Lifesaving Corps](/tartans/v/vo/volunteer-lifesaving-corps/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

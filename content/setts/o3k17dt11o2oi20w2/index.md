@@ -6,6 +6,8 @@ This is the **Commonwealth Games Council (Corp.)** sett — one scale-free propo
 [RKBRRW](/stripes/rkbrrw/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Commonwealth Games Council](/tartans/c/co/commonwealth-games-council/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

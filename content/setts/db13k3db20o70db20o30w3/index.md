@@ -6,6 +6,8 @@ This is the **Unidentified 21** sett — one scale-free proportion (`db13k3db20o
 [BKBRBRW](/stripes/bkbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified 21](/tartans/u/un/unidentified-21/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

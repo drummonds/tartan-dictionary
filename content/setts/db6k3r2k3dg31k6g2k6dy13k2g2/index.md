@@ -6,6 +6,8 @@ This is the **Rourke-Frew Hunting** sett — one scale-free proportion (`db6k3r2
 [BKRKGKGKGKG](/stripes/bkrkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Rourke-Frew Hunting](/tartans/r/ro/rourke-frew-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

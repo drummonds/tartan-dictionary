@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cooke"
-  url: "/tartans/cooke/"
+  url: "/tartans/c/co/cooke/"
 - name: "Cooke"
   url: "/setts/k6b2db12g8r5k2g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k6b2db12g8r5k2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGBBK](/stripes/gkrgbbk/).
 
-Part of the [Cooke](/tartans/cooke/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cooke](/tartans/c/co/cooke/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

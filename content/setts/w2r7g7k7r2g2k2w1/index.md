@@ -6,6 +6,8 @@ This is the **Al Suwaidi of Abu Dhabi (Personal)** sett — one scale-free propo
 [WKGRKGRW](/stripes/wkgrkgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Al Suwaidi of Abu Dhabi](/tartans/a/al/al-suwaidi-of-abu-dhabi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

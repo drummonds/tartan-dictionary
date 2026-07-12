@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Logan"
-  url: "/tartans/logan-7/"
+  url: "/tartans/l/lo/logan-7/"
 - name: "Logan - 1819 (with yellow)"
   url: "/setts/dp8r3y1r3dg14r3y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp8r3y1r3dg14r3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRG](/stripes/brgrgrg/).
 
-Part of the [Logan](/tartans/logan-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Logan](/tartans/l/lo/logan-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

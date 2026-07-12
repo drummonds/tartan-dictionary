@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch Anderson Granite"
+  url: "/tartans/k/ki/kinloch-anderson-granite/"
 - name: "Kinloch Anderson Granite (Corporate)"
   url: "/setts/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBBBBBBBBW](/stripes/rbrbbbbbbbbw/).
+
+Part of the [Kinloch Anderson Granite](/tartans/k/ki/kinloch-anderson-granite/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

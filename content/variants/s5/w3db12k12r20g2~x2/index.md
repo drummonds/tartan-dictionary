@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Baillie"
+  url: "/clan/baillie/"
+- name: "Baillie of Polkemett"
+  url: "/families/baillie-of-polkemett/"
+- name: "Baillie of Polkemett"
+  url: "/tartans/b/ba/baillie-of-polkemett-2/"
 - name: "Baillie of Polkemett"
   url: "/setts/w3db12k12r20g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db12k12r20g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKBW](/stripes/grkbw/).
+
+Part of the [Baillie of Polkemett](/tartans/b/ba/baillie-of-polkemett-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

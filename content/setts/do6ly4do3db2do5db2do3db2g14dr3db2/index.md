@@ -6,6 +6,8 @@ This is the **Limerick, County** sett — one scale-free proportion (`do6ly4do3d
 [BBGBBBBBBYB](/stripes/bbgbbbbbbyb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Limerick, County](/tartans/l/li/limerick-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

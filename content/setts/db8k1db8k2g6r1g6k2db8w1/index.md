@@ -6,7 +6,7 @@ This is the **Dalmeny** sett — one scale-free proportion (`db8k1db8k2g6r1g6k2d
 [BKBKGRGKBW](/stripes/bkbkgrgkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dalmeny](/tartans/dalmeny-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalmeny](/tartans/d/da/dalmeny-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

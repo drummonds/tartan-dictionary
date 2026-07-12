@@ -6,7 +6,7 @@ This is the **Purdy, R Scott (Personal)** sett — one scale-free proportion (`r
 [GRKYRKGYGGGKYKR](/stripes/grkyrkgygggkykr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Purdy, R Scott](/tartans/purdy-r-scott/) tartan — the named design grouping this sett with its kin.
+Part of the [Purdy, R Scott](/tartans/p/pu/purdy-r-scott/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

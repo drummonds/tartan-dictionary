@@ -6,7 +6,7 @@ This is the **Christmas Hill Game Farm (Corporate)** sett — one scale-free pro
 [BBGGRYG](/stripes/bbggryg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Christmas Hill Game Farm](/tartans/christmas-hill-game-farm/) tartan — the named design grouping this sett with its kin.
+Part of the [Christmas Hill Game Farm](/tartans/c/ch/christmas-hill-game-farm/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

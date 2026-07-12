@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFarlane Hunting"
-  url: "/tartans/macfarlane-hunting/"
+  url: "/tartans/m/ma/macfarlane-hunting/"
 - name: "MacFarlane Hunting Clan Tartan"
   url: "/setts/g16k3g20w2r3k2r3w2g2db18k2r4w2g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16k3g20w2r3k2r3w2g2db18k2r4w2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
 
-Part of the [MacFarlane Hunting](/tartans/macfarlane-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacFarlane Hunting](/tartans/m/ma/macfarlane-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

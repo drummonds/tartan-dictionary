@@ -6,6 +6,8 @@ This is the **Kumikyoku - Tone of Forest** sett — one scale-free proportion (`
 [WGBGBKGBRBKBWBGBWBGBWBKBRBGKBGBGW](/stripes/wgbgbkgbrbkbwbgbwbgbwbkbrbgkbgbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Kumikyoku](/tartans/k/ku/kumikyoku-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

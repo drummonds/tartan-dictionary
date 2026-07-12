@@ -7,6 +7,8 @@ This is the **U.S. Seabees** sett — one scale-free proportion (`g72lo2g10dr9g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1991**.
 
+Part of the [U.S. Seabees](/tartans/u/u/u-s-seabees/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

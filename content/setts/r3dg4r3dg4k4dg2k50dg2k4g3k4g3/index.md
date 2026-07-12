@@ -6,6 +6,8 @@ This is the **Ross, Ryan (Personal)** sett — one scale-free proportion (`r3dg4
 [GKGKGKGKGRGR](/stripes/gkgkgkgkgrgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Ross, Ryan](/tartans/r/ro/ross-ryan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

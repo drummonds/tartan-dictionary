@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clydebank"
+  url: "/tartans/c/cl/clydebank/"
 - name: "Clydebank (Fashion)"
   url: "/setts/r2b3r1b16t2b9t9b3t15g1t3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2b3r1b16t2b9t9b3t15g1t3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/).
+
+Part of the [Clydebank](/tartans/c/cl/clydebank/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

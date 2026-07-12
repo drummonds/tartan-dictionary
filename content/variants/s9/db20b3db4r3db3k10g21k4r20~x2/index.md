@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holland & Sherry"
+  url: "/tartans/h/ho/holland-sherry/"
 - name: "Holland & Sherry (Corporate)"
   url: "/setts/db20b3db4r3db3k10g21k4r20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20b3db4r3db3k10g21k4r20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBKGKR](/stripes/bbbrbkgkr/).
+
+Part of the [Holland & Sherry](/tartans/h/ho/holland-sherry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

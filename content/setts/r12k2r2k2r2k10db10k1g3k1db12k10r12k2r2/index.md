@@ -6,6 +6,8 @@ This is the **MacLachlan #3** sett — one scale-free proportion (`r12k2r2k2r2k1
 [RKRKBKGKBKRKRKR](/stripes/rkrkbkgkbkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacLachlan 1](/tartans/m/ma/maclachlan-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

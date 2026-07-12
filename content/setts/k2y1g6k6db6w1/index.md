@@ -6,6 +6,8 @@ This is the **Dyce Family Tartan** sett — one scale-free proportion (`k2y1g6k6
 [KGGKBW](/stripes/kggkbw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Dyce](/tartans/d/dy/dyce-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

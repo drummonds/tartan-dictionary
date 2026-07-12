@@ -6,6 +6,8 @@ This is the **Braemar, or Blair Atholl** sett — one scale-free proportion (`o1
 [RKRKRKRKWR](/stripes/rkrkrkrkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Braemar, or Blair Atholl](/tartans/b/br/braemar-or-blair-atholl-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

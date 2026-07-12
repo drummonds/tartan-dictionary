@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Geddes"
+  url: "/tartans/g/ge/geddes/"
+- name: "Geddes"
   url: "/setts/dp1r5g15r3dp9r10w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp1r5g15r3dp9r10w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRW](/stripes/brgrbrw/).
+
+Part of the [Geddes](/tartans/g/ge/geddes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

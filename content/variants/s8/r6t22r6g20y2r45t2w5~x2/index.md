@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elbrick Dress"
+  url: "/tartans/e/el/elbrick-dress/"
 - name: "Elbrick Dress (Personal)"
   url: "/setts/r6t22r6g20y2r45t2w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6t22r6g20y2r45t2w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGGRBW](/stripes/rbrggrbw/).
+
+Part of the [Elbrick Dress](/tartans/e/el/elbrick-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

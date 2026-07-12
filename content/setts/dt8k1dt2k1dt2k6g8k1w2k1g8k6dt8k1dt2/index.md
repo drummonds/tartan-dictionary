@@ -6,6 +6,8 @@ This is the **74th Regiment of Foot (Mil.)** sett — one scale-free proportion 
 [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [74th Regiment of Foot](/tartans/0-9/0-9/74th-regiment-of-foot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Glenmoriston"
+  url: "/families/grant-of-glenmoriston/"
+- name: "Grant of Glenmoriston"
+  url: "/tartans/g/gr/grant-of-glenmoriston/"
 - name: "Grant of Glenmoriston (Clan)"
   url: "/setts/r6db2r2g24r2g2r2db8r34db2r2db1r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db2r2g24r2g2r2db8r34db2r2db1r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRGRGRBR](/stripes/rbrbrbrgrgrbr/).
+
+Part of the [Grant of Glenmoriston](/tartans/g/gr/grant-of-glenmoriston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

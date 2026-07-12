@@ -6,6 +6,8 @@ This is the **Kinnison Family Tartan** sett — one scale-free proportion (`db8k
 [BKWGWGWKRKWGWGWKB](/stripes/bkwgwgwkrkwgwgwkb/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Kinnison](/tartans/k/ki/kinnison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

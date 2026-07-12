@@ -6,7 +6,7 @@ This is the **Chattan, Chief** sett — one scale-free proportion (`w4y12r8k8lb3
 [WGRKWWGRKRGWGWKRW](/stripes/wgrkwwgrkrgwgwkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Chattan Chief](/tartans/chattan-chief/) tartan — the named design grouping this sett with its kin.
+Part of the [Chattan Chief](/tartans/c/ch/chattan-chief/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Billy Apple®"
-  url: "/tartans/billy-apple/"
+  url: "/tartans/b/bi/billy-apple/"
 - name: "Billy Apple - Yellow"
   url: "/setts/r1ly13k8g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1ly13k8g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYR](/stripes/gkyr/).
 
-Part of the [Billy Apple®](/tartans/billy-apple/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Billy Apple®](/tartans/b/bi/billy-apple/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

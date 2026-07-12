@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Frame"
-  url: "/tartans/frame-2/"
+  url: "/tartans/f/fr/frame-2/"
 - name: "Frame (Ferniegair) (Personal)"
   url: "/setts/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/).
 
-Part of the [Frame](/tartans/frame-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Frame](/tartans/f/fr/frame-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

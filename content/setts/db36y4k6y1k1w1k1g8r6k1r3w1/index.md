@@ -6,6 +6,8 @@ This is the **MacBeth, MacLulich** sett — one scale-free proportion (`db36y4k6
 [BGKGKWKGRKRW](/stripes/bgkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacBeth, MacLulich](/tartans/m/ma/macbeth-maclulich/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

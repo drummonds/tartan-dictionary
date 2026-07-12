@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edinburgh Castle"
+  url: "/tartans/e/ed/edinburgh-castle/"
 - name: "Edinburgh Castle (Corporate?)"
   url: "/setts/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKGKB](/stripes/bkbkbkbkbkgkb/).
+
+Part of the [Edinburgh Castle](/tartans/e/ed/edinburgh-castle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

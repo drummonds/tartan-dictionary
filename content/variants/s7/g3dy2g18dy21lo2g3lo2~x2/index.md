@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince David"
+  url: "/tartans/p/pr/prince-david-2/"
 - name: "Prince David #1 (Royal)"
   url: "/setts/g3dy2g18dy21lo2g3lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dy2g18dy21lo2g3lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGYGY](/stripes/ggggygy/).
+
+Part of the [Prince David](/tartans/p/pr/prince-david-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Curd (2013)** sett — one scale-free proportion (`db1lb9w3y3db9y1
 [BWWGBGGR](/stripes/bwwgbggr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Curd](/tartans/c/cu/curd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

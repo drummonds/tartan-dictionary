@@ -7,6 +7,8 @@ This is the **Shalom** sett — one scale-free proportion (`k15lb3k3w4k3lb3k15db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2008**.
 
+Part of the [Shalom](/tartans/s/sh/shalom/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

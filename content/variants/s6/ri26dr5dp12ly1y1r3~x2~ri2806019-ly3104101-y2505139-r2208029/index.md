@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roseate Sunrise"
+  url: "/tartans/r/ro/roseate-sunrise/"
+- name: "Roseate Sunrise"
   url: "/setts/ri26dr5dp12ly1y1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri26dr5dp12ly1y1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBYGR](/stripes/rbbygr/).
+
+Part of the [Roseate Sunrise](/tartans/r/ro/roseate-sunrise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

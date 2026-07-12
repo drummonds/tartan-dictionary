@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "The Rhythms of Evelyn Glennie"
+  url: "/tartans/t/th/the-rhythms-of-evelyn-glennie/"
+- name: "The Rhythms of Evelyn Glennie"
   url: "/setts/r25k4r2k3y2k2db3r2k3db2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r25k4r2k3y2k2db3r2k3db2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRBKGKRKR](/stripes/kbkrbkgkrkr/).
+
+Part of the [The Rhythms of Evelyn Glennie](/tartans/t/th/the-rhythms-of-evelyn-glennie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

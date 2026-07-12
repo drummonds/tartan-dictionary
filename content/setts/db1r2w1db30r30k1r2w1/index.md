@@ -6,6 +6,8 @@ This is the **Knights Templar - Grand Priory (Corp** sett — one scale-free pro
 [BRWBRKRW](/stripes/brwbrkrw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Knights Templar](/tartans/k/kn/knights-templar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Holestone (Corporate)** sett — one scale-free proportion (`k4ly8
 [KYKRGRKW](/stripes/kykrgrkw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Holestone](/tartans/h/ho/holestone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

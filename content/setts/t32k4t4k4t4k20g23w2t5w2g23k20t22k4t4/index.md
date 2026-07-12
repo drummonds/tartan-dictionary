@@ -6,6 +6,8 @@ This is the **Lyon (Clan)** sett — one scale-free proportion (`t32k4t4k4t4k20g
 [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
+Part of the [Lyon](/tartans/l/ly/lyon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

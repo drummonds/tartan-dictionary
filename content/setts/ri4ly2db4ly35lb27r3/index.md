@@ -6,6 +6,8 @@ This is the **Royal Deeside (District)** sett — one scale-free proportion (`ri
 [RWYBYR](/stripes/rwybyr/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Royal Deeside](/tartans/r/ro/royal-deeside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ironside (Personal)** sett — one scale-free proportion (`k40dp2k
 [BWBKBKBKBKBKBKBKBW](/stripes/bwbkbkbkbkbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Ironside](/tartans/i/ir/ironside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

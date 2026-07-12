@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Sky"
+  url: "/tartans/h/hi/highland-sky/"
 - name: "Highland Sky (Fashion)"
   url: "/setts/n43db2n2k1n1dt11n2db2n1lb1n20w4n7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n43db2n2k1n1dt11n2db2n1lb1n20w4n7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBBBBBWBWB](/stripes/bbbkbbbbbwbwb/).
+
+Part of the [Highland Sky](/tartans/h/hi/highland-sky/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

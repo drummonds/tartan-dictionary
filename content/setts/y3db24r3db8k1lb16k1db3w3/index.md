@@ -6,6 +6,8 @@ This is the **MacCormick Festive** sett — one scale-free proportion (`y3db24r3
 [GBRBKWKBW](/stripes/gbrbkwkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacCormick Festive](/tartans/m/ma/maccormick-festive/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Madras 3 (Fashion)** sett — one scale-free proportion (`k6db49g1
 [GKYKGKGBK](/stripes/gkykgkgbk/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [Madras 3](/tartans/m/ma/madras-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

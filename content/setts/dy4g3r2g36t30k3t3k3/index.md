@@ -6,6 +6,8 @@ This is the **Chartered Accountants of Scotland** sett — one scale-free propor
 [GGRGBKBK](/stripes/ggrgbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Chartered Accountants of Scotland](/tartans/c/ch/chartered-accountants-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

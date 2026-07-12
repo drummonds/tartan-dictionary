@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunedin"
+  url: "/tartans/d/du/dunedin-3/"
 - name: "Dunedin (NZ)"
   url: "/setts/y1ly4k1r1k1g4w1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1ly4k1r1k1g4w1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKRKYG](/stripes/gwgkrkyg/).
+
+Part of the [Dunedin](/tartans/d/du/dunedin-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

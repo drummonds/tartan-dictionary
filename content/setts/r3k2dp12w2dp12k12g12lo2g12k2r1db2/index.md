@@ -6,7 +6,7 @@ This is the **Rust (Personal)** sett — one scale-free proportion (`r3k2dp12w2d
 [BRKGYGKBWBKR](/stripes/brkgygkbwbkr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Rust](/tartans/rust/) tartan — the named design grouping this sett with its kin.
+Part of the [Rust](/tartans/r/ru/rust/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

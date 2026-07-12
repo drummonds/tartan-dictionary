@@ -6,7 +6,7 @@ This is the **Auld Reekie** sett — one scale-free proportion (`db4r3db3r22g8r2
 [BRBRGR](/stripes/brbrgr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Auld Reekie](/tartans/auld-reekie/) tartan — the named design grouping this sett with its kin.
+Part of the [Auld Reekie](/tartans/a/au/auld-reekie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

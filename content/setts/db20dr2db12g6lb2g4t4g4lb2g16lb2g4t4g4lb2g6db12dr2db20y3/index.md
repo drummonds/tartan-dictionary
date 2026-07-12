@@ -6,6 +6,8 @@ This is the **United Services Planning Association** sett — one scale-free pro
 [BBBGWGBGWGWGBGWGBBBG](/stripes/bbbgwgbgwgwgbgwgbbbg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [United Services Planning Association](/tartans/u/un/united-services-planning-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

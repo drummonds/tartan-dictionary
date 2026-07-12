@@ -6,6 +6,8 @@ This is the **Highland Gathering (Fashion?)** sett — one scale-free proportion
 [KRKBYBBYBW](/stripes/krkbybbybw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Highland Gathering](/tartans/h/hi/highland-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wyse"
+  url: "/tartans/w/wy/wyse/"
 - name: "Wyse (2016)"
   url: "/setts/k19r2k20db6k8db6ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k19r2k20db6k8db6ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKRKBKBY](/stripes/kkkrkbkby/).
+
+Part of the [Wyse](/tartans/w/wy/wyse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

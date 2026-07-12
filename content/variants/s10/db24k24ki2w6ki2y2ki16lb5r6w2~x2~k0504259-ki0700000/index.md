@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's International"
-  url: "/tartans/scotland-s-international/"
+  url: "/tartans/s/sc/scotland-s-international/"
 - name: "Scotland's International - Home (Fas"
   url: "/setts/db24k24ki2w6ki2y2ki16lb5r6w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24k24ki2w6ki2y2ki16lb5r6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKKWKGKWRW](/stripes/bkkwkgkwrw/).
 
-Part of the [Scotland's International](/tartans/scotland-s-international/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scotland's International](/tartans/s/sc/scotland-s-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Henbury"
+  url: "/tartans/h/he/henbury/"
+- name: "Henbury"
   url: "/setts/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBYBBBWBBBBWBW](/stripes/bbbbybbbwbbbbwbw/).
+
+Part of the [Henbury](/tartans/h/he/henbury/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

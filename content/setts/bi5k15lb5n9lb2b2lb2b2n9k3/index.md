@@ -6,6 +6,8 @@ This is the **Ryukoku University Heian Senior High School** sett — one scale-f
 [BKWBWBWBBK](/stripes/bkwbwbwbbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ryukoku University Heian Senior High School](/tartans/r/ry/ryukoku-university-heian-senior-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

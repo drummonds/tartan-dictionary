@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brown-Wells"
+  url: "/tartans/b/br/brown-wells/"
 - name: "Brown-Wells (Personal)"
   url: "/setts/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKGKWKGRGKRKGKR](/stripes/grkgkwkgrgkrkgkr/).
+
+Part of the [Brown-Wells](/tartans/b/br/brown-wells/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

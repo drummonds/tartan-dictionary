@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Comrie Navy"
+  url: "/tartans/c/co/comrie-navy/"
 - name: "Comrie, Navy Blue (Dance)"
   url: "/setts/dbi42lb2w2lb2dbi5k12w32db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi42lb2w2lb2dbi5k12w32db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBWWWB](/stripes/bwkbwwwb/).
+
+Part of the [Comrie Navy](/tartans/c/co/comrie-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

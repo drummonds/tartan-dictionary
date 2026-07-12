@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Americana"
+  url: "/tartans/a/am/americana/"
 - name: "Americana - 1978 (Fashion)"
   url: "/setts/db33w7db5r2db5w2r13db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db33w7db5r2db5w2r13db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWBRBWB](/stripes/brwbrbwb/).
+
+Part of the [Americana](/tartans/a/am/americana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

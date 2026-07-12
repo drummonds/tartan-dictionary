@@ -6,6 +6,8 @@ This is the **Highlands Country Club** sett — one scale-free proportion (`db15
 [BWWWWGWWWWBG](/stripes/bwwwwgwwwwbg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Highlands Country Club](/tartans/h/hi/highlands-country-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

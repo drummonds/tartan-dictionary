@@ -6,6 +6,8 @@ This is the **Wcwm 1712** sett — one scale-free proportion (`dr8w2dr22k8dg6k6d
 [BWBKGKGKGYGY](/stripes/bwbkgkgkgygy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1712](/tartans/w/wc/wcwm-1712/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

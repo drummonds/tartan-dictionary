@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal College of Surgeons. . ."
+  url: "/tartans/r/ro/royal-college-of-surgeons/"
 - name: "Royal College of Surgeons of Edinburgh, The"
   url: "/setts/w4n20k13db2k2db2k2db16lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4n20k13db2k2db2k2db16lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBKBKBW](/stripes/wbkbkbkbw/).
+
+Part of the [Royal College of Surgeons. . .](/tartans/r/ro/royal-college-of-surgeons/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

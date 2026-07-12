@@ -6,6 +6,8 @@ This is the **Blue Boy, The (Fashion)** sett — one scale-free proportion (`db1
 [BGBBWBW](/stripes/bgbbwbw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Blue Boy, The](/tartans/b/bl/blue-boy-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

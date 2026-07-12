@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wren"
-  url: "/tartans/wren/"
+  url: "/tartans/w/wr/wren/"
 - name: "Wren (Name)"
   url: "/setts/db6w2k2r6dy2g12r6lb3k3lb3r28dy4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w2k2r6dy2g12r6lb3k3lb3r28dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKRGGRWKWRG](/stripes/bwkrggrwkwrg/).
 
-Part of the [Wren](/tartans/wren/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wren](/tartans/w/wr/wren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

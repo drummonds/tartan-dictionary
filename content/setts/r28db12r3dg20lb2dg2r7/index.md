@@ -6,6 +6,8 @@ This is the **Carrick (Strathmore) District Tartan** sett — one scale-free pro
 [RBRGWGR](/stripes/rbrgwgr/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
+Part of the [Carrick](/tartans/c/ca/carrick-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

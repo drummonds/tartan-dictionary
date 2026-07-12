@@ -6,6 +6,8 @@ This is the **Dalmagarry (Corporate)** sett — one scale-free proportion (`y3r4
 [GRKRGRBW](/stripes/grkrgrbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Dalmagarry](/tartans/d/da/dalmagarry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

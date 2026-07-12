@@ -6,6 +6,8 @@ This is the **Georgia, State of (District)** sett — one scale-free proportion 
 [GKGKGKWR](/stripes/gkgkgkwr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Georgia, State of](/tartans/g/ge/georgia-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

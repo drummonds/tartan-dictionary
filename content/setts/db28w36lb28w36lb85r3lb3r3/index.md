@@ -7,6 +7,8 @@ This is the **Malmo Skyblue** sett — one scale-free proportion (`db28w36lb28w3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2006**.
 
+Part of the [Malmo Skyblue](/tartans/m/ma/malmo-skyblue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

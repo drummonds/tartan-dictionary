@@ -6,6 +6,8 @@ This is the **Anderson** sett — one scale-free proportion (`r16g2w24g2r6k6r6g2
 [RGRGRKRKYKYKYWYKYWGRKRGWGR](/stripes/rgrgrkrkykykywykywgrkrgwgr/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [Anderson](/tartans/a/an/anderson-18/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

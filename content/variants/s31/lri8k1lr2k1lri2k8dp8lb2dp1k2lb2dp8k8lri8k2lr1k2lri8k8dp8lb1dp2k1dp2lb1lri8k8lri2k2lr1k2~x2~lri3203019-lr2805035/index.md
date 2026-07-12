@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McLosek"
+  url: "/tartans/m/mc/mclosek/"
 - name: "McLosek (Personal)"
   url: "/setts/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYWBKBWBKYKYKYKBWKBWBKYKYKY](/stripes/kykykywbkbwbkykykykbwkbwbkykyky/).
+
+Part of the [McLosek](/tartans/m/mc/mclosek/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 

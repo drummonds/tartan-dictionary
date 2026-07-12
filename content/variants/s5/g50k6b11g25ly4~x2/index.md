@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen of Daviot"
+  url: "/families/glen-of-daviot/"
+- name: "Glen of Daviot"
+  url: "/tartans/g/gl/glen-of-daviot/"
 - name: "Glen of Daviot (Dalgleish)"
   url: "/setts/g50k6b11g25ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g50k6b11g25ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGY](/stripes/gkbgy/).
+
+Part of the [Glen of Daviot](/tartans/g/gl/glen-of-daviot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

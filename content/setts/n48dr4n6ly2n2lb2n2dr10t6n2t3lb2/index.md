@@ -6,6 +6,8 @@ This is the **Gabrielle (Fashion)** sett — one scale-free proportion (`n48dr4n
 [BBBYBWBBBBBW](/stripes/bbbybwbbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Gabrielle](/tartans/g/ga/gabrielle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **International Police Association** sett — one scale-free proport
 [RWRWBWBWBYBWBWBWRW](/stripes/rwrwbwbwbybwbwbwrw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [International Police Association](/tartans/i/in/international-police-association-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

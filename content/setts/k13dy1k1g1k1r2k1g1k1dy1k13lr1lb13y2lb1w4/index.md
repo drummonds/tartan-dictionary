@@ -6,6 +6,8 @@ This is the **Kungsholmen Snooker** sett — one scale-free proportion (`k13dy1k
 [KGKGKRKGKGKYWGWW](/stripes/kgkgkrkgkgkywgww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kungsholmen Snooker](/tartans/k/ku/kungsholmen-snooker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

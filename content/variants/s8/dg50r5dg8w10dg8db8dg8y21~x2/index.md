@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Patrick's Krewe"
+  url: "/tartans/s/st/st-patrick-s-krewe/"
+- name: "St Patrick's Krewe"
   url: "/setts/dg50r5dg8w10dg8db8dg8y21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg50r5dg8w10dg8db8dg8y21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGWGRG](/stripes/ggbgwgrg/).
+
+Part of the [St Patrick's Krewe](/tartans/s/st/st-patrick-s-krewe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

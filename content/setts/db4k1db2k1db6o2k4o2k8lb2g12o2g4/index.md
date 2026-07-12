@@ -6,6 +6,8 @@ This is the **MacKusick (Piper) #1 (Personal)** sett — one scale-free proporti
 [BKBKBRKRKWGRG](/stripes/bkbkbrkrkwgrg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacKusick](/tartans/m/ma/mackusick-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

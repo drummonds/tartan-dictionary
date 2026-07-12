@@ -6,7 +6,7 @@ This is the **Billy Apple - Yellow** sett — one scale-free proportion (`r1ly13
 [GKYR](/stripes/gkyr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Billy Apple®](/tartans/billy-apple/) tartan — the named design grouping this sett with its kin.
+Part of the [Billy Apple®](/tartans/b/bi/billy-apple/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Caig (Corporate)** sett — one scale-free proportion (`w3r2dp31g3
 [GBGGBRW](/stripes/gbggbrw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Caig](/tartans/c/ca/caig-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

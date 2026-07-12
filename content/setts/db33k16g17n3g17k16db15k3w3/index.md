@@ -6,6 +6,8 @@ This is the **Dove (Personal)** sett — one scale-free proportion (`db33k16g17n
 [BKGBGKBKW](/stripes/bkgbgkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Dove](/tartans/d/do/dove/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacDonald of Glenaladale (symmetrical)** sett — one scale-free p
 [GWRGRW](/stripes/gwrgrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [MacDonald of Glenaladale](/tartans/m/ma/macdonald-of-glenaladale-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ramsay (Orange)** sett — one scale-free proportion (`k4lo9k13g6l
 [KYKGYGW](/stripes/kykgygw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Ramsay](/tartans/r/ra/ramsay-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

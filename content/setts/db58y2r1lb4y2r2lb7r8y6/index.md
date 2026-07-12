@@ -6,6 +6,8 @@ This is the **Hybelius, J-A (Personal)** sett — one scale-free proportion (`db
 [BGRWGRWRG](/stripes/bgrwgrwrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hybelius, J-A](/tartans/h/hy/hybelius-j-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacLaurin of Brioch** sett — one scale-free proportion (`db36k10
 [BKGRGKG](/stripes/bkgrgkg/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [MacLaurin of Brioch](/tartans/m/ma/maclaurin-of-brioch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

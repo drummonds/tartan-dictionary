@@ -6,6 +6,8 @@ This is the **Fife (Mann)** sett — one scale-free proportion (`t2w1t12ly3t7dy2
 [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Fife](/tartans/f/fi/fife/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

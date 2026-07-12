@@ -6,6 +6,8 @@ This is the **Tyneside Scottish (Green)** sett — one scale-free proportion (`d
 [GGGGGGGGGGGGG](/stripes/ggggggggggggg/). It is recorded as a single **variant**, below.
 First attested **1914**.
 
+Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ferguson Red, George (Architect)** sett — one scale-free proport
 [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Ferguson Red, George](/tartans/f/fe/ferguson-red-george-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

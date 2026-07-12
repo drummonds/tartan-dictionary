@@ -6,6 +6,8 @@ This is the **United Colours of Scotland (Corporat** sett — one scale-free pro
 [BWBBGBG](/stripes/bwbbgbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [United Colours of Scotland](/tartans/u/un/united-colours-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Steel (Personal)** sett — one scale-free proportion (`db6g48k4y4
 [BGKGKWGRKRW](/stripes/bgkgkwgrkrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Steel](/tartans/s/st/steel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

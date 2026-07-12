@@ -6,6 +6,8 @@ This is the **Rabbie Burns** sett — one scale-free proportion (`db4y2db5dr11db
 [BGBBBBBGBKB](/stripes/bgbbbbbgbkb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Rabbie Burns](/tartans/r/ra/rabbie-burns/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Akintiev (2014)** sett — one scale-free proportion (`db22w5k9db2
 [BWKBBKBR](/stripes/bwkbbkbr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Akintiev](/tartans/a/ak/akintiev/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

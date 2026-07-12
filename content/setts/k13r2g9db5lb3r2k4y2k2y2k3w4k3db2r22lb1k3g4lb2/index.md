@@ -6,6 +6,8 @@ This is the **Anderson of Ardbrake** sett — one scale-free proportion (`k13r2g
 [KRGBWRKGKGKWKBRWKGW](/stripes/krgbwrkgkgkwkbrwkgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Anderson of Ardbrake](/tartans/a/an/anderson-of-ardbrake/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

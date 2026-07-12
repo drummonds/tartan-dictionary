@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacTaggart"
+  url: "/tartans/m/ma/mactaggart-2/"
+- name: "MacTaggart"
   url: "/setts/dg30db4dg2k20db18r1db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30db4dg2k20db18r1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGBG](/stripes/brbkgbg/).
+
+Part of the [MacTaggart](/tartans/m/ma/mactaggart-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

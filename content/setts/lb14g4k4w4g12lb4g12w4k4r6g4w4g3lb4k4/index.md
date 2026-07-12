@@ -6,6 +6,8 @@ This is the **Gayre Dress Clan Tartan** sett — one scale-free proportion (`lb1
 [KWGWGRKWGWGWKGW](/stripes/kwgwgrkwgwgwkgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Gayre Dress](/tartans/g/ga/gayre-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

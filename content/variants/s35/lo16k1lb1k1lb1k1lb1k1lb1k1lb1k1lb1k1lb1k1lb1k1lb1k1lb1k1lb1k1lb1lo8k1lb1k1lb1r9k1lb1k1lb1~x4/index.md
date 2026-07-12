@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coulin"
+  url: "/tartans/c/co/coulin/"
+- name: "Coulin"
   url: "/setts/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKRWKWKYWKWKWKWKWKWKWKWKWKWKWKWKY](/stripes/wkwkrwkwkywkwkwkwkwkwkwkwkwkwkwkwky/).
+
+Part of the [Coulin](/tartans/c/co/coulin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arbuthnott"
-  url: "/tartans/arbuthnott/"
+  url: "/tartans/a/ar/arbuthnott/"
 - name: "Arbuthnott"
   url: "/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-Part of the [Arbuthnott](/tartans/arbuthnott/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Arbuthnott](/tartans/a/ar/arbuthnott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 

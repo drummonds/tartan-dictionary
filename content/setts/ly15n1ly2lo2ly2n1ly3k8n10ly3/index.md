@@ -6,6 +6,8 @@ This is the **Annan Trade Tartan** sett — one scale-free proportion (`ly15n1ly
 [YBKYBYYYBY](/stripes/ybkybyyyby/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Annan](/tartans/a/an/annan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

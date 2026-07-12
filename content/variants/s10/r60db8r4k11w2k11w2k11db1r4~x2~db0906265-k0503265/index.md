@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robberstad"
+  url: "/tartans/r/ro/robberstad-2/"
 - name: "Robberstad #2"
   url: "/setts/r60db8r4k11w2k11w2k11db1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r60db8r4k11w2k11w2k11db1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWKWKRBR](/stripes/rbkwkwkrbr/).
+
+Part of the [Robberstad](/tartans/r/ro/robberstad-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

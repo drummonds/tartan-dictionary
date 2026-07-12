@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "London Fog Safari"
+  url: "/tartans/l/lo/london-fog-safari/"
 - name: "London Fog Safari (Fashion)"
   url: "/setts/lb10k2w5k4lb50t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb10k2w5k4lb50t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKW](/stripes/bwkwkw/).
+
+Part of the [London Fog Safari](/tartans/l/lo/london-fog-safari/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

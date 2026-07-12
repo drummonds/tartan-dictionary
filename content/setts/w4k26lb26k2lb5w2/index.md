@@ -6,6 +6,8 @@ This is the **Indian Pipe Band (Corporate)** sett — one scale-free proportion 
 [WKWKWW](/stripes/wkwkww/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Indian Pipe Band](/tartans/i/in/indian-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

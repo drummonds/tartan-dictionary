@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Tullibardine"
+  url: "/families/macleod-of-tullibardine/"
+- name: "MacLeod of Tullibardine"
+  url: "/tartans/m/ma/macleod-of-tullibardine/"
 - name: "MacLeod of Tullibardine"
   url: "/setts/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
+
+Part of the [MacLeod of Tullibardine](/tartans/m/ma/macleod-of-tullibardine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

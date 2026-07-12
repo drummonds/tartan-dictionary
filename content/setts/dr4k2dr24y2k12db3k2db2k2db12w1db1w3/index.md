@@ -6,6 +6,8 @@ This is the **Baron of Greencastle Dress #2 (Personal)** sett — one scale-free
 [BKBGKBKBKBWBW](/stripes/bkbgkbkbkbwbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Baron of Greencastle Dress](/tartans/b/ba/baron-of-greencastle-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

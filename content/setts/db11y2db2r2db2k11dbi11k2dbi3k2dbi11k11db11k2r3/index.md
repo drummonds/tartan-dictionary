@@ -6,6 +6,8 @@ This is the **Bamcroft (Corporate)** sett — one scale-free proportion (`db11y2
 [BGBRBKBKBKBKBKR](/stripes/bgbrbkbkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bamcroft](/tartans/b/ba/bamcroft/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

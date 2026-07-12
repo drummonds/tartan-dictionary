@@ -6,7 +6,7 @@ This is the **Owen (Welsh Name)** sett — one scale-free proportion (`g3db1g2db
 [BGRGRGBGBG](/stripes/bgrgrgbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Owen](/tartans/owen/) tartan — the named design grouping this sett with its kin.
+Part of the [Owen](/tartans/o/ow/owen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

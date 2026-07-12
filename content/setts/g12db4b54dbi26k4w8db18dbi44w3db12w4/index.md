@@ -6,6 +6,8 @@ This is the **Scottish Motor Trade Association** sett — one scale-free proport
 [GBBBKWBBWBW](/stripes/gbbbkwbbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Motor Trade Association](/tartans/s/sc/scottish-motor-trade-association-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

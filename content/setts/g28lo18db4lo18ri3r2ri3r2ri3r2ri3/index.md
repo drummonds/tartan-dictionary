@@ -6,6 +6,8 @@ This is the **Commonwealth Games - 2014** sett — one scale-free proportion (`g
 [GYBYRRRRRRR](/stripes/gybyrrrrrrr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Commonwealth Games](/tartans/c/co/commonwealth-games-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lords of Skye"
-  url: "/tartans/lords-of-skye/"
+  url: "/tartans/l/lo/lords-of-skye/"
 - name: "Lords of Skye Trade Tartan"
   url: "/setts/k46dy7k8w20/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k46dy7k8w20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKW](/stripes/kgkw/).
 
-Part of the [Lords of Skye](/tartans/lords-of-skye/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lords of Skye](/tartans/l/lo/lords-of-skye/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 

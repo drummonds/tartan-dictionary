@@ -6,6 +6,8 @@ This is the **New Loudoun** sett — one scale-free proportion (`r50w2dy5lb2db2d
 [GWYYRKRYYWGWGBWGWR](/stripes/gwyyrkryywgwgbwgwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [New Loudoun](/tartans/n/ne/new-loudoun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

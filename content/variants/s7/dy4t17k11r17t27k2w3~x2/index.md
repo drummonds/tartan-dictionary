@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNamara"
+  url: "/tartans/m/ma/macnamara/"
+- name: "MacNamara"
   url: "/setts/dy4t17k11r17t27k2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4t17k11r17t27k2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRBKW](/stripes/gbkrbkw/).
+
+Part of the [MacNamara](/tartans/m/ma/macnamara/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

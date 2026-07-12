@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Smeaton Hunting"
+  url: "/tartans/s/sm/smeaton-hunting/"
 - name: "Smeaton Hunting (Name)"
   url: "/setts/k6g4lb3g44k32g3k3lo3k2g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6g4lb3g44k32g3k3lo3k2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKGKGWGK](/stripes/gkykgkgwgk/).
+
+Part of the [Smeaton Hunting](/tartans/s/sm/smeaton-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

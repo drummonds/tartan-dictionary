@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kidd"
+  url: "/tartans/k/ki/kidd/"
+- name: "Kidd"
   url: "/setts/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/).
+
+Part of the [Kidd](/tartans/k/ki/kidd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,6 +6,8 @@ This is the **Brotherhood of Dirk, The** sett — one scale-free proportion (`r9
 [GKBKBKBKRKR](/stripes/gkbkbkbkrkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Brotherhood of Dirk, The](/tartans/b/br/brotherhood-of-dirk-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

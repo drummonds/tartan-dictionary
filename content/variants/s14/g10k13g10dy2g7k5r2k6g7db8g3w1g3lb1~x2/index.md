@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams Arbutus"
+  url: "/tartans/w/wi/williams-arbutus/"
 - name: "Williams Arbutus (Personal)"
   url: "/setts/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10k13g10dy2g7k5r2k6g7db8g3w1g3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGKRKGBGWGW](/stripes/gkgggkrkgbgwgw/).
+
+Part of the [Williams Arbutus](/tartans/w/wi/williams-arbutus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

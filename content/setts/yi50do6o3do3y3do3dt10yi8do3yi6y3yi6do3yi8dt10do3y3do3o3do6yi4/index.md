@@ -6,6 +6,8 @@ This is the **Williams #2** sett — one scale-free proportion (`yi50do6o3do3y3d
 [GBRBGBBGBGGGBGBBGBRBG](/stripes/gbrbgbbgbgggbgbbgbrbg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Williams](/tartans/w/wi/williams-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

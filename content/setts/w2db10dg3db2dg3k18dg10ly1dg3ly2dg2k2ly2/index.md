@@ -6,7 +6,7 @@ This is the **O'Doherty (Name)** sett — one scale-free proportion (`w2db10dg3d
 [WBGBGKGYGYGKY](/stripes/wbgbgkgygygky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [O'Doherty](/tartans/o-doherty/) tartan — the named design grouping this sett with its kin.
+Part of the [O'Doherty](/tartans/o/o/o-doherty/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Ogilvie of Inverarity (V.S.)** sett — one scale-free proportion 
 [BGBKGKGRGKGKBG](/stripes/bgbkgkgrgkgkbg/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Ogilvie of Inverarity](/tartans/o/og/ogilvie-of-inverarity/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

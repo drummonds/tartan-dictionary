@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ensign of Ontario"
-  url: "/tartans/ensign-of-ontario/"
+  url: "/tartans/e/en/ensign-of-ontario/"
 - name: "Ensign of Ontario (Fashion)"
   url: "/setts/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGYGGGGGGKRKG](/stripes/ggggyggggggkrkg/).
 
-Part of the [Ensign of Ontario](/tartans/ensign-of-ontario/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ensign of Ontario](/tartans/e/en/ensign-of-ontario/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

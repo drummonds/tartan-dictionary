@@ -6,7 +6,7 @@ This is the **Oakley (2015)** sett — one scale-free proportion (`g37k22w4r15y3
 [GKWRG](/stripes/gkwrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Oakley](/tartans/oakley/) tartan — the named design grouping this sett with its kin.
+Part of the [Oakley](/tartans/o/oa/oakley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

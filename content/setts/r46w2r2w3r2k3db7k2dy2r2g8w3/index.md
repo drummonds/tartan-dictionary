@@ -6,6 +6,8 @@ This is the **Lions' Pride** sett — one scale-free proportion (`r46w2r2w3r2k3d
 [RWRWRKBKGRGW](/stripes/rwrwrkbkgrgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [British Lions](/tartans/b/br/british-lions/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

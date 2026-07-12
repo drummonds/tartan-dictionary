@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Fuller of Hopewell tartan and all its setts →](/tartans/fuller-of-hopewell/)
+[See the Fuller of Hopewell tartan and all its setts →](/tartans/f/fu/fuller-of-hopewell/)
 

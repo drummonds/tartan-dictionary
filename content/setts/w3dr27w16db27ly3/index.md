@@ -6,6 +6,8 @@ This is the **Common Ground Dress (Fashion)** sett — one scale-free proportion
 [WBWBY](/stripes/wbwby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Common Ground Dress](/tartans/c/co/common-ground-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

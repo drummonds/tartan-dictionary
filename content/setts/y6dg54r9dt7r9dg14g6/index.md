@@ -6,6 +6,8 @@ This is the **Tulloch Homes** sett — one scale-free proportion (`y6dg54r9dt7r9
 [GGRBRGG](/stripes/ggrbrgg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Tulloch Homes](/tartans/t/tu/tulloch-homes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

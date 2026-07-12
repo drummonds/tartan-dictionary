@@ -6,6 +6,8 @@ This is the **Afternoon Tea / Mint Tea** sett — one scale-free proportion (`w1
 [WYBWBY](/stripes/wybwby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Afternoon Tea / Mint Tea](/tartans/a/af/afternoon-tea-mint-tea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

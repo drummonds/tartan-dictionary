@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Hunting"
+  url: "/tartans/m/ma/manx-hunting/"
+- name: "Manx Hunting"
   url: "/setts/db38n1o11n1w4n1y4n1dg20n1lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db38n1o11n1w4n1y4n1dg20n1lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBWBGBGBW](/stripes/bbrbwbgbgbw/).
+
+Part of the [Manx Hunting](/tartans/m/ma/manx-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -21,17 +21,19 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Appin Dress tartan and all its setts →](/tartans/stewart-of-appin-dress-2/)
+[See the Stewart of Appin Dress tartan and all its setts →](/tartans/s/st/stewart-of-appin-dress-2/)
 
 ### Stewart of Appin 1
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g8r3g3r5g26db7lb3db28r3db6/">Stewart of Appin 1</a> ★</td><td><code>G/16 R6 G6 R10 G52 DB14 LB6 DB56 R6 DB/12</code></td><td>340</td><td>~2002</td></tr>
+<tr><td><a href="/setts/g8r3g3r5g26db7lb3db28r3db6/">Stewart of Appin 1</a></td><td><code>G/16 R6 G6 R10 G52 DB14 LB6 DB56 R6 DB/12</code></td><td>340</td><td>~2002</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g8r3g3r5g26db7lb3db28r3db6/"><img src="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/sett.png" alt="Stewart of Appin 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Appin 1 tartan and all its setts →](/tartans/s/st/stewart-of-appin-1/)
 
 ### Stewart of Appin
 
@@ -45,17 +47,19 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Appin tartan and all its setts →](/tartans/stewart-of-appin/)
+[See the Stewart of Appin tartan and all its setts →](/tartans/s/st/stewart-of-appin/)
 
 ### Stewart of Appin Htg Dress
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db8dr3db36lb3do10w34dr4w3dr3w8/">Stewart of Appin Htg Dress</a> ★</td><td><code>DB/16 DR6 DB72 LB6 DO20 W68 DR8 W6 DR6 W/16</code></td><td>416</td><td>~1986</td></tr>
+<tr><td><a href="/setts/db8dr3db36lb3do10w34dr4w3dr3w8/">Stewart of Appin Htg Dress</a></td><td><code>DB/16 DR6 DB72 LB6 DO20 W68 DR8 W6 DR6 W/16</code></td><td>416</td><td>~1986</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db8dr3db36lb3do10w34dr4w3dr3w8/"><img src="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/sett.png" alt="Stewart of Appin Htg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Appin Htg Dress tartan and all its setts →](/tartans/s/st/stewart-of-appin-htg-dress/)
 
 ### Stewart of Appin Hunting
 
@@ -71,35 +75,41 @@ A family of [Clan Stewart](/clan/stewart/).
 </tbody>
 </table>
 
-[See the Stewart of Appin Hunting tartan and all its setts →](/tartans/stewart-of-appin-hunting/)
+[See the Stewart of Appin Hunting tartan and all its setts →](/tartans/s/st/stewart-of-appin-hunting/)
 
 ### Stewart of Appin 2
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g11r4g4r7g41db11lb4db41r4db8/">Stewart of Appin 2</a> ★</td><td><code>G/11 R4 G4 R7 G41 DB11 LB4 DB41 R4 DB/8</code></td><td>251</td><td>—</td></tr>
+<tr><td><a href="/setts/g11r4g4r7g41db11lb4db41r4db8/">Stewart of Appin 2</a></td><td><code>G/11 R4 G4 R7 G41 DB11 LB4 DB41 R4 DB/8</code></td><td>251</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/g11r4g4r7g41db11lb4db41r4db8/"><img src="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/sett.png" alt="Stewart of Appin 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Appin 2 tartan and all its setts →](/tartans/s/st/stewart-of-appin-2/)
 
 ### Stewart of Appin 3
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2/">Stewart of Appin 3</a> ★</td><td><code>R/6 K4 LB4 R4 G38 R6 G4 R4 DB12 R4 G4 R42 K4 LB4 R4 G/4</code></td><td>286</td><td>—</td></tr>
+<tr><td><a href="/setts/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2/">Stewart of Appin 3</a></td><td><code>R/6 K4 LB4 R4 G38 R6 G4 R4 DB12 R4 G4 R42 K4 LB4 R4 G/4</code></td><td>286</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2/"><img src="/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/sett.png" alt="Stewart of Appin 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Appin 3 tartan and all its setts →](/tartans/s/st/stewart-of-appin-3/)
 
 ### Stewart of Appin 5
 
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1/">Stewart of Appin 5</a> ★</td><td><code>R/6 G2 R4 G2 R36 K8 Y2 K4 W2 DB8 G12 R6 K2 R4 W/2</code></td><td>192</td><td>—</td></tr>
+<tr><td><a href="/setts/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1/">Stewart of Appin 5</a></td><td><code>R/6 G2 R4 G2 R36 K8 Y2 K4 W2 DB8 G12 R6 K2 R4 W/2</code></td><td>192</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1/"><img src="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Appin 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Stewart of Appin 5 tartan and all its setts →](/tartans/s/st/stewart-of-appin-5/)
 

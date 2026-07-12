@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cape Breton University"
+  url: "/tartans/c/ca/cape-breton-university/"
+- name: "Cape Breton University"
   url: "/setts/db4r17db4g4db2g4db4g27db4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4r17db4g4db2g4db4g27db4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGBGBY](/stripes/brbgbgbgby/).
+
+Part of the [Cape Breton University](/tartans/c/ca/cape-breton-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

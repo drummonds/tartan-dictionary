@@ -6,6 +6,8 @@ This is the **Martin Hunting** sett — one scale-free proportion (`dp20dt5k19g1
 [BBKGG](/stripes/bbkgg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Martin Hunting](/tartans/m/ma/martin-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

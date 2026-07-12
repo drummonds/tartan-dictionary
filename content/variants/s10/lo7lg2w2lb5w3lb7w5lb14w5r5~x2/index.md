@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Peter"
   url: "/clan/peter/"
 - name: "Peter Rabbit™"
-  url: "/tartans/peter-rabbit/"
+  url: "/tartans/p/pe/peter-rabbit/"
 - name: "Peter Rabbit™"
   url: "/setts/lo7lg2w2lb5w3lb7w5lb14w5r5/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lo7lg2w2lb5w3lb7w5lb14w5r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWWWWWWWYY](/stripes/rwwwwwwwyy/).
 
-Part of the [Peter Rabbit™](/tartans/peter-rabbit/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Peter Rabbit™](/tartans/p/pe/peter-rabbit/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

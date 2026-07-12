@@ -6,6 +6,8 @@ This is the **Westgaard Htg (Personal)** sett — one scale-free proportion (`dr
 [BGBBGKGBBYKY](/stripes/bgbbgkgbbyky/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Westgaard Hunting](/tartans/w/we/westgaard-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pride, The Tartan of** sett — one scale-free proportion (`r8lo4y
 [BWGGYR](/stripes/bwggyr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Pride, The Tartan of](/tartans/p/pr/pride-the-tartan-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

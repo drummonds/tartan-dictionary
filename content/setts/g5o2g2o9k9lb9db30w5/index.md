@@ -6,7 +6,7 @@ This is the **Alexander of Menstry (Personal)** sett — one scale-free proporti
 [GRGRKWBW](/stripes/grgrkwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Alexander of Menstry](/tartans/alexander-of-menstry/) tartan — the named design grouping this sett with its kin.
+Part of the [Alexander of Menstry](/tartans/a/al/alexander-of-menstry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

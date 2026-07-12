@@ -6,6 +6,8 @@ This is the **Cape Breton University** sett — one scale-free proportion (`db4r
 [BRBGBGBGBY](/stripes/brbgbgbgby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cape Breton University](/tartans/c/ca/cape-breton-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

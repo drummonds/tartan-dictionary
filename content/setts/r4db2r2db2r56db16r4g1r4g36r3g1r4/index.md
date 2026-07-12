@@ -7,6 +7,8 @@ This is the **Grant VS** sett — one scale-free proportion (`r4db2r2db2r56db16r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Grant VS](/tartans/g/gr/grant-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

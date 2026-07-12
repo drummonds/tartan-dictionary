@@ -6,6 +6,8 @@ This is the **Chicago, University of..** sett — one scale-free proportion (`b3
 [BKBKBKBRBKBKBKBW](/stripes/bkbkbkbrbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Chicago, University of..](/tartans/c/ch/chicago-university-of-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

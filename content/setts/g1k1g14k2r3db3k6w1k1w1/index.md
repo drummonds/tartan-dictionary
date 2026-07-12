@@ -6,6 +6,8 @@ This is the **Murray-Hetherington (Personal)** sett — one scale-free proportio
 [GKGKRBKWKW](/stripes/gkgkrbkwkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Murray-Hetherington](/tartans/m/mu/murray-hetherington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

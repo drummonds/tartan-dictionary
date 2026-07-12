@@ -6,7 +6,7 @@ This is the **Copar a'Beannichte Dress (Personal)** sett — one scale-free prop
 [GGWBWBBBR](/stripes/ggwbwbbbr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Copar a'Beannichte Dress](/tartans/copar-a-beannichte-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Copar a'Beannichte Dress](/tartans/c/co/copar-a-beannichte-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

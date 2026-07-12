@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thomson"
+  url: "/tartans/t/th/thomson-2/"
 - name: "Thom(p)son"
   url: "/setts/r1k1w2k2w2k1w4k1db9y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k1w2k2w2k1w4k1db9y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKWKWKWKR](/stripes/gbkwkwkwkr/).
+
+Part of the [Thomson](/tartans/t/th/thomson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

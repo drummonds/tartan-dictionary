@@ -7,6 +7,8 @@ This is the **Storrie** sett — one scale-free proportion (`g20k1n1k1g20k10n2k2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Storrie](/tartans/s/st/storrie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

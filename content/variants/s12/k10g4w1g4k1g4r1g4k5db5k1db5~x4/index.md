@@ -10,7 +10,7 @@ crumbs:
 - name: "Lloyd of Dolobran"
   url: "/families/lloyd-of-dolobran/"
 - name: "Lloyd of Dolobran"
-  url: "/tartans/lloyd-of-dolobran/"
+  url: "/tartans/l/ll/lloyd-of-dolobran/"
 - name: "Lloyd of Dolobran (Personal)"
   url: "/setts/k10g4w1g4k1g4r1g4k5db5k1db5/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k10g4w1g4k1g4r1g4k5db5k1db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/).
 
-Part of the [Lloyd of Dolobran](/tartans/lloyd-of-dolobran/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lloyd of Dolobran](/tartans/l/ll/lloyd-of-dolobran/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

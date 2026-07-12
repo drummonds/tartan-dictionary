@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Lorient"
-  url: "/tartans/pride-of-lorient/"
+  url: "/tartans/p/pr/pride-of-lorient/"
 - name: "Pride of Lorient (Fashion)"
   url: "/setts/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBWBWBBBBBBBBW](/stripes/rwbwbwbwbbbbbbbbw/).
 
-Part of the [Pride of Lorient](/tartans/pride-of-lorient/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pride of Lorient](/tartans/p/pr/pride-of-lorient/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

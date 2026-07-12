@@ -6,6 +6,8 @@ This is the **MacIsaac (Name?)** sett — one scale-free proportion (`n20k2n2k2n
 [BKBKBKGYGKBKY](/stripes/bkbkbkgygkbky/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [MacIsaac](/tartans/m/ma/macisaac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

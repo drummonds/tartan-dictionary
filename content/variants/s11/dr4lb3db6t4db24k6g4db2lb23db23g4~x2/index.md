@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Millennium"
+  url: "/tartans/n/ne/new-millennium/"
+- name: "New Millennium"
   url: "/setts/dr4lb3db6t4db24k6g4db2lb23db23g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4lb3db6t4db24k6g4db2lb23db23g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBKGBWBG](/stripes/bwbbbkgbwbg/).
+
+Part of the [New Millennium](/tartans/n/ne/new-millennium/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

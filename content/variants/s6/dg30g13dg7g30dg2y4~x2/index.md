@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacSporran Rejected design"
+  url: "/tartans/m/ma/macsporran-rejected-design/"
+- name: "MacSporran Rejected design"
   url: "/setts/dg30g13dg7g30dg2y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg30g13dg7g30dg2y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGG](/stripes/gggggg/).
+
+Part of the [MacSporran Rejected design](/tartans/m/ma/macsporran-rejected-design/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

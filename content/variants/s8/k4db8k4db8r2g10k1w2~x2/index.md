@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKean"
+  url: "/tartans/m/ma/mackean/"
 - name: "MacKean Green (Personal)"
   url: "/setts/k4db8k4db8r2g10k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4db8k4db8r2g10k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBRGKW](/stripes/kbkbrgkw/).
+
+Part of the [MacKean](/tartans/m/ma/mackean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

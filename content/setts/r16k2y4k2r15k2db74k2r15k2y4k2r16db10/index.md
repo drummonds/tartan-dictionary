@@ -6,6 +6,8 @@ This is the **Salvation Army Dress** sett — one scale-free proportion (`r16k2y
 [BRKGKRKBKRKGKR](/stripes/brkgkrkbkrkgkr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Salvation Army Dress](/tartans/s/sa/salvation-army-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

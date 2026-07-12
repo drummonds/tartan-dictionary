@@ -6,6 +6,8 @@ This is the **Order of Saint Lazarus** sett — one scale-free proportion (`g9w9
 [GBGGGKWKWG](/stripes/gbgggkwkwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Order of Saint Lazarus](/tartans/o/or/order-of-saint-lazarus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

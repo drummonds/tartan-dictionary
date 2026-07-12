@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified No 158 Silk Fragment"
+  url: "/tartans/u/un/unidentified-no-158-silk-fragment/"
+- name: "Unidentified No 158 Silk Fragment"
   url: "/setts/db8k1r4k1r4k1r4k1g8k1y1r1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k1r4k1r4k1r4k1g8k1y1r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKRKGKGRW](/stripes/bkrkrkrkgkgrw/).
+
+Part of the [Unidentified No 158 Silk Fragment](/tartans/u/un/unidentified-no-158-silk-fragment/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

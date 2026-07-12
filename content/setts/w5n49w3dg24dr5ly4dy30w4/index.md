@@ -6,6 +6,8 @@ This is the **State Seal of New Mexico (Fashion)** sett — one scale-free propo
 [WBWGBYGW](/stripes/wbwgbygw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of New Mexico](/tartans/s/st/state-seal-of-new-mexico/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

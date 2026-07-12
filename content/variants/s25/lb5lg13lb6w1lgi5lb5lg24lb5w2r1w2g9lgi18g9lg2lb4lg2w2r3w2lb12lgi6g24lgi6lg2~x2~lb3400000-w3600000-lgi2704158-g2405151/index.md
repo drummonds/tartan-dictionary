@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Morddyn"
+  url: "/tartans/m/mo/morddyn/"
 - name: "Morddyn (Fashion)"
   url: "/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
+
+Part of the [Morddyn](/tartans/m/mo/morddyn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 

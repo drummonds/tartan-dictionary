@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ross"
+  url: "/clan/ross/"
+- name: "Ross 2"
+  url: "/tartans/r/ro/ross-2/"
 - name: "Ross #8"
   url: "/setts/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRGRGRGRGRGRBRBRBRGR](/stripes/rbrbrbrgrgrgrgrgrbrbrbrgr/).
+
+Part of the [Ross 2](/tartans/r/ro/ross-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

@@ -6,6 +6,8 @@ This is the **McLeod-Bain (Personal)** sett — one scale-free proportion (`k4m4
 [KRKRKRKRW](/stripes/krkrkrkrw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [McLeod-Bain](/tartans/m/mc/mcleod-bain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

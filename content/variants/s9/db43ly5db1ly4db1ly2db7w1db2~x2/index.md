@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of Delaware"
+  url: "/tartans/u/un/university-of-delaware/"
 - name: "University of Delaware (Corporate)"
   url: "/setts/db43ly5db1ly4db1ly2db7w1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db43ly5db1ly4db1ly2db7w1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBYBYB](/stripes/bwbybybyb/).
+
+Part of the [University of Delaware](/tartans/u/un/university-of-delaware/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

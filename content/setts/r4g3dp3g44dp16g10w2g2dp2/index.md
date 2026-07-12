@@ -6,6 +6,8 @@ This is the **Glenfeshie (Personal)** sett — one scale-free proportion (`r4g3d
 [BGWGBGBGR](/stripes/bgwgbgbgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Glenfeshie](/tartans/g/gl/glenfeshie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

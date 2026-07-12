@@ -6,7 +6,7 @@ This is the **Essex, County Ontario** sett — one scale-free proportion (`y30k1
 [GKRKBGGWRW](/stripes/gkrkbggwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Essex, County Ontario](/tartans/essex-county-ontario/) tartan — the named design grouping this sett with its kin.
+Part of the [Essex, County Ontario](/tartans/e/es/essex-county-ontario/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

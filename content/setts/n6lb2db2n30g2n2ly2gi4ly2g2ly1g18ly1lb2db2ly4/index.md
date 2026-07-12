@@ -6,6 +6,8 @@ This is the **All Irish Blue Irish District Tartan** sett — one scale-free pro
 [BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW](/stripes/bwbbgbygygygywbybwygygygybgbbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [All Irish](/tartans/a/al/all-irish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

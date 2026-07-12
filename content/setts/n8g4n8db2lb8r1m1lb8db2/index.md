@@ -6,6 +6,8 @@ This is the **Cole-Dale (Personal)** sett — one scale-free proportion (`n8g4n8
 [BGBBWRRWB](/stripes/bgbbwrrwb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Cole-Dale](/tartans/c/co/cole-dale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

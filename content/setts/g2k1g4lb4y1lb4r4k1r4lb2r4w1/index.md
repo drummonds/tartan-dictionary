@@ -6,6 +6,8 @@ This is the **British Columbia District Tartan** sett — one scale-free proport
 [GKGWGWRKRWRW](/stripes/gkgwgwrkrwrw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [British Columbia](/tartans/b/br/british-columbia-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

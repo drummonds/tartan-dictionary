@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shire of Hornwood"
-  url: "/tartans/shire-of-hornwood/"
+  url: "/tartans/s/sh/shire-of-hornwood/"
 - name: "Shire of Hornwood (USA)"
   url: "/setts/r18y3r18y30k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r18y3r18y30k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGR](/stripes/kgrgr/).
 
-Part of the [Shire of Hornwood](/tartans/shire-of-hornwood/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shire of Hornwood](/tartans/s/sh/shire-of-hornwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "First Command Fin. Planning"
+  url: "/tartans/f/fi/first-command-fin-planning/"
 - name: "First Command Fin. Planning (Corp)"
   url: "/setts/g16lb2g4t4g4lb2g6db12dr2db20y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g16lb2g4t4g4lb2g6db12dr2db20y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBGWGBGWG](/stripes/gbbbgwgbgwg/).
+
+Part of the [First Command Fin. Planning](/tartans/f/fi/first-command-fin-planning/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

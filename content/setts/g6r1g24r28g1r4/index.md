@@ -6,7 +6,7 @@ This is the **Erskine (Green & Red) Clan Tartan** sett — one scale-free propor
 [GRGRGR](/stripes/grgrgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Erskine](/tartans/erskine-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Erskine](/tartans/e/er/erskine-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

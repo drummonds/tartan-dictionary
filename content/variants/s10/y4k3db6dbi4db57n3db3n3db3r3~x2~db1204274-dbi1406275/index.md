@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. Law Enforcement"
+  url: "/tartans/u/u/u-s-law-enforcement/"
+- name: "U.S. Law Enforcement"
   url: "/setts/y4k3db6dbi4db57n3db3n3db3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k3db6dbi4db57n3db3n3db3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBBBBBBR](/stripes/gkbbbbbbbr/).
+
+Part of the [U.S. Law Enforcement](/tartans/u/u/u-s-law-enforcement/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

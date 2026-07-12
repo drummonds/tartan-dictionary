@@ -6,7 +6,7 @@ This is the **Banff Centennial** sett — one scale-free proportion (`k1t1k1t12g
 [KBKBGKGY](/stripes/kbkbgkgy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Banff Centennial](/tartans/banff-centennial/) tartan — the named design grouping this sett with its kin.
+Part of the [Banff Centennial](/tartans/b/ba/banff-centennial/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

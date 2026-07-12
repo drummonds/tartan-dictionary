@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Kerr"
   url: "/clan/kerr/"
 - name: "Kerr"
-  url: "/tartans/kerr/"
+  url: "/tartans/k/ke/kerr/"
 - name: "Kerr"
   url: "/setts/g20k1g2k1g3k14r28k1r2k4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g20k1g2k1g3k14r28k1r2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRKRK](/stripes/gkgkgkrkrk/).
 
-Part of the [Kerr](/tartans/kerr/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kerr](/tartans/k/ke/kerr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

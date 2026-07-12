@@ -6,7 +6,7 @@ This is the **Ebronen (Personal)** sett — one scale-free proportion (`dyi2dr30
 [GBGGGGGGGGGGYGGGGGGG](/stripes/gbggggggggggyggggggg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Ebronen](/tartans/ebronen/) tartan — the named design grouping this sett with its kin.
+Part of the [Ebronen](/tartans/e/eb/ebronen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

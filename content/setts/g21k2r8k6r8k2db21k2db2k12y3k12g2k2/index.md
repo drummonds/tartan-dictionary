@@ -6,7 +6,7 @@ This is the **Deas Clan Tartan** sett — one scale-free proportion (`g21k2r8k6r
 [GKRKRKBKBKGKGK](/stripes/gkrkrkbkbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Deas](/tartans/deas/) tartan — the named design grouping this sett with its kin.
+Part of the [Deas](/tartans/d/de/deas/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

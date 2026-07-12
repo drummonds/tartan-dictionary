@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wild Mustard Dreams"
+  url: "/tartans/w/wi/wild-mustard-dreams-2/"
+- name: "Wild Mustard Dreams"
   url: "/setts/lo17y17o17g26db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo17y17o17g26db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGY](/stripes/bgrgy/).
+
+Part of the [Wild Mustard Dreams](/tartans/w/wi/wild-mustard-dreams-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

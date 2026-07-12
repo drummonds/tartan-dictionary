@@ -6,6 +6,8 @@ This is the **Genesee Community College** sett — one scale-free proportion (`d
 [BWBG](/stripes/bwbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Genesee Community College](/tartans/g/ge/genesee-community-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

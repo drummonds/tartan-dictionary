@@ -6,6 +6,8 @@ This is the **Barbour - Ancient** sett — one scale-free proportion (`w4k2w18k1
 [WKWKBGY](/stripes/wkwkbgy/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Barbour](/tartans/b/ba/barbour/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

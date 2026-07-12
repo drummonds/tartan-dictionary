@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
+- name: "Stirling Weavers Guild"
+  url: "/tartans/s/st/stirling-weavers-guild/"
 - name: "Stirling Weavers Guild Artifact Tartan"
   url: "/setts/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRBGRBRGBRGRBGR](/stripes/gwgrbgrbrgbrgrbgr/).
+
+Part of the [Stirling Weavers Guild](/tartans/s/st/stirling-weavers-guild/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 

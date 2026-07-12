@@ -6,6 +6,8 @@ This is the **Barton-Watson de Bavidge (Personal)** sett — one scale-free prop
 [BGKKGRKB](/stripes/bgkkgrkb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Barton-Watson de Bavidge](/tartans/b/ba/barton-watson-de-bavidge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

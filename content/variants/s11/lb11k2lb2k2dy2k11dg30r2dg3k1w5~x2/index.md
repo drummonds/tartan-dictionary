@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Labrador"
-  url: "/tartans/labrador/"
+  url: "/tartans/l/la/labrador/"
 - name: "Labrador"
   url: "/setts/lb11k2lb2k2dy2k11dg30r2dg3k1w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb11k2lb2k2dy2k11dg30r2dg3k1w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGRGKGKWKW](/stripes/wkgrgkgkwkw/).
 
-Part of the [Labrador](/tartans/labrador/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Labrador](/tartans/l/la/labrador/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

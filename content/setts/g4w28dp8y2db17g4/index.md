@@ -6,7 +6,7 @@ This is the **Manx Dress District Tartan** sett — one scale-free proportion (`
 [GBGBWG](/stripes/gbgbwg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Manx Dress](/tartans/manx-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx Dress](/tartans/m/ma/manx-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

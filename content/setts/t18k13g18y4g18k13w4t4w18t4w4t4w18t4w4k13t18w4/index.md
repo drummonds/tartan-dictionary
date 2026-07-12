@@ -6,7 +6,7 @@ This is the **MacNeil Dress** sett — one scale-free proportion (`t18k13g18y4g1
 [BKGGGKWBWBWBWBWKBW](/stripes/bkgggkwbwbwbwbwkbw/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [MacNeil Dress](/tartans/macneil-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil Dress](/tartans/m/ma/macneil-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

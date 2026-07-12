@@ -6,6 +6,8 @@ This is the **Wallace Dress** sett — one scale-free proportion (`k7w6k1w6`), c
 [KWKWKW](/stripes/kwkwkw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Wallace Dress](/tartans/w/wa/wallace-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

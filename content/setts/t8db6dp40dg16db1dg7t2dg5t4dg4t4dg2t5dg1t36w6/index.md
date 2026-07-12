@@ -6,7 +6,7 @@ This is the **Bell-McTier Thistle (Personal)** sett — one scale-free proportio
 [BBBGBGBGBGBGBGBW](/stripes/bbbgbgbgbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Bell-McTier Thistle](/tartans/bell-mctier-thistle/) tartan — the named design grouping this sett with its kin.
+Part of the [Bell-McTier Thistle](/tartans/b/be/bell-mctier-thistle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

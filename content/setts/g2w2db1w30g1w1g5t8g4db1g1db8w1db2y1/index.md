@@ -6,6 +6,8 @@ This is the **Borderland Dress (Estimated threadcount)** sett — one scale-free
 [GBWBGBGBGWGWBWG](/stripes/gbwbgbgbgwgwbwg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Borderland Dress](/tartans/b/bo/borderland-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

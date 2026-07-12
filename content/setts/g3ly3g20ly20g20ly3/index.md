@@ -6,6 +6,8 @@ This is the **Barbie's Moss Plaid (Yellow & Green)** sett — one scale-free pro
 [GYGYGY](/stripes/gygygy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Barbie's Moss](/tartans/b/ba/barbie-s-moss/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

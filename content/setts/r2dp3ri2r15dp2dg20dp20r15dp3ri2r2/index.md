@@ -6,7 +6,7 @@ This is the **Drumlithie - 1790 (Fashion)** sett — one scale-free proportion (
 [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Drumlithie](/tartans/drumlithie/) tartan — the named design grouping this sett with its kin.
+Part of the [Drumlithie](/tartans/d/dr/drumlithie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

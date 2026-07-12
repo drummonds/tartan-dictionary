@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Driver"
+  url: "/tartans/d/dr/driver/"
 - name: "Driver, RC"
   url: "/setts/g11w11k3y3dg36lo7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g11w11k3y3dg36lo7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGGY](/stripes/gwkggy/).
+
+Part of the [Driver](/tartans/d/dr/driver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

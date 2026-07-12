@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aubigny, Auld Alliance"
+  url: "/tartans/a/au/aubigny-auld-alliance-2/"
+- name: "Aubigny, Auld Alliance"
   url: "/setts/y20k2y3k2y4k9r18k2r5k2r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y20k2y3k2y4k9r18k2r5k2r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRKRKR](/stripes/gkgkgkrkrkr/).
+
+Part of the [Aubigny, Auld Alliance](/tartans/a/au/aubigny-auld-alliance-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

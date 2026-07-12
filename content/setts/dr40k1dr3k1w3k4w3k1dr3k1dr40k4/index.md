@@ -6,7 +6,7 @@ This is the **Salt Lake County District Tartan** sett — one scale-free proport
 [BKBKWKWKBKBK](/stripes/bkbkwkwkbkbk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Salt Lake County](/tartans/salt-lake-county-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Salt Lake County](/tartans/s/sa/salt-lake-county-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

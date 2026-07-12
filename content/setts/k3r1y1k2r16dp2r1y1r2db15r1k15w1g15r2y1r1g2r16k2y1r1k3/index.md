@@ -6,6 +6,8 @@ This is the **Hay, or Leith** sett — one scale-free proportion (`k3r1y1k2r16dp
 [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hay, or Leith](/tartans/h/ha/hay-or-leith-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

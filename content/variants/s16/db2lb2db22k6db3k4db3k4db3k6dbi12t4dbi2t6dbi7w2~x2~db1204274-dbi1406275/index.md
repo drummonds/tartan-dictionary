@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "World Corporate Golf Challenge (Corp"
+  url: "/tartans/w/wo/world-corporate-golf-challenge-corp/"
+- name: "World Corporate Golf Challenge (Corp"
   url: "/setts/db2lb2db22k6db3k4db3k4db3k6dbi12t4dbi2t6dbi7w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2lb2db22k6db3k4db3k4db3k6dbi12t4dbi2t6dbi7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKBKBBBBBW](/stripes/bwbkbkbkbkbbbbbw/).
+
+Part of the [World Corporate Golf Challenge (Corp](/tartans/w/wo/world-corporate-golf-challenge-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

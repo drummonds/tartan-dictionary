@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotland the Brave Dress"
+  url: "/tartans/s/sc/scotland-the-brave-dress/"
 - name: "Scotland the Brave Dress (Dance)"
   url: "/setts/w3k1w20dp1db6g6o3g1o1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3k1w20dp1db6g6o3g1o1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBBGRGRGRGRGBBWKW](/stripes/kwbbgrgrgrgrgbbwkw/).
+
+Part of the [Scotland the Brave Dress](/tartans/s/sc/scotland-the-brave-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

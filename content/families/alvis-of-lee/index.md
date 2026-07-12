@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Alvis of Lee tartan and all its setts →](/tartans/alvis-of-lee/)
+[See the Alvis of Lee tartan and all its setts →](/tartans/a/al/alvis-of-lee/)
 

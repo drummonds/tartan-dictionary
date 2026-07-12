@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirkcaldy"
-  url: "/tartans/kirkcaldy/"
+  url: "/tartans/k/ki/kirkcaldy/"
 - name: "Kirkcaldy"
   url: "/setts/lb23w3k10r2db45y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb23w3k10r2db45y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKWW](/stripes/gbrkww/).
 
-Part of the [Kirkcaldy](/tartans/kirkcaldy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kirkcaldy](/tartans/k/ki/kirkcaldy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

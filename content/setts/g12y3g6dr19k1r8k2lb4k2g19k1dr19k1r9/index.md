@@ -7,7 +7,7 @@ This is the **Golden Broom** sett — one scale-free proportion (`g12y3g6dr19k1r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
-Part of the [Golden Broom](/tartans/golden-broom/) tartan — the named design grouping this sett with its kin.
+Part of the [Golden Broom](/tartans/g/go/golden-broom/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

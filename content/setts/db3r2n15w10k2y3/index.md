@@ -6,6 +6,8 @@ This is the **SCH '67 Class** sett — one scale-free proportion (`db3r2n15w10k2
 [BRBWKG](/stripes/brbwkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [SCH '67 Class](/tartans/s/sc/sch-67-class/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

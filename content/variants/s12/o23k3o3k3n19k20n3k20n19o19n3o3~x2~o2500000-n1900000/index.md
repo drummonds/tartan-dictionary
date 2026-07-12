@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Monarch of Argyll"
+  url: "/tartans/m/mo/monarch-of-argyll/"
 - name: "Monarch of Argyll (Corporate)"
   url: "/setts/o23k3o3k3n19k20n3k20n19o19n3o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o23k3o3k3n19k20n3k20n19o19n3o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKBKBKRKR](/stripes/rbrbkbkbkrkr/).
+
+Part of the [Monarch of Argyll](/tartans/m/mo/monarch-of-argyll/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

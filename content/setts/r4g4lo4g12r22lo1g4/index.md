@@ -6,6 +6,8 @@ This is the **Spice Apple** sett — one scale-free proportion (`r4g4lo4g12r22lo
 [GYRGYGR](/stripes/gyrgygr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Spice Apple](/tartans/s/sp/spice-apple/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

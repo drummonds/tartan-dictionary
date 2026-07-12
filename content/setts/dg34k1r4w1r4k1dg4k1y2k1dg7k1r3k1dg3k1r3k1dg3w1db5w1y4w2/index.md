@@ -6,7 +6,7 @@ This is the **MacMaster (USA) #2** sett — one scale-free proportion (`dg34k1r4
 [GKRWRKGKGKGKRKGKRKGWBWGW](/stripes/gkrwrkgkgkgkrkgkrkgwbwgw/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [MacMaster](/tartans/macmaster/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMaster](/tartans/m/ma/macmaster/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Blairmore** sett — one scale-free proportion (`db34w5db5r5db5do2
 [BWBRBBGR](/stripes/bwbrbbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Blairmore](/tartans/b/bl/blairmore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hogeboom"
+  url: "/tartans/h/ho/hogeboom-2/"
 - name: "Hogeboom (Personal)"
   url: "/setts/lb4g3lb9db14ly8db2r35ri2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4g3lb9db14ly8db2r35ri2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRBYBWGW](/stripes/rrrbybwgw/).
+
+Part of the [Hogeboom](/tartans/h/ho/hogeboom-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

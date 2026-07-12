@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Norwich No.007"
+  url: "/tartans/n/no/norwich-no-007/"
+- name: "Norwich No.007"
   url: "/setts/r3k1db5k5g6k4g6k5db1k5db1k1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k1db5k5g6k4g6k5db1k5db1k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKGKGKBKBKBKBKBKGKGKBKR](/stripes/kbkgkgkbkbkbkbkbkgkgkbkr/).
+
+Part of the [Norwich No.007](/tartans/n/no/norwich-no-007/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

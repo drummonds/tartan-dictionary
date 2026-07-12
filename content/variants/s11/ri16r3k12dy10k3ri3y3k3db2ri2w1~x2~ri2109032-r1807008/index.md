@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Colville"
+  url: "/tartans/c/co/colville/"
 - name: "Colville (Personal)"
   url: "/setts/ri16r3k12dy10k3ri3y3k3db2ri2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri16r3k12dy10k3ri3y3k3db2ri2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRKGKRGKBRW](/stripes/rrkgkrgkbrw/).
+
+Part of the [Colville](/tartans/c/co/colville/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

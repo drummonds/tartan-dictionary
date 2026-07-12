@@ -6,6 +6,8 @@ This is the **Glasgow High (School)** sett — one scale-free proportion (`dy6y3
 [GGBWGGBR](/stripes/ggbwggbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Glasgow High](/tartans/g/gl/glasgow-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

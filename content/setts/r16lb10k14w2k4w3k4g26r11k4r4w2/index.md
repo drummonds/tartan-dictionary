@@ -6,6 +6,8 @@ This is the **Stewart/Stuart - Prince Charles Edward** sett — one scale-free p
 [RWKWKWKGRKRWRKRGKWKWKW](/stripes/rwkwkwkgrkrwrkrgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Stewart](/tartans/s/st/stewart-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

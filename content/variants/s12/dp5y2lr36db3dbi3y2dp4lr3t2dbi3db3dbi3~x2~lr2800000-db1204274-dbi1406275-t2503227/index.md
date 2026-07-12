@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Foundation VA Highlands"
+  url: "/tartans/s/sc/scottish-foundation-va-highlands/"
+- name: "Scottish Foundation VA Highlands"
   url: "/setts/dp5y2lr36db3dbi3y2dp4lr3t2dbi3db3dbi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp5y2lr36db3dbi3y2dp4lr3t2dbi3db3dbi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYBBGBYBBBBBBBYBGBBYG](/stripes/bgybbgbybbbbbbbybgbbyg/).
+
+Part of the [Scottish Foundation VA Highlands](/tartans/s/sc/scottish-foundation-va-highlands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

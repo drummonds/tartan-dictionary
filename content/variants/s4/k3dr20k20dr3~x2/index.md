@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Anord"
+  url: "/tartans/c/cl/clan-anord/"
 - name: "Clan Anord (Corporate)"
   url: "/setts/k3dr20k20dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dr20k20dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBK](/stripes/bkbk/).
+
+Part of the [Clan Anord](/tartans/c/cl/clan-anord/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -6,6 +6,8 @@ This is the **Blalack** sett — one scale-free proportion (`g4lg2db14lg2db2lg2d
 [GYBYBYBYKW](/stripes/gybybybykw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Blalack](/tartans/b/bl/blalack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

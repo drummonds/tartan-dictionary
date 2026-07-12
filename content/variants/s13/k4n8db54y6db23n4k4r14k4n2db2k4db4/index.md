@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Brough from Orkney"
+  url: "/tartans/b/bl/blue-brough-from-orkney/"
+- name: "Blue Brough from Orkney"
   url: "/setts/k4n8db54y6db23n4k4r14k4n2db2k4db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4n8db54y6db23n4k4r14k4n2db2k4db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKRKBBGBBK](/stripes/bkbbkrkbbgbbk/).
+
+Part of the [Blue Brough from Orkney](/tartans/b/bl/blue-brough-from-orkney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

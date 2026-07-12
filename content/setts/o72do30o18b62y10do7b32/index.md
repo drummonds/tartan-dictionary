@@ -6,6 +6,8 @@ This is the **Manhattan Ethnic** sett — one scale-free proportion (`o72do30o18
 [BBGBRBR](/stripes/bbgbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Manhattan Ethnic](/tartans/m/ma/manhattan-ethnic-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

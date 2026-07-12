@@ -6,6 +6,8 @@ This is the **Doral** sett — one scale-free proportion (`db26dg6db2dg17dy4w1dy
 [BGBGGWG](/stripes/bgbggwg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Doral](/tartans/d/do/doral/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

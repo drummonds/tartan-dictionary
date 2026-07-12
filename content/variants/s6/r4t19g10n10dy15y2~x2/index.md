@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Isle of Rona"
+  url: "/tartans/i/is/isle-of-rona/"
 - name: "Isle of Rona (District)"
   url: "/setts/r4t19g10n10dy15y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4t19g10n10dy15y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBR](/stripes/ggbgbr/).
+
+Part of the [Isle of Rona](/tartans/i/is/isle-of-rona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

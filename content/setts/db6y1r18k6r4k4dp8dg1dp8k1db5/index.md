@@ -6,6 +6,8 @@ This is the **Bute Heather, Autumn** sett — one scale-free proportion (`db6y1r
 [BGRKRKBGBKB](/stripes/bgrkrkbgbkb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Bute Heather, Autumn](/tartans/b/bu/bute-heather-autumn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

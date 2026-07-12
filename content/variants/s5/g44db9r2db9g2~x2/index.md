@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tyrconnell"
+  url: "/tartans/t/ty/tyrconnell/"
 - name: "Tyrconnell (Personal)"
   url: "/setts/g44db9r2db9g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g44db9r2db9g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBG](/stripes/gbrbg/).
+
+Part of the [Tyrconnell](/tartans/t/ty/tyrconnell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

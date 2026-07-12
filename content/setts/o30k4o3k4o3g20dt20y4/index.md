@@ -6,7 +6,7 @@ This is the **Sikh (Corporate)** sett — one scale-free proportion (`o30k4o3k4o
 [GBGRKRKR](/stripes/gbgrkrkr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Sikh](/tartans/sikh/) tartan — the named design grouping this sett with its kin.
+Part of the [Sikh](/tartans/s/si/sikh/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

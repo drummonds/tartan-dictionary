@@ -6,7 +6,7 @@ This is the **Brash** sett — one scale-free proportion (`db60r5db60dbi40db36r1
 [BRBBBRBBW](/stripes/brbbbrbbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Brash](/tartans/brash/) tartan — the named design grouping this sett with its kin.
+Part of the [Brash](/tartans/b/br/brash/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

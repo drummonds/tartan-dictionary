@@ -7,7 +7,7 @@ This is the **Lumsden Hunting (Clan)** sett — one scale-free proportion (`dg34
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
-Part of the [Lumsden Hunting](/tartans/lumsden-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Lumsden Hunting](/tartans/l/lu/lumsden-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

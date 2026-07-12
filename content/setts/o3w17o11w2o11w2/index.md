@@ -6,6 +6,8 @@ This is the **Fallow Deer, The** sett — one scale-free proportion (`o3w17o11w2
 [RWRWRW](/stripes/rwrwrw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Fallow Deer, The](/tartans/f/fa/fallow-deer-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

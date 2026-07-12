@@ -6,6 +6,8 @@ This is the **Nova Scotia Int. Tattoo (Corporate)** sett — one scale-free prop
 [BBBKGRY](/stripes/bbbkgry/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Nova Scotia International Tatoo](/tartans/n/no/nova-scotia-international-tatoo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

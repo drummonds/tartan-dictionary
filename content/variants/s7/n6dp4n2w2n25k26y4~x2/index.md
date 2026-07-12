@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New York State Troopers"
-  url: "/tartans/new-york-state-troopers/"
+  url: "/tartans/n/ne/new-york-state-troopers/"
 - name: "New York State Troopers"
   url: "/setts/n6dp4n2w2n25k26y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n6dp4n2w2n25k26y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBKG](/stripes/bbbwbkg/).
 
-Part of the [New York State Troopers](/tartans/new-york-state-troopers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [New York State Troopers](/tartans/n/ne/new-york-state-troopers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

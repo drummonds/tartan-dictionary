@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North Carolina State University"
+  url: "/tartans/n/no/north-carolina-state-university/"
 - name: "North Carolina State University"
   url: "/setts/w15n25r10w5n25w7n16k9n17k10n23r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w15n25r10w5n25w7n16k9n17k10n23r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
+
+Part of the [North Carolina State University](/tartans/n/no/north-carolina-state-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Justus Black & Gold (Persona"
+  url: "/tartans/j/ju/justus-black-gold-persona/"
 - name: "Justus Black & Gold (Angus) (Personal)"
   url: "/setts/k3ly1k8ly9k1ly1k1ly1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3ly1k8ly9k1ly1k1ly1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/).
+
+Part of the [Justus Black & Gold (Persona](/tartans/j/ju/justus-black-gold-persona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

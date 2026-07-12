@@ -6,6 +6,8 @@ This is the **Somerville Dress (Name?)** sett — one scale-free proportion (`y2
 [GRRWRGRBRRRGRBRRRW](/stripes/grrwrgrbrrrgrbrrrw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Somerville Dress](/tartans/s/so/somerville-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Crane of Cluny (Personal)** sett — one scale-free proportion (`g
 [GGKRKGKG](/stripes/ggkrkgkg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Crane of Clunie](/tartans/crane-of-clunie/) tartan — the named design grouping this sett with its kin.
+Part of the [Crane of Clunie](/tartans/c/cr/crane-of-clunie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

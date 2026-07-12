@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brough"
+  url: "/tartans/b/br/brough-2/"
 - name: "Brough (Name)"
   url: "/setts/dr18db12w2db12dg8dr3dg10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr18db12w2db12dg8dr3dg10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGBG](/stripes/bbwbgbg/).
+
+Part of the [Brough](/tartans/b/br/brough-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

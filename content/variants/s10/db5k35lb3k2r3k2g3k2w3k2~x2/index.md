@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thin Blue Line UK"
+  url: "/tartans/t/th/thin-blue-line-uk/"
+- name: "Thin Blue Line UK"
   url: "/setts/db5k35lb3k2r3k2g3k2w3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5k35lb3k2r3k2g3k2w3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKRKGKWK](/stripes/bkwkrkgkwk/).
+
+Part of the [Thin Blue Line UK](/tartans/t/th/thin-blue-line-uk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

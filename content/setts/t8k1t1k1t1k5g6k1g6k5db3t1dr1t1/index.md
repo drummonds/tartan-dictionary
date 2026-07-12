@@ -6,6 +6,8 @@ This is the **Gemmell Clan/Family Tartan** sett — one scale-free proportion (`
 [BKBKBKGKGKBBBBBBBKGKGKBKBK](/stripes/bkbkbkgkgkbbbbbbbkgkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Gemmell](/tartans/g/ge/gemmell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

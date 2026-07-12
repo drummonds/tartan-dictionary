@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hope Vere / Weir"
+  url: "/tartans/h/ho/hope-vere-weir/"
+- name: "Hope Vere / Weir"
   url: "/setts/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKBKGKGKBKBG](/stripes/bkgkbkbkgkgkbkbg/).
+
+Part of the [Hope Vere / Weir](/tartans/h/ho/hope-vere-weir/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

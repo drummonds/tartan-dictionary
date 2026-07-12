@@ -6,6 +6,8 @@ This is the **McCarter (2016)** sett — one scale-free proportion (`lo4k2dy15k2
 [RKBGKGKY](/stripes/rkbgkgky/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [McCarter](/tartans/m/mc/mccarter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dundee United Football Club** sett — one scale-free proportion (
 [KYKYWYKYWYK](/stripes/kykywykywyk/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Dundee United Football Club](/tartans/d/du/dundee-united-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

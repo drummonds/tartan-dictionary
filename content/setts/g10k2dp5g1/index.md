@@ -6,6 +6,8 @@ This is the **Bumbee #1 (Fashion)** sett — one scale-free proportion (`g10k2dp
 [GBKG](/stripes/gbkg/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Bumbee](/tartans/b/bu/bumbee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

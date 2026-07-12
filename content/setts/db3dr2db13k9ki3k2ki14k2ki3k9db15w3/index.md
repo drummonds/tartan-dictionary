@@ -6,6 +6,8 @@ This is the **McWilliams Dress (2014)** sett — one scale-free proportion (`db3
 [BBBKKKKKKKBW](/stripes/bbbkkkkkkkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [McWilliams Dress](/tartans/m/mc/mcwilliams-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

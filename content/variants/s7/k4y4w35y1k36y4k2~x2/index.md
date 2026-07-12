@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gleneagles, Hotel"
+  url: "/tartans/g/gl/gleneagles-hotel/"
+- name: "Gleneagles, Hotel"
   url: "/setts/k4y4w35y1k36y4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4y4w35y1k36y4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGWGK](/stripes/kgkgwgk/).
+
+Part of the [Gleneagles, Hotel](/tartans/g/gl/gleneagles-hotel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

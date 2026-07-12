@@ -6,6 +6,8 @@ This is the **Mitsukoshi** sett — one scale-free proportion (`n12k3w3k3w3k3n13
 [BBBBKWKWKB](/stripes/bbbbkwkwkb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Mitsukoshi](/tartans/m/mi/mitsukoshi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

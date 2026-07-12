@@ -6,6 +6,8 @@ This is the **Harmony 14** sett — one scale-free proportion (`g3n16dy11n2ly11n
 [GBGBYBYBGBW](/stripes/gbgbybybgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harmony 14](/tartans/h/ha/harmony-14/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

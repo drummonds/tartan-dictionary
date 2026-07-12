@@ -6,6 +6,8 @@ This is the **Little's Chauffeur Drive** sett — one scale-free proportion (`db
 [BBWBBW](/stripes/bbwbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Little's Chauffeur Drive](/tartans/l/li/little-s-chauffeur-drive/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

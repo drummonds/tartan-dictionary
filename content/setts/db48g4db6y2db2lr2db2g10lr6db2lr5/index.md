@@ -6,6 +6,8 @@ This is the **Damson** sett — one scale-free proportion (`db48g4db6y2db2lr2db2
 [BGBGBYBGYBY](/stripes/bgbgbybgyby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Damson](/tartans/d/da/damson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

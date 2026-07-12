@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Swansea City AFC"
+  url: "/tartans/s/sw/swansea-city-afc/"
+- name: "Swansea City AFC"
   url: "/setts/k2n2w4n6w27n15k42n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2n2w4n6w27n15k42n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBWBKBW](/stripes/kbwbwbkbw/).
+
+Part of the [Swansea City AFC](/tartans/s/sw/swansea-city-afc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

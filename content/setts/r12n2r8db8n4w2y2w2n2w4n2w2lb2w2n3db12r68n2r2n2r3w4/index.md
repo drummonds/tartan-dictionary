@@ -6,6 +6,8 @@ This is the **Glasgow Garden Festival** sett — one scale-free proportion (`r12
 [RBRBBWGWBWBWWWBBRBRBRW](/stripes/rbrbbwgwbwbwwwbbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glasgow Garden Festival](/tartans/g/gl/glasgow-garden-festival/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

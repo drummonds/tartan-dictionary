@@ -6,7 +6,7 @@ This is the **Craven County** sett — one scale-free proportion (`db46y1dy5y1g5
 [BGGGGGBGBRG](/stripes/bgggggbgbrg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Craven County](/tartans/craven-county/) tartan — the named design grouping this sett with its kin.
+Part of the [Craven County](/tartans/c/cr/craven-county/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

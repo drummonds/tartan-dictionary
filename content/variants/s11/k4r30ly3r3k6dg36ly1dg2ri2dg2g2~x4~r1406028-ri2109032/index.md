@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chelsea"
+  url: "/tartans/c/ch/chelsea/"
+- name: "Chelsea"
   url: "/setts/k4r30ly3r3k6dg36ly1dg2ri2dg2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r30ly3r3k6dg36ly1dg2ri2dg2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRGYGKRYRK](/stripes/ggrgygkryrk/).
+
+Part of the [Chelsea](/tartans/c/ch/chelsea/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

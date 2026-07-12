@@ -6,6 +6,8 @@ This is the **Strathdee (Personal)** sett — one scale-free proportion (`dg25b1
 [GBWBWBGRGR](/stripes/gbwbwbgrgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Strathdee](/tartans/s/st/strathdee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

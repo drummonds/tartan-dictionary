@@ -6,6 +6,8 @@ This is the **Dunfermline Athletic (2008) (Corp)** sett — one scale-free propo
 [KWKWKBR](/stripes/kwkwkbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Dunfermline Athletic](/tartans/d/du/dunfermline-athletic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

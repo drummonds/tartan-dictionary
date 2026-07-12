@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Halesowen"
-  url: "/tartans/halesowen/"
+  url: "/tartans/h/ha/halesowen/"
 - name: "Halesowen #2"
   url: "/setts/w9db3y3db24dbi24y2dbi2y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w9db3y3db24dbi24y2dbi2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBGBW](/stripes/gbgbbgbw/).
 
-Part of the [Halesowen](/tartans/halesowen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Halesowen](/tartans/h/ha/halesowen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

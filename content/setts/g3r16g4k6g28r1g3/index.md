@@ -6,7 +6,7 @@ This is the **Maxwell, hunting** sett — one scale-free proportion (`g3r16g4k6g
 [GRGKGRG](/stripes/grgkgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Maxwell Hunting](/tartans/maxwell-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Maxwell Hunting](/tartans/m/ma/maxwell-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Hardie Clan Tartan** sett — one scale-free proportion (`o4g9w2g2
 [RBGWGR](/stripes/rbgwgr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Hardie](/tartans/hardie/) tartan — the named design grouping this sett with its kin.
+Part of the [Hardie](/tartans/h/ha/hardie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacArthur-Fox Dress"
+  url: "/tartans/m/ma/macarthur-fox-dress-2/"
+- name: "MacArthur-Fox Dress"
   url: "/setts/lb4k2db3r33g9y3r5db10r6g2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4k2db3r33g9y3r5db10r6g2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRBRGGRBKW](/stripes/kgrbrggrbkw/).
+
+Part of the [MacArthur-Fox Dress](/tartans/m/ma/macarthur-fox-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

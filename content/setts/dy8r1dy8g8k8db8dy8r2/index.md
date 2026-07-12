@@ -6,6 +6,8 @@ This is the **MacDuff Hunting Clan Tartan** sett — one scale-free proportion (
 [GRGGKBGR](/stripes/grggkbgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [MacDuff Hunting](/tartans/m/ma/macduff-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

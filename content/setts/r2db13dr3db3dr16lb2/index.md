@@ -6,7 +6,7 @@ This is the **MacArthur-Fox Dress Personal Tartan** sett — one scale-free prop
 [RBBBBW](/stripes/rbbbbw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [MacArthur-Fox Dress](/tartans/macarthur-fox-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacArthur-Fox Dress](/tartans/m/ma/macarthur-fox-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

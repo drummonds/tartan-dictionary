@@ -7,6 +7,8 @@ This is the **Harding** sett — one scale-free proportion (`dg30dt2n7r14n7r7w1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2005**.
 
+Part of the [Harding](/tartans/h/ha/harding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

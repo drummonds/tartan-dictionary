@@ -7,6 +7,8 @@ This is the **Blue** sett — one scale-free proportion (`r2dbi11r3dbi11lb12db10
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1985**.
 
+Part of the [Blue](/tartans/b/bl/blue-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

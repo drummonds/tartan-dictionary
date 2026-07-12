@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alberta"
+  url: "/tartans/a/al/alberta-4/"
 - name: "Alberta (Commemorative)"
   url: "/setts/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK](/stripes/ggygygygygygygyggkgygygygygygygygkyk/).
+
+Part of the [Alberta](/tartans/a/al/alberta-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

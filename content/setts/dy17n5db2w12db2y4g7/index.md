@@ -6,6 +6,8 @@ This is the **Ontario Northern Canadian District Tartan** sett — one scale-fre
 [GBBWBGG](/stripes/gbbwbgg/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Ontario Northern](/tartans/o/on/ontario-northern/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

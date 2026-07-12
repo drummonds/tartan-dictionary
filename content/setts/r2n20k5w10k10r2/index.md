@@ -6,6 +6,8 @@ This is the **Thompson Grey Family Tartan** sett — one scale-free proportion (
 [RBKWKR](/stripes/rbkwkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Thompson](/tartans/t/th/thompson-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

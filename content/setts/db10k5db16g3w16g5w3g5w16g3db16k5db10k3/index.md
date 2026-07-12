@@ -6,6 +6,8 @@ This is the **Ship Hector, The** sett — one scale-free proportion (`db10k5db16
 [BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Ship Hector, The](/tartans/s/sh/ship-hector-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

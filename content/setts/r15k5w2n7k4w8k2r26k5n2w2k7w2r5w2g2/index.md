@@ -6,6 +6,8 @@ This is the **Sabrettes** sett — one scale-free proportion (`r15k5w2n7k4w8k2r2
 [KWBKWKRKBWKWRWGWRWKWBKRKWKBWKR](/stripes/kwbkwkrkbwkwrwgwrwkwbkrkwkbwkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Sabrettes](/tartans/s/sa/sabrettes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

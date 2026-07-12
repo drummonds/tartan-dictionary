@@ -6,7 +6,7 @@ This is the **Rourke-Frew (Ontario)** sett — one scale-free proportion (`db6k3
 [BKRKRKGKGKG](/stripes/bkrkrkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Rourke-Frew](/tartans/rourke-frew/) tartan — the named design grouping this sett with its kin.
+Part of the [Rourke-Frew](/tartans/r/ro/rourke-frew/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

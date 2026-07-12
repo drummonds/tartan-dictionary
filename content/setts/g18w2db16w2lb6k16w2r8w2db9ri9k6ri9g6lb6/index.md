@@ -7,6 +7,8 @@ This is the **Gordon Red** sett — one scale-free proportion (`g18w2db16w2lb6k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Gordon](/tartans/g/go/gordon-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

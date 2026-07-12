@@ -6,6 +6,8 @@ This is the **Clayton Dress (Dance)** sett — one scale-free proportion (`w8dr1
 [KWBWBW](/stripes/kwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Clayton Dress](/tartans/c/cl/clayton-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

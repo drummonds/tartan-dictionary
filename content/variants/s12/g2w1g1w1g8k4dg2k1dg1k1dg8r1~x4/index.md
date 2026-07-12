@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotch House"
+  url: "/tartans/s/sc/scotch-house/"
 - name: "Scotch House (Fashion)"
   url: "/setts/g2w1g1w1g8k4dg2k1dg1k1dg8r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2w1g1w1g8k4dg2k1dg1k1dg8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGKGKGKGR](/stripes/gwgwgkgkgkgr/).
+
+Part of the [Scotch House](/tartans/s/sc/scotch-house/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

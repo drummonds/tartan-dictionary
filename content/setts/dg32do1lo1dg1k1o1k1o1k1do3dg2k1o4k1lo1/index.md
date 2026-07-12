@@ -6,6 +6,8 @@ This is the **Anderson Green** sett — one scale-free proportion (`dg32do1lo1dg
 [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anderson](/tartans/a/an/anderson-15/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dundonald** sett — one scale-free proportion (`db25r3db3r2db4r2d
 [BRBRBRBRBKRBRBG](/stripes/brbrbrbrbkrbrbg/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Dundonald](/tartans/d/du/dundonald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Holland, Tartan of** sett — one scale-free proportion (`dbi15w2d
 [BWBBBBRBRYRYWYRYRBRBBBBW](/stripes/bwbbbbrbryrywyryrbrbbbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Holland, Tartan of](/tartans/h/ho/holland-tartan-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

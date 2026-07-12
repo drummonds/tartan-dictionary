@@ -6,6 +6,8 @@ This is the **Distripress (Corporate)** sett — one scale-free proportion (`r6k
 [RKRBKWKR](/stripes/rkrbkwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Distripress](/tartans/d/di/distripress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

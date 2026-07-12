@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dublin Lie-ins"
+  url: "/tartans/d/du/dublin-lie-ins/"
 - name: "Dublin Lie-ins (Corporate)"
   url: "/setts/db8k3db26k11lb3db8r4db8lb3k2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k3db26k11lb3db8r4db8lb3k2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWBRBWKW](/stripes/bkbkwbrbwkw/).
+
+Part of the [Dublin Lie-ins](/tartans/d/du/dublin-lie-ins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

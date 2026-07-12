@@ -6,6 +6,8 @@ This is the **Scottish Foundation VA Highlands** sett — one scale-free proport
 [BGYBBGBYBBBBBBBYBGBBYG](/stripes/bgybbgbybbbbbbbybgbbyg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Scottish Foundation VA Highlands](/tartans/s/sc/scottish-foundation-va-highlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Scottish Assurance"
-  url: "/tartans/royal-scottish-assurance/"
+  url: "/tartans/r/ro/royal-scottish-assurance/"
 - name: "Royal Scottish Assurance"
   url: "/setts/db26dg11r8k2r2w2r4w1r15/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db26dg11r8k2r2w2r4w1r15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKRWRWR](/stripes/bgrkrwrwr/).
 
-Part of the [Royal Scottish Assurance](/tartans/royal-scottish-assurance/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Scottish Assurance](/tartans/r/ro/royal-scottish-assurance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

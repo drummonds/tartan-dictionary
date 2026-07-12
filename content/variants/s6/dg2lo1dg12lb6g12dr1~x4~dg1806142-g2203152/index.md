@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Vancouver"
+  url: "/tartans/c/ci/city-of-vancouver/"
 - name: "City of Vancouver (Commemorative)"
   url: "/setts/dg2lo1dg12lb6g12dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2lo1dg12lb6g12dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGYG](/stripes/bgwgyg/).
+
+Part of the [City of Vancouver](/tartans/c/ci/city-of-vancouver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Free (Wishaw)** sett — one scale-free proportion (`b8k4db15k16g1
 [BBWKGKGKGKBKB](/stripes/bbwkgkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Free](/tartans/free/) tartan — the named design grouping this sett with its kin.
+Part of the [Free](/tartans/f/fr/free/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

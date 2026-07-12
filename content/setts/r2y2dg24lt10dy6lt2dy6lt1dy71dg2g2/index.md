@@ -6,6 +6,8 @@ This is the **Original Tartan Ltd (Corporate)** sett — one scale-free proporti
 [GGGWGWGWGGR](/stripes/gggwgwgwggr/). It is recorded as a single **variant**, below.
 First attested **1962**.
 
+Part of the [Original Tartan Ltd](/tartans/o/or/original-tartan-ltd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

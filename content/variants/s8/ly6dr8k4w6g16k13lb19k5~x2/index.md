@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kilkenny County Crest"
+  url: "/tartans/k/ki/kilkenny-county-crest/"
 - name: "Kilkenny County Crest (Fashion)"
   url: "/setts/ly6dr8k4w6g16k13lb19k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly6dr8k4w6g16k13lb19k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKGWKBY](/stripes/kwkgwkby/).
+
+Part of the [Kilkenny County Crest](/tartans/k/ki/kilkenny-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

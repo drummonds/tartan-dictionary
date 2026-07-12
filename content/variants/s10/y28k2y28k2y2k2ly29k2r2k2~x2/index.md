@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ulster"
+  url: "/tartans/u/ul/ulster-4/"
 - name: "Ulster Irish District Tartan"
   url: "/setts/y28k2y28k2y2k2ly29k2r2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y28k2y28k2y2k2ly29k2r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKYKRK](/stripes/gkgkgkykrk/).
+
+Part of the [Ulster](/tartans/u/ul/ulster-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

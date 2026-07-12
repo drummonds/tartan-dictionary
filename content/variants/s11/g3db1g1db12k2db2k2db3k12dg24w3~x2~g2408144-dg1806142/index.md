@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Selby"
+  url: "/tartans/s/se/selby/"
+- name: "Selby"
   url: "/setts/g3db1g1db12k2db2k2db3k12dg24w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3db1g1db12k2db2k2db3k12dg24w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBKBKGW](/stripes/gbgbkbkbkgw/).
+
+Part of the [Selby](/tartans/s/se/selby/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

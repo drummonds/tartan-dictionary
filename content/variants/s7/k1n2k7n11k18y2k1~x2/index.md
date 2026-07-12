@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "DDB Canada"
+  url: "/tartans/d/dd/ddb-canada/"
 - name: "DDB Canada (Fashion)"
   url: "/setts/k1n2k7n11k18y2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1n2k7n11k18y2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKGK](/stripes/kbkbkgk/).
+
+Part of the [DDB Canada](/tartans/d/dd/ddb-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

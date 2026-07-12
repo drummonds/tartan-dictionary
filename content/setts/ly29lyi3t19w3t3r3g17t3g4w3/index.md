@@ -6,6 +6,8 @@ This is the **State Seal of California (Fashion)** sett — one scale-free propo
 [WGBGRBWBYY](/stripes/wgbgrbwbyy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of California](/tartans/s/st/state-seal-of-california/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

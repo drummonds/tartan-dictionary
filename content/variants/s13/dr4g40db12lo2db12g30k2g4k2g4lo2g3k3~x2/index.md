@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bartlett"
+  url: "/clan/bartlett/"
+- name: "Bartlett"
+  url: "/tartans/b/ba/bartlett/"
 - name: "Bartlett from Winnetka, Illinois"
   url: "/setts/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBYBGKGKGYGK](/stripes/bgbybgkgkgygk/).
+
+Part of the [Bartlett](/tartans/b/ba/bartlett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

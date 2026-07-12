@@ -10,7 +10,7 @@ crumbs:
 - name: "Hunter of Hunterston"
   url: "/families/hunter-of-hunterston/"
 - name: "Hunter of Hunterston"
-  url: "/tartans/hunter-of-hunterston/"
+  url: "/tartans/h/hu/hunter-of-hunterston/"
 - name: "Hunter of Hunterston Clan Tartan"
   url: "/setts/g5db2g12db12r2db12w2g12r2g4y3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5db2g12db12r2db12w2g12r2g4y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBRBWGRGG](/stripes/gbgbrbwgrgg/).
 
-Part of the [Hunter of Hunterston](/tartans/hunter-of-hunterston/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hunter of Hunterston](/tartans/h/hu/hunter-of-hunterston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

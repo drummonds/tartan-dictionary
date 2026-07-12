@@ -7,6 +7,8 @@ This is the **Nithsdale** sett — one scale-free proportion (`db10r2g2r6g16r1g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1930**.
 
+Part of the [Nithsdale](/tartans/n/ni/nithsdale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Wells (2014)** sett — one scale-free proportion (`db50g25y3n8r1w
 [BGGBRWR](/stripes/bggbrwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Wells](/tartans/wells-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Wells](/tartans/w/we/wells-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

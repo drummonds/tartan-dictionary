@@ -6,6 +6,8 @@ This is the **Norham and Ladykirk (District)** sett — one scale-free proportio
 [BBKBKBBBBBG](/stripes/bbkbkbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Norham and Ladykirk](/tartans/n/no/norham-and-ladykirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

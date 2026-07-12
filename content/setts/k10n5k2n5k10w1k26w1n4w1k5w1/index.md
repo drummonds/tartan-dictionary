@@ -6,6 +6,8 @@ This is the **Clergy #3** sett — one scale-free proportion (`k10n5k2n5k10w1k26
 [KBKBKWKWBWKW](/stripes/kbkbkwkwbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

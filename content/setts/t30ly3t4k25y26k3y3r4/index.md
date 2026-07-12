@@ -6,6 +6,8 @@ This is the **Ogilvie Hunting** sett — one scale-free proportion (`t30ly3t4k25
 [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Ogilvie Hunting](/tartans/o/og/ogilvie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

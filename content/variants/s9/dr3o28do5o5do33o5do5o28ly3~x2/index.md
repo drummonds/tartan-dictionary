@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacIver"
+  url: "/clan/maciver/"
+- name: "MacIver of Strathendry"
+  url: "/families/maciver-of-strathendry/"
+- name: "MacIver of Strathendry Hunting"
+  url: "/tartans/m/ma/maciver-of-strathendry-hunting/"
 - name: "MacIver of Strathendry Htg (Personal"
   url: "/setts/dr3o28do5o5do33o5do5o28ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3o28do5o5do33o5do5o28ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRY](/stripes/brbrbrbry/).
+
+Part of the [MacIver of Strathendry Hunting](/tartans/m/ma/maciver-of-strathendry-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

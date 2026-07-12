@@ -6,7 +6,7 @@ This is the **Double Elvis Gallery (Corporate)** sett — one scale-free proport
 [KBBKBR](/stripes/kbbkbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Double Elvis Gallery](/tartans/double-elvis-gallery/) tartan — the named design grouping this sett with its kin.
+Part of the [Double Elvis Gallery](/tartans/d/do/double-elvis-gallery/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

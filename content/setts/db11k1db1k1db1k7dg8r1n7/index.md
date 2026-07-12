@@ -6,7 +6,7 @@ This is the **Damm, Alexander (Personal)** sett — one scale-free proportion (`
 [BKBKBKGRB](/stripes/bkbkbkgrb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Damm, Alexander](/tartans/damm-alexander/) tartan — the named design grouping this sett with its kin.
+Part of the [Damm, Alexander](/tartans/d/da/damm-alexander/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

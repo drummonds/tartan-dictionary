@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buckie"
+  url: "/tartans/b/bu/buckie/"
+- name: "Buckie"
   url: "/setts/n4k2dg2y1dg8k20db50r2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4k2dg2y1dg8k20db50r2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGGGKBRB](/stripes/bkgggkbrb/).
+
+Part of the [Buckie](/tartans/b/bu/buckie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

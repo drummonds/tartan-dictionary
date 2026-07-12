@@ -6,6 +6,8 @@ This is the **Cornish Brewery, Red** sett — one scale-free proportion (`ly2r3k
 [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Cornish Brewery](/tartans/c/co/cornish-brewery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

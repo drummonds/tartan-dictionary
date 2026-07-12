@@ -6,6 +6,8 @@ This is the **MacIan** sett — one scale-free proportion (`dr2k4dr2k4dr6k1lo1`)
 [BKBKBKY](/stripes/bkbkbky/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacIan](/tartans/m/ma/macian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

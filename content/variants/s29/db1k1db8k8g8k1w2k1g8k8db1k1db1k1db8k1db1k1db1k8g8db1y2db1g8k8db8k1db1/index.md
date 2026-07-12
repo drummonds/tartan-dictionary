@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell Argyll"
+  url: "/tartans/c/ca/campbell-argyll/"
 - name: "Campbell Argyll"
   url: "/setts/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGBGBGKBKBKBKBKBKGKWKGKBKB](/stripes/bkbkgbgbgkbkbkbkbkbkgkwkgkbkb/).
+
+Part of the [Campbell Argyll](/tartans/c/ca/campbell-argyll/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 

@@ -6,7 +6,7 @@ This is the **Graham W** sett — one scale-free proportion (`g21w2g4k17db14k3`)
 [GWGKBK](/stripes/gwgkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Graham W](/tartans/graham-w/) tartan — the named design grouping this sett with its kin.
+Part of the [Graham W](/tartans/g/gr/graham-w/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

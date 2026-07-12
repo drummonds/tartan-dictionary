@@ -6,6 +6,8 @@ This is the **Stewart - Pr Ch Ed (Royal)** sett — one scale-free proportion (`
 [RWBGBWBGRBRW](/stripes/rwbgbwbgrbrw/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Stewart](/tartans/s/st/stewart-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

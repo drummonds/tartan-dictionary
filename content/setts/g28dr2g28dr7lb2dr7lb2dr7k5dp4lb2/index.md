@@ -6,7 +6,7 @@ This is the **Hynde (Sir John)** sett — one scale-free proportion (`g28dr2g28d
 [GBGBWBWBKBW](/stripes/gbgbwbwbkbw/). It is recorded as a single **variant**, below.
 First attested **1744**.
 
-Part of the [Hynde](/tartans/hynde/) tartan — the named design grouping this sett with its kin.
+Part of the [Hynde](/tartans/h/hy/hynde/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

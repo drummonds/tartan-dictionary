@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen App"
-  url: "/tartans/glen-app/"
+  url: "/tartans/g/gl/glen-app/"
 - name: "Glen App Trade Tartan"
   url: "/setts/dp37w9dp3dy9w3/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp37w9dp3dy9w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGW](/stripes/bwbgw/).
 
-Part of the [Glen App](/tartans/glen-app/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen App](/tartans/g/gl/glen-app/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

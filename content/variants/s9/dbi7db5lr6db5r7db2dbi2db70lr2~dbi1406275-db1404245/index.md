@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United States Trade sett"
+  url: "/tartans/u/un/united-states-trade-sett/"
 - name: "United States Trade sett Tartan"
   url: "/setts/dbi7db5lr6db5r7db2dbi2db70lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi7db5lr6db5r7db2dbi2db70lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBRBBBY](/stripes/bbybrbbby/).
+
+Part of the [United States Trade sett](/tartans/u/un/united-states-trade-sett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

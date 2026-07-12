@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
+- name: "Nicolson"
+  url: "/tartans/n/ni/nicolson-3/"
 - name: "Nicolson Green Hunting"
   url: "/setts/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBBKBGKYKWKG](/stripes/bkgkgkbbkbgkykwkg/).
+
+Part of the [Nicolson](/tartans/n/ni/nicolson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

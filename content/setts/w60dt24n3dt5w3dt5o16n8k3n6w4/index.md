@@ -6,6 +6,8 @@ This is the **Glenmore Pink** sett — one scale-free proportion (`w60dt24n3dt5w
 [WBBBWBRBKBW](/stripes/wbbbwbrbkbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Glenmore Pink](/tartans/g/gl/glenmore-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

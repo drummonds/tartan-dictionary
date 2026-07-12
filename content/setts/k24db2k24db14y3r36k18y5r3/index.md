@@ -6,6 +6,8 @@ This is the **Craigholme (Corporate)** sett — one scale-free proportion (`k24d
 [KBKBGRKGR](/stripes/kbkbgrkgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Craigholme](/tartans/c/cr/craigholme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

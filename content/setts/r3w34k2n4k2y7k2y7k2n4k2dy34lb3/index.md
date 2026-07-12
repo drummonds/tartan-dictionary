@@ -6,6 +6,8 @@ This is the **Buchanan Dress Clan Tartan** sett — one scale-free proportion (`
 [RWKBKGKGKBKGW](/stripes/rwkbkgkgkbkgw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

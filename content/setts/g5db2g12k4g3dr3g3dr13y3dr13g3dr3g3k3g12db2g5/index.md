@@ -6,7 +6,7 @@ This is the **Lowland Donnelly (Personal)** sett — one scale-free proportion (
 [GBGKGBGBGBGBGKGBG](/stripes/gbgkgbgbgbgbgkgbg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
-Part of the [Lowland Donnelly](/tartans/lowland-donnelly/) tartan — the named design grouping this sett with its kin.
+Part of the [Lowland Donnelly](/tartans/l/lo/lowland-donnelly/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **O'Neill Pipe Band 1983 (Corporate)** sett — one scale-free propo
 [RGRGYGY](/stripes/rgrgygy/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [O'Neill Pipe Band 1983](/tartans/o/o/o-neill-pipe-band-1983-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

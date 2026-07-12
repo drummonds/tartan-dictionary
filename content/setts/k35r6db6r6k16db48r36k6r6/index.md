@@ -6,6 +6,8 @@ This is the **Rosie O'Grady (P&D) (Corporate)** sett — one scale-free proporti
 [KRBRKBRKR](/stripes/krbrkbrkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Rosie O'Grady](/tartans/r/ro/rosie-o-grady/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

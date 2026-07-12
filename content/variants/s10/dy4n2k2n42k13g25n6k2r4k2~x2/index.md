@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dinwiddie"
-  url: "/tartans/dinwiddie/"
+  url: "/tartans/d/di/dinwiddie/"
 - name: "Dinwiddie Clan Tartan"
   url: "/setts/dy4n2k2n42k13g25n6k2r4k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy4n2k2n42k13g25n6k2r4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKGBKRK](/stripes/gbkbkgbkrk/).
 
-Part of the [Dinwiddie](/tartans/dinwiddie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dinwiddie](/tartans/d/di/dinwiddie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

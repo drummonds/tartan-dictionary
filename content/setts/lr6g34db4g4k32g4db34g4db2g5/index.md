@@ -6,6 +6,8 @@ This is the **Sardar Chadha (Personal)** sett — one scale-free proportion (`lr
 [GBGBGKGBGY](/stripes/gbgbgkgbgy/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Sardar Chadha](/tartans/s/sa/sardar-chadha/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

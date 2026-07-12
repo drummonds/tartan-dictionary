@@ -6,6 +6,8 @@ This is the **O'Brien (Scotch Corner)** sett — one scale-free proportion (`g36
 [GGGGBRBRG](/stripes/ggggbrbrg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [O'Brien](/tartans/o/o/o-brien-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

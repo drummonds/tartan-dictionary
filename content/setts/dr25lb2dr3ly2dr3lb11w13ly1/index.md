@@ -6,6 +6,8 @@ This is the **Citylink Gold (Corporate)** sett — one scale-free proportion (`d
 [BWBYBWWY](/stripes/bwbybwwy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Citylink Gold](/tartans/c/ci/citylink-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rutledge"
-  url: "/tartans/rutledge/"
+  url: "/tartans/r/ru/rutledge/"
 - name: "Rutledge"
   url: "/setts/k3db10k2w1k2g10k2dg10r1dg1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3db10k2w1k2g10k2dg10r1dg1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGKWKBK](/stripes/grgkgkwkbk/).
 
-Part of the [Rutledge](/tartans/rutledge/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rutledge](/tartans/r/ru/rutledge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

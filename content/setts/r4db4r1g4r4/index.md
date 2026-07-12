@@ -7,7 +7,7 @@ This is the **Gow** sett — one scale-free proportion (`r4db4r1g4r4`), colour o
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
-Part of the [Gow](/tartans/gow/) tartan — the named design grouping this sett with its kin.
+Part of the [Gow](/tartans/g/go/gow/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

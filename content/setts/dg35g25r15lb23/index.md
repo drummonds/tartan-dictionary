@@ -6,6 +6,8 @@ This is the **Dunans Rising** sett — one scale-free proportion (`dg35g25r15lb2
 [GGRW](/stripes/ggrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dunans Rising](/tartans/d/du/dunans-rising/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

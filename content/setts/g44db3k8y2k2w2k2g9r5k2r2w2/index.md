@@ -6,7 +6,7 @@ This is the **Princess Mary Royal Family Tartan** sett — one scale-free propor
 [GBKGKWKGRKRW](/stripes/gbkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
-Part of the [Princess Mary](/tartans/princess-mary/) tartan — the named design grouping this sett with its kin.
+Part of the [Princess Mary](/tartans/p/pr/princess-mary/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

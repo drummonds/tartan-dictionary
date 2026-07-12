@@ -6,6 +6,8 @@ This is the **Douglas Ancient Red** sett — one scale-free proportion (`k8lo2n3
 [KYBBW](/stripes/kybbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Douglas](/tartans/d/do/douglas-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

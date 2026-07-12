@@ -6,6 +6,8 @@ This is the **Gary (Personal)** sett — one scale-free proportion (`dp2r1k4lo2k
 [BRKYKYKYKYW](/stripes/brkykykykyw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Gary](/tartans/g/ga/gary-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

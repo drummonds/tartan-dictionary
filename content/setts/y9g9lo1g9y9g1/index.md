@@ -6,6 +6,8 @@ This is the **Spring Morning** sett — one scale-free proportion (`y9g9lo1g9y9g
 [GGGYGG](/stripes/gggygg/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Spring Morning](/tartans/s/sp/spring-morning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

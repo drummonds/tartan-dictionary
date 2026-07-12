@@ -6,6 +6,8 @@ This is the **Casely Family Tartan** sett — one scale-free proportion (`k19g3d
 [GRGKGBYBGK](/stripes/grgkgbybgk/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Casely](/tartans/c/ca/casely-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

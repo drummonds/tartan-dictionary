@@ -6,6 +6,8 @@ This is the **Earle's Flame** sett — one scale-free proportion (`k10o24dr3o3dr
 [KRBRBGRK](/stripes/krbrbgrk/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Earle's Flame](/tartans/e/ea/earle-s-flame/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

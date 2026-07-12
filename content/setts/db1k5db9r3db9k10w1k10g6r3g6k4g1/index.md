@@ -6,6 +6,8 @@ This is the **Redgate (Connecticut) #2** sett — one scale-free proportion (`db
 [BKBRBKWKGRGKG](/stripes/bkbrbkwkgrgkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Redgate](/tartans/r/re/redgate-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

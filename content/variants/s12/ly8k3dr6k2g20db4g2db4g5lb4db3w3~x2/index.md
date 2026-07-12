@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Down County Crest"
+  url: "/tartans/d/do/down-county-crest/"
 - name: "Down County Crest (Fashion)"
   url: "/setts/ly8k3dr6k2g20db4g2db4g5lb4db3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly8k3dr6k2g20db4g2db4g5lb4db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGBGBGKBKY](/stripes/wbwgbgbgkbky/).
+
+Part of the [Down County Crest](/tartans/d/do/down-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

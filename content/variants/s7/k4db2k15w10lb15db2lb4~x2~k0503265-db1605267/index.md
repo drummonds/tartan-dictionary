@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathclyde"
-  url: "/tartans/strathclyde-3/"
+  url: "/tartans/s/st/strathclyde-3/"
 - name: "Strathclyde"
   url: "/setts/k4db2k15w10lb15db2lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4db2k15w10lb15db2lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWWBW](/stripes/kbkwwbw/).
 
-Part of the [Strathclyde](/tartans/strathclyde-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathclyde](/tartans/s/st/strathclyde-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

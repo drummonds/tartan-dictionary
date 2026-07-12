@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Pride"
+  url: "/tartans/s/sc/scottish-pride/"
+- name: "Scottish Pride"
   url: "/setts/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGKGKBWBKGKGBGBBG](/stripes/bbgbgkgkbwbkgkgbgbbg/).
+
+Part of the [Scottish Pride](/tartans/s/sc/scottish-pride/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

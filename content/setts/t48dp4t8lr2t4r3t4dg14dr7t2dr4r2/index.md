@@ -6,6 +6,8 @@ This is the **Louth, County** sett — one scale-free proportion (`t48dp4t8lr2t4
 [BBBYBRBGBBBR](/stripes/bbbybrbgbbbr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Louth, County](/tartans/l/lo/louth-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

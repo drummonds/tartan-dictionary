@@ -6,7 +6,7 @@ This is the **Portree Check (District) Tartan** sett — one scale-free proporti
 [RWRGRWRBBRBW](/stripes/rwrgrwrbbrbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Portree Check](/tartans/portree-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Portree Check](/tartans/p/po/portree-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **MacGregor, Modern** sett — one scale-free proportion (`db18r9db2
 [BKRBRB](/stripes/bkrbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

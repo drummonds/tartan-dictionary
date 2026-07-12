@@ -6,6 +6,8 @@ This is the **Diana Hunting, Lady** sett — one scale-free proportion (`doi22g2
 [BGBGBGWGBBBW](/stripes/bgbgbgwgbbbw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Diana Hunting, Lady](/tartans/d/di/diana-hunting-lady/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

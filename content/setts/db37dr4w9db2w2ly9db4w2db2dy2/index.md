@@ -6,6 +6,8 @@ This is the **Stuart/Stewart navy** sett — one scale-free proportion (`db37dr4
 [BBWBWYBWBG](/stripes/bbwbwybwbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stuart/Stewart navy](/tartans/s/st/stuart-stewart-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

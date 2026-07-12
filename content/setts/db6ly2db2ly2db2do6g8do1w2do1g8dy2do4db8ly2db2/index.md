@@ -6,6 +6,8 @@ This is the **Forbes of Druminnor Artifact Tartan** sett — one scale-free prop
 [BYBBGGBWBGBBYBYB](/stripes/bybbggbwbgbbybyb/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
+Part of the [Forbes of Druminnor](/tartans/f/fo/forbes-of-druminnor-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

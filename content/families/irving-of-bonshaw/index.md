@@ -18,5 +18,5 @@ A family of [Clan Irving](/clan/irving/).
 </tbody>
 </table>
 
-[See the Irving of Bonshaw tartan and all its setts →](/tartans/irving-of-bonshaw-3/)
+[See the Irving of Bonshaw tartan and all its setts →](/tartans/i/ir/irving-of-bonshaw-3/)
 

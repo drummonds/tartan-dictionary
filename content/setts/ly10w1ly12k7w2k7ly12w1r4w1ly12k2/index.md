@@ -6,6 +6,8 @@ This is the **Unidentified (GMG 2002)** sett — one scale-free proportion (`ly1
 [KYWRWYKWKYWY](/stripes/kywrwykwkywy/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

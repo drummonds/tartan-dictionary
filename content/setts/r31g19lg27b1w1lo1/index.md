@@ -6,6 +6,8 @@ This is the **Glencross, (Solway) (Personal)** sett — one scale-free proportio
 [RGYBWY](/stripes/rgybwy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Glencross](/tartans/g/gl/glencross/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

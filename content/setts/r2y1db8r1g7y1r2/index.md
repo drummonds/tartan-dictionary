@@ -6,6 +6,8 @@ This is the **Cercle de Fermières de Saint-Élie d'Orford** sett — one scale-
 [RGBRGGR](/stripes/rgbrggr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Cercle de Fermières de Saint-Élie d'Orford](/tartans/c/ce/cercle-de-fermi-res-de-saint-lie-d-orford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

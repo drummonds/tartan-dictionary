@@ -6,6 +6,8 @@ This is the **Kinloch of Loch Awe (Personal)** sett — one scale-free proportio
 [KBBBW](/stripes/kbbbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Kinloch of Loch Awe](/tartans/k/ki/kinloch-of-loch-awe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

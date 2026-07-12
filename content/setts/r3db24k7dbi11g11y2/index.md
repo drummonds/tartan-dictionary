@@ -6,6 +6,8 @@ This is the **Cowie** sett — one scale-free proportion (`r3db24k7dbi11g11y2`),
 [GGBKBR](/stripes/ggbkbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Cowie](/tartans/c/co/cowie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

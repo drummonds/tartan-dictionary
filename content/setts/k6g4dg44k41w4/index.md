@@ -6,6 +6,8 @@ This is the **Raeside** sett — one scale-free proportion (`k6g4dg44k41w4`), co
 [KGGKW](/stripes/kggkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Raeside](/tartans/r/ra/raeside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

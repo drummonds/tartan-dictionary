@@ -6,6 +6,8 @@ This is the **Devarr (Fashion)** sett — one scale-free proportion (`dy31do3dy3
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **~1988**.
 
+Part of the [Devarr](/tartans/d/de/devarr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

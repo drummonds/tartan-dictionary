@@ -6,6 +6,8 @@ This is the **Hueg (Hunting) (Personal)** sett — one scale-free proportion (`d
 [BGBGBGKGKG](/stripes/bgbgbgkgkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hueg](/tartans/h/hu/hueg-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

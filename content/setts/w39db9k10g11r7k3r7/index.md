@@ -6,6 +6,8 @@ This is the **MacDuff Dress Clan Tartan** sett — one scale-free proportion (`w
 [RKRGKBW](/stripes/rkrgkbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacDuff Dress](/tartans/m/ma/macduff-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

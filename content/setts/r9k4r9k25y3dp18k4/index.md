@@ -6,7 +6,7 @@ This is the **Wounded Warriors Canada** sett — one scale-free proportion (`r9k
 [KBGKRKR](/stripes/kbgkrkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Wounded Warriors Canada](/tartans/wounded-warriors-canada/) tartan — the named design grouping this sett with its kin.
+Part of the [Wounded Warriors Canada](/tartans/w/wo/wounded-warriors-canada/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

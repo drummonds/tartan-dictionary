@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Williams Lake"
+  url: "/tartans/c/ci/city-of-williams-lake/"
 - name: "Williams Lake, City of"
   url: "/setts/y6k1y3g3w3dr3k2dr3db3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6k1y3g3w3dr3k2dr3db3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGWBKBBWBBKBWGGK](/stripes/gkggwbkbbwbbkbwggk/).
+
+Part of the [City of Williams Lake](/tartans/c/ci/city-of-williams-lake/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

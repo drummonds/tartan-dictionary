@@ -6,7 +6,7 @@ This is the **Ancient Gathering** sett — one scale-free proportion (`db1lb12dp
 [BWBWGBBW](/stripes/bwbwgbbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Ancient Gathering](/tartans/ancient-gathering/) tartan — the named design grouping this sett with its kin.
+Part of the [Ancient Gathering](/tartans/a/an/ancient-gathering/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

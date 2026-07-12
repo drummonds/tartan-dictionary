@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Shee"
+  url: "/tartans/g/gl/glen-shee-5/"
 - name: "Glen Shee Plaid (Fashion)"
   url: "/setts/r12w1r2o1n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12w1r2o1n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRWR](/stripes/brrwr/).
+
+Part of the [Glen Shee](/tartans/g/gl/glen-shee-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

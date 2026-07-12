@@ -6,6 +6,8 @@ This is the **Moray Council** sett — one scale-free proportion (`db8dr2db33dt1
 [BBBBGYGB](/stripes/bbbbgygb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Moray Council](/tartans/m/mo/moray-council/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

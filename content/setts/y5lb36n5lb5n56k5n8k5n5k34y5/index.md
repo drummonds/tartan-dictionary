@@ -6,6 +6,8 @@ This is the **Chartered Institute of Bankers in Scotland** sett — one scale-fr
 [GKBKBKBWBWG](/stripes/gkbkbkbwbwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Chartered Institute of Bankers (Corp](/tartans/c/ch/chartered-institute-of-bankers-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

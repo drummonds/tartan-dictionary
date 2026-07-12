@@ -7,7 +7,7 @@ This is the **King Edward VII** sett — one scale-free proportion (`y8g84t21k10
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1910**.
 
-Part of the [King Edward](/tartans/king-edward/) tartan — the named design grouping this sett with its kin.
+Part of the [King Edward](/tartans/k/ki/king-edward/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

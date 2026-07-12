@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Andrew's Soc. of Singapore (Corp"
+  url: "/tartans/s/st/st-andrew-s-soc-of-singapore-corp/"
+- name: "St. Andrew's Soc. of Singapore (Corp"
   url: "/setts/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/).
+
+Part of the [St. Andrew's Soc. of Singapore (Corp](/tartans/s/st/st-andrew-s-soc-of-singapore-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

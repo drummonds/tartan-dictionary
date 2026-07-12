@@ -6,6 +6,8 @@ This is the **Pitt (Glasgow)** sett — one scale-free proportion (`t23db18w5db2
 [BBWBRB](/stripes/bbwbrb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Pitt](/tartans/p/pi/pitt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

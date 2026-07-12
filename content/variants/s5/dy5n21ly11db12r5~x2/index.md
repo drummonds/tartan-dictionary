@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inspiration"
-  url: "/tartans/inspiration/"
+  url: "/tartans/i/in/inspiration/"
 - name: "Inspiration"
   url: "/setts/dy5n21ly11db12r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy5n21ly11db12r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYBR](/stripes/gbybr/).
 
-Part of the [Inspiration](/tartans/inspiration/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Inspiration](/tartans/i/in/inspiration/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

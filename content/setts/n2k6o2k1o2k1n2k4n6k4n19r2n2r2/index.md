@@ -6,6 +6,8 @@ This is the **Lochcarron Mill** sett — one scale-free proportion (`n2k6o2k1o2k
 [BKRKRKBKBKBRBR](/stripes/bkrkrkbkbkbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lochcarron Mill](/tartans/l/lo/lochcarron-mill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

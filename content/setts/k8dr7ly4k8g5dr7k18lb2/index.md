@@ -6,6 +6,8 @@ This is the **Malliou, Despina (Personal)** sett — one scale-free proportion (
 [KBYKGBKW](/stripes/kbykgbkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Malliou, Despina](/tartans/m/ma/malliou-despina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

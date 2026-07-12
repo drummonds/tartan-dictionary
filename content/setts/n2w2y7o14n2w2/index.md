@@ -6,6 +6,8 @@ This is the **Cairngorm** sett — one scale-free proportion (`n2w2y7o14n2w2`), 
 [BWGRBW](/stripes/bwgrbw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Cairngorm](/tartans/c/ca/cairngorm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

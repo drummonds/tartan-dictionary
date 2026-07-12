@@ -6,6 +6,8 @@ This is the **All Breeds Dairy Goats #2 (Corp)** sett — one scale-free proport
 [BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGG](/stripes/brkwkywywywywywywywywywykykykykywywywywywywywywywywgg/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [All Breeds Dairy Goats](/tartans/a/al/all-breeds-dairy-goats/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

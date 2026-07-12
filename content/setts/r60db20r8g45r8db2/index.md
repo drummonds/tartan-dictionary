@@ -6,7 +6,7 @@ This is the **Caledonian** sett — one scale-free proportion (`r60db20r8g45r8db
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Caledonian](/tartans/caledonian/) tartan — the named design grouping this sett with its kin.
+Part of the [Caledonian](/tartans/c/ca/caledonian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

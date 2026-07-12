@@ -6,7 +6,7 @@ This is the **Veere (District)** sett — one scale-free proportion (`db6k2t2db8
 [BKBBKYGBBKW](/stripes/bkbbkygbbkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Veere](/tartans/veere/) tartan — the named design grouping this sett with its kin.
+Part of the [Veere](/tartans/v/ve/veere/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

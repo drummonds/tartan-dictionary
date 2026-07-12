@@ -6,6 +6,8 @@ This is the **Wilson's No.052** sett — one scale-free proportion (`g7k4lb4`), 
 [GKW](/stripes/gkw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.052](/tartans/w/wi/wilson-s-no-052/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

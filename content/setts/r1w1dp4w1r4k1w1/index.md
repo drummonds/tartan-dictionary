@@ -6,6 +6,8 @@ This is the **Tartan Tangerine** sett — one scale-free proportion (`r1w1dp4w1r
 [RWBWRKW](/stripes/rwbwrkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Tartan Tangerine](/tartans/t/ta/tartan-tangerine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

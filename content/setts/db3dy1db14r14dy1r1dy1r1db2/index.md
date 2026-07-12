@@ -6,6 +6,8 @@ This is the **Breckon** sett — one scale-free proportion (`db3dy1db14r14dy1r1d
 [BGBRGRGRB](/stripes/bgbrgrgrb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Breckon](/tartans/b/br/breckon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

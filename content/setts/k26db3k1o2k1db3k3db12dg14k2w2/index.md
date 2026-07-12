@@ -6,6 +6,8 @@ This is the **Royal Highland Yacht Club** sett — one scale-free proportion (`k
 [KBKRKBKBGKW](/stripes/kbkrkbkbgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Royal Highland Yacht Club](/tartans/r/ro/royal-highland-yacht-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

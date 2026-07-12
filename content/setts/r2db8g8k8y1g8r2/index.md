@@ -6,6 +6,8 @@ This is the **Brodie Hunting** sett — one scale-free proportion (`r2db8g8k8y1g
 [RBGKGGR](/stripes/rbgkggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Brodie Hunting](/tartans/b/br/brodie-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

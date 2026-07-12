@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hall"
-  url: "/tartans/hall-2/"
+  url: "/tartans/h/ha/hall-2/"
 - name: "Hall"
   url: "/setts/g4r2db4r2g8r2db4r2g8r2y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4r2db4r2g8r2db4r2g8r2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRGRBRGRG](/stripes/grbrgrbrgrg/).
 
-Part of the [Hall](/tartans/hall-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hall](/tartans/h/ha/hall-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

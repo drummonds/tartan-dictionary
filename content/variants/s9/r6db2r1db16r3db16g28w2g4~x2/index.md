@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "George"
-  url: "/tartans/george-2/"
+  url: "/tartans/g/ge/george-2/"
 - name: "George (Personal)"
   url: "/setts/r6db2r1db16r3db16g28w2g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r6db2r1db16r3db16g28w2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBRBRBR](/stripes/gwgbrbrbr/).
 
-Part of the [George](/tartans/george-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [George](/tartans/g/ge/george-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

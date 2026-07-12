@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Junior Chamber International"
-  url: "/tartans/junior-chamber-international-2/"
+  url: "/tartans/j/ju/junior-chamber-international-2/"
 - name: "Junior Chamber International"
   url: "/setts/r4g16k16db4g3db12y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g16k16db4g3db12y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKGR](/stripes/gbgbkgr/).
 
-Part of the [Junior Chamber International](/tartans/junior-chamber-international-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Junior Chamber International](/tartans/j/ju/junior-chamber-international-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

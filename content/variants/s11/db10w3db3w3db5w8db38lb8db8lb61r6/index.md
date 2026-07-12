@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caleys Windsor"
+  url: "/tartans/c/ca/caleys-windsor/"
 - name: "Caleys Windsor (Corporate)"
   url: "/setts/db10w3db3w3db5w8db38lb8db8lb61r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10w3db3w3db5w8db38lb8db8lb61r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/).
+
+Part of the [Caleys Windsor](/tartans/c/ca/caleys-windsor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

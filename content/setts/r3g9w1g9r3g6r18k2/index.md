@@ -6,6 +6,8 @@ This is the **Cumming #2** sett — one scale-free proportion (`r3g9w1g9r3g6r18k
 [KRGRGWGR](/stripes/krgrgwgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Cumming](/tartans/c/cu/cumming-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

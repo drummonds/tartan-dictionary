@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Merida Dance"
+  url: "/tartans/m/me/merida-dance/"
+- name: "Merida Dance"
   url: "/setts/w8k4w54db18r6db8r49w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8k4w54db18r6db8r49w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWBRBRW](/stripes/wkwbrbrw/).
+
+Part of the [Merida Dance](/tartans/m/me/merida-dance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

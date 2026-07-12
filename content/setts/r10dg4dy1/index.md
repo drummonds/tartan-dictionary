@@ -6,7 +6,7 @@ This is the **Lugo (2013)** sett — one scale-free proportion (`r10dg4dy1`), co
 [GGGR](/stripes/gggr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Lugo](/tartans/lugo/) tartan — the named design grouping this sett with its kin.
+Part of the [Lugo](/tartans/l/lu/lugo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Skye Dress Blue, Earl of"
+  url: "/tartans/s/sk/skye-dress-blue-earl-of/"
 - name: "Skye Dress Blue, Earl of (Dance)"
   url: "/setts/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/).
+
+Part of the [Skye Dress Blue, Earl of](/tartans/s/sk/skye-dress-blue-earl-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

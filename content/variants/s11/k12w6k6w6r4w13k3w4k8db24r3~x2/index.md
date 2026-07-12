@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Merchiston Castle School"
-  url: "/tartans/merchiston-castle-school/"
+  url: "/tartans/m/me/merchiston-castle-school/"
 - name: "Merchiston Castle School Pipe Band"
   url: "/setts/k12w6k6w6r4w13k3w4k8db24r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k12w6k6w6r4w13k3w4k8db24r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/).
 
-Part of the [Merchiston Castle School](/tartans/merchiston-castle-school/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Merchiston Castle School](/tartans/m/me/merchiston-castle-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **United States Trade sett Tartan** sett — one scale-free proporti
 [BBYBRBBBY](/stripes/bbybrbbby/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [United States Trade sett](/tartans/u/un/united-states-trade-sett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

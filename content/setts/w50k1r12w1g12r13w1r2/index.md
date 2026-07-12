@@ -6,6 +6,8 @@ This is the **Unidentified Blanket** sett — one scale-free proportion (`w50k1r
 [RWRGWRKW](/stripes/rwrgwrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Blanket](/tartans/u/un/unidentified-blanket/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

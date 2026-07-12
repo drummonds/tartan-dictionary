@@ -6,6 +6,8 @@ This is the **Scotland's Grace** sett — one scale-free proportion (`n24t2n4o2t
 [BBBRBBRBGGRBRBRBB](/stripes/bbbrbbrbggrbrbrbb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Scotland's Grace](/tartans/s/sc/scotland-s-grace/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

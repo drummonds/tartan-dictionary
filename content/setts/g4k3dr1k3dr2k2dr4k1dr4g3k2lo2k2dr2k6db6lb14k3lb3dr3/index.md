@@ -6,6 +6,8 @@ This is the **Quadra** sett — one scale-free proportion (`g4k3dr1k3dr2k2dr4k1d
 [BWKWBKBKYKGBKBKBKBKG](/stripes/bwkwbkbkykgbkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Quadra](/tartans/q/qu/quadra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

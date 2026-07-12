@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "California"
+  url: "/tartans/c/ca/california/"
+- name: "California"
   url: "/setts/y4k1g10r2g10r4g10r2g10k16db28k1b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k1g10r2g10r4g10r2g10k16db28k1b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGRGRGRGKG](/stripes/bkbkgrgrgrgkg/).
+
+Part of the [California](/tartans/c/ca/california/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

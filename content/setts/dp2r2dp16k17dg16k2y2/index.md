@@ -7,6 +7,8 @@ This is the **Zangenberg (Personal)** sett — one scale-free proportion (`dp2r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2000**.
 
+Part of the [Zangenberg](/tartans/z/za/zangenberg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

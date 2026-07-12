@@ -6,6 +6,8 @@ This is the **Colvin** sett — one scale-free proportion (`b36w4b4w4b16dg64r9b6
 [BRGBWBWB](/stripes/brgbwbwb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Colvin](/tartans/c/co/colvin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

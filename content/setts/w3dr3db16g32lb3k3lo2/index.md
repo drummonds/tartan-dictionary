@@ -6,7 +6,7 @@ This is the **Washington State (US State)** sett — one scale-free proportion (
 [WBBGWKY](/stripes/wbbgwky/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [Washington State](/tartans/washington-state/) tartan — the named design grouping this sett with its kin.
+Part of the [Washington State](/tartans/w/wa/washington-state/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

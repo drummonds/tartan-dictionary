@@ -6,6 +6,8 @@ This is the **Bell Rock Lighthouse 200th Anniversary, The** sett — one scale-f
 [RBKBKBBBBW](/stripes/rbkbkbbbbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bell Rock Lighthouse 200th Anniv Commemorative](/tartans/b/be/bell-rock-lighthouse-200th-anniv-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

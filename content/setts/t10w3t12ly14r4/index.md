@@ -6,7 +6,7 @@ This is the **MacLeod of Argentina** sett — one scale-free proportion (`t10w3t
 [BWBYR](/stripes/bwbyr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [MacLeod of Argentina](/tartans/macleod-of-argentina/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Argentina](/tartans/m/ma/macleod-of-argentina/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

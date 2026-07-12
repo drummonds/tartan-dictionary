@@ -6,6 +6,8 @@ This is the **Hayden, Thomas (Personal)** sett — one scale-free proportion (`g
 [GGGGBGGWGG](/stripes/ggggbggwgg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Hayden, Thomas](/tartans/h/ha/hayden-thomas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

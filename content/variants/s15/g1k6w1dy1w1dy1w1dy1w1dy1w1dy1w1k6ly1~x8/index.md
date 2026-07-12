@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alliance of Border Scots"
+  url: "/tartans/a/al/alliance-of-border-scots-2/"
 - name: "Alliance of Border Scots (Corporate)"
   url: "/setts/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWGWGWGWGWGWKY](/stripes/gkwgwgwgwgwgwky/).
+
+Part of the [Alliance of Border Scots](/tartans/a/al/alliance-of-border-scots-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

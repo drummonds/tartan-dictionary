@@ -6,7 +6,7 @@ This is the **Wilson** sett — one scale-free proportion (`db64g20r4g3r4g3`), c
 [BGRGRG](/stripes/bgrgrg/). It is recorded as a single **variant**, below.
 First attested **1780**.
 
-Part of the [Wilson](/tartans/wilson/) tartan — the named design grouping this sett with its kin.
+Part of the [Wilson](/tartans/w/wi/wilson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

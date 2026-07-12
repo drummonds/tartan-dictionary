@@ -6,6 +6,8 @@ This is the **Clergy (Grey)** sett — one scale-free proportion (`n1lb1n6k6lb1k
 [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

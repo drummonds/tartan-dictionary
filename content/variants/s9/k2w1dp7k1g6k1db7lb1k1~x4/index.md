@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Lanarkshire"
+  url: "/tartans/s/so/south-lanarkshire/"
+- name: "South Lanarkshire"
   url: "/setts/k2w1dp7k1g6k1db7lb1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2w1dp7k1g6k1db7lb1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKGKBWK](/stripes/kwbkgkbwk/).
+
+Part of the [South Lanarkshire](/tartans/s/so/south-lanarkshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

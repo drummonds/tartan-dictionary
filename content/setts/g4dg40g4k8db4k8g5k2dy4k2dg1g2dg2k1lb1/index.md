@@ -6,6 +6,8 @@ This is the **Eastern Shore Police Emerald Society** sett — one scale-free pro
 [GGGKBKGKGKGGGKW](/stripes/gggkbkgkgkgggkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Eastern Shore Police Emerald Society](/tartans/e/ea/eastern-shore-police-emerald-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

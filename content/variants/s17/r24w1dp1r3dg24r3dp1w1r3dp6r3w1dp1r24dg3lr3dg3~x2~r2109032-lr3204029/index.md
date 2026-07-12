@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "King George"
-  url: "/tartans/king-george-2/"
+  url: "/tartans/k/ki/king-george-2/"
 - name: "King George IV - 1824 (Artefact)"
   url: "/setts/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGRBWRBRWBRGRBWR](/stripes/gygrbwrbrwbrgrbwr/).
 
-Part of the [King George](/tartans/king-george-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [King George](/tartans/k/ki/king-george-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

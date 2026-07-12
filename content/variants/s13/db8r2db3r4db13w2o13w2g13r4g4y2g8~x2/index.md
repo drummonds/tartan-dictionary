@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bowie"
+  url: "/tartans/b/bo/bowie-3/"
+- name: "Bowie"
   url: "/setts/db8r2db3r4db13w2o13w2g13r4g4y2g8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8r2db3r4db13w2o13w2g13r4g4y2g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWRWGRGGG](/stripes/brbrbwrwgrggg/).
+
+Part of the [Bowie](/tartans/b/bo/bowie-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

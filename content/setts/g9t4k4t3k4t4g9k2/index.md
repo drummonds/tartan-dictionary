@@ -6,6 +6,8 @@ This is the **Keith Clan** sett — one scale-free proportion (`g9t4k4t3k4t4g9k2
 [GBKBKBGK](/stripes/gbkbkbgk/). It is recorded as a single **variant**, below.
 First attested **1838**.
 
+Part of the [Keith](/tartans/k/ke/keith-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

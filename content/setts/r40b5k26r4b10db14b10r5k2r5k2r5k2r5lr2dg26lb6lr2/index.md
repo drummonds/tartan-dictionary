@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Hynde Cotton Jacket** sett — one scale-free prop
 [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/). It is recorded as a single **variant**, below.
 First attested **1744**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,44 @@
+---
+title: "Llewellen of Wales"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Llewellen"
+  url: "/clan/llewellen/"
+- name: "Llewellen of Wales"
+  url: "/families/llewellen-of-wales/"
+---
+A tartan of the [Llewellen of Wales](/families/llewellen-of-wales/) family.
+Its design is pattern [BKBKBKWKB](/stripes/bkbkbkwkb/) — the page of every tartan sharing this colour sequence.
+
+Welsh surname tartan woven at Cambrian Woollen Mill, with differing warp and weft creating a predominant vertical stripe.
+
+The **Llewellen of Wales** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dr74k4dr7k4dr9k40w2k4n2/">Llewellen of Wales</a></td><td><code>DR/74 K4 DR7 K4 DR9 K40 W2 K4 N/2</code></td><td>216</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr74k4dr7k4dr9k40w2k4n2/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Llewellyn
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/">Llewellen of Wales</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lo4k17dr1k4dr2k4dr33w3~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">1.70</a></div><div class="nn-threads">258</div><div class="nn-name"><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/">Mens Bigi</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y6k2y2r10k4r4k4r2k35y2~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">1.80</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/">Einigkeit</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2k3r10k5r3k5r15k35w1~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">1.83</a></div><div class="nn-threads">310</div><div class="nn-name"><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/">Bertea, A H (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1r4k2g2r3g2k20r2k2~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">1.89</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/">Valdres, Kvam &amp; Vang #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4w1r4k2g2r3k22r2k2r2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">2.42</a></div><div class="nn-threads nn-far">82</div><div class="nn-name nn-far"><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/">Valdres Kvam and Vang District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k4w1r4k2g2r3k22r2k2r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4dr40k1dr3k1w3k4~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">2.42</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/">Salt Lake County</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4dr40k1dr3k1w3k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr18k1dy3k1lr1dr3k2dr2lr2~x4&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/">Anthony Plaid Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5k2db14k4dr8k4db4k80dr6k4dr4&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">261</div><div class="nn-name nn-far"><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/">American Heritage</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr6y1dr6k3dr12k15r1dr30k1w2~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s10/dr6y1dr6k3dr12k15r1dr30k1w2~x2/">Motherwell Football Club 1991</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dr6y1dr6k3dr12k15r1dr30k1w2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2&amp;base=dr74k4dr7k4dr9k40w2k4n2" title="compare in the TTD">3.01</a></div><div class="nn-threads nn-far2">260</div><div class="nn-name nn-far2"><a href="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/">New York Caledonian Club Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.8" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="114.8" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="100.8" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.7" cy="98.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.1" cy="90.9" r="4" fill="#3465a4"><title>Valdres Kvam and Vang District Tartan</title></circle></a><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/"><circle cx="514.1" cy="90.1" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.5" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s10/dr6y1dr6k3dr12k15r1dr30k1w2~x2/"><circle cx="417.1" cy="94.7" r="4" fill="#3465a4"><title>Motherwell Football Club 1991</title></circle></a><a href="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/"><circle cx="395.3" cy="103.0" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><circle cx="428.9" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

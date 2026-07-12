@@ -6,6 +6,8 @@ This is the **St. Andrew's Soc. of Singapore (Corp** sett — one scale-free pro
 [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [St. Andrew's Soc. of Singapore (Corp](/tartans/s/st/st-andrew-s-soc-of-singapore-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ayre Robinson (Personal)** sett — one scale-free proportion (`db
 [BBGBGBGBGRBW](/stripes/bbgbgbgbgrbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Ayre Robinson](/tartans/a/ay/ayre-robinson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

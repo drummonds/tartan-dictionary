@@ -6,7 +6,7 @@ This is the **MacKay (Logan)** sett — one scale-free proportion (`k4g23k23g2t2
 [GBGKGK](/stripes/gbgkgk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacKay](/tartans/mackay/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKay](/tartans/m/ma/mackay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

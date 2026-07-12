@@ -6,7 +6,7 @@ This is the **Royal Troon Golf Club, The** sett — one scale-free proportion (`
 [GBGWGWBY](/stripes/gbgwgwby/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Royal Troon Golf Club, The](/tartans/royal-troon-golf-club-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Troon Golf Club, The](/tartans/r/ro/royal-troon-golf-club-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

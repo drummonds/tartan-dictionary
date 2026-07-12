@@ -6,6 +6,8 @@ This is the **McKerrell of Hillhouse Dress (Clan)** sett — one scale-free prop
 [GWBW](/stripes/gwbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [McKerrell of Hillhouse Dress](/tartans/m/mc/mckerrell-of-hillhouse-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

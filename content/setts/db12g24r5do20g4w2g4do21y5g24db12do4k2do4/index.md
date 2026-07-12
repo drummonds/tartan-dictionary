@@ -6,6 +6,8 @@ This is the **Hyndman (Personal)** sett — one scale-free proportion (`db12g24r
 [BGRBGWGBGGBBKB](/stripes/bgrbgwgbggbbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hyndman](/tartans/h/hy/hyndman-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

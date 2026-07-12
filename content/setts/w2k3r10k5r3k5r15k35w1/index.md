@@ -6,6 +6,8 @@ This is the **Bertea, A H (Personal)** sett — one scale-free proportion (`w2k3
 [WKRKRKRKW](/stripes/wkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Bertea, A H](/tartans/b/be/bertea-a-h/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

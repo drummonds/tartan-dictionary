@@ -6,7 +6,7 @@ This is the **Rosevear Family/Clan Tartan** sett — one scale-free proportion (
 [BGWBWBWGR](/stripes/bgwbwbwgr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Rosevear](/tartans/rosevear/) tartan — the named design grouping this sett with its kin.
+Part of the [Rosevear](/tartans/r/ro/rosevear/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

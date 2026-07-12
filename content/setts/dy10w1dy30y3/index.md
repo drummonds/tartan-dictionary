@@ -6,6 +6,8 @@ This is the **Pasteur** sett — one scale-free proportion (`dy10w1dy30y3`), col
 [GGWG](/stripes/ggwg/). It is recorded as a single **variant**, below.
 First attested **1836**.
 
+Part of the [Pasteur](/tartans/p/pa/pasteur/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

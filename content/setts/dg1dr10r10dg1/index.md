@@ -6,6 +6,8 @@ This is the **Stirling of Keir (Clan)** sett — one scale-free proportion (`dg1
 [GBRG](/stripes/gbrg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Stirling of Keir](/tartans/s/st/stirling-of-keir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

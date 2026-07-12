@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Applestone"
+  url: "/tartans/a/ap/applestone/"
+- name: "Applestone"
   url: "/setts/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBKRGBGBG](/stripes/brbrbrbkrgbgbg/).
+
+Part of the [Applestone](/tartans/a/ap/applestone/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

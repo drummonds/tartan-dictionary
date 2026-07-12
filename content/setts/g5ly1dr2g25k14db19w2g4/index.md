@@ -6,7 +6,7 @@ This is the **Tooth (Personal)** sett — one scale-free proportion (`g5ly1dr2g2
 [GWBKGBYG](/stripes/gwbkgbyg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Tooth](/tartans/tooth/) tartan — the named design grouping this sett with its kin.
+Part of the [Tooth](/tartans/t/to/tooth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

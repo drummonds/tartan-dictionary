@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kernbrownek"
+  url: "/tartans/k/ke/kernbrownek/"
 - name: "Kernbrownek (Personal)"
   url: "/setts/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGKWKGWKWKW](/stripes/wkwgkwkgwkwkw/).
+
+Part of the [Kernbrownek](/tartans/k/ke/kernbrownek/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

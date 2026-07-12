@@ -6,6 +6,8 @@ This is the **King Robert the Bruce Memorial, The** sett — one scale-free prop
 [KRKBKWKBKR](/stripes/krkbkwkbkr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [King Robert the Bruce Memorial (Com](/tartans/k/ki/king-robert-the-bruce-memorial-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

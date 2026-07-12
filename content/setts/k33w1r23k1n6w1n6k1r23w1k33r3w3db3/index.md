@@ -6,6 +6,8 @@ This is the **Manac** sett — one scale-free proportion (`k33w1r23k1n6w1n6k1r23
 [BWRKWRKBWBKRWK](/stripes/bwrkwrkbwbkrwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Manac](/tartans/m/ma/manac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,42 @@
+---
+title: "Wilson"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BGRGRG](/stripes/bgrgrg/) — the page of every tartan sharing this colour sequence.
+
+Created for the 1780 wedding of William Wilson and Janet Paterson; later adopted as the Wilson family tartan.
+
+The **Wilson** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db48g14r3g2r3g2/">Wilson</a> ★</td><td><code>DB/96 G28 R6 G4 R6 G/4</code></td><td>188</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db48g14r3g2r3g2/"><img src="/variants/s6/db48g14r3g2r3g2~x2/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db64g20r4g3r4g3/">Wilson</a></td><td><code>DB/64 G20 R4 G3 R4 G/3</code></td><td>129</td><td>1780</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db64g20r4g3r4g3/"><img src="/variants/s6/db64g20r4g3r4g3/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Wilson #2
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">188</div><div class="nn-name nn-base"><a href="/variants/s6/db48g14r3g2r3g2~x2/">Wilson</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db48g14r3g2r3g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db64g20r4g3r4g3&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">0.17</a></div><div class="nn-threads">129</div><div class="nn-name"><a href="/variants/s6/db64g20r4g3r4g3/">Wilson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db64g20r4g3r4g3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db47g14do5o2r3g7~x2&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">1.51</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s6/db47g14do5o2r3g7~x2/">Round Table of Britain and Ireland, RtbI.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db47g14do5o2r3g7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g5db27g11o2~x2&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">1.96</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s5/r2g5db27g11o2~x2/">Hector James</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2g5db27g11o2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g4db36lg6g16db16g3~x2&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s6/g4db36lg6g16db16g3~x2/">City of Kincardine (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4db36lg6g16db16g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g4dt36lg6g16dt16g3~x2~dt1204274&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/">City of Kincardine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1db12g5db2g4lb1~x2&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s6/r1db12g5db2g4lb1~x2/">Connaught Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1db12g5db2g4lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db40g7y3g7db15r5~x2&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">218</div><div class="nn-name nn-far"><a href="/variants/s6/db40g7y3g7db15r5~x2/">Wheadon (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db40g7y3g7db15r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db40g8k1y2k1g8db5~x4&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s7/db40g8k1y2k1g8db5~x4/">Salvation Army Hunting Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db40g8k1y2k1g8db5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2db32g14db5g16w2~x2~g2106142&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/">Connacht Irish District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db32g14db5g16w2~x2~g2106142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db28o3lb1o3db4lb2dp1lb5~x4&amp;base=db48g14r3g2r3g2~x2" title="compare in the TTD">3.22</a></div><div class="nn-threads nn-far2">244</div><div class="nn-name nn-far2"><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/">Baker</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="166.9" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.7" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.3" cy="200.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.3" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.2" cy="234.9" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.1" cy="207.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.9" cy="196.8" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s7/db40g8k1y2k1g8db5~x4/"><circle cx="453.7" cy="111.9" r="4" fill="#3465a4"><title>Salvation Army Hunting Corporate Tartan</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="200.9" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="434.1" cy="123.7" r="4" fill="#3465a4"><title>Baker</title></circle></a><circle cx="456.2" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

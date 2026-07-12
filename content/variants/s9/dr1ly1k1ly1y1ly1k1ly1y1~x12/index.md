@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Seaforth"
+  url: "/tartans/s/se/seaforth/"
 - name: "Seaforth Estate Check"
   url: "/setts/dr1ly1k1ly1y1ly1k1ly1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1ly1k1ly1y1ly1k1ly1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKYGYKYGYKYGYKY](/stripes/bykygykygykygyky/).
+
+Part of the [Seaforth](/tartans/s/se/seaforth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

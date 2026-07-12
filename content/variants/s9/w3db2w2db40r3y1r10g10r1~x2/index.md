@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Russian Scottish"
-  url: "/tartans/russian-scottish/"
+  url: "/tartans/r/ru/russian-scottish/"
 - name: "Russian Scottish"
   url: "/setts/w3db2w2db40r3y1r10g10r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3db2w2db40r3y1r10g10r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRBWBW](/stripes/rgrgrbwbw/).
 
-Part of the [Russian Scottish](/tartans/russian-scottish/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Russian Scottish](/tartans/r/ru/russian-scottish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

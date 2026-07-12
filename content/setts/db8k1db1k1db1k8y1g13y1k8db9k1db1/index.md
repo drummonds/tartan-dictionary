@@ -6,7 +6,7 @@ This is the **Breadalbane Fencibles** sett — one scale-free proportion (`db8k1
 [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Breadalbane Fencibles](/tartans/breadalbane-fencibles/) tartan — the named design grouping this sett with its kin.
+Part of the [Breadalbane Fencibles](/tartans/b/br/breadalbane-fencibles/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Edinburgh District** sett — one scale-free proportion (`w3db25r3
 [KRGRRRRBW](/stripes/krgrrrrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Edinburgh District](/tartans/edinburgh-district/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh District](/tartans/e/ed/edinburgh-district/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

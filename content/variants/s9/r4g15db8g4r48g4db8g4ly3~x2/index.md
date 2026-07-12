@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cruikshank"
+  url: "/tartans/c/cr/cruikshank/"
 - name: "Cruikshank (Name)"
   url: "/setts/r4g15db8g4r48g4db8g4ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g15db8g4r48g4db8g4ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGRGBGY](/stripes/rgbgrgbgy/).
+
+Part of the [Cruikshank](/tartans/c/cr/cruikshank/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

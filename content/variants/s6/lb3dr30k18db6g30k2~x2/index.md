@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bryant"
+  url: "/tartans/b/br/bryant/"
 - name: "Bryant (Dalgleish) (Personal)"
   url: "/setts/lb3dr30k18db6g30k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3dr30k18db6g30k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBKBW](/stripes/kgbkbw/).
+
+Part of the [Bryant](/tartans/b/br/bryant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

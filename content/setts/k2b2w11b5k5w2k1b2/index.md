@@ -6,6 +6,8 @@ This is the **Conquergood** sett — one scale-free proportion (`k2b2w11b5k5w2k1
 [BKWKBWBK](/stripes/bkwkbwbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Conquergood](/tartans/c/co/conquergood-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

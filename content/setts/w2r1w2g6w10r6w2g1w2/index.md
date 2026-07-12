@@ -7,6 +7,8 @@ This is the **O'Neill Pipe Band 1999 (Corporate)** sett — one scale-free propo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [O'Neill Pipe Band 1999](/tartans/o/o/o-neill-pipe-band-1999/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

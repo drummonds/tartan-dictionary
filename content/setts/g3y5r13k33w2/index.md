@@ -6,6 +6,8 @@ This is the **Papua New Guinea Pipes and Drums** sett — one scale-free proport
 [GGRKW](/stripes/ggrkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Papua New Guinea Pipes and Drums](/tartans/p/pa/papua-new-guinea-pipes-and-drums/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

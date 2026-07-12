@@ -6,6 +6,8 @@ This is the **Lorne Dress (Dance) Fashion Tartan** sett — one scale-free propo
 [BKWBWBWBGBK](/stripes/bkwbwbwbgbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Lorne Dress](/tartans/l/lo/lorne-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

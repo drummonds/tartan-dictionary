@@ -6,6 +6,8 @@ This is the **Ferguson Dress variation** sett — one scale-free proportion (`w8
 [KGRGKWKWKW](/stripes/kgrgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Ferguson Dress variation](/tartans/f/fe/ferguson-dress-variation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

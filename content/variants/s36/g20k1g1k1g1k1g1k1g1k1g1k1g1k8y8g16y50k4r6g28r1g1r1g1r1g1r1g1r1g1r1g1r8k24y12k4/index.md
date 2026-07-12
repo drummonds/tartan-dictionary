@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Brunswick"
-  url: "/tartans/new-brunswick-2/"
+  url: "/tartans/n/ne/new-brunswick-2/"
 - name: "New Brunswick (PIK Mills, Toronto)"
   url: "/setts/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKGKGKGKGGGKRGRGRGRGRGRGRGRKGK](/stripes/gkgkgkgkgkgkgkgggkrgrgrgrgrgrgrgrkgk/).
 
-Part of the [New Brunswick](/tartans/new-brunswick-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [New Brunswick](/tartans/n/ne/new-brunswick-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

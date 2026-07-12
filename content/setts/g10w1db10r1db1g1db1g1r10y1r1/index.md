@@ -6,7 +6,7 @@ This is the **Belfast Tattoo** sett — one scale-free proportion (`g10w1db10r1d
 [GWBRBGBGRGR](/stripes/gwbrbgbgrgr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Belfast Tattoo](/tartans/belfast-tattoo/) tartan — the named design grouping this sett with its kin.
+Part of the [Belfast Tattoo](/tartans/b/be/belfast-tattoo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

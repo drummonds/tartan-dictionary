@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mungall"
+  url: "/tartans/m/mu/mungall/"
 - name: "Mungall Family Tartan"
   url: "/setts/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWRBGRKGKRGW](/stripes/brwrwrbgrkgkrgw/).
+
+Part of the [Mungall](/tartans/m/mu/mungall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

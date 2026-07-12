@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westfalia"
+  url: "/tartans/w/we/westfalia/"
 - name: "Westfalia (Corporate)"
   url: "/setts/dg44w18dg6w11db1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg44w18dg6w11db1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWBR](/stripes/gwgwbr/).
+
+Part of the [Westfalia](/tartans/w/we/westfalia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

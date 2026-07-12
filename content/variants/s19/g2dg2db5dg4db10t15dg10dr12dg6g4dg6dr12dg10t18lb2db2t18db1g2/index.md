@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Watkins"
   url: "/clan/watkins/"
 - name: "Watkins"
-  url: "/tartans/watkins/"
+  url: "/tartans/w/wa/watkins/"
 - name: "Watkins (Welsh Name)"
   url: "/setts/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBWBGBGGGBGBBGBGG](/stripes/gbbbwbgbgggbgbbgbgg/).
 
-Part of the [Watkins](/tartans/watkins/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Watkins](/tartans/w/wa/watkins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little's"
+  url: "/tartans/l/li/little-s/"
 - name: "Little's (Corporate)"
   url: "/setts/db1n8w1db4r8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1n8w1db4r8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRW](/stripes/bbwbrw/).
+
+Part of the [Little's](/tartans/l/li/little-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

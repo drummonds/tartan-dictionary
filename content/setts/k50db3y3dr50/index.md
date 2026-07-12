@@ -6,6 +6,8 @@ This is the **Hungerford RFC (Corporate)** sett — one scale-free proportion (`
 [BGBK](/stripes/bgbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hungerford RFC](/tartans/h/hu/hungerford-rfc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kinnear, Pilette of** sett — one scale-free proportion (`k2ri1k6
 [KRKGKGKGRBRGRGKGKGKRK](/stripes/krkgkgkgrbrgrgkgkgkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kinnear, Pilette of](/tartans/k/ki/kinnear-pilette-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Seton"
-  url: "/tartans/seton/"
+  url: "/tartans/s/se/seton/"
 - name: "Seton Family Tartan"
   url: "/setts/g6w1g12r4db4r2k4r32g1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6w1g12r4db4r2k4r32g1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRBRKRGR](/stripes/gwgrbrkrgr/).
 
-Part of the [Seton](/tartans/seton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Seton](/tartans/s/se/seton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

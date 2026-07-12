@@ -6,6 +6,8 @@ This is the **Montrose Football Club** sett — one scale-free proportion (`w6r1
 [WBWBRW](/stripes/wbwbrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Montrose Football Club](/tartans/m/mo/montrose-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

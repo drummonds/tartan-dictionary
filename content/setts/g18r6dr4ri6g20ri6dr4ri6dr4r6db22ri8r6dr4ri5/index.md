@@ -6,6 +6,8 @@ This is the **MacDougall 6** sett — one scale-free proportion (`g18r6dr4ri6g20
 [GRBRGRBRBRBRRBR](/stripes/grbrgrbrbrbrrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDougall 6](/tartans/m/ma/macdougall-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

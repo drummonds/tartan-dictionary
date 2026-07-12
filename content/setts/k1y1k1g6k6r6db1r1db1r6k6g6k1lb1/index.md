@@ -6,6 +6,8 @@ This is the **Rossi (Personal)** sett — one scale-free proportion (`k1y1k1g6k6
 [KGKGKRBRBRKGKW](/stripes/kgkgkrbrbrkgkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Rossi](/tartans/r/ro/rossi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

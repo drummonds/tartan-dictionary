@@ -6,6 +6,8 @@ This is the **Black (Hebridean) (Artefact)** sett — one scale-free proportion 
 [KBKRKRKRKRKRGR](/stripes/kbkrkrkrkrkrgr/). It is recorded as a single **variant**, below.
 First attested **~1991**.
 
+Part of the [Black](/tartans/b/bl/black/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

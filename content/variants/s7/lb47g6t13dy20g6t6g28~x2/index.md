@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of North Carolina"
+  url: "/tartans/s/st/state-seal-of-north-carolina/"
 - name: "State Seal of North Carolina (Fash.)"
   url: "/setts/lb47g6t13dy20g6t6g28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb47g6t13dy20g6t6g28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBGW](/stripes/gbggbgw/).
+
+Part of the [State Seal of North Carolina](/tartans/s/st/state-seal-of-north-carolina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

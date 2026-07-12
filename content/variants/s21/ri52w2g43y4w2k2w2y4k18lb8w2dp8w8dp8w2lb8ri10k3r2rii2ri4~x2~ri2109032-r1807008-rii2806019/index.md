@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee Wallace"
-  url: "/tartans/dundee-wallace/"
+  url: "/tartans/d/du/dundee-wallace/"
 - name: "Dundee Wallace"
   url: "/setts/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3r2rii2ri4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3r2rii2ri4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRKRWWBWBWWKGWKWGGWR](/stripes/rrrkrwwbwbwwkgwkwggwr/).
 
-Part of the [Dundee Wallace](/tartans/dundee-wallace/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dundee Wallace](/tartans/d/du/dundee-wallace/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

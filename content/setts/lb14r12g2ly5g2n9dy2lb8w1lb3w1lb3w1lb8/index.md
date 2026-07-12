@@ -6,6 +6,8 @@ This is the **Saint Joseph de Sorel (District)** sett — one scale-free proport
 [WRGYGBGWWWWWWW](/stripes/wrgygbgwwwwwww/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Saint Joseph de Sorel](/tartans/s/sa/saint-joseph-de-sorel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

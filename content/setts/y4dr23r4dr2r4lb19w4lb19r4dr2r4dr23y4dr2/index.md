@@ -6,6 +6,8 @@ This is the **Scottish Institute of Sport** sett — one scale-free proportion (
 [BGBRBRWWWRBRBG](/stripes/bgbrbrwwwrbrbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Scottish Institute of Sport](/tartans/s/sc/scottish-institute-of-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

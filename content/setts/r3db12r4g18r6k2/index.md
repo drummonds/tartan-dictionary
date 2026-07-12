@@ -6,6 +6,8 @@ This is the **Eyre (Personal)** sett — one scale-free proportion (`r3db12r4g18
 [KRGRBR](/stripes/krgrbr/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Eyre](/tartans/e/ey/eyre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thompson Navy"
+  url: "/tartans/t/th/thompson-navy/"
 - name: "Thompson Navy Trade Tartan"
   url: "/setts/r3db15w13dy6db2dy2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db15w13dy6db2dy2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWGBGR](/stripes/rbwgbgr/).
+
+Part of the [Thompson Navy](/tartans/t/th/thompson-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

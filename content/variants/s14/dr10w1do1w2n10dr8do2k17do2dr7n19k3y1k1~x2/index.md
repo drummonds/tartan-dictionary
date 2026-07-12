@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Wildcat"
+  url: "/tartans/s/sc/scottish-wildcat/"
+- name: "Scottish Wildcat"
   url: "/setts/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBBBKBBBKGK](/stripes/bwbwbbbkbbbkgk/).
+
+Part of the [Scottish Wildcat](/tartans/s/sc/scottish-wildcat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

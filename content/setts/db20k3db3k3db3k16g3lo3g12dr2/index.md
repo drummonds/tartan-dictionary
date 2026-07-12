@@ -6,7 +6,7 @@ This is the **Barnes Hunting (Personal)** sett — one scale-free proportion (`d
 [BGYGKBKBKB](/stripes/bgygkbkbkb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Barnes](/tartans/barnes/) tartan — the named design grouping this sett with its kin.
+Part of the [Barnes](/tartans/b/ba/barnes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

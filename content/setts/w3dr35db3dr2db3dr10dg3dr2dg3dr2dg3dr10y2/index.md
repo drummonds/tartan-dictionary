@@ -6,6 +6,8 @@ This is the **Glencross (Haverlands House) (Personal)** sett — one scale-free 
 [GBGBGBGBBBBBW](/stripes/gbgbgbgbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Glencross](/tartans/g/gl/glencross-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

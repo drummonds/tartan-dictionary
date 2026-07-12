@@ -6,6 +6,8 @@ This is the **Nynashamn Whisky Society (Corporate)** sett — one scale-free pro
 [GGBWGW](/stripes/ggbwgw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Nynaeshamn Whisky Society](/tartans/n/ny/nynaeshamn-whisky-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

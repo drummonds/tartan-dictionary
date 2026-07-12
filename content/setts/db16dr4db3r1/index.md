@@ -7,6 +7,8 @@ This is the **Elliot** sett — one scale-free proportion (`db16dr4db3r1`), colo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1906**.
 
+Part of the [Elliot](/tartans/e/el/elliot-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

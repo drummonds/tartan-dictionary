@@ -6,6 +6,8 @@ This is the **Murray, Lord George (Hose)** sett — one scale-free proportion (`
 [GRGRK](/stripes/grgrk/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Murray, Lord George](/tartans/m/mu/murray-lord-george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

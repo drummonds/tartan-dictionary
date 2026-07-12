@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacClure"
-  url: "/tartans/macclure/"
+  url: "/tartans/m/ma/macclure/"
 - name: "MacClure"
   url: "/setts/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBKBBBGBWK](/stripes/kbgbkbbbgbwk/).
 
-Part of the [MacClure](/tartans/macclure/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacClure](/tartans/m/ma/macclure/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

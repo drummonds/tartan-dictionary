@@ -6,6 +6,8 @@ This is the **Berwick -upon-Tweed (asymmetric)** sett — one scale-free proport
 [RYGYGYBKGKGKRW](/stripes/rygygybkgkgkrw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Berwick -upon-Tweed](/tartans/b/be/berwick-upon-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

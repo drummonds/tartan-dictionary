@@ -6,6 +6,8 @@ This is the **Unidentified "Old tartan"** sett — one scale-free proportion (`d
 [BGKGKGKGRGBKBGRGKGKGKGRBRBRBRBRBRBR](/stripes/bgkgkgkgrgbkbgrgkgkgkgrbrbrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified "Old tartan"](/tartans/u/un/unidentified-old-tartan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

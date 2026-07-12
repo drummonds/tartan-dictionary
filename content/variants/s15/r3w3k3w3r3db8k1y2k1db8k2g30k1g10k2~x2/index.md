@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coigach"
+  url: "/tartans/c/co/coigach/"
+- name: "Coigach"
   url: "/setts/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKBKGKBRWKWR](/stripes/kgkgkbkgkbrwkwr/).
+
+Part of the [Coigach](/tartans/c/co/coigach/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

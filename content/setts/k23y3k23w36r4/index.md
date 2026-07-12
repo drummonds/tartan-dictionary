@@ -6,6 +6,8 @@ This is the **Macleod, Winnifred Mary, Dress** sett — one scale-free proportio
 [KGKWR](/stripes/kgkwr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Macleod, Winnifred](/tartans/m/ma/macleod-winnifred/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

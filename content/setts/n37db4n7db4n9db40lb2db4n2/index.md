@@ -6,6 +6,8 @@ This is the **Edwards** sett — one scale-free proportion (`n37db4n7db4n9db40lb
 [BBBBBBWBB](/stripes/bbbbbbwbb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Edwards](/tartans/e/ed/edwards/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

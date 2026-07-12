@@ -6,6 +6,8 @@ This is the **Chinese Scottish** sett — one scale-free proportion (`r24g6r3g3d
 [GRGRGBWBWBWBWBGRGR](/stripes/grgrgbwbwbwbwbgrgr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Chinese Scottish](/tartans/c/ch/chinese-scottish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

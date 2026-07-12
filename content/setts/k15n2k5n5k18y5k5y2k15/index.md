@@ -6,6 +6,8 @@ This is the **Laois Irish County Tartan** sett — one scale-free proportion (`k
 [KBKBKGKGK](/stripes/kbkbkgkgk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Laois Irish County](/tartans/l/la/laois-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

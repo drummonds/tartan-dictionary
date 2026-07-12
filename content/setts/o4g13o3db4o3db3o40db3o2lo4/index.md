@@ -6,6 +6,8 @@ This is the **Galway Irish County Tartan** sett — one scale-free proportion (`
 [RGRBRBRBRY](/stripes/rgrbrbrbry/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Galway Irish County](/tartans/g/ga/galway-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

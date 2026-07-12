@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lockwood"
+  url: "/tartans/l/lo/lockwood/"
 - name: "Lockwood Family Tartan"
   url: "/setts/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2dy15w22k2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGKWRKRKRWKGGWKG](/stripes/bwbgkwrkrkrwkggwkg/).
+
+Part of the [Lockwood](/tartans/l/lo/lockwood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

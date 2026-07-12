@@ -6,6 +6,8 @@ This is the **DeLoughery (Personal)** sett — one scale-free proportion (`db20k
 [BKYBGW](/stripes/bkybgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [DeLoughery](/tartans/d/de/deloughery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

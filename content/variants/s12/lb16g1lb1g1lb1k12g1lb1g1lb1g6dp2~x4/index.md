@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stephen-Mathieson"
-  url: "/tartans/stephen-mathieson/"
+  url: "/tartans/s/st/stephen-mathieson/"
 - name: "Stephen-Mathieson (Name)"
   url: "/setts/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGWGKWGWGW](/stripes/bgwgwgkwgwgw/).
 
-Part of the [Stephen-Mathieson](/tartans/stephen-mathieson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stephen-Mathieson](/tartans/s/st/stephen-mathieson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

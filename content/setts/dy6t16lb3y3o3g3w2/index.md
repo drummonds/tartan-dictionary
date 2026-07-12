@@ -6,7 +6,7 @@ This is the **Atikokan (District)** sett — one scale-free proportion (`dy6t16l
 [GBWGRGW](/stripes/gbwgrgw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Atikokan](/tartans/atikokan/) tartan — the named design grouping this sett with its kin.
+Part of the [Atikokan](/tartans/a/at/atikokan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

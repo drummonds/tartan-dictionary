@@ -6,6 +6,8 @@ This is the **Deeside, Royal** sett — one scale-free proportion (`lp4dy2dp4dy3
 [RBGBGW](/stripes/rbgbgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Deeside, Royal](/tartans/d/de/deeside-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacKillop"
-  url: "/tartans/mackillop-2/"
+  url: "/tartans/m/ma/mackillop-2/"
 - name: "MacKillop Clan Tartan"
   url: "/setts/g3r2db2r13lb1db4r2g7r2db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3r2db2r13lb1db4r2g7r2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWRBRG](/stripes/brgrbwrbrg/).
 
-Part of the [MacKillop](/tartans/mackillop-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKillop](/tartans/m/ma/mackillop-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

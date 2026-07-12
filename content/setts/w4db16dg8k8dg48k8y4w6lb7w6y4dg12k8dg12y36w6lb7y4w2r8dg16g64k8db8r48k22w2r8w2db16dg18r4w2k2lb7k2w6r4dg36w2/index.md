@@ -6,6 +6,8 @@ This is the **Valencia** sett — one scale-free proportion (`w4db16dg8k8dg48k8y
 [WBGKGKGWWWGGKGGWWGWRGGKBRKWRWBGRWKWKWRGW](/stripes/wbgkgkgwwwggkggwwgwrggkbrkwrwbgrwkwkwrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Valencia](/tartans/v/va/valencia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

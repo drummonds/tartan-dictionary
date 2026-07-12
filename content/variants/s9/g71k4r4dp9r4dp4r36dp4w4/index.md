@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Rattray"
+  url: "/clan/rattray/"
+- name: "Rattray"
+  url: "/tartans/r/ra/rattray/"
 - name: "Rattray"
   url: "/setts/g71k4r4dp9r4dp4r36dp4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g71k4r4dp9r4dp4r36dp4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBRBRBW](/stripes/gkrbrbrbw/).
+
+Part of the [Rattray](/tartans/r/ra/rattray/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

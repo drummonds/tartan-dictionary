@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Akintiev"
+  url: "/tartans/a/ak/akintiev/"
 - name: "Akintiev (2014)"
   url: "/setts/db22w5k9db20n14k9n11r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22w5k9db20n14k9n11r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBBKBR](/stripes/bwkbbkbr/).
+
+Part of the [Akintiev](/tartans/a/ak/akintiev/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

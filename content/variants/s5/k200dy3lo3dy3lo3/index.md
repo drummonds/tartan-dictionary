@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "SmartWool"
+  url: "/tartans/s/sm/smartwool/"
+- name: "SmartWool"
   url: "/setts/k200dy3lo3dy3lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k200dy3lo3dy3lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGY](/stripes/kgygy/).
+
+Part of the [SmartWool](/tartans/s/sm/smartwool/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Hart (Texas) (Personal)** sett — one scale-free proportion (`y4k
 [BWRBRKRBWKG](/stripes/bwrbrkrbwkg/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Hart](/tartans/h/ha/hart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

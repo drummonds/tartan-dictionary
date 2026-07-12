@@ -6,6 +6,8 @@ This is the **Knights Templar International Corporate Tartan** sett — one scal
 [BRKWKWKBR](/stripes/brkwkwkbr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Knights Templar International](/tartans/k/kn/knights-templar-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

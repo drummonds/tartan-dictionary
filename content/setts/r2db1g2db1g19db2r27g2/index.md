@@ -6,6 +6,8 @@ This is the **Thomas of Wales** sett — one scale-free proportion (`r2db1g2db1g
 [GRBGBGBR](/stripes/grbgbgbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Thomas](/tartans/t/th/thomas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

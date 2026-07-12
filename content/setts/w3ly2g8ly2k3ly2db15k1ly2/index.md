@@ -6,6 +6,8 @@ This is the **MacManus** sett — one scale-free proportion (`w3ly2g8ly2k3ly2db1
 [WYGYKYBKY](/stripes/wygykybky/). It is recorded as a single **variant**, below.
 First attested **~1828**.
 
+Part of the [MacManus](/tartans/m/ma/macmanus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

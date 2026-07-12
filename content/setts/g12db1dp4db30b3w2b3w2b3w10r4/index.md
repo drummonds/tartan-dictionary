@@ -6,7 +6,7 @@ This is the **Rosslyn Chapel** sett — one scale-free proportion (`g12db1dp4db3
 [GBBBBWBWBWR](/stripes/gbbbbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Rosslyn Chapel](/tartans/rosslyn-chapel/) tartan — the named design grouping this sett with its kin.
+Part of the [Rosslyn Chapel](/tartans/r/ro/rosslyn-chapel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

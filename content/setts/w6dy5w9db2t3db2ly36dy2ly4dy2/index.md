@@ -6,6 +6,8 @@ This is the **Outpost Club** sett — one scale-free proportion (`w6dy5w9db2t3db
 [GYGYBBBWGW](/stripes/gygybbbwgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Outpost Club](/tartans/o/ou/outpost-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

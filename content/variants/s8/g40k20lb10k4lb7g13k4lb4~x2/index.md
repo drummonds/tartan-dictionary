@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Letham"
-  url: "/tartans/letham/"
+  url: "/tartans/l/le/letham/"
 - name: "Letham (S.Australia)"
   url: "/setts/g40k20lb10k4lb7g13k4lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g40k20lb10k4lb7g13k4lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWGKW](/stripes/gkwkwgkw/).
 
-Part of the [Letham](/tartans/letham/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Letham](/tartans/l/le/letham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

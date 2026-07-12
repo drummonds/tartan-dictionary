@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Prince"
+  url: "/tartans/h/hi/highland-prince/"
 - name: "Highland Prince (Fashion)"
   url: "/setts/dr32r2g2db30dr1db2ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr32r2g2db30dr1db2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBBBY](/stripes/brgbbby/).
+
+Part of the [Highland Prince](/tartans/h/hi/highland-prince/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ This is the **Douglas, Green (Wilsons)** sett — one scale-free proportion (`k1
 [KBGBW](/stripes/kbgbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Douglas](/tartans/douglas-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/d/do/douglas-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

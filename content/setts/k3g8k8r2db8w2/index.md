@@ -6,7 +6,7 @@ This is the **Mitchell Family Tartan** sett — one scale-free proportion (`k3g8
 [KGKRBW](/stripes/kgkrbw/). It is recorded as a single **variant**, below.
 First attested **1816**.
 
-Part of the [Mitchell](/tartans/mitchell/) tartan — the named design grouping this sett with its kin.
+Part of the [Mitchell](/tartans/m/mi/mitchell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

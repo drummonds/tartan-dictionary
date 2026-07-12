@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian Society of Prince Edward Island"
+  url: "/tartans/c/ca/caledonian-society-of-prince-edward-island/"
+- name: "Caledonian Society of Prince Edward Island"
   url: "/setts/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKWRKWRBRBRBR](/stripes/bkbkgkwrkwrbrbrbr/).
+
+Part of the [Caledonian Society of Prince Edward Island](/tartans/c/ca/caledonian-society-of-prince-edward-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

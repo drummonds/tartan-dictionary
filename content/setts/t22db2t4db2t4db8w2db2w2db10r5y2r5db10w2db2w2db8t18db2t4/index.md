@@ -6,6 +6,8 @@ This is the **Tartan Army** sett — one scale-free proportion (`t22db2t4db2t4db
 [BBBBBBWBWBRGRBWBWBBBB](/stripes/bbbbbbwbwbrgrbwbwbbbb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Tartan Army](/tartans/t/ta/tartan-army/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

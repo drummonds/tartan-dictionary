@@ -6,6 +6,8 @@ This is the **Freger (Corporate)** sett — one scale-free proportion (`y2w15dp1
 [GWBKGKBKGWGKBKGKWKBWGW](/stripes/gwbkgkbkgwgkbkgkwkbwgw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Freger](/tartans/f/fr/freger-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

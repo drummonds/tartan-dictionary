@@ -6,6 +6,8 @@ This is the **Children 1st (Corporate)** sett — one scale-free proportion (`y7
 [GBBBBBBGG](/stripes/gbbbbbbgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Children 1st](/tartans/c/ch/children-1st/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

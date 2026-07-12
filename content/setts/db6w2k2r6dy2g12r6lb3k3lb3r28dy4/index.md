@@ -6,7 +6,7 @@ This is the **Wren (Name)** sett — one scale-free proportion (`db6w2k2r6dy2g12
 [BWKRGGRWKWRG](/stripes/bwkrggrwkwrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Wren](/tartans/wren/) tartan — the named design grouping this sett with its kin.
+Part of the [Wren](/tartans/w/wr/wren/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

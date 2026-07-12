@@ -6,7 +6,7 @@ This is the **First (Corporate)** sett — one scale-free proportion (`r4dp1r1dp
 [RBRBKBW](/stripes/rbrbkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [First](/tartans/first/) tartan — the named design grouping this sett with its kin.
+Part of the [First](/tartans/f/fi/first/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

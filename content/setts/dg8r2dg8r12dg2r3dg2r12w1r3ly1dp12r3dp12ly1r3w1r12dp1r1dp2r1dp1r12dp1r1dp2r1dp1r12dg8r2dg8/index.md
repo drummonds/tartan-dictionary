@@ -6,7 +6,7 @@ This is the **Huntly** sett — one scale-free proportion (`dg8r2dg8r12dg2r3dg2r
 [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrgrgrbrbrbrbrbrbrwrybrbyrwrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Huntly](/tartans/huntly-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Huntly](/tartans/h/hu/huntly-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **East Tennessee State University** sett — one scale-free proporti
 [YKYWBWY](/stripes/ykywbwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [East Tennessee State University](/tartans/e/ea/east-tennessee-state-university-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

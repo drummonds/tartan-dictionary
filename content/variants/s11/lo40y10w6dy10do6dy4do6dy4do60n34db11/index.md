@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Angels' Share, The"
+  url: "/tartans/a/an/angels-share-the/"
+- name: "Angels' Share, The"
   url: "/setts/lo40y10w6dy10do6dy4do6dy4do60n34db11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo40y10w6dy10do6dy4do6dy4do60n34db11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGWGY](/stripes/bbbgbgbgwgy/).
+
+Part of the [Angels' Share, The](/tartans/a/an/angels-share-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

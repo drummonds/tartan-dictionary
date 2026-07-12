@@ -7,6 +7,8 @@ This is the **Finzean, Fancy** sett — one scale-free proportion (`w5y8ri6k6lb2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1805**.
 
+Part of the [Finzean's Fancy](/tartans/f/fi/finzean-s-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

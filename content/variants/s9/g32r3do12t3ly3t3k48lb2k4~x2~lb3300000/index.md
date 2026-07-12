@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Webster"
+  url: "/tartans/w/we/webster/"
+- name: "Webster"
   url: "/setts/g32r3do12t3ly3t3k48lb2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g32r3do12t3ly3t3k48lb2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBBYBKWK](/stripes/grbbybkwk/).
+
+Part of the [Webster](/tartans/w/we/webster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

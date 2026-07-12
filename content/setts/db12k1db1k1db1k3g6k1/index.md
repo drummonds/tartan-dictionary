@@ -6,6 +6,8 @@ This is the **Black Watch (Miniature) Regimental Tartan** sett — one scale-fre
 [BKBKBKGK](/stripes/bkbkbkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Black Watch Regimental](/tartans/b/bl/black-watch-regimental-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

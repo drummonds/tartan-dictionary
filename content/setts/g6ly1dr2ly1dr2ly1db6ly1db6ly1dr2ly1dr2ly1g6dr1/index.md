@@ -6,6 +6,8 @@ This is the **Stevenson (Personal)** sett — one scale-free proportion (`g6ly1d
 [BGYBYBYBYBYBYBYG](/stripes/bgybybybybybybyg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Stevenson](/tartans/s/st/stevenson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

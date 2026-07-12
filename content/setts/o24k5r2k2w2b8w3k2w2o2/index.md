@@ -6,6 +6,8 @@ This is the **Stewart, Fawn** sett — one scale-free proportion (`o24k5r2k2w2b8
 [RKRKWBWKWR](/stripes/rkrkwbwkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart, Fawn](/tartans/s/st/stewart-fawn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

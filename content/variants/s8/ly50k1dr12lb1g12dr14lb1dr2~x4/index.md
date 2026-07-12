@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacByrd"
-  url: "/tartans/macbyrd/"
+  url: "/tartans/m/ma/macbyrd/"
 - name: "MacByrd (Personal)"
   url: "/setts/ly50k1dr12lb1g12dr14lb1dr2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly50k1dr12lb1g12dr14lb1dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGWBKY](/stripes/bwbgwbky/).
 
-Part of the [MacByrd](/tartans/macbyrd/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacByrd](/tartans/m/ma/macbyrd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -19,5 +19,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Cairns of Finavon tartan and all its setts →](/tartans/cairns-of-finavon/)
+[See the Cairns of Finavon tartan and all its setts →](/tartans/c/ca/cairns-of-finavon/)
 

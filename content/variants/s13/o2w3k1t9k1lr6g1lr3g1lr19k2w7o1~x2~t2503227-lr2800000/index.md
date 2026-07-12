@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cahaba Memorial"
+  url: "/tartans/c/ca/cahaba-memorial-2/"
 - name: "Cahaba Memorial (Commemorative)"
   url: "/setts/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBKYGYGYKWR](/stripes/rwkbkygygykwr/).
+
+Part of the [Cahaba Memorial](/tartans/c/ca/cahaba-memorial-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

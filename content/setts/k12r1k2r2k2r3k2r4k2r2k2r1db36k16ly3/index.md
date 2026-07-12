@@ -6,6 +6,8 @@ This is the **Citymoves (2012) (Corporate)** sett — one scale-free proportion 
 [KRKRKRKRKRKRBKY](/stripes/krkrkrkrkrkrbky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Citymoves](/tartans/c/ci/citymoves/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

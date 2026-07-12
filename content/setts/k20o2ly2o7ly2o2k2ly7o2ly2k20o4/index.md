@@ -6,7 +6,7 @@ This is the **Black Forest (Fashion)** sett — one scale-free proportion (`k20o
 [KRYRYRKYRYKR](/stripes/kryryrkyrykr/). It is recorded as a single **variant**, below.
 First attested **~1977**.
 
-Part of the [Black Forest](/tartans/black-forest/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Forest](/tartans/b/bl/black-forest/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

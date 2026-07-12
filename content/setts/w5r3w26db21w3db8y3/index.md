@@ -6,6 +6,8 @@ This is the **MacPherson Blue/White Clan Tartan** sett — one scale-free propor
 [GBWBWRW](/stripes/gbwbwrw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [MacPherson Blue/White](/tartans/m/ma/macpherson-blue-white/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

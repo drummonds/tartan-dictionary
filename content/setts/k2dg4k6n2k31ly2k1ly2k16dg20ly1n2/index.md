@@ -6,6 +6,8 @@ This is the **Entier** sett — one scale-free proportion (`k2dg4k6n2k31ly2k1ly2
 [BYGKYKYKBKGK](/stripes/bygkykykbkgk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Entier](/tartans/e/en/entier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **International Bear Pride** sett — one scale-free proportion (`k3
 [BWBKGGYWBBK](/stripes/bwbkggywbbk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [International Bear Pride](/tartans/i/in/international-bear-pride/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

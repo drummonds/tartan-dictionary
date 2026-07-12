@@ -6,6 +6,8 @@ This is the **Glendronach Corporate Tartan** sett — one scale-free proportion 
 [GRWYRGRYGYRG](/stripes/grwyrgrygyrg/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Glendronach](/tartans/g/gl/glendronach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

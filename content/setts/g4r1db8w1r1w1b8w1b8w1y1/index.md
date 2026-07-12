@@ -6,7 +6,7 @@ This is the **Texas, Bluebonnet** sett — one scale-free proportion (`g4r1db8w1
 [GRBWRWBWBWG](/stripes/grbwrwbwbwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Texas, Bluebonnet](/tartans/texas-bluebonnet/) tartan — the named design grouping this sett with its kin.
+Part of the [Texas, Bluebonnet](/tartans/t/te/texas-bluebonnet/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

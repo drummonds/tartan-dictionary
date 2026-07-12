@@ -6,6 +6,8 @@ This is the **Chisholm Colonial** sett — one scale-free proportion (`db6w1ly24
 [BWYGBGBGBR](/stripes/bwygbgbgbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Chisholm Colonial](/tartans/c/ch/chisholm-colonial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Catalan"
-  url: "/tartans/catalan/"
+  url: "/tartans/c/ca/catalan/"
 - name: "Catalan (92 Olympics)"
   url: "/setts/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly44dr6ly6dr6ly6dr6ly6dr6ly44t3ly3g3ly3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYGYBYBYBYBYBY](/stripes/wygybybybybyby/).
 
-Part of the [Catalan](/tartans/catalan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Catalan](/tartans/c/ca/catalan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Marshall Fields Corporate Tartan** sett — one scale-free proport
 [GBWBGBGR](/stripes/gbwbgbgr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Marshall Fields](/tartans/m/ma/marshall-fields/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

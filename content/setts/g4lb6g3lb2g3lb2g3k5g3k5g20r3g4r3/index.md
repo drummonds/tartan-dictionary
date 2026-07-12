@@ -6,7 +6,7 @@ This is the **Ross Hunting** sett — one scale-free proportion (`g4lb6g3lb2g3lb
 [GWGWGWGKGKGRGR](/stripes/gwgwgwgkgkgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ross Hunting](/tartans/ross-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Ross Hunting](/tartans/r/ro/ross-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

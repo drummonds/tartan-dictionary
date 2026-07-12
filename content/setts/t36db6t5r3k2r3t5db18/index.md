@@ -6,6 +6,8 @@ This is the **Leonard (Name)** sett — one scale-free proportion (`t36db6t5r3k2
 [BBBRKRBB](/stripes/bbbrkrbb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Leonard](/tartans/l/le/leonard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hoben (Personal)** sett — one scale-free proportion (`k3w1r20db4
 [KWRBRGRBRKW](/stripes/kwrbrgrbrkw/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
+Part of the [Hoben](/tartans/h/ho/hoben/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

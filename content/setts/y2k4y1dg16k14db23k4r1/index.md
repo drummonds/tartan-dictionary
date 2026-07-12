@@ -6,6 +6,8 @@ This is the **Thomas of Craigie (Personal)** sett — one scale-free proportion 
 [GKGGKBKR](/stripes/gkggkbkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Thomas of Craigie](/tartans/t/th/thomas-of-craigie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

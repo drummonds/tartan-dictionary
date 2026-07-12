@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arran Mist"
+  url: "/tartans/a/ar/arran-mist/"
+- name: "Arran Mist"
   url: "/setts/dy8w1o1db10n16dy2k3db33lb1ki3dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy8w1o1db10n16dy2k3db33lb1ki3dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWBKGBBRWG](/stripes/gkwbkgbbrwg/).
+
+Part of the [Arran Mist](/tartans/a/ar/arran-mist/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Blue Rust (Corporate)** sett — one scale-free proportion (`db21n
 [BBYBBBBG](/stripes/bbybbbbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Blue Rust](/tartans/b/bl/blue-rust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

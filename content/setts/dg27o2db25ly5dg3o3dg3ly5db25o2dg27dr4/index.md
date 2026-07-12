@@ -6,6 +6,8 @@ This is the **Kilkenny, County** sett — one scale-free proportion (`dg27o2db25
 [BGRBYGRGYBRG](/stripes/bgrbygrgybrg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kilkenny, County](/tartans/k/ki/kilkenny-county-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Dalriada** sett — one scale-free proportion (`r55w1ri1g2r2g49ri2
 [GRRGRRGRBRGRGRGRWR](/stripes/grrgrrgrbrgrgrgrwr/). It is recorded as a single **variant**, below.
 First attested **1730**.
 
+Part of the [Dalriada](/tartans/d/da/dalriada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

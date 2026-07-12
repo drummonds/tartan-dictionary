@@ -6,6 +6,8 @@ This is the **Fox-Eves Wedding** sett — one scale-free proportion (`r9db6dbi13
 [RBBBGW](/stripes/rbbbgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Fox-Eves Wedding](/tartans/f/fo/fox-eves-wedding-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

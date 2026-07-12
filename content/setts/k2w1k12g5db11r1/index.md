@@ -6,6 +6,8 @@ This is the **New England (Fashion)** sett — one scale-free proportion (`k2w1k
 [KWKGBR](/stripes/kwkgbr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [New England](/tartans/n/ne/new-england/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

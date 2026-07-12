@@ -10,7 +10,7 @@ crumbs:
 - name: "Moray of Abercairney"
   url: "/families/moray-of-abercairney/"
 - name: "Moray of Abercairney"
-  url: "/tartans/moray-of-abercairney-3/"
+  url: "/tartans/m/mo/moray-of-abercairney-3/"
 - name: "Moray of Abercairney #2"
   url: "/setts/ri8r1g4r1db4/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri8r1g4r1db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRR](/stripes/brgrr/).
 
-Part of the [Moray of Abercairney](/tartans/moray-of-abercairney-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moray of Abercairney](/tartans/m/mo/moray-of-abercairney-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

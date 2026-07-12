@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
+- name: "Cameron Hose"
+  url: "/tartans/c/ca/cameron-hose/"
 - name: "Cameron Hose"
   url: "/setts/k1r8g1r1w8r1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1r8g1r1w8r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRWRK](/stripes/krgrwrk/).
+
+Part of the [Cameron Hose](/tartans/c/ca/cameron-hose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

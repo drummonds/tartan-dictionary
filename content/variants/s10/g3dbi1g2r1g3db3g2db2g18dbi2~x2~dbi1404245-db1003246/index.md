@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Owen"
   url: "/clan/owen/"
 - name: "Owen"
-  url: "/tartans/owen/"
+  url: "/tartans/o/ow/owen/"
 - name: "Owen Welsh Name Tartan"
   url: "/setts/g3dbi1g2r1g3db3g2db2g18dbi2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3dbi1g2r1g3db3g2db2g18dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGRGBG](/stripes/bgbgbgrgbg/).
 
-Part of the [Owen](/tartans/owen/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Owen](/tartans/o/ow/owen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

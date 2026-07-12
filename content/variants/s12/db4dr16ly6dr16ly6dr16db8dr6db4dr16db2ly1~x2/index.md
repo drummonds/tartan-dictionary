@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glover, Thomas Blake"
+  url: "/tartans/g/gl/glover-thomas-blake/"
 - name: "Glover, Thomas Blake (Corporate)"
   url: "/setts/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBYBBBBBBY](/stripes/bbybybbbbbby/).
+
+Part of the [Glover, Thomas Blake](/tartans/g/gl/glover-thomas-blake/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,7 +6,7 @@ This is the **St. Andrews New Golf Club (Corp)** sett — one scale-free proport
 [BBBBBBGBG](/stripes/bbbbbbgbg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [St. Andrews New Golf Club](/tartans/st-andrews-new-golf-club/) tartan — the named design grouping this sett with its kin.
+Part of the [St. Andrews New Golf Club](/tartans/s/st/st-andrews-new-golf-club/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

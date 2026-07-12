@@ -6,6 +6,8 @@ This is the **Palmer, Arnold** sett — one scale-free proportion (`dg40dr5k2w2k
 [GBKWKGKGBK](/stripes/gbkwkgkgbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Palmer, Arnold](/tartans/p/pa/palmer-arnold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

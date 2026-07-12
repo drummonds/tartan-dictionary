@@ -6,6 +6,8 @@ This is the **Bristow Helicopters** sett — one scale-free proportion (`db28k1w
 [BKWBKRKBWKBKBK](/stripes/bkwbkrkbwkbkbk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Bristow Helicopters](/tartans/b/br/bristow-helicopters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

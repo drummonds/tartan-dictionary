@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Idaho, Centennial"
+  url: "/tartans/i/id/idaho-centennial/"
+- name: "Idaho, Centennial"
   url: "/setts/db12r2db2r2db2g10w12o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12r2db2r2db2g10w12o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGWR](/stripes/brbrbgwr/).
+
+Part of the [Idaho, Centennial](/tartans/i/id/idaho-centennial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

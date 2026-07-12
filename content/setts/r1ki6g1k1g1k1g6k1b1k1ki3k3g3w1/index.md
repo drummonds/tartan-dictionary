@@ -6,6 +6,8 @@ This is the **Elgin - Landshut** sett — one scale-free proportion (`r1ki6g1k1g
 [RKGKGKGKBKKKGW](/stripes/rkgkgkgkbkkkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Elgin](/tartans/e/el/elgin-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

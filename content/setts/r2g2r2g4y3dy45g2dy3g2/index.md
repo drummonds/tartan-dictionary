@@ -6,6 +6,8 @@ This is the **Welsh Stanley–Gpa (Personal)** sett — one scale-free proportio
 [GGGGGGRGR](/stripes/ggggggrgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Welsh Stanley–Gpa](/tartans/w/we/welsh-stanley-gpa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

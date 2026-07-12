@@ -7,6 +7,8 @@ This is the **Lovell (2014)** sett — one scale-free proportion (`y2k2dbi14db4k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2013**.
 
+Part of the [Lovell](/tartans/l/lo/lovell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

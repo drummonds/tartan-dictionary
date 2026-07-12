@@ -6,6 +6,8 @@ This is the **Tom Morris (Official)** sett — one scale-free proportion (`lb38d
 [WBWBWBWGWBWBW](/stripes/wbwbwbwgwbwbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Tom Morris](/tartans/t/to/tom-morris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

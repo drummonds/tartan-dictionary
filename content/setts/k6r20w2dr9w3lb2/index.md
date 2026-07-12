@@ -6,6 +6,8 @@ This is the **Thermos Un-named (aretefact)** sett — one scale-free proportion 
 [KRWBWW](/stripes/krwbww/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Thermos Un-named](/tartans/t/th/thermos-un-named/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

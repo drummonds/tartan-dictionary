@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eyre"
+  url: "/tartans/e/ey/eyre/"
 - name: "Eyre (Personal)"
   url: "/setts/r3db12r4g18r6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db12r4g18r6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGRBR](/stripes/krgrbr/).
+
+Part of the [Eyre](/tartans/e/ey/eyre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

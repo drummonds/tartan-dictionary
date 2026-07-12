@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shiel Claret"
+  url: "/tartans/s/sh/shiel-claret/"
 - name: "Shiel, Claret (Dance)"
   url: "/setts/w8dr5dp10r24w30dr2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8dr5dp10r24w30dr2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWRBBW](/stripes/bbwrbbw/).
+
+Part of the [Shiel Claret](/tartans/s/sh/shiel-claret/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

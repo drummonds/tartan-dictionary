@@ -6,6 +6,8 @@ This is the **Balmoral (Pendleton)** sett — one scale-free proportion (`n3k2n1
 [BKBKBRBKRBKB](/stripes/bkbkbrbkrbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balmoral](/tartans/b/ba/balmoral-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

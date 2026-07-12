@@ -6,6 +6,8 @@ This is the **Stewart Black** sett — one scale-free proportion (`db20b6k8y2k4w
 [BBKGKWKBRKW](/stripes/bbkgkwkbrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart](/tartans/s/st/stewart-14/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

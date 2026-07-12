@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hawks"
+  url: "/tartans/h/ha/hawks/"
 - name: "Hawks (2014)"
   url: "/setts/w2do3g5k50g4do3w2db3k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2do3g5k50g4do3w2db3k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGBWBKY](/stripes/wbgkgbwbky/).
+
+Part of the [Hawks](/tartans/h/ha/hawks/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

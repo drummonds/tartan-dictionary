@@ -6,6 +6,8 @@ This is the **Coulter (Personal)** sett — one scale-free proportion (`lb7k9ly2
 [KYKWKRGWWWGRYKYKW](/stripes/kykwkrgwwwgrykykw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Coulter](/tartans/c/co/coulter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

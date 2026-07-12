@@ -6,6 +6,8 @@ This is the **Richards (Welsh Name)** sett — one scale-free proportion (`db5r2
 [BRBRBBRBWBRB](/stripes/brbrbbrbwbrb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Richards](/tartans/r/ri/richards-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

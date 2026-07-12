@@ -7,6 +7,8 @@ This is the **Hohenzollern** sett — one scale-free proportion (`k1w31k4g8r1g2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2007**.
 
+Part of the [Hohenzollern](/tartans/h/ho/hohenzollern/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

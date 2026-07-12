@@ -6,6 +6,8 @@ This is the **Aubigny** sett — one scale-free proportion (`ly20k2ly3k2ly4k9r18
 [RKRKYKYKY](/stripes/rkrkykyky/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Aubigny](/tartans/a/au/aubigny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

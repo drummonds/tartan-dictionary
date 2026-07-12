@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duke of Sussex"
+  url: "/tartans/d/du/duke-of-sussex-2/"
 - name: "Duke of Sussex (Earl of Inverness)"
   url: "/setts/r114g10w3g16ly3g3ly3r28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r114g10w3g16ly3g3ly3r28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGWGYGYR](/stripes/rgwgygyr/).
+
+Part of the [Duke of Sussex](/tartans/d/du/duke-of-sussex-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 

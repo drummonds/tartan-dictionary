@@ -6,6 +6,8 @@ This is the **Carrick High School** sett — one scale-free proportion (`k6y2k16
 [KBKWKGK](/stripes/kbkwkgk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Carrick High](/tartans/c/ca/carrick-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Leitrem County Crest (Fashion)** sett — one scale-free proportio
 [WBBGBYBYBY](/stripes/wbbgbybyby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Leitrem County Crest](/tartans/l/le/leitrem-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

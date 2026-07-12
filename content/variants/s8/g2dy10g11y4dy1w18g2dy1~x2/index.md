@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aviemore Check"
-  url: "/tartans/aviemore-check/"
+  url: "/tartans/a/av/aviemore-check/"
 - name: "Aviemore Check District Tartan"
   url: "/setts/g2dy10g11y4dy1w18g2dy1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2dy10g11y4dy1w18g2dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGWGG](/stripes/gggggwgg/).
 
-Part of the [Aviemore Check](/tartans/aviemore-check/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aviemore Check](/tartans/a/av/aviemore-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

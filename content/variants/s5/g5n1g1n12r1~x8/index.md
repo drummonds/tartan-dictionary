@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ceredigion"
+  url: "/tartans/c/ce/ceredigion/"
 - name: "Ceredigion (Personal)"
   url: "/setts/g5n1g1n12r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5n1g1n12r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
+
+Part of the [Ceredigion](/tartans/c/ce/ceredigion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

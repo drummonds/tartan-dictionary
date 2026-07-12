@@ -6,7 +6,7 @@ This is the **Little-Dowse Wedding** sett — one scale-free proportion (`dy31ly
 [BYGGBWYG](/stripes/byggbwyg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Little-Dowse Wedding](/tartans/little-dowse-wedding/) tartan — the named design grouping this sett with its kin.
+Part of the [Little-Dowse Wedding](/tartans/l/li/little-dowse-wedding/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

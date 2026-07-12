@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dalwhinnie"
+  url: "/tartans/d/da/dalwhinnie-2/"
+- name: "Dalwhinnie"
   url: "/setts/dg70y6lb28g56lb5g11lb5g11r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg70y6lb28g56lb5g11lb5g11r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGWGWGR](/stripes/ggwgwgwgr/).
+
+Part of the [Dalwhinnie](/tartans/d/da/dalwhinnie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

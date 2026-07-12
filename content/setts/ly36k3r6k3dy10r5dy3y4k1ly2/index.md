@@ -6,6 +6,8 @@ This is the **Mead (Tennessee) Hunting (Personal)** sett — one scale-free prop
 [YKGGRGKRKY](/stripes/ykggrgkrky/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Mead Hunting](/tartans/m/me/mead-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

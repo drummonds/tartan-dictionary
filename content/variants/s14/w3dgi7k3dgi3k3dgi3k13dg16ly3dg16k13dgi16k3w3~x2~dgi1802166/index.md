@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Terre D'Ecosse"
+  url: "/tartans/t/te/terre-d-ecosse/"
+- name: "Terre D'Ecosse"
   url: "/setts/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/).
+
+Part of the [Terre D'Ecosse](/tartans/t/te/terre-d-ecosse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

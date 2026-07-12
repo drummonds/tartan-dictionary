@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lytley alias Parsons Hunting"
+  url: "/tartans/l/ly/lytley-alias-parsons-hunting/"
 - name: "Lytley alias Parsons Hunting (Personal)"
   url: "/setts/b10r1y1db3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b10r1y1db3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBG](/stripes/brgbg/).
+
+Part of the [Lytley alias Parsons Hunting](/tartans/l/ly/lytley-alias-parsons-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod B&W"
+  url: "/tartans/m/ma/macleod-b-w/"
 - name: "MacLeod Black & White"
   url: "/setts/w14k2w14k19w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w14k2w14k19w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKW](/stripes/wkwkw/).
+
+Part of the [MacLeod B&W](/tartans/m/ma/macleod-b-w/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

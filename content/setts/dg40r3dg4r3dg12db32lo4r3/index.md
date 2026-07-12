@@ -6,7 +6,7 @@ This is the **U.S. Marine Corps (Military?)** sett — one scale-free proportion
 [GRGRGBYR](/stripes/grgrgbyr/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [US Marine Corps](/tartans/us-marine-corps/) tartan — the named design grouping this sett with its kin.
+Part of the [US Marine Corps](/tartans/u/us/us-marine-corps/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

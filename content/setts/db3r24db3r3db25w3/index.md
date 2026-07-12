@@ -6,6 +6,8 @@ This is the **Matthews (Personal)** sett — one scale-free proportion (`db3r24d
 [BRBRBW](/stripes/brbrbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Matthews](/tartans/m/ma/matthews/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

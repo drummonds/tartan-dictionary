@@ -6,6 +6,8 @@ This is the **Council of Scottish Clans & Ass. (Co** sett — one scale-free pro
 [WRBKGRY](/stripes/wrbkgry/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Council of Scottish Clans & Ass.](/tartans/c/co/council-of-scottish-clans-ass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

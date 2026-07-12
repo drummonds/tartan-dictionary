@@ -6,6 +6,8 @@ This is the **DeWolfe** sett — one scale-free proportion (`w6k7dr2y2dr2y2dr2y2
 [GBGBGBGKGBGBGBKW](/stripes/gbgbgbgkgbgbgbkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [DeWolfe](/tartans/d/de/dewolfe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

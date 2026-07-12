@@ -6,6 +6,8 @@ This is the **Menzies Navy design Tartan** sett — one scale-free proportion (`
 [BWBWBWBW](/stripes/bwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Menzies Navy design](/tartans/m/me/menzies-navy-design/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

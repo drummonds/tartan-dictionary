@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Denovan"
+  url: "/families/macdonald-of-denovan/"
+- name: "MacDonald of Denovan"
+  url: "/tartans/m/ma/macdonald-of-denovan/"
 - name: "MacDonald of Dunyveg Family Tartan"
   url: "/setts/db10dp2db3r4db14r2k14g14r4g3dp2g10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10dp2db3r4db14r2k14g14r4g3dp2g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
+
+Part of the [MacDonald of Denovan](/tartans/m/ma/macdonald-of-denovan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

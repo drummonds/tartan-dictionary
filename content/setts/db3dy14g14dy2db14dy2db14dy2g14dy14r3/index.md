@@ -6,6 +6,8 @@ This is the **Buchanan Hunting** sett — one scale-free proportion (`db3dy14g14
 [BGGGBGBGGGR](/stripes/bgggbgbgggr/). It is recorded as a single **variant**, below.
 First attested **1955**.
 
+Part of the [Buchanan Hunting](/tartans/b/bu/buchanan-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

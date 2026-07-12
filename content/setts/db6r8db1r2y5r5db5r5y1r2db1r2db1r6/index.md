@@ -6,6 +6,8 @@ This is the **Munro (Culloden)** sett — one scale-free proportion (`db6r8db1r2
 [BRBRGRBRGRBRBR](/stripes/brbrgrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [Munro](/tartans/m/mu/munro-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

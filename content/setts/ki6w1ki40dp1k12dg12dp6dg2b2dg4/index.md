@@ -6,6 +6,8 @@ This is the **Scotland the Brave** sett — one scale-free proportion (`ki6w1ki4
 [GBGBGKBKWK](/stripes/gbgbgkbkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

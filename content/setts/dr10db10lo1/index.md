@@ -6,6 +6,8 @@ This is the **Mother's Pride** sett — one scale-free proportion (`dr10db10lo1`
 [BBYB](/stripes/bbyb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Mother's Pride](/tartans/m/mo/mother-s-pride/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

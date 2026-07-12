@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leblant-Macqueron"
+  url: "/tartans/l/le/leblant-macqueron-2/"
 - name: "Leblant-Macqueron (Personal)"
   url: "/setts/lb5dy6w2g7w2t44w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5dy6w2g7w2t44w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWGWGW](/stripes/wbwgwgw/).
+
+Part of the [Leblant-Macqueron](/tartans/l/le/leblant-macqueron-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

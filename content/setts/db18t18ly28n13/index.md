@@ -6,7 +6,7 @@ This is the **Gold Country (District)** sett — one scale-free proportion (`db1
 [BBYB](/stripes/bbyb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Gold Country](/tartans/gold-country/) tartan — the named design grouping this sett with its kin.
+Part of the [Gold Country](/tartans/g/go/gold-country/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

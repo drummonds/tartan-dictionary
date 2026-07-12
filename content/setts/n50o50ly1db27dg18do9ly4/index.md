@@ -6,6 +6,8 @@ This is the **Lachance (Commemorative)** sett — one scale-free proportion (`n5
 [BRYBGBY](/stripes/brybgby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Lachance](/tartans/l/la/lachance-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

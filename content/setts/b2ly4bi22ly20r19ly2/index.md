@@ -6,6 +6,8 @@ This is the **Barbie's Plaid** sett — one scale-free proportion (`b2ly4bi22ly2
 [BYBYRY](/stripes/bybyry/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Barbie's](/tartans/b/ba/barbie-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

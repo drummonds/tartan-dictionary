@@ -6,6 +6,8 @@ This is the **Glasgow District Tartan** sett — one scale-free proportion (`r10
 [BRGRBRGR](/stripes/brgrbrgr/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Glasgow](/tartans/g/gl/glasgow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

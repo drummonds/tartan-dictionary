@@ -6,6 +6,8 @@ This is the **Elliot** sett — one scale-free proportion (`db9dy12db44dy12db9dr
 [BBGBGB](/stripes/bbgbgb/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Elliot](/tartans/e/el/elliot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

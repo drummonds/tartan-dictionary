@@ -6,6 +6,8 @@ This is the **US Army Regimental Tartan** sett — one scale-free proportion (`d
 [BKGGYG](/stripes/bkggyg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [US Army Regimental](/tartans/u/us/us-army-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

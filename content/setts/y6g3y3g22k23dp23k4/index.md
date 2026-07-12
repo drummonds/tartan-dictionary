@@ -6,6 +6,8 @@ This is the **Gordon of Esslemont Family Tartan** sett — one scale-free propor
 [GGGGKBK](/stripes/ggggkbk/). It is recorded as a single **variant**, below.
 First attested **~1830**.
 
+Part of the [Gordon of Esslemont](/tartans/g/go/gordon-of-esslemont/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

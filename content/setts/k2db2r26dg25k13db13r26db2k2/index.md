@@ -7,7 +7,7 @@ This is the **MacNaughton (Clan)** sett — one scale-free proportion (`k2db2r26
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1831**.
 
-Part of the [MacNaughton](/tartans/macnaughton-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNaughton](/tartans/m/ma/macnaughton-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

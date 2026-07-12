@@ -6,6 +6,8 @@ This is the **Bowlers (Commemorative)** sett — one scale-free proportion (`w4d
 [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Bowlers](/tartans/b/bo/bowlers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Dice (Name?)** sett — one scale-free proportion (`db1r1`), colou
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2007**.
 
+Part of the [Dice](/tartans/d/di/dice/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Anderson Old (Makinlay)** sett — one scale-free proportion (`r8g
 [RGKRKGWRKGKGKWWKRKWR](/stripes/rgkrkgwrkgkgkwwkrkwr/). It is recorded as a single **variant**, below.
 First attested **1940**.
 
+Part of the [Anderson Old](/tartans/a/an/anderson-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

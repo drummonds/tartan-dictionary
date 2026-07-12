@@ -6,7 +6,7 @@ This is the **Rei Okamoto (Personal)** sett — one scale-free proportion (`r60k
 [GBRGKR](/stripes/gbrgkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Rei Okamoto](/tartans/rei-okamoto/) tartan — the named design grouping this sett with its kin.
+Part of the [Rei Okamoto](/tartans/r/re/rei-okamoto/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

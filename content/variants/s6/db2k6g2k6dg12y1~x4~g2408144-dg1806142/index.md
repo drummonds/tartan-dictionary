@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leahy"
+  url: "/tartans/l/le/leahy/"
 - name: "Leahy (Australia) (Personal)"
   url: "/setts/db2k6g2k6dg12y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k6g2k6dg12y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGG](/stripes/bkgkgg/).
+
+Part of the [Leahy](/tartans/l/le/leahy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

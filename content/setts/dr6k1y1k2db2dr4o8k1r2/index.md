@@ -6,6 +6,8 @@ This is the **Bicentenary (Commemorative)** sett — one scale-free proportion (
 [BKGKBBRKR](/stripes/bkgkbbrkr/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Bicentenary](/tartans/b/bi/bicentenary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

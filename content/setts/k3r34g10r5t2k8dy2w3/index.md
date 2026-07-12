@@ -6,7 +6,7 @@ This is the **Lambert Greer (Personal)** sett — one scale-free proportion (`k3
 [KRGRBKGW](/stripes/krgrbkgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Lambert Greer](/tartans/lambert-greer/) tartan — the named design grouping this sett with its kin.
+Part of the [Lambert Greer](/tartans/l/la/lambert-greer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

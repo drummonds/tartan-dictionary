@@ -6,6 +6,8 @@ This is the **Takashimaya Dm Rose** sett — one scale-free proportion (`dp4b2lb
 [BBWYGBYB](/stripes/bbwygbyb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Takashimaya Dm Rose](/tartans/t/ta/takashimaya-dm-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

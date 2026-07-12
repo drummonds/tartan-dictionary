@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacAlpine"
-  url: "/tartans/macalpine-2/"
+  url: "/tartans/m/ma/macalpine-2/"
 - name: "MacAlpine Clan Tartan"
   url: "/setts/k4y1k4g1k4w1k4g1k1g6k1g6k1g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4y1k4g1k4w1k4g1k1g6k1g6k1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGKWKGKGK](/stripes/gkgkgkgkwkgkgk/).
 
-Part of the [MacAlpine](/tartans/macalpine-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAlpine](/tartans/m/ma/macalpine-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

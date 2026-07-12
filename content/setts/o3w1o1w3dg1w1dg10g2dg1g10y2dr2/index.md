@@ -6,6 +6,8 @@ This is the **Breacan** sett — one scale-free proportion (`o3w1o1w3dg1w1dg10g2
 [BGGGGGWGWRWR](/stripes/bgggggwgwrwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Breacan](/tartans/b/br/breacan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

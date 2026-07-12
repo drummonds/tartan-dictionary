@@ -6,6 +6,8 @@ This is the **Bains of Caithness** sett — one scale-free proportion (`db3g6db2
 [BGBBBGBBW](/stripes/bgbbbgbbw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Bains](/tartans/b/ba/bains/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

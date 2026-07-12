@@ -6,6 +6,8 @@ This is the **St. Mirren Football Club** sett — one scale-free proportion (`k7
 [KWKRKWKWKWKWKRKW](/stripes/kwkrkwkwkwkwkrkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [St. Mirren Football Club](/tartans/s/st/st-mirren-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

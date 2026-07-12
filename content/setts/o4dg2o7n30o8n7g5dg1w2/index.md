@@ -6,7 +6,7 @@ This is the **Inchforth (Personal)** sett — one scale-free proportion (`o4dg2o
 [RGRBRBGGW](/stripes/rgrbrbggw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Inchforth](/tartans/inchforth/) tartan — the named design grouping this sett with its kin.
+Part of the [Inchforth](/tartans/i/in/inchforth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

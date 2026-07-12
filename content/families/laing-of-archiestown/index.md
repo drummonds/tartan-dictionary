@@ -20,5 +20,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Laing of Archiestown tartan and all its setts →](/tartans/laing-of-archiestown/)
+[See the Laing of Archiestown tartan and all its setts →](/tartans/l/la/laing-of-archiestown/)
 

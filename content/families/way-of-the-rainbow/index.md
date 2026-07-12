@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Way of the Rainbow tartan and all its setts →](/tartans/way-of-the-rainbow/)
+[See the Way of the Rainbow tartan and all its setts →](/tartans/w/wa/way-of-the-rainbow/)
 

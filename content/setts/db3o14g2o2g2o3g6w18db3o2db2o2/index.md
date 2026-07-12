@@ -6,6 +6,8 @@ This is the **Raibert, Check** sett — one scale-free proportion (`db3o14g2o2g2
 [BRGRGRGWBRBR](/stripes/brgrgrgwbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Raibert, Check](/tartans/r/ra/raibert-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

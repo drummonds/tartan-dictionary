@@ -6,7 +6,7 @@ This is the **Campbell of Argyll** sett — one scale-free proportion (`k16g8k1y
 [BKBKBKBKBKGKWKGKBKBKBKGKGKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Campbell of Argyll](/tartans/campbell-of-argyll-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Campbell of Argyll](/tartans/c/ca/campbell-of-argyll-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Tolmie** sett — one scale-free proportion (`k8y1k8g13r2`), colou
 [KGKGR](/stripes/kgkgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Tolmie](/tartans/t/to/tolmie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

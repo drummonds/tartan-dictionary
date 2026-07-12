@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Giles Check"
-  url: "/tartans/st-giles-check/"
+  url: "/tartans/s/st/st-giles-check/"
 - name: "St Giles Check Tartan"
   url: "/setts/db3n1w1n25w1n1dp3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3n1w1n25w1n1dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBB](/stripes/bbwbwbb/).
 
-Part of the [St Giles Check](/tartans/st-giles-check/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Giles Check](/tartans/s/st/st-giles-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

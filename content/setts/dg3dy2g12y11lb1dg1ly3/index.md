@@ -6,6 +6,8 @@ This is the **Braemar House** sett — one scale-free proportion (`dg3dy2g12y11l
 [GGGGWGY](/stripes/ggggwgy/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Braemar House](/tartans/b/br/braemar-house-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

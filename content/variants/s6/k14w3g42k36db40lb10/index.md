@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New York Firemen's Pipe Band"
+  url: "/tartans/n/ne/new-york-firemen-s-pipe-band/"
 - name: "New York Firemen's Pipe Band Corporate Tartan"
   url: "/setts/k14w3g42k36db40lb10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14w3g42k36db40lb10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKBW](/stripes/kwgkbw/).
+
+Part of the [New York Firemen's Pipe Band](/tartans/n/ne/new-york-firemen-s-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

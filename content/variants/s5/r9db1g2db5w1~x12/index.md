@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McIntosh, Georgina"
+  url: "/tartans/m/mc/mcintosh-georgina/"
 - name: "McIntosh, Georgina (Personal)"
   url: "/setts/r9db1g2db5w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9db1g2db5w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBW](/stripes/rbgbw/).
+
+Part of the [McIntosh, Georgina](/tartans/m/mc/mcintosh-georgina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

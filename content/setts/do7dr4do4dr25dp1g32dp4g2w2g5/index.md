@@ -6,6 +6,8 @@ This is the **Bell of Ardbel (Personal)** sett — one scale-free proportion (`d
 [BBBBBGBGWG](/stripes/bbbbbgbgwg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Bell of Ardbel](/tartans/b/be/bell-of-ardbel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

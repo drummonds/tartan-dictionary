@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fyvie"
+  url: "/tartans/f/fy/fyvie/"
+- name: "Fyvie"
   url: "/setts/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKBKBKBGBKBKBKGKW](/stripes/ggggkbkbkbgbkbkbkgkw/).
+
+Part of the [Fyvie](/tartans/f/fy/fyvie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

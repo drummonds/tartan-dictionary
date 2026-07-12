@@ -6,6 +6,8 @@ This is the **Kildare** sett — one scale-free proportion (`b8do2b13r4b12lb22b5
 [BBBRBWBG](/stripes/bbbrbwbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kildare](/tartans/k/ki/kildare/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McShane"
+  url: "/tartans/m/mc/mcshane/"
 - name: "McShane (Personal)"
   url: "/setts/g9lb2g9k2dy14ly4lb2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9lb2g9k2dy14ly4lb2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKGYWR](/stripes/gwgkgywr/).
+
+Part of the [McShane](/tartans/m/mc/mcshane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

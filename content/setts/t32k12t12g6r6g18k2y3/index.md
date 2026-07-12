@@ -6,7 +6,7 @@ This is the **Gillies (House of Edgar)** sett — one scale-free proportion (`t3
 [BKBGRGKG](/stripes/bkbgrgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Gillies](/tartans/gillies/) tartan — the named design grouping this sett with its kin.
+Part of the [Gillies](/tartans/g/gi/gillies/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

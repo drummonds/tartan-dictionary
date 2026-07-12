@@ -6,6 +6,8 @@ This is the **MacLean of Duart Dress Clan Tartan** sett — one scale-free propo
 [KWBWRBRBGBRW](/stripes/kwbwrbrbgbrw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacLean of Duart Dress](/tartans/m/ma/maclean-of-duart-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Vipont (White line)** sett — one scale-free proportion (`r4g14k3
 [RGKRGBW](/stripes/rgkrgbw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Vipont](/tartans/vipont-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Vipont](/tartans/v/vi/vipont-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

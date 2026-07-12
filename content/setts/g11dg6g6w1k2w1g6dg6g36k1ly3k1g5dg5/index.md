@@ -6,6 +6,8 @@ This is the **Wexford, County** sett — one scale-free proportion (`g11dg6g6w1k
 [GGGWKWGGGKYKGG](/stripes/gggwkwgggkykgg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Wexford, County](/tartans/w/we/wexford-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

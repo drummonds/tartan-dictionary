@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Forbes"
   url: "/clan/forbes/"
 - name: "Forbes"
-  url: "/tartans/forbes-3/"
+  url: "/tartans/f/fo/forbes-3/"
 - name: "Forbes"
   url: "/setts/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
 
-Part of the [Forbes](/tartans/forbes-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forbes](/tartans/f/fo/forbes-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

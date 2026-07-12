@@ -6,6 +6,8 @@ This is the **Porter Drinkers (Commemorative)** sett — one scale-free proporti
 [KYKYKR](/stripes/kykykr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Porter Drinkers](/tartans/p/po/porter-drinkers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

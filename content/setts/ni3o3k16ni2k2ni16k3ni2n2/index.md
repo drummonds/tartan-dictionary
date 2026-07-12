@@ -6,6 +6,8 @@ This is the **Chinzei Keiai Junior High School** sett — one scale-free proport
 [BBKBKBKRB](/stripes/bbkbkbkrb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Chinzei Keiai Junior High School](/tartans/c/ch/chinzei-keiai-junior-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

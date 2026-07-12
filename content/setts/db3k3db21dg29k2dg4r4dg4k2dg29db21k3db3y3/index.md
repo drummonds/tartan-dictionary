@@ -6,6 +6,8 @@ This is the **Peter of Lee (Chief) (Personal)** sett — one scale-free proporti
 [BKBGKGRGKGBKBG](/stripes/bkbgkgrgkgbkbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Peter of Lee](/tartans/p/pe/peter-of-lee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

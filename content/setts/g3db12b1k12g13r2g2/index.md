@@ -6,6 +6,8 @@ This is the **MacPhadran** sett — one scale-free proportion (`g3db12b1k12g13r2
 [GBBKGRG](/stripes/gbbkgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPhadran](/tartans/m/ma/macphadran/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

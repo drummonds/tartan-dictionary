@@ -6,6 +6,8 @@ This is the **Daks, Navy** sett — one scale-free proportion (`r5g12db4dbi4db22
 [RBGBBBGR](/stripes/rbgbbbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Daks, Navy](/tartans/d/da/daks-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

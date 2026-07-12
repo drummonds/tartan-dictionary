@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of South Dakota"
+  url: "/tartans/s/st/state-seal-of-south-dakota/"
 - name: "State Seal of South Dakota (Fashion)"
   url: "/setts/dy49ly3dy6k7t21r4k16g12k1dy12k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy49ly3dy6k7t21r4k16g12k1dy12k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKBRKGKGK](/stripes/gygkbrkgkgk/).
+
+Part of the [State Seal of South Dakota](/tartans/s/st/state-seal-of-south-dakota/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

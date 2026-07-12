@@ -6,7 +6,7 @@ This is the **US Air Force Reserve Pipe Band Military Tartan** sett — one scal
 [BKKBBYBY](/stripes/bkkbbyby/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
-Part of the [US Air Force Reserve Pipe Band](/tartans/us-air-force-reserve-pipe-band/) tartan — the named design grouping this sett with its kin.
+Part of the [US Air Force Reserve Pipe Band](/tartans/u/us/us-air-force-reserve-pipe-band/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

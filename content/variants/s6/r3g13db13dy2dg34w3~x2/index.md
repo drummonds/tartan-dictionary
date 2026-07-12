@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glencross, Tynron"
+  url: "/tartans/g/gl/glencross-tynron/"
 - name: "Glencross, Tynron (Name)"
   url: "/setts/r3g13db13dy2dg34w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g13db13dy2dg34w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGGW](/stripes/rgbggw/).
+
+Part of the [Glencross, Tynron](/tartans/g/gl/glencross-tynron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **Romantic Scotland (Madonna)** sett — one scale-free proportion (
 [BBBBBBWBG](/stripes/bbbbbbwbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Romantic Scotland](/tartans/r/ro/romantic-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

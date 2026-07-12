@@ -6,6 +6,8 @@ This is the **Welsh Assembly (Fashion)** sett — one scale-free proportion (`g5
 [GBGWGRGR](/stripes/gbgwgrgr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Welsh Assembly](/tartans/w/we/welsh-assembly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

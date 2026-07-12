@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Weir"
+  url: "/tartans/w/we/weir-2/"
+- name: "Weir"
   url: "/setts/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKBKYKYKBKGKWKGKBKYKYKBKGKWK](/stripes/gkwkgkbkykykbkgkwkgkbkykykbkgkwk/).
+
+Part of the [Weir](/tartans/w/we/weir-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

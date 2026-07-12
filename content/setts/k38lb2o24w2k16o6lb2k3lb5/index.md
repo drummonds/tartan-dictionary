@@ -6,6 +6,8 @@ This is the **Universal Scientific Indust (Corp.)** sett — one scale-free prop
 [KWRWKRWKW](/stripes/kwrwkrwkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Universal Scientific Indust](/tartans/u/un/universal-scientific-indust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

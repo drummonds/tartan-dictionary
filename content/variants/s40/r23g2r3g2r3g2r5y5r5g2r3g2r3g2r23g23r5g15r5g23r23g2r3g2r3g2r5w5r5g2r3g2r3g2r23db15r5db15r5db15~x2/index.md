@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae of Inverinate"
+  url: "/families/macrae-of-inverinate/"
+- name: "MacRae of Inverinate"
+  url: "/tartans/m/ma/macrae-of-inverinate-3/"
 - name: "MacRae of Inverinate Clan Tartan"
   url: "/setts/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgrgrgrgrgr/).
+
+Part of the [MacRae of Inverinate](/tartans/m/ma/macrae-of-inverinate-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [40 stripe tartan](/stripes/stripes40/).
 

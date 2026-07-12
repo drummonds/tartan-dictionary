@@ -6,6 +6,8 @@ This is the **McCanna NW Htg (Personal)** sett — one scale-free proportion (`k
 [GKGKGGK](/stripes/gkgkggk/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [McCanna NW Hunting](/tartans/m/mc/mccanna-nw-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

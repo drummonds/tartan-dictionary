@@ -6,6 +6,8 @@ This is the **Jamestown Parish Church (Corporate)** sett — one scale-free prop
 [RGGBBW](/stripes/rggbbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Jamestown Parish Church](/tartans/j/ja/jamestown-parish-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

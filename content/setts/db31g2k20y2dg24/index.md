@@ -6,6 +6,8 @@ This is the **Landels (Personal)** sett — one scale-free proportion (`db31g2k2
 [BGKGG](/stripes/bgkgg/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Landels](/tartans/l/la/landels/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

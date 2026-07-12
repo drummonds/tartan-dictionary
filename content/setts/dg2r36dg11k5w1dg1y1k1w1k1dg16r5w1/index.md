@@ -6,6 +6,8 @@ This is the **Campagna Center (Corporate)** sett — one scale-free proportion (
 [GRGKWGGKWKGRW](/stripes/grgkwggkwkgrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Campagna Center](/tartans/c/ca/campagna-center/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

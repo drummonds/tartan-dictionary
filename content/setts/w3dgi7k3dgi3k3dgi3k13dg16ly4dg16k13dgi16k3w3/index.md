@@ -6,6 +6,8 @@ This is the **Terre De'Ecosse** sett — one scale-free proportion (`w3dgi7k3dgi
 [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Terre De'Ecosse](/tartans/t/te/terre-de-ecosse/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

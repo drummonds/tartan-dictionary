@@ -6,6 +6,8 @@ This is the **Ch. Supt. Everett and Mrs Julene Summerfield Dress** sett — one 
 [RWKWWGY](/stripes/rwkwwgy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

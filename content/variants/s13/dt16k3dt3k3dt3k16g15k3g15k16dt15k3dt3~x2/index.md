@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "42nd Regiment"
+  url: "/tartans/0-9/0-9/42nd-regiment-2/"
 - name: "42nd Regiment (Military)"
   url: "/setts/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
+
+Part of the [42nd Regiment](/tartans/0-9/0-9/42nd-regiment-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

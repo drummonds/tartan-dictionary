@@ -6,6 +6,8 @@ This is the **Think Pink (ICF)** sett — one scale-free proportion (`k4db2o13m1
 [KBRRW](/stripes/kbrrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Think Pink](/tartans/t/th/think-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

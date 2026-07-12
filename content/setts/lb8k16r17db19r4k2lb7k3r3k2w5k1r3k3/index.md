@@ -6,6 +6,8 @@ This is the **Popular** sett — one scale-free proportion (`lb8k16r17db19r4k2lb
 [KRKWKRKWKRBRKW](/stripes/krkwkrkwkrbrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Popular](/tartans/p/po/popular/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

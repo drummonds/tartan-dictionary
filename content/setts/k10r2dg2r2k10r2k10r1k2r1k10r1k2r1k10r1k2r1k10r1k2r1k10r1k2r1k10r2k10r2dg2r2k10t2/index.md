@@ -6,6 +6,8 @@ This is the **Hebrides #3** sett — one scale-free proportion (`k10r2dg2r2k10r2
 [BKRGRKRKRKRKRKRKRKRKRKRKRKRKRKRGRK](/stripes/bkrgrkrkrkrkrkrkrkrkrkrkrkrkrkrgrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hebrides](/tartans/h/he/hebrides-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

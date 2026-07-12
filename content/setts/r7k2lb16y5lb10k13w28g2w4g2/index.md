@@ -6,6 +6,8 @@ This is the **Gillies Blue Dress Clan Tartan** sett — one scale-free proportio
 [GWGWKWGWKR](/stripes/gwgwkwgwkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Gillies Blue Dress](/tartans/g/gi/gillies-blue-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

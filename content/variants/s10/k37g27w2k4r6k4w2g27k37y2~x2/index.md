@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highlands of Durham"
+  url: "/tartans/h/hi/highlands-of-durham-2/"
 - name: "Highlands of Durham #2"
   url: "/setts/k37g27w2k4r6k4w2g27k37y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k37g27w2k4r6k4w2g27k37y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWKRKWGK](/stripes/gkgwkrkwgk/).
+
+Part of the [Highlands of Durham](/tartans/h/hi/highlands-of-durham-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

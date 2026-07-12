@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Drambuie"
-  url: "/tartans/drambuie/"
+  url: "/tartans/d/dr/drambuie/"
 - name: "Drambuie"
   url: "/setts/y6k5o4k48r36w6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y6k5o4k48r36w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRW](/stripes/gkrkrw/).
 
-Part of the [Drambuie](/tartans/drambuie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drambuie](/tartans/d/dr/drambuie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

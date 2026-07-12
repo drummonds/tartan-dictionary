@@ -6,6 +6,8 @@ This is the **Sultan of Qaboo's Air Force** sett — one scale-free proportion (
 [BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Sultan of Qaboo's Air Force](/tartans/s/su/sultan-of-qaboo-s-air-force/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

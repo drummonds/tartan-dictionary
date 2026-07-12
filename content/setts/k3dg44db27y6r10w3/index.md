@@ -6,6 +6,8 @@ This is the **Official Glasgow 2014, The** sett — one scale-free proportion (`
 [KGBGRW](/stripes/kgbgrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Official Glasgow 2014, The](/tartans/o/of/official-glasgow-2014-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

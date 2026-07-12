@@ -6,7 +6,7 @@ This is the **Gracey (2013)** sett — one scale-free proportion (`r3dp8g20k20db
 [RBGKBKY](/stripes/rbgkbky/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Gracey](/tartans/gracey/) tartan — the named design grouping this sett with its kin.
+Part of the [Gracey](/tartans/g/gr/gracey/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

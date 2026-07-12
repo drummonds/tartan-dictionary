@@ -6,6 +6,8 @@ This is the **Balmoral, Green lines** sett — one scale-free proportion (`b4g2b
 [BGBGKBGBGBKBG](/stripes/bgbgkbgbgbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balmoral, Green lines](/tartans/b/ba/balmoral-green-lines/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

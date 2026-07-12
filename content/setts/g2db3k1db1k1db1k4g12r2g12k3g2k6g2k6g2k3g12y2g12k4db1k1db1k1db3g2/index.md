@@ -7,7 +7,7 @@ This is the **Stewart Hunting D** sett — one scale-free proportion (`g2db3k1db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Stewart Hunting D](/tartans/stewart-hunting-d/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart Hunting D](/tartans/s/st/stewart-hunting-d/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

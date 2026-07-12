@@ -6,6 +6,8 @@ This is the **Lawson, William 2002** sett — one scale-free proportion (`k4w19k
 [GGKGKWK](/stripes/ggkgkwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lawson, William 2002](/tartans/l/la/lawson-william-2002/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

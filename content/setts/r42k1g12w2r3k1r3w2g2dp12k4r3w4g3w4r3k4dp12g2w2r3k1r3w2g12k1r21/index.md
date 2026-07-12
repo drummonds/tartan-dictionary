@@ -6,6 +6,8 @@ This is the **MacFarlane** sett — one scale-free proportion (`r42k1g12w2r3k1r3
 [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacFarlane](/tartans/m/ma/macfarlane-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carmen Lau"
+  url: "/tartans/c/ca/carmen-lau/"
 - name: "Carmen Lau (Hong Kong) (Personal)"
   url: "/setts/ly8r3t2db1w6g12db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly8r3t2db1w6g12db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBBRY](/stripes/bgwbbry/).
+
+Part of the [Carmen Lau](/tartans/c/ca/carmen-lau/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

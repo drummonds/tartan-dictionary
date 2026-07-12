@@ -6,6 +6,8 @@ This is the **Japanese (nihon)** sett — one scale-free proportion (`r48k1w8r2w
 [RKWRWRWRWRWKBKW](/stripes/rkwrwrwrwrwkbkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Japanese](/tartans/j/ja/japanese/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

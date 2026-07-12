@@ -6,6 +6,8 @@ This is the **Fermanagh (1990)** sett — one scale-free proportion (`n44do4n1k1
 [BBBKBGKBB](/stripes/bbbkbgkbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fermanagh](/tartans/f/fe/fermanagh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

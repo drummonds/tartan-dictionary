@@ -6,6 +6,8 @@ This is the **Hay & Leith #2** sett — one scale-free proportion (`k7r3y2r60g7r
 [KRGRGRGRGWKRBRGRBRKGRKRGKRBRGRBRKWGRGRGRGR](/stripes/krgrgrgrgwkrbrgrbrkgrkrgkrbrgrbrkwgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
+Part of the [Hay & Leith](/tartans/h/ha/hay-leith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

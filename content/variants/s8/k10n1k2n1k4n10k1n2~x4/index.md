@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Douglas"
   url: "/clan/douglas/"
 - name: "Douglas"
-  url: "/tartans/douglas-7/"
+  url: "/tartans/d/do/douglas-7/"
 - name: "Douglas, Grey (Vestiarium Scoticum)"
   url: "/setts/k10n1k2n1k4n10k1n2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k10n1k2n1k4n10k1n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBK](/stripes/bkbkbkbk/).
 
-Part of the [Douglas](/tartans/douglas-7/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Douglas](/tartans/d/do/douglas-7/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

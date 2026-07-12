@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacIver"
   url: "/clan/maciver/"
 - name: "MacIver"
-  url: "/tartans/maciver/"
+  url: "/tartans/m/ma/maciver/"
 - name: "MacIver"
   url: "/setts/y1r6k1r1k16r1k1r6w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1r6k1r1k16r1k1r6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRKRW](/stripes/grkrkrkrw/).
 
-Part of the [MacIver](/tartans/maciver/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacIver](/tartans/m/ma/maciver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arran"
+  url: "/tartans/a/ar/arran-2/"
 - name: "Arran - 1989 (Fashion)"
   url: "/setts/lb12k1lb1k1lb1db8w9n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb12k1lb1k1lb1db8w9n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWKW](/stripes/bwbwkwkw/).
+
+Part of the [Arran](/tartans/a/ar/arran-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

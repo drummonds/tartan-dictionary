@@ -6,6 +6,8 @@ This is the **Murphy and his Gang (Phoenix Arizona) (Personal)** sett — one sc
 [GBGBGBGBRKRBGBGBGBGG](/stripes/gbgbgbgbrkrbgbgbgbgg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Murphy and his Gang](/tartans/m/mu/murphy-and-his-gang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

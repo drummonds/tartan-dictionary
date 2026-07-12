@@ -6,6 +6,8 @@ This is the **Pacific** sett — one scale-free proportion (`o2p2o1p14dg2p10dg10
 [GGGGBGBGBRBR](/stripes/ggggbgbgbrbr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Pacific](/tartans/p/pa/pacific/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **LS Curling (Corporate)** sett — one scale-free proportion (`dy2d
 [GBKGKGKKBGBGKKKBKG](/stripes/gbkgkgkkbgbgkkkbkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [LS Curling](/tartans/l/ls/ls-curling-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

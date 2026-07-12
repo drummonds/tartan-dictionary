@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Brown"
   url: "/clan/brown/"
 - name: "Brown Ellis"
-  url: "/tartans/brown-ellis/"
+  url: "/tartans/b/br/brown-ellis/"
 - name: "Brown Ellis (Personal)"
   url: "/setts/k2t11k1t2k1t11k2db14k2g14k1r2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2t11k1t2k1t11k2db14k2g14k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKGKR](/stripes/kbkbkbkbkgkr/).
 
-Part of the [Brown Ellis](/tartans/brown-ellis/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brown Ellis](/tartans/b/br/brown-ellis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

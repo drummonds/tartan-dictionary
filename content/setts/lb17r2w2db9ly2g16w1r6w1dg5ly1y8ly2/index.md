@@ -6,6 +6,8 @@ This is the **Okanagan(District)** sett — one scale-free proportion (`lb17r2w2
 [WRWBYGWRWGYGY](/stripes/wrwbygwrwgygy/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Okanagan](/tartans/o/ok/okanagan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

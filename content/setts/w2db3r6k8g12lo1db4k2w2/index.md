@@ -6,6 +6,8 @@ This is the **National (1934), The** sett — one scale-free proportion (`w2db3r
 [WBRKGYBKW](/stripes/wbrkgybkw/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
+Part of the [National , The](/tartans/n/na/national-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

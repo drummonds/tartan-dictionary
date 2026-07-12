@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Selkirk, New"
+  url: "/tartans/s/se/selkirk-new/"
+- name: "Selkirk, New"
   url: "/setts/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG](/stripes/bgrkwkbkbkbkwkbgbgbkwkbkbkbkwkrg/).
+
+Part of the [Selkirk, New](/tartans/s/se/selkirk-new/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

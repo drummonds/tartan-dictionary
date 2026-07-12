@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Staley"
+  url: "/tartans/s/st/staley/"
 - name: "Staley (2014)"
   url: "/setts/db9w2dg25do10k15dp4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9w2dg25do10k15dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGWB](/stripes/bkbgwb/).
+
+Part of the [Staley](/tartans/s/st/staley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

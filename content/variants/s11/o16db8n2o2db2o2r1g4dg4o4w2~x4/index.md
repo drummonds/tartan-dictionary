@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish H & I Film Com"
+  url: "/tartans/s/sc/scottish-h-i-film-com/"
 - name: "Scottish H & I Film Com (Corporate)"
   url: "/setts/o16db8n2o2db2o2r1g4dg4o4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o16db8n2o2db2o2r1g4dg4o4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBRBRRGGRW](/stripes/rbbrbrrggrw/).
+
+Part of the [Scottish H & I Film Com](/tartans/s/sc/scottish-h-i-film-com/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

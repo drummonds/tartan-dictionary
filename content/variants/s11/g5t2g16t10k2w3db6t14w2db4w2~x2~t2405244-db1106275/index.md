@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Motor Trade Association"
+  url: "/tartans/s/sc/scottish-motor-trade-association/"
 - name: "Scottish Motor Trade Association Trade Tartan"
   url: "/setts/g5t2g16t10k2w3db6t14w2db4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5t2g16t10k2w3db6t14w2db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKWBBWBWBWBBWKBGBG](/stripes/bgbkwbbwbwbwbbwkbgbg/).
+
+Part of the [Scottish Motor Trade Association](/tartans/s/sc/scottish-motor-trade-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

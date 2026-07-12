@@ -6,6 +6,8 @@ This is the **Paterson Blue (Personal)** sett — one scale-free proportion (`db
 [BWKGRG](/stripes/bwkgrg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Paterson](/tartans/p/pa/paterson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

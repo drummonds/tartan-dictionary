@@ -6,6 +6,8 @@ This is the **Strathearn District Tartan** sett — one scale-free proportion (`
 [GRGGRGRGRGGGRGRG](/stripes/grggrgrgrgggrgrg/). It is recorded as a single **variant**, below.
 First attested **1812**.
 
+Part of the [Strathearn](/tartans/s/st/strathearn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

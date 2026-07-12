@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Batten of Argyll tartan and all its setts →](/tartans/batten-of-argyll/)
+[See the Batten of Argyll tartan and all its setts →](/tartans/b/ba/batten-of-argyll/)
 

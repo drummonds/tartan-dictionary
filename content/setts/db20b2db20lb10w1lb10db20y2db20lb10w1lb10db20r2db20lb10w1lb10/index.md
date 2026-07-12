@@ -6,7 +6,7 @@ This is the **Vilario (Personal))** sett — one scale-free proportion (`db20b2d
 [BBBWWWBGBWWWBRBWWW](/stripes/bbbwwwbgbwwwbrbwww/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Vilario](/tartans/vilario/) tartan — the named design grouping this sett with its kin.
+Part of the [Vilario](/tartans/v/vi/vilario/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

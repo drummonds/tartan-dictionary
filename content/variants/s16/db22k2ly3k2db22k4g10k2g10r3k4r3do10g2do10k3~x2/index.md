@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yeomans"
+  url: "/tartans/y/ye/yeomans/"
 - name: "Yeomans (2016)"
   url: "/setts/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBKGKGRKRBGBK](/stripes/bkykbkgkgrkrbgbk/).
+
+Part of the [Yeomans](/tartans/y/ye/yeomans/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

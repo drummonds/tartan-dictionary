@@ -6,7 +6,7 @@ This is the **Turnbull Dress Clan Tartan** sett — one scale-free proportion (`
 [GRGBK](/stripes/grgbk/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
-Part of the [Turnbull Dress](/tartans/turnbull-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Turnbull Dress](/tartans/t/tu/turnbull-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

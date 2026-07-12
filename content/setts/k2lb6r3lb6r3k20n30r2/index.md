@@ -6,6 +6,8 @@ This is the **Hermitage Academy (Corporate)** sett — one scale-free proportion
 [KWRWRKBR](/stripes/kwrwrkbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Hermitage Academy](/tartans/h/he/hermitage-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

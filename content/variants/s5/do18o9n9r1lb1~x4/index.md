@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine"
+  url: "/tartans/j/ja/jardine/"
 - name: "Jardine"
   url: "/setts/do18o9n9r1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do18o9n9r1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRW](/stripes/brbrw/).
+
+Part of the [Jardine](/tartans/j/ja/jardine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Grey Watch Dress (1989)** sett — one scale-free proportion (`n12
 [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Grey Watch Dress](/tartans/g/gr/grey-watch-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

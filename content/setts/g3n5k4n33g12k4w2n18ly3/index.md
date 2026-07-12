@@ -6,7 +6,7 @@ This is the **Smoke Showing (UFES)** sett — one scale-free proportion (`g3n5k4
 [GBKBGKWBY](/stripes/gbkbgkwby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Smoke Showing](/tartans/smoke-showing/) tartan — the named design grouping this sett with its kin.
+Part of the [Smoke Showing](/tartans/s/sm/smoke-showing/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Burnicle (2015)** sett — one scale-free proportion (`r2k1db2k1g2
 [KGKBKR](/stripes/kgkbkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Burnicle](/tartans/b/bu/burnicle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

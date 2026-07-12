@@ -7,6 +7,8 @@ This is the **Boxell, Baron (Personal)** sett — one scale-free proportion (`dp
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2004**.
 
+Part of the [Boxell, Baron](/tartans/b/bo/boxell-baron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

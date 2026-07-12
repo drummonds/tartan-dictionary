@@ -6,6 +6,8 @@ This is the **Daks, Muted blue** sett — one scale-free proportion (`o5dbi12db4
 [RBBBRBBR](/stripes/rbbbrbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Daks](/tartans/d/da/daks-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

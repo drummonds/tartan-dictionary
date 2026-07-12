@@ -6,6 +6,8 @@ This is the **Strathdon District Tartan** sett — one scale-free proportion (`k
 [BBBBBBBBYBBYBYK](/stripes/bbbbbbbbybbybyk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Strathdon](/tartans/s/st/strathdon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

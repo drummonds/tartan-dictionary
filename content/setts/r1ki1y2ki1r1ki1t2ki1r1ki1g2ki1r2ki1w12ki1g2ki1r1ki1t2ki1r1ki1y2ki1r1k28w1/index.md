@@ -6,6 +6,8 @@ This is the **Women's Wear Daily Hunting (Fashion)** sett — one scale-free pro
 [RKGKRKBKRKGKRKWKGKRKBKRKGKRKW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Women's Wear Daily Hunting](/tartans/w/wo/women-s-wear-daily-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

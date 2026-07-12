@@ -6,6 +6,8 @@ This is the **Scottish N. A. Business Council (Co** sett — one scale-free prop
 [RBBBRBBRBW](/stripes/rbbbrbbrbw/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Scottish N. A. Business Council (Co](/tartans/s/sc/scottish-n-a-business-council-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

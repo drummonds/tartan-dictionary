@@ -6,6 +6,8 @@ This is the **Integrated Landscape Management (ILM)** sett — one scale-free pr
 [GKRKBGKRKRKG](/stripes/gkrkbgkrkrkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Integrated Landscape Management](/tartans/i/in/integrated-landscape-management/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

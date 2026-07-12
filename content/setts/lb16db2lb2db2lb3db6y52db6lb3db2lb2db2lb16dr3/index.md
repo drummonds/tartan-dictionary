@@ -6,6 +6,8 @@ This is the **Scotch House (Corporate)** sett — one scale-free proportion (`lb
 [BWBWBWBGBWBWBW](/stripes/bwbwbwbgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Scotch House](/tartans/s/sc/scotch-house-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

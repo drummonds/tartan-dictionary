@@ -6,6 +6,8 @@ This is the **Estonian National Tartan (District)** sett — one scale-free prop
 [KBKWKBKBGR](/stripes/kbkwkbkbgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Estonian National](/tartans/e/es/estonian-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

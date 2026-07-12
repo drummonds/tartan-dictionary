@@ -6,6 +6,8 @@ This is the **Hunter (Wilsons)** sett — one scale-free proportion (`w2r8w2k15g
 [WRWKGWWWGWRWGGGRWRGGGGGWWWKWRW](/stripes/wrwkgwwwgwrwgggrwrgggggwwwkwrw/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Hunter](/tartans/h/hu/hunter-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

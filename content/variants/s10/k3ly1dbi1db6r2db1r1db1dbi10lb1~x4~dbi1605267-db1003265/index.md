@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ertico"
+  url: "/tartans/e/er/ertico/"
+- name: "Ertico"
   url: "/setts/k3ly1dbi1db6r2db1r1db1dbi10lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3ly1dbi1db6r2db1r1db1dbi10lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYBBRBRBBW](/stripes/kybbrbrbbw/).
+
+Part of the [Ertico](/tartans/e/er/ertico/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

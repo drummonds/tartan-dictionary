@@ -6,6 +6,8 @@ This is the **Highlands School (North Carolina)** sett — one scale-free propor
 [WBBBBYBY](/stripes/wbbbbyby/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Highlands School](/tartans/h/hi/highlands-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

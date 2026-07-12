@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Creek Indian Nation"
+  url: "/tartans/c/cr/creek-indian-nation/"
 - name: "Creek Indian Nation (District)"
   url: "/setts/db2g4y1db1r2g4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2g4y1db1r2g4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBRGR](/stripes/bggbrgr/).
+
+Part of the [Creek Indian Nation](/tartans/c/cr/creek-indian-nation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

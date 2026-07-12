@@ -6,6 +6,8 @@ This is the **McCall (Caithness)** sett — one scale-free proportion (`dr6k4dr8
 [BKBBBWBBBWBBGBG](/stripes/bkbbbwbbbwbbgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [McCall](/tartans/m/mc/mccall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

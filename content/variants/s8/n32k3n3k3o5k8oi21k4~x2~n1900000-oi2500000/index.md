@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Speyside"
+  url: "/tartans/s/sp/speyside-2/"
 - name: "Speyside Grey (Fashion)"
   url: "/setts/n32k3n3k3o5k8oi21k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n32k3n3k3o5k8oi21k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRKRK](/stripes/bkbkrkrk/).
+
+Part of the [Speyside](/tartans/s/sp/speyside-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

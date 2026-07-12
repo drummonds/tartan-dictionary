@@ -6,6 +6,8 @@ This is the **Nooten-Boom (Personal)** sett — one scale-free proportion (`k10y
 [KGKWKGW](/stripes/kgkwkgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Nooten-Boom](/tartans/n/no/nooten-boom/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

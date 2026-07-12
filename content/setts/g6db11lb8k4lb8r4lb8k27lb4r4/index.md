@@ -6,6 +6,8 @@ This is the **Kervegant, Suzanne (Personal)** sett — one scale-free proportion
 [GBWKWRWKWR](/stripes/gbwkwrwkwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Kervegant, Suzanne](/tartans/k/ke/kervegant-suzanne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

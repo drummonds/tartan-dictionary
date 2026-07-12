@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Friebe"
-  url: "/tartans/friebe/"
+  url: "/tartans/f/fr/friebe/"
 - name: "Friebe (2014)"
   url: "/setts/g15dg18dp23w4r8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g15dg18dp23w4r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWR](/stripes/ggbwr/).
 
-Part of the [Friebe](/tartans/friebe/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Friebe](/tartans/f/fr/friebe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

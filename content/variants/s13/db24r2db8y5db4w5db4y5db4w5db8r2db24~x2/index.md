@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clackson"
-  url: "/tartans/clackson/"
+  url: "/tartans/c/cl/clackson/"
 - name: "Clackson (Personal)"
   url: "/setts/db24r2db8y5db4w5db4y5db4w5db8r2db24/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24r2db8y5db4w5db4y5db4w5db8r2db24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBWBGBWBRB](/stripes/brbgbwbgbwbrb/).
 
-Part of the [Clackson](/tartans/clackson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Clackson](/tartans/c/cl/clackson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

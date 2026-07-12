@@ -6,7 +6,7 @@ This is the **Hartmann** sett — one scale-free proportion (`k4g32k4g4k8w3k8b4`
 [BKWKGKGK](/stripes/bkwkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Hartmann](/tartans/hartmann-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hartmann](/tartans/h/ha/hartmann-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

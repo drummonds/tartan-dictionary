@@ -6,6 +6,8 @@ This is the **Digital Equipment Corp.** sett — one scale-free proportion (`t8k
 [BKBBBBBBBY](/stripes/bkbbbbbbby/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Digital Equipment Corp.](/tartans/d/di/digital-equipment-corp-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

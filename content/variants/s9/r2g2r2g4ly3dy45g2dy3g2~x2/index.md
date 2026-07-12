@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Welsh, Stanly-Gpa"
+  url: "/tartans/w/we/welsh-stanly-gpa/"
 - name: "Welsh, Stanly-Gpa (Personal)"
   url: "/setts/r2g2r2g4ly3dy45g2dy3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g2r2g4ly3dy45g2dy3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGYGRGR](/stripes/ggggygrgr/).
+
+Part of the [Welsh, Stanly-Gpa](/tartans/w/we/welsh-stanly-gpa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

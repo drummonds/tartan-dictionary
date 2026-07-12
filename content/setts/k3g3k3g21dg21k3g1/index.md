@@ -6,6 +6,8 @@ This is the **Granite City (Silver Granite) Fashion Tartan** sett — one scale-
 [GKGGKGK](/stripes/gkggkgk/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Granite City](/tartans/g/gr/granite-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

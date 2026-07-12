@@ -6,7 +6,7 @@ This is the **Chisholm of Strathglass Clan Tartan** sett — one scale-free prop
 [RGBGBGBRWR](/stripes/rgbgbgbrwr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Chisholm of Strathglass](/tartans/chisholm-of-strathglass/) tartan — the named design grouping this sett with its kin.
+Part of the [Chisholm of Strathglass](/tartans/c/ch/chisholm-of-strathglass/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

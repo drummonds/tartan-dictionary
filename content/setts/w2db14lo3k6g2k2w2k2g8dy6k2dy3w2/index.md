@@ -6,7 +6,7 @@ This is the **Bowling (Clan)** sett — one scale-free proportion (`w2db14lo3k6g
 [WBYKGKWKGGKGW](/stripes/wbykgkwkggkgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Bowling](/tartans/bowling/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowling](/tartans/b/bo/bowling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

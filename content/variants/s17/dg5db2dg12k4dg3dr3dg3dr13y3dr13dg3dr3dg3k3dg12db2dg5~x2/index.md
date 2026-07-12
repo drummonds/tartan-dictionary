@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lowland Donnelly"
-  url: "/tartans/lowland-donnelly/"
+  url: "/tartans/l/lo/lowland-donnelly/"
 - name: "Lowland Donnelly (Personal)"
   url: "/setts/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGBGBGBGBGKGBG](/stripes/gbgkgbgbgbgbgkgbg/).
 
-Part of the [Lowland Donnelly](/tartans/lowland-donnelly/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lowland Donnelly](/tartans/l/lo/lowland-donnelly/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

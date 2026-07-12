@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh '86"
-  url: "/tartans/edinburgh-86/"
+  url: "/tartans/e/ed/edinburgh-86/"
 - name: "Edinburgh, '86"
   url: "/setts/db6w2db2w2db4w6db28b4db4b45r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w2db2w2db4w6db28b4db4b45r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
 
-Part of the [Edinburgh '86](/tartans/edinburgh-86/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Edinburgh '86](/tartans/e/ed/edinburgh-86/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

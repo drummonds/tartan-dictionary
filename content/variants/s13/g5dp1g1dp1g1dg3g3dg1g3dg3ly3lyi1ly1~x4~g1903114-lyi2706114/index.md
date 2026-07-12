@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Balmoral Hotel Edinburgh"
+  url: "/tartans/b/ba/balmoral-hotel-edinburgh/"
+- name: "Balmoral Hotel Edinburgh"
   url: "/setts/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGGGGGGYYY](/stripes/gbgbggggggyyy/).
+
+Part of the [Balmoral Hotel Edinburgh](/tartans/b/ba/balmoral-hotel-edinburgh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

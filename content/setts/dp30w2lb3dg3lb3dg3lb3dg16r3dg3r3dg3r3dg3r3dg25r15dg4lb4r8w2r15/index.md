@@ -6,6 +6,8 @@ This is the **Wilson, Janet (1780 Original)** sett — one scale-free proportion
 [BWWGWGWGRGRGRGRGRGWRWR](/stripes/bwwgwgwgrgrgrgrgrgwrwr/). It is recorded as a single **variant**, below.
 First attested **1780**.
 
+Part of the [Wilson, Janet](/tartans/w/wi/wilson-janet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

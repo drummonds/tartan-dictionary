@@ -6,6 +6,8 @@ This is the **Learmonth Family (Herts) (Personal)** sett — one scale-free prop
 [BRBBBYBBBY](/stripes/brbbbybbby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Learmonth](/tartans/l/le/learmonth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

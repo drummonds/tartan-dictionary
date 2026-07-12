@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lunch with an Old Bag"
+  url: "/tartans/l/lu/lunch-with-an-old-bag/"
 - name: "Lunch with an Old Bag (Fundraising Committee)"
   url: "/setts/r3k15r2k2r6n16k3n2k3n9w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3k15r2k2r6n16k3n2k3n9w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRBKBKBW](/stripes/rkrkrbkbkbw/).
+
+Part of the [Lunch with an Old Bag](/tartans/l/lu/lunch-with-an-old-bag/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

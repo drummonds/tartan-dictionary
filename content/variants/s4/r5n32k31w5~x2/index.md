@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loganair Uniform Skirt"
+  url: "/tartans/l/lo/loganair-uniform-skirt/"
 - name: "Loganair, Uniform Skirt"
   url: "/setts/r5n32k31w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5n32k31w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKW](/stripes/rbkw/).
+
+Part of the [Loganair Uniform Skirt](/tartans/l/lo/loganair-uniform-skirt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 

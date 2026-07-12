@@ -6,7 +6,7 @@ This is the **Malt, The (Corporate)** sett — one scale-free proportion (`k20r2
 [KRKRKRKRKRGR](/stripes/krkrkrkrkrgr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Malt, The](/tartans/malt-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Malt, The](/tartans/m/ma/malt-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

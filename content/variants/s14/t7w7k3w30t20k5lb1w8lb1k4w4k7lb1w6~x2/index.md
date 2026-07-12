@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Skye Dress Blue, Isle of"
+  url: "/tartans/s/sk/skye-dress-blue-isle-of/"
 - name: "Skye Dress Blue, Isle of (Dance)"
   url: "/setts/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBKWWWKWKWW](/stripes/bwkwbkwwwkwkww/).
+
+Part of the [Skye Dress Blue, Isle of](/tartans/s/sk/skye-dress-blue-isle-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Varenne"
+  url: "/tartans/v/va/varenne/"
+- name: "Varenne"
   url: "/setts/ly32n4dr2k8dr3w2dr3k8dr2n4dr30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly32n4dr2k8dr3w2dr3k8dr2n4dr30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBWBKBBY](/stripes/bbbkbwbkbby/).
+
+Part of the [Varenne](/tartans/v/va/varenne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

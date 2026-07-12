@@ -6,6 +6,8 @@ This is the **Reekie (Edmonton)** sett — one scale-free proportion (`k8r12w8g1
 [GBGWRK](/stripes/gbgwrk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Reekie](/tartans/r/re/reekie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

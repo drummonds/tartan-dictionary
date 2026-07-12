@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Washington"
-  url: "/tartans/washington/"
+  url: "/tartans/w/wa/washington/"
 - name: "Washington"
   url: "/setts/w3r4db13g37b3k3y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r4db13g37b3k3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGBRW](/stripes/gkbgbrw/).
 
-Part of the [Washington](/tartans/washington/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Washington](/tartans/w/wa/washington/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

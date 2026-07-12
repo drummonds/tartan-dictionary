@@ -6,6 +6,8 @@ This is the **Scott of Buccleuch (Military)** sett — one scale-free proportion
 [BWKWKWKWKWK](/stripes/bwkwkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **1908**.
 
+Part of the [Scott of Buccleuch](/tartans/s/sc/scott-of-buccleuch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

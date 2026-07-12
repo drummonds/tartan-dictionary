@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Singh"
+  url: "/tartans/s/si/singh/"
+- name: "Singh"
   url: "/setts/dr3lb2g18lo2g18dp34dr3dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3lb2g18lo2g18dp34dr3dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGYGWB](/stripes/bbbgygwb/).
+
+Part of the [Singh](/tartans/s/si/singh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

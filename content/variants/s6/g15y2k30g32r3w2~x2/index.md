@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Merwe"
+  url: "/tartans/m/me/merwe/"
+- name: "Merwe"
   url: "/setts/g15y2k30g32r3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g15y2k30g32r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGRW](/stripes/ggkgrw/).
+
+Part of the [Merwe](/tartans/m/me/merwe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

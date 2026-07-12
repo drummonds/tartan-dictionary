@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Page"
+  url: "/tartans/p/pa/page/"
+- name: "Page"
   url: "/setts/g46k18g6k13r4k4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g46k18g6k13r4k4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRKW](/stripes/gkgkrkw/).
+
+Part of the [Page](/tartans/p/pa/page/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

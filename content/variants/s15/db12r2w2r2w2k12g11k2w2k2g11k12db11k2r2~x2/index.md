@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeod's Highlanders"
+  url: "/tartans/m/ma/macleod-s-highlanders/"
 - name: "MacLeods Highlanders"
   url: "/setts/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/).
+
+Part of the [MacLeod's Highlanders](/tartans/m/ma/macleod-s-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

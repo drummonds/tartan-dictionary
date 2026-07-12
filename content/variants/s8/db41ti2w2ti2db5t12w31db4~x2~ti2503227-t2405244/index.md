@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harmony Eildon"
-  url: "/tartans/harmony-eildon/"
+  url: "/tartans/h/ha/harmony-eildon/"
 - name: "Harmony Eildon"
   url: "/setts/db41ti2w2ti2db5t12w31db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db41ti2w2ti2db5t12w31db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBBBWBWBBBWB](/stripes/bbwbbbwbwbbbwb/).
 
-Part of the [Harmony Eildon](/tartans/harmony-eildon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Harmony Eildon](/tartans/h/ha/harmony-eildon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

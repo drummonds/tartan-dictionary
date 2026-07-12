@@ -6,7 +6,7 @@ This is the **Fraser of Altyre** sett — one scale-free proportion (`r4db2r45db
 [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Fraser of Altyre](/tartans/fraser-of-altyre/) tartan — the named design grouping this sett with its kin.
+Part of the [Fraser of Altyre](/tartans/f/fr/fraser-of-altyre/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

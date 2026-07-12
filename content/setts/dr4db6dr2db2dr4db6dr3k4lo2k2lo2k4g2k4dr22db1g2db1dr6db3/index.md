@@ -6,6 +6,8 @@ This is the **Anderson of Kinnedear Red** sett — one scale-free proportion (`d
 [BBBBBBBKYKYKGKBBGBBB](/stripes/bbbbbbbkykykgkbbgbbb/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Anderson of Kinnedear](/tartans/a/an/anderson-of-kinnedear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

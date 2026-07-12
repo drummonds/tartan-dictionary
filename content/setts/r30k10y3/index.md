@@ -6,6 +6,8 @@ This is the **Masai Shuka 20 (Artefact)** sett — one scale-free proportion (`r
 [GKR](/stripes/gkr/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 20](/tartans/m/ma/masai-shuka-20/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

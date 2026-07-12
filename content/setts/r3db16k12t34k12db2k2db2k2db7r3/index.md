@@ -6,6 +6,8 @@ This is the **Rangers 1989 (Sports)** sett — one scale-free proportion (`r3db1
 [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Rangers 1989](/tartans/r/ra/rangers-1989-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

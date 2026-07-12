@@ -6,6 +6,8 @@ This is the **Salaberry-de-Valleyfield Traditional** sett — one scale-free pro
 [BWBWBWRGKGGWKW](/stripes/bwbwbwrgkggwkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Salaberry-de-Valleyfield Traditional](/tartans/s/sa/salaberry-de-valleyfield-traditional/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

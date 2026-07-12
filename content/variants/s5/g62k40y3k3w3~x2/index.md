@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Donoghue"
+  url: "/tartans/o/o/o-donoghue/"
+- name: "O'Donoghue"
   url: "/setts/g62k40y3k3w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g62k40y3k3w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKW](/stripes/gkgkw/).
+
+Part of the [O'Donoghue](/tartans/o/o/o-donoghue/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

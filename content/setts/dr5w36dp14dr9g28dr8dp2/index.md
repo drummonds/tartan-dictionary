@@ -6,6 +6,8 @@ This is the **MacKintosh (Artefact)** sett — one scale-free proportion (`dr5w3
 [BBGBBWB](/stripes/bbgbbwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacKintosh](/tartans/m/ma/mackintosh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

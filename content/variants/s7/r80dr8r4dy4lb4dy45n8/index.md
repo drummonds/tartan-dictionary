@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Isaia"
+  url: "/tartans/i/is/isaia/"
+- name: "Isaia"
   url: "/setts/r80dr8r4dy4lb4dy45n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r80dr8r4dy4lb4dy45n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWGRBR](/stripes/bgwgrbr/).
+
+Part of the [Isaia](/tartans/i/is/isaia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

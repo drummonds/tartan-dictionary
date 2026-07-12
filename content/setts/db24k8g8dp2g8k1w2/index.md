@@ -6,7 +6,7 @@ This is the **Alexander** sett — one scale-free proportion (`db24k8g8dp2g8k1w2
 [BKGBGKW](/stripes/bkgbgkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Alexander](/tartans/alexander-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Alexander](/tartans/a/al/alexander-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

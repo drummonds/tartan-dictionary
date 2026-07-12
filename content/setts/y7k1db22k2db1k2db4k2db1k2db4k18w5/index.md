@@ -6,6 +6,8 @@ This is the **Swedish** sett — one scale-free proportion (`y7k1db22k2db1k2db4k
 [GKBKBKBKBKBKW](/stripes/gkbkbkbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Swedish](/tartans/s/sw/swedish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

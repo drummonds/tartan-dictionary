@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Commonwealth Games 1998"
-  url: "/tartans/commonwealth-games-1998/"
+  url: "/tartans/c/co/commonwealth-games-1998/"
 - name: "Commonwealth Games 1998"
   url: "/setts/dg10m2dg2o4dg16dp16o2b18y2b8o3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg10m2dg2o4dg16dp16o2b18y2b8o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGBRBGBR](/stripes/grgrgbrbgbr/).
 
-Part of the [Commonwealth Games 1998](/tartans/commonwealth-games-1998/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Commonwealth Games 1998](/tartans/c/co/commonwealth-games-1998/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

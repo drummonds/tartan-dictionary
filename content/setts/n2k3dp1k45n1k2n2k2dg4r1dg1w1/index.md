@@ -6,6 +6,8 @@ This is the **Platinum Golf Scotland** sett — one scale-free proportion (`n2k3
 [BKBKBKBKGRGW](/stripes/bkbkbkbkgrgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Platinum Golf Scotland](/tartans/p/pl/platinum-golf-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

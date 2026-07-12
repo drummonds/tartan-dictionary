@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cypress Presbyterian Church"
-  url: "/tartans/cypress-presbyterian-church/"
+  url: "/tartans/c/cy/cypress-presbyterian-church/"
 - name: "Cypress Presbyterian Church"
   url: "/setts/g6r4g4r3g4y2db14k4g4k28g18k2g3k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6r4g4r3g4y2db14k4g4k28g18k2g3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGGBKGKGKGK](/stripes/grgrggbkgkgkgk/).
 
-Part of the [Cypress Presbyterian Church](/tartans/cypress-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cypress Presbyterian Church](/tartans/c/cy/cypress-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

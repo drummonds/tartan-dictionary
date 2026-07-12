@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brazell"
+  url: "/tartans/b/br/brazell/"
 - name: "Brazell (Personal)"
   url: "/setts/db7y1db7lb11r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7y1db7lb11r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWR](/stripes/bgbwr/).
+
+Part of the [Brazell](/tartans/b/br/brazell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Jacobite (1712)** sett — one scale-free proportion (`r2db2w1y8w1
 [RBWGWBRWRBWGWBRWRBWGWBRWRBWGWBRW](/stripes/rbwgwbrwrbwgwbrwrbwgwbrwrbwgwbrw/). It is recorded as a single **variant**, below.
 First attested **1712**.
 
+Part of the [Jacobite](/tartans/j/ja/jacobite-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

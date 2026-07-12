@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Columba"
-  url: "/tartans/st-columba/"
+  url: "/tartans/s/st/st-columba/"
 - name: "St. Columba (one green)"
   url: "/setts/db20y1w1ly3g14n4y1dp4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20y1w1ly3g14n4y1dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGYWGB](/stripes/bgbgywgb/).
 
-Part of the [St Columba](/tartans/st-columba/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Columba](/tartans/s/st/st-columba/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

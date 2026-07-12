@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leitrem County Crest"
+  url: "/tartans/l/le/leitrem-county-crest/"
 - name: "Leitrem County Crest (Fashion)"
   url: "/setts/ly10db24ly5db13ly24db5g52db5dbi18w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly10db24ly5db13ly24db5g52db5dbi18w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBGBYBYBY](/stripes/wbbgbybyby/).
+
+Part of the [Leitrem County Crest](/tartans/l/le/leitrem-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

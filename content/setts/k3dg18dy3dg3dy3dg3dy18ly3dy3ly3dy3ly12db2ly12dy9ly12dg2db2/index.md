@@ -6,6 +6,8 @@ This is the **Van Ingelgem Htg (Personal)** sett — one scale-free proportion (
 [BGYGYBYGYGYGGGGGGK](/stripes/bgygybygygyggggggk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Van Ingelgem Hunting](/tartans/v/va/van-ingelgem-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

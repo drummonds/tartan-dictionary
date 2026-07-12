@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCullough"
+  url: "/tartans/m/ma/maccullough/"
 - name: "MacCullough Family Tartan"
   url: "/setts/o5k3w2r20db10g2w1r1g20k4o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o5k3w2r20db10g2w1r1g20k4o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGRWGBRWKR](/stripes/rkgrwgbrwkr/).
+
+Part of the [MacCullough](/tartans/m/ma/maccullough/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Graeme High School Homecoming 2009"
+  url: "/tartans/g/gr/graeme-high-school-homecoming-2009/"
+- name: "Graeme High School Homecoming 2009"
   url: "/setts/r1k1db10k1dp4k9y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1k1db10k1dp4k9y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKR](/stripes/gkbkbkr/).
+
+Part of the [Graeme High School Homecoming 2009](/tartans/g/gr/graeme-high-school-homecoming-2009/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

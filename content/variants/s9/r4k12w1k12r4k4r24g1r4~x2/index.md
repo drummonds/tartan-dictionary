@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wemyss"
+  url: "/tartans/w/we/wemyss/"
+- name: "Wemyss"
   url: "/setts/r4k12w1k12r4k4r24g1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k12w1k12r4k4r24g1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
+
+Part of the [Wemyss](/tartans/w/we/wemyss/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

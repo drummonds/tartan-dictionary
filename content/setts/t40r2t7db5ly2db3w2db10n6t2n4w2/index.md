@@ -6,6 +6,8 @@ This is the **Plymouth Armada (Commemorative)** sett — one scale-free proporti
 [BRBBYBWBBBBW](/stripes/brbbybwbbbbw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Plymouth Armada](/tartans/p/pl/plymouth-armada-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

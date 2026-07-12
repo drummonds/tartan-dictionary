@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jewel Look JTB"
+  url: "/tartans/j/je/jewel-look-jtb/"
+- name: "Jewel Look JTB"
   url: "/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRRBRWRBGBRWRBRRBGBGBGG](/stripes/gbgbgbrrbrwrbgbrwrbrrbgbgbgg/).
+
+Part of the [Jewel Look JTB](/tartans/j/je/jewel-look-jtb/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

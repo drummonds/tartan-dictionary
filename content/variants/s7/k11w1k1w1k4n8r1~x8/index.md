@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunfermline Athletic"
+  url: "/tartans/d/du/dunfermline-athletic/"
 - name: "Dunfermline Athletic (2008) (Corp)"
   url: "/setts/k11w1k1w1k4n8r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11w1k1w1k4n8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKBR](/stripes/kwkwkbr/).
+
+Part of the [Dunfermline Athletic](/tartans/d/du/dunfermline-athletic/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Prince Edward Island (Commemorative)** sett — one scale-free pro
 [KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR](/stripes/kgygygygygygygygkrkykykykykykykykryr/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

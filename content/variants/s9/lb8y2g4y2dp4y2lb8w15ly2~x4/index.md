@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Edmonton"
+  url: "/tartans/c/ci/city-of-edmonton/"
 - name: "Edmonton, City of"
   url: "/setts/lb8y2g4y2dp4y2lb8w15ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8y2g4y2dp4y2lb8w15ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGGBGWWY](/stripes/wgggbgwwy/).
+
+Part of the [City of Edmonton](/tartans/c/ci/city-of-edmonton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

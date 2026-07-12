@@ -6,7 +6,7 @@ This is the **Jorgensen of Taasinge Family Tartan** sett — one scale-free prop
 [BRBGBRGRBRBGBRBRGBG](/stripes/brbgbrgrbrbgbrbrgbg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Jorgensen of Taasinge](/tartans/jorgensen-of-taasinge/) tartan — the named design grouping this sett with its kin.
+Part of the [Jorgensen of Taasinge](/tartans/j/jo/jorgensen-of-taasinge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Caledonian Airways (Corporate)** sett — one scale-free proportio
 [YBYBYBYBYBYBY](/stripes/ybybybybybyby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Caledonian Airways](/tartans/c/ca/caledonian-airways/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

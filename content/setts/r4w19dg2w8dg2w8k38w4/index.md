@@ -6,6 +6,8 @@ This is the **St Piran Dress District Tartan** sett — one scale-free proportio
 [RWGWGWKW](/stripes/rwgwgwkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [St Piran Dress](/tartans/s/st/st-piran-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

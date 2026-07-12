@@ -6,6 +6,8 @@ This is the **Walker Family Tartan** sett — one scale-free proportion (`dy4db2
 [GBRBRBRBRGRG](/stripes/gbrbrbrbrgrg/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Walker](/tartans/w/wa/walker-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

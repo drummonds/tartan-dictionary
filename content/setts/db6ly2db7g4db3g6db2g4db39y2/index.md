@@ -6,6 +6,8 @@ This is the **Seletar** sett — one scale-free proportion (`db6ly2db7g4db3g6db2
 [BYBGBGBGBGBGBGBGBY](/stripes/bybgbgbgbgbgbgbgby/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Seletar](/tartans/s/se/seletar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

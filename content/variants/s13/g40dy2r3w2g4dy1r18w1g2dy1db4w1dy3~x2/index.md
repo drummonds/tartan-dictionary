@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Morgan Jocelyn Osmélian Peregrine"
+  url: "/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/"
 - name: "Morgan Jocelyn Osmélian Peregrine (Personal)"
   url: "/setts/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRWGGRWGGBWG](/stripes/ggrwggrwggbwg/).
+
+Part of the [Morgan Jocelyn Osmélian Peregrine](/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

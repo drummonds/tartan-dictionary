@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Pennsylvania"
+  url: "/tartans/s/st/state-seal-of-pennsylvania/"
 - name: "State Seal of Pennsylvania (Fashion)"
   url: "/setts/ly4k1g28k6dy18w4t41k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4k1g28k6dy18w4t41k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWGKGKY](/stripes/wkbwgkgky/).
+
+Part of the [State Seal of Pennsylvania](/tartans/s/st/state-seal-of-pennsylvania/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

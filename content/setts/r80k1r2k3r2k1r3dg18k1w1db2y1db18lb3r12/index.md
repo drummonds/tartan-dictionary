@@ -6,6 +6,8 @@ This is the **MacRae of Ardentoul** sett — one scale-free proportion (`r80k1r2
 [RKRKRKRGKWBGBWR](/stripes/rkrkrkrgkwbgbwr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [MacRae of Ardentoul](/tartans/m/ma/macrae-of-ardentoul/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

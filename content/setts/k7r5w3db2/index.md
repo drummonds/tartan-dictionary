@@ -6,6 +6,8 @@ This is the **Thomas Newcomen's Combustion Engine** sett — one scale-free prop
 [BWRK](/stripes/bwrk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Thomas Newcomen's Combustion Engine](/tartans/t/th/thomas-newcomen-s-combustion-engine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bowie (Dalgety) Family Tartan** sett — one scale-free proportion
 [BRBRBWBWGRGGG](/stripes/brbrbwbwgrggg/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Bowie](/tartans/b/bo/bowie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

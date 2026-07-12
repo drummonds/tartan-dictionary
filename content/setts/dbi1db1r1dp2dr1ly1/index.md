@@ -6,6 +6,8 @@ This is the **Lytley Formal (Personal)** sett — one scale-free proportion (`db
 [BBRBBY](/stripes/bbrbby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lytley Formal](/tartans/l/ly/lytley-formal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

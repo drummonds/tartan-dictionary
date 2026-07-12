@@ -6,6 +6,8 @@ This is the **21st Century (Fashion)** sett — one scale-free proportion (`w4db
 [BYBGBGBW](/stripes/bybgbgbw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [21st Century](/tartans/0-9/0-9/21st-century/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

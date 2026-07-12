@@ -6,6 +6,8 @@ This is the **Long Way Down, The (Corporate)** sett — one scale-free proportio
 [GYGGGWGWGGR](/stripes/gygggwgwggr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Long Way Down, The](/tartans/l/lo/long-way-down-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

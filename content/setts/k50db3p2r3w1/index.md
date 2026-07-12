@@ -6,7 +6,7 @@ This is the **Fettes (Personal)** sett — one scale-free proportion (`k50db3p2r
 [KBBRW](/stripes/kbbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Fettes](/tartans/fettes/) tartan — the named design grouping this sett with its kin.
+Part of the [Fettes](/tartans/f/fe/fettes/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

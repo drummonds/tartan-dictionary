@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robb Dress"
+  url: "/tartans/r/ro/robb-dress/"
 - name: "Robb Dress (Personal)"
   url: "/setts/dp2r1dg26r18dp26y1r1dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2r1dg26r18dp26y1r1dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBRGRB](/stripes/brgbrgrb/).
+
+Part of the [Robb Dress](/tartans/r/ro/robb-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

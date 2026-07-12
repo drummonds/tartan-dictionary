@@ -6,7 +6,7 @@ This is the **Black Watch (smallest sett)** sett — one scale-free proportion (
 [BKBKGK](/stripes/bkbkgk/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
-Part of the [Black Watch](/tartans/black-watch-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Black Watch](/tartans/b/bl/black-watch-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

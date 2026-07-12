@@ -6,6 +6,8 @@ This is the **Canadian Irish Regiment Regimental Tartan** sett — one scale-fre
 [BGGY](/stripes/bggy/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [Canadian Irish Regiment Regimental](/tartans/c/ca/canadian-irish-regiment-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

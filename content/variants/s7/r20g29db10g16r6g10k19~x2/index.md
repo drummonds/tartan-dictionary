@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonagh"
-  url: "/tartans/macdonagh/"
+  url: "/tartans/m/ma/macdonagh/"
 - name: "MacDonagh"
   url: "/setts/r20g29db10g16r6g10k19/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r20g29db10g16r6g10k19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGBGR](/stripes/kgrgbgr/).
 
-Part of the [MacDonagh](/tartans/macdonagh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonagh](/tartans/m/ma/macdonagh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

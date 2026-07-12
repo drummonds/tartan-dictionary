@@ -6,6 +6,8 @@ This is the **Sheffield High (School)** sett — one scale-free proportion (`lb5
 [WBGW](/stripes/wbgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Sheffield High](/tartans/s/sh/sheffield-high/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

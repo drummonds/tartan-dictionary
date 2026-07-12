@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Volkswagen Black Trim"
+  url: "/tartans/v/vo/volkswagen-black-trim/"
 - name: "Volkswagen Black Trim (Fashion)"
   url: "/setts/k20w1k1w3k1r1k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20w1k1w3k1r1k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKRKW](/stripes/kwkwkrkw/).
+
+Part of the [Volkswagen Black Trim](/tartans/v/vo/volkswagen-black-trim/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

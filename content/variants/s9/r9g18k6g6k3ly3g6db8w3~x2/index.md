@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bisset"
-  url: "/tartans/bisset/"
+  url: "/tartans/b/bi/bisset/"
 - name: "Bisset"
   url: "/setts/r9g18k6g6k3ly3g6db8w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r9g18k6g6k3ly3g6db8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKYGBW](/stripes/rgkgkygbw/).
 
-Part of the [Bisset](/tartans/bisset/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bisset](/tartans/b/bi/bisset/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

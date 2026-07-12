@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cornish Countryside"
+  url: "/tartans/c/co/cornish-countryside/"
+- name: "Cornish Countryside"
   url: "/setts/do19lo3w1k18dg30r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do19lo3w1k18dg30r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYWKGR](/stripes/bywkgr/).
+
+Part of the [Cornish Countryside](/tartans/c/co/cornish-countryside/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

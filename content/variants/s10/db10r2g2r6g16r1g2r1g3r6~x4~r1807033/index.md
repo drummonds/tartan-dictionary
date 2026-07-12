@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nithsdale"
+  url: "/tartans/n/ni/nithsdale/"
+- name: "Nithsdale"
   url: "/setts/db10r2g2r6g16r1g2r1g3r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10r2g2r6g16r1g2r1g3r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
+
+Part of the [Nithsdale](/tartans/n/ni/nithsdale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

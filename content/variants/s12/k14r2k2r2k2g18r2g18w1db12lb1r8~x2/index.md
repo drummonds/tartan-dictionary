@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Diana"
+  url: "/tartans/p/pr/princess-diana/"
+- name: "Princess Diana"
   url: "/setts/k14r2k2r2k2g18r2g18w1db12lb1r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14r2k2r2k2g18r2g18w1db12lb1r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKGRGWBWR](/stripes/krkrkgrgwbwr/).
+
+Part of the [Princess Diana](/tartans/p/pr/princess-diana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

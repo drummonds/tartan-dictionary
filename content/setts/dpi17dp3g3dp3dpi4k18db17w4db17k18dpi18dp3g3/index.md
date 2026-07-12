@@ -6,6 +6,8 @@ This is the **Heart of Scotland (Fashion)** sett — one scale-free proportion (
 [BBGBBKBWBKBBG](/stripes/bbgbbkbwbkbbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Heart of Scotland](/tartans/h/he/heart-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

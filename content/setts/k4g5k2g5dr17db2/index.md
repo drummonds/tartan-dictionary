@@ -6,7 +6,7 @@ This is the **Denny Hunting** sett — one scale-free proportion (`k4g5k2g5dr17d
 [BBGKGK](/stripes/bbgkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Denny Hunting](/tartans/denny-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Denny Hunting](/tartans/d/de/denny-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

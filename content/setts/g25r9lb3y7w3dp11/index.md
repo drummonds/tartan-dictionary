@@ -7,6 +7,8 @@ This is the **Montessori School of Denver** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
+Part of the [Montessori School of Denver](/tartans/m/mo/montessori-school-of-denver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

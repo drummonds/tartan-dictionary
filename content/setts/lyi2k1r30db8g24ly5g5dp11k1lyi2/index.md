@@ -6,6 +6,8 @@ This is the **Guardian of Scotland, Wthd (Fashion)** sett — one scale-free pro
 [YKBGYGBRKY](/stripes/ykbgygbrky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Guardian of Scotland, Wthd](/tartans/g/gu/guardian-of-scotland-wthd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

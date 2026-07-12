@@ -6,6 +6,8 @@ This is the **Spirit of Glyndwr Gold (Fashion)** sett — one scale-free proport
 [KBKBKBKY](/stripes/kbkbkbky/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Spirit of Glyndwr Gold](/tartans/s/sp/spirit-of-glyndwr-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

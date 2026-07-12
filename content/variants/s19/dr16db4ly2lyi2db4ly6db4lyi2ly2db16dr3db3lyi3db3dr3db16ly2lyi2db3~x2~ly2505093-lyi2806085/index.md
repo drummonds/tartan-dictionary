@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Longniddry"
+  url: "/tartans/l/lo/longniddry-4/"
+- name: "Longniddry"
   url: "/setts/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYYBYBYYBBBYBBBYYB](/stripes/bbyybybyybbbybbbyyb/).
+
+Part of the [Longniddry](/tartans/l/lo/longniddry-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

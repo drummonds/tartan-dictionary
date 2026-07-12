@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rothesay, Dress"
+  url: "/tartans/r/ro/rothesay-dress/"
 - name: "Rothesay, Dress (VS)"
   url: "/setts/r2w28db4w2k6w2r4k1r2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2w28db4w2k6w2r4k1r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKWRKRW](/stripes/rwbwkwrkrw/).
+
+Part of the [Rothesay, Dress](/tartans/r/ro/rothesay-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

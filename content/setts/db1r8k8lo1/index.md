@@ -6,7 +6,7 @@ This is the **Skinner (Name)** sett — one scale-free proportion (`db1r8k8lo1`)
 [BRKY](/stripes/brky/). It is recorded as a single **variant**, below.
 First attested **~1880**.
 
-Part of the [Skinner](/tartans/skinner-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Skinner](/tartans/s/sk/skinner-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Wardlaw** sett — one scale-free proportion (`k4dp30k3dp2db2r2g12
 [KBKBBRGKBR](/stripes/kbkbbrgkbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Wardlaw](/tartans/w/wa/wardlaw/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

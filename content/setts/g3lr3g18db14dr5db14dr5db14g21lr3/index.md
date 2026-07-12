@@ -6,6 +6,8 @@ This is the **Hamilton (Personal)** sett — one scale-free proportion (`g3lr3g1
 [GYGBBBBBGY](/stripes/gygbbbbbgy/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [Hamilton](/tartans/h/ha/hamilton-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

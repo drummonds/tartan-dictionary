@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bethlehem, City of"
+  url: "/tartans/b/be/bethlehem-city-of/"
+- name: "Bethlehem, City of"
   url: "/setts/dg3dr1dg9n10db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3dr1dg9n10db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBG](/stripes/bbgbg/).
+
+Part of the [Bethlehem, City of](/tartans/b/be/bethlehem-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

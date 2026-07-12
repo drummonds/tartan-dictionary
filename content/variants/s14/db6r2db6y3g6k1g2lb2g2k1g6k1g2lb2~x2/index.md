@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Presbyterian Synod of Living Waters"
+  url: "/tartans/p/pr/presbyterian-synod-of-living-waters/"
 - name: "Presbyterian Synod of Living Waters (USA)"
   url: "/setts/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGGKGWGKGKGW](/stripes/brbggkgwgkgkgw/).
+
+Part of the [Presbyterian Synod of Living Waters](/tartans/p/pr/presbyterian-synod-of-living-waters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

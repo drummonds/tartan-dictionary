@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Philadelphia Police and Fire P&D"
+  url: "/tartans/p/ph/philadelphia-police-and-fire-p-d/"
+- name: "Philadelphia Police and Fire P&D"
   url: "/setts/db9y4db4lb41db4r4lb4r15lb4r4db41y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9y4db4lb41db4r4lb4r15lb4r4db41y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBRWRWRBG](/stripes/bgbwbrwrwrbg/).
+
+Part of the [Philadelphia Police and Fire P&D](/tartans/p/ph/philadelphia-police-and-fire-p-d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

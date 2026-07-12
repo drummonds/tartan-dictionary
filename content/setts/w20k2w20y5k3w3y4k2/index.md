@@ -6,6 +6,8 @@ This is the **Guzzo Dress (Montreal, Canada) (Personal)** sett — one scale-fre
 [KGWKGWKW](/stripes/kgwkgwkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Guzzo Dress](/tartans/g/gu/guzzo-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

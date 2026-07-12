@@ -6,6 +6,8 @@ This is the **Arndt (Personal)** sett — one scale-free proportion (`w5k5db25k1
 [WBRBKGKGKGKBKW](/stripes/wbrbkgkgkgkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Arndt](/tartans/a/ar/arndt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Shenzhen (Sports)** sett — one scale-free proportion (`k3o29lo2o
 [KRYRYRYGYGW](/stripes/kryryrygygw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Shenzhen](/tartans/s/sh/shenzhen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

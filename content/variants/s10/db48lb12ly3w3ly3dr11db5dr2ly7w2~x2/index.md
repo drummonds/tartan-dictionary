@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holyrood Golden Jubilee"
+  url: "/tartans/h/ho/holyrood-golden-jubilee/"
 - name: "Holyrood Golden Jubilee II"
   url: "/setts/db48lb12ly3w3ly3dr11db5dr2ly7w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48lb12ly3w3ly3dr11db5dr2ly7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYWYBBBYWYBBBYWYW](/stripes/bwywybbbywybbbywyw/).
+
+Part of the [Holyrood Golden Jubilee](/tartans/h/ho/holyrood-golden-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

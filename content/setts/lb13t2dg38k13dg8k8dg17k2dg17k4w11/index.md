@@ -6,6 +6,8 @@ This is the **Bute Heather, Glencallum (Fashion)** sett — one scale-free propo
 [WBGKGKGKGKW](/stripes/wbgkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Bute Heather, Glencallum](/tartans/b/bu/bute-heather-glencallum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

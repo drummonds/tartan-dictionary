@@ -6,7 +6,7 @@ This is the **Thomson Dress (Grey) (Fashion)** sett — one scale-free proportio
 [GKWKBR](/stripes/gkwkbr/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
-Part of the [Thomson Dress](/tartans/thomson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Thomson Dress](/tartans/t/th/thomson-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Aberdeen** sett — one scale-free proportion (`g4w1ri6r3w1r3ri6w1
 [GWRRWRRWWWBRRWRRBWKGKWBRRWRRBWBWWWBWKGWGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/gwrrwrrwwwbrrwrrbwkgkwbrrwrrbwbwwwbwkgwgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/). It is recorded as a single **variant**, below.
 First attested **1782**.
 
+Part of the [Aberdeen](/tartans/a/ab/aberdeen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

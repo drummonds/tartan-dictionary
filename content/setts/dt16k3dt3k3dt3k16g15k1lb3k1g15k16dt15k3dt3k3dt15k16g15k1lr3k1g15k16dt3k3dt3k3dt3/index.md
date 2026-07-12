@@ -6,6 +6,8 @@ This is the **Broun Hunting (Personal?)** sett — one scale-free proportion (`d
 [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkbkb/). It is recorded as a single **variant**, below.
 First attested **1923**.
 
+Part of the [Broun Hunting](/tartans/b/br/broun-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

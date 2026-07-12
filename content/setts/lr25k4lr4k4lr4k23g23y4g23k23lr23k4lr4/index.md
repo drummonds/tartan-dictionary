@@ -6,6 +6,8 @@ This is the **Poulter Green Corporate Tartan** sett — one scale-free proportio
 [YKYKGGGKYKYKY](/stripes/ykykgggkykyky/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Poulter](/tartans/p/po/poulter-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

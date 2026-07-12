@@ -6,6 +6,8 @@ This is the **MacIntyre** sett — one scale-free proportion (`dg4db12r3db12dg32
 [GBRBGW](/stripes/gbrbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacIntyre](/tartans/m/ma/macintyre-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

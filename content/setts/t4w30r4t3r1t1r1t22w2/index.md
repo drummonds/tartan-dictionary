@@ -6,6 +6,8 @@ This is the **Canna, Saphire (Dance)** sett — one scale-free proportion (`t4w3
 [BWRBRBRBW](/stripes/bwrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Canna Saphire](/tartans/c/ca/canna-saphire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Yule (Name)** sett — one scale-free proportion (`dy1lb3dp14w2db2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Yule](/tartans/y/yu/yule/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

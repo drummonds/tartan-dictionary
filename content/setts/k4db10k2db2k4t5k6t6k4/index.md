@@ -6,6 +6,8 @@ This is the **Saul (Personal)** sett — one scale-free proportion (`k4db10k2db2
 [KBKBKBKBK](/stripes/kbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Saul](/tartans/s/sa/saul/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

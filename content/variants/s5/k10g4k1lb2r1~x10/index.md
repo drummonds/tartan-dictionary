@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brotherhood of the"
+  url: "/tartans/b/br/brotherhood-of-the/"
 - name: "Brotherhood of the Kilt"
   url: "/setts/k10g4k1lb2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10g4k1lb2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWR](/stripes/kgkwr/).
+
+Part of the [Brotherhood of the](/tartans/b/br/brotherhood-of-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

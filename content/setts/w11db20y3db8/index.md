@@ -6,6 +6,8 @@ This is the **Lucard, Stéphane (Personal)** sett — one scale-free proportion 
 [BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Lucard, Stéphane](/tartans/l/lu/lucard-st-phane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

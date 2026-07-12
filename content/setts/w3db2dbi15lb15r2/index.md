@@ -6,6 +6,8 @@ This is the **SABA** sett — one scale-free proportion (`w3db2dbi15lb15r2`), co
 [RWBBW](/stripes/rwbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [SABA](/tartans/s/sa/saba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

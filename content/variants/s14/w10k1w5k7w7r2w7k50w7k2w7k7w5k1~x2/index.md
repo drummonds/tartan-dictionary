@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pars, Dress"
+  url: "/tartans/p/pa/pars-dress/"
 - name: "Pars, Dress (Sports)"
   url: "/setts/w10k1w5k7w7r2w7k50w7k2w7k7w5k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w10k1w5k7w7r2w7k50w7k2w7k7w5k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWRWKWKW](/stripes/kwkwkwkwrwkwkw/).
+
+Part of the [Pars, Dress](/tartans/p/pa/pars-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

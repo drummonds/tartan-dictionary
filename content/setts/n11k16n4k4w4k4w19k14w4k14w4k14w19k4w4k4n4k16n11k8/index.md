@@ -6,6 +6,8 @@ This is the **Stewart/Stuart Royal (B,W. & Grey)** sett — one scale-free propo
 [BKBKWKWKWKWKWKWKBKBK](/stripes/bkbkwkwkwkwkwkwkbkbk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Stewart/Stuart Royal](/tartans/s/st/stewart-stuart-royal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

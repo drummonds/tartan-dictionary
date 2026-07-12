@@ -6,6 +6,8 @@ This is the **Prince Albert** sett — one scale-free proportion (`db23r6db6k10y
 [BRBKGKWKGRKRW](/stripes/brbkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Prince Albert](/tartans/p/pr/prince-albert-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

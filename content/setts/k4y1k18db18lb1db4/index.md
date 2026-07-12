@@ -6,6 +6,8 @@ This is the **Lyndon Prep (School)** sett — one scale-free proportion (`k4y1k1
 [BWBKGK](/stripes/bwbkgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Lyndon Prep](/tartans/l/ly/lyndon-prep/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

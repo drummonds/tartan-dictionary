@@ -6,6 +6,8 @@ This is the **Campbell Cawdor** sett — one scale-free proportion (`r2k1db8k8g8
 [RKBKGKW](/stripes/rkbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell Cawdor](/tartans/c/ca/campbell-cawdor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rourke-Frew"
-  url: "/tartans/rourke-frew/"
+  url: "/tartans/r/ro/rourke-frew/"
 - name: "Rourke-Frew (Name)"
   url: "/setts/db6k3r2k3r31k6ly2k6ly13k2ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k3r2k3r31k6ly2k6ly13k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKYKYKY](/stripes/bkrkrkykyky/).
 
-Part of the [Rourke-Frew](/tartans/rourke-frew/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rourke-Frew](/tartans/r/ro/rourke-frew/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

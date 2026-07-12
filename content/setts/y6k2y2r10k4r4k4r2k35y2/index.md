@@ -6,6 +6,8 @@ This is the **Einigkeit** sett — one scale-free proportion (`y6k2y2r10k4r4k4r2
 [GKGRKRKRKG](/stripes/gkgrkrkrkg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Einigkeit](/tartans/e/ei/einigkeit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

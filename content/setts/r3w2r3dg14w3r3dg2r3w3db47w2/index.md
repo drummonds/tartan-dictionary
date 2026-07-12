@@ -6,6 +6,8 @@ This is the **Friends of Scotland Caucus** sett — one scale-free proportion (`
 [RWRGWRGRWBW](/stripes/rwrgwrgrwbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Friends of Scotland Caucus](/tartans/f/fr/friends-of-scotland-caucus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

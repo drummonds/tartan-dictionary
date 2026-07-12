@@ -6,6 +6,8 @@ This is the **Nova Scotia Medical Examiner Service** sett — one scale-free pro
 [WBKGKGRWRGKBW](/stripes/wbkgkgrwrgkbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Nova Scotia Medical Examiner Service](/tartans/n/no/nova-scotia-medical-examiner-service/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

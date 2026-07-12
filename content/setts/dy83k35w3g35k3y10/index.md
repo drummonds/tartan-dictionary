@@ -6,7 +6,7 @@ This is the **Brandon Manitoba Trade Tartan** sett — one scale-free proportion
 [GKGWKG](/stripes/gkgwkg/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
-Part of the [Brandon Manitoba](/tartans/brandon-manitoba/) tartan — the named design grouping this sett with its kin.
+Part of the [Brandon Manitoba](/tartans/b/br/brandon-manitoba/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacBean, Meta (Personal)** sett — one scale-free proportion (`k6
 [KWWWWWGWRBGBRWGWRBGBRWGWWWWWR](/stripes/kwwwwwgwrbgbrwgwrbgbrwgwwwwwr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
-Part of the [MacBean, Meta](/tartans/macbean-meta/) tartan — the named design grouping this sett with its kin.
+Part of the [MacBean, Meta](/tartans/m/ma/macbean-meta/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

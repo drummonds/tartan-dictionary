@@ -6,6 +6,8 @@ This is the **Heolbellva ha Materi (Fashion)** sett — one scale-free proportio
 [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Heolbellva ha Materi](/tartans/h/he/heolbellva-ha-materi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

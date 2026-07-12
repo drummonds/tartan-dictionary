@@ -6,7 +6,7 @@ This is the **MacArthur (Variant)** sett — one scale-free proportion (`r3g30k1
 [GKGKGR](/stripes/gkgkgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacArthur](/tartans/macarthur-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacArthur](/tartans/m/ma/macarthur-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

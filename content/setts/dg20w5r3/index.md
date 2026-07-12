@@ -6,6 +6,8 @@ This is the **Juchter (Personal)** sett — one scale-free proportion (`dg20w5r3
 [GWR](/stripes/gwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Juchter](/tartans/j/ju/juchter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **United Services, Planning Association** sett — one scale-free pr
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1991**.
 
+Part of the [United Services Planning Assoc](/tartans/u/un/united-services-planning-assoc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

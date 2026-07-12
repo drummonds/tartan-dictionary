@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bird"
+  url: "/clan/bird/"
+- name: "Bird"
+  url: "/tartans/b/bi/bird/"
 - name: "Bird Family (Personal)"
   url: "/setts/ly4k28ly2db7w3r9g2w4g2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4k28ly2db7w3r9g2w4g2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGRWBYKY](/stripes/kgwgrwbyky/).
+
+Part of the [Bird](/tartans/b/bi/bird/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

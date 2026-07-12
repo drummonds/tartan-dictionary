@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of the Highlands"
+  url: "/tartans/p/pr/pride-of-the-highlands/"
 - name: "Pride of the Highlands (Fashion)"
   url: "/setts/db7w2db28k7db3ly2db2g2db13r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db7w2db28k7db3ly2db2g2db13r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBYBGBR](/stripes/bwbkbybgbr/).
+
+Part of the [Pride of the Highlands](/tartans/p/pr/pride-of-the-highlands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

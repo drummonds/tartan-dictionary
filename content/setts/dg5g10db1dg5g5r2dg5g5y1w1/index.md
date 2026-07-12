@@ -6,6 +6,8 @@ This is the **Mississippi District Tartan** sett — one scale-free proportion (
 [GGBGGRGGGW](/stripes/ggbggrgggw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Mississippi](/tartans/m/mi/mississippi-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

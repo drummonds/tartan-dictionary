@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mowdowny"
+  url: "/tartans/m/mo/mowdowny/"
 - name: "Mowdowny (Fashion)"
   url: "/setts/r1n6k1n1k2n1k1n6ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1n6k1n1k2n1k1n6ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKBY](/stripes/rbkbkbkby/).
+
+Part of the [Mowdowny](/tartans/m/mo/mowdowny/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

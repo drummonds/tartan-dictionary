@@ -6,7 +6,7 @@ This is the **(3) Laing** sett — one scale-free proportion (`db1k6db2k8db2k2db
 [BKBKBKBRBGBGBGR](/stripes/bkbkbkbrbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Laing](/tartans/laing/) tartan — the named design grouping this sett with its kin.
+Part of the [Laing](/tartans/l/la/laing/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Saskatchewan"
+  url: "/tartans/s/sa/saskatchewan-3/"
+- name: "Saskatchewan"
   url: "/setts/y2b1r2b26o11dg6k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2b1r2b26o11dg6k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRBRGKW](/stripes/gbrbrgkw/).
+
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

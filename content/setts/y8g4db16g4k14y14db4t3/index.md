@@ -6,6 +6,8 @@ This is the **Hinnigan (Personal)** sett — one scale-free proportion (`y8g4db1
 [BBGKGBGG](/stripes/bbgkgbgg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Hinnigan](/tartans/h/hi/hinnigan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Forest"
-  url: "/tartans/black-forest/"
+  url: "/tartans/b/bl/black-forest/"
 - name: "Black Forest"
   url: "/setts/k20o4k20ly2o2ly7k2o2ly2o7ly2o2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k20o4k20ly2o2ly7k2o2ly2o7ly2o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKYRYKRYRYR](/stripes/krkyrykryryr/).
 
-Part of the [Black Forest](/tartans/black-forest/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Forest](/tartans/b/bl/black-forest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

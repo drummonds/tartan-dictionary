@@ -6,6 +6,8 @@ This is the **Dewi Sant** sett — one scale-free proportion (`dg30dr2dg8dr1dg5w
 [GBGBGW](/stripes/gbgbgw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Dewi Sant](/tartans/d/de/dewi-sant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

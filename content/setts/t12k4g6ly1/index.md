@@ -6,6 +6,8 @@ This is the **Sinclair of Ulbster** sett — one scale-free proportion (`t12k4g6
 [BKGYGK](/stripes/bkgygk/). It is recorded as a single **variant**, below.
 First attested **1796**.
 
+Part of the [Sinclair of Ulbster](/tartans/s/si/sinclair-of-ulbster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

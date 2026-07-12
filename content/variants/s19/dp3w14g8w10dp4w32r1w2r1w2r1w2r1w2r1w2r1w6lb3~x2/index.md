@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw Dress"
+  url: "/tartans/s/sh/shaw-dress/"
 - name: "Shaw Dress (Personal)"
   url: "/setts/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWBWRWRWRWRWRWRWW](/stripes/bwgwbwrwrwrwrwrwrww/).
+
+Part of the [Shaw Dress](/tartans/s/sh/shaw-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -6,7 +6,7 @@ This is the **Merchiston Castle School** sett — one scale-free proportion (`k9
 [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Merchiston Castle School](/tartans/merchiston-castle-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Merchiston Castle School](/tartans/m/me/merchiston-castle-school/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

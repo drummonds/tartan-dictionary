@@ -6,6 +6,8 @@ This is the **Middleton, City of** sett — one scale-free proportion (`n16w1n1k
 [BWBKBYRWR](/stripes/bwbkbyrwr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Middleton, City of](/tartans/m/mi/middleton-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manroth"
+  url: "/tartans/m/ma/manroth/"
 - name: "Manroth (Personal)"
   url: "/setts/dg15db20k2r4k2db20dg15k2dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg15db20k2r4k2db20dg15k2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRKBGKG](/stripes/gbkrkbgkg/).
+
+Part of the [Manroth](/tartans/m/ma/manroth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

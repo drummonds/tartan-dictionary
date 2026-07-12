@@ -6,6 +6,8 @@ This is the **Wcwm 1045** sett — one scale-free proportion (`dr2dg12k3dg2t8dg2
 [BGKGBG](/stripes/bgkgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 1045](/tartans/w/wc/wcwm-1045/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

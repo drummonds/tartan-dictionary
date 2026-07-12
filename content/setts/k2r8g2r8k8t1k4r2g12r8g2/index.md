@@ -6,6 +6,8 @@ This is the **MacNicol Dress (Clan) (Smiths)** sett — one scale-free proportio
 [GRGRKBKRGRK](/stripes/grgrkbkrgrk/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacNicol Dress](/tartans/m/ma/macnicol-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

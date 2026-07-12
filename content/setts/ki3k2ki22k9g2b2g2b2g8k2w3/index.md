@@ -6,6 +6,8 @@ This is the **Scottish Rugby Union** sett — one scale-free proportion (`ki3k2k
 [KKKKGBGBGKW](/stripes/kkkkgbgbgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Rugby Union](/tartans/s/sc/scottish-rugby-union-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

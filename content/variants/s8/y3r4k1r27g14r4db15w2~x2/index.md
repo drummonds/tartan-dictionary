@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dalmagarry"
+  url: "/tartans/d/da/dalmagarry/"
 - name: "Dalmagarry (Corporate)"
   url: "/setts/y3r4k1r27g14r4db15w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3r4k1r27g14r4db15w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRBW](/stripes/grkrgrbw/).
+
+Part of the [Dalmagarry](/tartans/d/da/dalmagarry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

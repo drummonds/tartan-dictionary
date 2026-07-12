@@ -6,6 +6,8 @@ This is the **Lord Laird** sett — one scale-free proportion (`k4w26k10lo8k3lo8
 [KWKYKYKRW](/stripes/kwkykykrw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Lord Laird](/tartans/l/lo/lord-laird/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

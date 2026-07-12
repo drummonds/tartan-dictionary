@@ -6,6 +6,8 @@ This is the **Teallach (Personal)** sett — one scale-free proportion (`ly4o24d
 [GRGBGWGRY](/stripes/grgbgwgry/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Teallach](/tartans/t/te/teallach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

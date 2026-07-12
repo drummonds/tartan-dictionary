@@ -7,7 +7,7 @@ This is the **Yukon** sett — one scale-free proportion (`lb20dp4r4w4g4y4lb4y1l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1965**.
 
-Part of the [Yukon](/tartans/yukon/) tartan — the named design grouping this sett with its kin.
+Part of the [Yukon](/tartans/y/yu/yukon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

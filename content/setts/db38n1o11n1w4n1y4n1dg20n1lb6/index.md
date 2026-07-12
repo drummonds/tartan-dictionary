@@ -6,6 +6,8 @@ This is the **Manx Hunting** sett — one scale-free proportion (`db38n1o11n1w4n
 [BBRBWBGBGBW](/stripes/bbrbwbgbgbw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Manx Hunting](/tartans/m/ma/manx-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **The KpgM** sett — one scale-free proportion (`r24o4db6k6db60k40b
 [BRKBKBKBRR](/stripes/brkbkbkbrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [The KpgM](/tartans/t/th/the-kpgm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

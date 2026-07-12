@@ -6,6 +6,8 @@ This is the **Law of Atholl (Personal)** sett — one scale-free proportion (`db
 [BBBBBGBGBGY](/stripes/bbbbbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Law of Atholl](/tartans/l/la/law-of-atholl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

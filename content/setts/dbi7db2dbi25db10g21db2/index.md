@@ -7,6 +7,8 @@ This is the **Sugiyama** sett — one scale-free proportion (`dbi7db2dbi25db10g2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2012**.
 
+Part of the [Sugiyama Jogakuen University](/tartans/s/su/sugiyama-jogakuen-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

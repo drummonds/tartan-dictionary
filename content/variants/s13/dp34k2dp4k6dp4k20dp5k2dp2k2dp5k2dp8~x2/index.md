@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birrell"
+  url: "/tartans/b/bi/birrell/"
 - name: "Birrell (Fashion)"
   url: "/setts/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/).
+
+Part of the [Birrell](/tartans/b/bi/birrell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

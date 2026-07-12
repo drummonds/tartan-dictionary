@@ -6,6 +6,8 @@ This is the **Ruairidh (Personal)** sett — one scale-free proportion (`n17dr41
 [BBWBWBKBYWYWYBKGBK](/stripes/bbwbwbkbywywybkgbk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Ruairidh](/tartans/r/ru/ruairidh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

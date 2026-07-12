@@ -6,6 +6,8 @@ This is the **Bryce** sett — one scale-free proportion (`dr5o35dr46ly5`), colo
 [BRBY](/stripes/brby/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
+Part of the [Bryce](/tartans/b/br/bryce-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Spirit of 1994 (Fashion)** sett — one scale-free proportion (`k1
 [BWGWRWGYK](/stripes/bwgwrwgyk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Spirit of 1994](/tartans/spirit-of-1994/) tartan — the named design grouping this sett with its kin.
+Part of the [Spirit of 1994](/tartans/s/sp/spirit-of-1994/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

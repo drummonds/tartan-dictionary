@@ -6,6 +6,8 @@ This is the **Wild Mustard Dreams** sett — one scale-free proportion (`lo17ly1
 [BGYYY](/stripes/bgyyy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Wild Mustard Dreams](/tartans/w/wi/wild-mustard-dreams/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

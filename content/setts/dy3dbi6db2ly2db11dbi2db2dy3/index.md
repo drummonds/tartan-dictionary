@@ -6,7 +6,7 @@ This is the **Daks (Blue)** sett — one scale-free proportion (`dy3dbi6db2ly2db
 [GBBBYBBG](/stripes/gbbbybbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Daks](/tartans/daks-13/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/d/da/daks-13/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

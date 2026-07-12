@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Perry Hunting"
+  url: "/tartans/p/pe/perry-hunting/"
 - name: "Perry Hunting (Green) (Personal)"
   url: "/setts/k75g26lr2g4lo5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k75g26lr2g4lo5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGY](/stripes/kgygy/).
+
+Part of the [Perry Hunting](/tartans/p/pe/perry-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

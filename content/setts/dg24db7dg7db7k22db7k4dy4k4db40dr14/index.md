@@ -6,6 +6,8 @@ This is the **Brethwe Powys** sett — one scale-free proportion (`dg24db7dg7db7
 [BBKGKBKBGBG](/stripes/bbkgkbkbgbg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Brethwe Powys](/tartans/b/br/brethwe-powys/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

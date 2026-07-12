@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochalsh"
+  url: "/tartans/l/lo/lochalsh/"
 - name: "Lochalsh (Fashion)"
   url: "/setts/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGWGYKBKWKBKGKY](/stripes/ygwgykbkwkbkgky/).
+
+Part of the [Lochalsh](/tartans/l/lo/lochalsh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

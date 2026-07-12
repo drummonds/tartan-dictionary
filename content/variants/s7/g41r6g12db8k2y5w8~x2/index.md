@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Decatur Presbyterian Church"
+  url: "/tartans/d/de/decatur-presbyterian-church/"
+- name: "Decatur Presbyterian Church"
   url: "/setts/g41r6g12db8k2y5w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g41r6g12db8k2y5w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBKGW](/stripes/grgbkgw/).
+
+Part of the [Decatur Presbyterian Church](/tartans/d/de/decatur-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

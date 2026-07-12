@@ -6,6 +6,8 @@ This is the **Campbell Dress Artifact Tartan** sett — one scale-free proportio
 [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Campbell Dress](/tartans/c/ca/campbell-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

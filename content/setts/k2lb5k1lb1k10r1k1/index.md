@@ -6,6 +6,8 @@ This is the **Lundy Reform** sett — one scale-free proportion (`k2lb5k1lb1k10r
 [KRKWKWK](/stripes/krkwkwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lundy Reform](/tartans/l/lu/lundy-reform/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

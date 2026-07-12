@@ -7,6 +7,8 @@ This is the **Austin WI** sett — one scale-free proportion (`dr3k3dr3g6k2`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Austin WI](/tartans/a/au/austin-wi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

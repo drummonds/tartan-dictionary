@@ -6,6 +6,8 @@ This is the **Tara Murphy Irish Family Tartan** sett — one scale-free proporti
 [KGRGGKWKGKRK](/stripes/kgrggkwkgkrk/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Tara Murphy](/tartans/t/ta/tara-murphy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

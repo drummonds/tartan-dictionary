@@ -6,6 +6,8 @@ This is the **Unidentified Canadian Tartan** sett — one scale-free proportion 
 [RGGGKWRWKW](/stripes/rgggkwrwkw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Unidentified 25](/tartans/u/un/unidentified-25/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

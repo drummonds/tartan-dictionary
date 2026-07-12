@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Solway Spirit"
+  url: "/tartans/s/so/solway-spirit-2/"
 - name: "Solway Spirit (District)"
   url: "/setts/w4dp40g2dp2g2dp2g2dp3g16db15m3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4dp40g2dp2g2dp2g2dp3g16db15m3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBGBGBW](/stripes/rbgbgbgbgbw/).
+
+Part of the [Solway Spirit](/tartans/s/so/solway-spirit-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tilburg Hunting"
+  url: "/tartans/t/ti/tilburg-hunting/"
 - name: "Tilburg Hunting (District)"
   url: "/setts/t6k3t37y41w3y6w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6k3t37y41w3y6w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGWGW](/stripes/bkbgwgw/).
+
+Part of the [Tilburg Hunting](/tartans/t/ti/tilburg-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

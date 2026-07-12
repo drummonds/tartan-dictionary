@@ -6,6 +6,8 @@ This is the **MacAn of Lurgyvallan (Hose)** sett — one scale-free proportion (
 [BKBGBK](/stripes/bkbgbk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacAn of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

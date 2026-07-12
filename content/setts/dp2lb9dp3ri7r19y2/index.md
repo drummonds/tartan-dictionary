@@ -6,6 +6,8 @@ This is the **Stevens #3** sett — one scale-free proportion (`dp2lb9dp3ri7r19y
 [BWBRRG](/stripes/bwbrrg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Stevens](/tartans/s/st/stevens-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

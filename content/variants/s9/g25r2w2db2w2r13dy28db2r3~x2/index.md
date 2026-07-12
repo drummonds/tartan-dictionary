@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brousseau"
+  url: "/tartans/b/br/brousseau-2/"
 - name: "Brousseau (Personal)"
   url: "/setts/g25r2w2db2w2r13dy28db2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g25r2w2db2w2r13dy28db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBWRGBR](/stripes/grwbwrgbr/).
+
+Part of the [Brousseau](/tartans/b/br/brousseau-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

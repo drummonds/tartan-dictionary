@@ -6,6 +6,8 @@ This is the **Malaysian Unknown (Artefact)** sett — one scale-free proportion 
 [BWGBW](/stripes/bwgbw/). It is recorded as a single **variant**, below.
 First attested **~1969**.
 
+Part of the [Malaysian Unknown](/tartans/m/ma/malaysian-unknown/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burt"
+  url: "/tartans/b/bu/burt-2/"
 - name: "Burt #1 (Name)"
   url: "/setts/r2ly13db8ly3db33g3db8g13o2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly13db8ly3db33g3db8g13o2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGBYBYR](/stripes/rgbgbybyr/).
+
+Part of the [Burt](/tartans/b/bu/burt-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

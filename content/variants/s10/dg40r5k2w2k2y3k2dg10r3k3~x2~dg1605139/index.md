@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arnold Palmer"
+  url: "/tartans/a/ar/arnold-palmer/"
 - name: "Arnold Palmer Corporate Tartan"
   url: "/setts/dg40r5k2w2k2y3k2dg10r3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg40r5k2w2k2y3k2dg10r3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKWKGKGRK](/stripes/grkwkgkgrk/).
+
+Part of the [Arnold Palmer](/tartans/a/ar/arnold-palmer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

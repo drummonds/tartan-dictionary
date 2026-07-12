@@ -6,6 +6,8 @@ This is the **Braid (Estimated threadcount)** sett — one scale-free proportion
 [BKBKGKBKBKBKR](/stripes/bkbkgkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Braid](/tartans/b/br/braid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

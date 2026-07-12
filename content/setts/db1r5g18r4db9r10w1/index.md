@@ -6,6 +6,8 @@ This is the **MacKintosh Geddes** sett — one scale-free proportion (`db1r5g18r
 [BRGRBRW](/stripes/brgrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKintosh Geddes](/tartans/m/ma/mackintosh-geddes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

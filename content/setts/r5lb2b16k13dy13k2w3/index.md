@@ -6,6 +6,8 @@ This is the **Casey (Personal)** sett — one scale-free proportion (`r5lb2b16k1
 [RWBKGKW](/stripes/rwbkgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Casey](/tartans/c/ca/casey-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

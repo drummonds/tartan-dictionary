@@ -6,6 +6,8 @@ This is the **Ellan Vannin** sett — one scale-free proportion (`o2g8dp4w2o13t2
 [BRWBGR](/stripes/brwbgr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Ellan Vannin](/tartans/e/el/ellan-vannin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

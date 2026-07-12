@@ -6,6 +6,8 @@ This is the **Heather MacRae** sett — one scale-free proportion (`dg2dr12db11l
 [GBBYGBG](/stripes/gbbygbg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Heather MacRae](/tartans/h/he/heather-macrae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

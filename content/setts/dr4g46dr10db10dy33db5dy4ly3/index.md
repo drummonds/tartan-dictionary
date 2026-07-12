@@ -6,6 +6,8 @@ This is the **State Seal of Minnesota (Fashion)** sett — one scale-free propor
 [BGBBGBGY](/stripes/bgbbgbgy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Minnesota](/tartans/s/st/state-seal-of-minnesota/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

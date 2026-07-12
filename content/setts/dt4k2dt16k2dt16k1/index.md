@@ -6,6 +6,8 @@ This is the **Ben Dubh (The Black Mount)** sett — one scale-free proportion (`
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Ben Dubh](/tartans/b/be/ben-dubh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

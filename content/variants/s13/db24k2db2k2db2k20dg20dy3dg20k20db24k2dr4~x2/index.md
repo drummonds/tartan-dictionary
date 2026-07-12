@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loudoun's Highlanders"
+  url: "/tartans/l/lo/loudoun-s-highlanders/"
 - name: "Loudoun's Highlanders - 1747 #2 (Mil"
   url: "/setts/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/).
+
+Part of the [Loudoun's Highlanders](/tartans/l/lo/loudoun-s-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

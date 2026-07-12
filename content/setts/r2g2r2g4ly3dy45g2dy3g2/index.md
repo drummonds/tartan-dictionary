@@ -6,6 +6,8 @@ This is the **Welsh, Stanly-Gpa (Personal)** sett — one scale-free proportion 
 [GGGGYGRGR](/stripes/ggggygrgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Welsh, Stanly-Gpa](/tartans/w/we/welsh-stanly-gpa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

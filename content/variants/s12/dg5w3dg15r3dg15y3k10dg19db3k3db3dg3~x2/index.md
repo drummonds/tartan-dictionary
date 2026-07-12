@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Forfar Farmington"
+  url: "/tartans/f/fo/forfar-farmington/"
+- name: "Forfar Farmington"
   url: "/setts/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGKGGRGWG](/stripes/gbkbgkggrgwg/).
+
+Part of the [Forfar Farmington](/tartans/f/fo/forfar-farmington/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

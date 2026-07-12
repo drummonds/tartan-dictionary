@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry Dress Lavender Fancy"
+  url: "/tartans/l/lo/longniddry-dress-lavender-fancy/"
 - name: "Longniddry Dress Lavender Fancy Tartan"
   url: "/setts/k32b12db5r2k2r2db42r2k2r2db5b12k32db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k32b12db5r2k2r2db42r2k2r2db5b12k32db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBRKRBRKRBBK](/stripes/bkbbrkrbrkrbbk/).
+
+Part of the [Longniddry Dress Lavender Fancy](/tartans/l/lo/longniddry-dress-lavender-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

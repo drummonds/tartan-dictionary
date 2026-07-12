@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Llewellen"
+  url: "/clan/llewellen/"
+- name: "Llewellen of Wales"
+  url: "/families/llewellen-of-wales/"
+- name: "Llewellen of Wales"
+  url: "/tartans/l/ll/llewellen-of-wales/"
 - name: "Llewellen of Wales"
   url: "/setts/dr74k4dr7k4dr9k40w2k4n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr74k4dr7k4dr9k40w2k4n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKB](/stripes/bkbkbkwkb/).
+
+Part of the [Llewellen of Wales](/tartans/l/ll/llewellen-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cheape"
+  url: "/clan/cheape/"
+- name: "Cheape"
+  url: "/tartans/c/ch/cheape/"
 - name: "Cheape Clan Tartan"
   url: "/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
+
+Part of the [Cheape](/tartans/c/ch/cheape/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

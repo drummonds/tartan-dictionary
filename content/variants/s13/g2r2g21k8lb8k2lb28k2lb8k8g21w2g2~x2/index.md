@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mack"
+  url: "/clan/mack/"
+- name: "Mack"
+  url: "/tartans/m/ma/mack/"
 - name: "Mack Original (Personal)"
   url: "/setts/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWKWKWKGWG](/stripes/grgkwkwkwkgwg/).
+
+Part of the [Mack](/tartans/m/ma/mack/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

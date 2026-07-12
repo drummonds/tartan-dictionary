@@ -6,6 +6,8 @@ This is the **Canadian Fancy** sett — one scale-free proportion (`g4o25g6lb12g
 [GRGWGW](/stripes/grgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Canadian Fancy](/tartans/c/ca/canadian-fancy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

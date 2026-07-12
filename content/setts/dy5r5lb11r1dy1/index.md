@@ -7,6 +7,8 @@ This is the **O'Connor Dress** sett — one scale-free proportion (`dy5r5lb11r1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2004**.
 
+Part of the [O'Connor Dress](/tartans/o/o/o-connor-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

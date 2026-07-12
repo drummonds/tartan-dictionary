@@ -6,6 +6,8 @@ This is the **Auld Lang Syne, Grey (Fashion)** sett — one scale-free proportio
 [KBKBKBKBBKW](/stripes/kbkbkbkbbkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

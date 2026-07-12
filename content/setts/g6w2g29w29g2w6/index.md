@@ -6,6 +6,8 @@ This is the **Erskine, Green (Dance)** sett — one scale-free proportion (`g6w2
 [GWGWGW](/stripes/gwgwgw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Erskine](/tartans/e/er/erskine-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

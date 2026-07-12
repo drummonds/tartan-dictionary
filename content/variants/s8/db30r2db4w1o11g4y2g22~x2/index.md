@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yorkland"
+  url: "/tartans/y/yo/yorkland-2/"
+- name: "Yorkland"
   url: "/setts/db30r2db4w1o11g4y2g22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30r2db4w1o11g4y2g22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWRGGG](/stripes/brbwrggg/).
+
+Part of the [Yorkland](/tartans/y/yo/yorkland-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

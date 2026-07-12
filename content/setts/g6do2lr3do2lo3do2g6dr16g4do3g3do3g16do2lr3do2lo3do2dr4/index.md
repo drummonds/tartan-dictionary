@@ -6,6 +6,8 @@ This is the **Mowat, Sir Oliver** sett — one scale-free proportion (`g6do2lr3d
 [BBYBYBGBGBGBGBYBYBG](/stripes/bbybybgbgbgbgbybybg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Mowat, Sir Oliver](/tartans/m/mo/mowat-sir-oliver/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

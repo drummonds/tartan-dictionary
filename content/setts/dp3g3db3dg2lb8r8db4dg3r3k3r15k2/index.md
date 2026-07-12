@@ -6,6 +6,8 @@ This is the **Glengaela (Fashion)** sett — one scale-free proportion (`dp3g3db
 [BGBGWRBGRKRK](/stripes/bgbgwrbgrkrk/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Glengaela](/tartans/g/gl/glengaela/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Grange School** sett — one scale-free proportion (`n27lr3n14k3n1
 [BYBKBKY](/stripes/bybkbky/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Grange School](/tartans/g/gr/grange-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

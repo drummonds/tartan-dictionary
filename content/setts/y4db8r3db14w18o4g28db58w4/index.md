@@ -6,6 +6,8 @@ This is the **Scotia** sett — one scale-free proportion (`y4db8r3db14w18o4g28d
 [GBRBWRGBW](/stripes/gbrbwrgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scotia](/tartans/s/sc/scotia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

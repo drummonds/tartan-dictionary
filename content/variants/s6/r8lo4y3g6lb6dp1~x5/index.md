@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride, The Tartan of"
+  url: "/tartans/p/pr/pride-the-tartan-of/"
+- name: "Pride, The Tartan of"
   url: "/setts/r8lo4y3g6lb6dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8lo4y3g6lb6dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGYR](/stripes/bwggyr/).
+
+Part of the [Pride, The Tartan of](/tartans/p/pr/pride-the-tartan-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

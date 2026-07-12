@@ -6,6 +6,8 @@ This is the **Maguire** sett — one scale-free proportion (`g18r18k3r3db3r3db4r
 [GRKRBRBRKRGWK](/stripes/grkrbrbrkrgwk/). It is recorded as a single **variant**, below.
 First attested **1900**.
 
+Part of the [Maguire](/tartans/m/ma/maguire-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

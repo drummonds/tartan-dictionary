@@ -6,6 +6,8 @@ This is the **Maciver of Strathendry Castle Dress (Personal)** sett — one scal
 [GKRKRKRKW](/stripes/gkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Maciver of Strathendry Castle Dress](/tartans/m/ma/maciver-of-strathendry-castle-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

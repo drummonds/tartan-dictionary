@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celts, Tartan of the"
+  url: "/tartans/c/ce/celts-tartan-of-the/"
+- name: "Celts, Tartan of the"
   url: "/setts/r2k1r1k1g15r4db4r3db3y1k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1r1k1g15r4db4r3db3y1k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBRBRGKRKR](/stripes/gkgbrbrgkrkr/).
+
+Part of the [Celts, Tartan of the](/tartans/c/ce/celts-tartan-of-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

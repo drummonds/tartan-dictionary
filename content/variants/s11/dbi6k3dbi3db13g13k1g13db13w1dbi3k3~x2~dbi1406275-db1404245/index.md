@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wacker"
+  url: "/tartans/w/wa/wacker-2/"
+- name: "Wacker"
   url: "/setts/dbi6k3dbi3db13g13k1g13db13w1dbi3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi6k3dbi3db13g13k1g13db13w1dbi3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/).
+
+Part of the [Wacker](/tartans/w/wa/wacker-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

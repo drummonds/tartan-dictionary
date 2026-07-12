@@ -6,7 +6,7 @@ This is the **Craig Family Tartan** sett — one scale-free proportion (`r1k3g2k
 [RKBGGBKGKRBKBKBKGKR](/stripes/rkbggbkgkrbkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1957**.
 
-Part of the [Craig](/tartans/craig-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Craig](/tartans/c/cr/craig-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+- name: "Robertson, hunting"
+  url: "/tartans/r/ro/robertson-hunting-3/"
 - name: "Robertson, hunting"
   url: "/setts/db28k12g16k1r2k1g16k12db12k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28k12g16k1r2k1g16k12db12k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKRKGKBKW](/stripes/bkgkrkgkbkw/).
+
+Part of the [Robertson, hunting](/tartans/r/ro/robertson-hunting-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

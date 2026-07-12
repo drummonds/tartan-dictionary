@@ -6,7 +6,7 @@ This is the **Scott Hunting special** sett — one scale-free proportion (`g8dg2
 [GGWGGBGGGRGWGG](/stripes/ggwggbgggrgwgg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Scott Hunting special](/tartans/scott-hunting-special/) tartan — the named design grouping this sett with its kin.
+Part of the [Scott Hunting special](/tartans/s/sc/scott-hunting-special/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

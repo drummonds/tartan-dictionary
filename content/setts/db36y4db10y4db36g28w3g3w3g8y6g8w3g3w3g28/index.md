@@ -6,6 +6,8 @@ This is the **MacOrrell** sett — one scale-free proportion (`db36y4db10y4db36g
 [BGBGBGWGWGGGWGWG](/stripes/bgbgbgwgwgggwgwg/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [MacOrrell](/tartans/m/ma/macorrell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

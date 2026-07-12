@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Children's Wish Foundation of Canada, The"
+  url: "/tartans/c/ch/children-s-wish-foundation-of-canada-the/"
+- name: "Children's Wish Foundation of Canada, The"
   url: "/setts/y5k2w16k5lb29k2y5k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5k2w16k5lb29k2y5k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKWKGK](/stripes/gkwkwkgk/).
+
+Part of the [Children's Wish Foundation of Canada, The](/tartans/c/ch/children-s-wish-foundation-of-canada-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

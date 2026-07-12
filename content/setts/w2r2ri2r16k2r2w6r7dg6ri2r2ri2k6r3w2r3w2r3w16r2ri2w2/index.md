@@ -6,6 +6,8 @@ This is the **MacDougal (Dress)** sett — one scale-free proportion (`w2r2ri2r1
 [WRRRKRWRGRRRKRWRWRWRRW](/stripes/wrrrkrwrgrrrkrwrwrwrrw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacDougal](/tartans/m/ma/macdougal-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

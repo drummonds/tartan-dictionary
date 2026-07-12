@@ -6,6 +6,8 @@ This is the **Walkers Shortbread (Corporate)** sett — one scale-free proportio
 [RKRKRKRKRWRKRKR](/stripes/rkrkrkrkrwrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Walkers Shortbread](/tartans/w/wa/walkers-shortbread-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

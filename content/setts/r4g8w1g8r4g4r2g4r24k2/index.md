@@ -6,6 +6,8 @@ This is the **Cumming Clan Tartan** sett — one scale-free proportion (`r4g8w1g
 [KRGRGRGWGR](/stripes/krgrgrgwgr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Cumming](/tartans/c/cu/cumming-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Scottish Pride (Fashion)** sett — one scale-free proportion (`g6
 [GBBGBGKGKBW](/stripes/gbbgbgkgkbw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Scottish Pride](/tartans/s/sc/scottish-pride-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

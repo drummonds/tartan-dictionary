@@ -7,6 +7,8 @@ This is the **Dunbog, Primary School** sett — one scale-free proportion (`r12d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1985**.
 
+Part of the [Dunbog Primary School](/tartans/d/du/dunbog-primary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

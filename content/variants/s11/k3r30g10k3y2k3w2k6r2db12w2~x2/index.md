@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kilmorie"
+  url: "/tartans/k/ki/kilmorie/"
+- name: "Kilmorie"
   url: "/setts/k3r30g10k3y2k3w2k6r2db12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r30g10k3y2k3w2k6r2db12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKGKWKRBW](/stripes/krgkgkwkrbw/).
+
+Part of the [Kilmorie](/tartans/k/ki/kilmorie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

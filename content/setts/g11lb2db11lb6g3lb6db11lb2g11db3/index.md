@@ -6,6 +6,8 @@ This is the **Norwich No.029** sett — one scale-free proportion (`g11lb2db11lb
 [BGWBWGWBWG](/stripes/bgwbwgwbwg/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.029](/tartans/n/no/norwich-no-029/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

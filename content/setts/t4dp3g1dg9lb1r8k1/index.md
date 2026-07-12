@@ -6,6 +6,8 @@ This is the **Wilson's No.121** sett — one scale-free proportion (`t4dp3g1dg9l
 [BBGGWRKRWGGB](/stripes/bbggwrkrwggb/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.121](/tartans/w/wi/wilson-s-no-121/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

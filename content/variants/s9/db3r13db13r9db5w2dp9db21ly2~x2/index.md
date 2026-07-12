@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Telfer, Brian William"
-  url: "/tartans/telfer-brian-william/"
+  url: "/tartans/t/te/telfer-brian-william/"
 - name: "Telfer, Brian William (Personal)"
   url: "/setts/db3r13db13r9db5w2dp9db21ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3r13db13r9db5w2dp9db21ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWBBY](/stripes/brbrbwbby/).
 
-Part of the [Telfer, Brian William](/tartans/telfer-brian-william/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Telfer, Brian William](/tartans/t/te/telfer-brian-william/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

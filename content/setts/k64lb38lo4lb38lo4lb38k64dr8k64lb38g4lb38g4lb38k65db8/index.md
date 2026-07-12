@@ -6,6 +6,8 @@ This is the **Kinnieson (Personal)** sett — one scale-free proportion (`k64lb3
 [BKWGWGWKBKWYWYWK](/stripes/bkwgwgwkbkwywywk/). It is recorded as a single **variant**, below.
 First attested **1961**.
 
+Part of the [Kinnieson](/tartans/k/ki/kinnieson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

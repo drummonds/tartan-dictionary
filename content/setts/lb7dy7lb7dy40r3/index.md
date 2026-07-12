@@ -6,6 +6,8 @@ This is the **Coca Cola** sett — one scale-free proportion (`lb7dy7lb7dy40r3`)
 [RGWGW](/stripes/rgwgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Coca Cola](/tartans/c/co/coca-cola/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

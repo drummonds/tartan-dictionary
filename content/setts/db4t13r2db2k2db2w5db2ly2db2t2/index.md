@@ -6,6 +6,8 @@ This is the **Manchester City Football Club "Blue** sett — one scale-free prop
 [BBRBKBWBYBB](/stripes/bbrbkbwbybb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Manchester City Football Club](/tartans/m/ma/manchester-city-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

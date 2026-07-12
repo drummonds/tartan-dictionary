@@ -6,6 +6,8 @@ This is the **Brian Boru 2014** sett — one scale-free proportion (`r4n2r24k1n8
 [GBGBRBRBRBRBKRBR](/stripes/gbgbrbrbrbrbkrbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Brian Boru 2014](/tartans/b/br/brian-boru-2014/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

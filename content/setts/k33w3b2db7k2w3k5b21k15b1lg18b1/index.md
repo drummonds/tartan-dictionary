@@ -6,6 +6,8 @@ This is the **Covington, Christopher (Personal)** sett — one scale-free propor
 [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Covington, Christopher](/tartans/c/co/covington-christopher/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Howells** sett — one scale-free proportion (`n16r1g3n5r1n5g3n4g1
 [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Howells](/tartans/h/ho/howells/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

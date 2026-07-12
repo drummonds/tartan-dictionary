@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McAlifyfe"
+  url: "/tartans/m/mc/mcalifyfe/"
 - name: "McAlifyfe (Personal)"
   url: "/setts/k3y3lo2y30k2y3m12y6mi6k3y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3y3lo2y30k2y3m12y6mi6k3y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRGRGKGYGK](/stripes/gkrgrgkgygk/).
+
+Part of the [McAlifyfe](/tartans/m/mc/mcalifyfe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

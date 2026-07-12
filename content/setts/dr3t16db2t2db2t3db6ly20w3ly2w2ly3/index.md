@@ -6,6 +6,8 @@ This is the **Callum** sett — one scale-free proportion (`dr3t16db2t2db2t3db6l
 [BBBBBBBYWYWY](/stripes/bbbbbbbywywy/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Callum](/tartans/c/ca/callum-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Java St Andrew Society hunting** sett — one scale-free proportio
 [BGKGWRG](/stripes/bgkgwrg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Java St Andrew Society hunting](/tartans/j/ja/java-st-andrew-society-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -13,10 +13,12 @@ date: 2023-03-18
 <table class="sett-table">
 <thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/">Kelly of Sleat Hunting</a> ★</td><td><code>DG/8 K8 DG56 N8 DG8 K20 DG8 N8 DG8 N16 W3 DR/6</code></td><td>300</td><td>1995</td></tr>
+<tr><td><a href="/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/">Kelly of Sleat Hunting</a></td><td><code>DG/8 K8 DG56 N8 DG8 K20 DG8 N8 DG8 N16 W3 DR/6</code></td><td>300</td><td>1995</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly of Sleat Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
+
+[See the Kelly of Sleat Hunting tartan and all its setts →](/tartans/k/ke/kelly-of-sleat-hunting/)
 
 ### Kelly of Sleat
 
@@ -30,5 +32,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Kelly of Sleat tartan and all its setts →](/tartans/kelly-of-sleat/)
+[See the Kelly of Sleat tartan and all its setts →](/tartans/k/ke/kelly-of-sleat/)
 

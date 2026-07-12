@@ -6,6 +6,8 @@ This is the **Stirling and Bannockburn** sett — one scale-free proportion (`r3
 [RGRWRKRYGY](/stripes/rgrwrkrygy/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Stirling and Bannockburn](/tartans/s/st/stirling-and-bannockburn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

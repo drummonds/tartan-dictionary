@@ -6,7 +6,7 @@ This is the **Dogwood** sett — one scale-free proportion (`g3r12g12o5r1w25g2r1
 [GRGRRWGR](/stripes/grgrrwgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Dogwood](/tartans/dogwood-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dogwood](/tartans/d/do/dogwood-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

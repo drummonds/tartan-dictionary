@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lake Superior"
+  url: "/tartans/l/la/lake-superior/"
 - name: "Lake Superior Ice Water Mansion"
   url: "/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/).
+
+Part of the [Lake Superior](/tartans/l/la/lake-superior/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 

@@ -6,6 +6,8 @@ This is the **Unidentified (Pahls)** sett — one scale-free proportion (`ly4g4d
 [BGYGBWGBGY](/stripes/bgygbwgbgy/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Highland"
-  url: "/tartans/royal-highland/"
+  url: "/tartans/r/ro/royal-highland/"
 - name: "Royal Highland"
   url: "/setts/lb4dg17k10db3k3db17dr3db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4dg17k10db3k3db17dr3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBKGW](/stripes/bbbkbkgw/).
 
-Part of the [Royal Highland](/tartans/royal-highland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Highland](/tartans/r/ro/royal-highland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacHatters"
+  url: "/clan/machatters/"
+- name: "MacHatters of the Old Pueblo"
+  url: "/families/machatters-of-the-old-pueblo/"
+- name: "MacHatters of the Old Pueblo"
+  url: "/tartans/m/ma/machatters-of-the-old-pueblo/"
 - name: "MacHatters of the Old Pueblo"
   url: "/setts/dp7o2ri2r2dp23r2k2r1k15ri29lp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp7o2ri2r2dp23r2k2r1k15ri29lp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRRRBRKRKRW](/stripes/brrrbrkrkrw/).
+
+Part of the [MacHatters of the Old Pueblo](/tartans/m/ma/machatters-of-the-old-pueblo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

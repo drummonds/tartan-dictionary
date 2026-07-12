@@ -6,7 +6,7 @@ This is the **Way of the Rainbow** sett — one scale-free proportion (`k1db24r1
 [KBRGYGBW](/stripes/kbrgygbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Way of the Rainbow](/tartans/way-of-the-rainbow/) tartan — the named design grouping this sett with its kin.
+Part of the [Way of the Rainbow](/tartans/w/wa/way-of-the-rainbow/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

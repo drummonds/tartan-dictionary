@@ -6,6 +6,8 @@ This is the **Java Saint Andrew Society Dress** sett — one scale-free proporti
 [BRKRWYR](/stripes/brkrwyr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Java Saint Andrew Society Dress](/tartans/j/ja/java-saint-andrew-society-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Home (Clans Originaux)** sett — one scale-free proportion (`g3t3
 [BGBKRKRKRKRKBG](/stripes/bgbkrkrkrkrkbg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Home](/tartans/h/ho/home-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

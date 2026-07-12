@@ -6,6 +6,8 @@ This is the **Lochearn (Fashion)** sett — one scale-free proportion (`lg22db3l
 [WBWBYBYBY](/stripes/wbwbybyby/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Lochearn](/tartans/l/lo/lochearn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Chisholm, The (MacGregor-Hastie)** sett — one scale-free proport
 [RGBRBGBRWR](/stripes/rgbrbgbrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Chisholm, The](/tartans/chisholm-the-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Chisholm, The](/tartans/c/ch/chisholm-the-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

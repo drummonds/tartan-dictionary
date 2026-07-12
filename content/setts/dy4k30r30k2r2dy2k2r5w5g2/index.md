@@ -6,6 +6,8 @@ This is the **Haileybury** sett — one scale-free proportion (`dy4k30r30k2r2dy2
 [GKRKRGKRWG](/stripes/gkrkrgkrwg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Haileybury](/tartans/h/ha/haileybury/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

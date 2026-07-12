@@ -6,6 +6,8 @@ This is the **Carlow County Crest (Fashion)** sett — one scale-free proportion
 [KGKRKRGKGW](/stripes/kgkrkrgkgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Carlow County Crest](/tartans/c/ca/carlow-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

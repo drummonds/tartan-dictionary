@@ -18,5 +18,5 @@ A family of [Clan Campbell](/clan/campbell/).
 </tbody>
 </table>
 
-[See the Campbell of Loch Awe tartan and all its setts →](/tartans/campbell-of-loch-awe/)
+[See the Campbell of Loch Awe tartan and all its setts →](/tartans/c/ca/campbell-of-loch-awe/)
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burberry Check"
+  url: "/tartans/b/bu/burberry-check/"
 - name: "Burberry Check Corporate Tartan"
   url: "/setts/k6w6k6ly21r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6w6k6ly21r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKYR](/stripes/kwkyr/).
+
+Part of the [Burberry Check](/tartans/b/bu/burberry-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

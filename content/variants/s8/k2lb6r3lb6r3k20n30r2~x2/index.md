@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hermitage Academy"
+  url: "/tartans/h/he/hermitage-academy/"
 - name: "Hermitage Academy (Corporate)"
   url: "/setts/k2lb6r3lb6r3k20n30r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2lb6r3lb6r3k20n30r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRWRKBR](/stripes/kwrwrkbr/).
+
+Part of the [Hermitage Academy](/tartans/h/he/hermitage-academy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

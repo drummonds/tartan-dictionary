@@ -6,6 +6,8 @@ This is the **Waterford Irish County Tartan** sett — one scale-free proportion
 [GGGBKR](/stripes/gggbkr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Waterford Irish County](/tartans/w/wa/waterford-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

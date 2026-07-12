@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tweedbank"
-  url: "/tartans/tweedbank/"
+  url: "/tartans/t/tw/tweedbank/"
 - name: "Tweedbank (Corporate)"
   url: "/setts/w4dr8g1db4g1db4g1r25k25g2k1g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4dr8g1db4g1db4g1r25k25g2k1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRGBGBGBW](/stripes/gkgkrgbgbgbw/).
 
-Part of the [Tweedbank](/tartans/tweedbank/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tweedbank](/tartans/t/tw/tweedbank/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Knights Templar Hunting"
+  url: "/tartans/k/kn/knights-templar-hunting/"
+- name: "Knights Templar Hunting"
   url: "/setts/k22w1k12r43w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k22w1k12r43w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRWRKW](/stripes/kwkrwrkw/).
+
+Part of the [Knights Templar Hunting](/tartans/k/kn/knights-templar-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

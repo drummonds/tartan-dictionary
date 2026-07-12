@@ -6,6 +6,8 @@ This is the **Witches' Blood, The** sett — one scale-free proportion (`k22n17k
 [KBKBKBKBKR](/stripes/kbkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Witches' Blood, The](/tartans/w/wi/witches-blood-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

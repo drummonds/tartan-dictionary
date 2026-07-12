@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tartan Army"
+  url: "/tartans/t/ta/tartan-army-3/"
+- name: "Tartan Army"
   url: "/setts/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKWKRGRKWKWKBKB](/stripes/bkbkbkwkwkrgrkwkwkbkb/).
+
+Part of the [Tartan Army](/tartans/t/ta/tartan-army-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 

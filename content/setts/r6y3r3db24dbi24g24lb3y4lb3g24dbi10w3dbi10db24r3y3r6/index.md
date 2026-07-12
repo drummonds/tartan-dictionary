@@ -6,6 +6,8 @@ This is the **Stevens (Personal)** sett — one scale-free proportion (`r6y3r3db
 [GRBBGWGWGBWBBRGRGRBBWBGWGWGBBRGR](/stripes/grbbgwgwgbwbbrgrgrbbwbgwgwgbbrgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Stevens](/tartans/s/st/stevens-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

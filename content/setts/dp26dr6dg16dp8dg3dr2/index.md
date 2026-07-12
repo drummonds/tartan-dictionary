@@ -6,6 +6,8 @@ This is the **Perthshire Tourist Board (Corporate)** sett — one scale-free pro
 [BBGBGB](/stripes/bbgbgb/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Perthshire Tourist Board](/tartans/p/pe/perthshire-tourist-board/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

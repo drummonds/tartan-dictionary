@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Valencia"
+  url: "/tartans/v/va/valencia/"
+- name: "Valencia"
   url: "/setts/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGKGWWWGGKGGWWGWRGGKBRKWRWBGRWKWKWRGW](/stripes/wbgkgkgwwwggkggwwgwrggkbrkwrwbgrwkwkwrgw/).
+
+Part of the [Valencia](/tartans/v/va/valencia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dorcas, Check"
+  url: "/tartans/d/do/dorcas-check-2/"
+- name: "Dorcas, Check"
   url: "/setts/o4w2o2w3o18k6g3k2g2k2g14b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4w2o2w3o18k6g3k2g2k2g14b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGKRWRWR](/stripes/bgkgkgkrwrwr/).
+
+Part of the [Dorcas, Check](/tartans/d/do/dorcas-check-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

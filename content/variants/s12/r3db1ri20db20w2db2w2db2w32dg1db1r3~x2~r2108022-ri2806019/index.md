@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sunart Saphire"
+  url: "/tartans/s/su/sunart-saphire/"
 - name: "Sunart, Saphire (Dance)"
   url: "/setts/r3db1ri20db20w2db2w2db2w32dg1db1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db1ri20db20w2db2w2db2w32dg1db1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGWBWBWBRBR](/stripes/rbgwbwbwbrbr/).
+
+Part of the [Sunart Saphire](/tartans/s/su/sunart-saphire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

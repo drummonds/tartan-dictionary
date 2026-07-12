@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Andrews, Earl of"
-  url: "/tartans/st-andrews-earl-of/"
+  url: "/tartans/s/st/st-andrews-earl-of/"
 - name: "St Andrews, Earl of"
   url: "/setts/db52k28w5k3w2k10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db52k28w5k3w2k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWK](/stripes/bkwkwk/).
 
-Part of the [St Andrews, Earl of](/tartans/st-andrews-earl-of/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Andrews, Earl of](/tartans/s/st/st-andrews-earl-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

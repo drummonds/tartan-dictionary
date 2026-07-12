@@ -7,7 +7,7 @@ This is the **MacBeth** sett — one scale-free proportion (`db36y4k6w1k1w1k1g8r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacBeth](/tartans/macbeth/) tartan — the named design grouping this sett with its kin.
+Part of the [MacBeth](/tartans/m/ma/macbeth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

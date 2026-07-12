@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lewis Navy"
+  url: "/tartans/l/le/lewis-navy/"
 - name: "Lewis, Navy (Dance)"
   url: "/setts/db4w35db31w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w35db31w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBW](/stripes/bwbw/).
+
+Part of the [Lewis Navy](/tartans/l/le/lewis-navy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

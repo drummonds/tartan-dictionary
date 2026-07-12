@@ -6,6 +6,8 @@ This is the **Angle Dress (Fashion)** sett — one scale-free proportion (`k5g8l
 [KGYGY](/stripes/kgygy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Angle Dress](/tartans/a/an/angle-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

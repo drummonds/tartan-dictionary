@@ -6,6 +6,8 @@ This is the **Killen** sett — one scale-free proportion (`dg8k1w2k1db8k8dg1k1d
 [GKGBKBBBKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKBBBKBGK](/stripes/gkgbkbbbkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkbbbkbgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Killen](/tartans/k/ki/killen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

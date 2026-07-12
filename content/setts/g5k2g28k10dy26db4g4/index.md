@@ -6,6 +6,8 @@ This is the **John Telfar Dunbar/Hunting Tartan** sett — one scale-free propor
 [GBGKGKG](/stripes/gbgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [John Telfar Dunbar Hunting](/tartans/j/jo/john-telfar-dunbar-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

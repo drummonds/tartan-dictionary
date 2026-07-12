@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bottle"
+  url: "/tartans/b/bo/bottle/"
 - name: "Bottle Green (Fashion)"
   url: "/setts/g30ly4k6lo2k2g4k2db5y4k2y3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30ly4k6lo2k2g4k2db5y4k2y3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
+
+Part of the [Bottle](/tartans/b/bo/bottle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

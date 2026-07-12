@@ -7,7 +7,7 @@ This is the **Moncreiffe** sett — one scale-free proportion (`r1g1`), colour o
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
-Part of the [Moncreiffe](/tartans/moncreiffe/) tartan — the named design grouping this sett with its kin.
+Part of the [Moncreiffe](/tartans/m/mo/moncreiffe/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

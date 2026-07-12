@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Odyssey Commemorative"
+  url: "/tartans/s/sc/scottish-odyssey-commemorative/"
 - name: "Scottish Odyssey Commemorative Tartan"
   url: "/setts/k7db11k3db11dy11g22db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7db11k3db11dy11g22db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBKBK](/stripes/bggbkbk/).
+
+Part of the [Scottish Odyssey Commemorative](/tartans/s/sc/scottish-odyssey-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

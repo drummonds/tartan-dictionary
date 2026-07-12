@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Monaghan"
+  url: "/tartans/o/o/o-monaghan/"
 - name: "O'Monaghan (Personal)"
   url: "/setts/y25w2lb4lo7lb4w2ly25w2lb4lo7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y25w2lb4lo7lb4w2ly25w2lb4lo7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWYWWYWWGWWYWWYWWY](/stripes/wwywwywwgwwywwywwy/).
+
+Part of the [O'Monaghan](/tartans/o/o/o-monaghan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

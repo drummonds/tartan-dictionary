@@ -6,6 +6,8 @@ This is the **Orman (Personal)** sett — one scale-free proportion (`ki10k3ki3k
 [BKGKGKKKK](/stripes/bkgkgkkkk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Orman](/tartans/o/or/orman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

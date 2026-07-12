@@ -7,6 +7,8 @@ This is the **Belfrage** sett — one scale-free proportion (`db22n5dp9g14db10lo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
+Part of the [Belfrage](/tartans/b/be/belfrage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

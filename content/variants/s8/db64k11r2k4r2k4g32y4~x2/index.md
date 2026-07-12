@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sinclair-Brown"
-  url: "/tartans/sinclair-brown/"
+  url: "/tartans/s/si/sinclair-brown/"
 - name: "Sinclair-Brown"
   url: "/setts/db64k11r2k4r2k4g32y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db64k11r2k4r2k4g32y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKRKGG](/stripes/bkrkrkgg/).
 
-Part of the [Sinclair-Brown](/tartans/sinclair-brown/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sinclair-Brown](/tartans/s/si/sinclair-brown/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

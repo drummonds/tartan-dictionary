@@ -6,7 +6,7 @@ This is the **Skye (Fashion)** sett — one scale-free proportion (`db50k12n2k2w
 [BKBKWKBBKW](/stripes/bkbkwkbbkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Skye](/tartans/skye/) tartan — the named design grouping this sett with its kin.
+Part of the [Skye](/tartans/s/sk/skye/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

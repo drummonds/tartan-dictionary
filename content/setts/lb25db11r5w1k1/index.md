@@ -6,6 +6,8 @@ This is the **Mount Vernon Primary School** sett — one scale-free proportion (
 [KWRBW](/stripes/kwrbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Mount Vernon Primary School](/tartans/m/mo/mount-vernon-primary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

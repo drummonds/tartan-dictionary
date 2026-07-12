@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rabbie's Dram"
+  url: "/tartans/r/ra/rabbie-s-dram/"
 - name: "Rabbie's Dram (Fashion)"
   url: "/setts/ly60do3ly4r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly60do3ly4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBY](/stripes/ryby/).
+
+Part of the [Rabbie's Dram](/tartans/r/ra/rabbie-s-dram/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burnett's & Struth"
+  url: "/tartans/b/bu/burnett-s-struth/"
 - name: "Burnett's & Struth (Corporate)"
   url: "/setts/dt68t7dt16k16ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt68t7dt16k16ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKY](/stripes/bbbky/).
+
+Part of the [Burnett's & Struth](/tartans/b/bu/burnett-s-struth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

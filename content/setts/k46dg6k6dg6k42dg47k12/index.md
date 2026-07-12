@@ -6,6 +6,8 @@ This is the **Taiheiyo Club, Inc.** sett — one scale-free proportion (`k46dg6k
 [KGKGKGK](/stripes/kgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Taiheiyo Club, Inc](/tartans/t/ta/taiheiyo-club-inc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

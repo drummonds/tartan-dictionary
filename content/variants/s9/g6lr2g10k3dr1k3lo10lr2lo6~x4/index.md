@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Eire"
+  url: "/tartans/e/ei/eire/"
+- name: "Eire"
   url: "/setts/g6lr2g10k3dr1k3lo10lr2lo6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6lr2g10k3dr1k3lo10lr2lo6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKBKYYY](/stripes/gygkbkyyy/).
+
+Part of the [Eire](/tartans/e/ei/eire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

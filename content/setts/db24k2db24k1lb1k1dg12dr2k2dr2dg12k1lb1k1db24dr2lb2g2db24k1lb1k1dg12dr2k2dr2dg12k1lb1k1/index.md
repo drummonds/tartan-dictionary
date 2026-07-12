@@ -6,6 +6,8 @@ This is the **Italian** sett — one scale-free proportion (`db24k2db24k1lb1k1dg
 [BKBKWKGBKBGKWKBBWGBKWKGBKBGKWK](/stripes/bkbkwkgbkbgkwkbbwgbkwkgbkbgkwk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Italian](/tartans/i/it/italian-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

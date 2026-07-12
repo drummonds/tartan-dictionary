@@ -6,6 +6,8 @@ This is the **Lauder Dress** sett — one scale-free proportion (`r4db4w52db5w5k
 [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Lauder Dress](/tartans/l/la/lauder-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

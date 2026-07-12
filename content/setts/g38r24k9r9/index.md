@@ -6,6 +6,8 @@ This is the **Royal Guard of Oman 4th Band Squadron** sett — one scale-free pr
 [GRKR](/stripes/grkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Royal Guard of Oman 4th Band Squadro](/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

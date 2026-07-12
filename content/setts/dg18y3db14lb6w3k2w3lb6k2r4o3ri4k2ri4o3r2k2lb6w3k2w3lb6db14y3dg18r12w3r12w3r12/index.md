@@ -6,6 +6,8 @@ This is the **Unidentified Cant #01 (Cumming)** sett — one scale-free proporti
 [GGBWWKWWKRRRKRRRKWWKWWBGGRWRWR](/stripes/ggbwwkwwkrrrkrrrkwwkwwbggrwrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

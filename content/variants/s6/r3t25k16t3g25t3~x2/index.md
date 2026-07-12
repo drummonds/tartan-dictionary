@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Flower of Scotland"
-  url: "/tartans/flower-of-scotland/"
+  url: "/tartans/f/fl/flower-of-scotland/"
 - name: "Flower of Scotland"
   url: "/setts/r3t25k16t3g25t3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3t25k16t3g25t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBR](/stripes/bgbkbr/).
 
-Part of the [Flower of Scotland](/tartans/flower-of-scotland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Flower of Scotland](/tartans/f/fl/flower-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

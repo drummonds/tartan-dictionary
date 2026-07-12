@@ -6,6 +6,8 @@ This is the **Reagan (Personal)** sett — one scale-free proportion (`k4g12k3g4
 [GKGKGKGKGK](/stripes/gkgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **1962**.
 
+Part of the [Reagan](/tartans/r/re/reagan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

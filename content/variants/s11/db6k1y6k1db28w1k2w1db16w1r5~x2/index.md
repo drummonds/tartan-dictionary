@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Historic Caledonian Railway Enthusiasts', The"
+  url: "/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/"
+- name: "Historic Caledonian Railway Enthusiasts', The"
   url: "/setts/db6k1y6k1db28w1k2w1db16w1r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k1y6k1db28w1k2w1db16w1r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBWKWBWR](/stripes/bkgkbwkwbwr/).
+
+Part of the [Historic Caledonian Railway Enthusiasts', The](/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

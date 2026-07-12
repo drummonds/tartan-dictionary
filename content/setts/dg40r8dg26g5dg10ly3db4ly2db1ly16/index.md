@@ -6,6 +6,8 @@ This is the **Lodge Isandlwana** sett — one scale-free proportion (`dg40r8dg26
 [GRGGGYBYBY](/stripes/grgggybyby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lodge Isandlwana](/tartans/l/lo/lodge-isandlwana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

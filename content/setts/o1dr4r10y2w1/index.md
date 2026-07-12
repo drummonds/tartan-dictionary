@@ -6,7 +6,7 @@ This is the **Love** sett — one scale-free proportion (`o1dr4r10y2w1`), colour
 [RBRGW](/stripes/rbrgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Love](/tartans/love/) tartan — the named design grouping this sett with its kin.
+Part of the [Love](/tartans/l/lo/love/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

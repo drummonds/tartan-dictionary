@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Le Cercle des Femmes"
+  url: "/tartans/l/le/le-cercle-des-femmes/"
 - name: "Le Cercle des Femmes (Corporate)"
   url: "/setts/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWBGGKGBKWBGYKWK](/stripes/kgwbggkgbkwbgykwk/).
+
+Part of the [Le Cercle des Femmes](/tartans/l/le/le-cercle-des-femmes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

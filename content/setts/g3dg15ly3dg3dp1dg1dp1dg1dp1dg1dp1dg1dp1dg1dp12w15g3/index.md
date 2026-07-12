@@ -6,6 +6,8 @@ This is the **Prickly Thistle** sett — one scale-free proportion (`g3dg15ly3dg
 [GGYGBGBGBGBGBGBWG](/stripes/ggygbgbgbgbgbgbwg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Prickly Thistle](/tartans/p/pr/prickly-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

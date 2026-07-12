@@ -6,6 +6,8 @@ This is the **Justerini & Brooks** sett — one scale-free proportion (`o48ly14o
 [GRGRKGRYR](/stripes/grgrkgryr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Justerini & Brooks](/tartans/j/ju/justerini-brooks/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **University of Notre Dame** sett — one scale-free proportion (`r5
 [RBKBYR](/stripes/rbkbyr/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [University of Notre Dame](/tartans/u/un/university-of-notre-dame/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

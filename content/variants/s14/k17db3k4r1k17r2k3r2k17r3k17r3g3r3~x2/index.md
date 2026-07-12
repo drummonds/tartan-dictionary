@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black"
+  url: "/tartans/b/bl/black/"
 - name: "Black (Hebridean) (Artefact)"
   url: "/setts/k17db3k4r1k17r2k3r2k17r3k17r3g3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k17db3k4r1k17r2k3r2k17r3k17r3g3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKRKRKRKRGR](/stripes/kbkrkrkrkrkrgr/).
+
+Part of the [Black](/tartans/b/bl/black/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

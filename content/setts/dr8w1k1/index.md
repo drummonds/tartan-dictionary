@@ -6,6 +6,8 @@ This is the **International Karate Fed. (Corporat)** sett — one scale-free pro
 [BWK](/stripes/bwk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [International Karate Alliance](/tartans/i/in/international-karate-alliance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

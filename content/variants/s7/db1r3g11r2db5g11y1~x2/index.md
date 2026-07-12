@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Mackintosh (Clan Chattan)"
   url: "/clan/mackintosh/"
 - name: "MacKintosh Hunting"
-  url: "/tartans/mackintosh-hunting/"
+  url: "/tartans/m/ma/mackintosh-hunting/"
 - name: "MacKintosh Hunting Clan Tartan"
   url: "/setts/db1r3g11r2db5g11y1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1r3g11r2db5g11y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGG](/stripes/brgrbgg/).
 
-Part of the [MacKintosh Hunting](/tartans/mackintosh-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacKintosh Hunting](/tartans/m/ma/mackintosh-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **MacWilliams Wedding Personal Tartan** sett — one scale-free prop
 [GBKBKBKGR](/stripes/gbkbkbkgr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [MacWilliams Wedding](/tartans/m/ma/macwilliams-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

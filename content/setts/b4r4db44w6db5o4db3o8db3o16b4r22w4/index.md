@@ -6,7 +6,7 @@ This is the **Largs** sett — one scale-free proportion (`b4r4db44w6db5o4db3o8d
 [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Largs](/tartans/largs-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Largs](/tartans/l/la/largs-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

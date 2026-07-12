@@ -6,6 +6,8 @@ This is the **Mensah** sett — one scale-free proportion (`y3g9db9k1y2k15r37g2`
 [GGBKGKRG](/stripes/ggbkgkrg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Mensah](/tartans/m/me/mensah/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Campbell, The White Stripe** sett — one scale-free proportion (`
 [BKBKGW](/stripes/bkbkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell, The White Stripe](/tartans/c/ca/campbell-the-white-stripe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

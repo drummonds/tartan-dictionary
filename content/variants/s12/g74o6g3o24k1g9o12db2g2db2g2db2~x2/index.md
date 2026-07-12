@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ridgeback"
+  url: "/tartans/r/ri/ridgeback/"
 - name: "Ridgeback (Corporate)"
   url: "/setts/g74o6g3o24k1g9o12db2g2db2g2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g74o6g3o24k1g9o12db2g2db2g2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRGKRGRG](/stripes/bgbgbrgkrgrg/).
+
+Part of the [Ridgeback](/tartans/r/ri/ridgeback/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

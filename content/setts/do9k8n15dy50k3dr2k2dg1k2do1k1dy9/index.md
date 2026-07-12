@@ -6,6 +6,8 @@ This is the **Tomatin Distillery** sett — one scale-free proportion (`do9k8n15
 [BKBGKBKGKBKG](/stripes/bkbgkbkgkbkg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Tomatin Distillery](/tartans/t/to/tomatin-distillery/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

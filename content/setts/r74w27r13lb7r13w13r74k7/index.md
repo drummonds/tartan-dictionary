@@ -6,6 +6,8 @@ This is the **Cornell (Corporate)** sett — one scale-free proportion (`r74w27r
 [KRWRWRWR](/stripes/krwrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Cornell](/tartans/c/co/cornell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

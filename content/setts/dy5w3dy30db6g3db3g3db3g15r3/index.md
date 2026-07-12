@@ -6,6 +6,8 @@ This is the **Chisholm Hunting #2** sett — one scale-free proportion (`dy5w3dy
 [GWGBGBGBGR](/stripes/gwgbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Chisholm](/tartans/c/ch/chisholm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

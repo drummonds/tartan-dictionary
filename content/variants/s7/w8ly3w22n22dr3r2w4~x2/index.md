@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Banff"
+  url: "/tartans/b/ba/banff/"
 - name: "Banff, White (Fashion)"
   url: "/setts/w8ly3w22n22dr3r2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8ly3w22n22dr3r2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBBWYW](/stripes/wrbbwyw/).
+
+Part of the [Banff](/tartans/b/ba/banff/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

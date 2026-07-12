@@ -6,6 +6,8 @@ This is the **Rangers F. C. Corporate Tartan** sett — one scale-free proportio
 [BRBKBKBKBKBRBKBKBKBK](/stripes/brbkbkbkbkbrbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Rangers F. C.](/tartans/r/ra/rangers-f-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

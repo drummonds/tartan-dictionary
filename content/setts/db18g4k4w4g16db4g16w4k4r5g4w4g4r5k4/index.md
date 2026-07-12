@@ -6,7 +6,7 @@ This is the **Gayre** sett — one scale-free proportion (`db18g4k4w4g16db4g16w4
 [BGKWGBGWKRGWGRK](/stripes/bgkwgbgwkrgwgrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Gayre](/tartans/gayre/) tartan — the named design grouping this sett with its kin.
+Part of the [Gayre](/tartans/g/ga/gayre/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

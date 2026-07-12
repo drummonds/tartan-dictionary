@@ -6,7 +6,7 @@ This is the **St Giles Check Tartan** sett — one scale-free proportion (`db3n1
 [BBWBWBB](/stripes/bbwbwbb/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [St Giles Check](/tartans/st-giles-check/) tartan — the named design grouping this sett with its kin.
+Part of the [St Giles Check](/tartans/s/st/st-giles-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

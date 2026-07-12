@@ -6,6 +6,8 @@ This is the **Ferrari (Name)** sett — one scale-free proportion (`ly6db2lo2db1
 [YBYBKBYWYBKWKWKWKWY](/stripes/ybybkbywybkwkwkwkwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ferrari](/tartans/f/fe/ferrari-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

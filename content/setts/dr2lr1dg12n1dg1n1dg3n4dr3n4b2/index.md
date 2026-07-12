@@ -6,6 +6,8 @@ This is the **Tasmanian** sett — one scale-free proportion (`dr2lr1dg12n1dg1n1
 [BBBBGBGBGYB](/stripes/bbbbgbgbgyb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tasmanian](/tartans/t/ta/tasmanian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

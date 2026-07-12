@@ -6,7 +6,7 @@ This is the **Bundanoon** sett — one scale-free proportion (`db17r3g55db3g4db3
 [BRGBGBGGW](/stripes/brgbgbggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bundanoon](/tartans/bundanoon/) tartan — the named design grouping this sett with its kin.
+Part of the [Bundanoon](/tartans/b/bu/bundanoon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

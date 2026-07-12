@@ -6,6 +6,8 @@ This is the **Black Watch Dress, Brown/Grey (Fash)** sett — one scale-free pro
 [BBBBGBGBWBWBW](/stripes/bbbbgbgbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Black Watch Dress, Brown/Grey](/tartans/b/bl/black-watch-dress-brown-grey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -10,7 +10,7 @@ crumbs:
 - name: "Stewart of Galloway"
   url: "/families/stewart-of-galloway/"
 - name: "Stewart of Galloway"
-  url: "/tartans/stewart-of-galloway/"
+  url: "/tartans/s/st/stewart-of-galloway/"
 - name: "Stewart of Galloway - 1842 (Clan)"
   url: "/setts/k3r24k4ly1k2w1db4dg6r3k1r2w1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r24k4ly1k2w1db4dg6r3k1r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
 
-Part of the [Stewart of Galloway](/tartans/stewart-of-galloway/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart of Galloway](/tartans/s/st/stewart-of-galloway/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

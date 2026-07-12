@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLeod Society of Scotland"
-  url: "/tartans/macleod-society-of-scotland/"
+  url: "/tartans/m/ma/macleod-society-of-scotland/"
 - name: "MacLeod Society of Scotland"
   url: "/setts/dg3g3r22k5db22dy2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg3g3r22k5db22dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKRGG](/stripes/gbkrgg/).
 
-Part of the [MacLeod Society of Scotland](/tartans/macleod-society-of-scotland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLeod Society of Scotland](/tartans/m/ma/macleod-society-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

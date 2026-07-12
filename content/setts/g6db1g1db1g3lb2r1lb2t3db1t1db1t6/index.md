@@ -6,6 +6,8 @@ This is the **McCulloch, Grant (Personal)** sett — one scale-free proportion (
 [BBBBBWRWGBGBG](/stripes/bbbbbwrwgbgbg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [McCulloch, Grant](/tartans/m/mc/mcculloch-grant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

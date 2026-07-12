@@ -6,6 +6,8 @@ This is the **MacPherson-Grant** sett — one scale-free proportion (`r90k6r6k6r
 [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacPherson-Grant](/tartans/m/ma/macpherson-grant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

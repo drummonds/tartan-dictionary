@@ -6,6 +6,8 @@ This is the **Recovery Hunting** sett — one scale-free proportion (`r1k1dg8k1d
 [RKGKBKBKBKBWBWBKBKBKBKGKY](/stripes/rkgkbkbkbkbwbwbkbkbkbkgky/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Recovery Hunting](/tartans/r/re/recovery-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

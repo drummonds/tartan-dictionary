@@ -10,7 +10,7 @@ crumbs:
 - name: "Campbell of Breadalbane"
   url: "/families/campbell-of-breadalbane/"
 - name: "Campbell of Breadalbane"
-  url: "/tartans/campbell-of-breadalbane/"
+  url: "/tartans/c/ca/campbell-of-breadalbane/"
 - name: "Campbell of Breadalbane (Military)"
   url: "/setts/db26k4db4k4db4k27y5g47y5k27db25k4db4/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db26k4db4k4db4k27y5g47y5k27db25k4db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/).
 
-Part of the [Campbell of Breadalbane](/tartans/campbell-of-breadalbane/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell of Breadalbane](/tartans/c/ca/campbell-of-breadalbane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

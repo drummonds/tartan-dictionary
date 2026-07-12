@@ -6,6 +6,8 @@ This is the **New York Fire Department Pipe Band** sett — one scale-free propo
 [KWGKBW](/stripes/kwgkbw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [New York Fire Department Pipe Band](/tartans/n/ne/new-york-fire-department-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Yarrow Purple Dress Tartan** sett — one scale-free proportion (`
 [KBKBKBKBWBWBK](/stripes/kbkbkbkbwbwbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Yarrow Purple Dress](/tartans/y/ya/yarrow-purple-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Suntan (Masai Shuka) (District?)** sett — one scale-free proport
 [KRBWBW](/stripes/krbwbw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Suntan](/tartans/s/su/suntan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

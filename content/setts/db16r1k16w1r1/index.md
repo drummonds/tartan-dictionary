@@ -6,6 +6,8 @@ This is the **Christie (2016)** sett — one scale-free proportion (`db16r1k16w1
 [BRKWR](/stripes/brkwr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Christie](/tartans/c/ch/christie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

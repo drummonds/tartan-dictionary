@@ -6,6 +6,8 @@ This is the **Army Benevolent Fund (Corporate)** sett — one scale-free proport
 [BGBRGRBGBGBR](/stripes/bgbrgrbgbgbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Army Benevolent Fund](/tartans/a/ar/army-benevolent-fund/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

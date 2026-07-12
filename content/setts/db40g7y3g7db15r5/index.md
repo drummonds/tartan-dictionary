@@ -6,6 +6,8 @@ This is the **Wheadon (Name)** sett — one scale-free proportion (`db40g7y3g7db
 [BGGGBR](/stripes/bgggbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Wheadon](/tartans/w/wh/wheadon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

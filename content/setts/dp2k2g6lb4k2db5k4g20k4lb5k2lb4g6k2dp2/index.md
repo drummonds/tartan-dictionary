@@ -6,6 +6,8 @@ This is the **Letham Hunting (Name)** sett — one scale-free proportion (`dp2k2
 [BKGWKBKGKWKWGKB](/stripes/bkgwkbkgkwkwgkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Letham Hunting](/tartans/l/le/letham-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

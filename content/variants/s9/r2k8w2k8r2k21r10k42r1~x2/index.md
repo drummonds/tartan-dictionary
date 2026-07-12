@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brand Ambassador"
-  url: "/tartans/brand-ambassador/"
+  url: "/tartans/b/br/brand-ambassador/"
 - name: "Brand Ambassador (Corporate)"
   url: "/setts/r2k8w2k8r2k21r10k42r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2k8w2k8r2k21r10k42r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKRKWKR](/stripes/rkrkrkwkr/).
 
-Part of the [Brand Ambassador](/tartans/brand-ambassador/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Brand Ambassador](/tartans/b/br/brand-ambassador/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

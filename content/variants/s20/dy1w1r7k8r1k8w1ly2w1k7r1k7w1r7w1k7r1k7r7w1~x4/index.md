@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Order of the Holy Sepulchre"
+  url: "/tartans/o/or/order-of-the-holy-sepulchre/"
+- name: "Order of the Holy Sepulchre"
   url: "/setts/dy1w1r7k8r1k8w1ly2w1k7r1k7w1r7w1k7r1k7r7w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1w1r7k8r1k8w1ly2w1k7r1k7w1r7w1k7r1k7r7w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRW](/stripes/gwrkrkwywkrkwrwkrkrwrkrkwrwkrkwywkrkrw/).
+
+Part of the [Order of the Holy Sepulchre](/tartans/o/or/order-of-the-holy-sepulchre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 

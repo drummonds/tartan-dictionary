@@ -6,6 +6,8 @@ This is the **Harley (Leslie), Robert** sett — one scale-free proportion (`g2k
 [GKGKGBGK](/stripes/gkgkgbgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Harley , Robert](/tartans/h/ha/harley-robert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

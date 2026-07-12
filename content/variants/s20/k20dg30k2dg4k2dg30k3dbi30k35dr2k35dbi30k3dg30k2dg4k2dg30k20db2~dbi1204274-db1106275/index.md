@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Phillips"
+  url: "/clan/phillips/"
+- name: "Phillips of Wales"
+  url: "/families/phillips-of-wales/"
+- name: "Phillips of Wales"
+  url: "/tartans/p/ph/phillips-of-wales/"
 - name: "Phillips of Wales"
   url: "/setts/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKGKBKBKBKGKGKGK](/stripes/bkgkgkgkbkbkbkgkgkgk/).
+
+Part of the [Phillips of Wales](/tartans/p/ph/phillips-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

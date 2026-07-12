@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Machair"
+  url: "/tartans/m/ma/machair-2/"
+- name: "Machair"
   url: "/setts/ly72db16w9db4w5db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly72db16w9db4w5db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBY](/stripes/bwbwby/).
+
+Part of the [Machair](/tartans/m/ma/machair-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

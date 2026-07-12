@@ -6,6 +6,8 @@ This is the **Canadian Confederation (Commemorat)** sett — one scale-free prop
 [BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR](/stripes/brkbkbkbkbkbkbkbkrkgbgbgbgbgbgbgbgkrwr/). It is recorded as a single **variant**, below.
 First attested **1965**.
 
+Part of the [Canadian Confederation](/tartans/c/ca/canadian-confederation-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

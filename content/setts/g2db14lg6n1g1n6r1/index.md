@@ -6,6 +6,8 @@ This is the **Loch Ness in Scotland** sett — one scale-free proportion (`g2db1
 [GBYBGBR](/stripes/gbybgbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Loch Ness in Scotland](/tartans/l/lo/loch-ness-in-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orkney Magnus"
+  url: "/tartans/o/or/orkney-magnus/"
+- name: "Orkney Magnus"
   url: "/setts/o14db1o19w1o18k3o1n7db2n1lb1o4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o14db1o19w1o18k3o1n7db2n1lb1o4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRWRKRBBBWR](/stripes/rbrwrkrbbbwr/).
+
+Part of the [Orkney Magnus](/tartans/o/or/orkney-magnus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

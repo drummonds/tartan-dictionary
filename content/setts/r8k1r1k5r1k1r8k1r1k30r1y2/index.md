@@ -6,6 +6,8 @@ This is the **Calgary, University of (Estimated Threadcount)** sett — one scal
 [GRKRKRKRKRKR](/stripes/grkrkrkrkrkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Calgary, University of](/tartans/c/ca/calgary-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

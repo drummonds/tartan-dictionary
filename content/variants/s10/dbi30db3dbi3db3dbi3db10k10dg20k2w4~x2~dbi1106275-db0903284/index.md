@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Kentigern College"
-  url: "/tartans/st-kentigern-college/"
+  url: "/tartans/s/st/st-kentigern-college/"
 - name: "St. Kentigern College (Corporate)"
   url: "/setts/dbi30db3dbi3db3dbi3db10k10dg20k2w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi30db3dbi3db3dbi3db10k10dg20k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBKGKW](/stripes/bbbbbbkgkw/).
 
-Part of the [St Kentigern College](/tartans/st-kentigern-college/) tartan — the named design grouping this sett with its other cloths.
+Part of the [St Kentigern College](/tartans/s/st/st-kentigern-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

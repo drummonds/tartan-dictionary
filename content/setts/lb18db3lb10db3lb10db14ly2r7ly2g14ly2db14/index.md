@@ -6,6 +6,8 @@ This is the **Ralston (UK)** sett — one scale-free proportion (`lb18db3lb10db3
 [BYGYRYBWBWBW](/stripes/bygyrybwbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Ralston](/tartans/r/ra/ralston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

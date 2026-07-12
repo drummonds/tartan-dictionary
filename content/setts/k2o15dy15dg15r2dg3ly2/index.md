@@ -6,6 +6,8 @@ This is the **Crossbill** sett — one scale-free proportion (`k2o15dy15dg15r2dg
 [KRGGRGY](/stripes/krggrgy/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Crossbill](/tartans/c/cr/crossbill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

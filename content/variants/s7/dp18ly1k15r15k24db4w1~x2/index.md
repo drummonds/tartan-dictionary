@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "European Congress of Immunology (Cor"
+  url: "/tartans/e/eu/european-congress-of-immunology-cor/"
+- name: "European Congress of Immunology (Cor"
   url: "/setts/dp18ly1k15r15k24db4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp18ly1k15r15k24db4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKRKBW](/stripes/bykrkbw/).
+
+Part of the [European Congress of Immunology (Cor](/tartans/e/eu/european-congress-of-immunology-cor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

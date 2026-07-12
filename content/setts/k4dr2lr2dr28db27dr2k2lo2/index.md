@@ -6,6 +6,8 @@ This is the **Toronto Fire Services (Corporate)** sett — one scale-free propor
 [KBYBBBKY](/stripes/kbybbbky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Toronto Fire Services](/tartans/t/to/toronto-fire-services/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

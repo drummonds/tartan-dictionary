@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Commonwealth Games Council"
+  url: "/tartans/c/co/commonwealth-games-council/"
 - name: "Commonwealth Games Council (Corp.)"
   url: "/setts/o3k17dt11o2oi20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3k17dt11o2oi20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKBRRW](/stripes/rkbrrw/).
+
+Part of the [Commonwealth Games Council](/tartans/c/co/commonwealth-games-council/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

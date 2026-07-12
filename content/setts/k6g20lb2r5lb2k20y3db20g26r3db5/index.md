@@ -6,7 +6,7 @@ This is the **Stephenson Clan Tartan** sett — one scale-free proportion (`k6g2
 [BRGBGKWRWGK](/stripes/brgbgkwrwgk/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
-Part of the [Stephenson](/tartans/stephenson/) tartan — the named design grouping this sett with its kin.
+Part of the [Stephenson](/tartans/s/st/stephenson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

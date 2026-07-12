@@ -6,6 +6,8 @@ This is the **Irving of Bonshaw** sett — one scale-free proportion (`g27db14k2
 [GBKBG](/stripes/gbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Irving of Bonshaw](/tartans/i/ir/irving-of-bonshaw/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

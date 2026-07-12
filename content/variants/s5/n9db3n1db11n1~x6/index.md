@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacCallum,"
+  url: "/clan/maccallum/"
+- name: "MacCallum High School"
+  url: "/tartans/m/ma/maccallum-high-school/"
 - name: "MacCallum, High School"
   url: "/setts/n9db3n1db11n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n9db3n1db11n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
+
+Part of the [MacCallum High School](/tartans/m/ma/maccallum-high-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

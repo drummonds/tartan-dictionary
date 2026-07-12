@@ -6,7 +6,7 @@ This is the **Bailey, Leslie A (Personal)** sett — one scale-free proportion (
 [BBWGBGGYB](/stripes/bbwgbggyb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Bailey, Leslie A](/tartans/bailey-leslie-a/) tartan — the named design grouping this sett with its kin.
+Part of the [Bailey, Leslie A](/tartans/b/ba/bailey-leslie-a/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -7,6 +7,8 @@ This is the **St. David's (District)** sett — one scale-free proportion (`dg60
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [St. David's](/tartans/s/st/st-david-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

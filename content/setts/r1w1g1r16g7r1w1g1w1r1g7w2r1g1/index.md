@@ -6,7 +6,7 @@ This is the **Mordente Family Tartan** sett — one scale-free proportion (`r1w1
 [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [Mordente](/tartans/mordente/) tartan — the named design grouping this sett with its kin.
+Part of the [Mordente](/tartans/m/mo/mordente/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

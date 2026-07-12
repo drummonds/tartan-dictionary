@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Connolly Hunting"
-  url: "/tartans/connolly-hunting/"
+  url: "/tartans/c/co/connolly-hunting/"
 - name: "Connolly Hunting"
   url: "/setts/k6r2k2r2k6db7g20y2g3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k6r2k2r2k6db7g20y2g3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKBGGGR](/stripes/krkrkbgggr/).
 
-Part of the [Connolly Hunting](/tartans/connolly-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Connolly Hunting](/tartans/c/co/connolly-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

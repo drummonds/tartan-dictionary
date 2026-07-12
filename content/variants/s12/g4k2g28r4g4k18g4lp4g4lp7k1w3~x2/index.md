@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Moss"
+  url: "/tartans/m/mo/moss/"
+- name: "Moss"
   url: "/setts/g4k2g28r4g4k18g4lp4g4lp7k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4k2g28r4g4k18g4lp4g4lp7k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGKGWGWKW](/stripes/gkgrgkgwgwkw/).
+
+Part of the [Moss](/tartans/m/mo/moss/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

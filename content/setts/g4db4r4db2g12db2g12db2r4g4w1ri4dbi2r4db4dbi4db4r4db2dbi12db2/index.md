@@ -6,6 +6,8 @@ This is the **Otago Peninsula Corporate Tartan** sett — one scale-free proport
 [BBBRBBBRBRWGRBGBGBRBG](/stripes/bbbrbbbrbrwgrbgbgbrbg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Otago Peninsula](/tartans/o/ot/otago-peninsula-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

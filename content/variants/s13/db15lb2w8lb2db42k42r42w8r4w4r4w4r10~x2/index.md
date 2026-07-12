@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "American St Andrews Societies"
+  url: "/tartans/a/am/american-st-andrews-societies/"
+- name: "American St Andrews Societies"
   url: "/setts/db15lb2w8lb2db42k42r42w8r4w4r4w4r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15lb2w8lb2db42k42r42w8r4w4r4w4r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWWBKRWRWRWR](/stripes/bwwwbkrwrwrwr/).
+
+Part of the [American St Andrews Societies](/tartans/a/am/american-st-andrews-societies/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

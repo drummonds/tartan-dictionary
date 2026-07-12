@@ -1,0 +1,40 @@
+---
+title: "Douglas"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Douglas"
+  url: "/clan/douglas/"
+---
+A tartan of [Clan Douglas](/clan/douglas/).
+Its design is pattern [KWRBW](/stripes/kwrbw/) — the page of every tartan sharing this colour sequence.
+
+The **Douglas** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k7lb3o30b30w3/">Douglas</a></td><td><code>K/14 LB6 O60 B60 W/6</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7lb3o30b30w3/"><img src="/variants/s5/k7lb3o30b30w3~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Douglas, brown
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s5/k7lb3o30b30w3~x2/">Douglas</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k7lb3o30b30w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7lb3dy30db30w3~x2&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/k7lb3dy30db30w3~x2/">Douglas, (Brown)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lb3dy30db30w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db30r3w10g14r3o30~x2&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">1.66</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s6/db30r3w10g14r3o30~x2/">Cercle de Fermières Varennes</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db30r3w10g14r3o30~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1db1g8dt8w1~x4~db1406275-dt1204274&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">1.69</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/">Douglas, Green (Wilsons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1w7lo7db16y1~x4&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s5/k1w7lo7db16y1~x4/">Prehospital EMS (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1w7lo7db16dy1~x4&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s5/k1w7lo7db16dy1~x4/">Prehospital EMS Tartan (USA)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1w7lo7db16dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n10w3lb3g1r1~x10&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s5/n10w3lb3g1r1~x10/">Bagpipe Shop (Switzerland)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n10w3lb3g1r1~x10/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6w49dt50dp6db8ly4~dt1204274-db1406275&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">236</div><div class="nn-name nn-far"><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/">Pipers' Trail Dance, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2y1g10db10w1~x6&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.37</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s5/r2y1g10db10w1~x6/">Turnbull Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r7y3g28db28w3~x2&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr4t28k6lr12k12lo3~x2~t2503227-lr3200000&amp;base=k7lb3o30b30w3~x2" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">246</div><div class="nn-name nn-far"><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/">MacTavish Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.6" cy="202.9" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="147.6" cy="205.4" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.0" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.0" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.8" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="298.0" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.1" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.1" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.1" cy="213.5" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><circle cx="213.7" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

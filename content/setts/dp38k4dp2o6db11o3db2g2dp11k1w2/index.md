@@ -6,6 +6,8 @@ This is the **Highland Thistle** sett — one scale-free proportion (`dp38k4dp2o
 [BKBRBRBGBKW](/stripes/bkbrbrbgbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Highland Thistle](/tartans/h/hi/highland-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Deuchars IPA (Corporate)** sett — one scale-free proportion (`db
 [BBBBBBBWBGBG](/stripes/bbbbbbbwbgbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Deuchars IPA](/tartans/d/de/deuchars-ipa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

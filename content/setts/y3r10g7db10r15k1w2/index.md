@@ -6,7 +6,7 @@ This is the **East Kilbride** sett — one scale-free proportion (`y3r10g7db10r1
 [GRGBRKW](/stripes/grgbrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [East Kilbride](/tartans/east-kilbride-3/) tartan — the named design grouping this sett with its kin.
+Part of the [East Kilbride](/tartans/e/ea/east-kilbride-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

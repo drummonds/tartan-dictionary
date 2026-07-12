@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sekai Fushigi Hakken"
+  url: "/tartans/s/se/sekai-fushigi-hakken/"
+- name: "Sekai Fushigi Hakken"
   url: "/setts/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRWRWGWRGBWGWRW](/stripes/bgrwrwgwrgbwgwrw/).
+
+Part of the [Sekai Fushigi Hakken](/tartans/s/se/sekai-fushigi-hakken/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

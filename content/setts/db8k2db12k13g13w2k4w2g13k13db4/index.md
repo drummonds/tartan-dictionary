@@ -6,6 +6,8 @@ This is the **Melville Family Tartan** sett — one scale-free proportion (`db8k
 [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Melville](/tartans/m/me/melville-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

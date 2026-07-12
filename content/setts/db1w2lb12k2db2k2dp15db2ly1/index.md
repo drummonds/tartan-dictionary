@@ -6,7 +6,7 @@ This is the **Hek (Name)** sett — one scale-free proportion (`db1w2lb12k2db2k2
 [BWWKBKBBY](/stripes/bwwkbkbby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Hek](/tartans/hek/) tartan — the named design grouping this sett with its kin.
+Part of the [Hek](/tartans/h/he/hek/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

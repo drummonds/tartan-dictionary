@@ -6,6 +6,8 @@ This is the **Campbell of Cawdor Clan Tartan** sett — one scale-free proportio
 [GKGKBKR](/stripes/gkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1798**.
 
+Part of the [Campbell of Cawdor](/tartans/c/ca/campbell-of-cawdor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

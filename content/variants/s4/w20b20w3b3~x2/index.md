@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified, Plaid Barbie's Moss"
+  url: "/tartans/u/un/unidentified-plaid-barbie-s-moss/"
+- name: "Unidentified, Plaid Barbie's Moss"
   url: "/setts/w20b20w3b3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w20b20w3b3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
+
+Part of the [Unidentified, Plaid Barbie's Moss](/tartans/u/un/unidentified-plaid-barbie-s-moss/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

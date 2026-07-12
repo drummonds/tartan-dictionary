@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Prince George"
-  url: "/tartans/prince-george/"
+  url: "/tartans/p/pr/prince-george/"
 - name: "Prince George (Royal)"
   url: "/setts/g6w4g3w4g2w7g2w2g5r15w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6w4g3w4g2w7g2w2g5r15w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/).
 
-Part of the [Prince George](/tartans/prince-george/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Prince George](/tartans/p/pr/prince-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

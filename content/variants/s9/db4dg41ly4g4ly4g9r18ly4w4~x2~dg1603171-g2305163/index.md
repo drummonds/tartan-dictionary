@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gallagher"
+  url: "/tartans/g/ga/gallagher/"
 - name: "Gallagher Ancient"
   url: "/setts/db4dg41ly4g4ly4g9r18ly4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4dg41ly4g4ly4g9r18ly4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGYGRYW](/stripes/bgygygryw/).
+
+Part of the [Gallagher](/tartans/g/ga/gallagher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

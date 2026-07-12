@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Southwell"
+  url: "/tartans/s/so/southwell/"
 - name: "Southwell (Personal)"
   url: "/setts/dg39r2w1r2db14w14dg2g10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg39r2w1r2db14w14dg2g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWBRWRGRWRBWG](/stripes/ggwbrwrgrwrbwg/).
+
+Part of the [Southwell](/tartans/s/so/southwell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

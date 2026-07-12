@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cairngorm"
+  url: "/tartans/c/ca/cairngorm-3/"
+- name: "Cairngorm"
   url: "/setts/b2w2y7dg14b2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b2w2y7dg14b2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGGBW](/stripes/bwggbw/).
+
+Part of the [Cairngorm](/tartans/c/ca/cairngorm-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

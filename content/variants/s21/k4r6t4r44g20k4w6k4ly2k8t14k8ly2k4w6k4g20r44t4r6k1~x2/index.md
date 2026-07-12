@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean"
+  url: "/tartans/m/ma/maclean/"
 - name: "MacLean"
   url: "/setts/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/).
+
+Part of the [MacLean](/tartans/m/ma/maclean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [21 stripe tartan](/stripes/stripes21/).
 

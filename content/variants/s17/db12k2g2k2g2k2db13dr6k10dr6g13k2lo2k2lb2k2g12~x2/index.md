@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cunningham Hunting"
+  url: "/tartans/c/cu/cunningham-hunting/"
+- name: "Cunningham Hunting"
   url: "/setts/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBBKBGKYKWKG](/stripes/bkgkgkbbkbgkykwkg/).
+
+Part of the [Cunningham Hunting](/tartans/c/cu/cunningham-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

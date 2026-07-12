@@ -6,6 +6,8 @@ This is the **Connor (Personal)** sett — one scale-free proportion (`db1dy4g8y
 [BGGGGBWBR](/stripes/bggggbwbr/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
+Part of the [Connor](/tartans/c/co/connor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

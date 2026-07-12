@@ -6,6 +6,8 @@ This is the **MacIver Family (Personal)** sett — one scale-free proportion (`d
 [BGBGBGGGGGBG](/stripes/bgbgbgggggbg/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
+Part of the [MacIver](/tartans/m/ma/maciver-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

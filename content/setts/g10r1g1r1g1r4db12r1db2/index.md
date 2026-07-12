@@ -6,6 +6,8 @@ This is the **Unidentified Portrait** sett — one scale-free proportion (`g10r1
 [BRBRGRGRG](/stripes/brbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-49/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

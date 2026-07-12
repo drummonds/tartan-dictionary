@@ -6,6 +6,8 @@ This is the **Culloden Red Dress (Dance)** sett — one scale-free proportion (`
 [BWBWRBGBRWBWBW](/stripes/bwbwrbgbrwbwbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Culloden Red Dress](/tartans/c/cu/culloden-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

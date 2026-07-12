@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stone"
+  url: "/clan/stone/"
+- name: "Stone of Destiny"
+  url: "/families/stone-of-destiny/"
+- name: "Stone of Destiny"
+  url: "/tartans/s/st/stone-of-destiny/"
 - name: "Stone of Destiny"
   url: "/setts/db4y2db17k2r4k2db3k11db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y2db17k2r4k2db3k11db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKRKBKB](/stripes/bgbkrkbkb/).
+
+Part of the [Stone of Destiny](/tartans/s/st/stone-of-destiny/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

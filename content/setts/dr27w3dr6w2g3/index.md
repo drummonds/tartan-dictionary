@@ -6,6 +6,8 @@ This is the **Martin Family, Robert N (Personal)** sett — one scale-free propo
 [BWBWG](/stripes/bwbwg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Martin Family, Robert N](/tartans/m/ma/martin-family-robert-n/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

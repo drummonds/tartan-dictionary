@@ -6,6 +6,8 @@ This is the **Hitchens, William Henry** sett — one scale-free proportion (`r4k
 [RKRKRKBKBGBGKW](/stripes/rkrkrkbkbgbgkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Hitchens, William Henry](/tartans/h/hi/hitchens-william-henry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

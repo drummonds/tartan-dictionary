@@ -6,6 +6,8 @@ This is the **Cowal Gathering** sett — one scale-free proportion (`dg2b8dbi1b1
 [GBBBBBBBW](/stripes/gbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cowal Gathering](/tartans/c/co/cowal-gathering/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

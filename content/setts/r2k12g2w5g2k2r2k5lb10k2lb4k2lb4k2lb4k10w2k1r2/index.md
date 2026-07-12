@@ -6,7 +6,7 @@ This is the **Southwick** sett — one scale-free proportion (`r2k12g2w5g2k2r2k5
 [KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR](/stripes/kwkwkwkwkwkrkgwgkrkgwgkrkwkwkwkwkwkr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Southwick](/tartans/southwick/) tartan — the named design grouping this sett with its kin.
+Part of the [Southwick](/tartans/s/so/southwick/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

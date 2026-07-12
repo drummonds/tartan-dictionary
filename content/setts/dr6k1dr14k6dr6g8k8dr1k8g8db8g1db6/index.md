@@ -6,6 +6,8 @@ This is the **Forbes (Pendleton-1)** sett — one scale-free proportion (`dr6k1d
 [BGBGKBKGBKBKB](/stripes/bgbgkbkgbkbkb/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Forbes](/tartans/f/fo/forbes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

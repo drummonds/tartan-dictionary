@@ -6,6 +6,8 @@ This is the **McCarthy** sett — one scale-free proportion (`db5g1db3dp2g10db3g
 [BBGBBBGBGBBGB](/stripes/bbgbbbgbgbbgb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [McCarthy](/tartans/m/mc/mccarthy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

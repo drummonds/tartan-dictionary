@@ -6,7 +6,7 @@ This is the **MacEdward (MacGregor Hastie)** sett — one scale-free proportion 
 [BBKBKBGBYB](/stripes/bbkbkbgbyb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacEdward](/tartans/macedward/) tartan — the named design grouping this sett with its kin.
+Part of the [MacEdward](/tartans/m/ma/macedward/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -1,0 +1,41 @@
+---
+title: "Scott"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+---
+A tartan of [Clan Scott](/clan/scott/).
+Its design is pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/) — the page of every tartan sharing this colour sequence.
+
+The **Scott** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g8w1g1r1g4k4db8k1db1k1/">Scott</a></td><td><code>G/16 W2 G2 R2 G8 K8 DB16 K2 DB2 K/2</code></td><td>102</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8w1g1r1g4k4db8k1db1k1/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Allon/Allan
+- Scott #2
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">102</div><div class="nn-name nn-base"><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/">Scott</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8w1g1dr1g4k4db8k1db1k1~x4&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">0.02</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/">Allen (1996)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db24k4r3k4g24k4b3k4g24r3k4~x2&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.45</a></div><div class="nn-threads">404</div><div class="nn-name"><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/">Skene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db24k4r3k4g24k4y3k4g24r3k4&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.59</a></div><div class="nn-threads">202</div><div class="nn-name"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db24k4r3k4g24k4lo3k4g24r3k4~x2&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.59</a></div><div class="nn-threads">404</div><div class="nn-name"><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/">Skene (Maclan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">404</div><div class="nn-name"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">202</div><div class="nn-name"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/">Skene N</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4g8k8db4y3g21k3lb4k3lb4~x2&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/">Wellecomme, Bernard (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3g2dr3g18k14w2db16g3~x2&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.87</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/">Mantle (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g12k1g2dr1g2k10db10lo1~x4&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/">Guelph, City Of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t5dr3t30k6w4k6dg24dr4dg6dr3&amp;base=g8w1g1r1g4k4db8k1db1k1~x2" title="compare in the TTD">1.92</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/">Law Society of Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="154.8" cy="167.0" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.1" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.5" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="128.8" cy="175.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="164.8" cy="159.2" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="157.9" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><circle cx="152.0" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

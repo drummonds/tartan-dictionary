@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lands of Liberty"
-  url: "/tartans/lands-of-liberty/"
+  url: "/tartans/l/la/lands-of-liberty/"
 - name: "Lands of Liberty (Fashion)"
   url: "/setts/r15w10db48lb32r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r15w10db48lb32r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWR](/stripes/rwbwr/).
 
-Part of the [Lands of Liberty](/tartans/lands-of-liberty/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lands of Liberty](/tartans/l/la/lands-of-liberty/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

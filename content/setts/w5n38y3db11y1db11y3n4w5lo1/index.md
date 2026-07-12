@@ -6,7 +6,7 @@ This is the **Ballarat** sett — one scale-free proportion (`w5n38y3db11y1db11y
 [WBGBGBGBWY](/stripes/wbgbgbgbwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Ballarat](/tartans/ballarat/) tartan — the named design grouping this sett with its kin.
+Part of the [Ballarat](/tartans/b/ba/ballarat/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

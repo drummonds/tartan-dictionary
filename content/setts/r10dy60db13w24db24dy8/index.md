@@ -6,6 +6,8 @@ This is the **Bronte House Check** sett — one scale-free proportion (`r10dy60d
 [GBWBGR](/stripes/gbwbgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bronte House Check](/tartans/b/br/bronte-house-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

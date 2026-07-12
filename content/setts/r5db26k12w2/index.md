@@ -6,6 +6,8 @@ This is the **Mirror (Corporate)** sett — one scale-free proportion (`r5db26k1
 [RBKW](/stripes/rbkw/). It is recorded as a single **variant**, below.
 First attested **~1999**.
 
+Part of the [Mirror](/tartans/m/mi/mirror/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

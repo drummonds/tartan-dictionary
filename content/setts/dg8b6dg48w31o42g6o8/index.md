@@ -6,6 +6,8 @@ This is the **Bannockbane, Green** sett — one scale-free proportion (`dg8b6dg4
 [GBGWRGR](/stripes/gbgwrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane](/tartans/b/ba/bannockbane-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

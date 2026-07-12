@@ -6,6 +6,8 @@ This is the **Donohoe Grey, Peter (Commemorative)** sett — one scale-free prop
 [BKBBGKBWRWB](/stripes/bkbbgkbwrwb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Donohoe Grey, Peter](/tartans/d/do/donohoe-grey-peter-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

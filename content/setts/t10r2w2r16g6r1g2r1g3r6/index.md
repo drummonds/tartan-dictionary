@@ -7,6 +7,8 @@ This is the **Harkness Dress** sett — one scale-free proportion (`t10r2w2r16g6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1981**.
 
+Part of the [Harkness Dress](/tartans/h/ha/harkness-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

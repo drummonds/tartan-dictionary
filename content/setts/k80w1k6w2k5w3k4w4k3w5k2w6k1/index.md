@@ -6,6 +6,8 @@ This is the **Heolnezva ha Materi (Fashion)** sett — one scale-free proportion
 [KWKWKWKWKWKWK](/stripes/kwkwkwkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Heolnezva ha Materi](/tartans/h/he/heolnezva-ha-materi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

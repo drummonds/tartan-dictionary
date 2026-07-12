@@ -6,6 +6,8 @@ This is the **King (Austria) (Personal)** sett — one scale-free proportion (`w
 [GRGKGGBRW](/stripes/grgkggbrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [King](/tartans/k/ki/king/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

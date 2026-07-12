@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oban"
-  url: "/tartans/oban/"
+  url: "/tartans/o/ob/oban/"
 - name: "Oban Grey District Tartan"
   url: "/setts/k4w3k4n9r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4w3k4n9r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBR](/stripes/kwkbr/).
 
-Part of the [Oban](/tartans/oban/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Oban](/tartans/o/ob/oban/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

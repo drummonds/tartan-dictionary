@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Banause-Zunft zu Olte"
+  url: "/tartans/b/ba/banause-zunft-zu-olte/"
+- name: "Banause-Zunft zu Olte"
   url: "/setts/y2dg4db1dr3db3dg3g1dr32db14w3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2dg4db1dr3db3dg3g1dr32db14w3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBBGGBBWG](/stripes/ggbbbggbbwg/).
+
+Part of the [Banause-Zunft zu Olte](/tartans/b/ba/banause-zunft-zu-olte/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

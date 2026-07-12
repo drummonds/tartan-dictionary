@@ -6,6 +6,8 @@ This is the **Cornwall** sett — one scale-free proportion (`t4dr12t4k14t36dr3t
 [BBBKBBBKBBBBKBY](/stripes/bbbkbbbkbbbbkby/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Cornwall](/tartans/c/co/cornwall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

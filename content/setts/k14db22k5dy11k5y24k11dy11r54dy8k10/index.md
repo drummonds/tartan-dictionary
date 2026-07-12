@@ -6,6 +6,8 @@ This is the **Derry County, Crest Range** sett — one scale-free proportion (`k
 [KBKGKGKGRGK](/stripes/kbkgkgkgrgk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Derry County, Crest Range](/tartans/d/de/derry-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

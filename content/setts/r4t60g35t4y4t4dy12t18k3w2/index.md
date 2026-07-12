@@ -6,7 +6,7 @@ This is the **Fogarty (Name)** sett — one scale-free proportion (`r4t60g35t4y4
 [RBGBGBGBKW](/stripes/rbgbgbgbkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Fogarty](/tartans/fogarty/) tartan — the named design grouping this sett with its kin.
+Part of the [Fogarty](/tartans/f/fo/fogarty/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

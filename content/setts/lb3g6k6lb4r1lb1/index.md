@@ -6,6 +6,8 @@ This is the **Wellington or Waterloo Commemorative Tartan** sett — one scale-f
 [WGKWRW](/stripes/wgkwrw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Wellington or Waterloo Commemorative](/tartans/w/we/wellington-or-waterloo-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

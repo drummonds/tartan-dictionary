@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Flowers"
+  url: "/clan/flowers/"
+- name: "Flowers of the Forest, The"
+  url: "/families/flowers-of-the-forest-the/"
+- name: "Flowers of the Forest, The"
+  url: "/tartans/f/fl/flowers-of-the-forest-the/"
 - name: "Flowers of the Forest, The"
   url: "/setts/r2ri6db5lg3g13ri20do2ri2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ri6db5lg3g13ri20do2ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGYBRR](/stripes/rbrgybrr/).
+
+Part of the [Flowers of the Forest, The](/tartans/f/fl/flowers-of-the-forest-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

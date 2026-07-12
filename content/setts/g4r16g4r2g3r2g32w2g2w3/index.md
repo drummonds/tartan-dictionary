@@ -6,6 +6,8 @@ This is the **Rothesay Hunting Family Tartan** sett — one scale-free proportio
 [GRGRGRGWGW](/stripes/grgrgrgwgw/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Rothesay Hunting](/tartans/r/ro/rothesay-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

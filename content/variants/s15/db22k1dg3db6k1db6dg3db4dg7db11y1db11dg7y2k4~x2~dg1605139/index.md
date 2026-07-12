@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Benyon"
+  url: "/clan/benyon/"
+- name: "Benyon"
+  url: "/tartans/b/be/benyon/"
 - name: "Benyon of Wales (Name)"
   url: "/setts/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBKBGBGBGBGGK](/stripes/bkgbkbgbgbgbggk/).
+
+Part of the [Benyon](/tartans/b/be/benyon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

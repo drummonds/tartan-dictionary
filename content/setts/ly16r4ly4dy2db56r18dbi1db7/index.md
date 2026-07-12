@@ -6,6 +6,8 @@ This is the **Union Memorial Tartan (Military)** sett — one scale-free proport
 [BBRBGYRY](/stripes/bbrbgyry/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Union Memorial](/tartans/u/un/union-memorial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

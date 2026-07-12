@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
+- name: "MacDougall 10"
+  url: "/tartans/m/ma/macdougall-10/"
 - name: "MacDougall #11"
   url: "/setts/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWRGBWRWBBRBWR](/stripes/rbwrgbwrwbbrbwr/).
+
+Part of the [MacDougall 10](/tartans/m/ma/macdougall-10/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

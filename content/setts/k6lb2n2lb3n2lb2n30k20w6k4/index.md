@@ -7,6 +7,8 @@ This is the **Nunavut** sett — one scale-free proportion (`k6lb2n2lb3n2lb2n30k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2008**.
 
+Part of the [Nunavut](/tartans/n/nu/nunavut/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

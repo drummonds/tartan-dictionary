@@ -6,7 +6,7 @@ This is the **Buschke (Skye) (Personal)** sett — one scale-free proportion (`d
 [GBGKRBW](/stripes/gbgkrbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Buschke](/tartans/buschke/) tartan — the named design grouping this sett with its kin.
+Part of the [Buschke](/tartans/b/bu/buschke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

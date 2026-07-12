@@ -6,6 +6,8 @@ This is the **Buchan (Clan)** sett — one scale-free proportion (`r6g6r2k24r2k2
 [BKRGRKRGRKBRKRBKRKRGR](/stripes/bkrgrkrgrkbrkrbkrkrgr/). It is recorded as a single **variant**, below.
 First attested **~1790**.
 
+Part of the [Buchan](/tartans/b/bu/buchan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Loch Neil"
+  url: "/families/campbell-of-loch-neil/"
+- name: "Campbell of Loch Neil Dress"
+  url: "/tartans/c/ca/campbell-of-loch-neil-dress-2/"
 - name: "Campbell of Loch Neil Dress Clan Tartan"
   url: "/setts/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2y4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2y4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKWKGKWBWBWBWBWKGKGK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkgk/).
+
+Part of the [Campbell of Loch Neil Dress](/tartans/c/ca/campbell-of-loch-neil-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 

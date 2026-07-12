@@ -6,7 +6,7 @@ This is the **Robertson Dress Clan Tartan** sett — one scale-free proportion (
 [BRGRBWRGW](/stripes/brgrbwrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Robertson Dress](/tartans/robertson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson Dress](/tartans/r/ro/robertson-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

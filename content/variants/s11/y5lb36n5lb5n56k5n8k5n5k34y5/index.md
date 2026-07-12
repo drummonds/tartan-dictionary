@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chartered Institute of Bankers (Corp"
+  url: "/tartans/c/ch/chartered-institute-of-bankers-corp/"
 - name: "Chartered Institute of Bankers in Scotland"
   url: "/setts/y5lb36n5lb5n56k5n8k5n5k34y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5lb36n5lb5n56k5n8k5n5k34y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBWBWG](/stripes/gkbkbkbwbwg/).
+
+Part of the [Chartered Institute of Bankers (Corp](/tartans/c/ch/chartered-institute-of-bankers-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

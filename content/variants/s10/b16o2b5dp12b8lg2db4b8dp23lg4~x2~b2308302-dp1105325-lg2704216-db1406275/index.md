@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Learmonth"
+  url: "/tartans/l/le/learmonth/"
 - name: "Learmonth Family (Herts) (Personal)"
   url: "/setts/b16o2b5dp12b8lg2db4b8dp23lg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b16o2b5dp12b8lg2db4b8dp23lg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBYBBBY](/stripes/brbbbybbby/).
+
+Part of the [Learmonth](/tartans/l/le/learmonth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

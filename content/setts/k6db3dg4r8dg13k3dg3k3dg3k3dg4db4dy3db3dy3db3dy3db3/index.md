@@ -6,6 +6,8 @@ This is the **Glasgow Celtic Society** sett — one scale-free proportion (`k6db
 [BGBGBGBGKGKGKGRGBK](/stripes/bgbgbgbgkgkgkgrgbk/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
+Part of the [Forbes of Druminnor](/tartans/f/fo/forbes-of-druminnor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

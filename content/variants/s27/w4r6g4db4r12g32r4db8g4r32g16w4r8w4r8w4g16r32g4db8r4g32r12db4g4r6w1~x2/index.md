@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+- name: "MacKinnon"
+  url: "/tartans/m/ma/mackinnon-2/"
 - name: "MacKinnon"
   url: "/setts/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGBRGRBGRGWRWRWGRGBRGRBGRW](/stripes/wrgbrgrbgrgwrwrwgrgbrgrbgrw/).
+
+Part of the [MacKinnon](/tartans/m/ma/mackinnon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 

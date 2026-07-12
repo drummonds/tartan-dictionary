@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Brigid's Parish Triple Celebratio"
+  url: "/tartans/s/st/st-brigid-s-parish-triple-celebratio/"
+- name: "St Brigid's Parish Triple Celebratio"
   url: "/setts/db2dy12k1t5w3t5k1g30ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dy12k1t5w3t5k1g30ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBWBKGY](/stripes/bgkbwbkgy/).
+
+Part of the [St Brigid's Parish Triple Celebratio](/tartans/s/st/st-brigid-s-parish-triple-celebratio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

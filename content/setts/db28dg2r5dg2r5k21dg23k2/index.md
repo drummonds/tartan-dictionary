@@ -6,6 +6,8 @@ This is the **Bentley** sett — one scale-free proportion (`db28dg2r5dg2r5k21dg
 [BGRGRKGK](/stripes/bgrgrkgk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Bentley](/tartans/b/be/bentley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

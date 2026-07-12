@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hakkarain"
+  url: "/tartans/h/ha/hakkarain/"
 - name: "Hakkarain (Personal)"
   url: "/setts/ki37w18k37r2k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ki37w18k37r2k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKW](/stripes/kwkrkrkrkw/).
+
+Part of the [Hakkarain](/tartans/h/ha/hakkarain/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

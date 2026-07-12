@@ -6,6 +6,8 @@ This is the **Armagh Irish County Tartan** sett — one scale-free proportion (`
 [GGGGRGGGG](/stripes/ggggrgggg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Armagh](/tartans/a/ar/armagh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

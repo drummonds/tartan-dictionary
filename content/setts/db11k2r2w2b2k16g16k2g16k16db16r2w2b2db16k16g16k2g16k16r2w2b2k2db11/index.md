@@ -6,7 +6,7 @@ This is the **Scottish American Military** sett — one scale-free proportion (`
 [BKBWRKGKGKBBWRBKGKGKBWRKB](/stripes/bkbwrkgkgkbbwrbkgkgkbwrkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Scottish American Military](/tartans/scottish-american-military/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish American Military](/tartans/s/sc/scottish-american-military/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

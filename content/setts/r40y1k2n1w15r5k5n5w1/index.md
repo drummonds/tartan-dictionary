@@ -6,6 +6,8 @@ This is the **Drummond of Perth Dress Clan Tartan** sett — one scale-free prop
 [RGKBWRKBW](/stripes/rgkbwrkbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Drummond of Perth Dress](/tartans/d/dr/drummond-of-perth-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

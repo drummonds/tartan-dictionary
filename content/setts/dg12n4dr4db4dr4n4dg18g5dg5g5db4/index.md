@@ -6,6 +6,8 @@ This is the **Ralston Personal Tartan** sett — one scale-free proportion (`dg1
 [BGGGGBBBBBG](/stripes/bggggbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Ralston](/tartans/r/ra/ralston-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

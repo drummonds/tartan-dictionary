@@ -6,7 +6,7 @@ This is the **Canadian Fancy (Fashion)** sett — one scale-free proportion (`g4
 [GGGWGW](/stripes/gggwgw/). It is recorded as a single **variant**, below.
 First attested **~1970**.
 
-Part of the [Canadian Fancy](/tartans/canadian-fancy/) tartan — the named design grouping this sett with its kin.
+Part of the [Canadian Fancy](/tartans/c/ca/canadian-fancy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

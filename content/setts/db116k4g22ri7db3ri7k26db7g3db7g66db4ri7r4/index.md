@@ -6,7 +6,7 @@ This is the **Cooper Family Tartan** sett — one scale-free proportion (`db116k
 [BKGRBRKBGBGBRR](/stripes/bkgrbrkbgbgbrr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Cooper](/tartans/cooper-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Cooper](/tartans/c/co/cooper-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

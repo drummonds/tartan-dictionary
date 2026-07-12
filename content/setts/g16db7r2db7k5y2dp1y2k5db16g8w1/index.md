@@ -6,6 +6,8 @@ This is the **Waipu (District)** sett — one scale-free proportion (`g16db7r2db
 [GBRBKGBGKBGW](/stripes/gbrbkgbgkbgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Waipu](/tartans/w/wa/waipu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

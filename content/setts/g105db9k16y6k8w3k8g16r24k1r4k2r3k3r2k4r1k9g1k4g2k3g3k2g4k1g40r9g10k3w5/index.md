@@ -6,6 +6,8 @@ This is the **Un-named C19th Plaid** sett — one scale-free proportion (`g105db
 [GBKGKWKGRKRKRKRKRKGKGKGKGKGRGKW](/stripes/gbkgkwkgrkrkrkrkrkgkgkgkgkgrgkw/). It is recorded as a single **variant**, below.
 First attested **1853**.
 
+Part of the [Un-named C19th](/tartans/u/un/un-named-c19th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

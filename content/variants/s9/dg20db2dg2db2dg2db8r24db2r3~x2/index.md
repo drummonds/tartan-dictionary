@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lindsay MINI Design"
+  url: "/tartans/l/li/lindsay-mini-design/"
 - name: "Lindsay Clan Tartan"
   url: "/setts/dg20db2dg2db2dg2db8r24db2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg20db2dg2db2dg2db8r24db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBRBR](/stripes/gbgbgbrbr/).
+
+Part of the [Lindsay MINI Design](/tartans/l/li/lindsay-mini-design/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

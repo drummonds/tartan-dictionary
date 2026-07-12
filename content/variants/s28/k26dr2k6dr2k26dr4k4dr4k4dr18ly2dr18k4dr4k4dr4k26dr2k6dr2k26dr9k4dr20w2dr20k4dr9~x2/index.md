@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Killin"
+  url: "/tartans/k/ki/killin/"
+- name: "Killin"
   url: "/setts/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBKBKBKBKBKBKBYBKBKBKBKBK](/stripes/bkbwbkbkbkbkbkbkbybkbkbkbkbk/).
+
+Part of the [Killin](/tartans/k/ki/killin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

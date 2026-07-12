@@ -6,6 +6,8 @@ This is the **Balmer (Personal)** sett — one scale-free proportion (`y2r5y2r5d
 [GRGRBW](/stripes/grgrbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Balmer](/tartans/b/ba/balmer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

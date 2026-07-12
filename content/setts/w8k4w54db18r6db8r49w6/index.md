@@ -6,6 +6,8 @@ This is the **Merida Dance** sett — one scale-free proportion (`w8k4w54db18r6d
 [WKWBRBRW](/stripes/wkwbrbrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Merida Dance](/tartans/m/me/merida-dance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

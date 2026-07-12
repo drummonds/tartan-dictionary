@@ -6,7 +6,7 @@ This is the **Dundee Wallace Family Tartan** sett — one scale-free proportion 
 [RRRKRWWBWBWWKGWKWGGWR](/stripes/rrrkrwwbwbwwkgwkwggwr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Dundee Wallace](/tartans/dundee-wallace/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee Wallace](/tartans/d/du/dundee-wallace/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Alberta Dress** sett — one scale-free proportion (`w4g3w19g8k1dr
 [WGWGKBKBKY](/stripes/wgwgkbkbky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Alberta Dress](/tartans/a/al/alberta-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

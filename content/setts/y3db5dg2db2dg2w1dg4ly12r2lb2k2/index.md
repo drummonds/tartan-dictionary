@@ -6,6 +6,8 @@ This is the **Oregon American District Tartan** sett — one scale-free proporti
 [GBGBGWGYRWK](/stripes/gbgbgwgyrwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Oregon](/tartans/o/or/oregon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

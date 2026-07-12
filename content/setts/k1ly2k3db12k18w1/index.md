@@ -6,6 +6,8 @@ This is the **Jon's Theme (Fashion)** sett — one scale-free proportion (`k1ly2
 [KYKBKW](/stripes/kykbkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Jon's Theme](/tartans/j/jo/jon-s-theme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

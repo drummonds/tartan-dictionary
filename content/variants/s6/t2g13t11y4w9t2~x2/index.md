@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Leven"
+  url: "/tartans/l/lo/loch-leven/"
+- name: "Loch Leven"
   url: "/setts/t2g13t11y4w9t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t2g13t11y4w9t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWB](/stripes/bgbgwb/).
+
+Part of the [Loch Leven](/tartans/l/lo/loch-leven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

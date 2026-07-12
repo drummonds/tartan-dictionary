@@ -6,6 +6,8 @@ This is the **Redland** sett — one scale-free proportion (`g52lb7g9k35db35k7`)
 [GWGKBK](/stripes/gwgkbk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Redland](/tartans/r/re/redland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

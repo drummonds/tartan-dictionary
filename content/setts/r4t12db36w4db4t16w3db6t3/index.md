@@ -6,6 +6,8 @@ This is the **Callaway (Name)** sett — one scale-free proportion (`r4t12db36w4
 [BBWBBWBBR](/stripes/bbwbbwbbr/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Callaway](/tartans/c/ca/callaway-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

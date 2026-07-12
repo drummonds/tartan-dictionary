@@ -6,6 +6,8 @@ This is the **Rosser of Wales** sett — one scale-free proportion (`dg16k57r36k
 [GKRKRG](/stripes/gkrkrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Rosser](/tartans/r/ro/rosser/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

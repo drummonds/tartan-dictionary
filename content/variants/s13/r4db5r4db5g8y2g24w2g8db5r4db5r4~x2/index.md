@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clackson Hunting"
+  url: "/tartans/c/cl/clackson-hunting/"
 - name: "Clackson Hunting (Personal)"
   url: "/setts/r4db5r4db5g8y2g24w2g8db5r4db5r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4db5r4db5g8y2g24w2g8db5r4db5r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBGGGWGBRBR](/stripes/rbrbgggwgbrbr/).
+
+Part of the [Clackson Hunting](/tartans/c/cl/clackson-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

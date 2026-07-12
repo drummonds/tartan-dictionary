@@ -6,6 +6,8 @@ This is the **Grampian T.V. Corporate Tartan** sett — one scale-free proportio
 [KBKBW](/stripes/kbkbw/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Grampian T.V.](/tartans/g/gr/grampian-t-v/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

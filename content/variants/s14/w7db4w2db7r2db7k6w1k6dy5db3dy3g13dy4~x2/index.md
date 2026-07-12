@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Redgate Dress"
-  url: "/tartans/redgate-dress/"
+  url: "/tartans/r/re/redgate-dress/"
 - name: "Redgate (Connecticut) Dress"
   url: "/setts/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGKWKBRBWBW](/stripes/gggbgkwkbrbwbw/).
 
-Part of the [Redgate Dress](/tartans/redgate-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Redgate Dress](/tartans/r/re/redgate-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

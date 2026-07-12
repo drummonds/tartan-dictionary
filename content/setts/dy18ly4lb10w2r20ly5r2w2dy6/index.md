@@ -6,6 +6,8 @@ This is the **Satchidananda (Personal)** sett — one scale-free proportion (`dy
 [GWRYRWWYGYWWRYRW](/stripes/gwryrwwygywwryrw/). It is recorded as a single **variant**, below.
 First attested **1901**.
 
+Part of the [Satchidananda](/tartans/s/sa/satchidananda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

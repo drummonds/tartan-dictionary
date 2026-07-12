@@ -6,6 +6,8 @@ This is the **Hibernian Football Club (2004)** sett — one scale-free proportio
 [KBGKGWGWGKGBKW](/stripes/kbgkgwgwgkgbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hibernian Football Club](/tartans/h/hi/hibernian-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

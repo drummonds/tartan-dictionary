@@ -6,6 +6,8 @@ This is the **Berwick-upon-Tweed (symmetric)** sett — one scale-free proportio
 [BRGRGRBKGKGKBW](/stripes/brgrgrbkgkgkbw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Berwick-upon-Tweed](/tartans/b/be/berwick-upon-tweed-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

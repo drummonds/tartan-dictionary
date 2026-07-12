@@ -6,6 +6,8 @@ This is the **Henry, W. A.** sett — one scale-free proportion (`dy16r16lr3dg16
 [GRYGRRRGR](/stripes/grygrrrgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Henry, W. A.](/tartans/h/he/henry-w-a-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

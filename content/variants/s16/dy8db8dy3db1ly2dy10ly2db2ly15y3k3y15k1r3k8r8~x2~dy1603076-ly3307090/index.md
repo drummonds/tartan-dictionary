@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Du Lion"
+  url: "/tartans/d/du/du-lion/"
+- name: "Du Lion"
   url: "/setts/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy8db8dy3db1ly2dy10ly2db2ly15y3k3y15k1r3k8r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBYGYBYGKGKRKR](/stripes/gbgbygybygkgkrkr/).
+
+Part of the [Du Lion](/tartans/d/du/du-lion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

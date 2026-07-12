@@ -7,7 +7,7 @@ This is the **MacLaine of Lochbuie** sett — one scale-free proportion (`r32g8l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaine of Lochbuie](/tartans/m/ma/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

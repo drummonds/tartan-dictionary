@@ -6,6 +6,8 @@ This is the **Baillie of Polkemett** sett — one scale-free proportion (`w3db12
 [GRKBW](/stripes/grkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Baillie of Polkemett](/tartans/b/ba/baillie-of-polkemett-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

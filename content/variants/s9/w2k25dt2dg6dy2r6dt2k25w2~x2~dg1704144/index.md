@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stott"
-  url: "/tartans/stott/"
+  url: "/tartans/s/st/stott/"
 - name: "Stott Personal Tartan"
   url: "/setts/w2k25dt2dg6dy2r6dt2k25w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2k25dt2dg6dy2r6dt2k25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBGGRBKW](/stripes/wkbggrbkw/).
 
-Part of the [Stott](/tartans/stott/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stott](/tartans/s/st/stott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

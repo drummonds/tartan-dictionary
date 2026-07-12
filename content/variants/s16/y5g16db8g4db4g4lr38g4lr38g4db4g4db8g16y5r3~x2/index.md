@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nova Scotia Dress"
+  url: "/tartans/n/no/nova-scotia-dress/"
 - name: "Nova Scotia Dress #2"
   url: "/setts/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGYGYGBGBGGR](/stripes/ggbgbgygygbgbggr/).
+
+Part of the [Nova Scotia Dress](/tartans/n/no/nova-scotia-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

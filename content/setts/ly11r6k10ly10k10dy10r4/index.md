@@ -6,6 +6,8 @@ This is the **Duffus Hose, Lord** sett — one scale-free proportion (`ly11r6k10
 [RGKYKRY](/stripes/rgkykry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Duffus Hose, Lord](/tartans/d/du/duffus-hose-lord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Scottish Nuclear (Corporate)** sett — one scale-free proportion 
 [RBKW](/stripes/rbkw/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
-Part of the [Scottish Nuclear](/tartans/scottish-nuclear/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Nuclear](/tartans/s/sc/scottish-nuclear/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

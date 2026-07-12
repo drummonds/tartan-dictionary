@@ -6,7 +6,7 @@ This is the **Caledonian Maple (Fashion)** sett — one scale-free proportion (`
 [BGBGGGY](/stripes/bgbgggy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Caledonian Maple](/tartans/caledonian-maple/) tartan — the named design grouping this sett with its kin.
+Part of the [Caledonian Maple](/tartans/c/ca/caledonian-maple/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

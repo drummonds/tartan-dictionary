@@ -6,6 +6,8 @@ This is the **New Mexico (Fashion)** sett — one scale-free proportion (`g10dp4
 [GBRGGYG](/stripes/gbrggyg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [New Mexico](/tartans/n/ne/new-mexico-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Madewell"
+  url: "/tartans/m/ma/madewell/"
+- name: "Madewell"
   url: "/setts/r2k2w2k14dg13g6y2k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k2w2k14dg13g6y2k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKGGGKW](/stripes/rkwkgggkw/).
+
+Part of the [Madewell](/tartans/m/ma/madewell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Lundy (Personal)** sett — one scale-free proportion (`lb2k2dg8g8
 [WGRGGKW](/stripes/wgrggkw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Lundy](/tartans/l/lu/lundy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

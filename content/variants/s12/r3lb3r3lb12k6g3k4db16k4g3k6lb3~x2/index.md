@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Trinity Presbyterian Church"
+  url: "/tartans/t/tr/trinity-presbyterian-church/"
+- name: "Trinity Presbyterian Church"
   url: "/setts/r3lb3r3lb12k6g3k4db16k4g3k6lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3lb3r3lb12k6g3k4db16k4g3k6lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWKGKBKGKW](/stripes/rwrwkgkbkgkw/).
+
+Part of the [Trinity Presbyterian Church](/tartans/t/tr/trinity-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

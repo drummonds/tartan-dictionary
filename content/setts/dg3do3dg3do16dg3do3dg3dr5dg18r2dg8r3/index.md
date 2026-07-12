@@ -6,6 +6,8 @@ This is the **Dublin, County** sett — one scale-free proportion (`dg3do3dg3do1
 [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Dublin, County](/tartans/d/du/dublin-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

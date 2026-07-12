@@ -7,7 +7,7 @@ This is the **Smith** sett — one scale-free proportion (`dr2k1g7k6db7t2db7k6g7
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1886**.
 
-Part of the [Smith](/tartans/smith-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Smith](/tartans/s/sm/smith-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

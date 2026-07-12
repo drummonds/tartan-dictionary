@@ -6,7 +6,7 @@ This is the **Penman Clan Tartan** sett — one scale-free proportion (`n11db6g6
 [BBGGBGGBBKRKGB](/stripes/bbggbggbbkrkgb/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Penman](/tartans/penman/) tartan — the named design grouping this sett with its kin.
+Part of the [Penman](/tartans/p/pe/penman/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

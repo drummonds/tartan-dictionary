@@ -6,6 +6,8 @@ This is the **Murphy (District)** sett — one scale-free proportion (`k4r1k3ly1
 [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Murphy](/tartans/m/mu/murphy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

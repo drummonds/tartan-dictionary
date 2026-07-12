@@ -6,6 +6,8 @@ This is the **Highland Green** sett — one scale-free proportion (`g13db5y3lb6y
 [BGBGWGBBGWGBBGWGBG](/stripes/bgbgwgbbgwgbbgwgbg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Highland](/tartans/h/hi/highland-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacQueen"
+  url: "/clan/macqueen/"
+- name: "MacQueen of Dalmagarry"
+  url: "/families/macqueen-of-dalmagarry/"
+- name: "MacQueen of Dalmagarry"
+  url: "/tartans/m/ma/macqueen-of-dalmagarry/"
 - name: "MacQueen of Dalmagarry (Clan?)"
   url: "/setts/gi3r4k1r26g14r4dp16w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/gi3r4k1r26g14r4dp16w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRGRBW](/stripes/grkrgrbw/).
+
+Part of the [MacQueen of Dalmagarry](/tartans/m/ma/macqueen-of-dalmagarry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

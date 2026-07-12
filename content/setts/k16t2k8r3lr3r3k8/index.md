@@ -6,6 +6,8 @@ This is the **Benson (New England)** sett — one scale-free proportion (`k16t2k
 [KBKRYRK](/stripes/kbkryrk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Benson](/tartans/b/be/benson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

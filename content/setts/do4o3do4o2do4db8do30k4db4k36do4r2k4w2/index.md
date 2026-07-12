@@ -7,7 +7,7 @@ This is the **Capercaillie** sett — one scale-free proportion (`do4o3do4o2do4d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
-Part of the [Capercaillie](/tartans/capercaillie/) tartan — the named design grouping this sett with its kin.
+Part of the [Capercaillie](/tartans/c/ca/capercaillie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

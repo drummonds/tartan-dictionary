@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Harley Davidson"
+  url: "/tartans/h/ha/harley-davidson/"
+- name: "Harley Davidson"
   url: "/setts/k49o8k4n6oi4n6k4o8k49oi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k49o8k4n6oi4n6k4o8k49oi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBRBKRKR](/stripes/krkbrbkrkr/).
+
+Part of the [Harley Davidson](/tartans/h/ha/harley-davidson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

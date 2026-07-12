@@ -6,6 +6,8 @@ This is the **Cork County, Crest Range** sett — one scale-free proportion (`r7
 [RKRKRBGKBKW](/stripes/rkrkrbgkbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Cork County, Crest Range](/tartans/c/co/cork-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

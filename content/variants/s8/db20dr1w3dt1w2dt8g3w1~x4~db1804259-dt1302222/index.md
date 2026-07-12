@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kruenaegel and Schropp"
-  url: "/tartans/kruenaegel-and-schropp/"
+  url: "/tartans/k/kr/kruenaegel-and-schropp/"
 - name: "Kruenaegel and Schropp"
   url: "/setts/db20dr1w3dt1w2dt8g3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20dr1w3dt1w2dt8g3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBGW](/stripes/bbwbwbgw/).
 
-Part of the [Kruenaegel and Schropp](/tartans/kruenaegel-and-schropp/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kruenaegel and Schropp](/tartans/k/kr/kruenaegel-and-schropp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

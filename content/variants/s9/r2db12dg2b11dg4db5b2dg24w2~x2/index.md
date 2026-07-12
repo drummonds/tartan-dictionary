@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser Gathering, hunting"
+  url: "/tartans/f/fr/fraser-gathering-hunting-2/"
 - name: "Fraser Gathering, hunting"
   url: "/setts/r2db12dg2b11dg4db5b2dg24w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db12dg2b11dg4db5b2dg24w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGBBGW](/stripes/rbgbgbbgw/).
+
+Part of the [Fraser Gathering, hunting](/tartans/f/fr/fraser-gathering-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

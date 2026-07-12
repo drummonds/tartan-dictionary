@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bavidge"
-  url: "/tartans/bavidge/"
+  url: "/tartans/b/ba/bavidge/"
 - name: "Bavidge (Personal)"
   url: "/setts/db92k14db18t5db5t5db5g32dp16k5dp7y8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db92k14db18t5db5t5db5g32dp16k5dp7y8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/).
 
-Part of the [Bavidge](/tartans/bavidge/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bavidge](/tartans/b/ba/bavidge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Anderson Variant Clan Tartan** sett — one scale-free proportion 
 [RGKRKGRBRKGKGKWKWKRKWR](/stripes/rgkrkgrbrkgkgkwkwkrkwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Anderson](/tartans/a/an/anderson-13/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

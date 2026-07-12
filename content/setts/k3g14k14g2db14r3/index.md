@@ -7,6 +7,8 @@ This is the **Morrison** sett — one scale-free proportion (`k3g14k14g2db14r3`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1908**.
 
+Part of the [Morrison](/tartans/m/mo/morrison/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

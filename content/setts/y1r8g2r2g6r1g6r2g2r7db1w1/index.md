@@ -7,7 +7,7 @@ This is the **Bruce County** sett — one scale-free proportion (`y1r8g2r2g6r1g6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1964**.
 
-Part of the [Bruce County](/tartans/bruce-county/) tartan — the named design grouping this sett with its kin.
+Part of the [Bruce County](/tartans/b/br/bruce-county/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

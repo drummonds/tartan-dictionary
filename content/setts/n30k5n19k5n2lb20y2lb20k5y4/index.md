@@ -6,6 +6,8 @@ This is the **Sonsub** sett — one scale-free proportion (`n30k5n19k5n2lb20y2lb
 [BKBKBWGWKG](/stripes/bkbkbwgwkg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sonsub](/tartans/s/so/sonsub-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

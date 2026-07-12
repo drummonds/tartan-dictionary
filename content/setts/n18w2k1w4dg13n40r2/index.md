@@ -6,7 +6,7 @@ This is the **Puxty-Dunne** sett — one scale-free proportion (`n18w2k1w4dg13n4
 [BWKWGBR](/stripes/bwkwgbr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Puxty-Dunne](/tartans/puxty-dunne/) tartan — the named design grouping this sett with its kin.
+Part of the [Puxty-Dunne](/tartans/p/pu/puxty-dunne/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

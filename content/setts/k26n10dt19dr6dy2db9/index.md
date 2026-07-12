@@ -6,6 +6,8 @@ This is the **Meeson Hunting** sett — one scale-free proportion (`k26n10dt19dr
 [BGBBBK](/stripes/bgbbbk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Meeson Hunting](/tartans/m/me/meeson-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

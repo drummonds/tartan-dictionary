@@ -6,6 +6,8 @@ This is the **Dunfermline Bank of Scotland (Corp)** sett — one scale-free prop
 [GKGRGKBW](/stripes/gkgrgkbw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Dunfermline Bank of Scotland](/tartans/d/du/dunfermline-bank-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

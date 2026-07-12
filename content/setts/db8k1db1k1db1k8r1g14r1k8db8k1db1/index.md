@@ -6,7 +6,7 @@ This is the **Riddoch (Name)** sett — one scale-free proportion (`db8k1db1k1db
 [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Riddoch](/tartans/riddoch/) tartan — the named design grouping this sett with its kin.
+Part of the [Riddoch](/tartans/r/ri/riddoch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

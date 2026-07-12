@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chieftain's"
-  url: "/tartans/chieftain-s/"
+  url: "/tartans/c/ch/chieftain-s/"
 - name: "Chieftain's (Corporate)"
   url: "/setts/db8g8k1r1ly1db2g2k1r1ly1db8g8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8g8k1r1ly1db2g2k1r1ly1db8g8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRYBGKRYBG](/stripes/bgkrybgkrybg/).
 
-Part of the [Chieftain's](/tartans/chieftain-s/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Chieftain's](/tartans/c/ch/chieftain-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

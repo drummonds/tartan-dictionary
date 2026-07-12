@@ -6,6 +6,8 @@ This is the **Rhys Welsh Name Tartan** sett — one scale-free proportion (`dbi6
 [BYBYBBBBBW](/stripes/bybybbbbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Rhys](/tartans/r/rh/rhys-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

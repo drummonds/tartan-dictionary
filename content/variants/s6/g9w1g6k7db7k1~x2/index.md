@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Menteith"
-  url: "/tartans/menteith/"
+  url: "/tartans/m/me/menteith/"
 - name: "Menteith"
   url: "/setts/g9w1g6k7db7k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g9w1g6k7db7k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKBK](/stripes/gwgkbk/).
 
-Part of the [Menteith](/tartans/menteith/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Menteith](/tartans/m/me/menteith/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

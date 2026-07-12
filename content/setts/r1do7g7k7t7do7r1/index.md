@@ -6,7 +6,7 @@ This is the **Tennant (Clan)** sett — one scale-free proportion (`r1do7g7k7t7d
 [RBBKGBR](/stripes/rbbkgbr/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
-Part of the [Tennant](/tartans/tennant-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Tennant](/tartans/t/te/tennant-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

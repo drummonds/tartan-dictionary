@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Waters"
+  url: "/clan/waters/"
+- name: "Waters of Georgian Bay"
+  url: "/families/waters-of-georgian-bay/"
+- name: "Waters of Georgian Bay"
+  url: "/tartans/w/wa/waters-of-georgian-bay/"
 - name: "Waters of Georgian Bay (District)"
   url: "/setts/db38w3db8dbi36dg9r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db38w3db8dbi36dg9r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBGR](/stripes/bwbbgr/).
+
+Part of the [Waters of Georgian Bay](/tartans/w/wa/waters-of-georgian-bay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

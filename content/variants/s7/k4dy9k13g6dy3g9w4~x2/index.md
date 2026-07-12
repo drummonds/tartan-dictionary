@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
+- name: "Ramsay Hunting"
+  url: "/tartans/r/ra/ramsay-hunting/"
 - name: "Ramsay Hunting Family Tartan"
   url: "/setts/k4dy9k13g6dy3g9w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dy9k13g6dy3g9w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGGGW](/stripes/kgkgggw/).
+
+Part of the [Ramsay Hunting](/tartans/r/ra/ramsay-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

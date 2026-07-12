@@ -6,6 +6,8 @@ This is the **Franklin (District)** sett — one scale-free proportion (`k2db3lo
 [BKBBKBYKYKYBK](/stripes/bkbbkbykykybk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Franklin](/tartans/f/fr/franklin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

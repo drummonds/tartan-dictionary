@@ -6,6 +6,8 @@ This is the **Bowcutt, David (Personal)** sett — one scale-free proportion (`r
 [BKBBKBKBKBKBKR](/stripes/bkbbkbkbkbkbkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bowcutt, David](/tartans/b/bo/bowcutt-david-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

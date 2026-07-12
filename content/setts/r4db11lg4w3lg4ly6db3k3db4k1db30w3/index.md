@@ -6,6 +6,8 @@ This is the **Murison, Ina** sett — one scale-free proportion (`r4db11lg4w3lg4
 [RBYWYYBKBKBW](/stripes/rbywyybkbkbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Murison, Ina](/tartans/m/mu/murison-ina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

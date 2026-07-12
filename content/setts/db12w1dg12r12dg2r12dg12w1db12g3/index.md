@@ -6,6 +6,8 @@ This is the **Patterson (Red) Clan Tartan** sett — one scale-free proportion (
 [BWGRGRGWBG](/stripes/bwgrgrgwbg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Patterson](/tartans/p/pa/patterson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

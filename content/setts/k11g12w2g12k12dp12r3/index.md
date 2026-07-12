@@ -6,6 +6,8 @@ This is the **Cunningham / Wilson's No 120** sett — one scale-free proportion 
 [KGWGKBR](/stripes/kgwgkbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Cunningham / Wilson's No 120](/tartans/c/cu/cunningham-wilson-s-no-120/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Murtaugh"
+  url: "/tartans/m/mu/murtaugh/"
+- name: "Murtaugh"
   url: "/setts/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWKYKWBKBKWYGYWYGYKR](/stripes/krwkykwbkbkwygywygykr/).
+
+Part of the [Murtaugh](/tartans/m/mu/murtaugh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

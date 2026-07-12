@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "RSCDS"
+  url: "/tartans/r/rs/rscds/"
 - name: "Royal Scottish Country Dance Society"
   url: "/setts/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKWKWKWKBKBKBGR](/stripes/rbkwkwkwkbkbkbgr/).
+
+Part of the [RSCDS](/tartans/r/rs/rscds/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

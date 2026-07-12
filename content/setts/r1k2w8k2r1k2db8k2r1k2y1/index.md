@@ -6,6 +6,8 @@ This is the **Andreou Family (Personal)** sett — one scale-free proportion (`r
 [GKRKBKRKWKR](/stripes/gkrkbkrkwkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Andreou](/tartans/a/an/andreou/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

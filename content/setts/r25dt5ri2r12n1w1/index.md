@@ -6,6 +6,8 @@ This is the **Fernie (Personal)** sett — one scale-free proportion (`r25dt5ri2
 [BRRBWBRRBR](/stripes/brrbwbrrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Fernie](/tartans/f/fe/fernie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

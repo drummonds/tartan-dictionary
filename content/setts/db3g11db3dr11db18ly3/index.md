@@ -6,6 +6,8 @@ This is the **Harbour Town Hilton Head, The** sett — one scale-free proportion
 [BGBBBY](/stripes/bgbbby/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Harbour Town](/tartans/h/ha/harbour-town/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

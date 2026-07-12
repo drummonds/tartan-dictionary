@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jupiter Shop Channel Co Ltd"
+  url: "/tartans/j/ju/jupiter-shop-channel-co-ltd/"
+- name: "Jupiter Shop Channel Co Ltd"
   url: "/setts/k6r1k1r1k1r5k2r5k4r2w1r40w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r1k1r1k1r5k2r5k4r2w1r40w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/).
+
+Part of the [Jupiter Shop Channel Co Ltd](/tartans/j/ju/jupiter-shop-channel-co-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

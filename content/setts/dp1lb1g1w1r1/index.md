@@ -6,6 +6,8 @@ This is the **Daughter of Mull** sett — one scale-free proportion (`dp1lb1g1w1
 [BWGWR](/stripes/bwgwr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Daughter of Mull](/tartans/d/da/daughter-of-mull/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

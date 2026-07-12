@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gow Hunting"
-  url: "/tartans/gow-hunting/"
+  url: "/tartans/g/go/gow-hunting/"
 - name: "Gow, hunting"
   url: "/setts/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGKRKGKGKGK](/stripes/bbbkgkrkgkgkgk/).
 
-Part of the [Gow Hunting](/tartans/gow-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gow Hunting](/tartans/g/go/gow-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

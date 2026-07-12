@@ -6,6 +6,8 @@ This is the **Glenshee** sett — one scale-free proportion (`r12w1r2dg1b3`), co
 [BGRWR](/stripes/bgrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glenshee](/tartans/g/gl/glenshee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

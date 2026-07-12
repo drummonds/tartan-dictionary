@@ -6,6 +6,8 @@ This is the **Carnegie #2** sett — one scale-free proportion (`db10r2db2r4db12
 [BRBRBRKWRWRWRG](/stripes/brbrbrkwrwrwrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Carnegie](/tartans/c/ca/carnegie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

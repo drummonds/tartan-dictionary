@@ -6,7 +6,7 @@ This is the **Logan Rogers** sett — one scale-free proportion (`db2r2db2w1db8k
 [BRBWBKGRGG](/stripes/brbwbkgrgg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Logan Rogers](/tartans/logan-rogers/) tartan — the named design grouping this sett with its kin.
+Part of the [Logan Rogers](/tartans/l/lo/logan-rogers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

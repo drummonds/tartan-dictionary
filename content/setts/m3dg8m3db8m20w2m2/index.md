@@ -6,6 +6,8 @@ This is the **Unnamed C21st (Lady's Jacket) (Fash)** sett — one scale-free pro
 [RGRBRWR](/stripes/rgrbrwr/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Unnamed C21st](/tartans/u/un/unnamed-c21st-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

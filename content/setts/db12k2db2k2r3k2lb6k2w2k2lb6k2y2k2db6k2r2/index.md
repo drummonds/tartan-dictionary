@@ -6,6 +6,8 @@ This is the **Kilburnie** sett — one scale-free proportion (`db12k2db2k2r3k2lb
 [BKBKRKWKWKWKGKBKRKBKGKWKWKWKRKBK](/stripes/bkbkrkwkwkwkgkbkrkbkgkwkwkwkrkbk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Kilburnie](/tartans/k/ki/kilburnie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

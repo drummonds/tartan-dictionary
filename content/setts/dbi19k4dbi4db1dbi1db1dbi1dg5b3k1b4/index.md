@@ -6,6 +6,8 @@ This is the **Spirit of Scotland** sett — one scale-free proportion (`dbi19k4d
 [BKBBBBBGBKB](/stripes/bkbbbbbgbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Spirit of Scotland](/tartans/s/sp/spirit-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

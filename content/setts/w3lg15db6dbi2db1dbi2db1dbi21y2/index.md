@@ -6,6 +6,8 @@ This is the **Blue Knights, The** sett — one scale-free proportion (`w3lg15db6
 [GBBBBBBYW](/stripes/gbbbbbbyw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Blue Knights, The](/tartans/b/bl/blue-knights-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

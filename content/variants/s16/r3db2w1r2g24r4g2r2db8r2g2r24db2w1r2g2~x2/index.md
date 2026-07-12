@@ -10,7 +10,7 @@ crumbs:
 - name: "Stewart of Appin"
   url: "/families/stewart-of-appin/"
 - name: "Stewart of Appin"
-  url: "/tartans/stewart-of-appin/"
+  url: "/tartans/s/st/stewart-of-appin/"
 - name: "Stewart of Appin"
   url: "/setts/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWBRGRBRGRGRWBR](/stripes/grwbrgrbrgrgrwbr/).
 
-Part of the [Stewart of Appin](/tartans/stewart-of-appin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart of Appin](/tartans/s/st/stewart-of-appin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

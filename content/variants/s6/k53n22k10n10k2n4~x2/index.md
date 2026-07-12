@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Isle"
-  url: "/tartans/black-isle/"
+  url: "/tartans/b/bl/black-isle/"
 - name: "Black Isle"
   url: "/setts/k53n22k10n10k2n4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k53n22k10n10k2n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-Part of the [Black Isle](/tartans/black-isle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Isle](/tartans/b/bl/black-isle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

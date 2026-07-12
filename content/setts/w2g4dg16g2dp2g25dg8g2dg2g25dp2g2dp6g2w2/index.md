@@ -6,6 +6,8 @@ This is the **Beechgrove Garden, The** sett — one scale-free proportion (`w2g4
 [WGBGBGGGGGBGGGW](/stripes/wgbgbgggggbgggw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Beechgrove Garden, The](/tartans/b/be/beechgrove-garden-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

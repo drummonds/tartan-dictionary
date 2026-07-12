@@ -6,6 +6,8 @@ This is the **Salich-Plaja of St. Genis (Personal)** sett — one scale-free pro
 [BWBKBKBKGRGWR](/stripes/bwbkbkbkgrgwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Salich-Plaja of St. Genis](/tartans/s/sa/salich-plaja-of-st-genis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

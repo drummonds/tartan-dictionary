@@ -6,6 +6,8 @@ This is the **Sarafilovic (Corporate)** sett — one scale-free proportion (`r4d
 [GGKGKGKBR](/stripes/ggkgkgkbr/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Sarafilovic](/tartans/s/sa/sarafilovic-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

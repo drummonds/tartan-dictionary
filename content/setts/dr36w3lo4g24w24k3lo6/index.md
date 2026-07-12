@@ -6,6 +6,8 @@ This is the **MacLachlan Dress** sett — one scale-free proportion (`dr36w3lo4g
 [BWYGWKY](/stripes/bwygwky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacLachlan Dress](/tartans/m/ma/maclachlan-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

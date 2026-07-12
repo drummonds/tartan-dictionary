@@ -6,6 +6,8 @@ This is the **Goddin mab Gododdin (Personal)** sett — one scale-free proportio
 [RYBGGYBY](/stripes/rybggyby/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Goddin mab Gododdin](/tartans/g/go/goddin-mab-gododdin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

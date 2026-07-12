@@ -6,6 +6,8 @@ This is the **Vaughan (Welsh Name) Welsh Name Tartan** sett — one scale-free p
 [KWKWKYKYKYKGKWYWKGKYKYKYKWKWK](/stripes/kwkwkykykykgkwywkgkykykykwkwk/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Vaughan](/tartans/v/va/vaughan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

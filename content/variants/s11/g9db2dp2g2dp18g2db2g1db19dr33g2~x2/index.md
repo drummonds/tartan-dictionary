@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Scotland Autumn"
+  url: "/tartans/p/pr/pride-of-scotland-autumn/"
+- name: "Pride of Scotland Autumn"
   url: "/setts/g9db2dp2g2dp18g2db2g1db19dr33g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9db2dp2g2dp18g2db2g1db19dr33g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBGBGBGBBG](/stripes/gbbgbgbgbbg/).
+
+Part of the [Pride of Scotland Autumn](/tartans/p/pr/pride-of-scotland-autumn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

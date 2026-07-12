@@ -6,6 +6,8 @@ This is the **MacLachlan, Brown Dress (Fashion)** sett — one scale-free propor
 [WGWGGGWGWGW](/stripes/wgwgggwgwgw/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [MacLachlan, Brown Dress](/tartans/m/ma/maclachlan-brown-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

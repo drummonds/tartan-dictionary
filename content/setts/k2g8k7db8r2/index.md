@@ -6,6 +6,8 @@ This is the **Denholme** sett — one scale-free proportion (`k2g8k7db8r2`), col
 [KGKBR](/stripes/kgkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Denholme](/tartans/d/de/denholme/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

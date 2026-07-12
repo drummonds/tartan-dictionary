@@ -6,7 +6,7 @@ This is the **Laing (Clan)** sett — one scale-free proportion (`r1y1t1y3t1y4t1
 [BKBKBWBRBGBGBGR](/stripes/bkbkbwbrbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **~1765**.
 
-Part of the [Laing](/tartans/laing/) tartan — the named design grouping this sett with its kin.
+Part of the [Laing](/tartans/l/la/laing/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

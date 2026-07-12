@@ -6,6 +6,8 @@ This is the **Gordon #3** sett — one scale-free proportion (`db14w1g8w1dg16lb6
 [BWGWGWWBWGWGRGRG](/stripes/bwgwgwwbwgwgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gordon 1](/tartans/g/go/gordon-1/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

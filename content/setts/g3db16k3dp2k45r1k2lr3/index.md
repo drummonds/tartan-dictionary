@@ -6,7 +6,7 @@ This is the **Cumnock (District)** sett — one scale-free proportion (`g3db16k3
 [GBKBKRKY](/stripes/gbkbkrky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Cumnock](/tartans/cumnock/) tartan — the named design grouping this sett with its kin.
+Part of the [Cumnock](/tartans/c/cu/cumnock/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

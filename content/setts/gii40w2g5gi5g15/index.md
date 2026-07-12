@@ -6,6 +6,8 @@ This is the **Castle Bay (Fashion)** sett — one scale-free proportion (`gii40w
 [GGGWG](/stripes/gggwg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Castle Bay](/tartans/c/ca/castle-bay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

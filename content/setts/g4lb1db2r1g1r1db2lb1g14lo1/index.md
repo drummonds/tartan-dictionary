@@ -6,6 +6,8 @@ This is the **Seattle (District)** sett — one scale-free proportion (`g4lb1db2
 [GWBRGRBWGY](/stripes/gwbrgrbwgy/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Seattle](/tartans/s/se/seattle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

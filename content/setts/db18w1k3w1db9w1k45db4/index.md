@@ -6,7 +6,7 @@ This is the **Lynn (Personal)** sett — one scale-free proportion (`db18w1k3w1d
 [BKWBWKWB](/stripes/bkwbwkwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Lynn](/tartans/lynn/) tartan — the named design grouping this sett with its kin.
+Part of the [Lynn](/tartans/l/ly/lynn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

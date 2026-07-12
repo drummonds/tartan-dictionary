@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erskine"
+  url: "/tartans/e/er/erskine/"
 - name: "Erskine Hunting"
   url: "/setts/dg5g3dg24g24dg3g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5g3dg24g24dg3g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGG](/stripes/gggggg/).
+
+Part of the [Erskine](/tartans/e/er/erskine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

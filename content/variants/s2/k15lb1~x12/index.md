@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Joy's Fancy, Allen"
+  url: "/tartans/j/jo/joy-s-fancy-allen/"
 - name: "Joy's Fancy, Allen (Personal)"
   url: "/setts/k15lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k15lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KW](/stripes/kw/).
+
+Part of the [Joy's Fancy, Allen](/tartans/j/jo/joy-s-fancy-allen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

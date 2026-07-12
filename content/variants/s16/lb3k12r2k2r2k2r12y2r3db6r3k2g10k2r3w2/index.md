@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Innes,"
   url: "/clan/innes/"
 - name: "Innes D"
-  url: "/tartans/innes-d/"
+  url: "/tartans/i/in/innes-d/"
 - name: "Innes D"
   url: "/setts/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKRKRGRBRKGKRW](/stripes/wkrkrkrgrbrkgkrw/).
 
-Part of the [Innes D](/tartans/innes-d/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Innes D](/tartans/i/in/innes-d/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

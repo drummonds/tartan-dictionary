@@ -6,6 +6,8 @@ This is the **MacKinnon #7** sett — one scale-free proportion (`r3ri4g3dp3ri11
 [RRGBRGRBGRRW](/stripes/rrgbrgrbgrrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKinnon](/tartans/m/ma/mackinnon-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

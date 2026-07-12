@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry Turquoise"
+  url: "/tartans/l/lo/longniddry-turquoise/"
 - name: "Longniddry Turquoise (Dance)"
   url: "/setts/lb38k2w2k2lb5g10w30lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb38k2w2k2lb5g10w30lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWGWW](/stripes/wkwkwgww/).
+
+Part of the [Longniddry Turquoise](/tartans/l/lo/longniddry-turquoise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

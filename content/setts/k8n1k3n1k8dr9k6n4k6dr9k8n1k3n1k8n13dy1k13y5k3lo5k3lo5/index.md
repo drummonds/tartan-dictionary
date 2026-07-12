@@ -6,6 +6,8 @@ This is the **Zibrant** sett — one scale-free proportion (`k8n1k3n1k8dr9k6n4k6
 [KBKBKBKBKBKBKBKBGKGKYKY](/stripes/kbkbkbkbkbkbkbkbgkgkyky/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Zibrant](/tartans/z/zi/zibrant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

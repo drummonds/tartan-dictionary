@@ -6,6 +6,8 @@ This is the **Taylor Dress Family Tartan** sett — one scale-free proportion (`
 [GGWWWGRKG](/stripes/ggwwwgrkg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Taylor Dress](/tartans/t/ta/taylor-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

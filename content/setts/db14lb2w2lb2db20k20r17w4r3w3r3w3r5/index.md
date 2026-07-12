@@ -6,6 +6,8 @@ This is the **American Bi-Centennial** sett — one scale-free proportion (`db14
 [BWWWBKRWRWRWR](/stripes/bwwwbkrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [American Bi-Centennial](/tartans/a/am/american-bi-centennial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

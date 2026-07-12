@@ -7,6 +7,8 @@ This is the **MacDonell of Glengarry D** sett — one scale-free proportion (`db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1906**.
 
+Part of the [MacDonell of Glengarry D](/tartans/m/ma/macdonell-of-glengarry-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

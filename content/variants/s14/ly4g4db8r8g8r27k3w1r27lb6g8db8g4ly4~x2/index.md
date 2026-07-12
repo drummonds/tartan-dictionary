@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
+- name: "West Virginia"
+  url: "/tartans/w/we/west-virginia/"
 - name: "West Virginia"
   url: "/setts/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBGWRWKRGRBGY](/stripes/ygbgwrwkrgrbgy/).
+
+Part of the [West Virginia](/tartans/w/we/west-virginia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

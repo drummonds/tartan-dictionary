@@ -6,6 +6,8 @@ This is the **Toronto Blue Jays** sett — one scale-free proportion (`r2dp1lb13
 [RBWBBBBBWBW](/stripes/rbwbbbbbwbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Toronto Blue Jays](/tartans/t/to/toronto-blue-jays/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

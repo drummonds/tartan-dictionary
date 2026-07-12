@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Spens/Spence"
-  url: "/tartans/spens-spence/"
+  url: "/tartans/s/sp/spens-spence/"
 - name: "Spens/Spence (Clan)"
   url: "/setts/dr26w1db10w1dg32dr11db8lb3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr26w1db10w1dg32dr11db8lb3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGBBWW](/stripes/bwbwgbbww/).
 
-Part of the [Spens/Spence](/tartans/spens-spence/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Spens/Spence](/tartans/s/sp/spens-spence/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

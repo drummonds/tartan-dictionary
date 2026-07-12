@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Young"
+  url: "/tartans/y/yo/young-2/"
+- name: "Young"
   url: "/setts/db3lb3g30db25dp4r3y2dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3lb3g30db25dp4r3y2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBBGWB](/stripes/bgrbbgwb/).
+
+Part of the [Young](/tartans/y/yo/young-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

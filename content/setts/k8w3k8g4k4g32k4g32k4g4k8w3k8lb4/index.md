@@ -6,6 +6,8 @@ This is the **Hartmann (Personal)** sett — one scale-free proportion (`k8w3k8g
 [KWKGKGKGKGKWKW](/stripes/kwkgkgkgkgkwkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Hartmann](/tartans/h/ha/hartmann/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

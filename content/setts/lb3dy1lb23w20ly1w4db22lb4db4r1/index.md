@@ -6,7 +6,7 @@ This is the **Forfar** sett — one scale-free proportion (`lb3dy1lb23w20ly1w4db
 [RBWBWYWWGW](/stripes/rbwbwywwgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Forfar](/tartans/forfar/) tartan — the named design grouping this sett with its kin.
+Part of the [Forfar](/tartans/f/fo/forfar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

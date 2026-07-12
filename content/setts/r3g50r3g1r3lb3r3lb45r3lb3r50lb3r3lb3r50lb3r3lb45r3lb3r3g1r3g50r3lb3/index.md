@@ -6,6 +6,8 @@ This is the **Not Specified** sett — one scale-free proportion (`r3g50r3g1r3lb
 [RGRGRWRWRWRWRWRWRWRWRGRGRW](/stripes/rgrgrwrwrwrwrwrwrwrwrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Not Specified](/tartans/n/no/not-specified/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

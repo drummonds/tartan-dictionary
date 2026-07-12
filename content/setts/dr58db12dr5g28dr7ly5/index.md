@@ -6,6 +6,8 @@ This is the **Cairn O'Mount (Personal)** sett — one scale-free proportion (`dr
 [BBBGBY](/stripes/bbbgby/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Cairn O'Mount](/tartans/c/ca/cairn-o-mount/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

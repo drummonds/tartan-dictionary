@@ -6,6 +6,8 @@ This is the **St. Leonards** sett — one scale-free proportion (`db40lb2k4r3n6d
 [BWKRBBRBBRKWBW](/stripes/bwkrbbrbbrkwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [St. Leonards](/tartans/s/st/st-leonards-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

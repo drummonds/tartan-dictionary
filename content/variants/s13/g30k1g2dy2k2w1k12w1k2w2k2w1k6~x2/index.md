@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
+- name: "Currie of Balilone"
+  url: "/families/currie-of-balilone/"
+- name: "Currie of Balilone"
+  url: "/tartans/c/cu/currie-of-balilone-2/"
 - name: "Currie of Balilone (Variant Franklin)"
   url: "/setts/g30k1g2dy2k2w1k12w1k2w2k2w1k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30k1g2dy2k2w1k12w1k2w2k2w1k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKWKWKWKWK](/stripes/gkggkwkwkwkwk/).
+
+Part of the [Currie of Balilone](/tartans/c/cu/currie-of-balilone-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

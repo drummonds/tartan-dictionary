@@ -6,6 +6,8 @@ This is the **Crawford Arisaid (Dance)** sett — one scale-free proportion (`dr
 [BGBGBWBWB](/stripes/bgbgbwbwb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Crawford Arisaid](/tartans/c/cr/crawford-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

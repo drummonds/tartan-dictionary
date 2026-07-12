@@ -6,6 +6,8 @@ This is the **Solway Spirit (District)** sett — one scale-free proportion (`w4
 [RBGBGBGBGBW](/stripes/rbgbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Solway Spirit](/tartans/s/so/solway-spirit-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

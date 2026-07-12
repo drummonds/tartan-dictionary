@@ -6,7 +6,7 @@ This is the **Bailies of Bennachie Corporate Tartan** sett — one scale-free pr
 [BKBRGBG](/stripes/bkbrgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Bailies of Bennachie](/tartans/bailies-of-bennachie/) tartan — the named design grouping this sett with its kin.
+Part of the [Bailies of Bennachie](/tartans/b/ba/bailies-of-bennachie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

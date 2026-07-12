@@ -6,6 +6,8 @@ This is the **Tipperary Irish County Tartan** sett — one scale-free proportion
 [RKKGRKR](/stripes/rkkgrkr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Tipperary Irish County](/tartans/t/ti/tipperary-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

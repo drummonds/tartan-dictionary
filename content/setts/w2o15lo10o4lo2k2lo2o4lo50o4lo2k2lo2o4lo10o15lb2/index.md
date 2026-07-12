@@ -7,6 +7,8 @@ This is the **Australia, The** sett — one scale-free proportion (`w2o15lo10o4l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1984**.
 
+Part of the [Australia](/tartans/a/au/australia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

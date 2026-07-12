@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "State University of New York College at Buffalo"
+  url: "/tartans/s/st/state-university-of-new-york-college-at-buffalo/"
+- name: "State University of New York College at Buffalo"
   url: "/setts/k70lo5k3n4dp4n4k3lo12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k70lo5k3n4dp4n4k3lo12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKBBBKY](/stripes/kykbbbky/).
+
+Part of the [State University of New York College at Buffalo](/tartans/s/st/state-university-of-new-york-college-at-buffalo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

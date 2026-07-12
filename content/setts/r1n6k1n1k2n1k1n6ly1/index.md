@@ -6,6 +6,8 @@ This is the **Mowdowny (Fashion)** sett — one scale-free proportion (`r1n6k1n1
 [RBKBKBKBY](/stripes/rbkbkbkby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mowdowny](/tartans/m/mo/mowdowny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

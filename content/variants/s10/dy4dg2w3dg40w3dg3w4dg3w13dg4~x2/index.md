@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Patrick"
+  url: "/tartans/s/st/st-patrick/"
 - name: "St. Patrick (Fashion)"
   url: "/setts/dy4dg2w3dg40w3dg3w4dg3w13dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4dg2w3dg40w3dg3w4dg3w13dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGWGWGWG](/stripes/ggwgwgwgwg/).
+
+Part of the [St. Patrick](/tartans/s/st/st-patrick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

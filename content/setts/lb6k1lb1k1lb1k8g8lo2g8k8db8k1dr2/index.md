@@ -6,7 +6,7 @@ This is the **Farquharson Dress (Fashion)** sett — one scale-free proportion (
 [BKBKGYGKWKWKW](/stripes/bkbkgygkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Farquharson Dress](/tartans/farquharson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Farquharson Dress](/tartans/f/fa/farquharson-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

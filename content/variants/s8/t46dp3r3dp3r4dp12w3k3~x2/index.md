@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh Festival"
+  url: "/tartans/e/ed/edinburgh-festival/"
+- name: "Edinburgh Festival"
   url: "/setts/t46dp3r3dp3r4dp12w3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t46dp3r3dp3r4dp12w3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBWK](/stripes/bbrbrbwk/).
+
+Part of the [Edinburgh Festival](/tartans/e/ed/edinburgh-festival/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Sturch (Corporate)** sett — one scale-free proportion (`r2db2g3y
 [GGBR](/stripes/ggbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Sturch](/tartans/s/st/sturch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

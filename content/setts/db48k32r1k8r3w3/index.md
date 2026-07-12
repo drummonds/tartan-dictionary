@@ -6,6 +6,8 @@ This is the **Koot Wedding (Personal)** sett — one scale-free proportion (`db4
 [BKRKRW](/stripes/bkrkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Koot Wedding](/tartans/k/ko/koot-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

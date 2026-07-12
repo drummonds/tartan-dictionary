@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Glencoe"
+  url: "/tartans/p/pr/pride-of-glencoe/"
+- name: "Pride of Glencoe"
   url: "/setts/k3g2m3db30dp32w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g2m3db30dp32w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRBBW](/stripes/kgrbbw/).
+
+Part of the [Pride of Glencoe](/tartans/p/pr/pride-of-glencoe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

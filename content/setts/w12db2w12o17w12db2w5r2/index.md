@@ -6,6 +6,8 @@ This is the **Milne Purple Dress (Dance)** sett — one scale-free proportion (`
 [RWBWRWBW](/stripes/rwbwrwbw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Milne Purple Dress](/tartans/m/mi/milne-purple-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

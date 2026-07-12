@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenturret Distillery"
+  url: "/tartans/g/gl/glenturret-distillery/"
+- name: "Glenturret Distillery"
   url: "/setts/lo4db24g3k21g23k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo4db24g3k21g23k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBY](/stripes/kgkgby/).
+
+Part of the [Glenturret Distillery](/tartans/g/gl/glenturret-distillery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

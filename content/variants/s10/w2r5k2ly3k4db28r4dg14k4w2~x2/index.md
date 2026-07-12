@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Lomond & the Trossachs (Fashion"
+  url: "/tartans/l/lo/loch-lomond-the-trossachs-fashion/"
+- name: "Loch Lomond & the Trossachs (Fashion"
   url: "/setts/w2r5k2ly3k4db28r4dg14k4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r5k2ly3k4db28r4dg14k4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGRBKYKRW](/stripes/wkgrbkykrw/).
+
+Part of the [Loch Lomond & the Trossachs (Fashion](/tartans/l/lo/loch-lomond-the-trossachs-fashion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

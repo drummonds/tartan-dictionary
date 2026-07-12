@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Russell, Ralph T."
+  url: "/tartans/r/ru/russell-ralph-t/"
 - name: "Russell, Ralph T. (Personal)"
   url: "/setts/w2k1w2r10k4r2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k1w2r10k4r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWRKRW](/stripes/wkwrkrw/).
+
+Part of the [Russell, Ralph T.](/tartans/r/ru/russell-ralph-t/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

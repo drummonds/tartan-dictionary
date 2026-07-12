@@ -6,7 +6,7 @@ This is the **Bisset** sett — one scale-free proportion (`r9g18k6g6k3ly3g6db8w
 [RGKGKYGBW](/stripes/rgkgkygbw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
-Part of the [Bisset](/tartans/bisset/) tartan — the named design grouping this sett with its kin.
+Part of the [Bisset](/tartans/b/bi/bisset/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

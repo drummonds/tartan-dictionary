@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx National"
-  url: "/tartans/manx-national/"
+  url: "/tartans/m/ma/manx-national/"
 - name: "Manx National"
   url: "/setts/p5g9r2dy2db6lb14w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/p5g9r2dy2db6lb14w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBWW](/stripes/bgrgbww/).
 
-Part of the [Manx National](/tartans/manx-national/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manx National](/tartans/m/ma/manx-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

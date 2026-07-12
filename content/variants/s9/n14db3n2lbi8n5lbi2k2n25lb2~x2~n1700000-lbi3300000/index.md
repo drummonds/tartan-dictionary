@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Turnberry Scotland"
+  url: "/tartans/t/tu/turnberry-scotland/"
+- name: "Turnberry Scotland"
   url: "/setts/n14db3n2lbi8n5lbi2k2n25lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n14db3n2lbi8n5lbi2k2n25lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBWKBW](/stripes/bbbwbwkbw/).
+
+Part of the [Turnberry Scotland](/tartans/t/tu/turnberry-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **East Tennessee State University** sett — one scale-free proporti
 [GBGWBWBG](/stripes/gbgwbwbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [East Tennessee State University](/tartans/e/ea/east-tennessee-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Royal Ashburn Golf Club** sett — one scale-free proportion (`y2g
 [GBRKGG](/stripes/gbrkgg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Royal Ashburn Golf Club](/tartans/r/ro/royal-ashburn-golf-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

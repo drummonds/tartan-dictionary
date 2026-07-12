@@ -6,6 +6,8 @@ This is the **Lynch Variant** sett — one scale-free proportion (`r12o3r7o52g4o
 [RGRRRR](/stripes/rgrrrr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Lynch Variant](/tartans/l/ly/lynch-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **RSCDS Australia? (Corporate)** sett — one scale-free proportion 
 [RBKWW](/stripes/rbkww/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [RSCDS Australia?](/tartans/r/rs/rscds-australia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hebridean, South Uist** sett — one scale-free proportion (`db19r
 [BRGRBRGGRGRBRGRGWR](/stripes/brgrbrggrgrbrgrgwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hebridean, South Uist](/tartans/h/he/hebridean-south-uist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

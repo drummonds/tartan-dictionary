@@ -6,6 +6,8 @@ This is the **Les Coeurs de Lions en Bleu** sett — one scale-free proportion (
 [GRGRGKWKWYWWW](/stripes/grgrgkwkwywww/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Les Coeurs de Lions en Bleu](/tartans/l/le/les-coeurs-de-lions-en-bleu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

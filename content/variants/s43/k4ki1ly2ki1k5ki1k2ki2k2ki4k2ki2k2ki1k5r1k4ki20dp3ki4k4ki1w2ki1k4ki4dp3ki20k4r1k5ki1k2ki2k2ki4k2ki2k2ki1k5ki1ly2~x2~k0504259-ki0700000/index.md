@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arnold"
+  url: "/tartans/a/ar/arnold-2/"
 - name: "Arnold (Name)"
   url: "/setts/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/).
+
+Part of the [Arnold](/tartans/a/ar/arnold-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [43 stripe tartan](/stripes/stripes43/).
 

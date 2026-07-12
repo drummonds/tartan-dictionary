@@ -6,6 +6,8 @@ This is the **Allen Hunting (?Thomson)** sett — one scale-free proportion (`lb
 [BGYWYWYWYWYWYWYWYWYWYWYRW](/stripes/bgywywywywywywywywywywyrw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Allen Hunting](/tartans/a/al/allen-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

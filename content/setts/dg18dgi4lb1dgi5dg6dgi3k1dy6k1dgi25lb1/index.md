@@ -7,6 +7,8 @@ This is the **Mack of Stoneywood Hunting (Pers.)** sett — one scale-free propo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2012**.
 
+Part of the [Mack of Stoneywood Hunting](/tartans/m/ma/mack-of-stoneywood-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

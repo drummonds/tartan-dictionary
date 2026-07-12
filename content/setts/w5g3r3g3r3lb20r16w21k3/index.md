@@ -6,6 +6,8 @@ This is the **Oliver Dress, Pink (Dance?)** sett — one scale-free proportion (
 [KWRWRGRGW](/stripes/kwrwrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Oliver Dress, Pink](/tartans/o/ol/oliver-dress-pink/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

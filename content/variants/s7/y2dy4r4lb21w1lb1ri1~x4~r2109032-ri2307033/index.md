@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edinburgh Fire"
+  url: "/tartans/e/ed/edinburgh-fire/"
 - name: "Edinburgh Fire (Corporate)"
   url: "/setts/y2dy4r4lb21w1lb1ri1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2dy4r4lb21w1lb1ri1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRWWWR](/stripes/ggrwwwr/).
+
+Part of the [Edinburgh Fire](/tartans/e/ed/edinburgh-fire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

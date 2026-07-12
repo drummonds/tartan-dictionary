@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Little"
+  url: "/clan/little/"
+- name: "Little of Morton Rigg"
+  url: "/families/little-of-morton-rigg/"
+- name: "Little of Morton Rigg"
+  url: "/tartans/l/li/little-of-morton-rigg/"
 - name: "Little of Morton Rigg Red (Personal)"
   url: "/setts/k3lb1k32db6k4db16k3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lb1k32db6k4db16k3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBKBKR](/stripes/kwkbkbkr/).
+
+Part of the [Little of Morton Rigg](/tartans/l/li/little-of-morton-rigg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

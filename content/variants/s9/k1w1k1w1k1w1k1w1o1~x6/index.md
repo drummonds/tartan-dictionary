@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dupplin"
+  url: "/tartans/d/du/dupplin/"
 - name: "Dupplin (Estate Check)"
   url: "/setts/k1w1k1w1k1w1k1w1o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1w1k1w1k1w1k1w1o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWR](/stripes/kwkwkwkwr/).
+
+Part of the [Dupplin](/tartans/d/du/dupplin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

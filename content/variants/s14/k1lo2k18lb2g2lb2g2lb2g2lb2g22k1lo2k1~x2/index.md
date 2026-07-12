@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hammarby Football Club"
+  url: "/tartans/h/ha/hammarby-football-club/"
+- name: "Hammarby Football Club"
   url: "/setts/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKGWGWGWGWKYK](/stripes/kykgwgwgwgwkyk/).
+
+Part of the [Hammarby Football Club](/tartans/h/ha/hammarby-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Purdy"
+  url: "/tartans/p/pu/purdy/"
 - name: "Purdy Black (Illinois)"
   url: "/setts/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
+
+Part of the [Purdy](/tartans/p/pu/purdy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

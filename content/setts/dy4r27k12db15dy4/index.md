@@ -6,7 +6,7 @@ This is the **Aberdeen University (1992)** sett — one scale-free proportion (`
 [GBKRG](/stripes/gbkrg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Aberdeen University](/tartans/aberdeen-university/) tartan — the named design grouping this sett with its kin.
+Part of the [Aberdeen University](/tartans/a/ab/aberdeen-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

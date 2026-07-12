@@ -6,6 +6,8 @@ This is the **Bute Heather, Hunting (Fashion)** sett — one scale-free proporti
 [BGBKBKBKBKB](/stripes/bgbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Bute Heather, Hunting](/tartans/b/bu/bute-heather-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "English"
+  url: "/tartans/e/en/english/"
 - name: "English Kilt (Fashion)"
   url: "/setts/w10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RW](/stripes/rw/).
+
+Part of the [English](/tartans/e/en/english/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

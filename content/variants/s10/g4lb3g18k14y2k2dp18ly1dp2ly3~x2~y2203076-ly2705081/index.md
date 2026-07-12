@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caisteal Leòdhais"
+  url: "/tartans/c/ca/caisteal-le-dhais/"
+- name: "Caisteal Leòdhais"
   url: "/setts/g4lb3g18k14y2k2dp18ly1dp2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4lb3g18k14y2k2dp18ly1dp2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGKGKBYBY](/stripes/gwgkgkbyby/).
+
+Part of the [Caisteal Leòdhais](/tartans/c/ca/caisteal-le-dhais/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

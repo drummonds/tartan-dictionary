@@ -7,6 +7,8 @@ This is the **Stewart Royal** sett — one scale-free proportion (`r36db4k6y1k1w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Stewart Royal](/tartans/s/st/stewart-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacRurie/MacRory** sett — one scale-free proportion (`r8g10r2g10
 [RGRGRGRGRGRGR](/stripes/rgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [MacRory](/tartans/m/ma/macrory/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

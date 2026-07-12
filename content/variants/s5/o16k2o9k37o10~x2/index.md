@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Spring"
+  url: "/tartans/h/hi/highland-spring-3/"
 - name: "Highland Spring (1985) (Corporate)"
   url: "/setts/o16k2o9k37o10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o16k2o9k37o10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKKKKKRKR](/stripes/rkkkkkrkr/).
+
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

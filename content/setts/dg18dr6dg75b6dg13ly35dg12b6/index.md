@@ -6,6 +6,8 @@ This is the **Glenlivet Check (Corporate)** sett — one scale-free proportion (
 [BGYGBGBG](/stripes/bgygbgbg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Glenlivet Check](/tartans/g/gl/glenlivet-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

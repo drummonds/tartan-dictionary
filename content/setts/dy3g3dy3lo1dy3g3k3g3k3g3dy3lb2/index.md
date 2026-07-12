@@ -6,7 +6,7 @@ This is the **Buchanan Hunting (Scott Adie) #2** sett — one scale-free proport
 [GGGYGGKGKGGW](/stripes/gggyggkgkggw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [Buchanan Hunting](/tartans/buchanan-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Buchanan Hunting](/tartans/b/bu/buchanan-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

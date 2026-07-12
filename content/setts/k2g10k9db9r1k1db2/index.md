@@ -6,6 +6,8 @@ This is the **Reid and Taylor** sett — one scale-free proportion (`k2g10k9db9r
 [BKRBKGK](/stripes/bkrbkgk/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Reid and Taylor](/tartans/r/re/reid-and-taylor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

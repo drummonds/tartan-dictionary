@@ -6,6 +6,8 @@ This is the **Lorne - Marquis of (Personal)** sett — one scale-free proportion
 [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/). It is recorded as a single **variant**, below.
 First attested **1871**.
 
+Part of the [Lorne](/tartans/l/lo/lorne-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

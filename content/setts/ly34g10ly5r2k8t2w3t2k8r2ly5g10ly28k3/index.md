@@ -6,7 +6,7 @@ This is the **Lambert Hunting (Personal)** sett — one scale-free proportion (`
 [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Lambert Hunting](/tartans/lambert-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Lambert Hunting](/tartans/l/la/lambert-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

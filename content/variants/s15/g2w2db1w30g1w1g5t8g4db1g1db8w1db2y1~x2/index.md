@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Borderland Dress"
+  url: "/tartans/b/bo/borderland-dress/"
 - name: "Borderland Dress (Estimated threadcount)"
   url: "/setts/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBGBGBGWGWBWG](/stripes/gbwbgbgbgwgwbwg/).
+
+Part of the [Borderland Dress](/tartans/b/bo/borderland-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

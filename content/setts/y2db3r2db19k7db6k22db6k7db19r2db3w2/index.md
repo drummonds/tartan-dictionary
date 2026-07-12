@@ -6,6 +6,8 @@ This is the **MacIver of Strome (Personal)** sett — one scale-free proportion 
 [GBRBKBKBKBRBW](/stripes/gbrbkbkbkbrbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacIver of Strome](/tartans/m/ma/maciver-of-strome/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Beatrice, Princess.."
+  url: "/tartans/b/be/beatrice-princess/"
 - name: "Beatrice, Princess.. (hunting)"
   url: "/setts/b15g5b5g60b13g10db67g5k5g5k5g13y10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b15g5b5g60b13g10db67g5k5g5k5g13y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGKGKGG](/stripes/bgbgbgbgkgkgg/).
+
+Part of the [Beatrice, Princess..](/tartans/b/be/beatrice-princess/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

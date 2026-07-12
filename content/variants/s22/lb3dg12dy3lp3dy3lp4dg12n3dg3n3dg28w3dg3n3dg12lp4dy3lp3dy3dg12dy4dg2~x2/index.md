@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cox"
+  url: "/tartans/c/co/cox-2/"
+- name: "Cox"
   url: "/setts/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWGWGBGWGBGBGWGWGGW](/stripes/ggggwgwgbgwgbgbgwgwggw/).
+
+Part of the [Cox](/tartans/c/co/cox-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

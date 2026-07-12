@@ -6,6 +6,8 @@ This is the **NEWYORKER** sett — one scale-free proportion (`dr3k1w12k2b2k2ki1
 [BKWKBKKWK](/stripes/bkwkbkkwk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [NEWYORKER](/tartans/n/ne/newyorker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

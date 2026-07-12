@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Franconian"
+  url: "/tartans/f/fr/franconian-2/"
+- name: "Franconian"
   url: "/setts/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBGBGBRBGBGBGBGBGBBBGRGWGRGB](/stripes/bbgbgbgbgbrbgbgbgbgbgbbbgrgwgrgb/).
+
+Part of the [Franconian](/tartans/f/fr/franconian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

@@ -6,6 +6,8 @@ This is the **Burns Battalion (Fashion)** sett — one scale-free proportion (`d
 [GBGGGBGBWG](/stripes/gbgggbgbwg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Burns Battalion](/tartans/b/bu/burns-battalion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kerr of Ardgowan Hunting (Personal)** sett — one scale-free prop
 [GYGRGGBGGWGRY](/stripes/gygrggbggwgry/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kerr of Ardgowan Hunting](/tartans/k/ke/kerr-of-ardgowan-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

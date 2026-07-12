@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keith Stanhope Society"
+  url: "/tartans/k/ke/keith-stanhope-society/"
 - name: "Keith Stanhope Society (Commem.)"
   url: "/setts/db40r4db10dg10g22ly3g4lyi3g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40r4db10dg10g22ly3g4lyi3g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGGYGYG](/stripes/brbggygyg/).
+
+Part of the [Keith Stanhope Society](/tartans/k/ke/keith-stanhope-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Blue Brough from Orkney** sett — one scale-free proportion (`k4n
 [BKBBKRKBBGBBK](/stripes/bkbbkrkbbgbbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Blue Brough from Orkney](/tartans/b/bl/blue-brough-from-orkney/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

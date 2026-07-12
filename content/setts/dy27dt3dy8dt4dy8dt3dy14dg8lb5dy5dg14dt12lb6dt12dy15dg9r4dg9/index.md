@@ -6,6 +6,8 @@ This is the **Turcan Connell** sett — one scale-free proportion (`dy27dt3dy8dt
 [GBGBGBGGWGGBWBGGRG](/stripes/gbgbgbggwggbwbggrg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Turcan Connell](/tartans/t/tu/turcan-connell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

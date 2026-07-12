@@ -6,6 +6,8 @@ This is the **Londonderry Irish County Tartan** sett — one scale-free proporti
 [GKRKGYRKGKRYG](/stripes/gkrkgyrkgkryg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Londonderry Irish County](/tartans/l/lo/londonderry-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

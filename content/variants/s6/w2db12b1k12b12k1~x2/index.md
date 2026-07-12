@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dutch"
+  url: "/tartans/d/du/dutch-2/"
+- name: "Dutch"
   url: "/setts/w2db12b1k12b12k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db12b1k12b12k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBW](/stripes/kbkbbw/).
+
+Part of the [Dutch](/tartans/d/du/dutch-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

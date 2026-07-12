@@ -6,6 +6,8 @@ This is the **BC Corps of Commissionaires, The** sett — one scale-free proport
 [BWRWRWB](/stripes/bwrwrwb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [BC Corps of Commissionaires, The](/tartans/b/bc/bc-corps-of-commissionaires-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

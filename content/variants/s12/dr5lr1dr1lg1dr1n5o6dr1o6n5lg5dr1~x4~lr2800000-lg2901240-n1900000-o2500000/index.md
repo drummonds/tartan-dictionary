@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lakin"
+  url: "/tartans/l/la/lakin/"
 - name: "Lakin (Personal)"
   url: "/setts/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5lr1dr1lg1dr1n5o6dr1o6n5lg5dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBRBRBBYBYB](/stripes/bybrbrbbybyb/).
+
+Part of the [Lakin](/tartans/l/la/lakin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

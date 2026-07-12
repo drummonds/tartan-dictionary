@@ -6,6 +6,8 @@ This is the **MacMaster Clan/Family Tartan** sett — one scale-free proportion 
 [KBGBGWGBGBKW](/stripes/kbgbgwgbgbkw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [MacMaster](/tartans/m/ma/macmaster-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

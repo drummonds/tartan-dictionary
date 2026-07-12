@@ -6,6 +6,8 @@ This is the **Pearl of the Orient** sett — one scale-free proportion (`dp4dbi2
 [BBBBGWGGRGBRW](/stripes/bbbbgwggrgbrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Pearl of the Orient](/tartans/p/pe/pearl-of-the-orient/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gavin (Personal)** sett — one scale-free proportion (`wi26w2wi3d
 [BBBWWW](/stripes/bbbwww/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Gavin](/tartans/g/ga/gavin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Arundel County (District)** sett — one scale-free proportion (`k
 [GKBKKKK](/stripes/gkbkkkk/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Arundel County](/tartans/a/ar/arundel-county-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

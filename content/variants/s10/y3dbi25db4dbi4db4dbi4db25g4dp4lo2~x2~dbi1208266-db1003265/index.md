@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Peter"
+  url: "/tartans/b/bl/blue-peter/"
+- name: "Blue Peter"
   url: "/setts/y3dbi25db4dbi4db4dbi4db25g4dp4lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dbi25db4dbi4db4dbi4db25g4dp4lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBBGBY](/stripes/gbbbbbbgby/).
+
+Part of the [Blue Peter](/tartans/b/bl/blue-peter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

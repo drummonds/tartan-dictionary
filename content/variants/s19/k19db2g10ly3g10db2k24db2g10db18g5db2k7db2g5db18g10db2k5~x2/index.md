@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Offally Irish County"
+  url: "/tartans/o/of/offally-irish-county/"
 - name: "Offally Irish County Tartan"
   url: "/setts/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGBKBGBGBKBGYGBK](/stripes/kbgbgbkbgbgbkbgygbk/).
+
+Part of the [Offally Irish County](/tartans/o/of/offally-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -6,6 +6,8 @@ This is the **Welsh Assembly** sett — one scale-free proportion (`n9g4w5g30r2g
 [BGWGRGRGRGWGBG](/stripes/bgwgrgrgrgwgbg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Welsh Assembly](/tartans/w/we/welsh-assembly-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

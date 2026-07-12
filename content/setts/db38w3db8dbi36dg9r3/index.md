@@ -6,6 +6,8 @@ This is the **Waters of Georgian Bay (District)** sett — one scale-free propor
 [BWBBGR](/stripes/bwbbgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Waters of Georgian Bay](/tartans/w/wa/waters-of-georgian-bay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

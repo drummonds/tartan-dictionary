@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochaber"
+  url: "/tartans/l/lo/lochaber-3/"
 - name: "Lochaber (Scrapbook)"
   url: "/setts/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBGYGYGYG](/stripes/bbbbbbbgygygyg/).
+
+Part of the [Lochaber](/tartans/l/lo/lochaber-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

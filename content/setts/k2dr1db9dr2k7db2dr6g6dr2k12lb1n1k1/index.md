@@ -6,6 +6,8 @@ This is the **Oban (District?)** sett — one scale-free proportion (`k2dr1db9dr
 [KBBBKBBGBKWBK](/stripes/kbbbkbbgbkwbk/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Oban](/tartans/o/ob/oban-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

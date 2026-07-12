@@ -6,6 +6,8 @@ This is the **Corps Suevia Heidelburg** sett — one scale-free proportion (`dy2
 [GKWGKGWKGKGWGKGKGKGWGKGKWGKGWK](/stripes/gkwgkgwkgkgwgkgkgkgwgkgkwgkgwk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Corps Suevia Heidelburg](/tartans/c/co/corps-suevia-heidelburg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

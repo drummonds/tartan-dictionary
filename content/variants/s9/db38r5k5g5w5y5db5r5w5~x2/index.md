@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eljamel, Sam"
+  url: "/tartans/e/el/eljamel-sam/"
 - name: "Eljamel, Sam (Personal)"
   url: "/setts/db38r5k5g5w5y5db5r5w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db38r5k5g5w5y5db5r5w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGWGBRW](/stripes/brkgwgbrw/).
+
+Part of the [Eljamel, Sam](/tartans/e/el/eljamel-sam/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

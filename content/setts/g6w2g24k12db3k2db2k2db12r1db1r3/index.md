@@ -7,6 +7,8 @@ This is the **Sutherland** sett — one scale-free proportion (`g6w2g24k12db3k2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1829**.
 
+Part of the [Sutherland](/tartans/s/su/sutherland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

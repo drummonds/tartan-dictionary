@@ -6,6 +6,8 @@ This is the **Fife Ethylene Plant** sett — one scale-free proportion (`dg35db4
 [GBWGG](/stripes/gbwgg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Fife Ethylene Plant](/tartans/f/fi/fife-ethylene-plant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

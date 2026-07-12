@@ -6,6 +6,8 @@ This is the **Westgaard Ladies' (Personal)** sett — one scale-free proportion 
 [BWBBWKWBBWKW](/stripes/bwbbwkwbbwkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Westgaard Ladies'](/tartans/w/we/westgaard-ladies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Buchanan(Mtd)MacGregor Hastie V. Tartan** sett — one scale-free 
 [BKGBGKBKGKGKBKBWBKBKGKGK](/stripes/bkgbgkbkgkgkbkbwbkbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [BuchananMacGregor Hastie](/tartans/b/bu/buchananmacgregor-hastie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Angle"
-  url: "/tartans/angle/"
+  url: "/tartans/a/an/angle/"
 - name: "Angle, Green (Fashion)"
   url: "/setts/ly1dg11k6dg3ly1dg1ly1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly1dg11k6dg3ly1dg1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGKGYGY](/stripes/ygkgygy/).
 
-Part of the [Angle](/tartans/angle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Angle](/tartans/a/an/angle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

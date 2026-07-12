@@ -6,6 +6,8 @@ This is the **Heritage** sett — one scale-free proportion (`dg24k24db24k5db8r5
 [GGKBKBRBKBKG](/stripes/ggkbkbrbkbkg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Heritage](/tartans/h/he/heritage-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

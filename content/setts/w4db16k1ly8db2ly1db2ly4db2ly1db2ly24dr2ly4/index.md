@@ -6,6 +6,8 @@ This is the **New Jersey** sett — one scale-free proportion (`w4db16k1ly8db2ly
 [WBKYBYBYBYBYBY](/stripes/wbkybybybybyby/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [New Jersey](/tartans/n/ne/new-jersey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Boxing Scotland** sett — one scale-free proportion (`db26r2t16db
 [BRBBBRWG](/stripes/brbbbrwg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Boxing Scotland](/tartans/b/bo/boxing-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

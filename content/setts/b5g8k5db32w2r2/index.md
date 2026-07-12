@@ -6,6 +6,8 @@ This is the **Marion (Personal)** sett — one scale-free proportion (`b5g8k5db3
 [BGKBWR](/stripes/bgkbwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Marion](/tartans/m/ma/marion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

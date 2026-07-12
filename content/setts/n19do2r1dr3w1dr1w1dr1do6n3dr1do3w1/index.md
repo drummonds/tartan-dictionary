@@ -6,6 +6,8 @@ This is the **Leando Hunting (Personal)** sett — one scale-free proportion (`n
 [BBRBWBWBBBBBW](/stripes/bbrbwbwbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Leando Hunting](/tartans/l/le/leando-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

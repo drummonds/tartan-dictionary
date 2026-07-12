@@ -6,6 +6,8 @@ This is the **Braveheart -Warrior (hunting)** sett — one scale-free proportion
 [GBKBGKBKBKRK](/stripes/gbkbgkbkbkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Braveheart -Warrior](/tartans/b/br/braveheart-warrior/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

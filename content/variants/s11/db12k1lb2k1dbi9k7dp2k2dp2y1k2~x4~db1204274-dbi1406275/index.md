@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Churchill"
-  url: "/tartans/churchill/"
+  url: "/tartans/c/ch/churchill/"
 - name: "Churchill (Personal)"
   url: "/setts/db12k1lb2k1dbi9k7dp2k2dp2y1k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db12k1lb2k1dbi9k7dp2k2dp2y1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBKBKBGK](/stripes/bkwkbkbkbgk/).
 
-Part of the [Churchill](/tartans/churchill/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Churchill](/tartans/c/ch/churchill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

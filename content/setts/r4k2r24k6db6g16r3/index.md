@@ -6,6 +6,8 @@ This is the **MacDuff #4** sett — one scale-free proportion (`r4k2r24k6db6g16r
 [RGBKRKR](/stripes/rgbkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDuff](/tartans/m/ma/macduff-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

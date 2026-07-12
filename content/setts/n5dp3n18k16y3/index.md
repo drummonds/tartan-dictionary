@@ -6,6 +6,8 @@ This is the **New York State Police Pipe Band** sett — one scale-free proporti
 [BBBKG](/stripes/bbbkg/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [New York State Police](/tartans/n/ne/new-york-state-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Birch"
-  url: "/tartans/birch/"
+  url: "/tartans/b/bi/birch/"
 - name: "Birch Family Tartan"
   url: "/setts/g3dp4g23k10r2k10lb18k1w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3dp4g23k10r2k10lb18k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKRKWKW](/stripes/gbgkrkwkw/).
 
-Part of the [Birch](/tartans/birch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Birch](/tartans/b/bi/birch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

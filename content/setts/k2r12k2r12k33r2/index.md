@@ -6,7 +6,7 @@ This is the **Cameron Black & Red (Dress)** sett — one scale-free proportion (
 [KRKRKR](/stripes/krkrkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Cameron Black &](/tartans/cameron-black/) tartan — the named design grouping this sett with its kin.
+Part of the [Cameron Black &](/tartans/c/ca/cameron-black/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

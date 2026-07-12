@@ -6,6 +6,8 @@ This is the **Erskine Blue Dress Clan Tartan** sett — one scale-free proportio
 [WWWWWW](/stripes/wwwwww/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Erskine Blue Dress](/tartans/e/er/erskine-blue-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

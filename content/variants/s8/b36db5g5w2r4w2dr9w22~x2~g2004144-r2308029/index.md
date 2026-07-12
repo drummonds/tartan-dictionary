@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Canterbury Centre P. & D. Assoc., Jubilee"
+  url: "/tartans/s/so/south-canterbury-centre-p-d-assoc-jubilee/"
+- name: "South Canterbury Centre P. & D. Assoc., Jubilee"
   url: "/setts/b36db5g5w2r4w2dr9w22/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b36db5g5w2r4w2dr9w22/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWRWBW](/stripes/bbgwrwbw/).
+
+Part of the [South Canterbury Centre P. & D. Assoc., Jubilee](/tartans/s/so/south-canterbury-centre-p-d-assoc-jubilee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

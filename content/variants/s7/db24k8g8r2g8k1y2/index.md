@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLaren"
-  url: "/tartans/maclaren-3/"
+  url: "/tartans/m/ma/maclaren-3/"
 - name: "MacLaren"
   url: "/setts/db24k8g8r2g8k1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db24k8g8r2g8k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGKG](/stripes/bkgrgkg/).
 
-Part of the [MacLaren](/tartans/maclaren-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLaren](/tartans/m/ma/maclaren-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

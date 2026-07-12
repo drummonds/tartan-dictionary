@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Cultural Society Ltd"
+  url: "/tartans/s/sc/scottish-cultural-society-ltd/"
+- name: "Scottish Cultural Society Ltd"
   url: "/setts/w3db1w1db3k1y1k8g3dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db1w1db3k1y1k8g3dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKBWBW](/stripes/bgkgkbwbw/).
+
+Part of the [Scottish Cultural Society Ltd](/tartans/s/sc/scottish-cultural-society-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

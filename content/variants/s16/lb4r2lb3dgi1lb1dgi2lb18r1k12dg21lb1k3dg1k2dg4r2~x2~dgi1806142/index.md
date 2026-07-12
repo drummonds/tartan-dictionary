@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Munster"
-  url: "/tartans/munster/"
+  url: "/tartans/m/mu/munster/"
 - name: "Munster Irish District Tartan"
   url: "/setts/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGWGWRKGWKGKGRGKGKWGKRWGWGWRW](/stripes/rwgwgwrkgwkgkgrgkgkwgkrwgwgwrw/).
 
-Part of the [Munster](/tartans/munster/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Munster](/tartans/m/mu/munster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
 

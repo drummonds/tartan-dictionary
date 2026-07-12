@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Me to You"
+  url: "/tartans/m/me/me-to-you/"
+- name: "Me to You"
   url: "/setts/db32w3db3y3k3g3k3r10db6k3db3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db32w3db3y3k3g3k3r10db6k3db3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGKGKRBKBG](/stripes/bwbgkgkrbkbg/).
+
+Part of the [Me to You](/tartans/m/me/me-to-you/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

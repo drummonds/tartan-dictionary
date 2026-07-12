@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laidlaw's Highland Drovers"
-  url: "/tartans/laidlaw-s-highland-drovers/"
+  url: "/tartans/l/la/laidlaw-s-highland-drovers/"
 - name: "Laidlaw's Highland Drovers"
   url: "/setts/db35k10db4w2db3r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db35k10db4w2db3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBR](/stripes/bkbwbr/).
 
-Part of the [Laidlaw's Highland Drovers](/tartans/laidlaw-s-highland-drovers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Laidlaw's Highland Drovers](/tartans/l/la/laidlaw-s-highland-drovers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

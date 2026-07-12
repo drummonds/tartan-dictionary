@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Russell"
+  url: "/tartans/r/ru/russell/"
 - name: "Russell (Clan)"
   url: "/setts/k3g10k10r3db8w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g10k10r3db8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRBW](/stripes/kgkrbw/).
+
+Part of the [Russell](/tartans/r/ru/russell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

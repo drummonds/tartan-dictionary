@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maynard"
+  url: "/tartans/m/ma/maynard/"
+- name: "Maynard"
   url: "/setts/y3r25k8r4db8w2db3w2db8r4g8r25y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3r25k8r4db8w2db3w2db8r4g8r25y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBWBWBRKRG](/stripes/grgrbwbwbrkrg/).
+
+Part of the [Maynard](/tartans/m/ma/maynard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

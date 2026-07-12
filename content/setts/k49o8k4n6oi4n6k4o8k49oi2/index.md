@@ -6,6 +6,8 @@ This is the **Harley Davidson** sett — one scale-free proportion (`k49o8k4n6oi
 [KRKBRBKRKR](/stripes/krkbrbkrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Harley Davidson](/tartans/h/ha/harley-davidson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

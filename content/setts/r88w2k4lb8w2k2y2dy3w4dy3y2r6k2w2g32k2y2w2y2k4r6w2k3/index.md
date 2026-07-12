@@ -6,6 +6,8 @@ This is the **MacLeod of Gesto #2** sett — one scale-free proportion (`r88w2k4
 [KWRKGWGKGWKRGGWGGKWWKWR](/stripes/kwrkgwgkgwkrggwggkwwkwr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacLeod of Gesto](/tartans/m/ma/macleod-of-gesto-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

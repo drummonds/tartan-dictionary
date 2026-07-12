@@ -10,7 +10,7 @@ crumbs:
 - name: "MacNeil of Colonsay"
   url: "/families/macneil-of-colonsay/"
 - name: "MacNeil of Colonsay"
-  url: "/tartans/macneil-of-colonsay-2/"
+  url: "/tartans/m/ma/macneil-of-colonsay-2/"
 - name: "MacNeil of Colonsay (Highland Society of London)"
   url: "/setts/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKGBRBRBW](/stripes/gkgkgkgbrbrbw/).
 
-Part of the [MacNeil of Colonsay](/tartans/macneil-of-colonsay-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNeil of Colonsay](/tartans/m/ma/macneil-of-colonsay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

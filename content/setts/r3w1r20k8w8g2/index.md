@@ -6,6 +6,8 @@ This is the **Nisbet Dress Rose (Dance)** sett — one scale-free proportion (`r
 [GWKRWR](/stripes/gwkrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Nisbet Dress Rose](/tartans/n/ni/nisbet-dress-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

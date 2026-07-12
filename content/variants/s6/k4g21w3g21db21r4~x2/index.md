@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Duncan"
+  url: "/clan/duncan/"
+- name: "Duncan"
+  url: "/tartans/d/du/duncan/"
 - name: "Duncan"
   url: "/setts/k4g21w3g21db21r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4g21w3g21db21r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGBR](/stripes/kgwgbr/).
+
+Part of the [Duncan](/tartans/d/du/duncan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

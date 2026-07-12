@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arbutus"
+  url: "/tartans/a/ar/arbutus/"
+- name: "Arbutus"
   url: "/setts/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YGBYGBGYYYGYGY](/stripes/ygbygbgyyygygy/).
+
+Part of the [Arbutus](/tartans/a/ar/arbutus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

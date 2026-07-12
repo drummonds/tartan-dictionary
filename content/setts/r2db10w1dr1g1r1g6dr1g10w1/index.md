@@ -6,6 +6,8 @@ This is the **Tennessee** sett — one scale-free proportion (`r2db10w1dr1g1r1g6
 [RBWBGRGBGW](/stripes/rbwbgrgbgw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Tennessee](/tartans/t/te/tennessee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

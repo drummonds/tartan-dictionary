@@ -6,6 +6,8 @@ This is the **MacDonald Dress** sett — one scale-free proportion (`db12r3db2r1
 [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [MacDonald Dress](/tartans/m/ma/macdonald-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

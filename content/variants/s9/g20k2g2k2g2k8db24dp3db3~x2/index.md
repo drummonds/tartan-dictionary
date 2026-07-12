@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacHarg"
+  url: "/tartans/m/ma/macharg/"
 - name: "MacHarg, Iain"
   url: "/setts/g20k2g2k2g2k8db24dp3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20k2g2k2g2k8db24dp3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGKGKG](/stripes/bbbkgkgkg/).
+
+Part of the [MacHarg](/tartans/m/ma/macharg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

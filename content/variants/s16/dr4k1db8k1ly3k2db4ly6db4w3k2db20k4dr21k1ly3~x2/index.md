@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westmeath County Crest"
+  url: "/tartans/w/we/westmeath-county-crest/"
 - name: "Westmeath County Crest (Fashion)"
   url: "/setts/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKYKBYBWKBKBKY](/stripes/bkbkykbybwkbkbky/).
+
+Part of the [Westmeath County Crest](/tartans/w/we/westmeath-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

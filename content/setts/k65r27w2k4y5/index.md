@@ -6,7 +6,7 @@ This is the **Perry, Ancient** sett — one scale-free proportion (`k65r27w2k4y5
 [GKWRK](/stripes/gkwrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Perry](/tartans/perry/) tartan — the named design grouping this sett with its kin.
+Part of the [Perry](/tartans/p/pe/perry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

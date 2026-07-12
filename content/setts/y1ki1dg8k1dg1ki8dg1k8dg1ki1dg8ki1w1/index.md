@@ -6,6 +6,8 @@ This is the **Robieson, Graham A. (Personal)** sett — one scale-free proportio
 [GKGKGKGKGKGKW](/stripes/gkgkgkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Robieson, Graham A.](/tartans/r/ro/robieson-graham-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

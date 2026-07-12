@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Langston"
+  url: "/tartans/l/la/langston/"
 - name: "Langston (Personal)"
   url: "/setts/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWGWGKGWGKRGRGRGR](/stripes/kgwgwgkgwgkrgrgrgr/).
+
+Part of the [Langston](/tartans/l/la/langston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Akins of Candler (Personal)** sett — one scale-free proportion (
 [GRGKBGBKRGRG](/stripes/grgkbgbkrgrg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Akins Hunting](/tartans/a/ak/akins-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wicklow County, Crest Range** sett — one scale-free proportion (
 [BBGBGBGBW](/stripes/bbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Wicklow County, Crest Range](/tartans/w/wi/wicklow-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

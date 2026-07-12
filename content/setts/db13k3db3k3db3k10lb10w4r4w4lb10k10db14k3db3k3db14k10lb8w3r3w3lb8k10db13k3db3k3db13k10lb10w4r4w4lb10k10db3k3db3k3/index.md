@@ -6,6 +6,8 @@ This is the **Palatine Union (Personal)** sett — one scale-free proportion (`d
 [BKBKBKWWRWWKBKBKBKWWRWWKBKBKBKWWRWWKBKBK](/stripes/bkbkbkwwrwwkbkbkbkwwrwwkbkbkbkwwrwwkbkbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Palatine Union](/tartans/p/pa/palatine-union/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

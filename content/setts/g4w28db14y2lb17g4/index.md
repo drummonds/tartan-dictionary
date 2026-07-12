@@ -6,6 +6,8 @@ This is the **Allanton Dress (Fashion)** sett — one scale-free proportion (`g4
 [GWBGWG](/stripes/gwbgwg/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Allanton Dress](/tartans/a/al/allanton-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

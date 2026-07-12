@@ -6,7 +6,7 @@ This is the **MacMichael Family Tartan** sett — one scale-free proportion (`r1
 [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [MacMichael](/tartans/macmichael/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMichael](/tartans/m/ma/macmichael/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

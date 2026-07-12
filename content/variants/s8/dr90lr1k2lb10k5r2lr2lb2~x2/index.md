@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lock in Northumberland"
-  url: "/tartans/lock-in-northumberland/"
+  url: "/tartans/l/lo/lock-in-northumberland/"
 - name: "Lock in Northumberland (Name)"
   url: "/setts/dr90lr1k2lb10k5r2lr2lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr90lr1k2lb10k5r2lr2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKWKRYW](/stripes/bykwkryw/).
 
-Part of the [Lock in Northumberland](/tartans/lock-in-northumberland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lock in Northumberland](/tartans/l/lo/lock-in-northumberland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

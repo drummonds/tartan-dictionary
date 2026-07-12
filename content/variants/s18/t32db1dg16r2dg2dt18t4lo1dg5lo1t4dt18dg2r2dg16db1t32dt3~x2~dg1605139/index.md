@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Heriot Watt University"
+  url: "/tartans/h/he/heriot-watt-university-2/"
+- name: "Heriot Watt University"
   url: "/setts/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGRGBBYGYBBGRGBB](/stripes/bbbgrgbbygybbgrgbb/).
+
+Part of the [Heriot Watt University](/tartans/h/he/heriot-watt-university-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

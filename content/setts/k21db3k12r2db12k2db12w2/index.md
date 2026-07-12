@@ -6,6 +6,8 @@ This is the **Inverness Caledonian Thistle Football Club** sett — one scale-fr
 [KBKRBKBW](/stripes/kbkrbkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Inverness Caledonian Thistle Football Club](/tartans/i/in/inverness-caledonian-thistle-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

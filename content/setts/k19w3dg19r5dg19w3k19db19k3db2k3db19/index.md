@@ -6,6 +6,8 @@ This is the **Fruin Colquhoun** sett — one scale-free proportion (`k19w3dg19r5
 [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Fruin Colquhoun](/tartans/f/fr/fruin-colquhoun/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

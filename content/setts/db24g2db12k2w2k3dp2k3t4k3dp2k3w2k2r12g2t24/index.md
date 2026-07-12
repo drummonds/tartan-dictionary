@@ -7,6 +7,8 @@ This is the **Selkirk, New** sett — one scale-free proportion (`db24g2db12k2w2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Selkirk, New](/tartans/s/se/selkirk-new/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Bermuda (1986)** sett — one scale-free proportion (`lb4w2g17lb17
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1986**.
 
+Part of the [Bermuda](/tartans/b/be/bermuda-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

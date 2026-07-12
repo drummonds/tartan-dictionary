@@ -6,6 +6,8 @@ This is the **Concours of Elegance** sett — one scale-free proportion (`db130k
 [BKRKRKBBBBG](/stripes/bkrkrkbbbbg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Concours of Elegance](/tartans/c/co/concours-of-elegance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lusk (Personal)** sett — one scale-free proportion (`k2g30k3dbi4
 [KGKBKBWKR](/stripes/kgkbkbwkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Lusk](/tartans/l/lu/lusk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

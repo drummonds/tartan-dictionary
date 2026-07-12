@@ -6,6 +6,8 @@ This is the **Brehat (Personal)** sett — one scale-free proportion (`g30dp4r6w
 [GBRWBBKWBGW](/stripes/gbrwbbkwbgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Brehat](/tartans/b/br/brehat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

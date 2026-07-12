@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Baru"
+  url: "/tartans/b/ba/baru/"
+- name: "Baru"
   url: "/setts/dp23dg8dp23dg35w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp23dg8dp23dg35w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
+
+Part of the [Baru](/tartans/b/ba/baru/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Abel (2015)** sett — one scale-free proportion (`db22g22w6db4y7g
 [BGWBGGBKRBKBRK](/stripes/bgwbggbkrbkbrk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Abel](/tartans/a/ab/abel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

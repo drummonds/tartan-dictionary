@@ -6,7 +6,7 @@ This is the **Bavidge** sett — one scale-free proportion (`db92k14db18dbi5db5d
 [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bavidge](/tartans/bavidge/) tartan — the named design grouping this sett with its kin.
+Part of the [Bavidge](/tartans/b/ba/bavidge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

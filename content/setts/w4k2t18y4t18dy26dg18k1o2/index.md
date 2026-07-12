@@ -6,6 +6,8 @@ This is the **Hughes Interconnection Int.** sett — one scale-free proportion (
 [KGGBGBKWKBGBGGKR](/stripes/kggbgbkwkbgbggkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Hughes Interconnection Int.](/tartans/h/hu/hughes-interconnection-int/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

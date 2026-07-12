@@ -6,6 +6,8 @@ This is the **Keirnan Irish Family Tartan** sett — one scale-free proportion (
 [WGKRKRKRGW](/stripes/wgkrkrkrgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Keirnan](/tartans/k/ke/keirnan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

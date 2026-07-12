@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Easton"
-  url: "/tartans/easton/"
+  url: "/tartans/e/ea/easton/"
 - name: "Easton (2014)"
   url: "/setts/n3db2w1db50y1db2r3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n3db2w1db50y1db2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBGBR](/stripes/bbwbgbr/).
 
-Part of the [Easton](/tartans/easton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Easton](/tartans/e/ea/easton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

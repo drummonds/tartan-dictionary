@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "College of William & Mary Schools"
+  url: "/tartans/c/co/college-of-william-mary-schools/"
 - name: "College of William & Mary Schools Tartan"
   url: "/setts/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGBWBGGGGGGGBK](/stripes/bgggggggbwbgggggggbk/).
+
+Part of the [College of William & Mary Schools](/tartans/c/co/college-of-william-mary-schools/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brown"
+  url: "/clan/brown/"
+- name: "Brown of Castledean"
+  url: "/families/brown-of-castledean/"
+- name: "Brown of Castledean"
+  url: "/tartans/b/br/brown-of-castledean/"
 - name: "Brown of Castledean (Artefact)"
   url: "/setts/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/).
+
+Part of the [Brown of Castledean](/tartans/b/br/brown-of-castledean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

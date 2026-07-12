@@ -6,6 +6,8 @@ This is the **Equorian Olympic Commemorative Tartan** sett — one scale-free pr
 [BBYGYYGYBBBYGYYGYBBBYGYYGYYGYYGYB](/stripes/bbygyygybbbygyygybbbygyygyygyygyb/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Equorian Olympic Commemorative](/tartans/e/eq/equorian-olympic-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

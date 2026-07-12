@@ -6,6 +6,8 @@ This is the **Unidentified Printing #2** sett — one scale-free proportion (`dg
 [GYBYBYGYBY](/stripes/gybybygyby/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Unidentified Printing](/tartans/u/un/unidentified-printing-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

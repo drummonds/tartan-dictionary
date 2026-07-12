@@ -6,6 +6,8 @@ This is the **Reeves (2015)** sett — one scale-free proportion (`db36lb2db4lb3
 [BWBWBWWRGWKGKBKRW](/stripes/bwbwbwwrgwkgkbkrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Reeves](/tartans/r/re/reeves/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

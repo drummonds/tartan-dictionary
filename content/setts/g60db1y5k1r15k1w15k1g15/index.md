@@ -6,6 +6,8 @@ This is the **Michael Pellicci (Personal)** sett — one scale-free proportion (
 [GBGKRKWKG](/stripes/gbgkrkwkg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Michael Pellicci](/tartans/m/mi/michael-pellicci/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Perry (2014)** sett — one scale-free proportion (`k31r12y2n5k2`)
 [KBGRK](/stripes/kbgrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Perry](/tartans/perry/) tartan — the named design grouping this sett with its kin.
+Part of the [Perry](/tartans/p/pe/perry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

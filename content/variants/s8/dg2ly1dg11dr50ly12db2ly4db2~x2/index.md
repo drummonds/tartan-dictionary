@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Slessor"
+  url: "/tartans/s/sl/slessor/"
 - name: "Slessor (Personal)"
   url: "/setts/dg2ly1dg11dr50ly12db2ly4db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2ly1dg11dr50ly12db2ly4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBYBYBYBYBGY](/stripes/gygbybybybybgy/).
+
+Part of the [Slessor](/tartans/s/sl/slessor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

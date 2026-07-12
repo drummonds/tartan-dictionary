@@ -6,7 +6,7 @@ This is the **Lennox** sett — one scale-free proportion (`ri2r1ri10r2g10w1g2`)
 [GWGRRRR](/stripes/gwgrrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Lennox](/tartans/lennox/) tartan — the named design grouping this sett with its kin.
+Part of the [Lennox](/tartans/l/le/lennox/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

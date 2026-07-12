@@ -6,6 +6,8 @@ This is the **Mountain Rescue Association Honor Guard** sett — one scale-free 
 [KBKBKBW](/stripes/kbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Mountain Rescue Association Honor Guard](/tartans/m/mo/mountain-rescue-association-honor-guard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

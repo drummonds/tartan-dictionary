@@ -6,6 +6,8 @@ This is the **X Marks the Scot** sett — one scale-free proportion (`w6db32n3db
 [GBBBBBBBBW](/stripes/gbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [X Marks the Scot](/tartans/x/x/x-marks-the-scot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

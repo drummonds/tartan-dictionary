@@ -6,6 +6,8 @@ This is the **Murray of Tullibardine (plaid)** sett — one scale-free proportio
 [BRBRBRBRGRBRBRGRGRBRG](/stripes/brbrbrbrgrbrbrgrgrbrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Murray of Tullibardine](/tartans/m/mu/murray-of-tullibardine-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

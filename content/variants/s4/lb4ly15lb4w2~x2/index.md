@@ -9,12 +9,16 @@ crumbs:
   url: "/groups/ancient/"
 - name: "Tarim Basin"
   url: "/groups/ancient/tarim-basin/"
+- name: "Takla Makan"
+  url: "/tartans/t/ta/takla-makan/"
 - name: "Takla Makan #2 (Artefact)"
   url: "/setts/lb4ly15lb4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4ly15lb4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWYW](/stripes/wwyw/).
+
+Part of the [Takla Makan](/tartans/t/ta/takla-makan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

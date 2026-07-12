@@ -6,6 +6,8 @@ This is the **Association Cornemuses du Monde** sett — one scale-free proporti
 [RKBKBKBGKBGWKR](/stripes/rkbkbkbgkbgwkr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Association Cornemuses du Monde](/tartans/a/as/association-cornemuses-du-monde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

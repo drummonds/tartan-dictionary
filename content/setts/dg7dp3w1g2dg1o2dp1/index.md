@@ -6,6 +6,8 @@ This is the **Lindley-Highfield of Ballumbie Castle** sett — one scale-free pr
 [BRGGWBG](/stripes/brggwbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Lindley-Highfield of Ballumbie Castle](/tartans/l/li/lindley-highfield-of-ballumbie-castle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

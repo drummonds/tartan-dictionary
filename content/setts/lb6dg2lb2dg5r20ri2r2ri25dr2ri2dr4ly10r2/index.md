@@ -6,6 +6,8 @@ This is the **Strathtay (District?)** sett — one scale-free proportion (`lb6dg
 [RYBRBRRRRGWGW](/stripes/rybrbrrrrgwgw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Strathtay](/tartans/s/st/strathtay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

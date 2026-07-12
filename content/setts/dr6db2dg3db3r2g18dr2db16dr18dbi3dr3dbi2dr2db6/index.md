@@ -6,6 +6,8 @@ This is the **Minster** sett — one scale-free proportion (`dr6db2dg3db3r2g18dr
 [BBBBBBBBGRBGBB](/stripes/bbbbbbbbgrbgbb/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Minster](/tartans/m/mi/minster-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

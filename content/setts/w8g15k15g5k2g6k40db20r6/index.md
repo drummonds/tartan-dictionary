@@ -6,6 +6,8 @@ This is the **Luker (Personal)** sett — one scale-free proportion (`w8g15k15g5
 [RBKGKGKGW](/stripes/rbkgkgkgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Luker](/tartans/l/lu/luker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

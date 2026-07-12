@@ -6,6 +6,8 @@ This is the **Cummins (Personal)** sett — one scale-free proportion (`k9b5w5k9
 [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cummins](/tartans/c/cu/cummins/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

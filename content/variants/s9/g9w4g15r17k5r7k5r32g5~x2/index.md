@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Morrison LC"
+  url: "/tartans/m/mo/morrison-lc/"
+- name: "Morrison LC"
   url: "/setts/g9w4g15r17k5r7k5r32g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9w4g15r17k5r7k5r32g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRGWG](/stripes/grkrkrgwg/).
+
+Part of the [Morrison LC](/tartans/m/mo/morrison-lc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

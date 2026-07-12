@@ -6,6 +6,8 @@ This is the **Ryukoku University Heian Junior Corporate Tartan** sett — one sc
 [KBBWBWBWKR](/stripes/kbbwbwbwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ryukoku University Heian Junior](/tartans/r/ry/ryukoku-university-heian-junior/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

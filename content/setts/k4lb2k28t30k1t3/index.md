@@ -6,6 +6,8 @@ This is the **Ramsay Blue Hunting** sett — one scale-free proportion (`k4lb2k2
 [BKBKWK](/stripes/bkbkwk/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [Ramsay Blue Hunting](/tartans/r/ra/ramsay-blue-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

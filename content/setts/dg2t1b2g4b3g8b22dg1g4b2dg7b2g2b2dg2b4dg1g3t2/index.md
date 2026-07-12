@@ -6,6 +6,8 @@ This is the **Wiregrass (District)** sett — one scale-free proportion (`dg2t1b
 [BGGBGBGBGBGGBGBGBBG](/stripes/bggbgbgbgbggbgbgbbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wiregrass](/tartans/w/wi/wiregrass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

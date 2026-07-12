@@ -6,6 +6,8 @@ This is the **Int. College of Dentists (Canada)** sett — one scale-free propor
 [GYGKGKYGYKYGYKYGYKGWGK](/stripes/gygkgkygykygykygykgwgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Int. College of Dentists](/tartans/i/in/int-college-of-dentists-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacKenzie (Miniture) Clan Tartan** sett — one scale-free proport
 [BKBKBKGKWKGKBR](/stripes/bkbkbkgkwkgkbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacKenzie](/tartans/m/ma/mackenzie-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

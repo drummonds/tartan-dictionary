@@ -6,7 +6,7 @@ This is the **Amazing Union (Personal)** sett — one scale-free proportion (`r2
 [RBGBBBGBY](/stripes/rbgbbbgby/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Amazing Union](/tartans/amazing-union/) tartan — the named design grouping this sett with its kin.
+Part of the [Amazing Union](/tartans/a/am/amazing-union/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Historic Scotland (pre 1998) (Corp)** sett — one scale-free prop
 [BWBWBRKRK](/stripes/bwbwbrkrk/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

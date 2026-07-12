@@ -6,6 +6,8 @@ This is the **Commonwealth Variation** sett — one scale-free proportion (`db20
 [BBBBBKYKYKBBB](/stripes/bbbbbkykykbbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Commonwealth Variation](/tartans/c/co/commonwealth-variation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

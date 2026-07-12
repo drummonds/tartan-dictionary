@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bristow Helicopters"
+  url: "/tartans/b/br/bristow-helicopters/"
+- name: "Bristow Helicopters"
   url: "/setts/db28k1w1db2k1r2k1db2w1k1db15k16db3k16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28k1w1db2k1r2k1db2w1k1db15k16db3k16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKRKBWKBKBK](/stripes/bkwbkrkbwkbkbk/).
+
+Part of the [Bristow Helicopters](/tartans/b/br/bristow-helicopters/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

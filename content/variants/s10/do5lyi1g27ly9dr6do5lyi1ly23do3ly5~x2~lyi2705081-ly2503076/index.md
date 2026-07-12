@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Satisfashion Argyll"
+  url: "/tartans/s/sa/satisfashion-argyll/"
+- name: "Satisfashion Argyll"
   url: "/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do5lyi1g27ly9dr6do5lyi1ly23do3ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYYBBYGYBYGYBBYYBY](/stripes/byybbygybygybbyyby/).
+
+Part of the [Satisfashion Argyll](/tartans/s/sa/satisfashion-argyll/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

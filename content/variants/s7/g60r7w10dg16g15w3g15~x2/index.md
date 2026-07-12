@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Deer Park"
+  url: "/tartans/d/de/deer-park/"
 - name: "Deer Park (Loton) (Personal)"
   url: "/setts/g60r7w10dg16g15w3g15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g60r7w10dg16g15w3g15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWGGWG](/stripes/grwggwg/).
+
+Part of the [Deer Park](/tartans/d/de/deer-park/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

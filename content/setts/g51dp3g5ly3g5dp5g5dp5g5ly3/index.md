@@ -6,6 +6,8 @@ This is the **Highland Hospice** sett — one scale-free proportion (`g51dp3g5ly
 [BGYGBGBGYGBGBGYGBG](/stripes/bgygbgbgygbgbgygbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Highland Hospice](/tartans/h/hi/highland-hospice/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gayre Arisaidh"
+  url: "/tartans/g/ga/gayre-arisaidh/"
 - name: "Gayre Arisaidh Clan Tartan"
   url: "/setts/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWBWKGKRGWGRKG](/stripes/bgkwbwkgkrgwgrkg/).
+
+Part of the [Gayre Arisaidh](/tartans/g/ga/gayre-arisaidh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

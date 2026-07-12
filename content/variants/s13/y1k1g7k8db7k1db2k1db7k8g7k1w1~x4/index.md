@@ -10,7 +10,7 @@ crumbs:
 - name: "Campbell of Loudoun"
   url: "/families/campbell-of-loudoun/"
 - name: "Campbell of Loudoun"
-  url: "/tartans/campbell-of-loudoun-2/"
+  url: "/tartans/c/ca/campbell-of-loudoun-2/"
 - name: "Campbell of Loudoun (Clan)"
   url: "/setts/y1k1g7k8db7k1db2k1db7k8g7k1w1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1k1g7k8db7k1db2k1db7k8g7k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/).
 
-Part of the [Campbell of Loudoun](/tartans/campbell-of-loudoun-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Campbell of Loudoun](/tartans/c/ca/campbell-of-loudoun-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

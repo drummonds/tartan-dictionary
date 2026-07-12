@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "University of Edinburgh Business Sch"
+  url: "/tartans/u/un/university-of-edinburgh-business-sch/"
+- name: "University of Edinburgh Business Sch"
   url: "/setts/dy2db25r4g4r4w3db3k3db6w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2db25r4g4r4w3db3k3db6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRGRWBKBW](/stripes/gbrgrwbkbw/).
+
+Part of the [University of Edinburgh Business Sch](/tartans/u/un/university-of-edinburgh-business-sch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Lion Brand Sportswear** sett — one scale-free proportion (`n4db1
 [BBBBBBG](/stripes/bbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Lion Brand Sportswear](/tartans/l/li/lion-brand-sportswear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

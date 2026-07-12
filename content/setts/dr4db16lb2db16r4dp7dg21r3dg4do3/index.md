@@ -6,7 +6,7 @@ This is the **Scottish Lion (Corporate)** sett — one scale-free proportion (`d
 [BBWBRBGRGB](/stripes/bbwbrbgrgb/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Scottish Lion](/tartans/scottish-lion/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Lion](/tartans/s/sc/scottish-lion/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

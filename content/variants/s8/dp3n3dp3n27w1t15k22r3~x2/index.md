@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Beauly Firth and Glens"
+  url: "/tartans/b/be/beauly-firth-and-glens/"
+- name: "Beauly Firth and Glens"
   url: "/setts/dp3n3dp3n27w1t15k22r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3n3dp3n27w1t15k22r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBKR](/stripes/bbbbwbkr/).
+
+Part of the [Beauly Firth and Glens](/tartans/b/be/beauly-firth-and-glens/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

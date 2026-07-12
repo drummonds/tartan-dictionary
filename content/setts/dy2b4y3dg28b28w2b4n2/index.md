@@ -6,6 +6,8 @@ This is the **Laurentian University** sett — one scale-free proportion (`dy2b4
 [BBWBGGBG](/stripes/bbwbggbg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Laurentian University](/tartans/l/la/laurentian-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

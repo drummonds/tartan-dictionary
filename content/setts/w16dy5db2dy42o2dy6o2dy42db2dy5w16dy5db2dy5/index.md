@@ -6,6 +6,8 @@ This is the **Glenlivet Dress Reproduction** sett — one scale-free proportion 
 [GBGWGBGRGRGBGW](/stripes/gbgwgbgrgrgbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glenlivet Dress](/tartans/g/gl/glenlivet-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Methven"
-  url: "/tartans/methven/"
+  url: "/tartans/m/me/methven/"
 - name: "Methven"
   url: "/setts/r2dg3dy18r2dy2r21g6dg2g2dg24lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2dg3dy18r2dy2r21g6dg2g2dg24lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
 
-Part of the [Methven](/tartans/methven/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Methven](/tartans/m/me/methven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

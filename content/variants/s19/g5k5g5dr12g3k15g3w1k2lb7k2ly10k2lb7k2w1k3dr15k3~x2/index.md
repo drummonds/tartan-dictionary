@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Melnyk-Jones"
+  url: "/tartans/m/me/melnyk-jones/"
 - name: "Melnyk-Jones (Personal)"
   url: "/setts/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBGKGWKWKYKWKWKBK](/stripes/gkgbgkgwkwkykwkwkbk/).
+
+Part of the [Melnyk-Jones](/tartans/m/me/melnyk-jones/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

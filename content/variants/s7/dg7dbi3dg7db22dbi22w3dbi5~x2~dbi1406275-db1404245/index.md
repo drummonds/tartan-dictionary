@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United Colours of Scotland"
+  url: "/tartans/u/un/united-colours-of-scotland/"
 - name: "United Colours of Scotland (Corporat"
   url: "/setts/dg7dbi3dg7db22dbi22w3dbi5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg7dbi3dg7db22dbi22w3dbi5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBGBG](/stripes/bwbbgbg/).
+
+Part of the [United Colours of Scotland](/tartans/u/un/united-colours-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

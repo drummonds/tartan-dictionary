@@ -6,6 +6,8 @@ This is the **Masai Shuka 19 (Artefact)** sett — one scale-free proportion (`t
 [BRB](/stripes/brb/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 19](/tartans/m/ma/masai-shuka-19/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

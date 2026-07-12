@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sachie Hara"
+  url: "/tartans/s/sa/sachie-hara/"
 - name: "Sachie Hara Scottish Check (Personal)"
   url: "/setts/k5db4g24r21w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5db4g24r21w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRW](/stripes/kbgrw/).
+
+Part of the [Sachie Hara](/tartans/s/sa/sachie-hara/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,7 +6,7 @@ This is the **Kerr Hunting Clan Tartan** sett — one scale-free proportion (`g1
 [GKGKGKBKBK](/stripes/gkgkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Kerr Hunting](/tartans/kerr-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Kerr Hunting](/tartans/k/ke/kerr-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

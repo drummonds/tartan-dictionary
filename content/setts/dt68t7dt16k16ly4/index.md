@@ -6,6 +6,8 @@ This is the **Burnett's & Struth (Corporate)** sett — one scale-free proportio
 [BBBKY](/stripes/bbbky/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Burnett's & Struth](/tartans/b/bu/burnett-s-struth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

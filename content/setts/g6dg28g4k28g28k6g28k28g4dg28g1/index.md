@@ -6,6 +6,8 @@ This is the **MacKay** sett — one scale-free proportion (`g6dg28g4k28g28k6g28k
 [GGGKGKGKGGG](/stripes/gggkgkgkggg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacKay](/tartans/m/ma/mackay-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

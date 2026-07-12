@@ -6,6 +6,8 @@ This is the **Guelph, City Of** sett — one scale-free proportion (`g12k1g2dr1g
 [GKGBGKBY](/stripes/gkgbgkby/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Guelph, City Of](/tartans/g/gu/guelph-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

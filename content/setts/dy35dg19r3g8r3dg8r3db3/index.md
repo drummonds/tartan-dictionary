@@ -6,6 +6,8 @@ This is the **John Muir Way** sett — one scale-free proportion (`dy35dg19r3g8r
 [BRGRGRGG](/stripes/brgrgrgg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [John Muir Way](/tartans/j/jo/john-muir-way/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

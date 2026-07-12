@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Pointe-Claire"
+  url: "/tartans/c/ci/city-of-pointe-claire/"
+- name: "City of Pointe-Claire"
   url: "/setts/db4w1dy1k2db4dy2w1dy1w1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w1dy1k2db4dy2w1dy1w1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKBGWGWG](/stripes/bwgkbgwgwg/).
+
+Part of the [City of Pointe-Claire](/tartans/c/ci/city-of-pointe-claire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

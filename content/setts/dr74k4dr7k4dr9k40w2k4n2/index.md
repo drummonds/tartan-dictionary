@@ -6,6 +6,8 @@ This is the **Llewellen of Wales** sett — one scale-free proportion (`dr74k4dr
 [BKBKBKWKB](/stripes/bkbkbkwkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Llewellen of Wales](/tartans/l/ll/llewellen-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

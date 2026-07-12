@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Dykes"
+  url: "/clan/dykes/"
+- name: "Dykes of Perthshire"
+  url: "/families/dykes-of-perthshire/"
+- name: "Dykes of Perthshire"
+  url: "/tartans/d/dy/dykes-of-perthshire/"
 - name: "Dykes, of Perthshire"
   url: "/setts/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKRGKWGRKRW](/stripes/wkwkrgkwgrkrw/).
+
+Part of the [Dykes of Perthshire](/tartans/d/dy/dykes-of-perthshire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

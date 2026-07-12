@@ -6,6 +6,8 @@ This is the **Hebridean Cairn Fashion Tartan** sett — one scale-free proportio
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hebridean Cairn](/tartans/h/he/hebridean-cairn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Sirrell (2014)** sett — one scale-free proportion (`t19w20dt18r2
 [BWBRKW](/stripes/bwbrkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Sirrell](/tartans/sirrell/) tartan — the named design grouping this sett with its kin.
+Part of the [Sirrell](/tartans/s/si/sirrell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Torridon Tweed"
+  url: "/tartans/t/to/torridon-tweed/"
+- name: "Torridon Tweed"
   url: "/setts/n4db1n6o1n14lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n4db1n6o1n14lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBW](/stripes/bbbrbw/).
+
+Part of the [Torridon Tweed](/tartans/t/to/torridon-tweed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

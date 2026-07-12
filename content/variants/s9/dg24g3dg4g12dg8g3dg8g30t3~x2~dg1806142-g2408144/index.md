@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gates, Hunting"
+  url: "/tartans/g/ga/gates-hunting/"
+- name: "Gates, Hunting"
   url: "/setts/dg24g3dg4g12dg8g3dg8g30t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg24g3dg4g12dg8g3dg8g30t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGGGG](/stripes/bgggggggg/).
+
+Part of the [Gates, Hunting](/tartans/g/ga/gates-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

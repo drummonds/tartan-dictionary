@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of New Bern 300"
+  url: "/tartans/c/ci/city-of-new-bern-300-2/"
 - name: "City of New Bern 300 (District)"
   url: "/setts/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBKYKBKKKBKYK](/stripes/bkykbkykbkkkbkyk/).
+
+Part of the [City of New Bern 300](/tartans/c/ci/city-of-new-bern-300-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

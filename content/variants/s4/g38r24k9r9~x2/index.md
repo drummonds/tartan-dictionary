@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Guard of Oman 4th Band Squadro"
+  url: "/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/"
 - name: "Royal Guard of Oman 4th Band Squadron"
   url: "/setts/g38r24k9r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g38r24k9r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKR](/stripes/grkr/).
+
+Part of the [Royal Guard of Oman 4th Band Squadro](/tartans/r/ro/royal-guard-of-oman-4th-band-squadro/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

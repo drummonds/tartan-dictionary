@@ -7,6 +7,8 @@ This is the **MacKay -1842 (VS) (Clan)** sett — one scale-free proportion (`db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Morgan](/tartans/m/mo/morgan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

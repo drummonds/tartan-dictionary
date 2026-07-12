@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Langara College"
+  url: "/tartans/l/la/langara-college/"
+- name: "Langara College"
   url: "/setts/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWBWBYBWBWWWWYWW](/stripes/wwbwbybwbwwwwyww/).
+
+Part of the [Langara College](/tartans/l/la/langara-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

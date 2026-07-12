@@ -6,7 +6,7 @@ This is the **Wotherspoon Family Tartan** sett — one scale-free proportion (`r
 [GBRGR](/stripes/gbrgr/). It is recorded as a single **variant**, below.
 First attested **~1941**.
 
-Part of the [Wotherspoon](/tartans/wotherspoon/) tartan — the named design grouping this sett with its kin.
+Part of the [Wotherspoon](/tartans/w/wo/wotherspoon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

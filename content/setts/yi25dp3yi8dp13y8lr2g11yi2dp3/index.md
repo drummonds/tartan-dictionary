@@ -6,6 +6,8 @@ This is the **Organic** sett — one scale-free proportion (`yi25dp3yi8dp13y8lr2
 [BGGYGBGBG](/stripes/bggygbgbg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Organic](/tartans/o/or/organic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

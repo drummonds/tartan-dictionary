@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sligo County Crest"
+  url: "/tartans/s/sl/sligo-county-crest/"
 - name: "Sligo County Crest (Fashion)"
   url: "/setts/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo8k16lb8k52lb6k5w27dr20g14k5lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGBWKWKWKY](/stripes/wkgbwkwkwky/).
+
+Part of the [Sligo County Crest](/tartans/s/sl/sligo-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Porcelanosa"
+  url: "/tartans/p/po/porcelanosa/"
+- name: "Porcelanosa"
   url: "/setts/lb24o9n23y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb24o9n23y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRW](/stripes/gbrw/).
+
+Part of the [Porcelanosa](/tartans/p/po/porcelanosa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

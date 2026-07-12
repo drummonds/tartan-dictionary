@@ -6,7 +6,7 @@ This is the **Kings Mountain 1780 (Commemorative)** sett — one scale-free prop
 [GGBKRKWKG](/stripes/ggbkrkwkg/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
-Part of the [Kings Mountain 1780](/tartans/kings-mountain-1780/) tartan — the named design grouping this sett with its kin.
+Part of the [Kings Mountain 1780](/tartans/k/ki/kings-mountain-1780/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Follower's Plaid Artifact Tartan** sett — one scale-free proport
 [RWKGKWGRKRW](/stripes/rwkgkwgrkrw/). It is recorded as a single **variant**, below.
 First attested **1745**.
 
+Part of the [Follower's](/tartans/f/fo/follower-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Deas"
-  url: "/tartans/deas/"
+  url: "/tartans/d/de/deas/"
 - name: "Deas"
   url: "/setts/db21k2db2k12y3k12g2k2g21k2r8k6r8k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db21k2db2k12y3k12g2k2g21k2r8k6r8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKGKGKRKRK](/stripes/bkbkgkgkgkrkrk/).
 
-Part of the [Deas](/tartans/deas/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Deas](/tartans/d/de/deas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Ohio"
+  url: "/tartans/s/st/state-seal-of-ohio/"
 - name: "State Seal of Ohio (Fashion)"
   url: "/setts/db60ly3db5lyi5db9do20ly4g32w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60ly3db5lyi5db9do20ly4g32w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBBYGW](/stripes/bybybbygw/).
+
+Part of the [State Seal of Ohio](/tartans/s/st/state-seal-of-ohio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

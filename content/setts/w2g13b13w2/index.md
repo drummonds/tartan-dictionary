@@ -6,6 +6,8 @@ This is the **Dunoon** sett — one scale-free proportion (`w2g13b13w2`), colour
 [WBGW](/stripes/wbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dunoon](/tartans/d/du/dunoon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lumsden (Short)** sett — one scale-free proportion (`r9db1r1db2r
 [GWGRGGGRGRGRGRGRWRBRBRWRBRBRBR](/stripes/gwgrgggrgrgrgrgrwrbrbrwrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lumsden](/tartans/l/lu/lumsden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

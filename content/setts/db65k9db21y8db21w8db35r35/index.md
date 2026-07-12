@@ -6,7 +6,7 @@ This is the **Maud Mary Irish Family Tartan** sett — one scale-free proportion
 [BKBGBWBR](/stripes/bkbgbwbr/). It is recorded as a single **variant**, below.
 First attested **~1892**.
 
-Part of the [Maud, Mary](/tartans/maud-mary/) tartan — the named design grouping this sett with its kin.
+Part of the [Maud, Mary](/tartans/m/ma/maud-mary/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

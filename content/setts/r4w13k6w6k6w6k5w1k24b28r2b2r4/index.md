@@ -6,6 +6,8 @@ This is the **Hogmany Plaid** sett — one scale-free proportion (`r4w13k6w6k6w6
 [RBRBKWKWKWKWR](/stripes/rbrbkwkwkwkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hogmany](/tartans/h/ho/hogmany/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

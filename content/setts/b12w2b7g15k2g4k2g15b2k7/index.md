@@ -6,7 +6,7 @@ This is the **Smeaton** sett — one scale-free proportion (`b12w2b7g15k2g4k2g15
 [BWBGKGKGBK](/stripes/bwbgkgkgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Smeaton](/tartans/smeaton-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Smeaton](/tartans/s/sm/smeaton-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Special 1"
+  url: "/tartans/s/sp/special-1/"
+- name: "Special 1"
   url: "/setts/y18k3w4k3w4k3y18t1n18k1g18w1t18y1n18g1y18k3w4k3w4k3y18g1n18y1t18w1g18k1n18t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y18k3w4k3w4k3y18t1n18k1g18w1t18y1n18g1y18k3w4k3w4k3y18g1n18y1t18w1g18k1n18t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGWBGBGGKWKWKGGBGBWGKBBGKWKWKG](/stripes/bbkgwbgbggkwkwkggbgbwgkbbgkwkwkg/).
+
+Part of the [Special 1](/tartans/s/sp/special-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

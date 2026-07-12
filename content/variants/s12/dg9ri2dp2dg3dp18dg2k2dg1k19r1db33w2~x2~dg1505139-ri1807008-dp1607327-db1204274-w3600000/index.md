@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Western Isles"
-  url: "/tartans/western-isles/"
+  url: "/tartans/w/we/western-isles/"
 - name: "Western Isles Fashion Tartan"
   url: "/setts/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBGKGKRBW](/stripes/grbgbgkgkrbw/).
 
-Part of the [Western Isles](/tartans/western-isles/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Western Isles](/tartans/w/we/western-isles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

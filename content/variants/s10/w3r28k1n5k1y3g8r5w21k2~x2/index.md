@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cape Breton Polish Society"
-  url: "/tartans/cape-breton-polish-society/"
+  url: "/tartans/c/ca/cape-breton-polish-society/"
 - name: "Cape Breton Polish Society"
   url: "/setts/w3r28k1n5k1y3g8r5w21k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3r28k1n5k1y3g8r5w21k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRGGKBKRW](/stripes/kwrggkbkrw/).
 
-Part of the [Cape Breton Polish Society](/tartans/cape-breton-polish-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cape Breton Polish Society](/tartans/c/ca/cape-breton-polish-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

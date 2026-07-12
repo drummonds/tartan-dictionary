@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Fingask"
+  url: "/families/stewart-of-fingask/"
+- name: "Stewart of Fingask"
+  url: "/tartans/s/st/stewart-of-fingask/"
 - name: "Stewart of Fingask - 1745 (Clan?)"
   url: "/setts/r72g3y2g26r14db6lb6w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r72g3y2g26r14db6lb6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGRBWW](/stripes/rgggrbww/).
+
+Part of the [Stewart of Fingask](/tartans/s/st/stewart-of-fingask/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

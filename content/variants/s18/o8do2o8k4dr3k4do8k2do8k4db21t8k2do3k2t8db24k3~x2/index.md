@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Renton"
+  url: "/tartans/r/re/renton/"
 - name: "Renton (Personal)"
   url: "/setts/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBBKBKBBKBKBKBKRBR](/stripes/kbbkbkbbkbkbkbkrbr/).
+
+Part of the [Renton](/tartans/r/re/renton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

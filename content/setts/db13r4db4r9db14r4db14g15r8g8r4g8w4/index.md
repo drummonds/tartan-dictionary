@@ -6,6 +6,8 @@ This is the **MacCaslan (Artefact)** sett — one scale-free proportion (`db13r4
 [BRBRBRBGRGRGW](/stripes/brbrbrbgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~1890**.
 
+Part of the [MacCaslan](/tartans/m/ma/maccaslan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

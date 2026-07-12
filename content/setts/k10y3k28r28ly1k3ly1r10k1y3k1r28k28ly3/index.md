@@ -6,6 +6,8 @@ This is the **Unknown U.S. kilt** sett — one scale-free proportion (`k10y3k28r
 [KGKRYKYRKGKRKY](/stripes/kgkrykyrkgkrky/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Unknown U.S.](/tartans/u/un/unknown-u-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

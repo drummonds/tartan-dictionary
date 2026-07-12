@@ -6,7 +6,7 @@ This is the **Suttle (Personal)** sett — one scale-free proportion (`n36k18n5d
 [BKBBBKRG](/stripes/bkbbbkrg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Suttle](/tartans/suttle/) tartan — the named design grouping this sett with its kin.
+Part of the [Suttle](/tartans/s/su/suttle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

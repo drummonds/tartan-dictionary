@@ -6,6 +6,8 @@ This is the **Hayes** sett — one scale-free proportion (`r2g1lo1g12r1g1r1g4r17
 [GYGRGRGRGRGRYRGRGRGRGRGYGR](/stripes/gygrgrgrgrgryrgrgrgrgrgygr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Hayes](/tartans/h/ha/hayes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

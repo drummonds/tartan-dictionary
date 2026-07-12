@@ -6,6 +6,8 @@ This is the **Maciocia (Personal)** sett — one scale-free proportion (`o46ly8d
 [RYBGBWBBRBRW](/stripes/rybgbwbbrbrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Maciocia](/tartans/m/ma/maciocia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

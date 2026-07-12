@@ -6,6 +6,8 @@ This is the **Reiver Check** sett — one scale-free proportion (`k27w2k2w2k2w2k
 [KWKWKWKWKR](/stripes/kwkwkwkwkr/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Reiver Check](/tartans/r/re/reiver-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

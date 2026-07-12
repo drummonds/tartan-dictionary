@@ -6,6 +6,8 @@ This is the **Dege, of Saville Row** sett — one scale-free proportion (`o11db1
 [RBBRBR](/stripes/rbbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dege, of Saville Row](/tartans/d/de/dege-of-saville-row-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

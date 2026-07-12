@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
+- name: "Currie"
+  url: "/tartans/c/cu/currie/"
 - name: "Currie (Clan)"
   url: "/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/gi44k1gi3y3gi3w1g21w1g3w3g3w1g21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
+
+Part of the [Currie](/tartans/c/cu/currie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

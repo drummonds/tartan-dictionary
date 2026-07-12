@@ -7,6 +7,8 @@ This is the **Henbury** sett — one scale-free proportion (`dp50dt75dp75dt12ly1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [Henbury](/tartans/h/he/henbury/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

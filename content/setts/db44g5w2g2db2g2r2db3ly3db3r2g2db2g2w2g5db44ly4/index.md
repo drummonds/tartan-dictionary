@@ -6,6 +6,8 @@ This is the **Oxford University Dress** sett — one scale-free proportion (`db4
 [BGWGBGRBYBRGBGWGBY](/stripes/bgwgbgrbybrgbgwgby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Oxford University Dress](/tartans/o/ox/oxford-university-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

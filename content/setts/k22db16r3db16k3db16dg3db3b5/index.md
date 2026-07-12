@@ -6,7 +6,7 @@ This is the **Jethart** sett — one scale-free proportion (`k22db16r3db16k3db16
 [BBGBKBRBK](/stripes/bbgbkbrbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Jethart](/tartans/jethart/) tartan — the named design grouping this sett with its kin.
+Part of the [Jethart](/tartans/j/je/jethart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

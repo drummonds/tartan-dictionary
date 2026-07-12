@@ -6,6 +6,8 @@ This is the **Goodwillie (Fashion)** sett — one scale-free proportion (`r15db5
 [RBKBRBRW](/stripes/rbkbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Goodwillie](/tartans/g/go/goodwillie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

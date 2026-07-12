@@ -6,7 +6,7 @@ This is the **Dinwiddie Hunting (Name)** sett — one scale-free proportion (`y6
 [GBKBKWBKGK](/stripes/gbkbkwbkgk/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Dinwiddie Hunting](/tartans/dinwiddie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Dinwiddie Hunting](/tartans/d/di/dinwiddie-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

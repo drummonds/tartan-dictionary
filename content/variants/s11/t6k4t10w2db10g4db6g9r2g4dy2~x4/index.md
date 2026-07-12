@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Sullivan"
+  url: "/tartans/o/o/o-sullivan/"
+- name: "O'Sullivan"
   url: "/setts/t6k4t10w2db10g4db6g9r2g4dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6k4t10w2db10g4db6g9r2g4dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBGBGRGG](/stripes/bkbwbgbgrgg/).
+
+Part of the [O'Sullivan](/tartans/o/o/o-sullivan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

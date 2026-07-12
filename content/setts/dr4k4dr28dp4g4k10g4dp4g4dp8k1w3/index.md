@@ -6,7 +6,7 @@ This is the **Kelly of Sleat (Name)** sett — one scale-free proportion (`dr4k4
 [BKBBGKGBGBKW](/stripes/bkbbgkgbgbkw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Kelly of Sleat](/tartans/kelly-of-sleat/) tartan — the named design grouping this sett with its kin.
+Part of the [Kelly of Sleat](/tartans/k/ke/kelly-of-sleat/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

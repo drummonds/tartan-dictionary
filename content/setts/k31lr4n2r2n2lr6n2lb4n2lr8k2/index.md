@@ -6,6 +6,8 @@ This is the **Rogue Attitude** sett — one scale-free proportion (`k31lr4n2r2n2
 [KYBRBYBWBYK](/stripes/kybrbybwbyk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Rogue Attitude](/tartans/r/ro/rogue-attitude/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **McKerrell of Hillhouse** sett — one scale-free proportion (`w4lb
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1982**.
 
+Part of the [McKerrell of Hillhouse Hunting](/tartans/m/mc/mckerrell-of-hillhouse-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

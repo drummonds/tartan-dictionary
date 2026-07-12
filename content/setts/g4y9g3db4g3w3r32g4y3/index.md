@@ -6,6 +6,8 @@ This is the **Antrim County Crest (Fashion)** sett — one scale-free proportion
 [GGGBGWRGG](/stripes/gggbgwrgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Antrim County Crest](/tartans/a/an/antrim-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Canadian Caledonian Hunting Canadian Tartan** sett — one scale-f
 [BKGGRWRGRGW](/stripes/bkggrwrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Canadian Caledonian Hunting](/tartans/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Canadian Caledonian Hunting](/tartans/c/ca/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

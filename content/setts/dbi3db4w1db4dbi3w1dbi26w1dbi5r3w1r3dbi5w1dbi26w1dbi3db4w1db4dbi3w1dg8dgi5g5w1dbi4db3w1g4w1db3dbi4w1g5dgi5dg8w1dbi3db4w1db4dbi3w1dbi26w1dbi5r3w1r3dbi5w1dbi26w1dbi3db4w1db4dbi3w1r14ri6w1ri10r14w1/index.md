@@ -6,6 +6,8 @@ This is the **Unidentified Cant #03** sett — one scale-free proportion (`dbi3d
 [BBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWRRWRRW](/stripes/bbwbbwbwbrwrbwbwbbwbbwgggwbbwgwbbwgggwbbwbbwbwbrwrbwbwbbwbbwrrwrrw/). It is recorded as a single **variant**, below.
 First attested **1799**.
 
+Part of the [Unidentified Cant](/tartans/u/un/unidentified-cant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

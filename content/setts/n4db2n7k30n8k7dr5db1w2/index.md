@@ -6,6 +6,8 @@ This is the **Hebridean Heather** sett — one scale-free proportion (`n4db2n7k3
 [BBBKBKBBW](/stripes/bbbkbkbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hebridean Heather](/tartans/h/he/hebridean-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

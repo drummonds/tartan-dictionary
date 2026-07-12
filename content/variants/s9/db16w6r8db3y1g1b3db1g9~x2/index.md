@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ohio"
-  url: "/tartans/ohio/"
+  url: "/tartans/o/oh/ohio/"
 - name: "Ohio"
   url: "/setts/db16w6r8db3y1g1b3db1g9/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16w6r8db3y1g1b3db1g9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBGGBBG](/stripes/bwrbggbbg/).
 
-Part of the [Ohio](/tartans/ohio/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ohio](/tartans/o/oh/ohio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

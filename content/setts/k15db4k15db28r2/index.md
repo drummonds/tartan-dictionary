@@ -6,6 +6,8 @@ This is the **MacKay (Blue) #2** sett — one scale-free proportion (`k15db4k15d
 [KBKBR](/stripes/kbkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKay](/tartans/m/ma/mackay-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

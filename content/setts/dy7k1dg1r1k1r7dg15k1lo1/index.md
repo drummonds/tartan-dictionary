@@ -6,6 +6,8 @@ This is the **Cozumel** sett — one scale-free proportion (`dy7k1dg1r1k1r7dg15k
 [GKGRKRGKY](/stripes/gkgrkrgky/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Cozumel](/tartans/c/co/cozumel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

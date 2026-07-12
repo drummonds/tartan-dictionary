@@ -6,6 +6,8 @@ This is the **Liberty Square** sett — one scale-free proportion (`w12lb2k5lb2k
 [WGWKWKWKWKWW](/stripes/wgwkwkwkwkww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Liberty Square](/tartans/l/li/liberty-square/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

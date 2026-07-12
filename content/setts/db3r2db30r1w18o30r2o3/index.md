@@ -6,7 +6,7 @@ This is the **Bannockbane Navy** sett — one scale-free proportion (`db3r2db30r
 [BRBRWRRR](/stripes/brbrwrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bannockbane Navy](/tartans/bannockbane-navy/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane Navy](/tartans/b/ba/bannockbane-navy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

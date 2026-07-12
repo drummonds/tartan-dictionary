@@ -18,5 +18,5 @@ A family of [Clan Currie](/clan/currie/).
 </tbody>
 </table>
 
-[See the Currie of Arran tartan and all its setts →](/tartans/currie-of-arran/)
+[See the Currie of Arran tartan and all its setts →](/tartans/c/cu/currie-of-arran/)
 

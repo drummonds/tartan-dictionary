@@ -6,6 +6,8 @@ This is the **160th SOAR(A) Night Stalkers (Mil.)** sett — one scale-free prop
 [KBKGKYWKY](/stripes/kbkgkywky/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [160th SOAR Night Stalkers](/tartans/0-9/0-9/160th-soar-night-stalkers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nairn"
-  url: "/tartans/nairn/"
+  url: "/tartans/n/na/nairn/"
 - name: "Nairn (Name)"
   url: "/setts/r1k8g2db4r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1k8g2db4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGKR](/stripes/rbgkr/).
 
-Part of the [Nairn](/tartans/nairn/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nairn](/tartans/n/na/nairn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

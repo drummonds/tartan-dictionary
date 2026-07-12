@@ -6,7 +6,7 @@ This is the **Bear** sett — one scale-free proportion (`dy24k1lr2k1dy24o2dy2o1
 [GKYKGRGRKYWWGYGRGR](/stripes/gkykgrgrkywwgygrgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Bear](/tartans/bear/) tartan — the named design grouping this sett with its kin.
+Part of the [Bear](/tartans/b/be/bear/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

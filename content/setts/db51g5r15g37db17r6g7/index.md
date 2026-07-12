@@ -6,7 +6,7 @@ This is the **Cadence Design Systems (Corporate)** sett — one scale-free propo
 [BGRGBRG](/stripes/bgrgbrg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Cadence Design Systems](/tartans/cadence-design-systems/) tartan — the named design grouping this sett with its kin.
+Part of the [Cadence Design Systems](/tartans/c/ca/cadence-design-systems/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

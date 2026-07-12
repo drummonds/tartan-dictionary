@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heritage"
+  url: "/tartans/h/he/heritage/"
 - name: "Heritage (Corporate)"
   url: "/setts/r5db8k5db24k24dg24y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5db8k5db24k24dg24y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBR](/stripes/ggkbkbr/).
+
+Part of the [Heritage](/tartans/h/he/heritage/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

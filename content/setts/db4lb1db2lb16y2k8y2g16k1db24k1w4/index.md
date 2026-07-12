@@ -6,6 +6,8 @@ This is the **Tanzania** sett — one scale-free proportion (`db4lb1db2lb16y2k8y
 [BWBWGKGGKBKW](/stripes/bwbwgkggkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Tanzania](/tartans/t/ta/tanzania/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

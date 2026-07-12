@@ -6,6 +6,8 @@ This is the **Clare Irish County Tartan** sett — one scale-free proportion (`d
 [BBGBBBBBGBY](/stripes/bbgbbbbbgby/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Clare Irish County](/tartans/c/cl/clare-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

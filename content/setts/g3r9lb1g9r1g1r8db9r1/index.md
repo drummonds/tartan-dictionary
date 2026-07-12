@@ -6,6 +6,8 @@ This is the **Baronage** sett — one scale-free proportion (`g3r9lb1g9r1g1r8db9
 [GRWGRGRBR](/stripes/grwgrgrbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Baronage](/tartans/b/ba/baronage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

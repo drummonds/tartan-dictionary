@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Entier"
+  url: "/tartans/e/en/entier/"
+- name: "Entier"
   url: "/setts/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGKYKYKBKGK](/stripes/bygkykykbkgk/).
+
+Part of the [Entier](/tartans/e/en/entier/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

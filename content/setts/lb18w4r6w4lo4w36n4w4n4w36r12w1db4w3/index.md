@@ -6,6 +6,8 @@ This is the **Confederate Memorial Dress (Military** sett — one scale-free pro
 [WBWRWBWBWYWRWW](/stripes/wbwrwbwbwywrww/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Confederate Memorial Dress (Military](/tartans/c/co/confederate-memorial-dress-military/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

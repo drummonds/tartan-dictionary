@@ -6,6 +6,8 @@ This is the **Thomas, baron of Craigie, Robert (Personal)** sett — one scale-f
 [GKGGKBKR](/stripes/gkggkbkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Thomas, baron of Craigie, Robert](/tartans/t/th/thomas-baron-of-craigie-robert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

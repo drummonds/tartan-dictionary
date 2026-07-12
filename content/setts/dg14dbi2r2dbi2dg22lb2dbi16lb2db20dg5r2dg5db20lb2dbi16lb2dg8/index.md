@@ -6,6 +6,8 @@ This is the **Frangord** sett — one scale-free proportion (`dg14dbi2r2dbi2dg22
 [GBRBGWBWBGRGBWBWG](/stripes/gbrbgwbwbgrgbwbwg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Frangord](/tartans/f/fr/frangord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

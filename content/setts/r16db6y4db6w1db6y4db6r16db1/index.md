@@ -6,6 +6,8 @@ This is the **Superfast Ferries** sett — one scale-free proportion (`r16db6y4d
 [BRBGBWBGBR](/stripes/brbgbwbgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Superfast Ferries](/tartans/s/su/superfast-ferries-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

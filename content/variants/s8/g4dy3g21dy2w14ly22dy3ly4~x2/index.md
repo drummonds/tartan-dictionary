@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannock Bane M.406"
+  url: "/tartans/b/ba/bannock-bane-m-406/"
+- name: "Bannock Bane M.406"
   url: "/setts/g4dy3g21dy2w14ly22dy3ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4dy3g21dy2w14ly22dy3ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWYGY](/stripes/ggggwygy/).
+
+Part of the [Bannock Bane M.406](/tartans/b/ba/bannock-bane-m-406/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

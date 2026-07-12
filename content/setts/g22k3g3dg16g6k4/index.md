@@ -6,6 +6,8 @@ This is the **Campbell Simpson (Dalgliesh)** sett — one scale-free proportion 
 [GKGGGK](/stripes/gkgggk/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Campbell Simpson](/tartans/c/ca/campbell-simpson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

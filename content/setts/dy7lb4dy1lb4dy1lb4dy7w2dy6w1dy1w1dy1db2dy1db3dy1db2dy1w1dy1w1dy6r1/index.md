@@ -6,7 +6,7 @@ This is the **Ottawa District Tartan** sett — one scale-free proportion (`dy7l
 [GWGWGWGWGWGWGBGBGBGWGWGR](/stripes/gwgwgwgwgwgwgbgbgbgwgwgr/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
-Part of the [Ottawa](/tartans/ottawa/) tartan — the named design grouping this sett with its kin.
+Part of the [Ottawa](/tartans/o/ot/ottawa/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Tomass** sett — one scale-free proportion (`r2do1dg9gi1do2gi6g2g
 [GGGBGGBR](/stripes/gggbggbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Tomass](/tartans/t/to/tomass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

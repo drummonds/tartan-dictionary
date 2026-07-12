@@ -6,6 +6,8 @@ This is the **Tartan Army Corporate/Sport Tartan** sett — one scale-free propo
 [BBBBBBWBWBRGRBWBWBBBB](/stripes/bbbbbbwbwbrgrbwbwbbbb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Tartan Army Corporate/Sport](/tartans/t/ta/tartan-army-corporate-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

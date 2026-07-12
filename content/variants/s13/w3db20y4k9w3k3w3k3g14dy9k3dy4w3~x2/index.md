@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clodagh Cork"
+  url: "/tartans/c/cl/clodagh-cork/"
 - name: "Clodagh Cork Irish District Tartan"
   url: "/setts/w3db20y4k9w3k3w3k3g14dy9k3dy4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db20y4k9w3k3w3k3g14dy9k3dy4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKWKWKGGKGW](/stripes/wbgkwkwkggkgw/).
+
+Part of the [Clodagh Cork](/tartans/c/cl/clodagh-cork/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

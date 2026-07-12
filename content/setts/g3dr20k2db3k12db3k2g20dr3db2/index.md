@@ -6,6 +6,8 @@ This is the **Matthew Gloag & Son Ltd (Corporate)** sett — one scale-free prop
 [BBGKBKBKBG](/stripes/bbgkbkbkbg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Matthew Gloag & Son Ltd](/tartans/m/ma/matthew-gloag-son-ltd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

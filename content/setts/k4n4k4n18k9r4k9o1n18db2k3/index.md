@@ -6,7 +6,7 @@ This is the **Moggach (Strathspey)** sett — one scale-free proportion (`k4n4k4
 [KBBRKRKBKBK](/stripes/kbbrkrkbkbk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Moggach](/tartans/moggach/) tartan — the named design grouping this sett with its kin.
+Part of the [Moggach](/tartans/m/mo/moggach/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

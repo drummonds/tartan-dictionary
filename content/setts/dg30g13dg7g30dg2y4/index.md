@@ -6,6 +6,8 @@ This is the **MacSporran Rejected design** sett — one scale-free proportion (`
 [GGGGGG](/stripes/gggggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacSporran Rejected design](/tartans/m/ma/macsporran-rejected-design/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

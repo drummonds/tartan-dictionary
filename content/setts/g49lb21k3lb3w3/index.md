@@ -6,7 +6,7 @@ This is the **Irvine of Drum (Clan)** sett — one scale-free proportion (`g49lb
 [GWKWW](/stripes/gwkww/). It is recorded as a single **variant**, below.
 First attested **1858**.
 
-Part of the [Irvine of Drum](/tartans/irvine-of-drum/) tartan — the named design grouping this sett with its kin.
+Part of the [Irvine of Drum](/tartans/i/ir/irvine-of-drum/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

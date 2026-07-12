@@ -6,6 +6,8 @@ This is the **Brodie Dress** sett — one scale-free proportion (`k6r33k18w20db6
 [BWKRK](/stripes/bwkrk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Brodie Dress](/tartans/b/br/brodie-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

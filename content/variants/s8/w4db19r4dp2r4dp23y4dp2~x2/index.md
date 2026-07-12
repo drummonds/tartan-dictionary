@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Brigadoon"
+  url: "/tartans/b/br/brigadoon/"
+- name: "Brigadoon"
   url: "/setts/w4db19r4dp2r4dp23y4dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4db19r4dp2r4dp23y4dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBRBW](/stripes/bgbrbrbw/).
+
+Part of the [Brigadoon](/tartans/b/br/brigadoon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

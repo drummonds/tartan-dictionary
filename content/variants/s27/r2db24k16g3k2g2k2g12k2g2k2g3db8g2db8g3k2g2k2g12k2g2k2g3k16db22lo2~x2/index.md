@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Duchess of Albany"
-  url: "/tartans/duchess-of-albany/"
+  url: "/tartans/d/du/duchess-of-albany/"
 - name: "Duchess of Albany"
   url: "/setts/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKGKGKGKGBGBGKGKGKGKGKBY](/stripes/rbkgkgkgkgkgbgbgkgkgkgkgkby/).
 
-Part of the [Duchess of Albany](/tartans/duchess-of-albany/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duchess of Albany](/tartans/d/du/duchess-of-albany/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 

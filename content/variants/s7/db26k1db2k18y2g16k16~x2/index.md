@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mowat"
-  url: "/tartans/mowat-2/"
+  url: "/tartans/m/mo/mowat-2/"
 - name: "Mowat"
   url: "/setts/db26k1db2k18y2g16k16/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db26k1db2k18y2g16k16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGK](/stripes/bkbkggk/).
 
-Part of the [Mowat](/tartans/mowat-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mowat](/tartans/m/mo/mowat-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

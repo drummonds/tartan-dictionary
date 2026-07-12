@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kirk in the Hills"
+  url: "/tartans/k/ki/kirk-in-the-hills-3/"
+- name: "Kirk in the Hills"
   url: "/setts/lb16db6k1y1k1db1lb4dy4k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb16db6k1y1k1db1lb4dy4k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGWBKGKBW](/stripes/rkgwbkgkbw/).
+
+Part of the [Kirk in the Hills](/tartans/k/ki/kirk-in-the-hills-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

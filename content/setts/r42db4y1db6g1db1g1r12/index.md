@@ -6,6 +6,8 @@ This is the **Inverness Earl of... District Tartan** sett — one scale-free pro
 [RBGBGBGR](/stripes/rbgbgbgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Inverness Earl of](/tartans/i/in/inverness-earl-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

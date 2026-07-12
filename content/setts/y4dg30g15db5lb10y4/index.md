@@ -6,6 +6,8 @@ This is the **MPS Emerald Society NCLEES 2012** sett — one scale-free proporti
 [GGGBWG](/stripes/gggbwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [MPS Emerald Society NCLEES 2012](/tartans/m/mp/mps-emerald-society-nclees-2012/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

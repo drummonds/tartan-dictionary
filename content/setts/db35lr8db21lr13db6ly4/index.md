@@ -6,6 +6,8 @@ This is the **Ochterlonie** sett — one scale-free proportion (`db35lr8db21lr13
 [BYBYBY](/stripes/bybyby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Auchterlonie](/tartans/a/au/auchterlonie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Cian"
+  url: "/clan/cian/"
+- name: "Cian of Ely"
+  url: "/families/cian-of-ely/"
+- name: "Cian of Ely"
+  url: "/tartans/c/ci/cian-of-ely/"
 - name: "Cian of Ely"
   url: "/setts/lb38db4y4lb19db8lr18dp8lb18y4db4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb38db4y4lb19db8lr18dp8lb18y4db4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGWBYBWGBY](/stripes/wbgwbybwgby/).
+
+Part of the [Cian of Ely](/tartans/c/ci/cian-of-ely/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

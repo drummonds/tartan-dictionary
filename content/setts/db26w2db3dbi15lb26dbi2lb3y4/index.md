@@ -7,6 +7,8 @@ This is the **Banff, and Buchan** sett — one scale-free proportion (`db26w2db3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1992**.
 
+Part of the [Banff and Buchan](/tartans/b/ba/banff-and-buchan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

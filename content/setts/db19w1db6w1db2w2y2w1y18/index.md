@@ -6,6 +6,8 @@ This is the **Highland Park High School (Texas)** sett — one scale-free propor
 [BWBWBWGWG](/stripes/bwbwbwgwg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Highland Park High School](/tartans/h/hi/highland-park-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

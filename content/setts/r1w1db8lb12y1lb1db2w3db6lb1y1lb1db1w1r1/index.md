@@ -6,6 +6,8 @@ This is the **Buchanan, John & Isabella (Commemor)** sett — one scale-free pro
 [RWBWGWBWBWGWBWR](/stripes/rwbwgwbwbwgwbwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Buchanan, John & Isabella](/tartans/b/bu/buchanan-john-isabella/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pitlochry"
-  url: "/tartans/pitlochry/"
+  url: "/tartans/p/pi/pitlochry/"
 - name: "Pitlochry (District)"
   url: "/setts/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGWGBGBGY](/stripes/bgbgbgbgwgbgbgy/).
 
-Part of the [Pitlochry](/tartans/pitlochry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pitlochry](/tartans/p/pi/pitlochry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

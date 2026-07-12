@@ -6,6 +6,8 @@ This is the **Hay & Leith - 1800 (Clan)** sett — one scale-free proportion (`k
 [KRGKRBRGRBRKWGRGRGRKGRK](/stripes/krgkrbrgrbrkwgrgrgrkgrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hay & Leith](/tartans/h/ha/hay-leith-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

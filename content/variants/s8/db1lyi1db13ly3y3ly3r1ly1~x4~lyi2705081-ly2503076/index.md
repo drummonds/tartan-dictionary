@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Moray"
+  url: "/tartans/g/gl/glen-moray/"
 - name: "Glen Moray"
   url: "/setts/db1lyi1db13ly3y3ly3r1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1lyi1db13ly3y3ly3r1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYGYRY](/stripes/bybygyry/).
+
+Part of the [Glen Moray](/tartans/g/gl/glen-moray/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

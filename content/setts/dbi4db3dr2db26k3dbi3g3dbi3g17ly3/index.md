@@ -6,6 +6,8 @@ This is the **Boyle (Personal)** sett — one scale-free proportion (`dbi4db3dr2
 [BBBBKBGBGY](/stripes/bbbbkbgbgy/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Boyle](/tartans/b/bo/boyle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

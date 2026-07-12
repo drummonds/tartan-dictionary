@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Madras 1"
+  url: "/tartans/m/ma/madras-1/"
 - name: "Madras 1 (Fashion)"
   url: "/setts/lb45w4db4w2ly14db2w2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb45w4db4w2ly14db2w2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYWBWW](/stripes/bwbywbww/).
+
+Part of the [Madras 1](/tartans/m/ma/madras-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

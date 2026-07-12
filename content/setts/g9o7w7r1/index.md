@@ -6,6 +6,8 @@ This is the **MacKinnon, dress** sett — one scale-free proportion (`g9o7w7r1`)
 [GRWR](/stripes/grwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKinnon, dress](/tartans/m/ma/mackinnon-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

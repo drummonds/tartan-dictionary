@@ -6,6 +6,8 @@ This is the **Al-Maktoum** sett — one scale-free proportion (`w11r32g12r5g12r5
 [RGRGRW](/stripes/rgrgrw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Al-Maktoum](/tartans/a/al/al-maktoum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Angus (Paton)** sett — one scale-free proportion (`k27r13k27r2k2
 [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Angus](/tartans/angus-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Angus](/tartans/a/an/angus-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

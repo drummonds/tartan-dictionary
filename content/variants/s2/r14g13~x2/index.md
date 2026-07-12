@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Moncreiffe"
-  url: "/tartans/moncreiffe/"
+  url: "/tartans/m/mo/moncreiffe/"
 - name: "Moncreiffe (MacLachlan) Clan Tartan"
   url: "/setts/r14g13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r14g13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GR](/stripes/gr/).
 
-Part of the [Moncreiffe](/tartans/moncreiffe/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Moncreiffe](/tartans/m/mo/moncreiffe/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 

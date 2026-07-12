@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Winnipeg Embroiderers' Guild"
+  url: "/tartans/w/wi/winnipeg-embroiderers-guild/"
+- name: "Winnipeg Embroiderers' Guild"
   url: "/setts/r6db1y1w1db2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db1y1w1db2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGWBW](/stripes/rbgwbw/).
+
+Part of the [Winnipeg Embroiderers' Guild](/tartans/w/wi/winnipeg-embroiderers-guild/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

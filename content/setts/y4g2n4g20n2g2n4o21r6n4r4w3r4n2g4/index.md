@@ -6,6 +6,8 @@ This is the **Jewel Look JTB** sett — one scale-free proportion (`y4g2n4g20n2g
 [GBGBGBRRBRWRBGBRWRBRRBGBGBGG](/stripes/gbgbgbrrbrwrbgbrwrbrrbgbgbgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Jewel Look JTB](/tartans/j/je/jewel-look-jtb/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

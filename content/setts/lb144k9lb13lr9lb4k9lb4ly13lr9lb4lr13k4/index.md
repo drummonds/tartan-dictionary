@@ -6,6 +6,8 @@ This is the **London Fog Blue (Fashion)** sett — one scale-free proportion (`l
 [KYWYYWKWYWKW](/stripes/kywyywkwywkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [London Fog](/tartans/l/lo/london-fog-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

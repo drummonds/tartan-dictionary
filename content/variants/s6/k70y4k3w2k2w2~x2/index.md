@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kang"
+  url: "/tartans/k/ka/kang-2/"
 - name: "Kang Personal Tartan"
   url: "/setts/k70y4k3w2k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k70y4k3w2k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKKKGKWKW](/stripes/kkkkkkgkwkw/).
+
+Part of the [Kang](/tartans/k/ka/kang-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

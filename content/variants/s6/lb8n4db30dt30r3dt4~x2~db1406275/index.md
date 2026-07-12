@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hutchesons' Grammar"
+  url: "/tartans/h/hu/hutchesons-grammar/"
 - name: "Hutchesons' Grammar School"
   url: "/setts/lb8n4db30dt30r3dt4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8n4db30dt30r3dt4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBWBBBR](/stripes/brbbbwbbbr/).
+
+Part of the [Hutchesons' Grammar](/tartans/h/hu/hutchesons-grammar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

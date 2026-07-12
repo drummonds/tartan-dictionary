@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fletcher"
+  url: "/clan/fletcher/"
+- name: "Fletcher of Dunans"
+  url: "/families/fletcher-of-dunans/"
+- name: "Fletcher of Dunans"
+  url: "/tartans/f/fl/fletcher-of-dunans/"
 - name: "Fletcher of Dunans"
   url: "/setts/t10k3t10k14r2g14r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t10k3t10k14r2g14r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKRGR](/stripes/bkbkrgr/).
+
+Part of the [Fletcher of Dunans](/tartans/f/fl/fletcher-of-dunans/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

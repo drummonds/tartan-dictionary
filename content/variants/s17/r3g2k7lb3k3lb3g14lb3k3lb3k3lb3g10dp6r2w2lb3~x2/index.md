@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lee Cox"
+  url: "/tartans/l/le/lee-cox/"
 - name: "Lee Cox (Personal)"
   url: "/setts/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKWGWKWKWGBRWW](/stripes/rgkwkwgwkwkwgbrww/).
+
+Part of the [Lee Cox](/tartans/l/le/lee-cox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

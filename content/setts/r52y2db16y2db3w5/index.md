@@ -6,6 +6,8 @@ This is the **Brock University Alumni Association** sett — one scale-free prop
 [RGBGBW](/stripes/rgbgbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Brock University Alumni Association](/tartans/b/br/brock-university-alumni-association/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

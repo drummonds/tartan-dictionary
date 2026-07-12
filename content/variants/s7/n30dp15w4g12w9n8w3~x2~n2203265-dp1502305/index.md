@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Newall"
-  url: "/tartans/newall/"
+  url: "/tartans/n/ne/newall/"
 - name: "Newall (Dumbarton) (Personal)"
   url: "/setts/n30dp15w4g12w9n8w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n30dp15w4g12w9n8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWGWBW](/stripes/bbwgwbw/).
 
-Part of the [Newall](/tartans/newall/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newall](/tartans/n/ne/newall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

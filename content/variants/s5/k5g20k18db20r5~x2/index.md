@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Denholm"
+  url: "/tartans/d/de/denholm/"
 - name: "Denholm (Fashion)"
   url: "/setts/k5g20k18db20r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5g20k18db20r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBR](/stripes/kgkbr/).
+
+Part of the [Denholm](/tartans/d/de/denholm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

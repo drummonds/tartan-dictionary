@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Monuments"
+  url: "/tartans/s/sc/scottish-monuments/"
 - name: "Scottish Monuments (Corporate)"
   url: "/setts/k3n6k2n8dt20o3dt2o2dt3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3n6k2n8dt20o3dt2o2dt3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBKBK](/stripes/brbrbbkbk/).
+
+Part of the [Scottish Monuments](/tartans/s/sc/scottish-monuments/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

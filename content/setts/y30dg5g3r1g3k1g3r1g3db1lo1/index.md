@@ -6,6 +6,8 @@ This is the **California Department of Forestry (Corporate)** sett — one scale
 [GGGRGKGRGBY](/stripes/gggrgkgrgby/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [California Department of Forestry](/tartans/c/ca/california-department-of-forestry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

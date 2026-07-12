@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Thormanby Buccaneer Bay"
+  url: "/tartans/t/th/thormanby-buccaneer-bay/"
+- name: "Thormanby Buccaneer Bay"
   url: "/setts/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKBRBKGKGKGY](/stripes/gkgkgkbrbkgkgkgy/).
+
+Part of the [Thormanby Buccaneer Bay](/tartans/t/th/thormanby-buccaneer-bay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

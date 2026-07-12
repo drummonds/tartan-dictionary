@@ -6,6 +6,8 @@ This is the **Highland Spring Dress (2004) (Corp)** sett — one scale-free prop
 [WBGBW](/stripes/wbgbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Highland Spring Dress](/tartans/h/hi/highland-spring-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

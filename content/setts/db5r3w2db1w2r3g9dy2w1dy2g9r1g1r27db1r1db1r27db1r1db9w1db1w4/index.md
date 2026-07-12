@@ -6,6 +6,8 @@ This is the **Hebrides North Uist** sett — one scale-free proportion (`db5r3w2
 [BRWBWRGGWGGRGRBRBRBRBWBWBWBRBRBRBRGRGGWGGRWBWR](/stripes/brwbwrggwggrgrbrbrbrbwbwbwbrbrbrbrgrggwggrwbwr/). It is recorded as a single **variant**, below.
 First attested **1814**.
 
+Part of the [Hebrides North Uist](/tartans/h/he/hebrides-north-uist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

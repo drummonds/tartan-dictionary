@@ -6,6 +6,8 @@ This is the **Auburn University (Alabama)** sett — one scale-free proportion (
 [BRBRBR](/stripes/brbrbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Auburn University](/tartans/a/au/auburn-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

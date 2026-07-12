@@ -6,7 +6,7 @@ This is the **Graham of Menteith Clan Tartan** sett — one scale-free proportio
 [GWGKBK](/stripes/gwgkbk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Graham of Menteith](/tartans/graham-of-menteith/) tartan — the named design grouping this sett with its kin.
+Part of the [Graham of Menteith](/tartans/g/gr/graham-of-menteith/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

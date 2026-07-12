@@ -6,6 +6,8 @@ This is the **Mensa** sett — one scale-free proportion (`lb3k19db24r2db2y2db2`
 [BGBRBKW](/stripes/bgbrbkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Mensa](/tartans/m/me/mensa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

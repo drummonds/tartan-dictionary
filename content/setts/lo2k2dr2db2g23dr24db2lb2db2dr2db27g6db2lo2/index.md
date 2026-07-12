@@ -6,6 +6,8 @@ This is the **Olympicana** sett — one scale-free proportion (`lo2k2dr2db2g23dr
 [YBGBBBWBBGBBKY](/stripes/ybgbbbwbbgbbky/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Olympicana](/tartans/o/ol/olympicana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

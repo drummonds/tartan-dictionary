@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince Charles Edward"
+  url: "/tartans/p/pr/prince-charles-edward-2/"
 - name: "Unnamed C18th - Prince Charles Edward #2"
   url: "/setts/db40r40db44r2db2r40db2r2db2r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40r40db44r2db2r40db2r2db2r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbrbrbr/).
+
+Part of the [Prince Charles Edward](/tartans/p/pr/prince-charles-edward-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

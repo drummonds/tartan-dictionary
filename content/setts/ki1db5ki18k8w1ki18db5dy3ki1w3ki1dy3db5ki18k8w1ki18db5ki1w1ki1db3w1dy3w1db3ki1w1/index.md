@@ -6,6 +6,8 @@ This is the **MacPerl Dress (Personal)** sett — one scale-free proportion (`ki
 [KBKKWKBGKWKGBKKWKBKWKBWGWBKW](/stripes/kbkkwkbgkwkgbkkwkbkwkbwgwbkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [MacPerl Dress](/tartans/m/ma/macperl-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

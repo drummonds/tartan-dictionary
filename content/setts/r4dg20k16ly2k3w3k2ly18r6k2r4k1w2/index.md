@@ -6,6 +6,8 @@ This is the **Johnson, J.M.** sett — one scale-free proportion (`r4dg20k16ly2k
 [RGKYKWKYRKRKW](/stripes/rgkykwkyrkrkw/). It is recorded as a single **variant**, below.
 First attested **1967**.
 
+Part of the [Johnson, J.M.](/tartans/j/jo/johnson-j-m/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

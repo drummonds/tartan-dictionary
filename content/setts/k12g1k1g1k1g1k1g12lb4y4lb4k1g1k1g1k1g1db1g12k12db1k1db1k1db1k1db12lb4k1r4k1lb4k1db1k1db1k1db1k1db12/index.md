@@ -6,7 +6,7 @@ This is the **Coutts 75th (Name)** sett — one scale-free proportion (`k12g1k1g
 [BKBKBKBKWKRKWBKBKBKBKGBGKGKGKWGWGKGKGKGK](/stripes/bkbkbkbkwkrkwbkbkbkbkgbgkgkgkwgwgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Coutts 75th](/tartans/coutts-75th/) tartan — the named design grouping this sett with its kin.
+Part of the [Coutts 75th](/tartans/c/co/coutts-75th/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

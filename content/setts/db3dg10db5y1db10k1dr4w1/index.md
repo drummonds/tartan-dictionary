@@ -6,6 +6,8 @@ This is the **Côté-Haché (Personal)** sett — one scale-free proportion (`db
 [BGBGBKBW](/stripes/bgbgbkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Cot-Hach l)](/tartans/c/co/cot-hach-l/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

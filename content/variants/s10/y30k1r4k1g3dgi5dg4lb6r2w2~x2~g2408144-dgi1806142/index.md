@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Essex, County Ontario"
-  url: "/tartans/essex-county-ontario/"
+  url: "/tartans/e/es/essex-county-ontario/"
 - name: "Essex County Ontario District Tartan"
   url: "/setts/y30k1r4k1g3dgi5dg4lb6r2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y30k1r4k1g3dgi5dg4lb6r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGGGWRW](/stripes/gkrkgggwrw/).
 
-Part of the [Essex, County Ontario](/tartans/essex-county-ontario/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Essex, County Ontario](/tartans/e/es/essex-county-ontario/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

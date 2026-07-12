@@ -6,6 +6,8 @@ This is the **Campbell Brown Personal Tartan** sett — one scale-free proportio
 [GKBGBGBGBGBKW](/stripes/gkbgbgbgbgbkw/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Campbell](/tartans/c/ca/campbell-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

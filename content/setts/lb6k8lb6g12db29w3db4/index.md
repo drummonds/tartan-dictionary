@@ -6,7 +6,7 @@ This is the **Dickson (Kirkcudbrightshire)** sett — one scale-free proportion 
 [BWBGWKW](/stripes/bwbgwkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Dickson](/tartans/dickson/) tartan — the named design grouping this sett with its kin.
+Part of the [Dickson](/tartans/d/di/dickson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

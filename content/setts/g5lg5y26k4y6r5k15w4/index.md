@@ -6,6 +6,8 @@ This is the **Cornish Christophers (Personal)** sett — one scale-free proporti
 [GYGKGRKW](/stripes/gygkgrkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Cornish Christophers](/tartans/c/co/cornish-christophers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bennett, John Paul (Personal)** sett — one scale-free proportion
 [RWKWKGY](/stripes/rwkwkgy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bennett, John Paul](/tartans/b/be/bennett-john-paul-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

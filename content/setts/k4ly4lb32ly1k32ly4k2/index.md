@@ -6,6 +6,8 @@ This is the **Gleneagles Gold (Dalgleish)** sett — one scale-free proportion (
 [KYKYWYK](/stripes/kykywyk/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Gleneagles Gold](/tartans/g/gl/gleneagles-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

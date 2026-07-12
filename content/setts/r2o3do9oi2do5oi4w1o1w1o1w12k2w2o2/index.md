@@ -6,6 +6,8 @@ This is the **Harrods** sett — one scale-free proportion (`r2o3do9oi2do5oi4w1o
 [RRBRBRWRWRWKWR](/stripes/rrbrbrwrwrwkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harrods](/tartans/h/ha/harrods-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

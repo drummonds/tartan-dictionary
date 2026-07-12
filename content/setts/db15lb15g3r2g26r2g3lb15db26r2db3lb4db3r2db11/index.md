@@ -6,6 +6,8 @@ This is the **Grampian Trade Tartan** sett — one scale-free proportion (`db15l
 [BRBWBRBWGRGRGWB](/stripes/brbwbrbwgrgrgwb/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Grampian](/tartans/g/gr/grampian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **De Clercq, Christian (Belgium)** sett — one scale-free proportio
 [WBWRWBRWBYBYW](/stripes/wbwrwbrwbybyw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [De Clercq, Christian](/tartans/d/de/de-clercq-christian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

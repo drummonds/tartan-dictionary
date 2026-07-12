@@ -6,6 +6,8 @@ This is the **Dunning Primary (School)** sett — one scale-free proportion (`db
 [BBWBG](/stripes/bbwbg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Dunning Primary](/tartans/d/du/dunning-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

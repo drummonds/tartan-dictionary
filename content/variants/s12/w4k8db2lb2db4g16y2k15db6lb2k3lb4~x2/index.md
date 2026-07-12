@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Veere"
+  url: "/tartans/v/ve/veere-2/"
+- name: "Veere"
   url: "/setts/w4k8db2lb2db4g16y2k15db6lb2k3lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k8db2lb2db4g16y2k15db6lb2k3lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWBGGKBWKW](/stripes/wkbwbggkbwkw/).
+
+Part of the [Veere](/tartans/v/ve/veere-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

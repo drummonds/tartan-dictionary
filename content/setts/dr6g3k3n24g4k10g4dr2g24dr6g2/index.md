@@ -6,6 +6,8 @@ This is the **MacNeish Htg** sett — one scale-free proportion (`dr6g3k3n24g4k1
 [BGKBGKGBGBG](/stripes/bgkbgkgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacNeish Hunting](/tartans/m/ma/macneish-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

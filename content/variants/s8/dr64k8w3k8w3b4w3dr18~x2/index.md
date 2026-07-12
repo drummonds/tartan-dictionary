@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inverness"
+  url: "/tartans/i/in/inverness-2/"
 - name: "Inverness - 2000 (Fashion)"
   url: "/setts/dr64k8w3k8w3b4w3dr18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr64k8w3k8w3b4w3dr18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWBWB](/stripes/bkwkwbwb/).
+
+Part of the [Inverness](/tartans/i/in/inverness-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

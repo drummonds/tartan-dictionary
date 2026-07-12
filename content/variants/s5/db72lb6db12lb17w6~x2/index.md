@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "GulfMark"
+  url: "/tartans/g/gu/gulfmark/"
+- name: "GulfMark"
   url: "/setts/db72lb6db12lb17w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db72lb6db12lb17w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWW](/stripes/bwbww/).
+
+Part of the [GulfMark](/tartans/g/gu/gulfmark/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

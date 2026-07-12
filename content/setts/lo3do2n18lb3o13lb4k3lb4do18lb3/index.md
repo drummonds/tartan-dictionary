@@ -6,6 +6,8 @@ This is the **Leitrim, County** sett — one scale-free proportion (`lo3do2n18lb
 [WBWKWRWBBY](/stripes/wbwkwrwbby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Leitrim, County](/tartans/l/le/leitrim-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

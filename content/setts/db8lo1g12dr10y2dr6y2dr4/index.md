@@ -6,7 +6,7 @@ This is the **Indiana 'Cardinal'** sett — one scale-free proportion (`db8lo1g1
 [BYGBGBGBGBGBGY](/stripes/bygbgbgbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Indiana "Cardinal"](/tartans/indiana-cardinal/) tartan — the named design grouping this sett with its kin.
+Part of the [Indiana "Cardinal"](/tartans/i/in/indiana-cardinal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

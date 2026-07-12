@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crumlish"
+  url: "/tartans/c/cr/crumlish/"
 - name: "Crumlish (2015)"
   url: "/setts/n44y2dg27y2g16lb8dg16lb2dg8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n44y2dg27y2g16lb8dg16lb2dg8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGWGWG](/stripes/bggggwgwg/).
+
+Part of the [Crumlish](/tartans/c/cr/crumlish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

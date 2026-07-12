@@ -1,0 +1,40 @@
+---
+title: "St Kilda"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KR](/stripes/kr/) — the page of every tartan sharing this colour sequence.
+
+Reconstructed by Dr Phil Smith from a fragment in Edinburgh's Royal Museum of Antiquities.
+
+The **St Kilda** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k4r1/">St Kilda</a></td><td><code>K/144 R/36</code></td><td>180</td><td>1900</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4r1/"><img src="/variants/s2/k4r1~x36/sett.png" alt="St Kilda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s2/k4r1~x36/">St Kilda</a> · <a href="/variants/s2/k4r1~x6/">St Kilda</a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- St. Kilda
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">180</div><div class="nn-name nn-base"><a href="/variants/s2/k4r1~x36/">St Kilda</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s2/k4r1~x36/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r1~x6&amp;base=k4r1~x36" title="compare in the TTD">0.00</a></div><div class="nn-threads">30</div><div class="nn-name"><a href="/variants/s2/k4r1~x6/">St Kilda District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s2/k4r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8k3~x2&amp;base=k4r1~x36" title="compare in the TTD">0.97</a></div><div class="nn-threads">22</div><div class="nn-name"><a href="/variants/s2/r8k3~x2/">Wilson's No.234</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s2/r8k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k69r14y5~x2&amp;base=k4r1~x36" title="compare in the TTD">0.97</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s3/k69r14y5~x2/">Batson (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k69r14y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr8w1k1~x20&amp;base=k4r1~x36" title="compare in the TTD">1.10</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s3/dr8w1k1~x20/">International Karate Fed. (Corporat)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dr8w1k1~x20/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3lo2k10w1~x6&amp;base=k4r1~x36" title="compare in the TTD">1.24</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s4/dr3lo2k10w1~x6/">St. Eloi</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr3lo2k10w1~x6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1r1k12g1~x4&amp;base=k4r1~x36" title="compare in the TTD">1.34</a></div><div class="nn-threads">112</div><div class="nn-name"><a href="/variants/s4/db1r1k12g1~x4/">MacNathair Sgianach</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1r1k12g1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k10r3k1~x4&amp;base=k4r1~x36" title="compare in the TTD">1.59</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s3/k10r3k1~x4/">Red Watch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k10r3k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5y1k1~x12&amp;base=k4r1~x36" title="compare in the TTD">1.76</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s3/k5y1k1~x12/">Justus</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k5y1k1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5lo1k1~x20&amp;base=k4r1~x36" title="compare in the TTD">1.76</a></div><div class="nn-threads">160</div><div class="nn-name"><a href="/variants/s3/k5lo1k1~x20/">Justus #2 (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k5lo1k1~x20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k15lb1~x12&amp;base=k4r1~x36" title="compare in the TTD">1.78</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s2/k15lb1~x12/">Joy's Fancy, Allen (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s2/k15lb1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/k4r1~x6/"><circle cx="442.1" cy="303.2" r="4" fill="#3465a4"><title>St Kilda District Tartan</title></circle></a><a href="/variants/s2/r8k3~x2/"><circle cx="366.3" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="462.1" cy="196.2" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.5" cy="184.1" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="463.3" cy="228.8" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s3/k5y1k1~x12/"><circle cx="416.9" cy="249.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s3/k5lo1k1~x20/"><circle cx="401.2" cy="245.3" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/variants/s2/k15lb1~x12/"><circle cx="626.0" cy="243.2" r="4" fill="#3465a4"><title>Joy's Fancy, Allen (Personal)</title></circle></a><circle cx="442.1" cy="303.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -6,6 +6,8 @@ This is the **Jacobite Silk sash** sett — one scale-free proportion (`w2ri8dy5
 [WRGGWGWRRW](/stripes/wrggwgwrrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Jacobite Silk sash](/tartans/j/ja/jacobite-silk-sash/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

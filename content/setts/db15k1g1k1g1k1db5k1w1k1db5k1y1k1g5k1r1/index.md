@@ -6,6 +6,8 @@ This is the **Cockburn Blue** sett — one scale-free proportion (`db15k1g1k1g1k
 [BKGKGKBKWKBKGKGKR](/stripes/bkgkgkbkwkbkgkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cockburn](/tartans/c/co/cockburn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

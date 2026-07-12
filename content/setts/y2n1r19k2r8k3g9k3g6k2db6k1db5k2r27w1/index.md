@@ -6,6 +6,8 @@ This is the **Muzzi, Massimiliano, baron of Strichen Dress (Personal)** sett —
 [GBRKRKGKGKBKBKRW](/stripes/gbrkrkgkgkbkbkrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Muzzi, Massimiliano, baron of Strichen Dress](/tartans/m/mu/muzzi-massimiliano-baron-of-strichen-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

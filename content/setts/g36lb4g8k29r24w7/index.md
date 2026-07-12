@@ -6,6 +6,8 @@ This is the **Entre Rios Province (Provisional** sett — one scale-free proport
 [GWGKRW](/stripes/gwgkrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Entre Rios Province](/tartans/e/en/entre-rios-province/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

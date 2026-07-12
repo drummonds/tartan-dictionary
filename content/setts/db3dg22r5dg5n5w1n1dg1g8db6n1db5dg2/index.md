@@ -6,6 +6,8 @@ This is the **Mill o Forest Primary School (Corp)** sett — one scale-free prop
 [BGRGBWBGGBBBG](/stripes/bgrgbwbggbbbg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Mill o Forest Primary School](/tartans/m/mi/mill-o-forest-primary-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

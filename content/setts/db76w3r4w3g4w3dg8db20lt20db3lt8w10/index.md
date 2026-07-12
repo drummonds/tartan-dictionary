@@ -6,7 +6,7 @@ This is the **Summerwood** sett — one scale-free proportion (`db76w3r4w3g4w3dg
 [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Summerwood](/tartans/summerwood/) tartan — the named design grouping this sett with its kin.
+Part of the [Summerwood](/tartans/s/su/summerwood/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

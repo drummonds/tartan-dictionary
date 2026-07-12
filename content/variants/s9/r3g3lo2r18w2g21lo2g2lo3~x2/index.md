@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Kingsburgh"
+  url: "/families/macdonald-of-kingsburgh/"
+- name: "MacDonald of Kingsburgh"
+  url: "/tartans/m/ma/macdonald-of-kingsburgh-2/"
 - name: "MacDonald of Kingsburgh"
   url: "/setts/r3g3lo2r18w2g21lo2g2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3g3lo2r18w2g21lo2g2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGYRWGYGY](/stripes/rgyrwgygy/).
+
+Part of the [MacDonald of Kingsburgh](/tartans/m/ma/macdonald-of-kingsburgh-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

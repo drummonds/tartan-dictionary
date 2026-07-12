@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Presley"
+  url: "/clan/presley/"
+- name: "Presley of Lonmay"
+  url: "/families/presley-of-lonmay/"
+- name: "Presley of Lonmay"
+  url: "/tartans/p/pr/presley-of-lonmay-2/"
 - name: "Presley of Lonmay"
   url: "/setts/k2lb25k2t8k2g28y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2lb25k2t8k2g28y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKWK](/stripes/ggkbkwk/).
+
+Part of the [Presley of Lonmay](/tartans/p/pr/presley-of-lonmay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

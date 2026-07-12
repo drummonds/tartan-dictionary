@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ralston"
+  url: "/tartans/r/ra/ralston-3/"
 - name: "Ralston (USA)"
   url: "/setts/g7n3r3lb3r3n3g12y4g4y4lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7n3r3lb3r3n3g12y4g4y4lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRWRBGGGGW](/stripes/gbrwrbggggw/).
+
+Part of the [Ralston](/tartans/r/ra/ralston-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

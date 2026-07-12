@@ -6,6 +6,8 @@ This is the **Klappert Original (Odsherred, Denmark) (Personal)** sett — one s
 [RKBKBKGKR](/stripes/rkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Klappert Original](/tartans/k/kl/klappert-original/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

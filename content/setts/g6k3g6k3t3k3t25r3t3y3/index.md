@@ -6,6 +6,8 @@ This is the **Borders Health Board (Corporate)** sett — one scale-free proport
 [GBRBKBKGKG](/stripes/gbrbkbkgkg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Borders Health Board](/tartans/b/bo/borders-health-board/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

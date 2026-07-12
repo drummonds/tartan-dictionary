@@ -6,6 +6,8 @@ This is the **Unidentified (Gow-like)** sett — one scale-free proportion (`r3k
 [RGRKR](/stripes/rgrkr/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-51/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

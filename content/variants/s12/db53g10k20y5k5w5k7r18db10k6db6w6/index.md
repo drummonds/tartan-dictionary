@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Broager"
+  url: "/tartans/b/br/broager/"
 - name: "Broager (Name)"
   url: "/setts/db53g10k20y5k5w5k7r18db10k6db6w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db53g10k20y5k5w5k7r18db10k6db6w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKWKRBKBW](/stripes/bgkgkwkrbkbw/).
+
+Part of the [Broager](/tartans/b/br/broager/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

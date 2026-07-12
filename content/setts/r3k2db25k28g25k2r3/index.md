@@ -6,6 +6,8 @@ This is the **Coarse Kilt** sett — one scale-free proportion (`r3k2db25k28g25k
 [RKBKGKR](/stripes/rkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1790**.
 
+Part of the [Coarse](/tartans/c/co/coarse/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Perry Golf** sett — one scale-free proportion (`dt4lr4db7lr4dt3l
 [BYBYBYBBBBBBBBYR](/stripes/bybybybbbbbbbbyr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Perry Golf](/tartans/p/pe/perry-golf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

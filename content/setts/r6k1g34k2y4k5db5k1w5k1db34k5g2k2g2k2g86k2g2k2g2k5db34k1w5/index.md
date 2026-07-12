@@ -6,6 +6,8 @@ This is the **Cockburn, Old pattern** sett — one scale-free proportion (`r6k1g
 [RKGKGKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkgkbkwkbkgkgkgkgkgkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cockburn, Old pattern](/tartans/c/co/cockburn-old-pattern/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

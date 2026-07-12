@@ -6,7 +6,7 @@ This is the **Junior Chamber International (Corp)** sett — one scale-free prop
 [BGKBGBY](/stripes/bgkbgby/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Junior Chamber International](/tartans/junior-chamber-international-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Junior Chamber International](/tartans/j/ju/junior-chamber-international-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

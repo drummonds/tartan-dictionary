@@ -6,7 +6,7 @@ This is the **Brooks Brothers Signature Corporate Tartan** sett — one scale-fr
 [BGGBBBGBG](/stripes/bggbbbgbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Brooks Brothers Signature](/tartans/brooks-brothers-signature/) tartan — the named design grouping this sett with its kin.
+Part of the [Brooks Brothers Signature](/tartans/b/br/brooks-brothers-signature/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **MacKay, Dress (Corporate)** sett — one scale-free proportion (`k
 [BWGKGK](/stripes/bwgkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [MacKay Dress](/tartans/mackay-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKay Dress](/tartans/m/ma/mackay-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

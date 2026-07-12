@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "YPO Dress"
+  url: "/tartans/y/yp/ypo-dress/"
+- name: "YPO Dress"
   url: "/setts/do3o16do2dp12dg12do2dy16lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do3o16do2dp12dg12do2dy16lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBGBGW](/stripes/brbbgbgw/).
+
+Part of the [YPO Dress](/tartans/y/yp/ypo-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -7,7 +7,7 @@ This is the **Cochrane** sett — one scale-free proportion (`g16r2g2r1g3r1g2r2g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1934**.
 
-Part of the [Cochrane](/tartans/cochrane/) tartan — the named design grouping this sett with its kin.
+Part of the [Cochrane](/tartans/c/co/cochrane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

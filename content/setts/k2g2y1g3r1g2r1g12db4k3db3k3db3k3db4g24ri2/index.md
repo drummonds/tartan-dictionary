@@ -7,7 +7,7 @@ This is the **Kennedy** sett — one scale-free proportion (`k2g2y1g3r1g2r1g12db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1847**.
 
-Part of the [Kennedy](/tartans/kennedy-7/) tartan — the named design grouping this sett with its kin.
+Part of the [Kennedy](/tartans/k/ke/kennedy-7/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Finnie (Personal)** sett — one scale-free proportion (`k4w1dp5w1
 [BWBKWBWK](/stripes/bwbkwbwk/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Finnie](/tartans/finnie/) tartan — the named design grouping this sett with its kin.
+Part of the [Finnie](/tartans/f/fi/finnie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Wells, Greg Dress (Personal)** sett — one scale-free proportion 
 [RGGGBWGGGWGGYGR](/stripes/rgggbwgggwggygr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Wells, Greg Dress](/tartans/w/we/wells-greg-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

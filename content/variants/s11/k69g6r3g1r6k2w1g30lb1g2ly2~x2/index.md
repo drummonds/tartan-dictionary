@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Downs"
+  url: "/tartans/d/do/downs-2/"
 - name: "Downs (Personal)"
   url: "/setts/k69g6r3g1r6k2w1g30lb1g2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k69g6r3g1r6k2w1g30lb1g2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRGRKWGWGY](/stripes/kgrgrkwgwgy/).
+
+Part of the [Downs](/tartans/d/do/downs-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

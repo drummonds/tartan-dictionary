@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Johnston"
-  url: "/tartans/johnston/"
+  url: "/tartans/j/jo/johnston/"
 - name: "Johnston"
   url: "/setts/y3g2k1g30db24k2db2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y3g2k1g30db24k2db2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGBKBK](/stripes/ggkgbkbk/).
 
-Part of the [Johnston](/tartans/johnston/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Johnston](/tartans/j/jo/johnston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **RAAF #2** sett — one scale-free proportion (`dbi66w1db10w1db10w1
 [BWBWBWBRW](/stripes/bwbwbwbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [RAAF](/tartans/raaf-2/) tartan — the named design grouping this sett with its kin.
+Part of the [RAAF](/tartans/r/ra/raaf-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacArthur-Fox Hunting"
+  url: "/tartans/m/ma/macarthur-fox-hunting/"
 - name: "MacArthur-Fox Htg (Personal)"
   url: "/setts/dr3g30k12g1k16lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3g30k12g1k16lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKY](/stripes/bgkgky/).
+
+Part of the [MacArthur-Fox Hunting](/tartans/m/ma/macarthur-fox-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

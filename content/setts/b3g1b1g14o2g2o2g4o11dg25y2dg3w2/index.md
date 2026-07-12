@@ -6,6 +6,8 @@ This is the **Buglass** sett — one scale-free proportion (`b3g1b1g14o2g2o2g4o1
 [BGBGRGRGRGGGW](/stripes/bgbgrgrgrgggw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Buglass](/tartans/b/bu/buglass/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

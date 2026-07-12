@@ -6,7 +6,7 @@ This is the **DunBroch** sett — one scale-free proportion (`db4t8k2t5w2t5dg8dr
 [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [DunBroch](/tartans/dunbroch/) tartan — the named design grouping this sett with its kin.
+Part of the [DunBroch](/tartans/d/du/dunbroch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

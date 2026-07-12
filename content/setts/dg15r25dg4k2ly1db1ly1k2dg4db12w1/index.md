@@ -6,6 +6,8 @@ This is the **Livingstone - Australia (Personal)** sett — one scale-free propo
 [GRGKYBYKGBW](/stripes/grgkybykgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Livingstone](/tartans/l/li/livingstone-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

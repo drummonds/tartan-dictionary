@@ -6,7 +6,7 @@ This is the **Hewitt (Name)** sett — one scale-free proportion (`r30db12k3g12y
 [RBKGGGW](/stripes/rbkgggw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Hewitt](/tartans/hewitt/) tartan — the named design grouping this sett with its kin.
+Part of the [Hewitt](/tartans/h/he/hewitt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

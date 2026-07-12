@@ -7,6 +7,8 @@ This is the **Connel (Clan)** sett — one scale-free proportion (`y1k8r8w1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1888**.
 
+Part of the [Connel](/tartans/c/co/connel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

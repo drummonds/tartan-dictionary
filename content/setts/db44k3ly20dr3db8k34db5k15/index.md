@@ -6,6 +6,8 @@ This is the **U.S. Air Force Reserve P. B. (Corpor** sett — one scale-free pro
 [BKYBBKBK](/stripes/bkybbkbk/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [U.S. Air Force Reserve P. B. (Corpor](/tartans/u/u/u-s-air-force-reserve-p-b-corpor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

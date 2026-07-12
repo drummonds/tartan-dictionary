@@ -6,6 +6,8 @@ This is the **Smithsonian** sett — one scale-free proportion (`db24ly1r2dg2r2l
 [BYRGRYKGWBWGKYRGRYBG](/stripes/byrgrykgwbwgkyrgrybg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Smithsonian](/tartans/s/sm/smithsonian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Hebridean Granite Fashion Tartan** sett — one scale-free proport
 [RWRKRKBW](/stripes/rwrkrkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Hebridean Granite](/tartans/hebridean-granite/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebridean Granite](/tartans/h/he/hebridean-granite/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacFarlane"
-  url: "/tartans/macfarlane/"
+  url: "/tartans/m/ma/macfarlane/"
 - name: "MacFarlane Red"
   url: "/setts/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
 
-Part of the [MacFarlane](/tartans/macfarlane/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacFarlane](/tartans/m/ma/macfarlane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

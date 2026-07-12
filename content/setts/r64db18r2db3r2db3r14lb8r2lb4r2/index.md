@@ -6,6 +6,8 @@ This is the **Bennet** sett — one scale-free proportion (`r64db18r2db3r2db3r14
 [RBRBRBRWRWR](/stripes/rbrbrbrwrwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Bennet](/tartans/b/be/bennet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

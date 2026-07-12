@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow Academy"
+  url: "/tartans/g/gl/glasgow-academy-2/"
 - name: "Glasgow Academy Corporate Tartan"
   url: "/setts/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/).
+
+Part of the [Glasgow Academy](/tartans/g/gl/glasgow-academy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

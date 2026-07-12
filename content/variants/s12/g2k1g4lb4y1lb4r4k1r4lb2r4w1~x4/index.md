@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British Columbia"
+  url: "/tartans/b/br/british-columbia-3/"
 - name: "British Columbia District Tartan"
   url: "/setts/g2k1g4lb4y1lb4r4k1r4lb2r4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2k1g4lb4y1lb4r4k1r4lb2r4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGWGWRKRWRW](/stripes/gkgwgwrkrwrw/).
+
+Part of the [British Columbia](/tartans/b/br/british-columbia-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

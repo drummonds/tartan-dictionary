@@ -6,6 +6,8 @@ This is the **Crail** sett — one scale-free proportion (`n140k3w16k3do16k3do16
 [BKBKWKB](/stripes/bkbkwkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Crail](/tartans/c/cr/crail/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Afternoon Tea / Assam** sett — one scale-free proportion (`r15dr
 [RBBWBW](/stripes/rbbwbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Afternoon Tea / Assam](/tartans/a/af/afternoon-tea-assam-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

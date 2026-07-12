@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Haus"
+  url: "/clan/haus/"
+- name: "Haus of RvR"
+  url: "/families/haus-of-rvr/"
+- name: "Haus of RvR"
+  url: "/tartans/h/ha/haus-of-rvr/"
 - name: "Haus of RvR"
   url: "/setts/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGKBKBWB](/stripes/bkbkgkbkbwb/).
+
+Part of the [Haus of RvR](/tartans/h/ha/haus-of-rvr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

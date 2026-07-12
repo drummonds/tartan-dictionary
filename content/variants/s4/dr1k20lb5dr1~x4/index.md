@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dobelman"
+  url: "/tartans/d/do/dobelman/"
 - name: "Dobelman (Personal)"
   url: "/setts/dr1k20lb5dr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1k20lb5dr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWB](/stripes/bkwb/).
+
+Part of the [Dobelman](/tartans/d/do/dobelman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

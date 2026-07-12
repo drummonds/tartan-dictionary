@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerry County Crest"
+  url: "/tartans/k/ke/kerry-county-crest/"
 - name: "Kerry County Crest (Fashion)"
   url: "/setts/y14db5g25db5w2g11db7w5g6y5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y14db5g25db5w2g11db7w5g6y5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWGBWGG](/stripes/gbgbwgbwgg/).
+
+Part of the [Kerry County Crest](/tartans/k/ke/kerry-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

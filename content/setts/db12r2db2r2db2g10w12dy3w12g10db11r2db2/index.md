@@ -6,6 +6,8 @@ This is the **Idaho Centennial Commemorative Tartan** sett — one scale-free pr
 [BRBGWGWGBRBRB](/stripes/brbgwgwgbrbrb/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Idaho](/tartans/i/id/idaho/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

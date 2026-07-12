@@ -6,6 +6,8 @@ This is the **Unnamed 18th century plaid (Carlisle Museum)** sett — one scale-
 [RBKGRKGKBRW](/stripes/rbkgrkgkbrw/). It is recorded as a single **variant**, below.
 First attested **1901**.
 
+Part of the [Unnamed 18th century](/tartans/u/un/unnamed-18th-century/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

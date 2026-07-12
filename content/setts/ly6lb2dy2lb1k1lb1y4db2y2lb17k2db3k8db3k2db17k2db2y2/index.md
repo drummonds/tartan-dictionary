@@ -6,6 +6,8 @@ This is the **Ferrari (Coldrerio)** sett — one scale-free proportion (`ly6lb2d
 [GBKBKBKBKWGBGWKWGWY](/stripes/gbkbkbkbkwgbgwkwgwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ferrari](/tartans/f/fe/ferrari/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

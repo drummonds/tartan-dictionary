@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Institute of Directors"
+  url: "/tartans/i/in/institute-of-directors-2/"
 - name: "Institute of Directors (Scotland)"
   url: "/setts/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBBBBBBBBKBK](/stripes/bybbbbbbbbkbk/).
+
+Part of the [Institute of Directors](/tartans/i/in/institute-of-directors-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Walker** sett — one scale-free proportion (`y4k2r7k15r3k3r3k7r28
 [GKRKRKRKRGRG](/stripes/gkrkrkrkrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Walker](/tartans/w/wa/walker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

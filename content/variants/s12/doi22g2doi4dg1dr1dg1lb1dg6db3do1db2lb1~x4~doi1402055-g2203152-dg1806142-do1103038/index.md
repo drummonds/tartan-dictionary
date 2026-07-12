@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Diana Hunting, Lady"
+  url: "/tartans/d/di/diana-hunting-lady/"
+- name: "Diana Hunting, Lady"
   url: "/setts/doi22g2doi4dg1dr1dg1lb1dg6db3do1db2lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/doi22g2doi4dg1dr1dg1lb1dg6db3do1db2lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWGBBBW](/stripes/bgbgbgwgbbbw/).
+
+Part of the [Diana Hunting, Lady](/tartans/d/di/diana-hunting-lady/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

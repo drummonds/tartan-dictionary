@@ -6,6 +6,8 @@ This is the **Buckleigh Dress (Fashion)** sett — one scale-free proportion (`k
 [KRKWKRKWKR](/stripes/krkwkrkwkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Buckleigh Dress](/tartans/b/bu/buckleigh-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

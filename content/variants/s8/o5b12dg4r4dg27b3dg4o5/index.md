@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daks, Muted Loden"
+  url: "/tartans/d/da/daks-muted-loden/"
+- name: "Daks, Muted Loden"
   url: "/setts/o5b12dg4r4dg27b3dg4o5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o5b12dg4r4dg27b3dg4o5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGRGBGR](/stripes/rbgrgbgr/).
+
+Part of the [Daks, Muted Loden](/tartans/d/da/daks-muted-loden/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

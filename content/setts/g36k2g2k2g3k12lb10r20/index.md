@@ -6,6 +6,8 @@ This is the **Georgia, State of** sett — one scale-free proportion (`g36k2g2k2
 [GKGKGKWR](/stripes/gkgkgkwr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Georgia](/tartans/g/ge/georgia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

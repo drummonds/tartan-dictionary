@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maine Acadia"
+  url: "/tartans/m/ma/maine-acadia/"
+- name: "Maine Acadia"
   url: "/setts/dg5k1y2k1dg19k15y2db20dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg5k1y2k1dg19k15y2db20dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGKG](/stripes/gbgkgkgkg/).
+
+Part of the [Maine Acadia](/tartans/m/ma/maine-acadia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

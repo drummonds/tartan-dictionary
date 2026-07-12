@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Quebec, Centennial"
+  url: "/tartans/q/qu/quebec-centennial-2/"
+- name: "Quebec, Centennial"
   url: "/setts/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbkbkbkwbwkrbrbrbrbrbrbrbrkwk/).
+
+Part of the [Quebec, Centennial](/tartans/q/qu/quebec-centennial-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 

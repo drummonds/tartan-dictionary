@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kilkenny Irish County"
+  url: "/tartans/k/ki/kilkenny-irish-county/"
 - name: "Kilkenny Irish County Tartan"
   url: "/setts/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRBYGBGYBRG](/stripes/gbgrbygbgybrg/).
+
+Part of the [Kilkenny Irish County](/tartans/k/ki/kilkenny-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

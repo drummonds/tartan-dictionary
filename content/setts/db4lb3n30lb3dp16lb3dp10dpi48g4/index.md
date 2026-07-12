@@ -6,7 +6,7 @@ This is the **Heather (RSPCC)** sett — one scale-free proportion (`db4lb3n30lb
 [BWBWBWBBGBBWBWBW](/stripes/bwbwbwbbgbbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Heather](/tartans/heather-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Heather](/tartans/h/he/heather-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

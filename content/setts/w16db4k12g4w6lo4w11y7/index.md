@@ -6,7 +6,7 @@ This is the **MacLaren (D.C Dalgliesh version)** sett — one scale-free proport
 [GWYWGKBW](/stripes/gwywgkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacLaren](/tartans/maclaren-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaren](/tartans/m/ma/maclaren-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

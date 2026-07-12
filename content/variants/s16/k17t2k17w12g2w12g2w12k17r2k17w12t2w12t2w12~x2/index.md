@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinnison"
+  url: "/tartans/k/ki/kinnison-2/"
 - name: "Kinnison (Clan?)"
   url: "/setts/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWGWGWKRKWBWBW](/stripes/kbkwgwgwkrkwbwbw/).
+
+Part of the [Kinnison](/tartans/k/ki/kinnison-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

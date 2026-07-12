@@ -6,6 +6,8 @@ This is the **Kang (Personal)** sett — one scale-free proportion (`db44k3db3k3
 [BKBKBKGKWKW](/stripes/bkbkbkgkwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kang](/tartans/k/ka/kang/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

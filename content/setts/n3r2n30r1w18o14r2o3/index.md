@@ -6,6 +6,8 @@ This is the **Bannockbane Variant** sett — one scale-free proportion (`n3r2n30
 [BRBRWRRR](/stripes/brbrwrrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane Variant](/tartans/b/ba/bannockbane-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

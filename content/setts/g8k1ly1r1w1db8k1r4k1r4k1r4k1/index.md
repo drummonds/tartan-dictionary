@@ -6,6 +6,8 @@ This is the **Norwich No.158** sett — one scale-free proportion (`g8k1ly1r1w1d
 [GKYRWBKRKRKRK](/stripes/gkyrwbkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.158](/tartans/n/no/norwich-no-158/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

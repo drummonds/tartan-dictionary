@@ -1,0 +1,41 @@
+---
+title: "Billy Apple®"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GKRG](/stripes/gkrg/) — the page of every tartan sharing this colour sequence.
+
+The **Billy Apple®** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/y1k8r13g1/">Billy Apple®</a> ★</td><td><code>Y/6 K48 R78 G/6</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y1k8r13g1/"><img src="/variants/s4/y1k8r13g1~x6/sett.png" alt="Billy Apple® sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g1r8k13ly1/">Billy Apple</a></td><td><code>LY/6 K78 R48 G/6</code></td><td>264</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g1r8k13ly1/"><img src="g1r8k13ly1-rev.png" alt="Billy Apple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Billy Apple
+- Billy Apple® Red
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s4/y1k8r13g1~x6/">Billy Apple®</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/y1k8r13g1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g1r8k13ly1~x6&amp;base=y1k8r13g1~x6" title="compare in the TTD">0.81</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s4/g1r8k13ly1~x6/">Billy Apple</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g1r8k13ly1~x6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k8r8w1~x4&amp;base=y1k8r13g1~x6" title="compare in the TTD">0.83</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s4/y1k8r8w1~x4/">Connel (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y1k8r8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k8r8w1~x2&amp;base=y1k8r13g1~x6" title="compare in the TTD">0.83</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s4/y1k8r8w1~x2/">Connel Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y1k8r8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1r16k16y1~x4&amp;base=y1k8r13g1~x6" title="compare in the TTD">0.92</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s4/db1r16k16y1~x4/">Skinner</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1r16k16y1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1k10r10w1~x4&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.12</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s4/w1k10r10w1~x4/">Masai Shuka 01 (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/w1k10r10w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1r8k8lo1~x4&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.14</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s4/db1r8k8lo1~x4/">Skinner (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1r8k8lo1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3k32r27w2~x2&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.27</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s4/db3k32r27w2~x2/">Templar Grand Priory USA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3k32r27w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r125k26lb20lo16&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.32</a></div><div class="nn-threads">233</div><div class="nn-name"><a href="/variants/s4/r125k26lb20lo16/">McPeek (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r125k26lb20lo16/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r50k25dg10n5ly2~x2&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.46</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/r50k25dg10n5ly2~x2/">MacGleish Formal (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r50k25dg10n5ly2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r50k25g10n5y2~x2&amp;base=y1k8r13g1~x6" title="compare in the TTD">1.46</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/r50k25g10n5y2~x2/">MacGleish Formal (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r50k25g10n5y2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="281.0" cy="178.0" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s4/y1k8r8w1~x4/"><circle cx="209.3" cy="206.4" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/variants/s4/y1k8r8w1~x2/"><circle cx="209.3" cy="206.4" r="4" fill="#3465a4"><title>Connel Clan Tartan</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.9" cy="171.8" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s4/w1k10r10w1~x4/"><circle cx="242.7" cy="207.0" r="4" fill="#3465a4"><title>Masai Shuka 01 (Artefact)</title></circle></a><a href="/variants/s4/db1r8k8lo1~x4/"><circle cx="212.9" cy="206.5" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.0" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.4" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="290.2" cy="176.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

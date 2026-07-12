@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "British Energy"
-  url: "/tartans/british-energy/"
+  url: "/tartans/b/br/british-energy/"
 - name: "British Energy"
   url: "/setts/db52k12dp18dy1dp1dy4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db52k12dp18dy1dp1dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBG](/stripes/bkbgbg/).
 
-Part of the [British Energy](/tartans/british-energy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [British Energy](/tartans/b/br/british-energy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

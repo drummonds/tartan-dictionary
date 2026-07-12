@@ -6,6 +6,8 @@ This is the **London Fog Black (Fashion)** sett — one scale-free proportion (`
 [KYKWYKYK](/stripes/kykwykyk/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [London Fog](/tartans/l/lo/london-fog-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

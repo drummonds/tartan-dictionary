@@ -10,7 +10,7 @@ crumbs:
 - name: "Irvine of Drum"
   url: "/families/irvine-of-drum/"
 - name: "Irvine of Drum"
-  url: "/tartans/irvine-of-drum/"
+  url: "/tartans/i/ir/irvine-of-drum/"
 - name: "Irvine of Drum"
   url: "/setts/w3lb3k3lb21g49lb21k3lb3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3lb3k3lb21g49lb21k3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGWKWW](/stripes/wkwgwkww/).
 
-Part of the [Irvine of Drum](/tartans/irvine-of-drum/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Irvine of Drum](/tartans/i/ir/irvine-of-drum/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
+- name: "Jones, Alexander Michael"
+  url: "/tartans/j/jo/jones-alexander-michael/"
 - name: "Jones, Alexander Michael (Personal)"
   url: "/setts/dg34w6g20yi20k2dr2r2dr2lb24w40y13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg34w6g20yi20k2dr2r2dr2lb24w40y13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGKBRBWWG](/stripes/gwggkbrbwwg/).
+
+Part of the [Jones, Alexander Michael](/tartans/j/jo/jones-alexander-michael/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

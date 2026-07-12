@@ -6,6 +6,8 @@ This is the **Los Angeles District Tartan** sett — one scale-free proportion (
 [BKBGBBGBBGBKBR](/stripes/bkbgbbgbbgbkbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Los Angeles](/tartans/l/lo/los-angeles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

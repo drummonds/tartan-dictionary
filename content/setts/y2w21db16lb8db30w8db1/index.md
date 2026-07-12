@@ -6,6 +6,8 @@ This is the **Muir, John** sett — one scale-free proportion (`y2w21db16lb8db30
 [BWBWBWG](/stripes/bwbwbwg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Muir, John](/tartans/m/mu/muir-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

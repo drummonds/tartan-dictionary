@@ -6,6 +6,8 @@ This is the **Schuster (Bavaria) (Personal), Benedikt** sett — one scale-free 
 [GWGRWBWGRGW](/stripes/gwgrwbwgrgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Schuster , Benedikt](/tartans/s/sc/schuster-benedikt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

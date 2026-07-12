@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ronald"
+  url: "/tartans/r/ro/ronald/"
 - name: "Ronald, Clan (Clan)"
   url: "/setts/db2r1g10r1k6g12r2g1r1g3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2r1g10r1k6g12r2g1r1g3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRKGRGRGW](/stripes/brgrkgrgrgw/).
+
+Part of the [Ronald](/tartans/r/ro/ronald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

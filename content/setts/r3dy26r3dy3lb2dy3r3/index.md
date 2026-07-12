@@ -6,6 +6,8 @@ This is the **Scott Htg (Error 2)** sett — one scale-free proportion (`r3dy26r
 [RGRGWGR](/stripes/rgrgwgr/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [Scott Hunting](/tartans/s/sc/scott-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

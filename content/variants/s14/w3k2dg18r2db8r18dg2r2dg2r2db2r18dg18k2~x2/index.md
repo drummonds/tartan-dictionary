@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacGuire"
-  url: "/tartans/macguire-2/"
+  url: "/tartans/m/ma/macguire-2/"
 - name: "MacGuire (Personal)"
   url: "/setts/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRBRGRGRBRGKW](/stripes/kgrbrgrgrbrgkw/).
 
-Part of the [MacGuire](/tartans/macguire-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGuire](/tartans/m/ma/macguire-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

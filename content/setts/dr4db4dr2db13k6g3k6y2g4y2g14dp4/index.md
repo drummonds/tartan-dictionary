@@ -6,7 +6,7 @@ This is the **Kinloch Anderson Hunting** sett — one scale-free proportion (`dr
 [BBBBKGKGGGGB](/stripes/bbbbkgkggggb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Kinloch Anderson Hunting](/tartans/kinloch-anderson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Kinloch Anderson Hunting](/tartans/k/ki/kinloch-anderson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

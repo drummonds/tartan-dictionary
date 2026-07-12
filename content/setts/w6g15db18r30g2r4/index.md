@@ -6,7 +6,7 @@ This is the **Ruthven (V.S.)** sett — one scale-free proportion (`w6g15db18r30
 [RGRBGW](/stripes/rgrbgw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Ruthven](/tartans/ruthven/) tartan — the named design grouping this sett with its kin.
+Part of the [Ruthven](/tartans/r/ru/ruthven/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

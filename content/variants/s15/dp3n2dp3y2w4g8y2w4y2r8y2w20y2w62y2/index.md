@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Druid"
+  url: "/tartans/d/dr/druid-2/"
 - name: "Druid (Corporate)"
   url: "/setts/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGWGGWGRGWGWG](/stripes/bbbgwggwgrgwgwg/).
+
+Part of the [Druid](/tartans/d/dr/druid-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

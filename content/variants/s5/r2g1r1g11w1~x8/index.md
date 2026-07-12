@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Welsh National"
-  url: "/tartans/welsh-national-2/"
+  url: "/tartans/w/we/welsh-national-2/"
 - name: "Welsh, National"
   url: "/setts/r2g1r1g11w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2g1r1g11w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGW](/stripes/rgrgw/).
 
-Part of the [Welsh National](/tartans/welsh-national-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Welsh National](/tartans/w/we/welsh-national-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

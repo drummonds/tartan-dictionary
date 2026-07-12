@@ -6,6 +6,8 @@ This is the **Oliver Dress (Dance)** sett — one scale-free proportion (`g1dr1g
 [GBGBBBWKWBBBGBGW](/stripes/gbgbbbwkwbbbgbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Oliver Dress](/tartans/o/ol/oliver-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Boy, The"
+  url: "/tartans/b/bl/blue-boy-the/"
 - name: "Blue Boy, The (Fashion)"
   url: "/setts/db1g7db7dbi2w6db1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1g7db7dbi2w6db1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBWBW](/stripes/bgbbwbw/).
+
+Part of the [Blue Boy, The](/tartans/b/bl/blue-boy-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

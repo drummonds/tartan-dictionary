@@ -6,6 +6,8 @@ This is the **Royal Na Connaught** sett — one scale-free proportion (`g5k12g6k
 [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Royal Na Connaught](/tartans/r/ro/royal-na-connaught/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

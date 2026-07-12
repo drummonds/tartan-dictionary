@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pipers' Trail, The"
-  url: "/tartans/pipers-trail-the/"
+  url: "/tartans/p/pi/pipers-trail-the/"
 - name: "Pipers' Trail, The"
   url: "/setts/y4lb8dp4k53db54w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4lb8dp4k53db54w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBKBW](/stripes/gwbkbw/).
 
-Part of the [Pipers' Trail, The](/tartans/pipers-trail-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Pipers' Trail, The](/tartans/p/pi/pipers-trail-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

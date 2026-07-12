@@ -6,6 +6,8 @@ This is the **Feniston (Personal)** sett — one scale-free proportion (`dr30db1
 [BBBBR](/stripes/bbbbr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Feniston](/tartans/f/fe/feniston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Beynon** sett — one scale-free proportion (`db11k1g3db6k1db6g3db
 [BKGBKBGBGBGBGGK](/stripes/bkgbkbgbgbgbggk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Beynon](/tartans/b/be/beynon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

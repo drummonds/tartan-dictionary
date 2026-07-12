@@ -6,6 +6,8 @@ This is the **Stephens Dress** sett — one scale-free proportion (`k9r4k2r20n9r
 [KRKRBRBRW](/stripes/krkrbrbrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Stephens Dress](/tartans/s/st/stephens-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

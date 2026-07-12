@@ -6,6 +6,8 @@ This is the **Colorado Rogues (Corporate)** sett — one scale-free proportion (
 [BWRKGWBWGKBRG](/stripes/bwrkgwbwgkbrg/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Colorado Rogues](/tartans/c/co/colorado-rogues/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

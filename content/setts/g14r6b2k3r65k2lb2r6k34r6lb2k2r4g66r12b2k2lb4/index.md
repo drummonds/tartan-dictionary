@@ -6,6 +6,8 @@ This is the **Stewart of Ardshiel** sett — one scale-free proportion (`g14r6b2
 [GRBKRKWRKRWKRGRBKW](/stripes/grbkrkwrkrwkrgrbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Scobie (Name)** sett — one scale-free proportion (`dp1r1dp1r6g26
 [BRBRGBRWRWRY](/stripes/brbrgbrwrwry/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Scobie](/tartans/scobie/) tartan — the named design grouping this sett with its kin.
+Part of the [Scobie](/tartans/s/sc/scobie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

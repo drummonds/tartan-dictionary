@@ -6,6 +6,8 @@ This is the **Lermontov Bicentenary** sett — one scale-free proportion (`lo5r6
 [KYBYRKRY](/stripes/kybyrkry/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Lermontov Bicentenary](/tartans/l/le/lermontov-bicentenary-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

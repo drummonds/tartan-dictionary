@@ -6,7 +6,7 @@ This is the **Calgary HOG (Corporate)** sett — one scale-free proportion (`lb4
 [WBKRRKBKW](/stripes/wbkrrkbkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Calgary HOG](/tartans/calgary-hog/) tartan — the named design grouping this sett with its kin.
+Part of the [Calgary HOG](/tartans/c/ca/calgary-hog/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

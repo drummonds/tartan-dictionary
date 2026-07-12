@@ -6,6 +6,8 @@ This is the **Alexander Hunting (Name)** sett — one scale-free proportion (`db
 [BRBRKBGBG](/stripes/brbrkbgbg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Alexander Hunting](/tartans/a/al/alexander-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

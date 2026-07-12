@@ -6,6 +6,8 @@ This is the **Elgin City Band** sett — one scale-free proportion (`ly1t12k6db1
 [YBKBKBKBY](/stripes/ybkbkbkby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Elgin City Band](/tartans/e/el/elgin-city-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

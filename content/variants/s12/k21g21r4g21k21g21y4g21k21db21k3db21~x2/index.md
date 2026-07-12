@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rollo"
-  url: "/tartans/rollo/"
+  url: "/tartans/r/ro/rollo/"
 - name: "Rollo"
   url: "/setts/k21g21r4g21k21g21y4g21k21db21k3db21/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k21g21r4g21k21g21y4g21k21db21k3db21/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGGKGRGK](/stripes/bkbkgggkgrgk/).
 
-Part of the [Rollo](/tartans/rollo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rollo](/tartans/r/ro/rollo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

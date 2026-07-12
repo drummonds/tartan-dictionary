@@ -6,7 +6,7 @@ This is the **Scottish Watch General Tartan** sett — one scale-free proportion
 [GGR](/stripes/ggr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Scottish Watch](/tartans/scottish-watch/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Watch](/tartans/s/sc/scottish-watch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

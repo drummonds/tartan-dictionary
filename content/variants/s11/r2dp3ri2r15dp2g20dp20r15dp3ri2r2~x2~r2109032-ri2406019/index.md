@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Drumlithie"
-  url: "/tartans/drumlithie/"
+  url: "/tartans/d/dr/drumlithie/"
 - name: "Drumlithie"
   url: "/setts/r2dp3ri2r15dp2g20dp20r15dp3ri2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2dp3ri2r15dp2g20dp20r15dp3ri2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-Part of the [Drumlithie](/tartans/drumlithie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drumlithie](/tartans/d/dr/drumlithie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

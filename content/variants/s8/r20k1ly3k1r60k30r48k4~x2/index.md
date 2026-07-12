@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barkwell"
+  url: "/tartans/b/ba/barkwell/"
 - name: "Barkwell (Personal)"
   url: "/setts/r20k1ly3k1r60k30r48k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20k1ly3k1r60k30r48k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKYKR](/stripes/krkrkykr/).
+
+Part of the [Barkwell](/tartans/b/ba/barkwell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

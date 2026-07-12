@@ -6,6 +6,8 @@ This is the **National Galleries of Scotland** sett — one scale-free proportio
 [KGKBRBR](/stripes/kgkbrbr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [National Galleries of Scotland](/tartans/n/na/national-galleries-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

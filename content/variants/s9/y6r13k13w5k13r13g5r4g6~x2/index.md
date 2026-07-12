@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Akins Dress"
+  url: "/tartans/a/ak/akins-dress/"
 - name: "Akins Red Dress"
   url: "/setts/y6r13k13w5k13r13g5r4g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6r13k13w5k13r13g5r4g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKWKRG](/stripes/grgrkwkrg/).
+
+Part of the [Akins Dress](/tartans/a/ak/akins-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

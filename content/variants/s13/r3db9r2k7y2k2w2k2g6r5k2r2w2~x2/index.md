@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince Albert"
+  url: "/tartans/p/pr/prince-albert/"
 - name: "Prince Albert #3"
   url: "/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db9r2k7y2k2w2k2g6r5k2r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRKGKWKGRKRW](/stripes/rbrkgkwkgrkrw/).
+
+Part of the [Prince Albert](/tartans/p/pr/prince-albert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

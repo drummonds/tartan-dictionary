@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sound of Mull"
+  url: "/tartans/s/so/sound-of-mull/"
+- name: "Sound of Mull"
   url: "/setts/db30dbi4do6ni4do6n6do12n13dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30dbi4do6ni4do6n6do12n13dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBB](/stripes/bbbbbbbbb/).
+
+Part of the [Sound of Mull](/tartans/s/so/sound-of-mull/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

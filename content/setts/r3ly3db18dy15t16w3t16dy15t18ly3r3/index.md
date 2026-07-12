@@ -6,6 +6,8 @@ This is the **Hirter Karo** sett — one scale-free proportion (`r3ly3db18dy15t1
 [RYBGBWBGBYRYBGBWBGBY](/stripes/rybgbwbgbyrybgbwbgby/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hirter Karo](/tartans/h/hi/hirter-karo-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

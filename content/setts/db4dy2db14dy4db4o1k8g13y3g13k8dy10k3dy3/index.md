@@ -6,6 +6,8 @@ This is the **Humble, Gordon (Personal)** sett — one scale-free proportion (`d
 [BGBGBRKGGGKGKG](/stripes/bgbgbrkgggkgkg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Humble, Gordon](/tartans/h/hu/humble-gordon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

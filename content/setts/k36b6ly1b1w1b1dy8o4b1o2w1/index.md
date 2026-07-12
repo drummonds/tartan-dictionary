@@ -6,6 +6,8 @@ This is the **Flotilla Navy** sett — one scale-free proportion (`k36b6ly1b1w1b
 [KBYBWBGRBRW](/stripes/kbybwbgrbrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Flotilla Navy](/tartans/f/fl/flotilla-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

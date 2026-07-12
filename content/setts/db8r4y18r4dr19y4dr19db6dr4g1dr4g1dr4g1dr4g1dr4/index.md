@@ -6,6 +6,8 @@ This is the **Confrerie de Vouvray** sett — one scale-free proportion (`db8r4y
 [BGBGBGBGBBBGBRGRB](/stripes/bgbgbgbgbbbgbrgrb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Confrerie de Vouvray](/tartans/c/co/confrerie-de-vouvray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

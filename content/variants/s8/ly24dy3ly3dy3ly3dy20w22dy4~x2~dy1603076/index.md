@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Baillie"
+  url: "/clan/baillie/"
+- name: "Baillie Dress"
+  url: "/tartans/b/ba/baillie-dress/"
 - name: "Baillie Dress"
   url: "/setts/ly24dy3ly3dy3ly3dy20w22dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly24dy3ly3dy3ly3dy20w22dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGYGYGY](/stripes/gwgygygy/).
+
+Part of the [Baillie Dress](/tartans/b/ba/baillie-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

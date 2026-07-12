@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lanoir"
+  url: "/tartans/l/la/lanoir/"
+- name: "Lanoir"
   url: "/setts/k4r4k20r1k20w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r4k20r1k20w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKW](/stripes/krkrkw/).
+
+Part of the [Lanoir](/tartans/l/la/lanoir/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

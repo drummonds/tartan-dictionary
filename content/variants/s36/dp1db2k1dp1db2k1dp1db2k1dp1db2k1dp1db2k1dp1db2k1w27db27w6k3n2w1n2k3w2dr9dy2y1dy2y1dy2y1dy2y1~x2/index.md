@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Am Yisrael Chai"
+  url: "/tartans/a/am/am-yisrael-chai/"
+- name: "Am Yisrael Chai"
   url: "/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9dy2y1dy2y1dy2y1dy2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBGGGGGGGG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbgggggggg/).
+
+Part of the [Am Yisrael Chai](/tartans/a/am/am-yisrael-chai/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

@@ -6,6 +6,8 @@ This is the **Dunfermline** sett — one scale-free proportion (`dr11n3dr12k11t1
 [BBBKBW](/stripes/bbbkbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Dunfermline](/tartans/d/du/dunfermline/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

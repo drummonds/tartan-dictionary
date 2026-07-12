@@ -6,6 +6,8 @@ This is the **Historic Scotland Corporate Tartan** sett — one scale-free propo
 [GBGBGGKGK](/stripes/gbgbggkgk/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Historic Scotland](/tartans/h/hi/historic-scotland-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

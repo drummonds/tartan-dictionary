@@ -1,0 +1,37 @@
+---
+title: "Canna Saphire"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BWRBRBRBW](/stripes/bwrbrbrbw/) — the page of every tartan sharing this colour sequence.
+
+The **Canna Saphire** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t4w30r4t3r1t1r1t22w2/">Canna Saphire</a></td><td><code>T/8 W60 R8 T6 R2 T2 R2 T44 W/4</code></td><td>260</td><td>2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/t4w30r4t3r1t1r1t22w2/"><img src="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/sett.png" alt="Canna Saphire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Canna, Saphire
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/">Canna Saphire</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t12ly1w16t1w1t14w3t14r2~x4&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">456</div><div class="nn-name nn-far"><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/">Orlando Dress, City of (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r3t2w35t35r2g3~x2&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.08</a></div><div class="nn-threads nn-far2">308</div><div class="nn-name nn-far2"><a href="/variants/s6/r3t2w35t35r2g3~x2/">Galloway (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3t2w35t35r2g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g49lb21k3lb3w3~x2~g2203152&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.28</a></div><div class="nn-threads nn-far2">412</div><div class="nn-name nn-far2"><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/">Irvine of Drum</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db3t2w2t30w30r2w3~x2&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.38</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s7/db3t2w2t30w30r2w3~x2/">Torridon, Royal Blue (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db3t2w2t30w30r2w3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb38k2w2k2lb5g10w30lb4~x2&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.51</a></div><div class="nn-threads nn-far2">288</div><div class="nn-name nn-far2"><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/">Longniddry Turquoise (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db28w36lb28w36lb85r3lb3r3&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.63</a></div><div class="nn-threads nn-far2">413</div><div class="nn-name nn-far2"><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/">Malmo Skyblue (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db28w36lb28w36lb85r3lb3r3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db28w36lb28w36lb85r3lb3r3~db1404245&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.72</a></div><div class="nn-threads nn-far2">413</div><div class="nn-name nn-far2"><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/">Malmo Skyblue</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb42k2w2k2lb5b12w32lb4~x2&amp;base=t4w30r4t3r1t1r1t22w2~x2" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">312</div><div class="nn-name nn-far2"><a href="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/">Longniddry, dress (Turquoise)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t12ly1w16t1w1t14w3t14r2~x4/"><circle cx="375.5" cy="185.2" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="162.9" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><circle cx="317.6" cy="175.9" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><circle cx="302.1" cy="156.0" r="4" fill="#3465a4"><title>Longniddry Turquoise (Dance)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/"><circle cx="327.9" cy="165.3" r="4" fill="#3465a4"><title>Malmo Skyblue (District)</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.3" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><a href="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/"><circle cx="312.5" cy="152.8" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><circle cx="343.4" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

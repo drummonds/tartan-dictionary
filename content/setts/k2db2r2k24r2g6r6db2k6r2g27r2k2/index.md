@@ -7,6 +7,8 @@ This is the **Buchan** sett — one scale-free proportion (`k2db2r2k24r2g6r6db2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Buchan](/tartans/b/bu/buchan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

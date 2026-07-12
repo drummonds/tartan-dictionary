@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Englehart"
+  url: "/tartans/c/ci/city-of-englehart/"
 - name: "Englehart, City of"
   url: "/setts/g27r9b2y14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g27r9b2y14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRG](/stripes/gbrg/).
+
+Part of the [City of Englehart](/tartans/c/ci/city-of-englehart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

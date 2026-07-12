@@ -6,7 +6,7 @@ This is the **MacDonald of Lochmaddy** sett — one scale-free proportion (`r13w
 [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
-Part of the [MacDonald of Lochmaddy](/tartans/macdonald-of-lochmaddy/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald of Lochmaddy](/tartans/m/ma/macdonald-of-lochmaddy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

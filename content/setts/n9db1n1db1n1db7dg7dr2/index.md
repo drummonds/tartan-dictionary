@@ -6,6 +6,8 @@ This is the **Caledonian Hotel (Corporate)** sett — one scale-free proportion 
 [BBBBBBGB](/stripes/bbbbbbgb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Caledonian Hotel](/tartans/c/ca/caledonian-hotel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

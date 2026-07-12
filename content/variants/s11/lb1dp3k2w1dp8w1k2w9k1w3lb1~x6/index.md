@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae"
+  url: "/tartans/m/ma/macrae-6/"
 - name: "MacRae, Dress Purple (Dance)"
   url: "/setts/lb1dp3k2w1dp8w1k2w9k1w3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb1dp3k2w1dp8w1k2w9k1w3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKWBWKWKWW](/stripes/wbkwbwkwkww/).
+
+Part of the [MacRae](/tartans/m/ma/macrae-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

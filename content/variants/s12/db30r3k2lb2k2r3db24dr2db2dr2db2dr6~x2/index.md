@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rosie"
+  url: "/tartans/r/ro/rosie/"
 - name: "Rosie (Personal)"
   url: "/setts/db30r3k2lb2k2r3db24dr2db2dr2db2dr6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30r3k2lb2k2r3db24dr2db2dr2db2dr6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBRKWKRB](/stripes/bbbbbbrkwkrb/).
+
+Part of the [Rosie](/tartans/r/ro/rosie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Glen"
   url: "/clan/glen/"
 - name: "Glen Tilt"
-  url: "/tartans/glen-tilt/"
+  url: "/tartans/g/gl/glen-tilt/"
 - name: "Glen Tilt #1 (District)"
   url: "/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w1dg1dr1dg14dr1db6dr11dg1dr1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
 
-Part of the [Glen Tilt](/tartans/glen-tilt/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Glen Tilt](/tartans/g/gl/glen-tilt/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Stewart of Urrard Clan Tartan** sett — one scale-free proportion
 [GRGRBRGRBRGRGR](/stripes/grgrbrgrbrgrgr/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Stewart of Urrard](/tartans/s/st/stewart-of-urrard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

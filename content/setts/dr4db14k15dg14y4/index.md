@@ -6,6 +6,8 @@ This is the **Scots Heritage** sett — one scale-free proportion (`dr4db14k15dg
 [BBKGG](/stripes/bbkgg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Scots Heritage](/tartans/s/sc/scots-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

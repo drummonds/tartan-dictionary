@@ -6,7 +6,7 @@ This is the **Galvez-Brown** sett — one scale-free proportion (`db36dy5dr12r9d
 [BGBRBWG](/stripes/bgbrbwg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Galvez-Brown](/tartans/galvez-brown/) tartan — the named design grouping this sett with its kin.
+Part of the [Galvez-Brown](/tartans/g/ga/galvez-brown/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

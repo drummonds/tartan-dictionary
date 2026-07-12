@@ -6,6 +6,8 @@ This is the **Loch Linnhe** sett — one scale-free proportion (`y3r4db2r31g10lb
 [GRBRGWRBRG](/stripes/grbrgwrbrg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Loch Linnhe](/tartans/l/lo/loch-linnhe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

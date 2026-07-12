@@ -6,7 +6,7 @@ This is the **Blackburn Appalachian Htg (Personal)** sett — one scale-free pro
 [GKGYKYKYBYKYGKGK](/stripes/gkgykykybykygkgk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Blackburn Appalachian Hunting](/tartans/blackburn-appalachian-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Blackburn Appalachian Hunting](/tartans/b/bl/blackburn-appalachian-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

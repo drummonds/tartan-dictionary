@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Drymen"
+  url: "/tartans/d/dr/drymen/"
+- name: "Drymen"
   url: "/setts/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYRWYWRGRGRGBGBGBR](/stripes/gryrwywrgrgrgbgbgbr/).
+
+Part of the [Drymen](/tartans/d/dr/drymen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

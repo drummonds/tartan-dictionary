@@ -6,6 +6,8 @@ This is the **Belwade** sett — one scale-free proportion (`dr4g4w1lo4dr4w1db1w
 [BGBWBWBYWGB](/stripes/bgbwbwbywgb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Belwade](/tartans/b/be/belwade/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

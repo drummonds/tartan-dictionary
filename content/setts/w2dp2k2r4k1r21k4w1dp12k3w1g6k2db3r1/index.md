@@ -6,6 +6,8 @@ This is the **Gaudet-Hillan (Personal)** sett — one scale-free proportion (`w2
 [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Gaudet-Hillan](/tartans/g/ga/gaudet-hillan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

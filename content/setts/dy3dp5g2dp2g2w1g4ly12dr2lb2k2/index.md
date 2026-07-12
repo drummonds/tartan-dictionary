@@ -6,6 +6,8 @@ This is the **Oregon, State of** sett — one scale-free proportion (`dy3dp5g2dp
 [GBGBGWGYBWK](/stripes/gbgbgwgybwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Oregon, State of](/tartans/o/or/oregon-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

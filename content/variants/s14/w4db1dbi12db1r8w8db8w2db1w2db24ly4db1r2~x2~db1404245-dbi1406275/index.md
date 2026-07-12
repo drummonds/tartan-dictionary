@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Submariners"
-  url: "/tartans/submariners/"
+  url: "/tartans/s/su/submariners/"
 - name: "Submariners (Unofficial)"
   url: "/setts/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/).
 
-Part of the [Submariners](/tartans/submariners/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Submariners](/tartans/s/su/submariners/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,6 +6,8 @@ This is the **Highland Spirit (Fashion)** sett — one scale-free proportion (`d
 [BBBBW](/stripes/bbbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Highland Spirit](/tartans/h/hi/highland-spirit-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

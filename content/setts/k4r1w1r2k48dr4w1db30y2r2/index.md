@@ -6,6 +6,8 @@ This is the **RCACA** sett — one scale-free proportion (`k4r1w1r2k48dr4w1db30y
 [KRWRKBWBGR](/stripes/krwrkbwbgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [RCACA](/tartans/r/rc/rcaca/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Colonial Marine"
-  url: "/tartans/colonial-marine/"
+  url: "/tartans/c/co/colonial-marine/"
 - name: "Colonial Marine (Corporate)"
   url: "/setts/g56dy13ly18/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g56dy13ly18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGY](/stripes/ggy/).
 
-Part of the [Colonial Marine](/tartans/colonial-marine/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Colonial Marine](/tartans/c/co/colonial-marine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

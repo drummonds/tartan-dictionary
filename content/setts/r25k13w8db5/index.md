@@ -6,6 +6,8 @@ This is the **Hamby Sport (Personal)** sett — one scale-free proportion (`r25k
 [BWKR](/stripes/bwkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hamby Sport](/tartans/h/ha/hamby-sport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

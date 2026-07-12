@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Dragon"
+  url: "/tartans/c/ca/caledonian-dragon/"
 - name: "Caledonian Dragon (Corporate)"
   url: "/setts/k3r2k12db8k2db4k2db4k12db22y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r2k12db8k2db4k2db4k12db22y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKBKRK](/stripes/gbkbkbkbkrk/).
+
+Part of the [Caledonian Dragon](/tartans/c/ca/caledonian-dragon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

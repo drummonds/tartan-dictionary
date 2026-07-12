@@ -6,7 +6,7 @@ This is the **Jardine Dress** sett — one scale-free proportion (`r26k2r6k2r6k2
 [KRKRKYBYKGKGKYBYKRKRKR](/stripes/krkrkybykgkgkybykrkrkr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [Jardine Dress](/tartans/jardine-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Jardine Dress](/tartans/j/ja/jardine-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

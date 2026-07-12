@@ -6,7 +6,7 @@ This is the **Aberdeenshire Home Colours** sett — one scale-free proportion (`
 [GGBYRYW](/stripes/ggbyryw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Aberdeenshire Home Colours](/tartans/aberdeenshire-home-colours/) tartan — the named design grouping this sett with its kin.
+Part of the [Aberdeenshire Home Colours](/tartans/a/ab/aberdeenshire-home-colours/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

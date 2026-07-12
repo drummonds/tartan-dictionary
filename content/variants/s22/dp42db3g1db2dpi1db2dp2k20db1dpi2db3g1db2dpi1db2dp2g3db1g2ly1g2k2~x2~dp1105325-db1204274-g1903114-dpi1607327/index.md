@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Monarch of the Glen"
+  url: "/tartans/m/mo/monarch-of-the-glen-2/"
 - name: "Monarch of the Glen Fashion Tartan"
   url: "/setts/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/).
+
+Part of the [Monarch of the Glen](/tartans/m/mo/monarch-of-the-glen-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 

@@ -6,7 +6,7 @@ This is the **MacKean (Personal)** sett — one scale-free proportion (`r8k18r6k
 [RKRKBKW](/stripes/rkrkbkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [MacKean](/tartans/mackean-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKean](/tartans/m/ma/mackean-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

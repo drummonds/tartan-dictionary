@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robin Hood Fancy"
+  url: "/tartans/r/ro/robin-hood-fancy/"
 - name: "Robin Hood Fancy Tartan"
   url: "/setts/g9k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GK](/stripes/gk/).
+
+Part of the [Robin Hood Fancy](/tartans/r/ro/robin-hood-fancy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 

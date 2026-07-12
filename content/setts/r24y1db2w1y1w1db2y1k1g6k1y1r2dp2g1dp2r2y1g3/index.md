@@ -6,6 +6,8 @@ This is the **MacBean** sett — one scale-free proportion (`r24y1db2w1y1w1db2y1
 [GGRBGBRGKGKGBWGWBGR](/stripes/ggrbgbrgkgkgbwgwbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacBean](/tartans/m/ma/macbean-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

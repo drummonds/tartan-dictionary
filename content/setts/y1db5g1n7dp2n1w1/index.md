@@ -6,7 +6,7 @@ This is the **Deeside District Tartan** sett — one scale-free proportion (`y1d
 [GBGBBBW](/stripes/gbgbbbw/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
-Part of the [Deeside](/tartans/deeside-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Deeside](/tartans/d/de/deeside-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

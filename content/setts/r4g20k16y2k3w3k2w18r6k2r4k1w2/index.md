@@ -6,6 +6,8 @@ This is the **Palmer, Edward** sett — one scale-free proportion (`r4g20k16y2k3
 [RGKGKWKWRKRKW](/stripes/rgkgkwkwrkrkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Palmer, Edward](/tartans/p/pa/palmer-edward/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

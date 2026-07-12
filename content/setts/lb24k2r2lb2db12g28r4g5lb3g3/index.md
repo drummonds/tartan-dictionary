@@ -6,6 +6,8 @@ This is the **Downie (Name)** sett — one scale-free proportion (`lb24k2r2lb2db
 [GWGRGBWRKW](/stripes/gwgrgbwrkw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Downie](/tartans/d/do/downie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

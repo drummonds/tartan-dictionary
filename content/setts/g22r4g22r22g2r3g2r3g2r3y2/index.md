@@ -6,6 +6,8 @@ This is the **MacRea / MacRae** sett — one scale-free proportion (`g22r4g22r22
 [GRGRGRGRGRG](/stripes/grgrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacRea ? MacRae](/tartans/m/ma/macrea-macrae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

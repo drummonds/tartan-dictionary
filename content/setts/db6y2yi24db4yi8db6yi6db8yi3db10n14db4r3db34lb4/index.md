@@ -6,6 +6,8 @@ This is the **MatchPoint Dress** sett — one scale-free proportion (`db6y2yi24d
 [BGGBGBGBGBBBRBW](/stripes/bggbgbgbgbbbrbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [MatchPoint Dress](/tartans/m/ma/matchpoint-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

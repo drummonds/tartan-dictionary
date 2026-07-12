@@ -1,0 +1,38 @@
+---
+title: "Dahlonega"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KWKGGR](/stripes/kwkggr/) — the page of every tartan sharing this colour sequence.
+
+The **Dahlonega** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r5g18y2k14lb5k4/">Dahlonega</a></td><td><code>R/10 G36 Y4 K28 LB10 K/8</code></td><td>174</td><td>1870</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r5g18y2k14lb5k4/"><img src="/variants/s6/r5g18y2k14lb5k4~x2/sett.png" alt="Dahlonega sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Unidentified No 79
+- Unnamed, No 79
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">174</div><div class="nn-name nn-base"><a href="/variants/s6/r5g18y2k14lb5k4~x2/">Dahlonega</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r5g18y2k14lb5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8t9r2~x4&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8t9r2~x4/">Forsyth (1795)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8t9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8db9r2~x4&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8db9r2~x4/">Forsyth Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8db9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k6g2k6dg12y1~x4~g2408144-dg1806142&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.26</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/">Leahy (Australia) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3ly18g6dr17k31g3~x2&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.29</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s6/k3ly18g6dr17k31g3~x2/">MacMillan - 2002 (Black - Unofficial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3ly18g6dr17k31g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4~db1004274&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.33</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/">Syme</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4~db1004274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.33</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/k1g8w1k8db8r1~x4/">Leslie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2~x4&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2~x2&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4w1g10k10db10r2&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4w1g10k10db10r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g17k16r2db17w2~x2&amp;base=r5g18y2k14lb5k4~x2" title="compare in the TTD">1.59</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s6/k2g17k16r2db17w2~x2/">Galbraith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.8" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.9" cy="190.3" r="4" fill="#3465a4"><title>Forsyth Clan Tartan</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="184.3" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="163.1" cy="189.5" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.8" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.4" cy="194.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x4/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting Clan Tartan</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.0" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><circle cx="119.0" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

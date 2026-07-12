@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bamcroft"
+  url: "/tartans/b/ba/bamcroft/"
 - name: "Bamcroft (Corporate)"
   url: "/setts/db11y2db2r2db2k11dbi11k2dbi3k2dbi11k11db11k2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11y2db2r2db2k11dbi11k2dbi3k2dbi11k11db11k2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBKBKBKBKBKR](/stripes/bgbrbkbkbkbkbkr/).
+
+Part of the [Bamcroft](/tartans/b/ba/bamcroft/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

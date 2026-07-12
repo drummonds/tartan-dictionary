@@ -6,6 +6,8 @@ This is the **Strathspey (Fashion)** sett — one scale-free proportion (`g3dr22
 [GBWGKG](/stripes/gbwgkg/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Strathspey](/tartans/s/st/strathspey-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Green Swamp Youth Campers"
-  url: "/tartans/green-swamp-youth-campers/"
+  url: "/tartans/g/gr/green-swamp-youth-campers/"
 - name: "Green Swamp Youth Campers"
   url: "/setts/k8r2k13y2dg48db6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k8r2k13y2dg48db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGKRK](/stripes/bggkrk/).
 
-Part of the [Green Swamp Youth Campers](/tartans/green-swamp-youth-campers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Green Swamp Youth Campers](/tartans/g/gr/green-swamp-youth-campers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

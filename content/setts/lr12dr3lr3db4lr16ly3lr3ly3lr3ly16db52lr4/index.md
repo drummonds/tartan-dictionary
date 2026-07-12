@@ -6,6 +6,8 @@ This is the **Carsaig** sett — one scale-free proportion (`lr12dr3lr3db4lr16ly
 [YBYBYYYYYYBY](/stripes/ybybyyyyyyby/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Carsaig](/tartans/c/ca/carsaig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

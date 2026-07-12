@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Eglinton"
-  url: "/tartans/eglinton/"
+  url: "/tartans/e/eg/eglinton/"
 - name: "Eglinton"
   url: "/setts/k3r3k3lb16k3g3k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3r3k3lb16k3g3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWKRK](/stripes/kgkwkrk/).
 
-Part of the [Eglinton](/tartans/eglinton/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Eglinton](/tartans/e/eg/eglinton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

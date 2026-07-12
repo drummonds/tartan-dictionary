@@ -6,7 +6,7 @@ This is the **Pope Welsh Name Tartan** sett — one scale-free proportion (`k10r
 [GKGKGKRKRKRK](/stripes/gkgkgkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Pope](/tartans/pope/) tartan — the named design grouping this sett with its kin.
+Part of the [Pope](/tartans/p/po/pope/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

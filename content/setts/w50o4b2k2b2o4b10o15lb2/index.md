@@ -6,6 +6,8 @@ This is the **Australian, dress** sett — one scale-free proportion (`w50o4b2k2
 [WRBKBRBRW](/stripes/wrbkbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Australian, dress](/tartans/a/au/australian-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

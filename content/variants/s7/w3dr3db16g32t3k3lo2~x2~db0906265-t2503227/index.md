@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Washington State"
-  url: "/tartans/washington-state/"
+  url: "/tartans/w/wa/washington-state/"
 - name: "Washington State"
   url: "/setts/w3dr3db16g32t3k3lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3dr3db16g32t3k3lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBGBKY](/stripes/wbbgbky/).
 
-Part of the [Washington State](/tartans/washington-state/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Washington State](/tartans/w/wa/washington-state/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Sunderland** sett — one scale-free proportion (`db12w4db1w4r8w2r
 [BWBWRWR](/stripes/bwbwrwr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sunderland](/tartans/s/su/sunderland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

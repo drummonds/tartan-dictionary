@@ -6,6 +6,8 @@ This is the **Hume or Home Clan Tartan** sett — one scale-free proportion (`k3
 [BGBRKRKGK](/stripes/bgbrkrkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Hume or Home](/tartans/h/hu/hume-or-home/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

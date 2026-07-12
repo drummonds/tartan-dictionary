@@ -6,6 +6,8 @@ This is the **Alamudi (Corporate)** sett — one scale-free proportion (`k13w3dr
 [BGKGKGKGKBWK](/stripes/bgkgkgkgkbwk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Alamudi](/tartans/a/al/alamudi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

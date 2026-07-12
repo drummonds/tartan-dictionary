@@ -6,6 +6,8 @@ This is the **Alba** sett — one scale-free proportion (`dp24do2g3o2g3k11do29w2
 [BBGRGKBW](/stripes/bbgrgkbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Alba](/tartans/a/al/alba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

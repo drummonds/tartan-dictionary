@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart/Stuart of Galloway"
+  url: "/tartans/s/st/stewart-stuart-of-galloway/"
 - name: "Stewart/Stuart of Galloway (Wilsons)"
   url: "/setts/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKYKWKGRGYGRGKWKYKGR](/stripes/grgkykwkgrgygrgkwkykgr/).
+
+Part of the [Stewart/Stuart of Galloway](/tartans/s/st/stewart-stuart-of-galloway/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

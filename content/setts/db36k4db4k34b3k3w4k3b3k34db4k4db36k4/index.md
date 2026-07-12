@@ -6,6 +6,8 @@ This is the **Slanj Dress** sett — one scale-free proportion (`db36k4db4k34b3k
 [BKBKBKWKBKBKBK](/stripes/bkbkbkwkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Slanj Dress](/tartans/s/sl/slanj-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

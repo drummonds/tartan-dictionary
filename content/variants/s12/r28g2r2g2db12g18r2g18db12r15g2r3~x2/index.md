@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Frasers Highlanders"
+  url: "/tartans/f/fr/frasers-highlanders/"
 - name: "Frasers Highlanders (Military?)"
   url: "/setts/r28g2r2g2db12g18r2g18db12r15g2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r28g2r2g2db12g18r2g18db12r15g2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRBGRGBGRGR](/stripes/rgrbgrgbgrgr/).
+
+Part of the [Frasers Highlanders](/tartans/f/fr/frasers-highlanders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

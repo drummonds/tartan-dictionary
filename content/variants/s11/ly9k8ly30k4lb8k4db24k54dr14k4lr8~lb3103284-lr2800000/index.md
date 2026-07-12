@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dublin County Crest"
+  url: "/tartans/d/du/dublin-county-crest/"
 - name: "Dublin County Crest (Fashion)"
   url: "/setts/ly9k8ly30k4lb8k4db24k54dr14k4lr8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly9k8ly30k4lb8k4db24k54dr14k4lr8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKBKBKWKYKY](/stripes/ykbkbkwkyky/).
+
+Part of the [Dublin County Crest](/tartans/d/du/dublin-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Nor Westers Commemorative Tartan** sett — one scale-free proport
 [KGKGKWRWK](/stripes/kgkgkwrwk/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Nor Westers](/tartans/n/no/nor-westers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

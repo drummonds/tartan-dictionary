@@ -6,7 +6,7 @@ This is the **Paton Family Tartan** sett — one scale-free proportion (`r3g24k2
 [GGGGKGR](/stripes/ggggkgr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Paton](/tartans/paton/) tartan — the named design grouping this sett with its kin.
+Part of the [Paton](/tartans/p/pa/paton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

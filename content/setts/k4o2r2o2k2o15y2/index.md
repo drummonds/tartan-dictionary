@@ -6,6 +6,8 @@ This is the **Welsh, National** sett — one scale-free proportion (`k4o2r2o2k2o
 [GRKRRRK](/stripes/grkrrrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Welsh, National](/tartans/w/we/welsh-national-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

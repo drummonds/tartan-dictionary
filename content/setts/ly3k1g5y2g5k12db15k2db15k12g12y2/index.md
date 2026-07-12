@@ -6,6 +6,8 @@ This is the **Paterson (Dalgleish Version)** sett — one scale-free proportion 
 [GGKBKBKGGGKY](/stripes/ggkbkbkgggky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Paterson](/tartans/p/pa/paterson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

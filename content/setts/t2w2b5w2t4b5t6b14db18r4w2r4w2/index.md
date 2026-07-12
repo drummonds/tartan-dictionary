@@ -6,7 +6,7 @@ This is the **Daughters of the American Revolution Corporate Tartan** sett — o
 [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Daughters of the American Revolution](/tartans/daughters-of-the-american-revolution/) tartan — the named design grouping this sett with its kin.
+Part of the [Daughters of the American Revolution](/tartans/d/da/daughters-of-the-american-revolution/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

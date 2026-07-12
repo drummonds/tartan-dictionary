@@ -6,6 +6,8 @@ This is the **Calgary (Deerskin Trading Post)** sett — one scale-free proporti
 [BBBBGYGBWBWBW](/stripes/bbbbgygbwbwbw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Calgary](/tartans/c/ca/calgary-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

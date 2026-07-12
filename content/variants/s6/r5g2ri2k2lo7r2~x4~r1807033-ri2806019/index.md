@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria, City of"
+  url: "/tartans/v/vi/victoria-city-of/"
 - name: "Victoria, City of (British Columbia)"
   url: "/setts/r5g2ri2k2lo7r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5g2ri2k2lo7r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKYR](/stripes/rgrkyr/).
+
+Part of the [Victoria, City of](/tartans/v/vi/victoria-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Lawrence"
+  url: "/clan/lawrence/"
+- name: "Lawrence of Broughty Ferry"
+  url: "/families/lawrence-of-broughty-ferry/"
+- name: "Lawrence of Broughty Ferry"
+  url: "/tartans/l/la/lawrence-of-broughty-ferry/"
 - name: "Lawrence of Broughty Ferry"
   url: "/setts/g20k2g20dp25w2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20k2g20dp25w2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGBWW](/stripes/gkgbww/).
+
+Part of the [Lawrence of Broughty Ferry](/tartans/l/la/lawrence-of-broughty-ferry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

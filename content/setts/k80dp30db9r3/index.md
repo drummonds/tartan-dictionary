@@ -6,6 +6,8 @@ This is the **Doyle Blue** sett — one scale-free proportion (`k80dp30db9r3`), 
 [KBBR](/stripes/kbbr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Doyle](/tartans/d/do/doyle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

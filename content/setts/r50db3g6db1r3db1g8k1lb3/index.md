@@ -6,6 +6,8 @@ This is the **MacAulay of Ardincaple (Clan)** sett — one scale-free proportion
 [RBGBRBGKW](/stripes/rbgbrbgkw/). It is recorded as a single **variant**, below.
 First attested **~1880**.
 
+Part of the [MacAulay of Ardincaple](/tartans/m/ma/macaulay-of-ardincaple/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

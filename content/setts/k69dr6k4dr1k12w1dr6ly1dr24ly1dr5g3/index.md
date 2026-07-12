@@ -6,6 +6,8 @@ This is the **Downs Dress (Personal)** sett — one scale-free proportion (`k69d
 [GBYBYBWKBKBK](/stripes/gbybybwkbkbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Downs Dress](/tartans/d/do/downs-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

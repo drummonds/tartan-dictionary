@@ -6,6 +6,8 @@ This is the **Kucher, Gregory** sett — one scale-free proportion (`db8dr1k1n1`
 [BBKB](/stripes/bbkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Kucher, Gregory](/tartans/k/ku/kucher-gregory-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

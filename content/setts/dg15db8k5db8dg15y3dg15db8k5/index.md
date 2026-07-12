@@ -6,6 +6,8 @@ This is the **Dewar, Robert Alexander** sett — one scale-free proportion (`dg1
 [GBKBGGGBK](/stripes/gbkbgggbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Robert Dewar](/tartans/r/ro/robert-dewar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

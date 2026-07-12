@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aceo"
+  url: "/tartans/a/ac/aceo/"
+- name: "Aceo"
   url: "/setts/k2g10n5g20n5y3n7k3n7k4n4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g10n5g20n5y3n7k3n7k4n4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGBGBKBKBW](/stripes/kgbgbgbkbkbw/).
+
+Part of the [Aceo](/tartans/a/ac/aceo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Hunnisett/Edinchip (Personal)** sett — one scale-free proportion
 [BWBKGGGKRKRKRKGGGKBW](/stripes/bwbkgggkrkrkrkgggkbw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Hunnisett/Edinchip](/tartans/h/hu/hunnisett-edinchip-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

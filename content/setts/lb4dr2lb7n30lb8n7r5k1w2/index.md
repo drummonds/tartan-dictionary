@@ -6,6 +6,8 @@ This is the **Hebridean Fire** sett — one scale-free proportion (`lb4dr2lb7n30
 [WBWBWBRKW](/stripes/wbwbwbrkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hebridean Fire](/tartans/h/he/hebridean-fire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

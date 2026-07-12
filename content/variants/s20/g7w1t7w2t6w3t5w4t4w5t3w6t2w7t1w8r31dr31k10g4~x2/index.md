@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gallacher"
+  url: "/tartans/g/ga/gallacher/"
 - name: "Gallacher, (Name)"
   url: "/setts/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBRWBWBWBWBWBWBWBWG](/stripes/gkbrwbwbwbwbwbwbwbwg/).
+
+Part of the [Gallacher](/tartans/g/ga/gallacher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

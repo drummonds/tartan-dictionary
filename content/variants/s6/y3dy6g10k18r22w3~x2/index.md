@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tyrolean"
+  url: "/tartans/t/ty/tyrolean/"
 - name: "Tyrolean (Fashion?)"
   url: "/setts/y3dy6g10k18r22w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3dy6g10k18r22w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKRW](/stripes/gggkrw/).
+
+Part of the [Tyrolean](/tartans/t/ty/tyrolean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

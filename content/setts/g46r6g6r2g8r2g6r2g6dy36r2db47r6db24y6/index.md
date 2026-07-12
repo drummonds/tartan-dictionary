@@ -6,6 +6,8 @@ This is the **Cochrane Hunting** sett — one scale-free proportion (`g46r6g6r2g
 [GBRBRGGRGRGRGRG](/stripes/gbrbrggrgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Cochrane Hunting](/tartans/c/co/cochrane-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

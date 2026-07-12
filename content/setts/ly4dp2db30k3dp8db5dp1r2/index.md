@@ -6,6 +6,8 @@ This is the **Royal British Legion Scotland (Corp)** sett — one scale-free pro
 [RBBBKBBY](/stripes/rbbbkbby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Royal British Legion Scotland](/tartans/r/ro/royal-british-legion-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bonnie Brae Corporate Tartan** sett — one scale-free proportion 
 [GGGGGGBRGBR](/stripes/ggggggbrgbr/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -16,9 +16,9 @@ date: 2023-03-18
 <tr><td><a href="/setts/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2/">Personal Tartan</a></td><td><code>K/4 B12 LY4 B4 LY4 B38 R4 G4 R4 B4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4</code></td><td>—</td><td>—</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2/"><img src="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/sett.png" alt="Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2/">(Personal)</a></td><td><code>K/4 DBi12 LY4 DBi4 LY4 DBi38 R4 G4 R4 DBi4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4</code></td><td>280</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2/"><img src="/tartans/harmon-of-plenderleith/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2-rev.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2/"><img src="/tartans/h/ha/harmon-of-plenderleith/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2-rev.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
-[See the Harmon of Plenderleith tartan and all its setts →](/tartans/harmon-of-plenderleith/)
+[See the Harmon of Plenderleith tartan and all its setts →](/tartans/h/ha/harmon-of-plenderleith/)
 

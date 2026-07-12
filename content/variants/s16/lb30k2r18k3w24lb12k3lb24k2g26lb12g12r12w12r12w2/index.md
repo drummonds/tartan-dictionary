@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Red Hackle Pipe Band"
+  url: "/tartans/r/re/red-hackle-pipe-band/"
 - name: "Red Hackle Pipe Band (Corporate)"
   url: "/setts/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKRKWWKWKGWGRWRW](/stripes/wkrkwwkwkgwgrwrw/).
+
+Part of the [Red Hackle Pipe Band](/tartans/r/re/red-hackle-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

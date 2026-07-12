@@ -6,6 +6,8 @@ This is the **MacBean Clan Tartan** sett — one scale-free proportion (`r57w2k4
 [GWRBGBRWKGKWKBWBKWR](/stripes/gwrbgbrwkgkwkbwbkwr/). It is recorded as a single **variant**, below.
 First attested **~1963**.
 
+Part of the [MacBean](/tartans/m/ma/macbean-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

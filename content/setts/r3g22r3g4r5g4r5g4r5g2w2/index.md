@@ -6,6 +6,8 @@ This is the **Princess Marina Royal Tartan** sett — one scale-free proportion 
 [RGRGRGRGRGW](/stripes/rgrgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Princess Marina](/tartans/p/pr/princess-marina-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

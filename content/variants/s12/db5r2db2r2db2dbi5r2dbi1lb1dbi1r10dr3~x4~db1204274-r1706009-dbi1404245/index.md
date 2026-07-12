@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Richards"
+  url: "/tartans/r/ri/richards-2/"
 - name: "Richards (Welsh Name)"
   url: "/setts/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBRBWBRB](/stripes/brbrbbrbwbrb/).
+
+Part of the [Richards](/tartans/r/ri/richards-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

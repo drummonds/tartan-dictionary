@@ -6,6 +6,8 @@ This is the **Hebridean Granite** sett — one scale-free proportion (`lb4o4k4o1
 [RWRKRKBWBKRKRW](/stripes/rwrkrkbwbkrkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Hebridean Granite](/tartans/h/he/hebridean-granite-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

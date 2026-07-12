@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Nardi Hunting"
+  url: "/tartans/d/de/de-nardi-hunting/"
 - name: "De Nardi Hunting (Personal)"
   url: "/setts/db30r3db3y3db3g30db36w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30r3db3y3db3g30db36w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGBGBW](/stripes/brbgbgbw/).
+
+Part of the [De Nardi Hunting](/tartans/d/de/de-nardi-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

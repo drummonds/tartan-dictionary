@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Kerr"
   url: "/clan/kerr/"
 - name: "Kerr Shepherd's"
-  url: "/tartans/kerr-shepherd-s/"
+  url: "/tartans/k/ke/kerr-shepherd-s/"
 - name: "Kerr Shepherd's Plaid"
   url: "/setts/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
 
-Part of the [Kerr Shepherd's](/tartans/kerr-shepherd-s/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kerr Shepherd's](/tartans/k/ke/kerr-shepherd-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 

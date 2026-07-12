@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tipperary County, Crest Range"
+  url: "/tartans/t/ti/tipperary-county-crest-range/"
+- name: "Tipperary County, Crest Range"
   url: "/setts/dr10lb36k24dr30dy8k16w18db16dy9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr10lb36k24dr30dy8k16w18db16dy9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBGKWBG](/stripes/bwkbgkwbg/).
+
+Part of the [Tipperary County, Crest Range](/tartans/t/ti/tipperary-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Crieff Primary School Corporate (Schools) Tartan** sett — one sc
 [KGBBBBBBBW](/stripes/kgbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Crieff Primary School](/tartans/crieff-primary-school/) tartan — the named design grouping this sett with its kin.
+Part of the [Crieff Primary School](/tartans/c/cr/crieff-primary-school/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

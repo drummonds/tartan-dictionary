@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McKee , Dot"
-  url: "/tartans/mckee-dot/"
+  url: "/tartans/m/mc/mckee-dot/"
 - name: "McKee (Lone Star) (Personal), Dot"
   url: "/setts/r21w5k1w5r21db6y1db3y1db3y1db4r3g2k1g2k2g1db2g1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r21w5k1w5r21db6y1db3y1db3y1db4r3g2k1g2k2g1db2g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGRBGBGBGBRWKWR](/stripes/gbgkgkgrbgbgbgbrwkwr/).
 
-Part of the [McKee , Dot](/tartans/mckee-dot/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McKee , Dot](/tartans/m/mc/mckee-dot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

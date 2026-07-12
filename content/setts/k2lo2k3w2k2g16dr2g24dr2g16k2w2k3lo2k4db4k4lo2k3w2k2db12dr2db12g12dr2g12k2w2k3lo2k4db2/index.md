@@ -6,6 +6,8 @@ This is the **Hawick** sett — one scale-free proportion (`k2lo2k3w2k2g16dr2g24
 [BKYKWKGBGBBBKWKYKBKYKWKGBGBGKWKYK](/stripes/bkykwkgbgbbbkwkykbkykwkgbgbgkwkyk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Hawick](/tartans/h/ha/hawick-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

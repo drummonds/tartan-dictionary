@@ -6,6 +6,8 @@ This is the **Unidentified No 17** sett — one scale-free proportion (`g10db2g2
 [GBGBWBW](/stripes/gbgbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 17](/tartans/u/un/unidentified-no-17/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

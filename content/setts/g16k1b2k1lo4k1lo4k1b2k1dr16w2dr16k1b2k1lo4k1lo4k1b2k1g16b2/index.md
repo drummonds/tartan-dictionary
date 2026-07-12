@@ -6,6 +6,8 @@ This is the **Baxter Clan/Family Tartan** sett — one scale-free proportion (`g
 [BGKBKYKYKBKBWBKBKYKYKBKG](/stripes/bgkbkykykbkbwbkbkykykbkg/). It is recorded as a single **variant**, below.
 First attested **1856**.
 
+Part of the [Baxter](/tartans/b/ba/baxter-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

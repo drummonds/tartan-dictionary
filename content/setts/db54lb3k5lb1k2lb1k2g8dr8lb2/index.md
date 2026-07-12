@@ -6,6 +6,8 @@ This is the **Racing Stewart** sett — one scale-free proportion (`db54lb3k5lb1
 [BWKWKWKGBW](/stripes/bwkwkwkgbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Racing Stewart](/tartans/r/ra/racing-stewart-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

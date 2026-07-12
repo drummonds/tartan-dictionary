@@ -6,6 +6,8 @@ This is the **PeachyKeen** sett — one scale-free proportion (`r5g2r2g35lo20r2l
 [RGRGYRYR](/stripes/rgrgyryr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Peachy Keen](/tartans/p/pe/peachy-keen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

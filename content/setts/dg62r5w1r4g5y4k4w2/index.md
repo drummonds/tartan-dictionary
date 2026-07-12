@@ -6,6 +6,8 @@ This is the **Greeven, Wolfgang H (Personal)** sett — one scale-free proportio
 [GRWRGGKW](/stripes/grwrggkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Greeven, Wolfgang H](/tartans/g/gr/greeven-wolfgang-h/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

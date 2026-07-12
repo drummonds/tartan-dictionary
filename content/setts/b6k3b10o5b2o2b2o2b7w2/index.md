@@ -6,6 +6,8 @@ This is the **Digital** sett — one scale-free proportion (`b6k3b10o5b2o2b2o2b7
 [BKBRBRBRBW](/stripes/bkbrbrbrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Digital](/tartans/d/di/digital/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

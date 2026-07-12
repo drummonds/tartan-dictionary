@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray-Hetherington"
+  url: "/tartans/m/mu/murray-hetherington-2/"
 - name: "Murray-Hetherington (Personal) Name Tartan"
   url: "/setts/g1k1g14k2r3db3k6w1k1w1k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1k1g14k2r3db3k6w1k1w1k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRBKWKWKW](/stripes/gkgkrbkwkwkw/).
+
+Part of the [Murray-Hetherington](/tartans/m/mu/murray-hetherington-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

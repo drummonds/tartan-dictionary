@@ -6,7 +6,7 @@ This is the **Prince of Orange #2** sett — one scale-free proportion (`db6lo25
 [BKGYB](/stripes/bkgyb/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
-Part of the [Prince of Orange](/tartans/prince-of-orange/) tartan — the named design grouping this sett with its kin.
+Part of the [Prince of Orange](/tartans/p/pr/prince-of-orange/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

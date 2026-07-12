@@ -6,6 +6,8 @@ This is the **Culloden - 1977 (Fashion)** sett — one scale-free proportion (`b
 [BWKWBKBG](/stripes/bwkwbkbg/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Culloden](/tartans/c/cu/culloden-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

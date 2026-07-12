@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victorian Highland Pipe Band Association"
+  url: "/tartans/v/vi/victorian-highland-pipe-band-association/"
 - name: "Victorian Highland Pipe Band Association (Australia)"
   url: "/setts/db46ly1y3dg13ly1dr7g3ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db46ly1y3dg13ly1dr7g3ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGGYBGY](/stripes/byggybgy/).
+
+Part of the [Victorian Highland Pipe Band Association](/tartans/v/vi/victorian-highland-pipe-band-association/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oriel"
+  url: "/tartans/o/or/oriel/"
 - name: "Oriel #1"
   url: "/setts/r12db2r3g20k4g20r30k2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12db2r3g20k4g20r30k2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGKGRKR](/stripes/rbrgkgrkr/).
+
+Part of the [Oriel](/tartans/o/or/oriel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

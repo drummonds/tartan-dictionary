@@ -6,6 +6,8 @@ This is the **Auld Lang Syne, Grey Weavers Tartan** sett — one scale-free prop
 [KRKRKBKBRKW](/stripes/krkrkbkbrkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Auld Lang Syne, Grey Weavers](/tartans/a/au/auld-lang-syne-grey-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

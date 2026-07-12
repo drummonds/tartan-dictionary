@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lawtie"
+  url: "/tartans/l/la/lawtie/"
 - name: "Lawtie (Personal)"
   url: "/setts/k20lb2k8db2k2db2k2db10dr5g5db15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20lb2k8db2k2db2k2db10dr5g5db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKBKBKWK](/stripes/bgbbkbkbkwk/).
+
+Part of the [Lawtie](/tartans/l/la/lawtie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

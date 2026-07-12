@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blais"
-  url: "/tartans/blais/"
+  url: "/tartans/b/bl/blais/"
 - name: "Blais"
   url: "/setts/db20y1o1db3k1n2k1r10k1n2r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20y1o1db3k1n2k1r10k1n2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRBKBKRKBR](/stripes/bgrbkbkrkbr/).
 
-Part of the [Blais](/tartans/blais/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blais](/tartans/b/bl/blais/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

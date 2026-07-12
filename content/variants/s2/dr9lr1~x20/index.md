@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roddy \"Rowdy\" Piper"
+  url: "/tartans/r/ro/roddy-rowdy-piper/"
 - name: "Roddy \"Rowdy\" Piper (Personal)"
   url: "/setts/dr9lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr9lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BY](/stripes/by/).
+
+Part of the [Roddy "Rowdy" Piper](/tartans/r/ro/roddy-rowdy-piper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

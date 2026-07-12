@@ -6,6 +6,8 @@ This is the **Ferrazza (Personal)** sett — one scale-free proportion (`db16k16
 [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Ferrazza](/tartans/f/fe/ferrazza/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

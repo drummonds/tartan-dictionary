@@ -19,5 +19,5 @@ A family of [Clan MacNeil](/clan/macneil/).
 </tbody>
 </table>
 
-[See the MacNeil of Barra tartan and all its setts →](/tartans/macneil-of-barra/)
+[See the MacNeil of Barra tartan and all its setts →](/tartans/m/ma/macneil-of-barra/)
 

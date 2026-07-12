@@ -6,6 +6,8 @@ This is the **Ikelman No. 6** sett — one scale-free proportion (`r16g2r3g2r13k
 [GRKRKWKRGRGR](/stripes/grkrkwkrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ikelman No. 6](/tartans/i/ik/ikelman-no-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Murray** sett — one scale-free proportion (`db6k1db1k1db1k6g6r2g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
+Part of the [Murray](/tartans/m/mu/murray-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

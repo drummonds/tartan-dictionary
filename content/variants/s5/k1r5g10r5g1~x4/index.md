@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray, Lord George"
+  url: "/tartans/m/mu/murray-lord-george/"
 - name: "Murray, Lord George (Hose)"
   url: "/setts/k1r5g10r5g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1r5g10r5g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRK](/stripes/grgrk/).
+
+Part of the [Murray, Lord George](/tartans/m/mu/murray-lord-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

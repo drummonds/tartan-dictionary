@@ -6,6 +6,8 @@ This is the **Montreal Granate** sett — one scale-free proportion (`ly78dr11g2
 [BYBYBGBY](/stripes/bybybgby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Montreal Granate](/tartans/m/mo/montreal-granate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

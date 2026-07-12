@@ -6,6 +6,8 @@ This is the **Superstition Fire Honor Guard Pipes & Drums** sett — one scale-f
 [BWBKRKGKR](/stripes/bwbkrkgkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Superstition Fire Honor Guard Pipes](/tartans/s/su/superstition-fire-honor-guard-pipes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

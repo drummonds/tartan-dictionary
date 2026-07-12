@@ -6,6 +6,8 @@ This is the **Berwick (Fashion)** sett — one scale-free proportion (`do24g5n2k
 [BGBKBKGKBBKBG](/stripes/bgbkbkgkbbkbg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Berwick](/tartans/b/be/berwick-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

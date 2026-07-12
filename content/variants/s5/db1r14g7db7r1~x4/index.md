@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser of Boblainy, Hugh"
+  url: "/families/fraser-of-boblainy-hugh/"
+- name: "Fraser of Boblainy, Hugh"
+  url: "/tartans/f/fr/fraser-of-boblainy-hugh/"
 - name: "Fraser of Boblainy, Hugh (Personal)"
   url: "/setts/db1r14g7db7r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1r14g7db7r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBR](/stripes/brgbr/).
+
+Part of the [Fraser of Boblainy, Hugh](/tartans/f/fr/fraser-of-boblainy-hugh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

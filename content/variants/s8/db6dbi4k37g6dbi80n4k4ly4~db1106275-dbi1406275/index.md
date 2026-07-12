@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Law"
+  url: "/clan/law/"
+- name: "Law Enforcement Officers' Memorial"
+  url: "/tartans/l/la/law-enforcement-officers-memorial/"
 - name: "Law Enforcement Officers' Memorial"
   url: "/setts/db6dbi4k37g6dbi80n4k4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6dbi4k37g6dbi80n4k4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGBBKY](/stripes/bbkgbbky/).
+
+Part of the [Law Enforcement Officers' Memorial](/tartans/l/la/law-enforcement-officers-memorial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

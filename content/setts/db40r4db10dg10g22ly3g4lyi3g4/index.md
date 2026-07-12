@@ -6,6 +6,8 @@ This is the **Keith Stanhope Society (Commem.)** sett — one scale-free proport
 [BRBGGYGYG](/stripes/brbggygyg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Keith Stanhope Society](/tartans/k/ke/keith-stanhope-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

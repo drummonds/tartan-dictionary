@@ -6,6 +6,8 @@ This is the **MacGregor, Black (Personal)** sett — one scale-free proportion (
 [RKRKW](/stripes/rkrkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hallowfield Wood** sett — one scale-free proportion (`y3r10g4y8d
 [GRGGBBGBGGRG](/stripes/grggbbgbggrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hallowfield Wood](/tartans/h/ha/hallowfield-wood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

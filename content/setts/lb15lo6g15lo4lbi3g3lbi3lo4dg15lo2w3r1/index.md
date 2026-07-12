@@ -6,7 +6,7 @@ This is the **Bouguet, Adrian Hunting (Personal)** sett — one scale-free propo
 [RWYGYWGWYGYW](/stripes/rwygywgwygyw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Bouguet, Adrian Hunting](/tartans/bouguet-adrian-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Bouguet, Adrian Hunting](/tartans/b/bo/bouguet-adrian-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

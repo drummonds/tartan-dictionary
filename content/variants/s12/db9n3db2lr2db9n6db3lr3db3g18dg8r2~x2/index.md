@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patterson William John Magee"
+  url: "/tartans/p/pa/patterson-william-john-magee/"
 - name: "Patterson, William John Magee (Personal)"
   url: "/setts/db9n3db2lr2db9n6db3lr3db3g18dg8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9n3db2lr2db9n6db3lr3db3g18dg8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBBBYBGGR](/stripes/bbbybbbybggr/).
+
+Part of the [Patterson William John Magee](/tartans/p/pa/patterson-william-john-magee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

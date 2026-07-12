@@ -6,7 +6,7 @@ This is the **Maitland Chief** sett — one scale-free proportion (`g5db24g7k10g
 [GBGKGGBGR](/stripes/gbgkggbgr/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
-Part of the [Maitland](/tartans/maitland/) tartan — the named design grouping this sett with its kin.
+Part of the [Maitland](/tartans/m/ma/maitland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

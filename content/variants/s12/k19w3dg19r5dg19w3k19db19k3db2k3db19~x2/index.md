@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fruin Colquhoun"
+  url: "/tartans/f/fr/fruin-colquhoun/"
+- name: "Fruin Colquhoun"
   url: "/setts/k19w3dg19r5dg19w3k19db19k3db2k3db19/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k19w3dg19r5dg19w3k19db19k3db2k3db19/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/).
+
+Part of the [Fruin Colquhoun](/tartans/f/fr/fruin-colquhoun/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

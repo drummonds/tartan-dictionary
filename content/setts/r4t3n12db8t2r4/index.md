@@ -6,6 +6,8 @@ This is the **Bristol Gramar School Check (School)** sett — one scale-free pro
 [RBBBBR](/stripes/rbbbbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Bristol Gramar School Check](/tartans/b/br/bristol-gramar-school-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

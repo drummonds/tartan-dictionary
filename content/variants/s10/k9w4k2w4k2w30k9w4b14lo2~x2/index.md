@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hannay"
-  url: "/tartans/hannay/"
+  url: "/tartans/h/ha/hannay/"
 - name: "Hannay (Clan)"
   url: "/setts/k9w4k2w4k2w30k9w4b14lo2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k9w4k2w4k2w30k9w4b14lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
 
-Part of the [Hannay](/tartans/hannay/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hannay](/tartans/h/ha/hannay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Braes High School Falkirk"
+  url: "/tartans/b/br/braes-high-school-falkirk/"
 - name: "Braes High School Falkirk (School)"
   url: "/setts/w5r5w5k15r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5r5w5k15r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRW](/stripes/rkwrw/).
+
+Part of the [Braes High School Falkirk](/tartans/b/br/braes-high-school-falkirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

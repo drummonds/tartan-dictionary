@@ -6,6 +6,8 @@ This is the **MacNaughton Htg** sett — one scale-free proportion (`dg1r1g22dy2
 [GRGGGRGRG](/stripes/grgggrgrg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [MacNaughton Hunting](/tartans/m/ma/macnaughton-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

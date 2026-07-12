@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Wyoming"
+  url: "/tartans/s/st/state-seal-of-wyoming/"
 - name: "State Seal of Wyoming (Fashion)"
   url: "/setts/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGYYGGGWGK](/stripes/bygyygggwgk/).
+
+Part of the [State Seal of Wyoming](/tartans/s/st/state-seal-of-wyoming/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

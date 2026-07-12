@@ -6,12 +6,16 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Waggrall"
+  url: "/tartans/w/wa/waggrall-3/"
+- name: "Waggrall"
   url: "/setts/r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w1ri4/"
 slug_full: "r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w1ri4~x2~r2109032-ri2307033"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w1ri4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR](/stripes/rwrrwbgwgbwgywbwygwggwggwgbwbgwrrwrwrrwgbwbgwggywyggwrrwrwrrwggywyggwgbwbgwrrwrwr/).
+
+Part of the [Waggrall](/tartans/w/wa/waggrall-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 

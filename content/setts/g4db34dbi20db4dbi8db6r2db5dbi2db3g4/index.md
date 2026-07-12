@@ -6,6 +6,8 @@ This is the **Hughes Welsh Name Tartan** sett — one scale-free proportion (`g4
 [GBBBBBRBBBG](/stripes/gbbbbbrbbbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hughes](/tartans/h/hu/hughes-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

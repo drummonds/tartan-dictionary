@@ -6,6 +6,8 @@ This is the **Auld Alliance** sett — one scale-free proportion (`w5db1dbi10db2
 [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Auld Alliance](/tartans/a/au/auld-alliance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

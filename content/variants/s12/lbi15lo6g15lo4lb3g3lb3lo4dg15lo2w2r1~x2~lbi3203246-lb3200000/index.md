@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bouguet, Adrian Hunting"
-  url: "/tartans/bouguet-adrian-hunting/"
+  url: "/tartans/b/bo/bouguet-adrian-hunting/"
 - name: "Bouguet, Adrian Hunting (Personal)"
   url: "/setts/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWYGYWGWYGYW](/stripes/rwygywgwygyw/).
 
-Part of the [Bouguet, Adrian Hunting](/tartans/bouguet-adrian-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bouguet, Adrian Hunting](/tartans/b/bo/bouguet-adrian-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

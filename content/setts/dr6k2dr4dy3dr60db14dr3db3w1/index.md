@@ -6,6 +6,8 @@ This is the **Stenhousemuir Football Club (Sports)** sett — one scale-free pro
 [BKBGBBBBW](/stripes/bkbgbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Stenhousemuir Football Club](/tartans/s/st/stenhousemuir-football-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

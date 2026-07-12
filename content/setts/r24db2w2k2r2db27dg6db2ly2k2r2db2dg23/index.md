@@ -7,6 +7,8 @@ This is the **Olympic** sett — one scale-free proportion (`r24db2w2k2r2db27dg6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1976**.
 
+Part of the [Montreal Olympics](/tartans/m/mo/montreal-olympics/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

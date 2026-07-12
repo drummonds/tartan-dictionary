@@ -6,7 +6,7 @@ This is the **Barbecue Presbyterian Church** sett — one scale-free proportion 
 [GRGRGKBRGRGRG](/stripes/grgrgkbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Barbecue Presbyterian Church](/tartans/barbecue-presbyterian-church/) tartan — the named design grouping this sett with its kin.
+Part of the [Barbecue Presbyterian Church](/tartans/b/ba/barbecue-presbyterian-church/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

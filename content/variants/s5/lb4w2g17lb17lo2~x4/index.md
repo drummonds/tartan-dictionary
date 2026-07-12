@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bermuda"
+  url: "/tartans/b/be/bermuda-3/"
 - name: "Bermuda (1986)"
   url: "/setts/lb4w2g17lb17lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4w2g17lb17lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWGWY](/stripes/wwgwy/).
+
+Part of the [Bermuda](/tartans/b/be/bermuda-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

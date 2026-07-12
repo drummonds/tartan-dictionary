@@ -6,6 +6,8 @@ This is the **Snelgrove (Name)** sett — one scale-free proportion (`k2g6do4lb1
 [KGBWRBY](/stripes/kgbwrby/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Snelgrove](/tartans/s/sn/snelgrove/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **St Johnstone F.C.** sett — one scale-free proportion (`k19w8k19b
 [KWKBGBW](/stripes/kwkbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this sett with its kin.
+Part of the [St. Johnstone F.C.](/tartans/s/st/st-johnstone-f-c/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Kennewell (Personal)** sett — one scale-free proportion (`db25lb
 [BKBWGYBWKBWBRYGWB](/stripes/bkbwgybwkbwbrygwb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Kennewell](/tartans/kennewell/) tartan — the named design grouping this sett with its kin.
+Part of the [Kennewell](/tartans/k/ke/kennewell/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

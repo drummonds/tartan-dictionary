@@ -6,7 +6,7 @@ This is the **Cornish Hunting District Tartan** sett — one scale-free proporti
 [RKBGGKW](/stripes/rkbggkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Cornish Hunting](/tartans/cornish-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Cornish Hunting](/tartans/c/co/cornish-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

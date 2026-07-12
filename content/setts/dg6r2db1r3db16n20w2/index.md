@@ -6,6 +6,8 @@ This is the **MacCord (Personal)** sett — one scale-free proportion (`dg6r2db1
 [GRBRBBW](/stripes/grbrbbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [MacCord](/tartans/m/ma/maccord/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

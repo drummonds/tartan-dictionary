@@ -6,6 +6,8 @@ This is the **Spey** sett — one scale-free proportion (`db1n1r1n1db1n1r1n1db1n
 [BBRBBBRBBBRBBW](/stripes/bbrbbbrbbbrbbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Spey](/tartans/s/sp/spey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

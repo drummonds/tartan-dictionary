@@ -6,6 +6,8 @@ This is the **Cossar (Personal)** sett — one scale-free proportion (`w4lb5lo3l
 [GYKYGKGWYWW](/stripes/gykygkgwyww/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Cossar](/tartans/c/co/cossar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

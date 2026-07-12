@@ -6,6 +6,8 @@ This is the **Harmer** sett — one scale-free proportion (`dg36ly8k9ly24dg4ly12
 [BGYKYGYGYKYG](/stripes/bgykygygykyg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Harmer](/tartans/h/ha/harmer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

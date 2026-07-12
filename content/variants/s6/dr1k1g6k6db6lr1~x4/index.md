@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gaines Center for Humanities"
+  url: "/tartans/g/ga/gaines-center-for-humanities/"
 - name: "Gaines Center for the Humanities"
   url: "/setts/dr1k1g6k6db6lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr1k1g6k6db6lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBY](/stripes/bkgkby/).
+
+Part of the [Gaines Center for Humanities](/tartans/g/ga/gaines-center-for-humanities/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ This is the **Glen Orchy** sett — one scale-free proportion (`g3r2b1db18r2g8r4
 [GRBBRGRWBRGRBBW](/stripes/grbbrgrwbrgrbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Glen Orchy](/tartans/glen-orchy-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Orchy](/tartans/g/gl/glen-orchy-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **MacPherson Dress Purple** sett — one scale-free proportion (`w5k
 [WBWBWKW](/stripes/wbwbwkw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [MacPherson Dress](/tartans/m/ma/macpherson-dress-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

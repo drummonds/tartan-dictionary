@@ -6,6 +6,8 @@ This is the **Allen (1998)** sett — one scale-free proportion (`g2r2g12k4db11d
 [GRGKBGBKBKBKBKBRBKGRG](/stripes/grgkbgbkbkbkbkbrbkgrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Allen](/tartans/a/al/allen-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

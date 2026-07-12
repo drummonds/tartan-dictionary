@@ -6,6 +6,8 @@ This is the **Highland Park HS Pipe Band** sett — one scale-free proportion (`
 [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/). It is recorded as a single **variant**, below.
 First attested **1940**.
 
+Part of the [Highland Park HS Pipe Band](/tartans/h/hi/highland-park-hs-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

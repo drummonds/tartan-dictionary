@@ -6,6 +6,8 @@ This is the **Lumsden of Kintore (Clan?)** sett — one scale-free proportion (`
 [BRBRGRGRG](/stripes/brbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
+Part of the [Lumsden of Kintore](/tartans/l/lu/lumsden-of-kintore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

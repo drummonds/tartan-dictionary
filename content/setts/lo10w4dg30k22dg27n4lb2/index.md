@@ -6,6 +6,8 @@ This is the **Aggreko Shepherd (Personal)** sett — one scale-free proportion (
 [WBGKGWY](/stripes/wbgkgwy/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Aggreko Shepherd](/tartans/a/ag/aggreko-shepherd/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

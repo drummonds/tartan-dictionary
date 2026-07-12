@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Virgin"
+  url: "/tartans/v/vi/virgin/"
+- name: "Virgin"
   url: "/setts/r51n2r6k10r2k4n3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r51n2r6k10r2k4n3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRKRBR](/stripes/kbkrkrbr/).
+
+Part of the [Virgin](/tartans/v/vi/virgin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

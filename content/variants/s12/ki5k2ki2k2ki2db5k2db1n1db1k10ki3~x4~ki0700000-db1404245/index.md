@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hopkins"
+  url: "/tartans/h/ho/hopkins-2/"
 - name: "Hopkins (Welsh Name)"
   url: "/setts/ki5k2ki2k2ki2db5k2db1n1db1k10ki3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ki5k2ki2k2ki2db5k2db1n1db1k10ki3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKBBBKBKKKKK](/stripes/kkbbbkbkkkkk/).
+
+Part of the [Hopkins](/tartans/h/ho/hopkins-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

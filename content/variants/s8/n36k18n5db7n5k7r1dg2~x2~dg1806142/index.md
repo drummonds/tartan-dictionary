@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Suttle"
-  url: "/tartans/suttle/"
+  url: "/tartans/s/su/suttle/"
 - name: "Suttle (Personal)"
   url: "/setts/n36k18n5db7n5k7r1dg2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n36k18n5db7n5k7r1dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBKRG](/stripes/bkbbbkrg/).
 
-Part of the [Suttle](/tartans/suttle/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Suttle](/tartans/s/su/suttle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

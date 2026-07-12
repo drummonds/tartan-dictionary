@@ -6,7 +6,7 @@ This is the **Clan Inebriated** sett — one scale-free proportion (`k21dp2n1k1n
 [BBKBBKBBK](/stripes/bbkbbkbbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Clan Inebriated](/tartans/clan-inebriated/) tartan — the named design grouping this sett with its kin.
+Part of the [Clan Inebriated](/tartans/c/cl/clan-inebriated/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

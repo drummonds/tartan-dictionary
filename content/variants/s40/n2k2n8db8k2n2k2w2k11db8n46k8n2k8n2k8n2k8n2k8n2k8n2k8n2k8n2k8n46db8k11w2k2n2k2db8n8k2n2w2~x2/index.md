@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hood"
+  url: "/tartans/h/ho/hood-2/"
+- name: "Hood"
   url: "/setts/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKBKWKBBKBKBKBKBKBKBKBKBKBBKWKBKBBKBW](/stripes/bkbbkbkwkbbkbkbkbkbkbkbkbkbkbbkwkbkbbkbw/).
+
+Part of the [Hood](/tartans/h/ho/hood-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 

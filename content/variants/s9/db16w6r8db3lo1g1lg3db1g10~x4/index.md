@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ohio"
-  url: "/tartans/ohio/"
+  url: "/tartans/o/oh/ohio/"
 - name: "Ogilvie of Inverquharity or Ohio"
   url: "/setts/db16w6r8db3lo1g1lg3db1g10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16w6r8db3lo1g1lg3db1g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBYGYBG](/stripes/bwrbygybg/).
 
-Part of the [Ohio](/tartans/ohio/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ohio](/tartans/o/oh/ohio/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

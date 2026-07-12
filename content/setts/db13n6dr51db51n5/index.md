@@ -6,6 +6,8 @@ This is the **Hillsdale (Corporate?)** sett — one scale-free proportion (`db13
 [BBBBB](/stripes/bbbbb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Hillsdale](/tartans/h/hi/hillsdale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

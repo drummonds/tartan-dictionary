@@ -6,6 +6,8 @@ This is the **Firth of Tay** sett — one scale-free proportion (`b2w2b1w9k5dg3d
 [BWBWKGBGKY](/stripes/bwbwkgbgky/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Firth of Tay](/tartans/f/fi/firth-of-tay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

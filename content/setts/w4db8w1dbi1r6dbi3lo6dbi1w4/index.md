@@ -7,6 +7,8 @@ This is the **Wombles** sett — one scale-free proportion (`w4db8w1dbi1r6dbi3lo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Wombles](/tartans/w/wo/wombles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

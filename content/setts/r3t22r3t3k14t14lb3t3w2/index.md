@@ -6,7 +6,7 @@ This is the **Fitzgerald (Family)** sett — one scale-free proportion (`r3t22r3
 [RBRBKBWBW](/stripes/rbrbkbwbw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
-Part of the [Fitzgerald](/tartans/fitzgerald-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Fitzgerald](/tartans/f/fi/fitzgerald-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

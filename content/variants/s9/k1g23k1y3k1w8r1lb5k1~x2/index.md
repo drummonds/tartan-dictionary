@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nor Westers"
+  url: "/tartans/n/no/nor-westers/"
 - name: "Nor Westers Commemorative Tartan"
   url: "/setts/k1g23k1y3k1w8r1lb5k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1g23k1y3k1w8r1lb5k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKWRWK](/stripes/kgkgkwrwk/).
+
+Part of the [Nor Westers](/tartans/n/no/nor-westers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

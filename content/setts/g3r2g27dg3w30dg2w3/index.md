@@ -6,6 +6,8 @@ This is the **Uist, Green (Dance)** sett — one scale-free proportion (`g3r2g27
 [GRGGWGW](/stripes/grggwgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Uist](/tartans/u/ui/uist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

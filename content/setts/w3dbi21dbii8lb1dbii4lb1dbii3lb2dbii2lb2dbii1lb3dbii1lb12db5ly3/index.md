@@ -6,6 +6,8 @@ This is the **Ryder Cup 2014 (Corporate)** sett — one scale-free proportion (`
 [WBBWBWBWBWBWBWBY](/stripes/wbbwbwbwbwbwbwby/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Ryder Cup 2014](/tartans/r/ry/ryder-cup-2014/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

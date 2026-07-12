@@ -6,6 +6,8 @@ This is the **Stakis Hotels (Corporate)** sett — one scale-free proportion (`l
 [RBW](/stripes/rbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Stakis Hotels](/tartans/s/st/stakis-hotels/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

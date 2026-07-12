@@ -6,6 +6,8 @@ This is the **Christie (London)** sett — one scale-free proportion (`y5k2g4lb1
 [GKGWRW](/stripes/gkgwrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Christie](/tartans/c/ch/christie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

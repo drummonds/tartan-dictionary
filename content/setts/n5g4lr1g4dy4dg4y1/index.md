@@ -6,6 +6,8 @@ This is the **Devon, Green (District)** sett — one scale-free proportion (`n5g
 [BGYGGGG](/stripes/bgygggg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Devon](/tartans/d/de/devon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

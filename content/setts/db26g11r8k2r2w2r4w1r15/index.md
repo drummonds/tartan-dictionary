@@ -6,7 +6,7 @@ This is the **Royal Scottish Assurance (Corporate)** sett — one scale-free pro
 [BGRKRWRWR](/stripes/bgrkrwrwr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
-Part of the [Royal Scottish Assurance](/tartans/royal-scottish-assurance/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Scottish Assurance](/tartans/r/ro/royal-scottish-assurance/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

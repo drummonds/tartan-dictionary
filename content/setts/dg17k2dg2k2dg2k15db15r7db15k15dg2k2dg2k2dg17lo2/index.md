@@ -6,6 +6,8 @@ This is the **Thormanby Buccaneer Bay** sett — one scale-free proportion (`dg1
 [GKGKGKBRBKGKGKGY](/stripes/gkgkgkbrbkgkgkgy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Thormanby Buccaneer Bay](/tartans/t/th/thormanby-buccaneer-bay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

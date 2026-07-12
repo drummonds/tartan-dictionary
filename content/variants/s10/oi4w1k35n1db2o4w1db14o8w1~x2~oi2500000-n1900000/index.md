@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Voluntary Service Aberdeen"
+  url: "/tartans/v/vo/voluntary-service-aberdeen/"
+- name: "Voluntary Service Aberdeen"
   url: "/setts/oi4w1k35n1db2o4w1db14o8w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/oi4w1k35n1db2o4w1db14o8w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBBRWBRW](/stripes/rwkbbrwbrw/).
+
+Part of the [Voluntary Service Aberdeen](/tartans/v/vo/voluntary-service-aberdeen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

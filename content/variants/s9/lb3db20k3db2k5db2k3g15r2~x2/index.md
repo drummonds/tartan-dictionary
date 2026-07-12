@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Chamber Orchestra"
+  url: "/tartans/s/sc/scottish-chamber-orchestra/"
 - name: "Scottish Chamber Orchestra, The"
   url: "/setts/lb3db20k3db2k5db2k3g15r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3db20k3db2k5db2k3g15r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBKBKBW](/stripes/rgkbkbkbw/).
+
+Part of the [Scottish Chamber Orchestra](/tartans/s/sc/scottish-chamber-orchestra/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

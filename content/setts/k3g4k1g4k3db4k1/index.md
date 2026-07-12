@@ -6,6 +6,8 @@ This is the **Unidentified No 63** sett — one scale-free proportion (`k3g4k1g4
 [KBKGKGK](/stripes/kbkgkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified No 63](/tartans/u/un/unidentified-no-63/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Michie** sett — one scale-free proportion (`dp35g8dp6g4dp12g4dp6
 [BGBGBGBGBKBGBGBGBGBBYBRB](/stripes/bgbgbgbgbkbgbgbgbgbbybrb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Michie](/tartans/m/mi/michie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

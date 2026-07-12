@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Londonderry, County"
+  url: "/tartans/l/lo/londonderry-county/"
+- name: "Londonderry, County"
   url: "/setts/o6k2dg12ly8o5k2dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o6k2dg12ly8o5k2dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRYGKR](/stripes/gkrygkr/).
+
+Part of the [Londonderry, County](/tartans/l/lo/londonderry-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

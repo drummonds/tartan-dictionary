@@ -6,7 +6,7 @@ This is the **MacGregor Dress Red Fancy Tartan** sett — one scale-free proport
 [RWRKBKRWRW](/stripes/rwrkbkrwrw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [MacGregor](/tartans/macgregor-6/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor](/tartans/m/ma/macgregor-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

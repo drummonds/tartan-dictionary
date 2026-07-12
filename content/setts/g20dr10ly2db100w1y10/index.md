@@ -6,6 +6,8 @@ This is the **Ravetta (Name)** sett — one scale-free proportion (`g20dr10ly2db
 [GBYBWG](/stripes/gbybwg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Ravetta](/tartans/r/ra/ravetta/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

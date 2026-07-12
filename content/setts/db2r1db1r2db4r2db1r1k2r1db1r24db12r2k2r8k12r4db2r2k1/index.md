@@ -6,6 +6,8 @@ This is the **Murray (Bed hanging)** sett — one scale-free proportion (`db2r1d
 [BRBRBRBRKRBRBRKRKRBRK](/stripes/brbrbrbrkrbrbrkrkrbrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Murray](/tartans/m/mu/murray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

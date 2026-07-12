@@ -6,6 +6,8 @@ This is the **Campbell, Forty Second** sett — one scale-free proportion (`k8db
 [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Campbell, Forty Second](/tartans/c/ca/campbell-forty-second/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

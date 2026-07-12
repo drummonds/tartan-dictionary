@@ -6,6 +6,8 @@ This is the **Sir George Etienne-Cartier Canada Tartan** sett — one scale-free
 [BKBRBKGGGR](/stripes/bkbrbkgggr/). It is recorded as a single **variant**, below.
 First attested **~1983**.
 
+Part of the [Sir George Etienne-Cartier Canada](/tartans/s/si/sir-george-etienne-cartier-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

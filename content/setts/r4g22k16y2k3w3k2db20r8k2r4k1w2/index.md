@@ -6,6 +6,8 @@ This is the **Galt Sir Alexander.. Family Tartan** sett — one scale-free propo
 [RGKGKWKBRKRKW](/stripes/rgkgkwkbrkrkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Louise of Lorne](/tartans/l/lo/louise-of-lorne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

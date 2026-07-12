@@ -6,6 +6,8 @@ This is the **Saltire** sett — one scale-free proportion (`db10t6lb6w4lb3t6db2
 [BBWWWBBBBWBBBBWWWB](/stripes/bbwwwbbbbwbbbbwwwb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Saltire](/tartans/s/sa/saltire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nolan"
+  url: "/tartans/n/no/nolan/"
 - name: "Nolan (Personal)"
   url: "/setts/dr8g19dg42ly3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr8g19dg42ly3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGYR](/stripes/bggyr/).
+
+Part of the [Nolan](/tartans/n/no/nolan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

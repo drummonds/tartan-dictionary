@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weston"
+  url: "/tartans/w/we/weston/"
 - name: "Weston Family Tartan"
   url: "/setts/db4dp4k4w1k4dp4db4dbi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4dp4k4w1k4dp4db4dbi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKWKBB](/stripes/bbbkwkbb/).
+
+Part of the [Weston](/tartans/w/we/weston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,7 +6,7 @@ This is the **Gouranga (Corporate)** sett — one scale-free proportion (`t15k3t
 [BKBWBGRGWGK](/stripes/bkbwbgrgwgk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
-Part of the [Gouranga](/tartans/gouranga/) tartan — the named design grouping this sett with its kin.
+Part of the [Gouranga](/tartans/g/go/gouranga/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

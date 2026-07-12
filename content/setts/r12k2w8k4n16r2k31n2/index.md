@@ -6,6 +6,8 @@ This is the **Distripress Annual Congress 2012** sett — one scale-free proport
 [BKRBKWKR](/stripes/bkrbkwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Distripress Annual Congress 2012](/tartans/d/di/distripress-annual-congress-2012/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

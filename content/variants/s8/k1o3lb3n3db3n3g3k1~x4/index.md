@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewarton"
+  url: "/tartans/s/st/stewarton-2/"
 - name: "Stewarton (Fashion)"
   url: "/setts/k1o3lb3n3db3n3g3k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1o3lb3n3db3n3g3k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBBBWRK](/stripes/kgbbbwrk/).
+
+Part of the [Stewarton](/tartans/s/st/stewarton-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "RAF Kinloss"
+  url: "/tartans/r/ra/raf-kinloss/"
+- name: "RAF Kinloss"
   url: "/setts/lb5db6lb8n50lb4n4lb4k8n8lb44r4lb10r4lb44n8k8lb4n4lb4n50lb8g6lb5y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5db6lb8n50lb4n4lb4k8n8lb44r4lb10r4lb44n8k8lb4n4lb4n50lb8g6lb5y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWBWBWKBWRWRWBKWBWBWBW](/stripes/gwgwbwbwkbwrwrwbkwbwbwbw/).
+
+Part of the [RAF Kinloss](/tartans/r/ra/raf-kinloss/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

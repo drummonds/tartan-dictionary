@@ -6,6 +6,8 @@ This is the **Derick Wardrope (Portobello) (Personal)** sett — one scale-free 
 [BGKGKBKBW](/stripes/bgkgkbkbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Derick Wardrope](/tartans/d/de/derick-wardrope/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

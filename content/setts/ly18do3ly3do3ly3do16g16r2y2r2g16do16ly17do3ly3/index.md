@@ -6,6 +6,8 @@ This is the **Lander (2013)** sett — one scale-free proportion (`ly18do3ly3do3
 [YBYBGRGRGBYBYBY](/stripes/ybybgrgrgbybyby/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Lander](/tartans/l/la/lander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

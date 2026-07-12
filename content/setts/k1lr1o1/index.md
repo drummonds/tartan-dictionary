@@ -6,6 +6,8 @@ This is the **Coigach Tweed** sett — one scale-free proportion (`k1lr1o1`), co
 [KYR](/stripes/kyr/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Coigach Tweed](/tartans/c/co/coigach-tweed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

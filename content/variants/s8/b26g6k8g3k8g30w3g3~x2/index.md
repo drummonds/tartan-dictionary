@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Riley"
+  url: "/tartans/r/ri/riley/"
 - name: "Riley (Personal)"
   url: "/setts/b26g6k8g3k8g30w3g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b26g6k8g3k8g30w3g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKGWG](/stripes/bgkgkgwg/).
+
+Part of the [Riley](/tartans/r/ri/riley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

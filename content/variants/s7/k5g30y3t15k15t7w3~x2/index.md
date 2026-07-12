@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dick"
+  url: "/tartans/d/di/dick/"
 - name: "Dick (Personal)"
   url: "/setts/k5g30y3t15k15t7w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5g30y3t15k15t7w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGBKBW](/stripes/kggbkbw/).
+
+Part of the [Dick](/tartans/d/di/dick/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **St Margaret's School for Girls, Aberdeen** sett — one scale-free
 [GBBBBWBWBGBGBRBR](/stripes/gbbbbwbwbgbgbrbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [St Margaret's School for Girls, Aberdeen](/tartans/s/st/st-margaret-s-school-for-girls-aberdeen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

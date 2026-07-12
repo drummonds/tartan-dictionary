@@ -6,6 +6,8 @@ This is the **MacDougall - 1819 (Clan)** sett — one scale-free proportion (`y1
 [GRRRGRGRBRRRRRGRGRBRRRRG](/stripes/grrrgrgrbrrrrrgrgrbrrrrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [MacDougall](/tartans/m/ma/macdougall-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

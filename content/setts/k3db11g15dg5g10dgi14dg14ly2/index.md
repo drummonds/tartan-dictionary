@@ -6,6 +6,8 @@ This is the **Brocéliande (Restricted)** sett — one scale-free proportion (`k
 [KBGGGGGY](/stripes/kbgggggy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Brocéliande](/tartans/b/br/broc-liande/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

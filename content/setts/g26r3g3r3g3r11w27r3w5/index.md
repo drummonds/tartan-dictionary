@@ -6,6 +6,8 @@ This is the **Lindsay Dress Red** sett — one scale-free proportion (`g26r3g3r3
 [GRGRGRWRW](/stripes/grgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lindsay Dress](/tartans/l/li/lindsay-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Genet, Edmond Charles 'Citizen' (Personal)** sett — one scale-fr
 [RKGBRBW](/stripes/rkgbrbw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Genet, Edmond Charles 'Citizen'](/tartans/g/ge/genet-edmond-charles-citizen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

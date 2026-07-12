@@ -6,6 +6,8 @@ This is the **Hand (Personal)** sett — one scale-free proportion (`dg1n8o5n23o
 [GBRBRBRBRGRW](/stripes/gbrbrbrbrgrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hand](/tartans/h/ha/hand-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

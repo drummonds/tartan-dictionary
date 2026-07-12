@@ -6,7 +6,7 @@ This is the **Ofsharick, Matthew (Personal)** sett — one scale-free proportion
 [BBWBGBGWK](/stripes/bbwbgbgwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Ofsharick, Matthew](/tartans/ofsharick-matthew/) tartan — the named design grouping this sett with its kin.
+Part of the [Ofsharick, Matthew](/tartans/o/of/ofsharick-matthew/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

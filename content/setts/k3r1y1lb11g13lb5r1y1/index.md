@@ -6,7 +6,7 @@ This is the **Snodgrass (Clan)** sett — one scale-free proportion (`k3r1y1lb11
 [GRWGWGRK](/stripes/grwgwgrk/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
-Part of the [Snodgrass](/tartans/snodgrass/) tartan — the named design grouping this sett with its kin.
+Part of the [Snodgrass](/tartans/s/sn/snodgrass/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

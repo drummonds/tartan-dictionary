@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Yarrow"
+  url: "/tartans/y/ya/yarrow/"
+- name: "Yarrow"
   url: "/setts/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBYBGYBYG](/stripes/gbwbybgybyg/).
+
+Part of the [Yarrow](/tartans/y/ya/yarrow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

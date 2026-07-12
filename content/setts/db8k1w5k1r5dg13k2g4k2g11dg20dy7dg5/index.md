@@ -6,7 +6,7 @@ This is the **Wild Geese** sett — one scale-free proportion (`db8k1w5k1r5dg13k
 [BKWKRGKGKGGGG](/stripes/bkwkrgkgkgggg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Wild Geese](/tartans/wild-geese/) tartan — the named design grouping this sett with its kin.
+Part of the [Wild Geese](/tartans/w/wi/wild-geese/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

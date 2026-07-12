@@ -6,6 +6,8 @@ This is the **MacDonell of Keppach** sett — one scale-free proportion (`r9g4r6
 [RGRKRKRGRKR](/stripes/rgrkrkrgrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDonell of Keppach](/tartans/m/ma/macdonell-of-keppach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

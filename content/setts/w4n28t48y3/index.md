@@ -6,6 +6,8 @@ This is the **MacKerrell of Hillhouse Dress Personal Tartan** sett — one scale
 [GBBW](/stripes/gbbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [MacKerrell of Hillhouse Dress](/tartans/m/ma/mackerrell-of-hillhouse-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

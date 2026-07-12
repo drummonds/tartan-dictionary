@@ -6,6 +6,8 @@ This is the **Kalkofen (Name)** sett — one scale-free proportion (`k40dg15k10o
 [KGKRKY](/stripes/kgkrky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kalkofen](/tartans/k/ka/kalkofen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

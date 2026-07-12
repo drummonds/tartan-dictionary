@@ -6,6 +6,8 @@ This is the **Presbyterian Synod of Living Waters (USA)** sett — one scale-fre
 [BRBGGKGWGKGKGW](/stripes/brbggkgwgkgkgw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Presbyterian Synod of Living Waters](/tartans/p/pr/presbyterian-synod-of-living-waters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

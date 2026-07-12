@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shieldhall"
+  url: "/tartans/s/sh/shieldhall/"
 - name: "Shieldhall (Fashion)"
   url: "/setts/do12r1do2r1do2lb2do3n9r1n2r1n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do12r1do2r1do2lb2do3n9r1n2r1n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBWBRBRB](/stripes/brbrbbwbrbrb/).
+
+Part of the [Shieldhall](/tartans/s/sh/shieldhall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

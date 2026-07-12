@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
+- name: "Gordon of Esslemont"
+  url: "/families/gordon-of-esslemont/"
+- name: "Gordon of Esslemont"
+  url: "/tartans/g/go/gordon-of-esslemont/"
 - name: "Gordon of Esslemont Family Tartan"
   url: "/setts/y6g3y3g22k23dp23k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6g3y3g22k23dp23k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGKBK](/stripes/ggggkbk/).
+
+Part of the [Gordon of Esslemont](/tartans/g/go/gordon-of-esslemont/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

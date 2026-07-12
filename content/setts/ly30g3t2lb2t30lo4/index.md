@@ -6,6 +6,8 @@ This is the **South Aiken Presby Church (Corporate** sett — one scale-free pro
 [YBWBGY](/stripes/ybwbgy/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [South Aiken Presby Church (Corporate](/tartans/s/so/south-aiken-presby-church-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Bronte (Name)** sett — one scale-free proportion (`g24t2r25y2k3`
 [GBRGK](/stripes/gbrgk/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
-Part of the [Bronte](/tartans/bronte/) tartan — the named design grouping this sett with its kin.
+Part of the [Bronte](/tartans/b/br/bronte/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

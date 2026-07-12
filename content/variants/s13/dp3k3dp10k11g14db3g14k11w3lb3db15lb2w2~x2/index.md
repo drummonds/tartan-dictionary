@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North of Scotland Tartan Army"
+  url: "/families/north-of-scotland-tartan-army/"
+- name: "North of Scotland Tartan Army"
+  url: "/tartans/n/no/north-of-scotland-tartan-army/"
 - name: "North of Scotland Tartan Army"
   url: "/setts/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGBGKWWBWW](/stripes/bkbkgbgkwwbww/).
+
+Part of the [North of Scotland Tartan Army](/tartans/n/no/north-of-scotland-tartan-army/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

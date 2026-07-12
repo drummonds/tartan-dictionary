@@ -6,7 +6,7 @@ This is the **Rabbinical (Corporate)** sett — one scale-free proportion (`b28k
 [BKRKBKBKBGRGBW](/stripes/bkrkbkbkbgrgbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Rabbinical](/tartans/rabbinical/) tartan — the named design grouping this sett with its kin.
+Part of the [Rabbinical](/tartans/r/ra/rabbinical/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

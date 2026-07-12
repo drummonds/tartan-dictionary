@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "National Ballet of Canada"
+  url: "/tartans/n/na/national-ballet-of-canada/"
+- name: "National Ballet of Canada"
   url: "/setts/do40n19k2n2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do40n19k2n2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBW](/stripes/bbkbw/).
+
+Part of the [National Ballet of Canada](/tartans/n/na/national-ballet-of-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

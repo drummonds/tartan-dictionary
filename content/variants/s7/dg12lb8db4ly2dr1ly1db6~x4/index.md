@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "F.I.A.T.A. Congress 1990"
+  url: "/tartans/f/f/f-i-a-t-a-congress-1990/"
 - name: "F.I.A.T.A. Congress of 1990"
   url: "/setts/dg12lb8db4ly2dr1ly1db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12lb8db4ly2dr1ly1db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBWG](/stripes/bybybwg/).
+
+Part of the [F.I.A.T.A. Congress 1990](/tartans/f/f/f-i-a-t-a-congress-1990/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Duchess of York"
-  url: "/tartans/duchess-of-york/"
+  url: "/tartans/d/du/duchess-of-york/"
 - name: "Duchess of York"
   url: "/setts/db1dy9g5dy1k5dy1g5dy9w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1dy9g5dy1k5dy1g5dy9w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGKGGGW](/stripes/bgggkgggw/).
 
-Part of the [Duchess of York](/tartans/duchess-of-york/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Duchess of York](/tartans/d/du/duchess-of-york/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Normandy Bay Myth** sett — one scale-free proportion (`w2k1w1r1y
 [RGWKWKWKWBGWKWKWKGRWKW](/stripes/rgwkwkwkwbgwkwkwkgrwkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Normandy Bay Myth](/tartans/normandy-bay-myth/) tartan — the named design grouping this sett with its kin.
+Part of the [Normandy Bay Myth](/tartans/n/no/normandy-bay-myth/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

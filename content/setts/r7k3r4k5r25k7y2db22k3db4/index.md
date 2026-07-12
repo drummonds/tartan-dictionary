@@ -6,6 +6,8 @@ This is the **St. George's (Edinburgh) (School)** sett — one scale-free propor
 [BKBGKRKRKR](/stripes/bkbgkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [St. George's](/tartans/s/st/st-george-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

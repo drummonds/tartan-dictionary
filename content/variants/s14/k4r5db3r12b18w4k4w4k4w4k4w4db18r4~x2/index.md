@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Edinburgh Military Tattoo"
-  url: "/tartans/edinburgh-military-tattoo/"
+  url: "/tartans/e/ed/edinburgh-military-tattoo/"
 - name: "Edinburgh, Military Tattoo"
   url: "/setts/k4r5db3r12b18w4k4w4k4w4k4w4db18r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4r5db3r12b18w4k4w4k4w4k4w4db18r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRBWKWKWKWBR](/stripes/krbrbwkwkwkwbr/).
 
-Part of the [Edinburgh Military Tattoo](/tartans/edinburgh-military-tattoo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Edinburgh Military Tattoo](/tartans/e/ed/edinburgh-military-tattoo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

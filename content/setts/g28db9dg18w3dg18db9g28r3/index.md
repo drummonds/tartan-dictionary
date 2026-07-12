@@ -6,6 +6,8 @@ This is the **Simple Technology** sett — one scale-free proportion (`g28db9dg1
 [GBGWGBGR](/stripes/gbgwgbgr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Simple Technology](/tartans/s/si/simple-technology-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

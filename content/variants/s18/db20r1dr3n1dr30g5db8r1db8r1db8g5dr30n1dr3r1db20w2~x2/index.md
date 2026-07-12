@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Guild, The"
+  url: "/tartans/g/gu/guild-the/"
+- name: "Guild, The"
   url: "/setts/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBGBRBRBGBBBRBW](/stripes/brbbbgbrbrbgbbbrbw/).
+
+Part of the [Guild, The](/tartans/g/gu/guild-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

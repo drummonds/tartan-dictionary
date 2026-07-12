@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Stewart"
-  url: "/tartans/royal-stewart-2/"
+  url: "/tartans/r/ro/royal-stewart-2/"
 - name: "Royal Stewart"
   url: "/setts/r18b2k3y1k1w1k1g4r2k1r1w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r18b2k3y1k1w1k1g4r2k1r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGRKRW](/stripes/rbkgkwkgrkrw/).
 
-Part of the [Royal Stewart](/tartans/royal-stewart-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Royal Stewart](/tartans/r/ro/royal-stewart-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,7 +6,7 @@ This is the **MacNappy Tartan** sett — one scale-free proportion (`w36db12w1r1
 [GGRWBW](/stripes/ggrwbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [MacNappy](/tartans/macnappy/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNappy](/tartans/m/ma/macnappy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

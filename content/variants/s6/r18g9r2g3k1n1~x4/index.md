@@ -10,7 +10,7 @@ crumbs:
 - name: "MacGregor of Cardney"
   url: "/families/macgregor-of-cardney/"
 - name: "MacGregor of Cardney"
-  url: "/tartans/macgregor-of-cardney/"
+  url: "/tartans/m/ma/macgregor-of-cardney/"
 - name: "MacGregor of Cardney - 1930 (Clan)"
   url: "/setts/r18g9r2g3k1n1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r18g9r2g3k1n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRGR](/stripes/bkgrgr/).
 
-Part of the [MacGregor of Cardney](/tartans/macgregor-of-cardney/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor of Cardney](/tartans/m/ma/macgregor-of-cardney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

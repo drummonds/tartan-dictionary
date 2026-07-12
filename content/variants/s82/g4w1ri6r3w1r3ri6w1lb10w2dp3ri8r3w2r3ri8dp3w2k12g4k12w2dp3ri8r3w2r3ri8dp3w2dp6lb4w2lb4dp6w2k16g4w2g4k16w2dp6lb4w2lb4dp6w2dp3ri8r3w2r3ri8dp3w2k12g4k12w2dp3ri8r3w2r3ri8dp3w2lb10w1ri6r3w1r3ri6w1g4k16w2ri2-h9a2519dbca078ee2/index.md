@@ -6,12 +6,16 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberdeen"
+  url: "/tartans/a/ab/aberdeen-2/"
+- name: "Aberdeen"
   url: "/setts/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri23r3w2/"
 slug_full: "g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri23r3w2~x2~ri2109032-r1807008"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri23r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRRWRRWWWBRRWRRBWKGKWBRRWRRBWBWWWBWKGWGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/gwrrwrrwwwbrrwrrbwkgkwbrrwrrbwbwwwbwkgwgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/).
+
+Part of the [Aberdeen](/tartans/a/ab/aberdeen-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 

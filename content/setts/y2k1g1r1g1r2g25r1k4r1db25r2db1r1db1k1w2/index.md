@@ -6,6 +6,8 @@ This is the **Victoria City of Gardens (Fashion)** sett — one scale-free propo
 [GKGRGRGRKRBRBRBKW](/stripes/gkgrgrgrkrbrbrbkw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Victoria City of Gardens](/tartans/v/vi/victoria-city-of-gardens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

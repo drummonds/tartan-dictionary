@@ -6,6 +6,8 @@ This is the **Dewar (WCWM)** sett — one scale-free proportion (`db1dy1db7dy5y7
 [BGBGGY](/stripes/bgbggy/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
+Part of the [Dewar](/tartans/d/de/dewar-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

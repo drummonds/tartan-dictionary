@@ -6,6 +6,8 @@ This is the **Murphy, Andrew (Personal)** sett — one scale-free proportion (`k
 [KWRKRKGKGGKRKW](/stripes/kwrkrkgkggkrkw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Murphy, Andrew](/tartans/m/mu/murphy-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

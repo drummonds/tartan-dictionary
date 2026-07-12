@@ -6,6 +6,8 @@ This is the **Glen Elg** sett — one scale-free proportion (`o2g1w4dg1w4dg3w1g3
 [GRGWGRWGWGWGWGGWGWGWGR](/stripes/grgwgrwgwgwgwggwgwgwgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glen Elg](/tartans/g/gl/glen-elg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

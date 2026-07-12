@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oklahoma"
+  url: "/tartans/o/ok/oklahoma/"
+- name: "Oklahoma"
   url: "/setts/k8dy2t21w3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8dy2t21w3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBWR](/stripes/kgbwr/).
+
+Part of the [Oklahoma](/tartans/o/ok/oklahoma/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **O'Sheehan** sett — one scale-free proportion (`y2db17k4w2k2y2k2d
 [GBKWKGKBGKGW](/stripes/gbkwkgkbgkgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [O'Sheehan](/tartans/o/o/o-sheehan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **European** sett — one scale-free proportion (`t70y4t3y4t7k2t2r7`
 [BGBGBKBR](/stripes/bgbgbkbr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [European](/tartans/e/eu/european/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

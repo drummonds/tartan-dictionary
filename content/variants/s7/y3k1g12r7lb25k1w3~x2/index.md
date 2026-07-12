@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caskie"
+  url: "/tartans/c/ca/caskie/"
+- name: "Caskie"
   url: "/setts/y3k1g12r7lb25k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k1g12r7lb25k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRWKW](/stripes/gkgrwkw/).
+
+Part of the [Caskie](/tartans/c/ca/caskie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

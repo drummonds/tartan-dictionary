@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Gold"
-  url: "/tartans/black-gold/"
+  url: "/tartans/b/bl/black-gold/"
 - name: "Black Gold"
   url: "/setts/dy3k3dy3k18n28w1g22k2dy2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy3k3dy3k18n28w1g22k2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBWGKG](/stripes/gkgkbwgkg/).
 
-Part of the [Black Gold](/tartans/black-gold/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Gold](/tartans/b/bl/black-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

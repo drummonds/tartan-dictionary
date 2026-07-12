@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gangs"
+  url: "/clan/gangs/"
+- name: "Gangs of New York Fashion Check"
+  url: "/families/gangs-of-new-york-fashion-check/"
+- name: "Gangs of New York Fashion Check"
+  url: "/tartans/g/ga/gangs-of-new-york-fashion-check/"
 - name: "Gangs of New York Fashion Check Tartan"
   url: "/setts/w5k20w2r5w20r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5k20w2r5w20r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWKW](/stripes/rwrwkw/).
+
+Part of the [Gangs of New York Fashion Check](/tartans/g/ga/gangs-of-new-york-fashion-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -7,6 +7,8 @@ This is the **Golden Heather, The** sett — one scale-free proportion (`r2ly20o
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1975**.
 
+Part of the [Golden Heather, The](/tartans/g/go/golden-heather-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

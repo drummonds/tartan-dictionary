@@ -6,6 +6,8 @@ This is the **Sean F Forrester (Personal)** sett — one scale-free proportion (
 [GBGBBYWYW](/stripes/gbgbbywyw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Sean F Forrester](/tartans/s/se/sean-f-forrester/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

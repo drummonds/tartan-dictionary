@@ -7,6 +7,8 @@ This is the **Rose Hunting** sett — one scale-free proportion (`k4w1g10k10db10
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
+Part of the [Rose Hunting](/tartans/r/ro/rose-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

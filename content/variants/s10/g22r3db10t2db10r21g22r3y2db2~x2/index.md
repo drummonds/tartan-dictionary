@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Cathedral 2000"
+  url: "/tartans/g/gl/glasgow-cathedral-2000/"
+- name: "Glasgow Cathedral 2000"
   url: "/setts/g22r3db10t2db10r21g22r3y2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g22r3db10t2db10r21g22r3y2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRBBBRG](/stripes/bgrgrbbbrg/).
+
+Part of the [Glasgow Cathedral 2000](/tartans/g/gl/glasgow-cathedral-2000/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

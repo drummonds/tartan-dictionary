@@ -6,6 +6,8 @@ This is the **Cruikshank (Name)** sett — one scale-free proportion (`r4g15db8g
 [RGBGRGBGY](/stripes/rgbgrgbgy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Cruikshank](/tartans/c/cr/cruikshank/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

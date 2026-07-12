@@ -6,6 +6,8 @@ This is the **Union Memorial Tartan** sett — one scale-free proportion (`t16r4
 [BRBGBRWB](/stripes/brbgbrwb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Union Memorial](/tartans/u/un/union-memorial-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

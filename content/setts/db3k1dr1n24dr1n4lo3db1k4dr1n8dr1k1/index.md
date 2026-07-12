@@ -6,6 +6,8 @@ This is the **Wcwm 1445** sett — one scale-free proportion (`db3k1dr1n24dr1n4l
 [BKBBBBYBKBBBK](/stripes/bkbbbbybkbbbk/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Wcwm 1445](/tartans/w/wc/wcwm-1445/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

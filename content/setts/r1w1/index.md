@@ -7,6 +7,8 @@ This is the **Spare** sett — one scale-free proportion (`r1w1`), colour order 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
+Part of the [MacMedic](/tartans/m/ma/macmedic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

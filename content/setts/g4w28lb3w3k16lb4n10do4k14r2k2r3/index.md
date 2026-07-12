@@ -6,6 +6,8 @@ This is the **Edinburgh Zoo Panda, The** sett — one scale-free proportion (`g4
 [GWWWKWBBKRKR](/stripes/gwwwkwbbkrkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Edinburgh Zoo Panda, The](/tartans/e/ed/edinburgh-zoo-panda-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

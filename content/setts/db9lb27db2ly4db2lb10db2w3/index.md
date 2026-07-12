@@ -6,6 +6,8 @@ This is the **Alaska Highlanders P & D (Corporate)** sett — one scale-free pro
 [BWBYBWBW](/stripes/bwbybwbw/). It is recorded as a single **variant**, below.
 First attested **~2001**.
 
+Part of the [Alaska Highlanders P & D](/tartans/a/al/alaska-highlanders-p-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

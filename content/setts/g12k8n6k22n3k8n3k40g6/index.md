@@ -6,6 +6,8 @@ This is the **Jensen, Sven (Personal)** sett — one scale-free proportion (`g12
 [GKBKBKBKG](/stripes/gkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Jensen, Sven](/tartans/j/je/jensen-sven/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

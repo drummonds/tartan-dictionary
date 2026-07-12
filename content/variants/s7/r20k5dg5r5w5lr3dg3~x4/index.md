@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mangles, Peter and Annette Family/Personal"
+  url: "/tartans/m/ma/mangles-peter-and-annette-family-personal/"
 - name: "Mangles, Peter and Annette Family/Personal Tartan"
   url: "/setts/r20k5dg5r5w5lr3dg3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20k5dg5r5w5lr3dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYWRGKR](/stripes/gywrgkr/).
+
+Part of the [Mangles, Peter and Annette Family/Personal](/tartans/m/ma/mangles-peter-and-annette-family-personal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

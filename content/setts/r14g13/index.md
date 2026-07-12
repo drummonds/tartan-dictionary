@@ -6,7 +6,7 @@ This is the **Moncreiffe (MacLachlan) Clan Tartan** sett — one scale-free prop
 [GR](/stripes/gr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Moncreiffe](/tartans/moncreiffe/) tartan — the named design grouping this sett with its kin.
+Part of the [Moncreiffe](/tartans/m/mo/moncreiffe/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

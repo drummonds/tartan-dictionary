@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotland 2000 Commemorative"
+  url: "/tartans/s/sc/scotland-2000-commemorative/"
 - name: "Scotland 2000 Commemorative Tartan"
   url: "/setts/w4lb30g6dr2g6dr28y2dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb30g6dr2g6dr28y2dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGWW](/stripes/bgbgbgww/).
+
+Part of the [Scotland 2000 Commemorative](/tartans/s/sc/scotland-2000-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

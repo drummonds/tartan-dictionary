@@ -6,7 +6,7 @@ This is the **Walk the Walk (Corporate)** sett — one scale-free proportion (`w
 [RWRWRWRW](/stripes/rwrwrwrw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Walk the Walk](/tartans/walk-the-walk/) tartan — the named design grouping this sett with its kin.
+Part of the [Walk the Walk](/tartans/w/wa/walk-the-walk/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

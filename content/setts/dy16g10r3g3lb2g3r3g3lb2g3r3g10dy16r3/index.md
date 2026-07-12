@@ -6,6 +6,8 @@ This is the **Scott Hunting** sett — one scale-free proportion (`dy16g10r3g3lb
 [GGRGWGRGWGRGGR](/stripes/ggrgwgrgwgrggr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Scott Hunting](/tartans/s/sc/scott-hunting-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

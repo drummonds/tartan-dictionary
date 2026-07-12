@@ -6,6 +6,8 @@ This is the **Isle of Cumbrae (Corporate)** sett — one scale-free proportion (
 [BWBGRGK](/stripes/bwbgrgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Isle of Cumbrae](/tartans/i/is/isle-of-cumbrae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

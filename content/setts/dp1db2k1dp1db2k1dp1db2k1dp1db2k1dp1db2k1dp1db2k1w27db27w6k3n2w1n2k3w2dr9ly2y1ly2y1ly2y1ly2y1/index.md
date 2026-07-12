@@ -6,6 +6,8 @@ This is the **Am Yisrael Chair (Corporate)** sett — one scale-free proportion 
 [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkbbkbbkbbkwbwkbwbkwbygygygyg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Am Yisrael Chair](/tartans/a/am/am-yisrael-chair/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

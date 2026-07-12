@@ -6,6 +6,8 @@ This is the **Strathclyde 1975 (District)** sett — one scale-free proportion (
 [KWWBWKW](/stripes/kwwbwkw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Strathclyde 1975](/tartans/s/st/strathclyde-1975/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

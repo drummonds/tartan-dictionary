@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kettles, Ryan & Alan"
-  url: "/tartans/kettles-ryan-alan/"
+  url: "/tartans/k/ke/kettles-ryan-alan/"
 - name: "Kettles, Ryan & Alan (Personal)"
   url: "/setts/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYKGKBKGKBKGKGKG](/stripes/bykgkbkgkbkgkgkg/).
 
-Part of the [Kettles, Ryan & Alan](/tartans/kettles-ryan-alan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kettles, Ryan & Alan](/tartans/k/ke/kettles-ryan-alan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

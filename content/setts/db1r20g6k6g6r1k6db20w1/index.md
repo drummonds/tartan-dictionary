@@ -6,6 +6,8 @@ This is the **Bush Pilot** sett — one scale-free proportion (`db1r20g6k6g6r1k6
 [BRGKGRKBW](/stripes/brgkgrkbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Bush Pilot](/tartans/b/bu/bush-pilot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

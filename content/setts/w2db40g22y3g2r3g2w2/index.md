@@ -6,6 +6,8 @@ This is the **Tartan Day SA** sett — one scale-free proportion (`w2db40g22y3g2
 [WBGGGRGW](/stripes/wbgggrgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Tartan Day SA](/tartans/t/ta/tartan-day-sa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

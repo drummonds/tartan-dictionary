@@ -6,6 +6,8 @@ This is the **Kumikyoku - Wind of Thistle** sett — one scale-free proportion (
 [BBBBBBRBWBBBWBBBWBRBWBRBBBBBB](/stripes/bbbbbbrbwbbbwbbbwbrbwbrbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Kumikyoku](/tartans/k/ku/kumikyoku/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

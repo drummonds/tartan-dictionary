@@ -6,7 +6,7 @@ This is the **Grant of Monymusk** sett — one scale-free proportion (`r12g16r3g
 [RGRGRGRBRKRGR](/stripes/rgrgrgrbrkrgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [Grant of Monymusk](/tartans/grant-of-monymusk/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Monymusk](/tartans/g/gr/grant-of-monymusk/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

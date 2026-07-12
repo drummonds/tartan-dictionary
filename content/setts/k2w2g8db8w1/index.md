@@ -6,7 +6,7 @@ This is the **Douglas** sett — one scale-free proportion (`k2w2g8db8w1`), colo
 [KWGBW](/stripes/kwgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Douglas](/tartans/douglas-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Douglas](/tartans/d/do/douglas-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

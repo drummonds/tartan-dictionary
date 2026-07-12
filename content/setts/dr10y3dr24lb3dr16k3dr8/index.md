@@ -6,6 +6,8 @@ This is the **Rannoch Red** sett — one scale-free proportion (`dr10y3dr24lb3dr
 [BGBWBKB](/stripes/bgbwbkb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Rannoch](/tartans/r/ra/rannoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

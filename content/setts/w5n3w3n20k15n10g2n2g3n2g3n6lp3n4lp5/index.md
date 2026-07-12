@@ -6,6 +6,8 @@ This is the **Thistle Dubh** sett — one scale-free proportion (`w5n3w3n20k15n1
 [WBWBGBGBGBKBWBW](/stripes/wbwbgbgbgbkbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Midnight Thistle](/tartans/m/mi/midnight-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

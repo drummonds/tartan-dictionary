@@ -7,6 +7,8 @@ This is the **MacNeish** sett — one scale-free proportion (`g6r3k3r24g4k10r2g4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [MacNeish](/tartans/m/ma/macneish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Williams Welsh Name Tartan** sett — one scale-free proportion (`
 [GKRGRKRGRKRGRGRGRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgrgrgrgrkrgrkrgrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Williams](/tartans/w/wi/williams-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **MacAart Family Tartan** sett — one scale-free proportion (`dy9k2
 [GKGRGKGKGR](/stripes/gkgrgkgkgr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [MacAart](/tartans/macaart-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAart](/tartans/m/ma/macaart-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

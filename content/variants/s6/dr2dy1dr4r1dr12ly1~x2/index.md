@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Killiechassie"
+  url: "/tartans/k/ki/killiechassie/"
+- name: "Killiechassie"
   url: "/setts/dr2dy1dr4r1dr12ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2dy1dr4r1dr12ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBY](/stripes/bgbrby/).
+
+Part of the [Killiechassie](/tartans/k/ki/killiechassie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

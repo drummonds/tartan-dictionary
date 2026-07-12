@@ -6,6 +6,8 @@ This is the **Elsa Dance** sett — one scale-free proportion (`w8g6w44db10lb6k3
 [WGWBWKWKWW](/stripes/wgwbwkwkww/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Elsa Dance](/tartans/e/el/elsa-dance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

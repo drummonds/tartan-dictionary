@@ -6,6 +6,8 @@ This is the **Tailor Ishida, Kobe** sett — one scale-free proportion (`lg25r1g
 [WBGRY](/stripes/wbgry/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Tailor Ishida, Kobe](/tartans/t/ta/tailor-ishida-kobe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

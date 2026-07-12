@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bean Hunting"
+  url: "/tartans/b/be/bean-hunting-2/"
+- name: "Bean Hunting"
   url: "/setts/db6r15g41r15db20g41lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6r15g41r15db20g41lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBGW](/stripes/brgrbgw/).
+
+Part of the [Bean Hunting](/tartans/b/be/bean-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

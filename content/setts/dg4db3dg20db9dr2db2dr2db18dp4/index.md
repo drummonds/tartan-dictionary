@@ -6,6 +6,8 @@ This is the **New Club Centenary** sett — one scale-free proportion (`dg4db3dg
 [BBBBBBGBG](/stripes/bbbbbbgbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [New Club Centenary](/tartans/n/ne/new-club-centenary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

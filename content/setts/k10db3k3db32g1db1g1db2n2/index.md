@@ -6,6 +6,8 @@ This is the **Orman (Midlothian) (Personal)** sett — one scale-free proportion
 [BBGBGBKBK](/stripes/bbgbgbkbk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Orman](/tartans/o/or/orman-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

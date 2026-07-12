@@ -6,7 +6,7 @@ This is the **MacLeod of Raasay (Highland Society of London)** sett — one scal
 [KRKRK](/stripes/krkrk/). It is recorded as a single **variant**, below.
 First attested **1845**.
 
-Part of the [MacLeod of Raasay](/tartans/macleod-of-raasay/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLeod of Raasay](/tartans/m/ma/macleod-of-raasay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

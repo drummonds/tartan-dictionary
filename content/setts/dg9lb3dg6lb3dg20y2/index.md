@@ -6,6 +6,8 @@ This is the **Oman, Sultanate of..** sett — one scale-free proportion (`dg9lb3
 [GGWGWG](/stripes/ggwgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Oman, Sultanate of..](/tartans/o/om/oman-sultanate-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

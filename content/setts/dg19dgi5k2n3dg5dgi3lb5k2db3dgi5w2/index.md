@@ -6,7 +6,7 @@ This is the **MacLean, Kenneth, Baron of Denboig** sett — one scale-free propo
 [GGKBGGWKBGW](/stripes/ggkbggwkbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [MacLean, Kenneth, baron of Denboig](/tartans/maclean-kenneth-baron-of-denboig/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean, Kenneth, baron of Denboig](/tartans/m/ma/maclean-kenneth-baron-of-denboig/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

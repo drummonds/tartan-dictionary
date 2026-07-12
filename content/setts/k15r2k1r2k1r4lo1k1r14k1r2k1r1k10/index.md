@@ -6,7 +6,7 @@ This is the **Johnnie Walker (1985)** sett — one scale-free proportion (`k15r2
 [KRKRKRKYRKRKRK](/stripes/krkrkrkyrkrkrk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Johnnie Walker](/tartans/johnnie-walker-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Johnnie Walker](/tartans/j/jo/johnnie-walker-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

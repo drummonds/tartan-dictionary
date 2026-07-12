@@ -6,7 +6,7 @@ This is the **Benedictus Blue (Personal)** sett — one scale-free proportion (`
 [KWBBBBBBBBBBBR](/stripes/kwbbbbbbbbbbbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Benedictus](/tartans/benedictus/) tartan — the named design grouping this sett with its kin.
+Part of the [Benedictus](/tartans/b/be/benedictus/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

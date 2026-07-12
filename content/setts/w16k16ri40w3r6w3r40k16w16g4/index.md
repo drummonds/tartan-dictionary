@@ -6,6 +6,8 @@ This is the **Nisbett Rose Dress Family Tartan** sett — one scale-free proport
 [GWKRWRWRKW](/stripes/gwkrwrwrkw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Nisbett Rose Dress](/tartans/n/ni/nisbett-rose-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celtic Norse Heritage Society"
-  url: "/tartans/celtic-norse-heritage-society/"
+  url: "/tartans/c/ce/celtic-norse-heritage-society/"
 - name: "Celtic Norse Heritage Society"
   url: "/setts/n10k1db3g3y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n10k1db3g3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGG](/stripes/bkbgg/).
 
-Part of the [Celtic Norse Heritage Society](/tartans/celtic-norse-heritage-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Celtic Norse Heritage Society](/tartans/c/ce/celtic-norse-heritage-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

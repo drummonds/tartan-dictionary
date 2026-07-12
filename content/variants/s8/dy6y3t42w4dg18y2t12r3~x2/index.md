@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow High"
+  url: "/tartans/g/gl/glasgow-high/"
 - name: "Glasgow High (School)"
   url: "/setts/dy6y3t42w4dg18y2t12r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy6y3t42w4dg18y2t12r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWGGBR](/stripes/ggbwggbr/).
+
+Part of the [Glasgow High](/tartans/g/gl/glasgow-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

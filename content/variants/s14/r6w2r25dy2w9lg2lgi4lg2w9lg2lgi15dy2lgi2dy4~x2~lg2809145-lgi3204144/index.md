@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sakura"
+  url: "/tartans/s/sa/sakura/"
 - name: "Sakura (Japanese Four Seasons)"
   url: "/setts/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYYWYYYWGRWR](/stripes/gygyywyyywgrwr/).
+
+Part of the [Sakura](/tartans/s/sa/sakura/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

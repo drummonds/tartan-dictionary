@@ -6,6 +6,8 @@ This is the **Miller** sett — one scale-free proportion (`dr2db6g15t9db30t9g6l
 [BBGBBBGY](/stripes/bbgbbbgy/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Miller](/tartans/m/mi/miller/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Drennan** sett — one scale-free proportion (`db7w3g3db18ly3k15ly
 [BWGBYKYGBGBG](/stripes/bwgbykygbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Drennan](/tartans/d/dr/drennan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

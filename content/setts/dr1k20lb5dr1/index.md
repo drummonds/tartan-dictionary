@@ -6,6 +6,8 @@ This is the **Dobelman (Personal)** sett — one scale-free proportion (`dr1k20l
 [BKWB](/stripes/bkwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dobelman](/tartans/d/do/dobelman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

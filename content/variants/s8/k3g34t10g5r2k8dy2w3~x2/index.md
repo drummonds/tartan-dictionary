@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lambert Kai"
-  url: "/tartans/lambert-kai/"
+  url: "/tartans/l/la/lambert-kai/"
 - name: "Lambert Kai (Personal)"
   url: "/setts/k3g34t10g5r2k8dy2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g34t10g5r2k8dy2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBGRKGW](/stripes/kgbgrkgw/).
 
-Part of the [Lambert Kai](/tartans/lambert-kai/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lambert Kai](/tartans/l/la/lambert-kai/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

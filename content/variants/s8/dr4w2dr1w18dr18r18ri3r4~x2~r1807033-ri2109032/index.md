@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gigha Cherry"
+  url: "/tartans/g/gi/gigha-cherry/"
 - name: "Gigha, Cherry (Dance)"
   url: "/setts/dr4w2dr1w18dr18r18ri3r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4w2dr1w18dr18r18ri3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBRRR](/stripes/bwbwbrrr/).
+
+Part of the [Gigha Cherry](/tartans/g/gi/gigha-cherry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,6 +6,8 @@ This is the **Grant of Achnarrow Error 1983** sett — one scale-free proportion
 [WKWGBWBWRGRW](/stripes/wkwgbwbwrgrw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Grant of Achnarrow](/tartans/g/gr/grant-of-achnarrow-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

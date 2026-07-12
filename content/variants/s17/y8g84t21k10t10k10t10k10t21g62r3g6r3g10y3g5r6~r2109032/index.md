@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "King Edward"
-  url: "/tartans/king-edward/"
+  url: "/tartans/k/ki/king-edward/"
 - name: "King Edward VII"
   url: "/setts/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGRGRGBKBKBKBGGGBKBKBKBGRGRGGGR](/stripes/gggrgrgbkbkbkbgggbkbkbkbgrgrgggr/).
 
-Part of the [King Edward](/tartans/king-edward/) tartan — the named design grouping this sett with its other cloths.
+Part of the [King Edward](/tartans/k/ki/king-edward/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

@@ -6,6 +6,8 @@ This is the **Carroll O'Reed** sett — one scale-free proportion (`dg28lb1dg4dr
 [GWGBKYKGBKBY](/stripes/gwgbkykgbkby/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Carroll O'Reed](/tartans/c/ca/carroll-o-reed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

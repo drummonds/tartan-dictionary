@@ -6,6 +6,8 @@ This is the **Hibernian Football Club (Corporate)** sett — one scale-free prop
 [BGKGWG](/stripes/bgkgwg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Hibernian Football Club](/tartans/h/hi/hibernian-football-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Sarnia"
-  url: "/tartans/city-of-sarnia/"
+  url: "/tartans/c/ci/city-of-sarnia/"
 - name: "City of Sarnia"
   url: "/setts/db10k2w2k3w2k10db10k1r2k1db10k10db10k1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db10k2w2k3w2k10db10k1r2k1db10k10db10k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKBKRKBKBKG](/stripes/bkwkwkbkrkbkbkg/).
 
-Part of the [City of Sarnia](/tartans/city-of-sarnia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [City of Sarnia](/tartans/c/ci/city-of-sarnia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

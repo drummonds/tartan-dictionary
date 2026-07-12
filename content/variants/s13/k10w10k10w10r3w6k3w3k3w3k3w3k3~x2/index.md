@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackcraig"
+  url: "/tartans/b/bl/blackcraig/"
 - name: "Blackcraig (Personal)"
   url: "/setts/k10w10k10w10r3w6k3w3k3w3k3w3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10w10k10w10r3w6k3w3k3w3k3w3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWRWKWK](/stripes/kwkwkwkwrwkwk/).
+
+Part of the [Blackcraig](/tartans/b/bl/blackcraig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

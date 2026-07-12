@@ -6,7 +6,7 @@ This is the **MacAulay (MacGregor)** sett — one scale-free proportion (`r96db1
 [RBGBRBGKW](/stripes/rbgbrbgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacAulay](/tartans/macaulay-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAulay](/tartans/m/ma/macaulay-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Scottish Airports Corporate Tartan** sett — one scale-free propo
 [BBKBGBGBKB](/stripes/bbkbgbgbkb/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Scottish Airports](/tartans/s/sc/scottish-airports/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

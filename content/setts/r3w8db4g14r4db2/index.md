@@ -6,6 +6,8 @@ This is the **MacIntosh Dress Clan Tartan** sett — one scale-free proportion (
 [BRGBWR](/stripes/brgbwr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacIntosh Dress](/tartans/m/ma/macintosh-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

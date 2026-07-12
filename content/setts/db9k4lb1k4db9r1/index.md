@@ -6,6 +6,8 @@ This is the **Scottish Nuclear** sett — one scale-free proportion (`db9k4lb1k4
 [BKWKBR](/stripes/bkwkbr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Scottish Nuclear](/tartans/s/sc/scottish-nuclear-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

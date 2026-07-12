@@ -1,0 +1,37 @@
+---
+title: "Wilson's No.079"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KWGW](/stripes/kwgw/) — the page of every tartan sharing this colour sequence.
+
+The **Wilson's No.079** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k7w1g7lb1/">Wilson's No.079</a></td><td><code>K/14 W2 G14 LB/2</code></td><td>48</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k7w1g7lb1/"><img src="/variants/s4/k7w1g7lb1~x2/sett.png" alt="Wilson's No.079 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Wilson's, No 79
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">48</div><div class="nn-name nn-base"><a href="/variants/s4/k7w1g7lb1~x2/">Wilson's No.079</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/k7w1g7lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7y1g7lb1~x2&amp;base=k7w1g7lb1~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">48</div><div class="nn-name"><a href="/variants/s4/k7y1g7lb1~x2/">Wilson's, No 140</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k7y1g7lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5g6lb1~x4&amp;base=k7w1g7lb1~x2" title="compare in the TTD">0.65</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s3/k5g6lb1~x4/">Wilson's No.050</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k5g6lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g5k6lb1~x4&amp;base=k7w1g7lb1~x2" title="compare in the TTD">0.65</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s3/g5k6lb1~x4/">Wilson's, No 50</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g5k6lb1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6y1g6~x4&amp;base=k7w1g7lb1~x2" title="compare in the TTD">0.79</a></div><div class="nn-threads">56</div><div class="nn-name"><a href="/variants/s3/k6y1g6~x4/">Wilson's No.197</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k6y1g6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k11g16dr2~x4&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s3/k11g16dr2~x4/">Kincaid of Kincaid (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k11g16dr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6lb1g7k1~x2&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">46</div><div class="nn-name"><a href="/variants/s4/k6lb1g7k1~x2/">Innes (Miniature)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k6lb1g7k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k30lb7g36k5~x2&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">242</div><div class="nn-name"><a href="/variants/s4/k30lb7g36k5~x2/">Innes Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k30lb7g36k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k30db7g36k5~x2&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">242</div><div class="nn-name"><a href="/variants/s4/k30db7g36k5~x2/">Innes, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k30db7g36k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w2g8db8w1&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.24</a></div><div class="nn-threads">39</div><div class="nn-name"><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2w2g8db8w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g6db6w1~x4&amp;base=k7w1g7lb1~x2" title="compare in the TTD">1.26</a></div><div class="nn-threads">104</div><div class="nn-name"><a href="/variants/s4/r1g6db6w1~x4/">Salt Spring Island</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r1g6db6w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k7y1g7lb1~x2/"><circle cx="190.4" cy="230.6" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.5" cy="283.4" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.5" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="201.0" cy="254.7" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.6" cy="266.2" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s4/k6lb1g7k1~x2/"><circle cx="223.6" cy="239.8" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><a href="/variants/s4/k30lb7g36k5~x2/"><circle cx="212.8" cy="242.4" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/variants/s4/k30db7g36k5~x2/"><circle cx="220.7" cy="244.5" r="4" fill="#3465a4"><title>Innes, hunting</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.3" cy="228.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><circle cx="193.8" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

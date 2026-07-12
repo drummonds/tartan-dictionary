@@ -6,6 +6,8 @@ This is the **Meiklejohn (Personal)** sett — one scale-free proportion (`dr2k1
 [BKBKGKGW](/stripes/bkbkgkgw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Meiklejohn](/tartans/m/me/meiklejohn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

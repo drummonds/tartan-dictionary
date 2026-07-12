@@ -6,7 +6,7 @@ This is the **Exabyte** sett — one scale-free proportion (`dr3n34db4g47lb3`), 
 [BBBGW](/stripes/bbbgw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Exabyte](/tartans/exabyte/) tartan — the named design grouping this sett with its kin.
+Part of the [Exabyte](/tartans/e/ex/exabyte/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

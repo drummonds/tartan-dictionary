@@ -6,6 +6,8 @@ This is the **MacDonald of Staffa Clan Tartan** sett — one scale-free proporti
 [RBRBRKGRGRGRGWGRWRBRGRGRKGKRGRGRGRGRGRBR](/stripes/rbrbrkgrgrgrgwgrwrbrgrgrkgkrgrgrgrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [MacDonald of Staffa](/tartans/m/ma/macdonald-of-staffa-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

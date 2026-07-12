@@ -7,6 +7,8 @@ This is the **Blackstock Red (Dress)** sett — one scale-free proportion (`lo2d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1983**.
 
+Part of the [Blackstock](/tartans/b/bl/blackstock/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

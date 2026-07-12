@@ -6,7 +6,7 @@ This is the **Highland Princess, The** sett — one scale-free proportion (`db15
 [BGYRR](/stripes/bgyrr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Highland Princess, The](/tartans/highland-princess-the/) tartan — the named design grouping this sett with its kin.
+Part of the [Highland Princess, The](/tartans/h/hi/highland-princess-the/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

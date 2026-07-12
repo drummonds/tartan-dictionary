@@ -6,6 +6,8 @@ This is the **Stewart - Pr Ch Ed - Pendleton** sett — one scale-free proportio
 [BBKYKWKGBKBW](/stripes/bbkykwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart](/tartans/s/st/stewart-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

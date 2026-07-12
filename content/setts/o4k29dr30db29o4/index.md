@@ -6,6 +6,8 @@ This is the **Glen Shee #3 (Fashion)** sett — one scale-free proportion (`o4k2
 [RBBKR](/stripes/rbbkr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Glen Shee](/tartans/g/gl/glen-shee-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

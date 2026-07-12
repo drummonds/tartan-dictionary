@@ -6,6 +6,8 @@ This is the **Praetorian Imperator** sett — one scale-free proportion (`w1dp1y
 [WBGBKWWWKWWBWW](/stripes/wbgbkwwwkwwbww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Praetorian Imperator](/tartans/p/pr/praetorian-imperator/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Pernel (Personal)** sett — one scale-free proportion (`k8w1r2g16
 [KWRGRGRGGYGWRGRKW](/stripes/kwrgrgrggygwrgrkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Pernel](/tartans/p/pe/pernel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

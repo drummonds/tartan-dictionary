@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Satchidananda"
+  url: "/tartans/s/sa/satchidananda/"
 - name: "Satchidananda (Personal)"
   url: "/setts/dy18ly4lb10w2r20ly5r2w2dy6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy18ly4lb10w2r20ly5r2w2dy6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRYRWWYGYWWRYRW](/stripes/gwryrwwygywwryrw/).
+
+Part of the [Satchidananda](/tartans/s/sa/satchidananda/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

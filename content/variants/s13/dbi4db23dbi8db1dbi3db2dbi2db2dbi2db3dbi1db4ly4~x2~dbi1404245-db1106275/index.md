@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hawick Common Riding"
-  url: "/tartans/hawick-common-riding/"
+  url: "/tartans/h/ha/hawick-common-riding/"
 - name: "Hawick Common Riding (Commemorative)"
   url: "/setts/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBBBBBY](/stripes/bbbbbbbbbbbby/).
 
-Part of the [Hawick Common Riding](/tartans/hawick-common-riding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hawick Common Riding](/tartans/h/ha/hawick-common-riding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

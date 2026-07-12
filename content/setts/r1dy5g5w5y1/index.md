@@ -6,6 +6,8 @@ This is the **Eastern Townshippers (Corporate)** sett — one scale-free proport
 [GWGGR](/stripes/gwggr/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
+Part of the [Eastern Townshippers](/tartans/e/ea/eastern-townshippers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

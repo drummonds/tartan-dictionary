@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Orkney"
-  url: "/tartans/orkney-2/"
+  url: "/tartans/o/or/orkney-2/"
 - name: "Orkney"
   url: "/setts/dr6dg2db12k2dg12dr9k2b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr6dg2db12k2dg12dr9k2b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGBKB](/stripes/bgbkgbkb/).
 
-Part of the [Orkney](/tartans/orkney-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Orkney](/tartans/o/or/orkney-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

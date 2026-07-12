@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ribbons of Hope"
+  url: "/tartans/r/ri/ribbons-of-hope/"
+- name: "Ribbons of Hope"
   url: "/setts/w3g6gi4rii12w4ri10r5lp8w3lp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3g6gi4rii12w4ri10r5lp8w3lp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGGRWRRWWW](/stripes/wggrwrrwww/).
+
+Part of the [Ribbons of Hope](/tartans/r/ri/ribbons-of-hope/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

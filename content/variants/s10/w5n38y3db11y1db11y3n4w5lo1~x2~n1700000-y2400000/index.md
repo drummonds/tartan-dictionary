@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ballarat"
-  url: "/tartans/ballarat/"
+  url: "/tartans/b/ba/ballarat/"
 - name: "Ballarat"
   url: "/setts/w5n38y3db11y1db11y3n4w5lo1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w5n38y3db11y1db11y3n4w5lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBGBGBWY](/stripes/wbgbgbgbwy/).
 
-Part of the [Ballarat](/tartans/ballarat/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ballarat](/tartans/b/ba/ballarat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

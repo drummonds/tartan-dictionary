@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Myles, Lee"
+  url: "/tartans/m/my/myles-lee-2/"
 - name: "Myles, Lee (Name)"
   url: "/setts/r2lb3r1lb9k4lb13k33lb1k4r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lb3r1lb9k4lb13k33lb1k4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKWKWRWR](/stripes/rkwkwkwrwr/).
+
+Part of the [Myles, Lee](/tartans/m/my/myles-lee-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Hines Snr, Raymond Lee (Personal)** sett — one scale-free propor
 [KGKRKRKBWGK](/stripes/kgkrkrkbwgk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hines Snr, Raymond Lee](/tartans/h/hi/hines-snr-raymond-lee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

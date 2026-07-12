@@ -6,6 +6,8 @@ This is the **Eidart Scotch House Trade Tartan** sett — one scale-free proport
 [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Eidart Scotch House](/tartans/e/ei/eidart-scotch-house/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Moray Plaid Artifact Tartan** sett — one scale-free proportion (
 [GRGRGRGRGRGKGKBKRWRW](/stripes/grgrgrgrgrgkgkbkrwrw/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Moray](/tartans/m/mo/moray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

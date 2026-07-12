@@ -6,6 +6,8 @@ This is the **Venters (Personal)** sett — one scale-free proportion (`dbi15db5
 [BBWBRY](/stripes/bbwbry/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Venters](/tartans/v/ve/venters-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

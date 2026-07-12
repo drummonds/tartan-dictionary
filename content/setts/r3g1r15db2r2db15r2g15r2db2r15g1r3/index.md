@@ -6,7 +6,7 @@ This is the **Robertson D** sett — one scale-free proportion (`r3g1r15db2r2db1
 [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Robertson D](/tartans/robertson-d/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson D](/tartans/r/ro/robertson-d/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

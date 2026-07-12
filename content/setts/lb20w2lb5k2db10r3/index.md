@@ -6,6 +6,8 @@ This is the **St. Christopher's School (Corporate)** sett — one scale-free pro
 [RBKWWW](/stripes/rbkwww/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [St. Christopher's School](/tartans/s/st/st-christopher-s-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

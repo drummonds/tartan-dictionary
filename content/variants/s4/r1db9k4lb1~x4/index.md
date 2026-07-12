@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Nuclear"
-  url: "/tartans/scottish-nuclear/"
+  url: "/tartans/s/sc/scottish-nuclear/"
 - name: "Scottish Nuclear (Corporate)"
   url: "/setts/r1db9k4lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1db9k4lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKW](/stripes/rbkw/).
 
-Part of the [Scottish Nuclear](/tartans/scottish-nuclear/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Nuclear](/tartans/s/sc/scottish-nuclear/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

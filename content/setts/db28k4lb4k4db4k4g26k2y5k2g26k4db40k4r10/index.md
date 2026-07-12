@@ -6,6 +6,8 @@ This is the **Bailey, The House of** sett — one scale-free proportion (`db28k4
 [BKWKBKGKGKGKBKR](/stripes/bkwkbkgkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bailey, The House of](/tartans/b/ba/bailey-the-house-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

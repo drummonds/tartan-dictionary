@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highlands School"
+  url: "/tartans/h/hi/highlands-school/"
 - name: "Highlands School (North Carolina)"
   url: "/setts/lo12db2lo2db30dt2db2dt13lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo12db2lo2db30dt2db2dt13lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBYBY](/stripes/wbbbbyby/).
+
+Part of the [Highlands School](/tartans/h/hi/highlands-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

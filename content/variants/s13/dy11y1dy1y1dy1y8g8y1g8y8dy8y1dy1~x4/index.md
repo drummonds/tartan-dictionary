@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tyneside Scottish"
+  url: "/tartans/t/ty/tyneside-scottish-2/"
 - name: "Tyneside Scottish (Green)"
   url: "/setts/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGGGGGG](/stripes/ggggggggggggg/).
+
+Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

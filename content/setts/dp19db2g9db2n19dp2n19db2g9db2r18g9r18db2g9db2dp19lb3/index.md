@@ -6,6 +6,8 @@ This is the **Cuillins of Skye Fashion Tartan** sett — one scale-free proporti
 [BBGBBBBBGBRGRBGBBW](/stripes/bbgbbbbbgbrgrbgbbw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Cuillins of Skye](/tartans/c/cu/cuillins-of-skye-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

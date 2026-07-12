@@ -6,6 +6,8 @@ This is the **Herbage Family Tartan** sett — one scale-free proportion (`g25k8
 [BRBKG](/stripes/brbkg/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Herbage](/tartans/h/he/herbage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

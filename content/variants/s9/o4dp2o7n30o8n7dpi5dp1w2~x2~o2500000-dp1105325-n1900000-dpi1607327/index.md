@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean Thistle"
+  url: "/tartans/h/he/hebridean-thistle/"
 - name: "Hebridean Thistle (Fashion)"
   url: "/setts/o4dp2o7n30o8n7dpi5dp1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4dp2o7n30o8n7dpi5dp1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBBBW](/stripes/rbrbrbbbw/).
+
+Part of the [Hebridean Thistle](/tartans/h/he/hebridean-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

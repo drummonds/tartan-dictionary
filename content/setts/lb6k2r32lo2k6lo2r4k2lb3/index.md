@@ -6,6 +6,8 @@ This is the **Lantern, The** sett — one scale-free proportion (`lb6k2r32lo2k6l
 [WKRYKYRKW](/stripes/wkrykyrkw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Lantern, The](/tartans/l/la/lantern-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

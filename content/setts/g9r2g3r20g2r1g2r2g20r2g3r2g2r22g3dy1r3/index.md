@@ -6,7 +6,7 @@ This is the **Hebrides, Outer** sett — one scale-free proportion (`g9r2g3r20g2
 [GRGRGRGRGRGRGRGGRGGRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgrggrggrgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Hebrides, Outer](/tartans/hebrides-outer/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebrides, Outer](/tartans/h/he/hebrides-outer/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

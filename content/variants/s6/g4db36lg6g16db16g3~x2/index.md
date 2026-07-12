@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Kincardine"
+  url: "/tartans/c/ci/city-of-kincardine/"
+- name: "City of Kincardine"
   url: "/setts/g4db36lg6g16db16g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4db36lg6g16db16g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGYBG](/stripes/gbgybg/).
+
+Part of the [City of Kincardine](/tartans/c/ci/city-of-kincardine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

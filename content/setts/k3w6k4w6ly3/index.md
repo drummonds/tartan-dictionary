@@ -6,7 +6,7 @@ This is the **Daks (House Check)** sett — one scale-free proportion (`k3w6k4w6
 [KWKWY](/stripes/kwkwy/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Daks](/tartans/daks-5/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/d/da/daks-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

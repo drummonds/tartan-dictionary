@@ -6,6 +6,8 @@ This is the **Wilson's No.083** sett — one scale-free proportion (`k14ly3g18r1
 [BWRWRGYKYGRWRW](/stripes/bwrwrgykygrwrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.083](/tartans/w/wi/wilson-s-no-083/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

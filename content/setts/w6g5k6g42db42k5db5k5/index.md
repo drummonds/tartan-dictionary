@@ -6,7 +6,7 @@ This is the **Ben Lomond Fashion Tartan** sett — one scale-free proportion (`w
 [KBKBGKGW](/stripes/kbkbgkgw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
-Part of the [Ben Lomond](/tartans/ben-lomond/) tartan — the named design grouping this sett with its kin.
+Part of the [Ben Lomond](/tartans/b/be/ben-lomond/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

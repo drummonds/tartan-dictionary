@@ -6,6 +6,8 @@ This is the **Scottish Scouts (1922)** sett — one scale-free proportion (`n11d
 [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/). It is recorded as a single **variant**, below.
 First attested **1922**.
 
+Part of the [Scottish Scouts](/tartans/s/sc/scottish-scouts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

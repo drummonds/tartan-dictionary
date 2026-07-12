@@ -6,6 +6,8 @@ This is the **Balmoral Hotel** sett — one scale-free proportion (`db17o2db2o2d
 [BRBRBKBK](/stripes/brbrbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balmoral Hotel](/tartans/b/ba/balmoral-hotel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

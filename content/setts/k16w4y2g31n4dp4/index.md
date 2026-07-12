@@ -6,6 +6,8 @@ This is the **Lethcoe (Thousand Oaks) (Personal)** sett — one scale-free propo
 [BBGGWK](/stripes/bbggwk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lethcoe](/tartans/l/le/lethcoe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

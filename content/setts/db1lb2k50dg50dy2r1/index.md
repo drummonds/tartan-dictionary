@@ -6,6 +6,8 @@ This is the **Josse (Bro Sant Malo), Gilbert (Personal)** sett — one scale-fre
 [BWKGGR](/stripes/bwkggr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Josse , Gilbert](/tartans/j/jo/josse-gilbert/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

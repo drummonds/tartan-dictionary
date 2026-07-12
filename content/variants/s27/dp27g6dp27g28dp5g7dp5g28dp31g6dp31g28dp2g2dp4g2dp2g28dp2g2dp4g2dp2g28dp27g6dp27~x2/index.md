@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auld Lang Syne"
+  url: "/tartans/a/au/auld-lang-syne-3/"
 - name: "MacRae/Rae"
   url: "/setts/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp27g6dp27g28dp5g7dp5g28dp31g6dp31g28dp2g2dp4g2dp2g28dp2g2dp4g2dp2g28dp27g6dp27/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
+
+Part of the [Auld Lang Syne](/tartans/a/au/auld-lang-syne-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 

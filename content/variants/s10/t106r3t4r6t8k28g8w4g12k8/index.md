@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Parr"
-  url: "/tartans/parr/"
+  url: "/tartans/p/pa/parr/"
 - name: "Parr"
   url: "/setts/t106r3t4r6t8k28g8w4g12k8/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t106r3t4r6t8k28g8w4g12k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
-Part of the [Parr](/tartans/parr/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Parr](/tartans/p/pa/parr/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

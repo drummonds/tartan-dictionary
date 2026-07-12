@@ -6,6 +6,8 @@ This is the **GulfMark** sett — one scale-free proportion (`db72lb6db12lb17w6`
 [BWBWW](/stripes/bwbww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [GulfMark](/tartans/g/gu/gulfmark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

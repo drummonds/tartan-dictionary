@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Scarlett"
+  url: "/tartans/u/un/unidentified-scarlett-8/"
 - name: "Unidentified Scarlett #13"
   url: "/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/"
 slug_full: "n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1~x2~r2806019-lb3203246"
@@ -12,6 +14,8 @@ slug_full: "n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRYYBYWYWYKYWYWYBYYRBRYYBYYRBRYYBYWYWYYYWYWYBYYRBRYYBYYRBRYYBYWYWYKYWYWYBYYRBRYYB](/stripes/bryybywywykywywybyyrbryybyyrbryybywywyyywywybyyrbryybyyrbryybywywykywywybyyrbryyb/).
+
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-8/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 

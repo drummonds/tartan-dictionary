@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Eastern Kentucky University"
+  url: "/tartans/e/ea/eastern-kentucky-university/"
+- name: "Eastern Kentucky University"
   url: "/setts/r15n9w4k12r15k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15n9w4k12r15k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWBR](/stripes/krkwbr/).
+
+Part of the [Eastern Kentucky University](/tartans/e/ea/eastern-kentucky-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Boyd"
-  url: "/tartans/boyd/"
+  url: "/tartans/b/bo/boyd/"
 - name: "Boyd Clan Tartan"
   url: "/setts/y1g6k1db1k1db1k6r12g1r1k1w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y1g6k1db1k1db1k6r12g1r1k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBKBKRGRKW](/stripes/ggkbkbkrgrkw/).
 
-Part of the [Boyd](/tartans/boyd/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Boyd](/tartans/b/bo/boyd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

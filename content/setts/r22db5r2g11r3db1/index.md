@@ -7,6 +7,8 @@ This is the **MacKintosh D** sett — one scale-free proportion (`r22db5r2g11r3d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1815**.
 
+Part of the [MacKintosh D](/tartans/m/ma/mackintosh-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lamont"
+  url: "/tartans/l/la/lamont-2/"
+- name: "Lamont"
   url: "/setts/db10k1db1k1db2k8g10w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10k1db1k1db2k8g10w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGW](/stripes/bkbkbkgw/).
+
+Part of the [Lamont](/tartans/l/la/lamont-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

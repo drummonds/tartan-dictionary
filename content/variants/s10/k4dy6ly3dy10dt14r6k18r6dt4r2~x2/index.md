@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tupper, Sir Charles"
+  url: "/tartans/t/tu/tupper-sir-charles/"
+- name: "Tupper, Sir Charles"
   url: "/setts/k4dy6ly3dy10dt14r6k18r6dt4r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dy6ly3dy10dt14r6k18r6dt4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGBRKRBR](/stripes/kgygbrkrbr/).
+
+Part of the [Tupper, Sir Charles](/tartans/t/tu/tupper-sir-charles/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

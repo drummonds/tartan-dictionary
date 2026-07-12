@@ -6,7 +6,7 @@ This is the **Glen App Trade Tartan** sett — one scale-free proportion (`dp37w
 [BWBGW](/stripes/bwbgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Glen App](/tartans/glen-app/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen App](/tartans/g/gl/glen-app/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

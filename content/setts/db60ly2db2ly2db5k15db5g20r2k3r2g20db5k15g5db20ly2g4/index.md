@@ -6,6 +6,8 @@ This is the **Whitworth (Name)** sett — one scale-free proportion (`db60ly2db2
 [BYBYBKBGRKRGBKGBYG](/stripes/bybybkbgrkrgbkgbyg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Whitworth](/tartans/w/wh/whitworth-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

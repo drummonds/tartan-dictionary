@@ -6,6 +6,8 @@ This is the **U.S. Coast Guard (Corporate)** sett — one scale-free proportion 
 [BRBRW](/stripes/brbrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [U.S. Coast Guard](/tartans/u/u/u-s-coast-guard-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

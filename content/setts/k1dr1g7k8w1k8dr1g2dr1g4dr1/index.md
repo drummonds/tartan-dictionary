@@ -6,7 +6,7 @@ This is the **Episcopal Clergy (Corporate)** sett — one scale-free proportion 
 [BGBGBKWKGBK](/stripes/bgbgbkwkgbk/). It is recorded as a single **variant**, below.
 First attested **~1996**.
 
-Part of the [Episcopal Clergy](/tartans/episcopal-clergy/) tartan — the named design grouping this sett with its kin.
+Part of the [Episcopal Clergy](/tartans/e/ep/episcopal-clergy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

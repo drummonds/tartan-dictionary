@@ -6,6 +6,8 @@ This is the **Reagan** sett — one scale-free proportion (`y2dt1t29r29dt1g2`), 
 [GBBRBG](/stripes/gbbrbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Reagan](/tartans/r/re/reagan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ballantyne (Personal) STWR** sett — one scale-free proportion (`
 [BGYGBRBR](/stripes/bgygbrbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ballantyne STWR](/tartans/b/ba/ballantyne-stwr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Raith Rovers Football Club** sett — one scale-free proportion (`
 [BWBWBRBR](/stripes/bwbwbrbr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Raith Rovers](/tartans/r/ra/raith-rovers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

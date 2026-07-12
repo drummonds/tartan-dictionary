@@ -6,6 +6,8 @@ This is the **Parma** sett — one scale-free proportion (`o32dy8o1dy1lb1o1lb1oi
 [GRBGRRWRWGRGR](/stripes/grbgrrwrwgrgr/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Parma](/tartans/p/pa/parma/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

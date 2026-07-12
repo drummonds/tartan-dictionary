@@ -7,6 +7,8 @@ This is the **Orlando Fire Department** sett — one scale-free proportion (`db1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2002**.
 
+Part of the [Orlando Fire Department](/tartans/o/or/orlando-fire-department/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

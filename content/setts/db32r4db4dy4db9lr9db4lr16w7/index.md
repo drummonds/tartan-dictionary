@@ -6,6 +6,8 @@ This is the **Nevada State** sett — one scale-free proportion (`db32r4db4dy4db
 [BRBGBYBYW](/stripes/brbgbybyw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Nevada State](/tartans/n/ne/nevada-state/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

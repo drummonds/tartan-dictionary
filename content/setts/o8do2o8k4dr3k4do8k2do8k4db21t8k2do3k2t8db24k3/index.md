@@ -6,6 +6,8 @@ This is the **Renton (Personal)** sett — one scale-free proportion (`o8do2o8k4
 [KBBKBKBBKBKBKBKRBR](/stripes/kbbkbkbbkbkbkbkrbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Renton](/tartans/r/re/renton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

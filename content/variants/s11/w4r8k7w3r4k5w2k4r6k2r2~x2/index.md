@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Central Washington University Wildcat"
+  url: "/tartans/c/ce/central-washington-university-wildcat/"
+- name: "Central Washington University Wildcat"
   url: "/setts/w4r8k7w3r4k5w2k4r6k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4r8k7w3r4k5w2k4r6k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRKWKRWKRW](/stripes/rkrkwkrwkrw/).
+
+Part of the [Central Washington University Wildcat](/tartans/c/ce/central-washington-university-wildcat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Rothesay"
+  url: "/families/stewart-of-rothesay/"
+- name: "Stewart of Rothesay"
+  url: "/tartans/s/st/stewart-of-rothesay-2/"
 - name: "Stuart/Stewart of Rothesay"
   url: "/setts/g7r122db17r12k12y3k4w3g48r16k4r6w5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7r122db17r12k12y3k4w3g48r16k4r6w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBRKGKWGRKRW](/stripes/grbrkgkwgrkrw/).
+
+Part of the [Stewart of Rothesay](/tartans/s/st/stewart-of-rothesay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

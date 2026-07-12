@@ -6,6 +6,8 @@ This is the **Regimbal, Leonel–Jean (Personal)** sett — one scale-free propo
 [KWKWKRGRBR](/stripes/kwkwkrgrbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Regimbal, Leonel–Jean](/tartans/r/re/regimbal-leonel-jean/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

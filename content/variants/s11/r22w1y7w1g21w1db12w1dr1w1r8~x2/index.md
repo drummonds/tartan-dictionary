@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bendigo"
+  url: "/tartans/b/be/bendigo/"
+- name: "Bendigo"
   url: "/setts/r22w1y7w1g21w1db12w1dr1w1r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r22w1y7w1g21w1db12w1dr1w1r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWBWGWGWR](/stripes/rwbwbwgwgwr/).
+
+Part of the [Bendigo](/tartans/b/be/bendigo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

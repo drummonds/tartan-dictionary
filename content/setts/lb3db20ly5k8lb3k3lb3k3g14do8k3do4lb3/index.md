@@ -6,6 +6,8 @@ This is the **Dowling** sett — one scale-free proportion (`lb3db20ly5k8lb3k3lb
 [WBKBGKWKWKYBW](/stripes/wbkbgkwkwkybw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Dowling](/tartans/d/do/dowling/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

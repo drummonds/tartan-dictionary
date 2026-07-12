@@ -6,6 +6,8 @@ This is the **Wallace Blue (Fashion)** sett — one scale-free proportion (`w2g2
 [WBWGW](/stripes/wbwgw/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [Wallace](/tartans/w/wa/wallace-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Coogan (Personal)** sett — one scale-free proportion (`y2db66dr1
 [GBBWBW](/stripes/gbbwbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Coogan](/tartans/c/co/coogan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

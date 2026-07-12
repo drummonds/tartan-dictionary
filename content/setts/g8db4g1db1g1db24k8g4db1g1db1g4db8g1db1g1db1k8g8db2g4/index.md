@@ -6,7 +6,7 @@ This is the **Matheson Hunting** sett — one scale-free proportion (`g8db4g1db1
 [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [Matheson Hunting](/tartans/matheson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Matheson Hunting](/tartans/m/ma/matheson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

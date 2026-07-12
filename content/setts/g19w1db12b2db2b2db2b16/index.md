@@ -6,6 +6,8 @@ This is the **Unnamed, No 52** sett — one scale-free proportion (`g19w1db12b2d
 [BBBBBBWG](/stripes/bbbbbbwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unnamed, No 52](/tartans/u/un/unnamed-no-52/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

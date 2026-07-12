@@ -6,6 +6,8 @@ This is the **Liama, The** sett — one scale-free proportion (`do2w20r2w2do3w3y
 [BWRWBWGRGW](/stripes/bwrwbwgrgw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Liama, The](/tartans/l/li/liama-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

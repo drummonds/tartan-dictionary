@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Carson"
+  url: "/clan/carson/"
+- name: "Carson of Rusco"
+  url: "/families/carson-of-rusco/"
+- name: "Carson of Rusco"
+  url: "/tartans/c/ca/carson-of-rusco/"
 - name: "Carson of Rusco (Personal)"
   url: "/setts/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKWKWKRGGGGG](/stripes/brkwkwkrggggg/).
+
+Part of the [Carson of Rusco](/tartans/c/ca/carson-of-rusco/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

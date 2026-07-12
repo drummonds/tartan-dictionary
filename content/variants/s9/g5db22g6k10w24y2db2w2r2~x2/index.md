@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Haymarket Dress"
-  url: "/tartans/haymarket-dress/"
+  url: "/tartans/h/ha/haymarket-dress/"
 - name: "Haymarket Dress Blue Trade Tartan"
   url: "/setts/g5db22g6k10w24y2db2w2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5db22g6k10w24y2db2w2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKWGBWR](/stripes/gbgkwgbwr/).
 
-Part of the [Haymarket Dress](/tartans/haymarket-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Haymarket Dress](/tartans/h/ha/haymarket-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Willsher Wedding (Personal)** sett — one scale-free proportion (
 [BBGRBRWRB](/stripes/bbgrbrwrb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Willsher Wedding](/tartans/w/wi/willsher-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

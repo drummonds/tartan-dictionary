@@ -6,6 +6,8 @@ This is the **Dorcas Check Trade Tartan** sett — one scale-free proportion (`d
 [GWGWGKGKGKGY](/stripes/gwgwgkgkgkgy/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Dorcas Check](/tartans/d/do/dorcas-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

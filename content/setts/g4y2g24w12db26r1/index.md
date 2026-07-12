@@ -6,6 +6,8 @@ This is the **Vancouver Centennial Commemorative Tartan** sett — one scale-fre
 [GGGWBR](/stripes/gggwbr/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Vancouver Centennial](/tartans/v/va/vancouver-centennial/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

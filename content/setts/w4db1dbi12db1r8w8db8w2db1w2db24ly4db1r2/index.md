@@ -6,7 +6,7 @@ This is the **Submariners (Unofficial)** sett — one scale-free proportion (`w4
 [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Submariners](/tartans/submariners/) tartan — the named design grouping this sett with its kin.
+Part of the [Submariners](/tartans/s/su/submariners/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

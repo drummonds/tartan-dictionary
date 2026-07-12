@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Portosalvo"
-  url: "/tartans/portosalvo/"
+  url: "/tartans/p/po/portosalvo/"
 - name: "Portosalvo"
   url: "/setts/g5w1g32db1g8db9g2w2r3db3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5w1g32db1g8db9g2w2r3db3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
 
-Part of the [Portosalvo](/tartans/portosalvo/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Portosalvo](/tartans/p/po/portosalvo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

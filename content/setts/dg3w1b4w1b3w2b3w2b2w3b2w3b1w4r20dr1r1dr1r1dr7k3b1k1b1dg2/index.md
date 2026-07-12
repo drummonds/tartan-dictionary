@@ -6,6 +6,8 @@ This is the **A J Gallacher** sett — one scale-free proportion (`dg3w1b4w1b3w2
 [GBKBKBRBRBRWBWBWBWBWBWBWG](/stripes/gbkbkbrbrbrwbwbwbwbwbwbwg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [A J Gallacher](/tartans/a/a/a-j-gallacher/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

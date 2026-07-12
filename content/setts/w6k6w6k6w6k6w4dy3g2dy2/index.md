@@ -6,7 +6,7 @@ This is the **Burns Check (District)** sett — one scale-free proportion (`w6k6
 [GGGWKWKWKW](/stripes/gggwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1959**.
 
-Part of the [Burns Check](/tartans/burns-check/) tartan — the named design grouping this sett with its kin.
+Part of the [Burns Check](/tartans/b/bu/burns-check/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Taplin"
-  url: "/tartans/taplin/"
+  url: "/tartans/t/ta/taplin/"
 - name: "Taplin"
   url: "/setts/r52k2r5y3r5k5r5g3r5k2r52/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r52k2r5y3r5k5r5g3r5k2r52/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGRKRGRKR](/stripes/rkrgrkrgrkr/).
 
-Part of the [Taplin](/tartans/taplin/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Taplin](/tartans/t/ta/taplin/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

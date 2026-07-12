@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Prestoungrange/Dolphinstoun/Wills"
+  url: "/tartans/p/pr/prestoungrange-dolphinstoun-wills/"
+- name: "Prestoungrange/Dolphinstoun/Wills"
   url: "/setts/g3b2g3r4g15k2g2k2g3db35k2db2k1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3b2g3r4g15k2g2k2g3db35k2db2k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBGKGKGRGBG](/stripes/bkbkbgkgkgrgbg/).
+
+Part of the [Prestoungrange/Dolphinstoun/Wills](/tartans/p/pr/prestoungrange-dolphinstoun-wills/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

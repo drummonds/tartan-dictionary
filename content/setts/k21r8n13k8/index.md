@@ -6,6 +6,8 @@ This is the **New Exeter Check (Fashion)** sett — one scale-free proportion (`
 [KBRK](/stripes/kbrk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [New Exeter Check](/tartans/n/ne/new-exeter-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

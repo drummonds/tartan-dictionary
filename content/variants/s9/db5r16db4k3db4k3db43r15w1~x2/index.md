@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Falkirk Football Club"
+  url: "/tartans/f/fa/falkirk-football-club/"
 - name: "Falkirk Football Club (Corporate)"
   url: "/setts/db5r16db4k3db4k3db43r15w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5r16db4k3db4k3db43r15w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKBKBRW](/stripes/brbkbkbrw/).
+
+Part of the [Falkirk Football Club](/tartans/f/fa/falkirk-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

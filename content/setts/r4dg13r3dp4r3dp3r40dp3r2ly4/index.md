@@ -6,6 +6,8 @@ This is the **Galway, County** sett — one scale-free proportion (`r4dg13r3dp4r
 [RGRBRBRBRY](/stripes/rgrbrbrbry/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Galway, County](/tartans/g/ga/galway-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

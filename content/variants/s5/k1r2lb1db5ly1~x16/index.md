@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "University of Trinity College"
+  url: "/tartans/u/un/university-of-trinity-college/"
+- name: "University of Trinity College"
   url: "/setts/k1r2lb1db5ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1r2lb1db5ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWBY](/stripes/krwby/).
+
+Part of the [University of Trinity College](/tartans/u/un/university-of-trinity-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Elgin District Tartan** sett — one scale-free proportion (`do5lo
 [BYBYBYW](/stripes/bybybyw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Elgin](/tartans/e/el/elgin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Johnston Dress"
+  url: "/tartans/j/jo/johnston-dress/"
 - name: "Johnston Dress (Clan?)"
   url: "/setts/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGGGKGWBWBWBW](/stripes/kbkbgkgggkgwbwbwbw/).
+
+Part of the [Johnston Dress](/tartans/j/jo/johnston-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

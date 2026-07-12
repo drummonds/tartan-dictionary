@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weiss-Halliwell"
+  url: "/tartans/w/we/weiss-halliwell/"
 - name: "Weiss-Halliwell (Personal)"
   url: "/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbkbkbkbbkbgkbkbkbkgkbkbkgkbk/).
+
+Part of the [Weiss-Halliwell](/tartans/w/we/weiss-halliwell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

@@ -6,6 +6,8 @@ This is the **Forbo Nairn** sett — one scale-free proportion (`r2db12k7g8lb2`)
 [RBKGW](/stripes/rbkgw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Forbo Nairn](/tartans/f/fo/forbo-nairn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

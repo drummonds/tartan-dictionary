@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Toronto Blue Jays"
+  url: "/tartans/t/to/toronto-blue-jays/"
+- name: "Toronto Blue Jays"
   url: "/setts/r2dp1lb13n13dp4n4dp4n4lb13dp1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dp1lb13n13dp4n4dp4n4lb13dp1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBBBBBWBW](/stripes/rbwbbbbbwbw/).
+
+Part of the [Toronto Blue Jays](/tartans/t/to/toronto-blue-jays/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

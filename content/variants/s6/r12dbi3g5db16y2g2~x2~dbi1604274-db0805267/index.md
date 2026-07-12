@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunbog Primary School"
+  url: "/tartans/d/du/dunbog-primary-school/"
 - name: "Dunbog, Primary School"
   url: "/setts/r12dbi3g5db16y2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12dbi3g5db16y2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBR](/stripes/ggbgbr/).
+
+Part of the [Dunbog Primary School](/tartans/d/du/dunbog-primary-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cumming"
+  url: "/tartans/c/cu/cumming-2/"
+- name: "Cumming"
   url: "/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRKRGRBKRGRK](/stripes/kbrkrgrbkrgrk/).
+
+Part of the [Cumming](/tartans/c/cu/cumming-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

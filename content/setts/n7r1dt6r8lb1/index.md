@@ -6,7 +6,7 @@ This is the **Callum (Buchan) (Name)** sett — one scale-free proportion (`n7r1
 [BRBRW](/stripes/brbrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
-Part of the [Callum](/tartans/callum/) tartan — the named design grouping this sett with its kin.
+Part of the [Callum](/tartans/c/ca/callum/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

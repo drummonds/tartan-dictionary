@@ -6,6 +6,8 @@ This is the **Bute Heather, Ancient (Fashion)** sett — one scale-free proporti
 [BKBGBKGKGWB](/stripes/bkbgbkgkgwb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Bute Heather](/tartans/b/bu/bute-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

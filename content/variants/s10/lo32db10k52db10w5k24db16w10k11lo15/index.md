@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cavan County Crest"
+  url: "/tartans/c/ca/cavan-county-crest/"
 - name: "Cavan County Crest (Fashion)"
   url: "/setts/lo32db10k52db10w5k24db16w10k11lo15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo32db10k52db10w5k24db16w10k11lo15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBKBWKBWKY](/stripes/ybkbwkbwky/).
+
+Part of the [Cavan County Crest](/tartans/c/ca/cavan-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

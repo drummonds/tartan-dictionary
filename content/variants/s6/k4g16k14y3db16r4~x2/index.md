@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Birse"
-  url: "/tartans/birse/"
+  url: "/tartans/b/bi/birse/"
 - name: "Birse Family Tartan"
   url: "/setts/k4g16k14y3db16r4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k4g16k14y3db16r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBR](/stripes/kgkgbr/).
 
-Part of the [Birse](/tartans/birse/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Birse](/tartans/b/bi/birse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

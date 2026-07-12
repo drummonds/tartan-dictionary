@@ -6,6 +6,8 @@ This is the **Glen Coe Trade Tartan** sett — one scale-free proportion (`k37w9
 [KWKGW](/stripes/kwkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glen Coe](/tartans/g/gl/glen-coe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

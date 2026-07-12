@@ -6,7 +6,7 @@ This is the **James (Personal)** sett — one scale-free proportion (`r2k6y1dg12
 [RKGGGBW](/stripes/rkgggbw/). It is recorded as a single **variant**, below.
 First attested **~1998**.
 
-Part of the [James](/tartans/james-2/) tartan — the named design grouping this sett with its kin.
+Part of the [James](/tartans/j/ja/james-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

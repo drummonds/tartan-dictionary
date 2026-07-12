@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
+- name: "Skene of Cromar"
+  url: "/families/skene-of-cromar/"
+- name: "Skene of Cromar"
+  url: "/tartans/s/sk/skene-of-cromar-2/"
 - name: "Skene, of Cromar"
   url: "/setts/k4r37db37r2db37g37r37k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r37db37r2db37g37r37k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRBGRK](/stripes/krbrbgrk/).
+
+Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

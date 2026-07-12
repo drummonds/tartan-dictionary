@@ -7,6 +7,8 @@ This is the **Morrison LC** sett — one scale-free proportion (`g9w4g15r17k5r7k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Morrison LC](/tartans/m/mo/morrison-lc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

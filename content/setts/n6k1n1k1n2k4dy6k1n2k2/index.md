@@ -6,7 +6,7 @@ This is the **Tyndrum District Tartan** sett — one scale-free proportion (`n6k
 [BKBKBKGKBK](/stripes/bkbkbkgkbk/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
-Part of the [Tyndrum](/tartans/tyndrum/) tartan — the named design grouping this sett with its kin.
+Part of the [Tyndrum](/tartans/t/ty/tyndrum/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

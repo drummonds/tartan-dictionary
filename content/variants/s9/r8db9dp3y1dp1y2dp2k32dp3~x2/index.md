@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gedling, Peter"
-  url: "/tartans/gedling-peter/"
+  url: "/tartans/g/ge/gedling-peter/"
 - name: "Gedling, Peter (Personal)"
   url: "/setts/r8db9dp3y1dp1y2dp2k32dp3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8db9dp3y1dp1y2dp2k32dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBGBBR](/stripes/bkbgbgbbr/).
 
-Part of the [Gedling, Peter](/tartans/gedling-peter/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gedling, Peter](/tartans/g/ge/gedling-peter/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

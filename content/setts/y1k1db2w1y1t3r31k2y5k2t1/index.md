@@ -6,6 +6,8 @@ This is the **Scottish Banner, The** sett — one scale-free proportion (`y1k1db
 [BKGKRBGWBKG](/stripes/bkgkrbgwbkg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Scottish Banner, The](/tartans/s/sc/scottish-banner-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

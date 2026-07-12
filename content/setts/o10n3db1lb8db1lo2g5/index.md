@@ -6,6 +6,8 @@ This is the **Porcupine City of** sett — one scale-free proportion (`o10n3db1l
 [GYBWBBR](/stripes/gybwbbr/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Porcupine City of](/tartans/p/po/porcupine-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

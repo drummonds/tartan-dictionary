@@ -6,6 +6,8 @@ This is the **MacPherson of Cluny** sett — one scale-free proportion (`r5k2r2g
 [GRGKRKRGRKR](/stripes/grgkrkrgrkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [MacPherson of Cluny](/tartans/m/ma/macpherson-of-cluny-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

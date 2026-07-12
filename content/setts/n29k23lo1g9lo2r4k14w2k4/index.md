@@ -6,7 +6,7 @@ This is the **Letter Dress (2014)** sett — one scale-free proportion (`n29k23l
 [BKYGYRKWK](/stripes/bkygyrkwk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Letter Dress](/tartans/letter-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Letter Dress](/tartans/l/le/letter-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

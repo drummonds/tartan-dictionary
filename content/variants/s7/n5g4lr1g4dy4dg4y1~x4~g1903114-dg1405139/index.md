@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Devon"
+  url: "/tartans/d/de/devon/"
 - name: "Devon, Green (District)"
   url: "/setts/n5g4lr1g4dy4dg4y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n5g4lr1g4dy4dg4y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGYGGGG](/stripes/bgygggg/).
+
+Part of the [Devon](/tartans/d/de/devon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

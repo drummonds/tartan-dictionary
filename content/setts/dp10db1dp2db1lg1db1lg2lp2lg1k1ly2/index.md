@@ -6,6 +6,8 @@ This is the **Lieuwen (2013)** sett — one scale-free proportion (`dp10db1dp2db
 [BBBBYBYWYKY](/stripes/bbbbybywyky/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Lieuwen](/tartans/l/li/lieuwen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

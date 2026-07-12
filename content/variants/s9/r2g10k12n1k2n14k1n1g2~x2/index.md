@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacWilliams Wedding"
+  url: "/tartans/m/ma/macwilliams-wedding/"
 - name: "MacWilliams Wedding Personal Tartan"
   url: "/setts/r2g10k12n1k2n14k1n1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g10k12n1k2n14k1n1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBKBKGR](/stripes/gbkbkbkgr/).
+
+Part of the [MacWilliams Wedding](/tartans/m/ma/macwilliams-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

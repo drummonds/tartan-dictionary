@@ -6,7 +6,7 @@ This is the **Angle, Blue (Fashion)** sett — one scale-free proportion (`w1lg1
 [WYKYWYW](/stripes/wykywyw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Angle](/tartans/angle/) tartan — the named design grouping this sett with its kin.
+Part of the [Angle](/tartans/a/an/angle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

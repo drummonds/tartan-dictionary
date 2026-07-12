@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "ASF Official"
+  url: "/tartans/a/as/asf-official/"
 - name: "ASF Official (Corporate)"
   url: "/setts/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
+
+Part of the [ASF Official](/tartans/a/as/asf-official/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

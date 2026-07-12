@@ -7,6 +7,8 @@ This is the **Young, Melvina** sett — one scale-free proportion (`k4w1db26k5db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1859**.
 
+Part of the [Young, Melvina](/tartans/y/yo/young-melvina/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

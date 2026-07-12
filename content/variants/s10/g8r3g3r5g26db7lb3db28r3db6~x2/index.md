@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Appin"
+  url: "/families/stewart-of-appin/"
+- name: "Stewart of Appin 1"
+  url: "/tartans/s/st/stewart-of-appin-1/"
 - name: "Stewart of Appin Htg (error)"
   url: "/setts/g8r3g3r5g26db7lb3db28r3db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r3g3r5g26db7lb3db28r3db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGRGRG](/stripes/brbwbgrgrg/).
+
+Part of the [Stewart of Appin 1](/tartans/s/st/stewart-of-appin-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

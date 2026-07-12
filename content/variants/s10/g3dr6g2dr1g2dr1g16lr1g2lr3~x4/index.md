@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince of Wales Fashion Weavers"
+  url: "/tartans/p/pr/prince-of-wales-fashion-weavers/"
 - name: "Prince of Wales Fashion Weavers Tartan"
   url: "/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dr6g2dr1g2dr1g16lr1g2lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBGBGBGBGBGBGYGY](/stripes/gygbgbgbgbgbgbgygy/).
+
+Part of the [Prince of Wales Fashion Weavers](/tartans/p/pr/prince-of-wales-fashion-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

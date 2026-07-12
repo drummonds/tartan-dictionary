@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Young, Christina"
-  url: "/tartans/young-christina/"
+  url: "/tartans/y/yo/young-christina/"
 - name: "Young, Christina"
   url: "/setts/w54k7r7lo6ly4r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w54k7r7lo6ly4r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYYRKW](/stripes/ryyrkw/).
 
-Part of the [Young, Christina](/tartans/young-christina/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Young, Christina](/tartans/y/yo/young-christina/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

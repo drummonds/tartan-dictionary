@@ -6,6 +6,8 @@ This is the **Kilkenny** sett — one scale-free proportion (`dr5dg27o2b25y7dg3d
 [BGGBRGB](/stripes/bggbrgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kilkenny](/tartans/k/ki/kilkenny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

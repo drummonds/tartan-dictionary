@@ -6,6 +6,8 @@ This is the **Registers of Scotland, The (Corp)** sett — one scale-free propor
 [GBYBYBWBBBYBR](/stripes/gbybybwbbbybr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Registers of Scotland, The](/tartans/r/re/registers-of-scotland-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

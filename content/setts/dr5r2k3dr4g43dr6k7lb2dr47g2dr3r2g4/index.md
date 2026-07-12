@@ -6,6 +6,8 @@ This is the **Glen Coe (District)** sett — one scale-free proportion (`dr5r2k3
 [BRKBGBKWBGBRG](/stripes/brkbgbkwbgbrg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Glen Coe](/tartans/g/gl/glen-coe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

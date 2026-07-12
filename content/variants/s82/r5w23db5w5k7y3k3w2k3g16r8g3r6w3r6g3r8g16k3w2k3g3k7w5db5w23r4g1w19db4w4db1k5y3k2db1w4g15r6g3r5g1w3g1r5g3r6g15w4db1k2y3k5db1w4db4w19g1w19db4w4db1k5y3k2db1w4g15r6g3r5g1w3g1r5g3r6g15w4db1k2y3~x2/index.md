@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria Highland Dress"
+  url: "/tartans/v/vi/victoria-highland-dress-2/"
 - name: "Victoria Highland Dress #2"
   url: "/setts/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBWGRGRGWGRGRGWBKGKBWBWGWBWBKGKBWGRGRGWGRGRGWBKGKBWBWGRWBWKGKWKGRGRWRGRGKWKGKWBWR](/stripes/gkbwgrgrgwgrgrgwbkgkbwbwgwbwbkgkbwgrgrgwgrgrgwbkgkbwbwgrwbwkgkwkgrgrwrgrgkwkgkwbwr/).
+
+Part of the [Victoria Highland Dress](/tartans/v/vi/victoria-highland-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 

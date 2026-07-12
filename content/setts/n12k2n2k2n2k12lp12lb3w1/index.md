@@ -6,6 +6,8 @@ This is the **de Franck, Matt (Personal)** sett — one scale-free proportion (`
 [BKBKBKWWW](/stripes/bkbkbkwww/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [de Franck, Matt](/tartans/d/de/de-franck-matt-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

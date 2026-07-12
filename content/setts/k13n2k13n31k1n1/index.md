@@ -6,6 +6,8 @@ This is the **Silver Mist (Corporate)** sett — one scale-free proportion (`k13
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Silver Mist](/tartans/s/si/silver-mist-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

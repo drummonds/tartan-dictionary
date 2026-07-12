@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gretna Gold"
-  url: "/tartans/gretna-gold/"
+  url: "/tartans/g/gr/gretna-gold/"
 - name: "Gretna Gold"
   url: "/setts/w3dp2ly2dp38db28o2db2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3dp2ly2dp38db28o2db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBBYBW](/stripes/rbrbbybw/).
 
-Part of the [Gretna Gold](/tartans/gretna-gold/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gretna Gold](/tartans/g/gr/gretna-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

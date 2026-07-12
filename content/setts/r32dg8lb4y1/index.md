@@ -6,7 +6,7 @@ This is the **MacLaine of Lochbuie (Coburn)** sett — one scale-free proportion
 [GWGR](/stripes/gwgr/). It is recorded as a single **variant**, below.
 First attested **1810**.
 
-Part of the [MacLaine of Lochbuie](/tartans/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaine of Lochbuie](/tartans/m/ma/maclaine-of-lochbuie-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

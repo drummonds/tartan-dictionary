@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacInroy"
-  url: "/tartans/macinroy-3/"
+  url: "/tartans/m/ma/macinroy-3/"
 - name: "MacInroy Clan Tartan"
   url: "/setts/k1g3k3r1dp3r1dp1r3g1k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1g3k3r1dp3r1dp1r3g1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRBRBRGK](/stripes/kgkrbrbrgk/).
 
-Part of the [MacInroy](/tartans/macinroy-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacInroy](/tartans/m/ma/macinroy-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

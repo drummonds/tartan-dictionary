@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Afternoon Tea / Assam"
+  url: "/tartans/a/af/afternoon-tea-assam-2/"
+- name: "Afternoon Tea / Assam"
   url: "/setts/r15dr98db72lb25db8w15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15dr98db72lb25db8w15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBWBW](/stripes/rbbwbw/).
+
+Part of the [Afternoon Tea / Assam](/tartans/a/af/afternoon-tea-assam-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

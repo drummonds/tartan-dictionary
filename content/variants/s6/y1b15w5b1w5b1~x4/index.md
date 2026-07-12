@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Whitley"
+  url: "/tartans/w/wh/whitley/"
 - name: "Whitley (Personal)"
   url: "/setts/y1b15w5b1w5b1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1b15w5b1w5b1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBG](/stripes/bwbwbg/).
+
+Part of the [Whitley](/tartans/w/wh/whitley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

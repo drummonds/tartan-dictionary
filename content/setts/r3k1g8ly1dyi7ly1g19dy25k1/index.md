@@ -6,6 +6,8 @@ This is the **The Broons (Corporate)** sett — one scale-free proportion (`r3k1
 [KGGYGYGKR](/stripes/kggygygkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [The Broons](/tartans/t/th/the-broons/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

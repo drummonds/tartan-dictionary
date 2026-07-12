@@ -6,6 +6,8 @@ This is the **Irn Bru** sett — one scale-free proportion (`lo49db16k2w3db2w2db
 [YBKWBWBY](/stripes/ybkwbwby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Irn Bru](/tartans/i/ir/irn-bru-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

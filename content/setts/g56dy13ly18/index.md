@@ -6,7 +6,7 @@ This is the **Colonial Marine (Corporate)** sett — one scale-free proportion (
 [GGY](/stripes/ggy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Colonial Marine](/tartans/colonial-marine/) tartan — the named design grouping this sett with its kin.
+Part of the [Colonial Marine](/tartans/c/co/colonial-marine/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

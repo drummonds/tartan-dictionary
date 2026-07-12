@@ -6,6 +6,8 @@ This is the **Green Alaskan** sett — one scale-free proportion (`dg41y26yi19n1
 [BGGG](/stripes/bggg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Green Alaskan](/tartans/g/gr/green-alaskan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

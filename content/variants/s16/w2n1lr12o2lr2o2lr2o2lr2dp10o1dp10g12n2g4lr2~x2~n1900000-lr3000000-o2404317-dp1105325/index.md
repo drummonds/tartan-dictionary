@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cribb"
+  url: "/tartans/c/cr/cribb/"
 - name: "Cribb (2016)"
   url: "/setts/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/).
+
+Part of the [Cribb](/tartans/c/cr/cribb/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

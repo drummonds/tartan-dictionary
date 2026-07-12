@@ -6,7 +6,7 @@ This is the **Edinburgh Bus Tours** sett — one scale-free proportion (`lb6db20
 [BYBKBBBYBYBW](/stripes/bybkbbbybybw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Edinburgh Bus Tours](/tartans/edinburgh-bus-tours/) tartan — the named design grouping this sett with its kin.
+Part of the [Edinburgh Bus Tours](/tartans/e/ed/edinburgh-bus-tours/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

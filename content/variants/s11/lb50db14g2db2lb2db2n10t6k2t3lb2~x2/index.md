@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Dunnett"
-  url: "/tartans/blue-dunnett/"
+  url: "/tartans/b/bl/blue-dunnett/"
 - name: "Blue Dunnett (Fashion)"
   url: "/setts/lb50db14g2db2lb2db2n10t6k2t3lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb50db14g2db2lb2db2n10t6k2t3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBWBBBKBW](/stripes/wbgbwbbbkbw/).
 
-Part of the [Blue Dunnett](/tartans/blue-dunnett/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Blue Dunnett](/tartans/b/bl/blue-dunnett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

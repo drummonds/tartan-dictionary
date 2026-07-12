@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gullane"
+  url: "/tartans/g/gu/gullane/"
+- name: "Gullane"
   url: "/setts/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRWRWRWRWRWRWBWBWBWKW](/stripes/kbkrwrwrwrwrwrwbwbwbwkw/).
+
+Part of the [Gullane](/tartans/g/gu/gullane/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

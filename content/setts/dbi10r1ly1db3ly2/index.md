@@ -6,6 +6,8 @@ This is the **Lytley Hunting (Personal)** sett — one scale-free proportion (`d
 [BRYBY](/stripes/bryby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lytley Hunting](/tartans/l/ly/lytley-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

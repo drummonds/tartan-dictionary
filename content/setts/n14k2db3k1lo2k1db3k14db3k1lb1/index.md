@@ -6,6 +6,8 @@ This is the **McFly School** sett — one scale-free proportion (`n14k2db3k1lo2k
 [BKBKYKBKBKW](/stripes/bkbkykbkbkw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [McFly](/tartans/m/mc/mcfly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

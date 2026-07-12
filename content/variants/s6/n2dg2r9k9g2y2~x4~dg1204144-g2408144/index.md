@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wolves Wod Kindred"
+  url: "/tartans/w/wo/wolves-wod-kindred/"
+- name: "Wolves Wod Kindred"
   url: "/setts/n2dg2r9k9g2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2dg2r9k9g2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRKGG](/stripes/bgrkgg/).
+
+Part of the [Wolves Wod Kindred](/tartans/w/wo/wolves-wod-kindred/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunfermline Bank of Scotland"
+  url: "/tartans/d/du/dunfermline-bank-of-scotland/"
 - name: "Dunfermline Bank of Scotland (Corp)"
   url: "/setts/dg24k5dg6r6dg6k20t20w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg24k5dg6r6dg6k20t20w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGRGKBW](/stripes/gkgrgkbw/).
+
+Part of the [Dunfermline Bank of Scotland](/tartans/d/du/dunfermline-bank-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

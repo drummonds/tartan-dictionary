@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clayton Dress"
+  url: "/tartans/c/cl/clayton-dress-2/"
 - name: "Clayton Dress (Dance)"
   url: "/setts/dr14w35k4w35dr14w8dr14w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr14w35k4w35dr14w8dr14w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKWBWBW](/stripes/bwkwbwbw/).
+
+Part of the [Clayton Dress](/tartans/c/cl/clayton-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

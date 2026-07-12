@@ -6,6 +6,8 @@ This is the **Harmony 13** sett — one scale-free proportion (`lb10n1lb1n10lb18
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Harmony 13](/tartans/h/ha/harmony-13/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

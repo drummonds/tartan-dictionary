@@ -6,6 +6,8 @@ This is the **Turnberry** sett — one scale-free proportion (`ly3dy12do14r4do1l
 [GBWBRBGY](/stripes/gbwbrbgy/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Turnberry](/tartans/t/tu/turnberry-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

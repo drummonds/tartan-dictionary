@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holman"
+  url: "/tartans/h/ho/holman-2/"
 - name: "Holman (Personal)"
   url: "/setts/dr3k9g20k16g7t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3k9g20k16g7t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGKB](/stripes/bgkgkb/).
+
+Part of the [Holman](/tartans/h/ho/holman-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

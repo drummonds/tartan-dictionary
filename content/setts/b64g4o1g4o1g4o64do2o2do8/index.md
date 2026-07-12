@@ -6,6 +6,8 @@ This is the **Connacht** sett — one scale-free proportion (`b64g4o1g4o1g4o64do
 [BGRGRGRBRB](/stripes/bgrgrgrbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Connacht](/tartans/c/co/connacht/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

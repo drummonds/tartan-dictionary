@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New South Wales Waratah"
+  url: "/tartans/n/ne/new-south-wales-waratah/"
+- name: "New South Wales Waratah"
   url: "/setts/g12db2dr2db2dt26dg2g3dg3g24dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g12db2dr2db2dt26dg2g3dg3g24dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGBBBBG](/stripes/bggggbbbbg/).
+
+Part of the [New South Wales Waratah](/tartans/n/ne/new-south-wales-waratah/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

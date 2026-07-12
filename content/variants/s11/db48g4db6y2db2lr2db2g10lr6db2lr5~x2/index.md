@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Damson"
+  url: "/tartans/d/da/damson/"
+- name: "Damson"
   url: "/setts/db48g4db6y2db2lr2db2g10lr6db2lr5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db48g4db6y2db2lr2db2g10lr6db2lr5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBYBGYBY](/stripes/bgbgbybgyby/).
+
+Part of the [Damson](/tartans/d/da/damson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

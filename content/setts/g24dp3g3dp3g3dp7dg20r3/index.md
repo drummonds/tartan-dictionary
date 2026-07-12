@@ -7,6 +7,8 @@ This is the **Crantock** sett — one scale-free proportion (`g24dp3g3dp3g3dp7dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [Crantock](/tartans/c/cr/crantock-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **First Special Service Force** sett — one scale-free proportion (
 [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [First Special Service Force](/tartans/first-special-service-force/) tartan — the named design grouping this sett with its kin.
+Part of the [First Special Service Force](/tartans/f/fi/first-special-service-force/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

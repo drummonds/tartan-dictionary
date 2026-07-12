@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Portmeirion"
+  url: "/tartans/p/po/portmeirion/"
+- name: "Portmeirion"
   url: "/setts/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGWWBWBWWWGW](/stripes/bwbwgwwbwbwwwgw/).
+
+Part of the [Portmeirion](/tartans/p/po/portmeirion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

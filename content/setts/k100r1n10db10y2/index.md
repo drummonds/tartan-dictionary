@@ -6,6 +6,8 @@ This is the **Forand (Personal)** sett — one scale-free proportion (`k100r1n10
 [GBBRK](/stripes/gbbrk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Forand](/tartans/f/fo/forand/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

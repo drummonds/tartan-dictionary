@@ -6,6 +6,8 @@ This is the **Bro-Leon** sett — one scale-free proportion (`k4ly17k2ly2g7k2ly2
 [BKYKGYKYK](/stripes/bkykgykyk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-Leon](/tartans/b/br/bro-leon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

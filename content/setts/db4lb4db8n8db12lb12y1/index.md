@@ -6,6 +6,8 @@ This is the **von Prondzynski (2016)** sett — one scale-free proportion (`db4l
 [BWBBBWG](/stripes/bwbbbwg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [von Prondzynski](/tartans/v/vo/von-prondzynski/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

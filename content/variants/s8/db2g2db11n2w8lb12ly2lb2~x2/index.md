@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elora"
+  url: "/tartans/e/el/elora/"
 - name: "Elora (District)"
   url: "/setts/db2g2db11n2w8lb12ly2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2g2db11n2w8lb12ly2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBWWYW](/stripes/bgbbwwyw/).
+
+Part of the [Elora](/tartans/e/el/elora/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

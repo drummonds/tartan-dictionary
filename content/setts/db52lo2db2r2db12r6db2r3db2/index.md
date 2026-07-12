@@ -6,6 +6,8 @@ This is the **Loch Monar (Fashion)** sett — one scale-free proportion (`db52lo
 [BRBRBRBYB](/stripes/brbrbrbyb/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
+Part of the [Loch Monar](/tartans/l/lo/loch-monar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Robertson"
   url: "/clan/robertson/"
 - name: "Robertson dress Hunting"
-  url: "/tartans/robertson-dress-hunting/"
+  url: "/tartans/r/ro/robertson-dress-hunting/"
 - name: "Robertson Dress Hunting Clan Tartan"
   url: "/setts/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRWBRBRGRBWRGW](/stripes/wgrwbrbrgrbwrgw/).
 
-Part of the [Robertson dress Hunting](/tartans/robertson-dress-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Robertson dress Hunting](/tartans/r/ro/robertson-dress-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

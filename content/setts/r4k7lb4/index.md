@@ -7,6 +7,8 @@ This is the **Wilson's No.198** sett — one scale-free proportion (`r4k7lb4`), 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Wilson's No.198](/tartans/w/wi/wilson-s-no-198/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

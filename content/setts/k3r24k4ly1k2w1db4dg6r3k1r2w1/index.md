@@ -6,7 +6,7 @@ This is the **Stewart of Galloway - 1842 (Clan)** sett — one scale-free propor
 [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Stewart of Galloway](/tartans/stewart-of-galloway/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Galloway](/tartans/s/st/stewart-of-galloway/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

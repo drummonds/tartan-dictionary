@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ch. Supt. Everett and Mrs Julene Summerfield Dress"
+  url: "/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/"
+- name: "Ch. Supt. Everett and Mrs Julene Summerfield Dress"
   url: "/setts/r9w25k7w45lb60dg4ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9w25k7w45lb60dg4ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWWGY](/stripes/rwkwwgy/).
+
+Part of the [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

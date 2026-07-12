@@ -6,7 +6,7 @@ This is the **Westminster College (Corporate)** sett — one scale-free proporti
 [BBYBBBKBGRBKBKB](/stripes/bbybbbkbgrbkbkb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Westminster College](/tartans/westminster-college/) tartan — the named design grouping this sett with its kin.
+Part of the [Westminster College](/tartans/w/we/westminster-college/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

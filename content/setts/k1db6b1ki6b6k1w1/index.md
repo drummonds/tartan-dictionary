@@ -6,6 +6,8 @@ This is the **Mary Washington** sett — one scale-free proportion (`k1db6b1ki6b
 [KBBKBKW](/stripes/kbbkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Mary Washington](/tartans/m/ma/mary-washington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

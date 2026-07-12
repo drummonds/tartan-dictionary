@@ -6,6 +6,8 @@ This is the **Hsu (Personal)** sett — one scale-free proportion (`db60g16w8dy3
 [BGWG](/stripes/bgwg/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Hsu](/tartans/h/hs/hsu/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Holden Brown (Corporate)** sett — one scale-free proportion (`w1
 [RGKWKWKW](/stripes/rgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **~1977**.
 
+Part of the [Holden](/tartans/h/ho/holden/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Aberdeen - 1819 (District)** sett — one scale-free proportion (`
 [WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/wgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/). It is recorded as a single **variant**, below.
 First attested **~1782**.
 
-Part of the [Aberdeen](/tartans/aberdeen-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Aberdeen](/tartans/a/ab/aberdeen-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

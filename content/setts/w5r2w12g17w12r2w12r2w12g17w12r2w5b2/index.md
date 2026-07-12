@@ -6,6 +6,8 @@ This is the **Milne Green (Dance)** sett — one scale-free proportion (`w5r2w12
 [BWRWGWRWRWGWRW](/stripes/bwrwgwrwrwgwrw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Milne](/tartans/m/mi/milne-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

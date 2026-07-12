@@ -6,6 +6,8 @@ This is the **MacKerrell of Hillhouse Htg Family Tartan** sett — one scale-fre
 [BBGBBW](/stripes/bbgbbw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [MacKerrell of Hillhouse Hunting](/tartans/m/ma/mackerrell-of-hillhouse-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

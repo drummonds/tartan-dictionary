@@ -6,7 +6,7 @@ This is the **Bowling** sett — one scale-free proportion (`w2y3k2y6g8k2w2k2g2k
 [WBYKGKWKGGKGW](/stripes/wbykgkwkggkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Bowling](/tartans/bowling/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowling](/tartans/b/bo/bowling/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

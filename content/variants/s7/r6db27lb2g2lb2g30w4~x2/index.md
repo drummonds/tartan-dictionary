@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MX-5 Owners' Club"
+  url: "/tartans/m/mx/mx-5-owners-club/"
+- name: "MX-5 Owners' Club"
   url: "/setts/r6db27lb2g2lb2g30w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db27lb2g2lb2g30w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWGWGW](/stripes/rbwgwgw/).
+
+Part of the [MX-5 Owners' Club](/tartans/m/mx/mx-5-owners-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

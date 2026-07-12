@@ -6,6 +6,8 @@ This is the **Volkswagen Black Trim (Fashion)** sett — one scale-free proporti
 [KWKWKRKW](/stripes/kwkwkrkw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Volkswagen Black Trim](/tartans/v/vo/volkswagen-black-trim/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

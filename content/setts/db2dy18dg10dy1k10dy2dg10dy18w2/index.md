@@ -6,7 +6,7 @@ This is the **Duchess of York (Fashion)** sett — one scale-free proportion (`d
 [BGGGKGGGW](/stripes/bgggkgggw/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Duchess of York](/tartans/duchess-of-york/) tartan — the named design grouping this sett with its kin.
+Part of the [Duchess of York](/tartans/d/du/duchess-of-york/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

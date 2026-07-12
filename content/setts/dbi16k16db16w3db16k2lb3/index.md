@@ -6,6 +6,8 @@ This is the **St. Andrew Society** sett — one scale-free proportion (`dbi16k16
 [BKBWBKW](/stripes/bkbwbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [St. Andrew Society](/tartans/s/st/st-andrew-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

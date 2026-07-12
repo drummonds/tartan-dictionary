@@ -6,7 +6,7 @@ This is the **Burns 1930** sett — one scale-free proportion (`r2g2r2g8r2g2r2db
 [GRGRBRGRGRGR](/stripes/grgrbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Burns](/tartans/burns/) tartan — the named design grouping this sett with its kin.
+Part of the [Burns](/tartans/b/bu/burns/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

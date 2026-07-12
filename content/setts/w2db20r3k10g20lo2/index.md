@@ -6,6 +6,8 @@ This is the **Morris of Eddergoll (Personal)** sett — one scale-free proportio
 [WBRKGY](/stripes/wbrkgy/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [Morris of Eddergoll](/tartans/m/mo/morris-of-eddergoll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

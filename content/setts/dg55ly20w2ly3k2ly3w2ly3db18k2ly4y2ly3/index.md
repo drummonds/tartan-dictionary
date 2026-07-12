@@ -6,6 +6,8 @@ This is the **Knox (Personal)** sett — one scale-free proportion (`dg55ly20w2l
 [GYWYKYWYBKYGY](/stripes/gywykywybkygy/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Knox](/tartans/k/kn/knox/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

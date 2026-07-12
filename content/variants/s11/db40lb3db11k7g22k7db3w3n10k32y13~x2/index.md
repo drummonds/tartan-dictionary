@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aurora House Check"
+  url: "/tartans/a/au/aurora-house-check/"
+- name: "Aurora House Check"
   url: "/setts/db40lb3db11k7g22k7db3w3n10k32y13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40lb3db11k7g22k7db3w3n10k32y13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKGKBWBKG](/stripes/bwbkgkbwbkg/).
+
+Part of the [Aurora House Check](/tartans/a/au/aurora-house-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

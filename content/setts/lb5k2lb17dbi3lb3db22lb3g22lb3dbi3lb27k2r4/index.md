@@ -6,6 +6,8 @@ This is the **Leith** sett — one scale-free proportion (`lb5k2lb17dbi3lb3db22l
 [RKWBWGWBWBWKW](/stripes/rkwbwgwbwbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leith](/tartans/l/le/leith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

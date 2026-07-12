@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ancient Gathering"
-  url: "/tartans/ancient-gathering/"
+  url: "/tartans/a/an/ancient-gathering/"
 - name: "Ancient Gathering"
   url: "/setts/db1lb12b6w1dy3db14t18w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1lb12b6w1dy3db14t18w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGBBW](/stripes/bwbwgbbw/).
 
-Part of the [Ancient Gathering](/tartans/ancient-gathering/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ancient Gathering](/tartans/a/an/ancient-gathering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

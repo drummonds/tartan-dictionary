@@ -6,6 +6,8 @@ This is the **Unnamed 3** sett — one scale-free proportion (`k2g9lb1k6b4g2`), 
 [GBKWGK](/stripes/gbkwgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unnamed 3](/tartans/u/un/unnamed-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

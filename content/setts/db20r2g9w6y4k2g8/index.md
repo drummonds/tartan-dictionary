@@ -6,6 +6,8 @@ This is the **Crofters (Personal)** sett — one scale-free proportion (`db20r2g
 [BRGWGKG](/stripes/brgwgkg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Crofters](/tartans/c/cr/crofters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

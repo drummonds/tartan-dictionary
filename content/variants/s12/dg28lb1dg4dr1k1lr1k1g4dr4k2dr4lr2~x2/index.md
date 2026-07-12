@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Carroll O'Reed"
+  url: "/tartans/c/ca/carroll-o-reed/"
+- name: "Carroll O'Reed"
   url: "/setts/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGBKYKGBKBY](/stripes/gwgbkykgbkby/).
+
+Part of the [Carroll O'Reed](/tartans/c/ca/carroll-o-reed/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

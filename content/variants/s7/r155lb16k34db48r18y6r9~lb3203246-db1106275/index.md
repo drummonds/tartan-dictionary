@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Solberg-Wormald"
+  url: "/tartans/s/so/solberg-wormald/"
 - name: "Solberg-Wormald (Personal)"
   url: "/setts/r155lb16k34db48r18y6r9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r155lb16k34db48r18y6r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKBRGRGRBKW](/stripes/rwkbrgrgrbkw/).
+
+Part of the [Solberg-Wormald](/tartans/s/so/solberg-wormald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

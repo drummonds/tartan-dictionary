@@ -6,6 +6,8 @@ This is the **Christmas Morning** sett — one scale-free proportion (`g3r12g15r
 [GRGRWBWGR](/stripes/grgrwbwgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Christmas Morning](/tartans/c/ch/christmas-morning/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

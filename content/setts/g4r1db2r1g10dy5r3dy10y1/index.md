@@ -6,6 +6,8 @@ This is the **Moncton, City of** sett — one scale-free proportion (`g4r1db2r1g
 [GGRGGRBRG](/stripes/ggrggrbrg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Moncton, City of](/tartans/m/mo/moncton-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

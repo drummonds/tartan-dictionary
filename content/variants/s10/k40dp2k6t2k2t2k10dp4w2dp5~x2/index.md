@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ironside"
+  url: "/tartans/i/ir/ironside/"
 - name: "Ironside (Personal)"
   url: "/setts/k40dp2k6t2k2t2k10dp4w2dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k40dp2k6t2k2t2k10dp4w2dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBKBKBKBKBKBW](/stripes/bwbkbkbkbkbkbkbkbw/).
+
+Part of the [Ironside](/tartans/i/ir/ironside/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

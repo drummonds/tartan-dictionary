@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacThomas"
-  url: "/tartans/macthomas/"
+  url: "/tartans/m/ma/macthomas/"
 - name: "MacThomas Clan Tartan"
   url: "/setts/db3r2db22k11g24o2g3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3r2db22k11g24o2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
-Part of the [MacThomas](/tartans/macthomas/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacThomas](/tartans/m/ma/macthomas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Western Australia-Pending (District)** sett — one scale-free pro
 [BKYRWGKWKWKWK](/stripes/bkyrwgkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Western Australia-Pending](/tartans/w/we/western-australia-pending/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

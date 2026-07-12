@@ -6,6 +6,8 @@ This is the **Brodie Silver** sett — one scale-free proportion (`r3n20k2n20o20
 [RBKBRWR](/stripes/rbkbrwr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Brodie Silver](/tartans/b/br/brodie-silver-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

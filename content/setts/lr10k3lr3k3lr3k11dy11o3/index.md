@@ -6,6 +6,8 @@ This is the **Holden Monaro Corporate Tartan** sett — one scale-free proportio
 [RGKYKYKY](/stripes/rgkykyky/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Holden Monaro](/tartans/h/ho/holden-monaro/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

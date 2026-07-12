@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Norwich No.005"
+  url: "/tartans/n/no/norwich-no-005/"
+- name: "Norwich No.005"
   url: "/setts/k10ly2dg11r11w1r1w1k9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10ly2dg11r11w1r1w1k9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGRWRWKWRWRGY](/stripes/kygrwrwkwrwrgy/).
+
+Part of the [Norwich No.005](/tartans/n/no/norwich-no-005/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

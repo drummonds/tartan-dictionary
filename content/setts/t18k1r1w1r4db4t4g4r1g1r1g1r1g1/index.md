@@ -6,7 +6,7 @@ This is the **Hill 70** sett — one scale-free proportion (`t18k1r1w1r4db4t4g4r
 [BKRWRBBGRGRGRG](/stripes/bkrwrbbgrgrgrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Hill 70](/tartans/hill-70/) tartan — the named design grouping this sett with its kin.
+Part of the [Hill 70](/tartans/h/hi/hill-70/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

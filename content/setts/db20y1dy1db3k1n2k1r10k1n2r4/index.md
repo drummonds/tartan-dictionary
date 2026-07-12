@@ -7,7 +7,7 @@ This is the **Blais (Personal)** sett — one scale-free proportion (`db20y1dy1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1997**.
 
-Part of the [Blais](/tartans/blais/) tartan — the named design grouping this sett with its kin.
+Part of the [Blais](/tartans/b/bl/blais/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

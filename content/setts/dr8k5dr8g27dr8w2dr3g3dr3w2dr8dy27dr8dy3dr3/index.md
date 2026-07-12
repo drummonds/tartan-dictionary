@@ -6,6 +6,8 @@ This is the **McCall (Name)** sett — one scale-free proportion (`dr8k5dr8g27dr
 [BGBGBWBGBWBGBKB](/stripes/bgbgbwbgbwbgbkb/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [McCall](/tartans/m/mc/mccall-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

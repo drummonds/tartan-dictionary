@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auld Lang Syne, Grey Weavers"
+  url: "/tartans/a/au/auld-lang-syne-grey-weavers/"
 - name: "Auld Lang Syne, Grey Weavers Tartan"
   url: "/setts/w4k2o12dr3k3dr3k23o10k2o6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k2o12dr3k3dr3k23o10k2o6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKBKBRKW](/stripes/krkrkbkbrkw/).
+
+Part of the [Auld Lang Syne, Grey Weavers](/tartans/a/au/auld-lang-syne-grey-weavers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

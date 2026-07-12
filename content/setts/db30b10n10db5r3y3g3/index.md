@@ -6,6 +6,8 @@ This is the **Wrigglesworth Family Canada (Personal)** sett — one scale-free p
 [BBBBRGG](/stripes/bbbbrgg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Wrigglesworth Family Canada](/tartans/w/wr/wrigglesworth-family-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

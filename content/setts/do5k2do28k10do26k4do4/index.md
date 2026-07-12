@@ -6,6 +6,8 @@ This is the **Dunbar, John Telfer (Personal)** sett — one scale-free proportio
 [BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dunbar, John Telfer](/tartans/d/du/dunbar-john-telfer/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

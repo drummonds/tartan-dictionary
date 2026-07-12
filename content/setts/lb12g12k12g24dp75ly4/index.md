@@ -6,7 +6,7 @@ This is the **Widows Sons Scotland Dress** sett — one scale-free proportion (`
 [WGKGBY](/stripes/wgkgby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Widows Sons Scotland Dress](/tartans/widows-sons-scotland-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Widows Sons Scotland Dress](/tartans/w/wi/widows-sons-scotland-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

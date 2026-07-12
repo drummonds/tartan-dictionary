@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ivanka Trump"
+  url: "/tartans/i/iv/ivanka-trump/"
 - name: "Ivanka Trump (Personal)"
   url: "/setts/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKWKWRWRWWWRKW](/stripes/rwkwkwrwrwwwrkw/).
+
+Part of the [Ivanka Trump](/tartans/i/iv/ivanka-trump/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

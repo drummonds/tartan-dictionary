@@ -6,6 +6,8 @@ This is the **MacPherson, The Crubin Plaid** sett — one scale-free proportion 
 [RKWGGRKRGWKRGRW](/stripes/rkwggrkrgwkrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPherson, The Crubin](/tartans/m/ma/macpherson-the-crubin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

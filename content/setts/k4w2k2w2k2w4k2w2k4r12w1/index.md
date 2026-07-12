@@ -6,6 +6,8 @@ This is the **Napier Rose** sett — one scale-free proportion (`k4w2k2w2k2w4k2w
 [KWKWKWKWKRW](/stripes/kwkwkwkwkrw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Napier Rose](/tartans/n/na/napier-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

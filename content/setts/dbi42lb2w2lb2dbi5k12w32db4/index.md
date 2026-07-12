@@ -6,6 +6,8 @@ This is the **Comrie, Navy Blue (Dance)** sett — one scale-free proportion (`d
 [BWKBWWWB](/stripes/bwkbwwwb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Comrie Navy](/tartans/c/co/comrie-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

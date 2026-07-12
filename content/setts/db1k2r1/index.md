@@ -6,6 +6,8 @@ This is the **Allen, Nicholas (Personal)** sett — one scale-free proportion (`
 [BKR](/stripes/bkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Allen, Nicholas](/tartans/a/al/allen-nicholas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

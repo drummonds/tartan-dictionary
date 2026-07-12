@@ -6,6 +6,8 @@ This is the **Jefferson (Personal)** sett — one scale-free proportion (`k7r22t
 [GGWBBRK](/stripes/ggwbbrk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Jefferson](/tartans/j/je/jefferson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

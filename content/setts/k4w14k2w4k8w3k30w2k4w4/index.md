@@ -6,6 +6,8 @@ This is the **Kinloch Anderson Black and White** sett — one scale-free proport
 [KWKWKWKWKW](/stripes/kwkwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Kinloch Anderson Black and](/tartans/k/ki/kinloch-anderson-black-and/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

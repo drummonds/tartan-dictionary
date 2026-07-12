@@ -7,6 +7,8 @@ This is the **Stewart Old** sett — one scale-free proportion (`db12k1g2k1g2k1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1819**.
 
+Part of the [Stewart Old](/tartans/s/st/stewart-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

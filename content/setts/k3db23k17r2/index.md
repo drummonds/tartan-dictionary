@@ -6,6 +6,8 @@ This is the **Wellington Variation** sett — one scale-free proportion (`k3db23
 [KBKR](/stripes/kbkr/). It is recorded as a single **variant**, below.
 First attested **~1930**.
 
+Part of the [Wellington Variation](/tartans/w/we/wellington-variation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

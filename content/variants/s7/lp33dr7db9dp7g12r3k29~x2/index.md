@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hatcher"
+  url: "/tartans/h/ha/hatcher/"
 - name: "Hatcher (Texas) (Personal)"
   url: "/setts/lp33dr7db9dp7g12r3k29/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lp33dr7db9dp7g12r3k29/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGBBBW](/stripes/krgbbbw/).
+
+Part of the [Hatcher](/tartans/h/ha/hatcher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

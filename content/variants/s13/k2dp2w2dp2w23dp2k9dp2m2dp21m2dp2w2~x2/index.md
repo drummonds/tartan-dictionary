@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yarrow Dress"
+  url: "/tartans/y/ya/yarrow-dress/"
 - name: "Yarrow Dress, Purple (Dance)"
   url: "/setts/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWBWBKBRBRBW](/stripes/kbwbwbkbrbrbw/).
+
+Part of the [Yarrow Dress](/tartans/y/ya/yarrow-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

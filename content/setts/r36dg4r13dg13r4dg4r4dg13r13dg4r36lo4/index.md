@@ -6,6 +6,8 @@ This is the **Wolfe** sett — one scale-free proportion (`r36dg4r13dg13r4dg4r4d
 [RGRGRGRGRGRY](/stripes/rgrgrgrgrgry/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [Wolfe](/tartans/w/wo/wolfe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

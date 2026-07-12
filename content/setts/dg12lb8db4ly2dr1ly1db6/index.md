@@ -6,6 +6,8 @@ This is the **F.I.A.T.A. Congress of 1990** sett — one scale-free proportion (
 [BYBYBWG](/stripes/bybybwg/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [F.I.A.T.A. Congress 1990](/tartans/f/f/f-i-a-t-a-congress-1990/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

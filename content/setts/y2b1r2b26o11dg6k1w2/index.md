@@ -6,6 +6,8 @@ This is the **Saskatchewan** sett — one scale-free proportion (`y2b1r2b26o11dg
 [GBRBRGKW](/stripes/gbrbrgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Robberstad** sett — one scale-free proportion (`r60b15r4db10w2db
 [RBRBWBWBR](/stripes/rbrbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Robberstad](/tartans/r/ro/robberstad/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

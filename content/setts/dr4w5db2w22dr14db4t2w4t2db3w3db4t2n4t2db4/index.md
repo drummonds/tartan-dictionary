@@ -6,6 +6,8 @@ This is the **Skye Dress Blue, Earl of (Dance)** sett — one scale-free proport
 [BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Skye Dress Blue, Earl of](/tartans/s/sk/skye-dress-blue-earl-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

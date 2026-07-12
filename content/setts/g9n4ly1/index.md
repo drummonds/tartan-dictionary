@@ -6,7 +6,7 @@ This is the **Ledford (Name)** sett — one scale-free proportion (`g9n4ly1`), c
 [GBY](/stripes/gby/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Ledford](/tartans/ledford/) tartan — the named design grouping this sett with its kin.
+Part of the [Ledford](/tartans/l/le/ledford/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

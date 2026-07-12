@@ -6,6 +6,8 @@ This is the **Heart of Alba** sett — one scale-free proportion (`dg48k5db4lb2d
 [GKBWGRBGKBWGBR](/stripes/gkbwgrbgkbwgbr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Heart of Alba](/tartans/h/he/heart-of-alba/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

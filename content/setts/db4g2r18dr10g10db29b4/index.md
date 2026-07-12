@@ -6,6 +6,8 @@ This is the **Ross Dempster (Personal)** sett — one scale-free proportion (`db
 [BBGBRGB](/stripes/bbgbrgb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Ross Dempster](/tartans/r/ro/ross-dempster/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

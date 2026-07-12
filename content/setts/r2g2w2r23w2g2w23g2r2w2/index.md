@@ -6,6 +6,8 @@ This is the **Hose Artifact Tartan** sett — one scale-free proportion (`r2g2w2
 [RGWRWGWGRW](/stripes/rgwrwgwgrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Hose](/tartans/h/ho/hose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

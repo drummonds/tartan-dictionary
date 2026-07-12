@@ -6,6 +6,8 @@ This is the **Shembe Zulu Church** sett — one scale-free proportion (`k5w25r6k
 [KWRKW](/stripes/kwrkw/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Shembe Zulu Church](/tartans/s/sh/shembe-zulu-church/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

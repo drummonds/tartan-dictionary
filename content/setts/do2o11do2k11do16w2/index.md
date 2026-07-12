@@ -6,6 +6,8 @@ This is the **Portrait, The** sett — one scale-free proportion (`do2o11do2k11d
 [BRBKBW](/stripes/brbkbw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Portrait, The](/tartans/p/po/portrait-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

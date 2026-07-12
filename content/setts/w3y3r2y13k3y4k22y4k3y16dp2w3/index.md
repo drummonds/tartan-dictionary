@@ -6,7 +6,7 @@ This is the **Loch Sween** sett — one scale-free proportion (`w3y3r2y13k3y4k22
 [WBGKGKGKGRGW](/stripes/wbgkgkgkgrgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Loch Sween](/tartans/loch-sween/) tartan — the named design grouping this sett with its kin.
+Part of the [Loch Sween](/tartans/l/lo/loch-sween/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

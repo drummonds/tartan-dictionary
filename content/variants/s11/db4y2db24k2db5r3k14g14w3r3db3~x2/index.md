@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Czech National"
+  url: "/tartans/c/cz/czech-national/"
 - name: "Czech National (District)"
   url: "/setts/db4y2db24k2db5r3k14g14w3r3db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y2db24k2db5r3k14g14w3r3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBRKGWRB](/stripes/bgbkbrkgwrb/).
+
+Part of the [Czech National](/tartans/c/cz/czech-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

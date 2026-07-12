@@ -6,6 +6,8 @@ This is the **(1) Trithart** sett — one scale-free proportion (`k79lb1o1lo1do1
 [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Trithart](/tartans/t/tr/trithart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

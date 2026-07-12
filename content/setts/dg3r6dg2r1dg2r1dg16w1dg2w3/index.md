@@ -6,6 +6,8 @@ This is the **Prince of Wales (Fashion)** sett — one scale-free proportion (`d
 [GRGRGRGWGW](/stripes/grgrgrgwgw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Prince of Wales](/tartans/p/pr/prince-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

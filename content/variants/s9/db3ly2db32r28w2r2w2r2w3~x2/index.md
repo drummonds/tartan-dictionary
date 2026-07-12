@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sea Dog Bamse"
+  url: "/tartans/s/se/sea-dog-bamse/"
 - name: "Sea Dog Bamse, Pride of Norway"
   url: "/setts/db3ly2db32r28w2r2w2r2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3ly2db32r28w2r2w2r2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBRWRWRW](/stripes/bybrwrwrw/).
+
+Part of the [Sea Dog Bamse](/tartans/s/se/sea-dog-bamse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

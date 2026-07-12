@@ -6,6 +6,8 @@ This is the **Lochaber (Hesketh)** sett — one scale-free proportion (`k8y3k120
 [KGKGKWK](/stripes/kgkgkwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lochaber](/tartans/l/lo/lochaber/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

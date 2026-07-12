@@ -6,6 +6,8 @@ This is the **Slanj, Grey (Corporate)** sett — one scale-free proportion (`k3n
 [BKBKBK](/stripes/bkbkbk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Slanj](/tartans/s/sl/slanj-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Wilson's Blanket Sett - Border** sett — one scale-free proportio
 [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's Blanket Sett](/tartans/w/wi/wilson-s-blanket-sett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

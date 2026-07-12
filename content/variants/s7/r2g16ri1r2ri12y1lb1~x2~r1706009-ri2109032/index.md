@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spragg"
+  url: "/tartans/s/sp/spragg/"
 - name: "Spragg (Name)"
   url: "/setts/r2g16ri1r2ri12y1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g16ri1r2ri12y1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRRRGW](/stripes/rgrrrgw/).
+
+Part of the [Spragg](/tartans/s/sp/spragg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

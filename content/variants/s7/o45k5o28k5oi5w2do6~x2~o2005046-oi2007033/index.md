@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Leiato"
+  url: "/clan/leiato/"
+- name: "Leiato of American Samoa"
+  url: "/families/leiato-of-american-samoa/"
+- name: "Leiato of American Samoa"
+  url: "/tartans/l/le/leiato-of-american-samoa/"
 - name: "Leiato of American Samoa (Personal)"
   url: "/setts/o45k5o28k5oi5w2do6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o45k5o28k5oi5w2do6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRKRKR](/stripes/bwrkrkr/).
+
+Part of the [Leiato of American Samoa](/tartans/l/le/leiato-of-american-samoa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

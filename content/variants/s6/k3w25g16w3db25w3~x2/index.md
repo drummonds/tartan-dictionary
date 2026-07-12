@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birnham"
+  url: "/tartans/b/bi/birnham/"
 - name: "Birnham, Blue (Dance)"
   url: "/setts/k3w25g16w3db25w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3w25g16w3db25w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGWBW](/stripes/kwgwbw/).
+
+Part of the [Birnham](/tartans/b/bi/birnham/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

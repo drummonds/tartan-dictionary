@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDuff Hunting"
+  url: "/tartans/m/ma/macduff-hunting/"
 - name: "MacDuff Hunting Clan Tartan"
   url: "/setts/dy8r1dy8g8k8db8dy8r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy8r1dy8g8k8db8dy8r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGKBGR](/stripes/grggkbgr/).
+
+Part of the [MacDuff Hunting](/tartans/m/ma/macduff-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

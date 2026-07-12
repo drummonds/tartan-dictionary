@@ -6,6 +6,8 @@ This is the **Carlow** sett — one scale-free proportion (`dr20b2dr2b2dr2b8k24b
 [BBBBBBKBK](/stripes/bbbbbbkbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Carlow](/tartans/c/ca/carlow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

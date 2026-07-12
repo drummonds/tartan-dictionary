@@ -6,6 +6,8 @@ This is the **Weston (Personal)** sett — one scale-free proportion (`dt4db4dp4
 [BBBKW](/stripes/bbbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Weston](/tartans/w/we/weston-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lanark Highlands** sett — one scale-free proportion (`n2w11lb3g2
 [BWWGGGRGBY](/stripes/bwwgggrgby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Lanark Highlands](/tartans/l/la/lanark-highlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

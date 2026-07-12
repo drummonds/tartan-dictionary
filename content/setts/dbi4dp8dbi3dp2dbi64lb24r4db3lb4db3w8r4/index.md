@@ -6,6 +6,8 @@ This is the **Royal Navy** sett — one scale-free proportion (`dbi4dp8dbi3dp2db
 [BBBBBWRBWBWR](/stripes/bbbbbwrbwbwr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Royal Navy](/tartans/r/ro/royal-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

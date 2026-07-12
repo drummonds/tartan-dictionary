@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Milwaukee County"
+  url: "/tartans/m/mi/milwaukee-county/"
 - name: "Mitchell (Clan)"
   url: "/setts/k2g17k16dr2db17lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g17k16dr2db17lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBBY](/stripes/kgkbby/).
+
+Part of the [Milwaukee County](/tartans/m/mi/milwaukee-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

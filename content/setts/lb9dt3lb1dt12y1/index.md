@@ -6,6 +6,8 @@ This is the **North Sea Commission** sett — one scale-free proportion (`lb9dt3
 [GBWBW](/stripes/gbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [North Sea Commission](/tartans/n/no/north-sea-commission/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Titanium"
+  url: "/tartans/t/ti/titanium-2/"
 - name: "Titanium (Fashion)"
   url: "/setts/n44o8n8o22lb4o4lb11o2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n44o8n8o22lb4o4lb11o2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRWRWRW](/stripes/brbrwrwrw/).
+
+Part of the [Titanium](/tartans/t/ti/titanium-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

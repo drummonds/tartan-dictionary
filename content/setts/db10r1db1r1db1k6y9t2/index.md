@@ -6,6 +6,8 @@ This is the **Antique 2000** sett — one scale-free proportion (`db10r1db1r1db1
 [BGKBRBRB](/stripes/bgkbrbrb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Antique 2000](/tartans/a/an/antique-2000/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

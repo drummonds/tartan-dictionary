@@ -6,6 +6,8 @@ This is the **Salt Lake Scots** sett — one scale-free proportion (`o17b2w2b2o2
 [KRBRRBWBR](/stripes/krbrrbwbr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Salt Lake Scots](/tartans/s/sa/salt-lake-scots/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

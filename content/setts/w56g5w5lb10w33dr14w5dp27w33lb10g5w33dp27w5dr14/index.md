@@ -6,6 +6,8 @@ This is the **Portmeirion** sett — one scale-free proportion (`w56g5w5lb10w33d
 [BWBWGWWBWBWWWGW](/stripes/bwbwgwwbwbwwwgw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Portmeirion](/tartans/p/po/portmeirion/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

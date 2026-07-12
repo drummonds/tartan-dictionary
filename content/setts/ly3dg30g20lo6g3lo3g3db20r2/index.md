@@ -6,6 +6,8 @@ This is the **Glens of Corbie** sett — one scale-free proportion (`ly3dg30g20l
 [RBGYGYGGY](/stripes/rbgygyggy/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
+Part of the [Glens of Corbie](/tartans/g/gl/glens-of-corbie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

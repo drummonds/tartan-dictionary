@@ -6,6 +6,8 @@ This is the **Oilmens Corporate Tartan** sett — one scale-free proportion (`y4
 [GKRKRKRK](/stripes/gkrkrkrk/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Oilmens](/tartans/o/oi/oilmens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

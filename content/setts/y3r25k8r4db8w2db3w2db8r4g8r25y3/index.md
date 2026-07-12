@@ -6,6 +6,8 @@ This is the **Maynard** sett — one scale-free proportion (`y3r25k8r4db8w2db3w2
 [GRGRBWBWBRKRG](/stripes/grgrbwbwbrkrg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Maynard](/tartans/m/ma/maynard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

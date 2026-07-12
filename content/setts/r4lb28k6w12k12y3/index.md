@@ -6,6 +6,8 @@ This is the **MacTavish Dress Family Tartan** sett — one scale-free proportion
 [GKWKWR](/stripes/gkwkwr/). It is recorded as a single **variant**, below.
 First attested **1958**.
 
+Part of the [MacTavish Dress](/tartans/m/ma/mactavish-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

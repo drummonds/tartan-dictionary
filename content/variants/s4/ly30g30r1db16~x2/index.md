@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barber"
+  url: "/tartans/b/ba/barber/"
 - name: "Barber Family (Personal)"
   url: "/setts/ly30g30r1db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly30g30r1db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGY](/stripes/brgy/).
+
+Part of the [Barber](/tartans/b/ba/barber/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

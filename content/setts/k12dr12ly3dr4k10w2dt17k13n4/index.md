@@ -6,6 +6,8 @@ This is the **Tayside Police (Corporate)** sett — one scale-free proportion (`
 [BKBWKBYBK](/stripes/bkbwkbybk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Tayside Police](/tartans/t/ta/tayside-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

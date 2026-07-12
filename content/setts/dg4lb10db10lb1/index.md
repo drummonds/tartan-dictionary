@@ -6,6 +6,8 @@ This is the **Baker City (District)** sett — one scale-free proportion (`dg4lb
 [GWBW](/stripes/gwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Baker City](/tartans/b/ba/baker-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

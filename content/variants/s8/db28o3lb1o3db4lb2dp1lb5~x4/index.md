@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Baker"
-  url: "/tartans/baker/"
+  url: "/tartans/b/ba/baker/"
 - name: "Baker"
   url: "/setts/db28o3lb1o3db4lb2dp1lb5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db28o3lb1o3db4lb2dp1lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWRBWBW](/stripes/brwrbwbw/).
 
-Part of the [Baker](/tartans/baker/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Baker](/tartans/b/ba/baker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

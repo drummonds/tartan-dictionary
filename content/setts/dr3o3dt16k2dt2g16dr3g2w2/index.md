@@ -6,6 +6,8 @@ This is the **Chinzei Keiai School** sett — one scale-free proportion (`dr3o3d
 [BRBKBGBGW](/stripes/brbkbgbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Chinzei Keiai School](/tartans/c/ch/chinzei-keiai-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

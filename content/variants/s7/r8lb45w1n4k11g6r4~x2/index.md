@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ascension Island Heritage Trust"
+  url: "/tartans/a/as/ascension-island-heritage-trust/"
+- name: "Ascension Island Heritage Trust"
   url: "/setts/r8lb45w1n4k11g6r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8lb45w1n4k11g6r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKBWWR](/stripes/rgkbwwr/).
+
+Part of the [Ascension Island Heritage Trust](/tartans/a/as/ascension-island-heritage-trust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

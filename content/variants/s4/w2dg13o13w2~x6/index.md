@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunoon Irish"
+  url: "/tartans/d/du/dunoon-irish/"
+- name: "Dunoon Irish"
   url: "/setts/w2dg13o13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2dg13o13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGRW](/stripes/wgrw/).
+
+Part of the [Dunoon Irish](/tartans/d/du/dunoon-irish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

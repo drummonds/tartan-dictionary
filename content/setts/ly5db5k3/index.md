@@ -6,6 +6,8 @@ This is the **Kazakhstan Relic (Artefact)** sett — one scale-free proportion (
 [KBY](/stripes/kby/). It is recorded as a single **variant**, below.
 First attested **~2000 BCE**.
 
+Part of the [Kazakhstan Relic](/tartans/k/ka/kazakhstan-relic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

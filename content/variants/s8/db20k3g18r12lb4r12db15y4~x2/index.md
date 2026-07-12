@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sustainability"
+  url: "/tartans/s/su/sustainability/"
 - name: "Sustainability (Fashion)"
   url: "/setts/db20k3g18r12lb4r12db15y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20k3g18r12lb4r12db15y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGRWRBG](/stripes/bkgrwrbg/).
+
+Part of the [Sustainability](/tartans/s/su/sustainability/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

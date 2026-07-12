@@ -7,7 +7,7 @@ This is the **Grant of Ballindalloch (Personal)** sett — one scale-free propor
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1993**.
 
-Part of the [Grant of Ballindalloch](/tartans/grant-of-ballindalloch/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant of Ballindalloch](/tartans/g/gr/grant-of-ballindalloch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

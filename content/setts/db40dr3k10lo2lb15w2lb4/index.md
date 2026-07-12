@@ -6,6 +6,8 @@ This is the **U.S. Forces Thurso (Military)** sett — one scale-free proportion
 [BBKYWWW](/stripes/bbkywww/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [U.S. Forces Thurso](/tartans/u/u/u-s-forces-thurso-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

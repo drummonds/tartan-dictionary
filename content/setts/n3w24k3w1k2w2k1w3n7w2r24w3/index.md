@@ -6,6 +6,8 @@ This is the **Humanitarian Mission (Dress)** sett — one scale-free proportion 
 [BWKWKWKWBWRW](/stripes/bwkwkwkwbwrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Humanitarian Mission](/tartans/h/hu/humanitarian-mission/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Connaught Ancestry** sett — one scale-free proportion (`db4n21db
 [BBBKBGBBBKW](/stripes/bbbkbgbbbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Connaught Ancestry](/tartans/connaught-ancestry/) tartan — the named design grouping this sett with its kin.
+Part of the [Connaught Ancestry](/tartans/c/co/connaught-ancestry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

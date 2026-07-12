@@ -6,6 +6,8 @@ This is the **Davidson of Tulloch Dress** sett — one scale-free proportion (`d
 [BBKGWGKWKWKW](/stripes/bbkgwgkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Davidson of Tulloch Dress](/tartans/d/da/davidson-of-tulloch-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

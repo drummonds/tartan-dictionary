@@ -6,7 +6,7 @@ This is the **Balfour** sett — one scale-free proportion (`db30y3dy11y3n33r6`)
 [BGGGBR](/stripes/bgggbr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
-Part of the [Balfour](/tartans/balfour/) tartan — the named design grouping this sett with its kin.
+Part of the [Balfour](/tartans/b/ba/balfour/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

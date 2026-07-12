@@ -6,6 +6,8 @@ This is the **New Zealand (2003)** sett — one scale-free proportion (`k3db9k2l
 [KBKYBYKGKR](/stripes/kbkybykgkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [New Zealand](/tartans/n/ne/new-zealand-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

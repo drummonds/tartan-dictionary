@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Miss Peffer's"
+  url: "/tartans/m/mi/miss-peffer-s/"
 - name: "Not Specified #4"
   url: "/setts/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBWBWBWBWBKWKBWBKWKBWBKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkbwbkwkbwbkwkbwbwbwbwbwbwbwbkwkbwbkwkbwbkwbwbwbwbwbw/).
+
+Part of the [Miss Peffer's](/tartans/m/mi/miss-peffer-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
 

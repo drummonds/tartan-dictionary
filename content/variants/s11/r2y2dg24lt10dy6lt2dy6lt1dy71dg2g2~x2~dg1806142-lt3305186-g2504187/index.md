@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Original Tartan Ltd"
+  url: "/tartans/o/or/original-tartan-ltd/"
 - name: "Original Tartan Ltd (Corporate)"
   url: "/setts/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGWGWGWGGR](/stripes/gggwgwgwggr/).
+
+Part of the [Original Tartan Ltd](/tartans/o/or/original-tartan-ltd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

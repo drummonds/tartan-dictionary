@@ -6,6 +6,8 @@ This is the **Montreat** sett — one scale-free proportion (`y2db10k2r5k2db19k2
 [GBKRKBKBGKG](/stripes/gbkrkbkbgkg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Montreat](/tartans/m/mo/montreat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

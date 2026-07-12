@@ -7,6 +7,8 @@ This is the **Oliphant** sett — one scale-free proportion (`db4k4db24g32w1g2`)
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [Oliphant](/tartans/o/ol/oliphant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

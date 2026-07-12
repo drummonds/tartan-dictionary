@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galvez-Brown"
-  url: "/tartans/galvez-brown/"
+  url: "/tartans/g/ga/galvez-brown/"
 - name: "Galvez-Brown"
   url: "/setts/db36dy5dr12r9dp5w12dy7/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db36dy5dr12r9dp5w12dy7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBWG](/stripes/bgbrbwg/).
 
-Part of the [Galvez-Brown](/tartans/galvez-brown/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Galvez-Brown](/tartans/g/ga/galvez-brown/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

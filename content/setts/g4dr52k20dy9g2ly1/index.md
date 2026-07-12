@@ -6,6 +6,8 @@ This is the **Jack (Personal)** sett — one scale-free proportion (`g4dr52k20dy
 [GBKGGY](/stripes/gbkggy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Jack](/tartans/j/ja/jack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ballindalloch Check** sett — one scale-free proportion (`dr1ly1d
 [BYBYG](/stripes/bybyg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ballindalloch Check](/tartans/b/ba/ballindalloch-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

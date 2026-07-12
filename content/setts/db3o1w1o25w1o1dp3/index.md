@@ -6,6 +6,8 @@ This is the **St. Giles Check** sett — one scale-free proportion (`db3o1w1o25w
 [BRWRWRBRWRWR](/stripes/brwrwrbrwrwr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [St. Giles Check](/tartans/s/st/st-giles-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

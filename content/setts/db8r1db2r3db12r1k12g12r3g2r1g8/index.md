@@ -7,7 +7,7 @@ This is the **MacDonald** sett — one scale-free proportion (`db8r1db2r3db12r1k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1810**.
 
-Part of the [MacDonald](/tartans/macdonald-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald](/tartans/m/ma/macdonald-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

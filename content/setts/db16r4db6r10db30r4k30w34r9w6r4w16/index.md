@@ -6,6 +6,8 @@ This is the **MacDonald Pattern of Plaids** sett — one scale-free proportion (
 [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDonald Pattern of Plaids](/tartans/m/ma/macdonald-pattern-of-plaids/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

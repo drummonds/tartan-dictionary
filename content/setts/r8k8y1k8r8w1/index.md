@@ -6,6 +6,8 @@ This is the **Connel** sett — one scale-free proportion (`r8k8y1k8r8w1`), colo
 [RKGKRW](/stripes/rkgkrw/). It is recorded as a single **variant**, below.
 First attested **1888**.
 
+Part of the [Connel](/tartans/c/co/connel-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

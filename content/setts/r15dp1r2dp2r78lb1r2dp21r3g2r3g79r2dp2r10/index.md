@@ -6,7 +6,7 @@ This is the **Grant - 1819 (Clan)** sett — one scale-free proportion (`r15dp1r
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Grant](/tartans/grant/) tartan — the named design grouping this sett with its kin.
+Part of the [Grant](/tartans/g/gr/grant/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -10,7 +10,7 @@ crumbs:
 - name: "Dodd of Branford"
   url: "/families/dodd-of-branford/"
 - name: "Dodd of Branford"
-  url: "/tartans/dodd-of-branford/"
+  url: "/tartans/d/do/dodd-of-branford/"
 - name: "Dodd of Branford"
   url: "/setts/g4dr2g20db8k8db4lb1lo2k1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g4dr2g20db8k8db4lb1lo2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBKBWYK](/stripes/gbgbkbwyk/).
 
-Part of the [Dodd of Branford](/tartans/dodd-of-branford/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dodd of Branford](/tartans/d/do/dodd-of-branford/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

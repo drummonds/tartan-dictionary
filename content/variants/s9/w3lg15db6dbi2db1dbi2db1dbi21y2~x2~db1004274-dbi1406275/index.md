@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blue Knights, The"
+  url: "/tartans/b/bl/blue-knights-the/"
+- name: "Blue Knights, The"
   url: "/setts/w3lg15db6dbi2db1dbi2db1dbi21y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3lg15db6dbi2db1dbi2db1dbi21y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBBYW](/stripes/gbbbbbbyw/).
+
+Part of the [Blue Knights, The](/tartans/b/bl/blue-knights-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

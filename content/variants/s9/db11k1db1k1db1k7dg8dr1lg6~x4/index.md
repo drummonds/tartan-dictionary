@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Damm, Alexander"
-  url: "/tartans/damm-alexander/"
+  url: "/tartans/d/da/damm-alexander/"
 - name: "Damm, Alexander (Personal)"
   url: "/setts/db11k1db1k1db1k7dg8dr1lg6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k7dg8dr1lg6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGBY](/stripes/bkbkbkgby/).
 
-Part of the [Damm, Alexander](/tartans/damm-alexander/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Damm, Alexander](/tartans/d/da/damm-alexander/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Waterfront** sett — one scale-free proportion (`r2db38k20w1dg20r
 [RBKWGR](/stripes/rbkwgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Waterfront](/tartans/w/wa/waterfront/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

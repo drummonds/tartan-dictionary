@@ -6,6 +6,8 @@ This is the **Marine Harvest Scotland (Corporate)** sett — one scale-free prop
 [BWKBKWKY](/stripes/bwkbkwky/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Marine Harvest Scotland](/tartans/m/ma/marine-harvest-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Cargill Clan/Family Tartan** sett — one scale-free proportion (`
 [BGBKGKGBGBGBGBGKGKBG](/stripes/bgbkgkgbgbgbgbgkgkbg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Cargill](/tartans/c/ca/cargill/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

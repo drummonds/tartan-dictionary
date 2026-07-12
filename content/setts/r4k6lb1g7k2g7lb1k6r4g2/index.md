@@ -6,6 +6,8 @@ This is the **Walker James** sett — one scale-free proportion (`r4k6lb1g7k2g7l
 [GRKWGKGWKR](/stripes/grkwgkgwkr/). It is recorded as a single **variant**, below.
 First attested **1818**.
 
+Part of the [Walker James](/tartans/w/wa/walker-james/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

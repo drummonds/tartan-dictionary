@@ -6,7 +6,7 @@ This is the **Justus Htg (Personal)** sett — one scale-free proportion (`db1dg
 [BGRGYGB](/stripes/bgrgygb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Justus Hunting](/tartans/justus-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Justus Hunting](/tartans/j/ju/justus-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

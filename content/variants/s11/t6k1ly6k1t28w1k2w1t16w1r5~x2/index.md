@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Railway"
+  url: "/tartans/c/ca/caledonian-railway/"
 - name: "Caledonian Railway (Commemorative)"
   url: "/setts/t6k1ly6k1t28w1k2w1t16w1r5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6k1ly6k1t28w1k2w1t16w1r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
+
+Part of the [Caledonian Railway](/tartans/c/ca/caledonian-railway/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Sugell (Name?)** sett — one scale-free proportion (`g72r25y8w5`)
 [GRGW](/stripes/grgw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Sugell](/tartans/s/su/sugell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kalkofen"
+  url: "/tartans/k/ka/kalkofen/"
 - name: "Kalkofen (Name)"
   url: "/setts/k40dg15k10o2k10lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k40dg15k10o2k10lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKY](/stripes/kgkrky/).
+
+Part of the [Kalkofen](/tartans/k/ka/kalkofen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

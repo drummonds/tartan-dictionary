@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ben Cleuch"
+  url: "/tartans/b/be/ben-cleuch/"
 - name: "Ben Cleuch (Fashion)"
   url: "/setts/w68o3w3o8w3o27dy16r3dy20o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w68o3w3o8w3o27dy16r3dy20o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGRWRWRW](/stripes/rgrgrwrwrw/).
+
+Part of the [Ben Cleuch](/tartans/b/be/ben-cleuch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

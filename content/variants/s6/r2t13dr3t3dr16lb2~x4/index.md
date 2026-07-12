@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacArthur-Fox"
+  url: "/tartans/m/ma/macarthur-fox-4/"
 - name: "MacArthur-Fox Blue (Personal)"
   url: "/setts/r2t13dr3t3dr16lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2t13dr3t3dr16lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
+
+Part of the [MacArthur-Fox](/tartans/m/ma/macarthur-fox-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

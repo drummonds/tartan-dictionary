@@ -6,6 +6,8 @@ This is the **America (Eagle version)** sett — one scale-free proportion (`db5
 [BRBWBWRBRW](/stripes/brbwbwrbrw/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [America](/tartans/a/am/america/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

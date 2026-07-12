@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aberdeen Academy of Performing Arts"
+  url: "/tartans/a/ab/aberdeen-academy-of-performing-arts/"
+- name: "Aberdeen Academy of Performing Arts"
   url: "/setts/db4b2dp3db24t24w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4b2dp3db24t24w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBW](/stripes/bbbbbw/).
+
+Part of the [Aberdeen Academy of Performing Arts](/tartans/a/ab/aberdeen-academy-of-performing-arts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

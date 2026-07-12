@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Bluebell"
+  url: "/tartans/s/sc/scottish-bluebell/"
 - name: "Scottish Bluebell (Corporate)"
   url: "/setts/db80k34w4t8w4k8w4t8w4k34db80w1t8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db80k34w4t8w4k8w4t8w4k34db80w1t8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBWKWBWKBWB](/stripes/bkwbwkwbwkbwb/).
+
+Part of the [Scottish Bluebell](/tartans/s/sc/scottish-bluebell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

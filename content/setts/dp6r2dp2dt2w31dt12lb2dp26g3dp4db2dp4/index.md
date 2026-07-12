@@ -6,6 +6,8 @@ This is the **MacDonald of Glencoe (Dance) Fashion Tartan** sett — one scale-f
 [BBBGBWBWBBRB](/stripes/bbbgbwbwbbrb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [MacDonald of Glencoe](/tartans/m/ma/macdonald-of-glencoe-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

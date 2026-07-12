@@ -6,6 +6,8 @@ This is the **Cunningham Dress Burgundy (Dance)** sett — one scale-free propor
 [GRKRWRW](/stripes/grkrwrw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Cunningham Burgandy Dress](/tartans/c/cu/cunningham-burgandy-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

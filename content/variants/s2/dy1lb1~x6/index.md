@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shepherd"
+  url: "/tartans/s/sh/shepherd/"
 - name: "Shepherd Brown & White (Fashion?)"
   url: "/setts/dy1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GW](/stripes/gw/).
+
+Part of the [Shepherd](/tartans/s/sh/shepherd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

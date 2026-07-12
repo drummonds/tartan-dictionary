@@ -6,6 +6,8 @@ This is the **Spirit of Morningside** sett — one scale-free proportion (`dp4db
 [BBBBKGKGWGWGKGKBBKB](/stripes/bbbbkgkgwgwgkgkbbkb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Spirit of Morningside](/tartans/s/sp/spirit-of-morningside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

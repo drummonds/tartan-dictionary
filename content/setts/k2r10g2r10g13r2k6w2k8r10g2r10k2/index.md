@@ -6,7 +6,7 @@ This is the **MacNicol D** sett — one scale-free proportion (`k2r10g2r10g13r2k
 [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacNicol D](/tartans/macnicol-d/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNicol D](/tartans/m/ma/macnicol-d/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Holyrood, Chair"
+  url: "/tartans/h/ho/holyrood-chair/"
+- name: "Holyrood, Chair"
   url: "/setts/r34w1db10g10w1y1g2lb2w1db2lb10r6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r34w1db10g10w1y1g2lb2w1db2lb10r6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBGWGGWWBWRW](/stripes/rwbgwggwwbwrw/).
+
+Part of the [Holyrood, Chair](/tartans/h/ho/holyrood-chair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

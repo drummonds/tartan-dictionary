@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Celtic F.C."
+  url: "/tartans/c/ce/celtic-f-c-2/"
+- name: "Celtic F.C."
   url: "/setts/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGKRGWGGGKG](/stripes/gggkgkrgwgggkg/).
+
+Part of the [Celtic F.C.](/tartans/c/ce/celtic-f-c-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 

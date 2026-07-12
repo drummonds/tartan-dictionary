@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "South Australian Pipes & Drums"
+  url: "/tartans/s/so/south-australian-pipes-drums/"
+- name: "South Australian Pipes & Drums"
   url: "/setts/db60y6db11r25db11y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60y6db11r25db11y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBGBRBG](/stripes/bgbrbgbrbg/).
+
+Part of the [South Australian Pipes & Drums](/tartans/s/so/south-australian-pipes-drums/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

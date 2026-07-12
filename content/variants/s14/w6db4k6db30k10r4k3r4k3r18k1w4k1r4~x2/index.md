@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harris"
+  url: "/tartans/h/ha/harris/"
 - name: "Harris (1997) (Personal)"
   url: "/setts/w6db4k6db30k10r4k3r4k3r18k1w4k1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6db4k6db30k10r4k3r4k3r18k1w4k1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKRKRKRKBKBWBKBKRKRKRKWKR](/stripes/kwkrkrkrkbkbwbkbkrkrkrkwkr/).
+
+Part of the [Harris](/tartans/h/ha/harris/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Waggrall"
+  url: "/tartans/w/wa/waggrall-4/"
 - name: "Waggrall Family Tartan"
   url: "/setts/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRRWBWWWBWGGWBWGGWGGWGGWWBWBWWRRWRW](/stripes/rwrrwbwwwbwggwbwggwggwggwwbwbwwrrwrw/).
+
+Part of the [Waggrall](/tartans/w/wa/waggrall-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
 

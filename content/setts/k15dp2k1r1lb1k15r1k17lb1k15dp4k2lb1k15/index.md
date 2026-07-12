@@ -6,6 +6,8 @@ This is the **GOLF (Wonderland Publications)** sett — one scale-free proportio
 [KBKRWKRKKWKBKWK](/stripes/kbkrwkrkkwkbkwk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [GOLF](/tartans/g/go/golf/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

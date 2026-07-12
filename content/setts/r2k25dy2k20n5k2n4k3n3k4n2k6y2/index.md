@@ -6,6 +6,8 @@ This is the **Gold-Smith (Personal)** sett — one scale-free proportion (`r2k25
 [GKBKBKBKBKGKR](/stripes/gkbkbkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Gold-Smith](/tartans/g/go/gold-smith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

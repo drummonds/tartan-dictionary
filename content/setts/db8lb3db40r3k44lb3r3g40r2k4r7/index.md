@@ -6,6 +6,8 @@ This is the **Lochaber Cameron** sett — one scale-free proportion (`db8lb3db40
 [BWBRKWRGRKR](/stripes/bwbrkwrgrkr/). It is recorded as a single **variant**, below.
 First attested **1800**.
 
+Part of the [Lochaber Cameron](/tartans/l/lo/lochaber-cameron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

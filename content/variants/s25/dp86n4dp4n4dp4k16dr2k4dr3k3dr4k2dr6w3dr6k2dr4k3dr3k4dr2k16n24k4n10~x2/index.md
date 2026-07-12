@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arran, Isle of"
+  url: "/tartans/a/ar/arran-isle-of/"
 - name: "Arran, Isle of (Strathmore)"
   url: "/setts/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKBKBKBKBWBKBKBKBKBKB](/stripes/bbbbbkbkbkbkbwbkbkbkbkbkb/).
+
+Part of the [Arran, Isle of](/tartans/a/ar/arran-isle-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 

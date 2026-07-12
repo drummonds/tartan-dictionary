@@ -6,6 +6,8 @@ This is the **Hong Kong, University of** sett — one scale-free proportion (`y2
 [GKRGYKBKGKWKW](/stripes/gkrgykbkgkwkw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hong Kong, University of](/tartans/h/ho/hong-kong-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

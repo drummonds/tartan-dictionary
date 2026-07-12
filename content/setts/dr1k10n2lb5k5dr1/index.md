@@ -6,6 +6,8 @@ This is the **Callaway (Corporate)** sett — one scale-free proportion (`dr1k10
 [BKBWKB](/stripes/bkbwkb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Callaway](/tartans/c/ca/callaway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hoben"
+  url: "/tartans/h/ho/hoben/"
 - name: "Hoben (Personal)"
   url: "/setts/k3w1r20db4r4g10r4db4r20k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3w1r20db4r4g10r4db4r20k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWRBRGRBRKW](/stripes/kwrbrgrbrkw/).
+
+Part of the [Hoben](/tartans/h/ho/hoben/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

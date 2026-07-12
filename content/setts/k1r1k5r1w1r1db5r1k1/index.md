@@ -6,7 +6,7 @@ This is the **Gipsy Fancy Tartan** sett — one scale-free proportion (`k1r1k5r1
 [KRBRWRKRK](/stripes/krbrwrkrk/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
-Part of the [Gipsy](/tartans/gipsy/) tartan — the named design grouping this sett with its kin.
+Part of the [Gipsy](/tartans/g/gi/gipsy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

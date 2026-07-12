@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Melrose"
+  url: "/clan/melrose/"
+- name: "Melrose Newbigging"
+  url: "/tartans/m/me/melrose-newbigging/"
 - name: "Melrose Newbigging Grey (Name)"
   url: "/setts/n1k6n35k6n2dp3n1k6n2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n1k6n35k6n2dp3n1k6n2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBBBKBW](/stripes/bkbkbbbkbw/).
+
+Part of the [Melrose Newbigging](/tartans/m/me/melrose-newbigging/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

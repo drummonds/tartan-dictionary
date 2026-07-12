@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manitoba Province"
+  url: "/tartans/m/ma/manitoba-province/"
+- name: "Manitoba Province"
   url: "/setts/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGWGWGWGGGBY](/stripes/bgggwgwgwgggby/).
+
+Part of the [Manitoba Province](/tartans/m/ma/manitoba-province/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

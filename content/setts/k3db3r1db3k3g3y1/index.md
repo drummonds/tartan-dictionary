@@ -6,6 +6,8 @@ This is the **Melrose of Alabama** sett — one scale-free proportion (`k3db3r1d
 [GGKBRBK](/stripes/ggkbrbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Melrose of Alabama](/tartans/m/me/melrose-of-alabama/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

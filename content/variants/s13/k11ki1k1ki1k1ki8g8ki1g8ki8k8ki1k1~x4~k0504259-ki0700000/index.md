@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Regiment of Scotland"
+  url: "/tartans/r/ro/royal-regiment-of-scotland/"
 - name: "Royal Regiment of Scotland (Mltry)"
   url: "/setts/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KKKKGKGKKKKKK](/stripes/kkkkgkgkkkkkk/).
+
+Part of the [Royal Regiment of Scotland](/tartans/r/ro/royal-regiment-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

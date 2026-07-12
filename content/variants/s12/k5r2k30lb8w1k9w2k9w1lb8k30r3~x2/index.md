@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow Caledonian University"
+  url: "/tartans/g/gl/glasgow-caledonian-university-3/"
 - name: "Glasgow Caledonian University Corporate Tartan"
   url: "/setts/k5r2k30lb8w1k9w2k9w1lb8k30r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5r2k30lb8w1k9w2k9w1lb8k30r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWWKWKWWKR](/stripes/krkwwkwkwwkr/).
+
+Part of the [Glasgow Caledonian University](/tartans/g/gl/glasgow-caledonian-university-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

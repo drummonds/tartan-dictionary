@@ -6,6 +6,8 @@ This is the **Anderson of Kinneddar Hunting** sett — one scale-free proportion
 [RGRKRGKWKGKGKRBRWRWR](/stripes/rgrkrgkwkgkgkrbrwrwr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Anderson of Kinneddar Hunting](/tartans/a/an/anderson-of-kinneddar-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

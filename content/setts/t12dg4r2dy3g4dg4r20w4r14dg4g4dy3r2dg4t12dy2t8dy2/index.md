@@ -6,6 +6,8 @@ This is the **Beguinot, (Personal)** sett — one scale-free proportion (`t12dg4
 [BGRGGGRWRGGGRGBGBG](/stripes/bgrgggrwrgggrgbgbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Beguinot](/tartans/b/be/beguinot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queens University Alumni"
+  url: "/tartans/q/qu/queens-university-alumni/"
 - name: "Queens University Alumni (Corporate)"
   url: "/setts/r50ly8r15ly2dp3w3dp3dr31r13ly3k5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50ly8r15ly2dp3w3dp3dr31r13ly3k5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYRYBWBBRYKW](/stripes/ryrybwbbrykw/).
+
+Part of the [Queens University Alumni](/tartans/q/qu/queens-university-alumni/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Watt"
+  url: "/tartans/w/wa/watt-2/"
+- name: "Watt"
   url: "/setts/k96db8k12dp3k3dp3k3g20r8k3r4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k96db8k12dp3k3dp3k3g20r8k3r4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
+
+Part of the [Watt](/tartans/w/wa/watt-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

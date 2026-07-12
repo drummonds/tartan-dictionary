@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jethart"
-  url: "/tartans/jethart/"
+  url: "/tartans/j/je/jethart/"
 - name: "Jethart"
   url: "/setts/k22b16dr3b16k2b16g3b3lb5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k22b16dr3b16k2b16g3b3lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBBBKBBBKBGBW](/stripes/bgbkbbbkbbbkbgbw/).
 
-Part of the [Jethart](/tartans/jethart/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jethart](/tartans/j/je/jethart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

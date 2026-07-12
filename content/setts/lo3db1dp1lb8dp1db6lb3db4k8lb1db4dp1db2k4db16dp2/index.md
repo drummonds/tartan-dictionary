@@ -6,6 +6,8 @@ This is the **Midnight Sunrise** sett — one scale-free proportion (`lo3db1dp1l
 [BBKBBBWKBWBBWBBY](/stripes/bbkbbbwkbwbbwbby/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Midnight Sunrise](/tartans/m/mi/midnight-sunrise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

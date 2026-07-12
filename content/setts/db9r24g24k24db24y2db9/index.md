@@ -6,6 +6,8 @@ This is the **Dundas** sett — one scale-free proportion (`db9r24g24k24db24y2db
 [BGBKGRB](/stripes/bgbkgrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dundas](/tartans/d/du/dundas-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

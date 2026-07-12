@@ -6,6 +6,8 @@ This is the **Amstartan** sett — one scale-free proportion (`k6dr5k5dr5k5dr5k1
 [KBKBKBKWKWKBKBKBWKWKBWBWK](/stripes/kbkbkbkwkwkbkbkbwkwkbwbwk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Amstartan](/tartans/a/am/amstartan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

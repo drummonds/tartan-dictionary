@@ -6,6 +6,8 @@ This is the **Thomson, Reona Ellen (Personal)** sett — one scale-free proporti
 [BKBKRBW](/stripes/bkbkrbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Thomson, Reona Ellen](/tartans/t/th/thomson-reona-ellen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

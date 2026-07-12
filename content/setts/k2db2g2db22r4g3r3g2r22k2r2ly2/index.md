@@ -6,7 +6,7 @@ This is the **Harris, Jeffrey S (Personal)** sett — one scale-free proportion 
 [KBGBRGRGRKRY](/stripes/kbgbrgrgrkry/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Harris, Jeffrey S](/tartans/harris-jeffrey-s/) tartan — the named design grouping this sett with its kin.
+Part of the [Harris, Jeffrey S](/tartans/h/ha/harris-jeffrey-s/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

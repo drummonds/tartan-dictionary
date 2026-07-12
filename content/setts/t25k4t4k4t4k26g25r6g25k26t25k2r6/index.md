@@ -6,7 +6,7 @@ This is the **Atholl (District)** sett — one scale-free proportion (`t25k4t4k4
 [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Atholl](/tartans/atholl/) tartan — the named design grouping this sett with its kin.
+Part of the [Atholl](/tartans/a/at/atholl/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

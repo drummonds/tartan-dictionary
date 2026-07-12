@@ -6,6 +6,8 @@ This is the **Murray of Abercairney** sett — one scale-free proportion (`lb3n1
 [WBBGBRKBW](/stripes/wbbgbrkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Murray of Abercairney](/tartans/m/mu/murray-of-abercairney-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

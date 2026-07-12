@@ -6,7 +6,7 @@ This is the **Scottish Italian** sett — one scale-free proportion (`t11db5g4w3
 [BBGWRKBB](/stripes/bbgwrkbb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Scottish Italian](/tartans/scottish-italian/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Italian](/tartans/s/sc/scottish-italian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

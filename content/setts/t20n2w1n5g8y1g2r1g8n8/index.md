@@ -6,6 +6,8 @@ This is the **Connecticut, State of (District)** sett — one scale-free proport
 [BBWBGGGRGB](/stripes/bbwbgggrgb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Connecticut, State of](/tartans/c/co/connecticut-state-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

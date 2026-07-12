@@ -6,7 +6,7 @@ This is the **Poulter Sandwich** sett — one scale-free proportion (`dp35t7dp7t
 [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Poulter Sandwich](/tartans/poulter-sandwich/) tartan — the named design grouping this sett with its kin.
+Part of the [Poulter Sandwich](/tartans/p/po/poulter-sandwich/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

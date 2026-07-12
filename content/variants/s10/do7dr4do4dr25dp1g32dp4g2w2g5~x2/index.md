@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
+- name: "Bell of Ardbel"
+  url: "/families/bell-of-ardbel/"
+- name: "Bell of Ardbel"
+  url: "/tartans/b/be/bell-of-ardbel/"
 - name: "Bell of Ardbel (Personal)"
   url: "/setts/do7dr4do4dr25dp1g32dp4g2w2g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do7dr4do4dr25dp1g32dp4g2w2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBGBGWG](/stripes/bbbbbgbgwg/).
+
+Part of the [Bell of Ardbel](/tartans/b/be/bell-of-ardbel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

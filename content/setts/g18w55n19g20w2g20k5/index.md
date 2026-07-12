@@ -6,6 +6,8 @@ This is the **Michigan State University** sett — one scale-free proportion (`g
 [GWBGWGK](/stripes/gwbgwgk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Michigan State University](/tartans/m/mi/michigan-state-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

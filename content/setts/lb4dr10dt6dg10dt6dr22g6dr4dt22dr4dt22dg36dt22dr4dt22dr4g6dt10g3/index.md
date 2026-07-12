@@ -6,6 +6,8 @@ This is the **Jrgensen of Taasingee (Personal)** sett — one scale-free proport
 [GBGBBBBGBBBBGBBGBBW](/stripes/gbgbbbbgbbbbgbbgbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Jrgensen of Taasingee](/tartans/j/jr/jrgensen-of-taasingee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

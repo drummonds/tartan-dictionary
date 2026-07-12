@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coutts 80th"
+  url: "/tartans/c/co/coutts-80th/"
 - name: "Coutts 80th (James Robert)"
   url: "/setts/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKGKGKGKWGWGKGKGKGKBKBKBKBKWKRKWKRKW](/stripes/bkbkbkbkgkgkgkgkwgwgkgkgkgkbkbkbkbkwkrkwkrkw/).
+
+Part of the [Coutts 80th](/tartans/c/co/coutts-80th/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 

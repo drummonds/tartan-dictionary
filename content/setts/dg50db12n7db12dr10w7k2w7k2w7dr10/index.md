@@ -6,6 +6,8 @@ This is the **Norham and Ladykirk** sett — one scale-free proportion (`dg50db1
 [BWKWKWBBBBG](/stripes/bwkwkwbbbbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Norham and Ladykirk](/tartans/n/no/norham-and-ladykirk-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

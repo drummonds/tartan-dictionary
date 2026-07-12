@@ -6,7 +6,7 @@ This is the **Cowan of Inveresk Family Tartan** sett — one scale-free proporti
 [GBKBKWGR](/stripes/gbkbkwgr/). It is recorded as a single **variant**, below.
 First attested **1979**.
 
-Part of the [Cowan of Inveresk](/tartans/cowan-of-inveresk/) tartan — the named design grouping this sett with its kin.
+Part of the [Cowan of Inveresk](/tartans/c/co/cowan-of-inveresk/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

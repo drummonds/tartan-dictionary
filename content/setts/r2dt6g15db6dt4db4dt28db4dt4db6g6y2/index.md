@@ -6,6 +6,8 @@ This is the **Los Angeles Police Bagpipe Band** sett — one scale-free proporti
 [GGBBBBBBBGBR](/stripes/ggbbbbbbbgbr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Los Angeles Police Bagpipe Band](/tartans/l/lo/los-angeles-police-bagpipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

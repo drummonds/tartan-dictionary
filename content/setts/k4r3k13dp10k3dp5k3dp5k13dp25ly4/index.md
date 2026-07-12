@@ -6,6 +6,8 @@ This is the **Caledonian Orient (Corporate)** sett — one scale-free proportion
 [KRKBKBKBKBY](/stripes/krkbkbkbkby/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Caledonian Orient](/tartans/c/ca/caledonian-orient/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

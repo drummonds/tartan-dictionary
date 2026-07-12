@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Grand Lodge of Canada"
-  url: "/tartans/grand-lodge-of-canada/"
+  url: "/tartans/g/gr/grand-lodge-of-canada/"
 - name: "Grand Lodge of Canada (Corporate)"
   url: "/setts/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKRBRKGKRKBRKRKRBKRKGKRBRKWKRKW](/stripes/krkwkrbrkgkrkbrkrkrbkrkgkrbrkwkrkw/).
 
-Part of the [Grand Lodge of Canada](/tartans/grand-lodge-of-canada/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Grand Lodge of Canada](/tartans/g/gr/grand-lodge-of-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 

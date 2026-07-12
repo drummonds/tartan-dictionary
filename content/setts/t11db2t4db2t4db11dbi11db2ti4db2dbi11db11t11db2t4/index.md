@@ -6,6 +6,8 @@ This is the **William Murdoch (Scottish Gas) Corporate Tartan** sett — one sca
 [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [William Murdoch](/tartans/w/wi/william-murdoch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Brough (Name)** sett — one scale-free proportion (`dr18db12w2db1
 [BBWBGBG](/stripes/bbwbgbg/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Brough](/tartans/b/br/brough-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

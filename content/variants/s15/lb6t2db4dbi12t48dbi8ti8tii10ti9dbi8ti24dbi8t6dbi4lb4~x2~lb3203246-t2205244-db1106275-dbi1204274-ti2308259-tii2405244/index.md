@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ferring Pharmaceuticals"
+  url: "/tartans/f/fe/ferring-pharmaceuticals/"
+- name: "Ferring Pharmaceuticals"
   url: "/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
+
+Part of the [Ferring Pharmaceuticals](/tartans/f/fe/ferring-pharmaceuticals/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

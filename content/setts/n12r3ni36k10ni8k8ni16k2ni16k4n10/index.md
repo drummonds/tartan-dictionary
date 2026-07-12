@@ -6,6 +6,8 @@ This is the **Bute Heather, Midnight (Fashion)** sett — one scale-free proport
 [BKBKBKBKBRB](/stripes/bkbkbkbkbrb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Bute Heather, Midnight](/tartans/b/bu/bute-heather-midnight-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

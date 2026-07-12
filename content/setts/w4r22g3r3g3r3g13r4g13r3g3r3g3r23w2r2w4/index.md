@@ -6,6 +6,8 @@ This is the **Rothesay, Duke of** sett — one scale-free proportion (`w4r22g3r3
 [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Duke of Rothesay](/tartans/d/du/duke-of-rothesay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

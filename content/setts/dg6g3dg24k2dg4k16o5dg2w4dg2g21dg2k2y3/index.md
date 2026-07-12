@@ -6,6 +6,8 @@ This is the **Celtic F.C.** sett — one scale-free proportion (`dg6g3dg24k2dg4k
 [GGGKGKRGWGGGKG](/stripes/gggkgkrgwgggkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Celtic F.C.](/tartans/c/ce/celtic-f-c-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

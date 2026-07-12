@@ -6,6 +6,8 @@ This is the **Canadian Shield (Personal)** sett — one scale-free proportion (`
 [BGBRGYG](/stripes/bgbrgyg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Canadian Shield](/tartans/c/ca/canadian-shield/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

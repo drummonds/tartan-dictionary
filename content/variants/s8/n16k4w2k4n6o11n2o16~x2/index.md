@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sydney"
-  url: "/tartans/sydney/"
+  url: "/tartans/s/sy/sydney/"
 - name: "Sydney (Nova Scotia) (District)"
   url: "/setts/n16k4w2k4n6o11n2o16/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/n16k4w2k4n6o11n2o16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBRBR](/stripes/bkwkbrbr/).
 
-Part of the [Sydney](/tartans/sydney/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sydney](/tartans/s/sy/sydney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

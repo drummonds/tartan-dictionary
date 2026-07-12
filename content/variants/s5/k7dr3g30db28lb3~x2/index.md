@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Highlander Highland Laddie"
+  url: "/tartans/h/hi/highlander-highland-laddie/"
+- name: "Highlander Highland Laddie"
   url: "/setts/k7dr3g30db28lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7dr3g30db28lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBW](/stripes/kbgbw/).
+
+Part of the [Highlander Highland Laddie](/tartans/h/hi/highlander-highland-laddie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

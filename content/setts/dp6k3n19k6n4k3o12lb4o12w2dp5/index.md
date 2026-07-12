@@ -6,6 +6,8 @@ This is the **Scotland Forever Antique (Fashion)** sett — one scale-free propo
 [BKBKBKRWRWB](/stripes/bkbkbkrwrwb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Scotland Forever Antique](/tartans/s/sc/scotland-forever-antique/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

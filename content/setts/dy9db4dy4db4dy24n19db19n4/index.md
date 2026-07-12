@@ -6,7 +6,7 @@ This is the **Chindecella Gorse (Kemete Heil)** sett — one scale-free proporti
 [BBBGBGBG](/stripes/bbbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Chindecella Gorse](/tartans/chindecella-gorse/) tartan — the named design grouping this sett with its kin.
+Part of the [Chindecella Gorse](/tartans/c/ch/chindecella-gorse/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Talladale** sett — one scale-free proportion (`o18dt2o2dt2o2dt14
 [RBRBRBBY](/stripes/rbrbrbby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Talladale](/tartans/t/ta/talladale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

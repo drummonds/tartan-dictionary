@@ -6,6 +6,8 @@ This is the **Bell, Siobhan (Personal)** sett — one scale-free proportion (`k1
 [BKBKBKBGRK](/stripes/bkbkbkbgrk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bell, Siobhan](/tartans/b/be/bell-siobhan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

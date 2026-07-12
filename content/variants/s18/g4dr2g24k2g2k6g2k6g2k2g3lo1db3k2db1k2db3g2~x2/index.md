@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hyslop Hunting"
+  url: "/tartans/h/hy/hyslop-hunting/"
 - name: "Hyslop Hunting (Name)"
   url: "/setts/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGKGKGKGKGYBKBKBG](/stripes/gbgkgkgkgkgybkbkbg/).
+
+Part of the [Hyslop Hunting](/tartans/h/hy/hyslop-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Little Hunting** sett — one scale-free proportion (`db5dbi3db4db
 [BBBBBKBR](/stripes/bbbbbkbr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Little Hunting](/tartans/l/li/little-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

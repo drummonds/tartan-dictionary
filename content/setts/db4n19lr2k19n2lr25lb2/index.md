@@ -6,6 +6,8 @@ This is the **Ritchie, Stephen James (Personal)** sett — one scale-free propor
 [BBYKBYW](/stripes/bbykbyw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Ritchie, Stephen James](/tartans/r/ri/ritchie-stephen-james/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Justus dress"
+  url: "/tartans/j/ju/justus-dress-2/"
+- name: "Justus dress"
   url: "/setts/db1w4r1w1y1w4db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1w4r1w1y1w4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGWRWB](/stripes/bwgwrwb/).
+
+Part of the [Justus dress](/tartans/j/ju/justus-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

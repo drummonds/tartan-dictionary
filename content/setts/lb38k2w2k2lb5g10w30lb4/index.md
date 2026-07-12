@@ -6,6 +6,8 @@ This is the **Longniddry Turquoise (Dance)** sett — one scale-free proportion 
 [WKWKWGWW](/stripes/wkwkwgww/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Longniddry Turquoise](/tartans/l/lo/longniddry-turquoise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

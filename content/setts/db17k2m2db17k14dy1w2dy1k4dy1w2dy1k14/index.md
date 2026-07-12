@@ -6,6 +6,8 @@ This is the **Presley of Lonmay #2** sett — one scale-free proportion (`db17k2
 [BKRBKGWGKGWGK](/stripes/bkrbkgwgkgwgk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Presley of Lonmay](/tartans/p/pr/presley-of-lonmay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

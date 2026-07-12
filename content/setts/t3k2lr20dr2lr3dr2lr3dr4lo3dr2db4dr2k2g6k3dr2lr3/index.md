@@ -6,6 +6,8 @@ This is the **Innes Dress, Red (Dance)** sett — one scale-free proportion (`t3
 [BKYBYBYBYBBBKGKBY](/stripes/bkybybybybbbkgkby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Innes Dress](/tartans/i/in/innes-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

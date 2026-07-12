@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dryer"
+  url: "/tartans/d/dr/dryer/"
 - name: "Dryer (Personal)"
   url: "/setts/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKBKBKG](/stripes/bkbkbkbkgkbkbkg/).
+
+Part of the [Dryer](/tartans/d/dr/dryer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

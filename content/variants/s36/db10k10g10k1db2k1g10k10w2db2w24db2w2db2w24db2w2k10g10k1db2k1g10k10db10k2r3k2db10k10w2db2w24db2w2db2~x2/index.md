@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Cawdor"
+  url: "/families/campbell-of-cawdor/"
+- name: "Campbell of Cawdor Dress"
+  url: "/tartans/c/ca/campbell-of-cawdor-dress/"
 - name: "Campbell of Cawdor Dress Trade Tartan"
   url: "/setts/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB](/stripes/bkgkbkgkwbwbwbwbwkgkbkgkbkrkbkwbwbwb/).
+
+Part of the [Campbell of Cawdor Dress](/tartans/c/ca/campbell-of-cawdor-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
 

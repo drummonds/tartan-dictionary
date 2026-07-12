@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wood Dress"
+  url: "/tartans/w/wo/wood-dress/"
+- name: "Wood Dress"
   url: "/setts/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGBRGRGRGRGRBGKGKWK](/stripes/kgkgkgbrgrgrgrgrbgkgkwk/).
+
+Part of the [Wood Dress](/tartans/w/wo/wood-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

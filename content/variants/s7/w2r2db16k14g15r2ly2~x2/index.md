@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Council of Scottish Clans & Ass."
+  url: "/tartans/c/co/council-of-scottish-clans-ass/"
 - name: "Council of Scottish Clans & Ass. (Co"
   url: "/setts/w2r2db16k14g15r2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2r2db16k14g15r2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBKGRY](/stripes/wrbkgry/).
+
+Part of the [Council of Scottish Clans & Ass.](/tartans/c/co/council-of-scottish-clans-ass/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

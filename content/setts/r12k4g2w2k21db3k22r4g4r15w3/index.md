@@ -6,7 +6,7 @@ This is the **MacDonald, Sir John A.** sett — one scale-free proportion (`r12k
 [RKGWKBKRGRW](/stripes/rkgwkbkrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacDonald, Sir John A](/tartans/macdonald-sir-john-a/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald, Sir John A](/tartans/m/ma/macdonald-sir-john-a/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

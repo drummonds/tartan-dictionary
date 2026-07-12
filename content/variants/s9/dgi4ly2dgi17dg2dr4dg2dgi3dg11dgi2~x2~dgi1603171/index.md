@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Armagh, County"
+  url: "/tartans/a/ar/armagh-county/"
+- name: "Armagh, County"
   url: "/setts/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBGGYG](/stripes/ggggbggyg/).
+
+Part of the [Armagh, County](/tartans/a/ar/armagh-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

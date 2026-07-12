@@ -6,6 +6,8 @@ This is the **Fraser** sett — one scale-free proportion (`w2r28w2r6w2g21w2g21w
 [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Fraser](/tartans/f/fr/fraser/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

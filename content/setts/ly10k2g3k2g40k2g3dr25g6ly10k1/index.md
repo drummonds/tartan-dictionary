@@ -6,6 +6,8 @@ This is the **MacMillan Anc (Clans Originaux)** sett — one scale-free proporti
 [KYGBGKGKGKY](/stripes/kygbgkgkgky/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [MacMillan Anc](/tartans/m/ma/macmillan-anc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

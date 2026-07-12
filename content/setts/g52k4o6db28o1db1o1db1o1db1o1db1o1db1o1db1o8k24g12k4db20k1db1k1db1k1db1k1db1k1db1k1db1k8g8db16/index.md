@@ -6,6 +6,8 @@ This is the **13, Centennial Warp** sett — one scale-free proportion (`g52k4o6
 [BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG](/stripes/bgkbkbkbkbkbkbkbkgkrbrbrbrbrbrbrbrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [13, Centennial Warp](/tartans/0-9/0-9/13-centennial-warp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

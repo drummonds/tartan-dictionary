@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Irving"
+  url: "/clan/irving/"
+- name: "Irving of Bonshaw Tower"
+  url: "/families/irving-of-bonshaw-tower/"
+- name: "Irving of Bonshaw Tower"
+  url: "/tartans/i/ir/irving-of-bonshaw-tower/"
 - name: "Irving of Bonshaw Tower"
   url: "/setts/r1g1k1g9db9w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1g1k1g9db9w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGBW](/stripes/rgkgbw/).
+
+Part of the [Irving of Bonshaw Tower](/tartans/i/ir/irving-of-bonshaw-tower/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

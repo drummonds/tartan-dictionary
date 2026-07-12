@@ -6,6 +6,8 @@ This is the **Unidentified (Woven sample)** sett — one scale-free proportion (
 [GRGRGBRWGWR](/stripes/grgrgbrwgwr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-35/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

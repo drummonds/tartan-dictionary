@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Discover Islay"
+  url: "/tartans/d/di/discover-islay/"
 - name: "Discover Islay (District)"
   url: "/setts/dp6y1dp20db6g19dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6y1dp20db6g19dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBGB](/stripes/bgbbgb/).
+
+Part of the [Discover Islay](/tartans/d/di/discover-islay/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

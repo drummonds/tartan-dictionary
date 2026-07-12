@@ -6,6 +6,8 @@ This is the **Lochaber Old.. District Tartan** sett — one scale-free proportio
 [BRBRBWB](/stripes/brbrbwb/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
+Part of the [Lochaber Old](/tartans/l/lo/lochaber-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

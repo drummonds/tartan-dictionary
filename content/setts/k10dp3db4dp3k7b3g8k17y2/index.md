@@ -6,6 +6,8 @@ This is the **Ayrshire Tourist Board** sett — one scale-free proportion (`k10d
 [GKGBKBBBK](/stripes/gkgbkbbbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ayrshire Tourist Board](/tartans/a/ay/ayrshire-tourist-board/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

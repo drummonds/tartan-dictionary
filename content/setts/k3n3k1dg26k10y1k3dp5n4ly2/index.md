@@ -6,6 +6,8 @@ This is the **Rikaco Heirloom** sett — one scale-free proportion (`k3n3k1dg26k
 [KBKGKGKBBY](/stripes/kbkgkgkbby/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Rikaco Heirloom](/tartans/r/ri/rikaco-heirloom-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

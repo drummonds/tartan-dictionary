@@ -6,6 +6,8 @@ This is the **Starr (1978) (Name)** sett — one scale-free proportion (`k2r4w1r
 [KRWRGRW](/stripes/krwrgrw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Starr](/tartans/s/st/starr-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

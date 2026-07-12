@@ -6,6 +6,8 @@ This is the **Louise** sett — one scale-free proportion (`g2k1db9k7g1k1g1k1g9r
 [GKBKGKGKGRG](/stripes/gkbkgkgkgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Louise](/tartans/l/lo/louise-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

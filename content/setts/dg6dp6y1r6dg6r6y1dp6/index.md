@@ -6,6 +6,8 @@ This is the **Wilson's No.223** sett — one scale-free proportion (`dg6dp6y1r6d
 [BGRGRGBG](/stripes/bgrgrgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wilson's No.223](/tartans/w/wi/wilson-s-no-223/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

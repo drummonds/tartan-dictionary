@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chaudhri"
+  url: "/tartans/c/ch/chaudhri/"
 - name: "Chaudhri (Name)"
   url: "/setts/dp13r8w5dg24w5r10w5r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp13r8w5dg24w5r10w5r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWGWRWR](/stripes/brwgwrwr/).
+
+Part of the [Chaudhri](/tartans/c/ch/chaudhri/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

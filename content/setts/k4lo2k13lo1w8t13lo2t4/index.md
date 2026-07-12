@@ -6,7 +6,7 @@ This is the **Bannockbane Blue #1** sett — one scale-free proportion (`k4lo2k1
 [BYBWYKYK](/stripes/bybwykyk/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
-Part of the [Bannockbane](/tartans/bannockbane-9/) tartan — the named design grouping this sett with its kin.
+Part of the [Bannockbane](/tartans/b/ba/bannockbane-9/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

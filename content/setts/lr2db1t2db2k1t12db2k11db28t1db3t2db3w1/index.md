@@ -6,6 +6,8 @@ This is the **Northfield Academy Corporate Tartan** sett — one scale-free prop
 [WBBBBBKBBKBBBY](/stripes/wbbbbbkbbkbbby/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Northfield Academy](/tartans/n/no/northfield-academy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

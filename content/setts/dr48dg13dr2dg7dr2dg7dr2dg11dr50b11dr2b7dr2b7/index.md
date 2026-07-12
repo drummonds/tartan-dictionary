@@ -6,6 +6,8 @@ This is the **Unidentified Plaid 2** sett — one scale-free proportion (`dr48dg
 [BBBBBBGBGBGBGB](/stripes/bbbbbbgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Plaid 2](/tartans/u/un/unidentified-plaid-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rosie O'Grady"
+  url: "/tartans/r/ro/rosie-o-grady/"
 - name: "Rosie O'Grady (P&D) (Corporate)"
   url: "/setts/k35r6db6r6k16db48r36k6r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k35r6db6r6k16db48r36k6r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRKBRKR](/stripes/krbrkbrkr/).
+
+Part of the [Rosie O'Grady](/tartans/r/ro/rosie-o-grady/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

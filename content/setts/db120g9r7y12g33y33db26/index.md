@@ -6,7 +6,7 @@ This is the **Supporter.com** sett — one scale-free proportion (`db120g9r7y12g
 [BGGGRGB](/stripes/bgggrgb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Supporter.com](/tartans/supporter-com/) tartan — the named design grouping this sett with its kin.
+Part of the [Supporter.com](/tartans/s/su/supporter-com/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

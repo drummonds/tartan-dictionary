@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bundy, Dress"
+  url: "/tartans/b/bu/bundy-dress-2/"
 - name: "Bundy, Dress Red (Personal Dance)"
   url: "/setts/k1r1w1r15w15r1w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1r1w1r15w15r1w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRWRWK](/stripes/krwrwrwk/).
+
+Part of the [Bundy, Dress](/tartans/b/bu/bundy-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

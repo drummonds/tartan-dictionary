@@ -6,6 +6,8 @@ This is the **United States** sett — one scale-free proportion (`db7k5b6k5r7k2
 [BKBKRKBKB](/stripes/bkbkrkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [United States](/tartans/u/un/united-states-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

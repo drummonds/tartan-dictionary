@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Salem Scottish Dancers"
-  url: "/tartans/salem-scottish-dancers/"
+  url: "/tartans/s/sa/salem-scottish-dancers/"
 - name: "Salem Scottish Dancers (Dance) #2"
   url: "/setts/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
 
-Part of the [Salem Scottish Dancers](/tartans/salem-scottish-dancers/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Salem Scottish Dancers](/tartans/s/sa/salem-scottish-dancers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

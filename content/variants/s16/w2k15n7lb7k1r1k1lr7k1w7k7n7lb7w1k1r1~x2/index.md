@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Borders"
+  url: "/tartans/b/bo/borders/"
 - name: "Borders (Personal)"
   url: "/setts/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWWBKWKYKRKWBKW](/stripes/rkwwbkwkykrkwbkw/).
+
+Part of the [Borders](/tartans/b/bo/borders/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

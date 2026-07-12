@@ -6,6 +6,8 @@ This is the **Lothian Buses (Corporate?)** sett — one scale-free proportion (`
 [BRGRBW](/stripes/brgrbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Lothian Buses](/tartans/l/lo/lothian-buses/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

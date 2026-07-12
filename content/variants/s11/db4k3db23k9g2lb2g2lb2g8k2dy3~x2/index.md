@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Forth"
-  url: "/tartans/forth/"
+  url: "/tartans/f/fo/forth/"
 - name: "Forth"
   url: "/setts/db4k3db23k9g2lb2g2lb2g8k2dy3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4k3db23k9g2lb2g2lb2g8k2dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGWGWGKG](/stripes/bkbkgwgwgkg/).
 
-Part of the [Forth](/tartans/forth/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forth](/tartans/f/fo/forth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

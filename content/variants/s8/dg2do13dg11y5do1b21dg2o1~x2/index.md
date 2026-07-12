@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St Lawrence Trade"
+  url: "/tartans/s/st/st-lawrence-trade/"
+- name: "St Lawrence Trade"
   url: "/setts/dg2do13dg11y5do1b21dg2o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2do13dg11y5do1b21dg2o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGBBGR](/stripes/gbggbbgr/).
+
+Part of the [St Lawrence Trade](/tartans/s/st/st-lawrence-trade/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

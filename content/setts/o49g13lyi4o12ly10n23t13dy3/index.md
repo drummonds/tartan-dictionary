@@ -6,6 +6,8 @@ This is the **State Seal of Nevada (Fashion)** sett — one scale-free proportio
 [GBBYRYGR](/stripes/gbbyrygr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Nevada](/tartans/s/st/state-seal-of-nevada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

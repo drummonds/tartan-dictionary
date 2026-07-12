@@ -6,6 +6,8 @@ This is the **Furman University** sett — one scale-free proportion (`dp2w14k15
 [BWKBW](/stripes/bwkbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Furman University](/tartans/f/fu/furman-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

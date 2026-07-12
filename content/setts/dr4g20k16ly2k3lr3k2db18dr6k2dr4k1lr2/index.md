@@ -6,6 +6,8 @@ This is the **Galt, Alexander, Sir** sett — one scale-free proportion (`dr4g20
 [BGKYKYKBBKBKY](/stripes/bgkykykbbkbky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Galt, Alexander, Sir](/tartans/g/ga/galt-alexander-sir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

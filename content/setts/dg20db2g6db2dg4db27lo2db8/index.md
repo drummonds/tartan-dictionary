@@ -6,6 +6,8 @@ This is the **Kinross** sett — one scale-free proportion (`dg20db2g6db2dg4db27
 [BGBGBYBYBGBGBG](/stripes/bgbgbybybgbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kinross](/tartans/k/ki/kinross-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

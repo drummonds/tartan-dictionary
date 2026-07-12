@@ -6,6 +6,8 @@ This is the **Black Watch (Band Plaid)** sett — one scale-free proportion (`db
 [BRBRBRGRGRBRB](/stripes/brbrbrgrgrbrb/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Black Watch](/tartans/b/bl/black-watch-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

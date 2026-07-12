@@ -6,6 +6,8 @@ This is the **Hebrides South Uist #2** sett — one scale-free proportion (`db19
 [BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG](/stripes/bgggbggygggbggggwgwggggbgggyggbggg/). It is recorded as a single **variant**, below.
 First attested **1730**.
 
+Part of the [Hebrides South Uist](/tartans/h/he/hebrides-south-uist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

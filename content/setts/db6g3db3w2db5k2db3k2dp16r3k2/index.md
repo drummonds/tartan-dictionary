@@ -6,6 +6,8 @@ This is the **Pearl O' the Tay (Corporate)** sett — one scale-free proportion 
 [BGBWBKBKBRK](/stripes/bgbwbkbkbrk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Pearl O' The Tay](/tartans/p/pe/pearl-o-the-tay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

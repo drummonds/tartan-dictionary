@@ -6,6 +6,8 @@ This is the **Aberdeen Mither Kirk (St Nicholas)** sett — one scale-free propo
 [BBBGYBGBB](/stripes/bbbgybgbb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Aberdeen Mither Kirk](/tartans/a/ab/aberdeen-mither-kirk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

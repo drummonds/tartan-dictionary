@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Meeson Hunting"
+  url: "/tartans/m/me/meeson-hunting/"
+- name: "Meeson Hunting"
   url: "/setts/k26n10dt19dr6dy2db9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k26n10dt19dr6dy2db9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBK](/stripes/bgbbbk/).
+
+Part of the [Meeson Hunting](/tartans/m/me/meeson-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

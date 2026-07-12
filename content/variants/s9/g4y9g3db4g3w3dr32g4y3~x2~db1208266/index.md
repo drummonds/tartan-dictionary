@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Antrim County, Crest Range"
+  url: "/tartans/a/an/antrim-county-crest-range/"
+- name: "Antrim County, Crest Range"
   url: "/setts/g4y9g3db4g3w3dr32g4y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4y9g3db4g3w3dr32g4y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWGBGGG](/stripes/ggbwgbggg/).
+
+Part of the [Antrim County, Crest Range](/tartans/a/an/antrim-county-crest-range/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

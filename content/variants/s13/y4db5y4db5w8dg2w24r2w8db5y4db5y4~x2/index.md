@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Aelfleda Arisaid"
-  url: "/tartans/aelfleda-arisaid/"
+  url: "/tartans/a/ae/aelfleda-arisaid/"
 - name: "Aelfleda Arisaid (Personal)"
   url: "/setts/y4db5y4db5w8dg2w24r2w8db5y4db5y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y4db5y4db5w8dg2w24r2w8db5y4db5y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBWGWRWBGBG](/stripes/gbgbwgwrwbgbg/).
 
-Part of the [Aelfleda Arisaid](/tartans/aelfleda-arisaid/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Aelfleda Arisaid](/tartans/a/ae/aelfleda-arisaid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

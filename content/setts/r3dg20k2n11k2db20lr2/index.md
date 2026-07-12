@@ -6,7 +6,7 @@ This is the **Grandfather Mountain Games (District** sett — one scale-free pro
 [RGKBKBY](/stripes/rgkbkby/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [Grandfather Mountain Games](/tartans/grandfather-mountain-games/) tartan — the named design grouping this sett with its kin.
+Part of the [Grandfather Mountain Games](/tartans/g/gr/grandfather-mountain-games/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

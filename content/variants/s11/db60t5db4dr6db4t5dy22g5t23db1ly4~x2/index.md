@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of New York"
+  url: "/tartans/s/st/state-seal-of-new-york/"
 - name: "State Seal of New York (Fashion)"
   url: "/setts/db60t5db4dr6db4t5dy22g5t23db1ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db60t5db4dr6db4t5dy22g5t23db1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGGBBY](/stripes/bbbbbbggbby/).
+
+Part of the [State Seal of New York](/tartans/s/st/state-seal-of-new-york/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

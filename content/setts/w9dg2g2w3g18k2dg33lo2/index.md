@@ -6,6 +6,8 @@ This is the **New World Irish (Fashion)** sett — one scale-free proportion (`w
 [WGGWGKGY](/stripes/wggwgkgy/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [New World Irish](/tartans/n/ne/new-world-irish-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

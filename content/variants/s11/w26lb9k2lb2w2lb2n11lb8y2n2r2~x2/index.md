@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manchester Blues Dress"
+  url: "/tartans/m/ma/manchester-blues-dress-2/"
 - name: "Manchester Blues Dress (Comm)"
   url: "/setts/w26lb9k2lb2w2lb2n11lb8y2n2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w26lb9k2lb2w2lb2n11lb8y2n2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGWBWWWKWW](/stripes/rbgwbwwwkww/).
+
+Part of the [Manchester Blues Dress](/tartans/m/ma/manchester-blues-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

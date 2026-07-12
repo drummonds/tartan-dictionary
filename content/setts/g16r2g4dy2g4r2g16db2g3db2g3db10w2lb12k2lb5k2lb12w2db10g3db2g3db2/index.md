@@ -6,6 +6,8 @@ This is the **O'Sullivan McCragh Family Tartan** sett — one scale-free proport
 [BGBGBWWKWKWWBGBGBGRGGGRG](/stripes/bgbgbwwkwkwwbgbgbgrgggrg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [O'Sullivan McCragh](/tartans/o/o/o-sullivan-mccragh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

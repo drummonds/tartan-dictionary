@@ -6,7 +6,7 @@ This is the **Drambuie Hunting** sett — one scale-free proportion (`ly6do36k48
 [YBKRKY](/stripes/ybkrky/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
-Part of the [Drambuie Hunting](/tartans/drambuie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Drambuie Hunting](/tartans/d/dr/drambuie-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

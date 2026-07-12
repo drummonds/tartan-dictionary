@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buckleigh Dress"
+  url: "/tartans/b/bu/buckleigh-dress/"
 - name: "Buckleigh Dress (Fashion)"
   url: "/setts/k3r1k1w20k10r2k2w2k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r1k1w20k10r2k2w2k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKRKWKR](/stripes/krkwkrkwkr/).
+
+Part of the [Buckleigh Dress](/tartans/b/bu/buckleigh-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

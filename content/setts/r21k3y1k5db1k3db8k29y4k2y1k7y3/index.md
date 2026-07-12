@@ -6,6 +6,8 @@ This is the **(5) Ruxton** sett — one scale-free proportion (`r21k3y1k5db1k3db
 [GKGKGKBKBKKGKR](/stripes/gkgkgkbkbkkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ruxton](/tartans/r/ru/ruxton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

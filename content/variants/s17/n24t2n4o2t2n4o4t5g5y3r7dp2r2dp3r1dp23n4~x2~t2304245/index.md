@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's Grace"
+  url: "/tartans/s/sc/scotland-s-grace/"
+- name: "Scotland's Grace"
   url: "/setts/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n24t2n4o2t2n4o4t5g5y3r7dp2r2dp3r1dp23n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRBBRBGGRBRBRBB](/stripes/bbbrbbrbggrbrbrbb/).
+
+Part of the [Scotland's Grace](/tartans/s/sc/scotland-s-grace/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

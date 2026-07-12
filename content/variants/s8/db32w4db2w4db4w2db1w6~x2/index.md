@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies Navy design"
+  url: "/tartans/m/me/menzies-navy-design/"
 - name: "Menzies Navy design Tartan"
   url: "/setts/db32w4db2w4db4w2db1w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db32w4db2w4db4w2db1w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBW](/stripes/bwbwbwbw/).
+
+Part of the [Menzies Navy design](/tartans/m/me/menzies-navy-design/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

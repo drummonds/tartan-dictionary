@@ -6,6 +6,8 @@ This is the **Duncan of Sketraw** sett — one scale-free proportion (`r2k6g2k2g
 [BKGKWKBRBKGKGKGKR](/stripes/bkgkwkbrbkgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Duncan of Sketraw](/tartans/d/du/duncan-of-sketraw/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

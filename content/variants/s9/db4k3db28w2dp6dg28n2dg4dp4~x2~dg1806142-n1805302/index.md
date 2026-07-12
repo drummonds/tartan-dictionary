@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canmore"
+  url: "/tartans/c/ca/canmore/"
+- name: "Canmore"
   url: "/setts/db4k3db28w2dp6dg28n2dg4dp4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k3db28w2dp6dg28n2dg4dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBWBKB](/stripes/bgbgbwbkb/).
+
+Part of the [Canmore](/tartans/c/ca/canmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

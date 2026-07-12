@@ -6,6 +6,8 @@ This is the **MacBrine (Name)** sett — one scale-free proportion (`k4r6g8r16k6
 [GGKBKBKRGRK](/stripes/ggkbkbkrgrk/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [MacBrine](/tartans/m/ma/macbrine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

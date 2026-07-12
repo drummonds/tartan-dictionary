@@ -6,6 +6,8 @@ This is the **L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy*
 [GKGWGWBW](/stripes/gkgwgwbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/tartans/l/l/l-abeille-du-cercle-de-fermi-res-sainte-genevi-ve-de-sainte-foy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

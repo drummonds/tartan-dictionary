@@ -7,6 +7,8 @@ This is the **Anstey (Personal)** sett — one scale-free proportion (`w6db6w3db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2010**.
 
+Part of the [Anstey](/tartans/a/an/anstey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

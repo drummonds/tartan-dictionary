@@ -6,6 +6,8 @@ This is the **George Brown Family Tartan** sett — one scale-free proportion (`
 [GBKRGRKRW](/stripes/gbkrgrkrw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [George](/tartans/g/ge/george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

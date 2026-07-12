@@ -6,6 +6,8 @@ This is the **Justus Yellow & Black (Personal)** sett — one scale-free proport
 [GKGKGKGKGKGKGKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgkgkgkgkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Justus Yellow &](/tartans/j/ju/justus-yellow/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

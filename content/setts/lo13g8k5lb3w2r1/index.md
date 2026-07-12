@@ -7,6 +7,8 @@ This is the **Ball Hunting** sett — one scale-free proportion (`lo13g8k5lb3w2r
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2004**.
 
+Part of the [Ball Hunting](/tartans/b/ba/ball-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

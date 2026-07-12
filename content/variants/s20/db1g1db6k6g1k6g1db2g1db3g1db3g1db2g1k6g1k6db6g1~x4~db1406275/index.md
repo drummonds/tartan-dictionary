@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cargill"
+  url: "/tartans/c/ca/cargill/"
 - name: "Cargill Clan/Family Tartan"
   url: "/setts/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKGBGBGBGBGKGKBG](/stripes/bgbkgkgbgbgbgbgkgkbg/).
+
+Part of the [Cargill](/tartans/c/ca/cargill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

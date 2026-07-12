@@ -6,6 +6,8 @@ This is the **Earthrise** sett — one scale-free proportion (`k4dt6k4n4dt29n6k6
 [KBKBBBKBKBBW](/stripes/kbkbbbkbkbbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Earthrise](/tartans/e/ea/earthrise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

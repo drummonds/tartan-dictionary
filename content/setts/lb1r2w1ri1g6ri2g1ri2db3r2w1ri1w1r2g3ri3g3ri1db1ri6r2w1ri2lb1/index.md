@@ -7,6 +7,8 @@ This is the **MacDougall 8** sett — one scale-free proportion (`lb1r2w1ri1g6ri
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [MacDougall 8](/tartans/m/ma/macdougall-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Euler Hermes** sett — one scale-free proportion (`t86dg6k24dy6lo
 [BGKGYGRWKGBGBKG](/stripes/bgkgygrwkgbgbkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Euler Hermes](/tartans/e/eu/euler-hermes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

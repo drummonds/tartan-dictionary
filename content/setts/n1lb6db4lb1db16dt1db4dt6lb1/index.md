@@ -6,6 +6,8 @@ This is the **Fujisankei Serene** sett — one scale-free proportion (`n1lb6db4l
 [BWBWBBBBW](/stripes/bwbwbbbbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Fujisankei Serene](/tartans/f/fu/fujisankei-serene-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

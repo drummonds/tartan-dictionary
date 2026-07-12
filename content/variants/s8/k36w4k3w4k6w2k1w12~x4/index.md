@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Menzies"
   url: "/clan/menzies/"
 - name: "Menzies"
-  url: "/tartans/menzies-5/"
+  url: "/tartans/m/me/menzies-5/"
 - name: "Menzies (1938)"
   url: "/setts/k36w4k3w4k6w2k1w12/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k36w4k3w4k6w2k1w12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
-Part of the [Menzies](/tartans/menzies-5/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Menzies](/tartans/m/me/menzies-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

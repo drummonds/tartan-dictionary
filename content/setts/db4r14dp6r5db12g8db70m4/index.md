@@ -6,6 +6,8 @@ This is the **Loretto School** sett — one scale-free proportion (`db4r14dp6r5d
 [BRBRBGBR](/stripes/brbrbgbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Loretto School](/tartans/l/lo/loretto-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

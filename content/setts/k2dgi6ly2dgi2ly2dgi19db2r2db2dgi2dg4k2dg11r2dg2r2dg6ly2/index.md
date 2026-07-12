@@ -6,7 +6,7 @@ This is the **Harmon Hunting Personal Tartan** sett — one scale-free proportio
 [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Harmon Hunting](/tartans/harmon-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Harmon Hunting](/tartans/h/ha/harmon-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

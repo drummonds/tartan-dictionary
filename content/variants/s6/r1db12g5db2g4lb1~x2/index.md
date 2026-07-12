@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connaught"
+  url: "/tartans/c/co/connaught/"
 - name: "Connaught Green"
   url: "/setts/r1db12g5db2g4lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1db12g5db2g4lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBGW](/stripes/rbgbgw/).
+
+Part of the [Connaught](/tartans/c/co/connaught/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

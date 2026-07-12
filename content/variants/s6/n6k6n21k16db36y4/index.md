@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bareback"
+  url: "/tartans/b/ba/bareback/"
 - name: "Bareback (Corporate)"
   url: "/setts/n6k6n21k16db36y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n6k6n21k16db36y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBG](/stripes/bkbkbg/).
+
+Part of the [Bareback](/tartans/b/ba/bareback/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

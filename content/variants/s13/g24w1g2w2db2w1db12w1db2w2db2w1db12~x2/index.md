@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonald, Lord of the Isles Hunting"
-  url: "/tartans/macdonald-lord-of-the-isles-hunting-2/"
+  url: "/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/"
 - name: "MacDonald Lord of the Isles Hunting"
   url: "/setts/g24w1g2w2db2w1db12w1db2w2db2w1db12/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g24w1g2w2db2w1db12w1db2w2db2w1db12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
-Part of the [MacDonald, Lord of the Isles Hunting](/tartans/macdonald-lord-of-the-isles-hunting-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald, Lord of the Isles Hunting](/tartans/m/ma/macdonald-lord-of-the-isles-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

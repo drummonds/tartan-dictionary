@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bhoyrub"
-  url: "/tartans/bhoyrub/"
+  url: "/tartans/b/bh/bhoyrub/"
 - name: "Bhoyrub (Personal)"
   url: "/setts/t20g3dy3t3r7g6t3k12t3k3t24w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t20g3dy3t3r7g6t3k12t3k3t24w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBRGBKBKBW](/stripes/bggbrgbkbkbw/).
 
-Part of the [Bhoyrub](/tartans/bhoyrub/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bhoyrub](/tartans/b/bh/bhoyrub/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

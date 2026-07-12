@@ -6,6 +6,8 @@ This is the **MacIntosh (Moy Hall Plaid)** sett — one scale-free proportion (`
 [BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrkrbrbrbrbrkrgrbrbrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacIntosh](/tartans/m/ma/macintosh-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

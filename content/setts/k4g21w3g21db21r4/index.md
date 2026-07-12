@@ -7,6 +7,8 @@ This is the **Duncan** sett — one scale-free proportion (`k4g21w3g21db21r4`), 
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1880**.
 
+Part of the [Duncan](/tartans/d/du/duncan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Stewart/Stuart Dress (Four red lines)** sett — one scale-free pr
 [RKRGWBYBKWRWRWRWRWKBYBWGRKRW](/stripes/rkrgwbybkwrwrwrwrwkbybwgrkrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Stewart/Stuart Dress](/tartans/s/st/stewart-stuart-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

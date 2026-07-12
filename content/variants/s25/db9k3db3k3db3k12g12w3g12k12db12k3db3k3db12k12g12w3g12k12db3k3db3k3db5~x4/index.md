@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lamont"
+  url: "/tartans/l/la/lamont/"
+- name: "Lamont"
   url: "/setts/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGWGKBKBKBKGWGKBKBKB](/stripes/bkbkbkgwgkbkbkbkgwgkbkbkb/).
+
+Part of the [Lamont](/tartans/l/la/lamont/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from logan-1831.  It is a [25 stripe tartan](/stripes/stripes25/).
 

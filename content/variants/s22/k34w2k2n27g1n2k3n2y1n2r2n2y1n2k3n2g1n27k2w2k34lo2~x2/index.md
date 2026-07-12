@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
+- name: "West Lothian Woolen Mill"
+  url: "/tartans/w/we/west-lothian-woolen-mill/"
 - name: "West Lothian Woolen Mill"
   url: "/setts/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKBGBKBGBRBGBKBGBKWKY](/stripes/kwkbgbkbgbrbgbkbgbkwky/).
+
+Part of the [West Lothian Woolen Mill](/tartans/w/we/west-lothian-woolen-mill/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

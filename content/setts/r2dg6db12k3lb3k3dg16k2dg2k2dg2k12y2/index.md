@@ -6,7 +6,7 @@ This is the **MacInnes (Clan)** sett — one scale-free proportion (`r2dg6db12k3
 [GKGKGKGKWKBGR](/stripes/gkgkgkgkwkbgr/). It is recorded as a single **variant**, below.
 First attested **1908**.
 
-Part of the [MacInnes](/tartans/macinnes-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInnes](/tartans/m/ma/macinnes-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

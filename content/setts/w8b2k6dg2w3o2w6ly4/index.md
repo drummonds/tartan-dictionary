@@ -6,6 +6,8 @@ This is the **MacLaren Albino (Dance)** sett — one scale-free proportion (`w8b
 [WBKGWRWY](/stripes/wbkgwrwy/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [MacLaren Albino](/tartans/m/ma/maclaren-albino/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

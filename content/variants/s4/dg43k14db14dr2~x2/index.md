@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Feddinch Club, St Andrews"
+  url: "/tartans/f/fe/feddinch-club-st-andrews/"
 - name: "Feddinch Club, St Andrews Limited, The"
   url: "/setts/dg43k14db14dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg43k14db14dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKG](/stripes/bbkg/).
+
+Part of the [Feddinch Club, St Andrews](/tartans/f/fe/feddinch-club-st-andrews/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

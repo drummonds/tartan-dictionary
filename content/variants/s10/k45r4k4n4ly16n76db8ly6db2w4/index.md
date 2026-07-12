@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Gathering"
+  url: "/tartans/h/hi/highland-gathering/"
 - name: "Highland Gathering (Fashion?)"
   url: "/setts/k45r4k4n4ly16n76db8ly6db2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k45r4k4n4ly16n76db8ly6db2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBYBBYBW](/stripes/krkbybbybw/).
+
+Part of the [Highland Gathering](/tartans/h/hi/highland-gathering/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

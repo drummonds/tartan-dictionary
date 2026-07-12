@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black Camel"
+  url: "/tartans/b/bl/black-camel/"
 - name: "Black Camel Tartan"
   url: "/setts/k160w6k2w3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k160w6k2w3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWK](/stripes/kwkwk/).
+
+Part of the [Black Camel](/tartans/b/bl/black-camel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

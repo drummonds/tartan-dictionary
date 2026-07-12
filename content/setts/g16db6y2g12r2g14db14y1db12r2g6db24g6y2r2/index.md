@@ -6,7 +6,7 @@ This is the **Platt** sett — one scale-free proportion (`g16db6y2g12r2g14db14y
 [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/). It is recorded as a single **variant**, below.
 First attested **1900**.
 
-Part of the [Platt](/tartans/platt/) tartan — the named design grouping this sett with its kin.
+Part of the [Platt](/tartans/p/pl/platt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

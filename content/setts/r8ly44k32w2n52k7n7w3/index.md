@@ -6,6 +6,8 @@ This is the **Golden Wedding (Fashion)** sett — one scale-free proportion (`r8
 [RYKWBKBW](/stripes/rykwbkbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Golden Wedding](/tartans/g/go/golden-wedding/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saks Fifth Avenue"
+  url: "/tartans/s/sa/saks-fifth-avenue/"
 - name: "Saks Fifth Avenue (Corp)"
   url: "/setts/w24k16w1k16w3k8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w24k16w1k16w3k8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWKW](/stripes/wkwkwkw/).
+
+Part of the [Saks Fifth Avenue](/tartans/s/sa/saks-fifth-avenue/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

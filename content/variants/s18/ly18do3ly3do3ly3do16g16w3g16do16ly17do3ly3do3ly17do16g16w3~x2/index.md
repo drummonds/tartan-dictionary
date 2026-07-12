@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lamont Heather"
+  url: "/tartans/l/la/lamont-heather/"
+- name: "Lamont Heather"
   url: "/setts/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/).
+
+Part of the [Lamont Heather](/tartans/l/la/lamont-heather/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,6 +6,8 @@ This is the **Ross Purple Dress Tartan** sett — one scale-free proportion (`dp
 [BRBRBKBKWRWR](/stripes/brbrbkbkwrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ross Purple Dress](/tartans/r/ro/ross-purple-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

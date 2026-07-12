@@ -6,6 +6,8 @@ This is the **Newlands Family Tartan** sett — one scale-free proportion (`db9k
 [BKBRKGRGRG](/stripes/bkbrkgrgrg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Newlands](/tartans/n/ne/newlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

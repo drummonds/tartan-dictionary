@@ -6,6 +6,8 @@ This is the **Hay-Gray (Personal)** sett — one scale-free proportion (`do18k2d
 [BKBKBGGGBKBKBR](/stripes/bkbkbgggbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Hay-Gray](/tartans/h/ha/hay-gray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

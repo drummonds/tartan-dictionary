@@ -6,6 +6,8 @@ This is the **MacDonell of Glengarry #4** sett — one scale-free proportion (`g
 [GRGRBRGRGRG](/stripes/grgrbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDonell of Glengarry](/tartans/m/ma/macdonell-of-glengarry-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

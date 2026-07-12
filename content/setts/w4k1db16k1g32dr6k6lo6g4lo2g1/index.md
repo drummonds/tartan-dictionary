@@ -6,6 +6,8 @@ This is the **Zambia** sett — one scale-free proportion (`w4k1db16k1g32dr6k6lo
 [GYGYKBGKBKW](/stripes/gygykbgkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Zambia](/tartans/z/za/zambia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

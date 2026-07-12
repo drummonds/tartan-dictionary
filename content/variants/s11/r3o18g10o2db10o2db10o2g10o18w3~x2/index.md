@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser hunting"
+  url: "/tartans/f/fr/fraser-hunting-5/"
 - name: "Fraser hunting"
   url: "/setts/r3o18g10o2db10o2db10o2g10o18w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3o18g10o2db10o2db10o2g10o18w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRGRBRBRGRW](/stripes/rrgrbrbrgrw/).
+
+Part of the [Fraser hunting](/tartans/f/fr/fraser-hunting-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

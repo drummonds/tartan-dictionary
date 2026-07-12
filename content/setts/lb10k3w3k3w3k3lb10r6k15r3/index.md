@@ -6,6 +6,8 @@ This is the **Edinburgh, City of** sett — one scale-free proportion (`lb10k3w3
 [RKRWKWKWKW](/stripes/rkrwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Edinburgh, City of](/tartans/e/ed/edinburgh-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

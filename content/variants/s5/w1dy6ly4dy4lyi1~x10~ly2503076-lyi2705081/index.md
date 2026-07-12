@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Amber Rose"
+  url: "/tartans/a/am/amber-rose/"
 - name: "Amber Rose (Fashion)"
   url: "/setts/w1dy6ly4dy4lyi1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1dy6ly4dy4lyi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGYGY](/stripes/wgygy/).
+
+Part of the [Amber Rose](/tartans/a/am/amber-rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

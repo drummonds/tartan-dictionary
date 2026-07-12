@@ -6,6 +6,8 @@ This is the **Faber (2015)** sett — one scale-free proportion (`k10dp4db25w1g1
 [KBBWGBR](/stripes/kbbwgbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Faber](/tartans/f/fa/faber/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

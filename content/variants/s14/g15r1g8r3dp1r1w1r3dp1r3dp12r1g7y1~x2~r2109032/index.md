@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Recycled Lamb, The"
+  url: "/tartans/r/re/recycled-lamb-the/"
+- name: "Recycled Lamb, The"
   url: "/setts/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGRBRBRWRBRGRG](/stripes/ggrbrbrwrbrgrg/).
+
+Part of the [Recycled Lamb, The](/tartans/r/re/recycled-lamb-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

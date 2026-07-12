@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Raith Rovers F.C."
+  url: "/tartans/r/ra/raith-rovers-f-c/"
+- name: "Raith Rovers F.C."
   url: "/setts/db6w2b2w3db24r1dbi35r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6w2b2w3db24r1dbi35r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBRBR](/stripes/bwbwbrbr/).
+
+Part of the [Raith Rovers F.C.](/tartans/r/ra/raith-rovers-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

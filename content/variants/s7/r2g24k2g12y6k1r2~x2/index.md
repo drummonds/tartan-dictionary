@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inman"
+  url: "/tartans/i/in/inman/"
 - name: "Inman (2016)"
   url: "/setts/r2g24k2g12y6k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2g24k2g12y6k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGGKR](/stripes/rgkggkr/).
+
+Part of the [Inman](/tartans/i/in/inman/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

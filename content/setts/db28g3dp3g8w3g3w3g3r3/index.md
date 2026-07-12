@@ -6,6 +6,8 @@ This is the **Todd Family Tartan** sett — one scale-free proportion (`db28g3dp
 [BGBGWGWGR](/stripes/bgbgwgwgr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Todd](/tartans/t/to/todd-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

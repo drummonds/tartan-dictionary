@@ -6,6 +6,8 @@ This is the **Dunbarton Warp/Weft** sett — one scale-free proportion (`lo8r2lo
 [YKYRYRYKYRY](/stripes/ykyryrykyry/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dunbarton Warp/Weft](/tartans/d/du/dunbarton-warp-weft/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

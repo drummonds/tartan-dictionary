@@ -6,6 +6,8 @@ This is the **Lagavista (Personal)** sett — one scale-free proportion (`k12dr8
 [BKBGKYBK](/stripes/bkbgkybk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Lagavista](/tartans/l/la/lagavista/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

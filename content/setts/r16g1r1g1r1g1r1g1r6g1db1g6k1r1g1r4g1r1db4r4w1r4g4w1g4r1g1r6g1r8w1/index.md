@@ -6,6 +6,8 @@ This is the **MacDonald of Staffa (Smith's)** sett — one scale-free proportion
 [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrgbgkrgrgrbrwrgwgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [MacDonald of Staffa](/tartans/m/ma/macdonald-of-staffa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

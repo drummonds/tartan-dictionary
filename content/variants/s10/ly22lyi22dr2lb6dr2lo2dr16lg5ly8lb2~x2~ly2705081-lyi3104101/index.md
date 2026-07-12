@@ -10,7 +10,7 @@ crumbs:
 - name: "Bruce of Kinnaird"
   url: "/families/bruce-of-kinnaird/"
 - name: "Bruce of Kinnaird"
-  url: "/tartans/bruce-of-kinnaird-2/"
+  url: "/tartans/b/br/bruce-of-kinnaird-2/"
 - name: "Bruce of Kinnaird (Fashion)"
   url: "/setts/ly22lyi22dr2lb6dr2lo2dr16lg5ly8lb2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly22lyi22dr2lb6dr2lo2dr16lg5ly8lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYYBYBWBYY](/stripes/wyybybwbyy/).
 
-Part of the [Bruce of Kinnaird](/tartans/bruce-of-kinnaird-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bruce of Kinnaird](/tartans/b/br/bruce-of-kinnaird-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

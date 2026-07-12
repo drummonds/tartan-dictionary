@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas"
+  url: "/tartans/t/th/thomas/"
 - name: "Thomas of Wales"
   url: "/setts/r2db1g2db1g19db2r27g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2db1g2db1g19db2r27g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBGBR](/stripes/grbgbgbr/).
+
+Part of the [Thomas](/tartans/t/th/thomas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

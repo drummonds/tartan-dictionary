@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hird"
+  url: "/tartans/h/hi/hird/"
 - name: "Hird (Personal)"
   url: "/setts/db4g4k20r5k4dr5k4db5k18g4r8db2lb2r16k4lo2k4r16lb2db2r6db6r2lo2db20lb2db20lo2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g4k20r5k4dr5k4db5k18g4r8db2lb2r16k4lo2k4r16lb2db2r6db6r2lo2db20lb2db20lo2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKRKBKBKGRBWRKYKRWBRBRYBWBYR](/stripes/bgkrkbkbkgrbwrkykrwbrbrybwbyr/).
+
+Part of the [Hird](/tartans/h/hi/hird/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 

@@ -6,6 +6,8 @@ This is the **Wilson's No.189** sett — one scale-free proportion (`dp4g10r1w1`
 [BGRW](/stripes/bgrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.189](/tartans/w/wi/wilson-s-no-189/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

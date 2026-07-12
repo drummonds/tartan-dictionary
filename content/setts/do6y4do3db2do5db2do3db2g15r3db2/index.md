@@ -6,6 +6,8 @@ This is the **Limerick** sett — one scale-free proportion (`do6y4do3db2do5db2d
 [BGBBBBBBGRB](/stripes/bgbbbbbbgrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Limerick](/tartans/l/li/limerick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGibboney"
+  url: "/tartans/m/ma/macgibboney-2/"
 - name: "MacGibboney (Name)"
   url: "/setts/y1lb1t1lb5g5w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1lb1t1lb5g5w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWGW](/stripes/gwbwgw/).
+
+Part of the [MacGibboney](/tartans/m/ma/macgibboney-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

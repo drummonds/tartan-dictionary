@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "RAAF"
-  url: "/tartans/raaf-2/"
+  url: "/tartans/r/ra/raaf-2/"
 - name: "RAAF #4"
   url: "/setts/db48w2db7w2db7w2db20lb11r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db48w2db7w2db7w2db20lb11r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWBWR](/stripes/bwbwbwbwr/).
 
-Part of the [RAAF](/tartans/raaf-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [RAAF](/tartans/r/ra/raaf-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

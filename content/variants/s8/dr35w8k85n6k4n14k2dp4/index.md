@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacEvil"
+  url: "/tartans/m/ma/macevil/"
 - name: "MacEvil (Corporate)"
   url: "/setts/dr35w8k85n6k4n14k2dp4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr35w8k85n6k4n14k2dp4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWB](/stripes/bkbkbkwb/).
+
+Part of the [MacEvil](/tartans/m/ma/macevil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

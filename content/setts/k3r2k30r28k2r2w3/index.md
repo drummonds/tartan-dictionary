@@ -6,7 +6,7 @@ This is the **Cunningham #2** sett — one scale-free proportion (`k3r2k30r28k2r
 [KRKRKRW](/stripes/krkrkrw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [Cunningham](/tartans/cunningham/) tartan — the named design grouping this sett with its kin.
+Part of the [Cunningham](/tartans/c/cu/cunningham/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

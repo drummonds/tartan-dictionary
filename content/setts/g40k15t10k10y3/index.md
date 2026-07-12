@@ -6,6 +6,8 @@ This is the **U.S. Border Patrol (Corporate)** sett — one scale-free proportio
 [GKBKG](/stripes/gkbkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [U.S. Border Patrol](/tartans/u/u/u-s-border-patrol-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

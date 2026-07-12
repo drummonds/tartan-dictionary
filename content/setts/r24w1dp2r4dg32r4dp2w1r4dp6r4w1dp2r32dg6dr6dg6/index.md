@@ -6,7 +6,7 @@ This is the **Dalziel (Clan)** sett — one scale-free proportion (`r24w1dp2r4dg
 [GBGRBWRBRWBRGRBWR](/stripes/gbgrbwrbrwbrgrbwr/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
-Part of the [Dalziel](/tartans/dalziel/) tartan — the named design grouping this sett with its kin.
+Part of the [Dalziel](/tartans/d/da/dalziel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

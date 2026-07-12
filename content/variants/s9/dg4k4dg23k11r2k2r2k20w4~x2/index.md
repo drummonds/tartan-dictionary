@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "New Golf Club"
+  url: "/tartans/n/ne/new-golf-club/"
+- name: "New Golf Club"
   url: "/setts/dg4k4dg23k11r2k2r2k20w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg4k4dg23k11r2k2r2k20w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKRKRKW](/stripes/gkgkrkrkw/).
+
+Part of the [New Golf Club](/tartans/n/ne/new-golf-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

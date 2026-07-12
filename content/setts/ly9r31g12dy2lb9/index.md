@@ -6,7 +6,7 @@ This is the **Buncle (Name)** sett — one scale-free proportion (`ly9r31g12dy2l
 [WGGRY](/stripes/wggry/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Buncle](/tartans/buncle/) tartan — the named design grouping this sett with its kin.
+Part of the [Buncle](/tartans/b/bu/buncle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

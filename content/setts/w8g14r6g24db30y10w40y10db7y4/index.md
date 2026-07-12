@@ -6,6 +6,8 @@ This is the **John Hamilton Gray Commemorative Tartan** sett — one scale-free 
 [GBGWGBGRGW](/stripes/gbgwgbgrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [John Hamilton Gray Commemorative](/tartans/j/jo/john-hamilton-gray-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

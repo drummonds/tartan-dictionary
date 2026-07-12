@@ -1,0 +1,45 @@
+---
+title: "MacLeod of Argentina"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod, of Argentina"
+  url: "/families/macleod-of-argentina/"
+---
+A tartan of the [MacLeod, of Argentina](/families/macleod-of-argentina/) family.
+Its design is pattern [BWBYR](/stripes/bwbyr/) — the page of every tartan sharing this colour sequence.
+
+The **MacLeod of Argentina** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t10w3t12ly14r4/">MacLeod of Argentina</a> ★</td><td><code>T/20 W6 T24 LY28 R/8</code></td><td>144</td><td>1978</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/t10w3t12ly14r4/"><img src="/variants/s5/t10w3t12ly14r4~x2/sett.png" alt="MacLeod of Argentina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db10w3db12y14r4/">MacLeod, of Argentina</a></td><td><code>DB/20 W6 DB24 Y28 R/8</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db10w3db12y14r4/"><img src="/variants/s5/db10w3db12y14r4~x2/sett.png" alt="MacLeod, of Argentina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacLeod, of Argentina
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">144</div><div class="nn-name nn-base"><a href="/variants/s5/t10w3t12ly14r4~x2/">MacLeod of Argentina</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/t10w3t12ly14r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db10w3db12y14r4~x2&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">0.23</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s5/db10w3db12y14r4~x2/">MacLeod, of Argentina</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db10w3db12y14r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2lb4r4ly1lb2~x10&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">0.93</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s5/w2lb4r4ly1lb2~x10/">Doohan (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w2lb4r4ly1lb2~x10/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y15r9lb30w3db4~x2&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">1.81</a></div><div class="nn-threads">206</div><div class="nn-name"><a href="/variants/s5/y15r9lb30w3db4~x2/">S.I.D.E. (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/y15r9lb30w3db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3g6ly1r3~x10&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s4/db3g6ly1r3~x10/">Delroeux (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6ly1r3~x10/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3g6y1r3~x10&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s4/db3g6y1r3~x10/">Delroeux, John Michael (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6y1r3~x10/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n22y10w3db8~x2&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.22</a></div><div class="nn-threads nn-far">112</div><div class="nn-name nn-far"><a href="/variants/s4/n22y10w3db8~x2/">Louisburg</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n22y10w3db8~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t6r6w1r6t6y1~x8~r2607041&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">360</div><div class="nn-name nn-far"><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/">Unidentified Lindley</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t6r6w1r6t6y1~x8~r2607041/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4w2g17lb17lo2~x4&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s5/lb4w2g17lb17lo2~x4/">Bermuda (1986) (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb4w2g17lb17lo2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db21g34r14w6~x2&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">246</div><div class="nn-name nn-far"><a href="/variants/s4/db21g34r14w6~x2/">Harbison (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db21g34r14w6~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g7lb2r4~x2~r2109032&amp;base=t10w3t12ly14r4~x2" title="compare in the TTD">3.15</a></div><div class="nn-threads nn-far2">30</div><div class="nn-name nn-far2"><a href="/variants/s3/g7lb2r4~x2~r2109032/">Wilson's No.208</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g7lb2r4~x2~r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.2" cy="279.4" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s5/w2lb4r4ly1lb2~x10/"><circle cx="233.1" cy="307.9" r="4" fill="#3465a4"><title>Doohan (Name)</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.5" cy="291.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.6" cy="281.5" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.7" cy="267.7" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.9" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><circle cx="259.6" cy="299.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

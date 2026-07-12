@@ -6,6 +6,8 @@ This is the **Kincardine City** sett — one scale-free proportion (`g3k8g8lb3k1
 [GKGWKG](/stripes/gkgwkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Kincardine City](/tartans/k/ki/kincardine-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hackett (Personal)** sett — one scale-free proportion (`k20w4r4d
 [GGWGRWK](/stripes/ggwgrwk/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Hackett](/tartans/h/ha/hackett/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

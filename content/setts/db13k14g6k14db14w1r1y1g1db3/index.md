@@ -6,7 +6,7 @@ This is the **Scotshill** sett — one scale-free proportion (`db13k14g6k14db14w
 [BGGRWBKGKB](/stripes/bggrwbkgkb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Scotshill](/tartans/scotshill/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotshill](/tartans/s/sc/scotshill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

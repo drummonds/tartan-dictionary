@@ -6,6 +6,8 @@ This is the **Doohan (New South Wales), Andrew** sett — one scale-free proport
 [BGRBW](/stripes/bgrbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Doohan , Andrew](/tartans/d/do/doohan-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

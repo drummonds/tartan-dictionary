@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathyre Dress"
-  url: "/tartans/strathyre-dress-2/"
+  url: "/tartans/s/st/strathyre-dress-2/"
 - name: "Strathyre Dress District Tartan"
   url: "/setts/w36g6dr2g3w2g3dy6p4g2p2w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w36g6dr2g3w2g3dy6p4g2p2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGWGGBGBWBGBGGWGBGW](/stripes/gbgwggbgbwbgbggwgbgw/).
 
-Part of the [Strathyre Dress](/tartans/strathyre-dress-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathyre Dress](/tartans/s/st/strathyre-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 

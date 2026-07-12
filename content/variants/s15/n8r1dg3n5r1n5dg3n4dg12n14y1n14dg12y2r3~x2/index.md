@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Howell"
+  url: "/clan/howell/"
+- name: "Howell of Wales"
+  url: "/families/howell-of-wales/"
+- name: "Howell of Wales"
+  url: "/tartans/h/ho/howell-of-wales/"
 - name: "Howell of Wales"
   url: "/setts/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/).
+
+Part of the [Howell of Wales](/tartans/h/ho/howell-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

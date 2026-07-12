@@ -6,6 +6,8 @@ This is the **Celtic Women International** sett — one scale-free proportion (`
 [RBRBRKGKW](/stripes/rbrbrkgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Celtic Women International](/tartans/c/ce/celtic-women-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

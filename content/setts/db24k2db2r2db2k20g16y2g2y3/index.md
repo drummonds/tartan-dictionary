@@ -7,6 +7,8 @@ This is the **Watson** sett — one scale-free proportion (`db24k2db2r2db2k20g16
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1932**.
 
+Part of the [Watson](/tartans/w/wa/watson-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

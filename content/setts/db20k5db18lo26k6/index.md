@@ -7,6 +7,8 @@ This is the **Johore Regiment** sett — one scale-free proportion (`db20k5db18l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1930**.
 
+Part of the [Johore Regiment](/tartans/j/jo/johore-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

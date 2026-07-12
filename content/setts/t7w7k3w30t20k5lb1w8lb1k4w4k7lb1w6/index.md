@@ -6,6 +6,8 @@ This is the **Skye Dress Blue, Isle of (Dance)** sett — one scale-free proport
 [BWKWBKWWWKWKWW](/stripes/bwkwbkwwwkwkww/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Skye Dress Blue, Isle of](/tartans/s/sk/skye-dress-blue-isle-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

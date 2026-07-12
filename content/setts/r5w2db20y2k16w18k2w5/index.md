@@ -6,7 +6,7 @@ This is the **Ailsa Craig Trade Tartan** sett — one scale-free proportion (`r5
 [RWBGKWKW](/stripes/rwbgkwkw/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
-Part of the [Ailsa Craig](/tartans/ailsa-craig-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Ailsa Craig](/tartans/a/ai/ailsa-craig-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Watch"
+  url: "/tartans/b/bl/blue-watch/"
 - name: "Blue Watch (Fashion)"
   url: "/setts/db11k1db1k1db1k8w8k1w8k8db8k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k8w8k1w8k8db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/).
+
+Part of the [Blue Watch](/tartans/b/bl/blue-watch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

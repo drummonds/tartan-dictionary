@@ -6,6 +6,8 @@ This is the **Leiato of American Samoa (Personal)** sett — one scale-free prop
 [BWRKGKG](/stripes/bwrkgkg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Leiato of American Samoa](/tartans/l/le/leiato-of-american-samoa-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Turnberry (MacArthur)** sett — one scale-free proportion (`o24n3
 [BWBRBRBR](/stripes/bwbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Turnberry](/tartans/t/tu/turnberry/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

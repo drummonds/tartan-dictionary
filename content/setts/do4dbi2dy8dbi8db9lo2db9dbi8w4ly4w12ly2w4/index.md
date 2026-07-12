@@ -6,7 +6,7 @@ This is the **Unidentified Gordon variant** sett — one scale-free proportion (
 [BBGBBYBBWYWYW](/stripes/bbgbbybbwywyw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Unidentified Gordon variant](/tartans/unidentified-gordon-variant/) tartan — the named design grouping this sett with its kin.
+Part of the [Unidentified Gordon variant](/tartans/u/un/unidentified-gordon-variant/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacAulay"
   url: "/clan/macaulay/"
 - name: "MacAulay"
-  url: "/tartans/macaulay-2/"
+  url: "/tartans/m/ma/macaulay-2/"
 - name: "MacAulay"
   url: "/setts/r48db1g24db1r10db1g12k1w4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r48db1g24db1r10db1g12k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
 
-Part of the [MacAulay](/tartans/macaulay-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacAulay](/tartans/m/ma/macaulay-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

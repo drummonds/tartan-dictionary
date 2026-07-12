@@ -6,6 +6,8 @@ This is the **Internationale, The** sett — one scale-free proportion (`r4lr2r2
 [GKGKYRYRYRYRYKRYR](/stripes/gkgkyryryryrykryr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Internationale, The](/tartans/i/in/internationale-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

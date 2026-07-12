@@ -6,6 +6,8 @@ This is the **Ahmlaigh (Corporate)** sett — one scale-free proportion (`dp50k8
 [BKGKGKG](/stripes/bkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Ahmlaigh](/tartans/a/ah/ahmlaigh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

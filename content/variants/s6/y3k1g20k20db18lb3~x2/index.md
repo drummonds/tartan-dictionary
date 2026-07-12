@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith"
+  url: "/tartans/s/sm/smith-3/"
 - name: "Smith"
   url: "/setts/y3k1g20k20db18lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k1g20k20db18lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBW](/stripes/gkgkbw/).
+
+Part of the [Smith](/tartans/s/sm/smith-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

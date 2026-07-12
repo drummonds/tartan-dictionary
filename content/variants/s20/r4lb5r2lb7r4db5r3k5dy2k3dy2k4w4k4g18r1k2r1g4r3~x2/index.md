@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson of Kinneddar"
+  url: "/families/anderson-of-kinneddar/"
+- name: "Anderson of Kinneddar Hunting"
+  url: "/tartans/a/an/anderson-of-kinneddar-hunting/"
 - name: "Anderson of Kinneddar Hunting"
   url: "/setts/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRKRGKWKGKGKRBRWRWR](/stripes/rgrkrgkwkgkgkrbrwrwr/).
+
+Part of the [Anderson of Kinneddar Hunting](/tartans/a/an/anderson-of-kinneddar-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

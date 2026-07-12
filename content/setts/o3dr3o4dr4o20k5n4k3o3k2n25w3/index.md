@@ -6,6 +6,8 @@ This is the **MacLellan of Gartbreck (Personal)** sett — one scale-free propor
 [RBRBRKBKRKBW](/stripes/rbrbrkbkrkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacLellan of Gartbreck](/tartans/m/ma/maclellan-of-gartbreck/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

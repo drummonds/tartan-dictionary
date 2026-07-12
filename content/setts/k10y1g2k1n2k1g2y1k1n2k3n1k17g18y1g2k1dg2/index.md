@@ -6,6 +6,8 @@ This is the **Raznotravie** sett — one scale-free proportion (`k10y1g2k1n2k1g2
 [GKGGGKBKBKGGKBKGGK](/stripes/gkgggkbkbkggkbkggk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Raznotravie](/tartans/r/ra/raznotravie-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

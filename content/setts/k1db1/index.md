@@ -6,6 +6,8 @@ This is the **Buffalo Plaid** sett — one scale-free proportion (`k1db1`), colo
 [BK](/stripes/bk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Buffalo](/tartans/b/bu/buffalo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

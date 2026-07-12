@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ancient Universal"
+  url: "/tartans/a/an/ancient-universal/"
 - name: "Ancient Universal (Fashion?)"
   url: "/setts/y12dg2y2dg2y2dy8g8dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y12dg2y2dg2y2dy8g8dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
+
+Part of the [Ancient Universal](/tartans/a/an/ancient-universal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

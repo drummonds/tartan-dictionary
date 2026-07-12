@@ -6,7 +6,7 @@ This is the **Gordonstoun (Corporate)** sett — one scale-free proportion (`y5g
 [GGRBWRGRKRKW](/stripes/ggrbwrgrkrkw/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
-Part of the [Gordonstoun](/tartans/gordonstoun/) tartan — the named design grouping this sett with its kin.
+Part of the [Gordonstoun](/tartans/g/go/gordonstoun/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

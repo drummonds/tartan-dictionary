@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Open Squash"
+  url: "/tartans/s/sc/scottish-open-squash/"
 - name: "Scottish Open Squash (Corporate)"
   url: "/setts/db23dp2g11dp24lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db23dp2g11dp24lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBW](/stripes/bbgbw/).
+
+Part of the [Scottish Open Squash](/tartans/s/sc/scottish-open-squash/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

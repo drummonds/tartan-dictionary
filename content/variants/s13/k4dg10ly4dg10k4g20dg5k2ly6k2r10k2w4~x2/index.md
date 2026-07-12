@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Donegal County Crest"
+  url: "/tartans/d/do/donegal-county-crest/"
 - name: "Donegal County Crest (Fashion)"
   url: "/setts/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/).
+
+Part of the [Donegal County Crest](/tartans/d/do/donegal-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Strathclyde (Official)** sett — one scale-free proportion (`lb16
 [KWWBWKWKWBWW](/stripes/kwwbwkwkwbww/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Strathclyde](/tartans/s/st/strathclyde/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

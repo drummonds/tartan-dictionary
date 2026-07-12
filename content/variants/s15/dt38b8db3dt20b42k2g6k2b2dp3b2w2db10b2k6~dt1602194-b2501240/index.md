@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Causeway, The"
-  url: "/tartans/causeway-the/"
+  url: "/tartans/c/ca/causeway-the/"
 - name: "Causeway, The"
   url: "/setts/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKGKBBBWBBK](/stripes/bbbbbkgkbbbwbbk/).
 
-Part of the [Causeway, The](/tartans/causeway-the/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Causeway, The](/tartans/c/ca/causeway-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

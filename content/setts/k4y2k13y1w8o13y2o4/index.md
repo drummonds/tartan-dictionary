@@ -6,6 +6,8 @@ This is the **Bannockbane, Light Tan** sett — one scale-free proportion (`k4y2
 [KGKGWRGR](/stripes/kgkgwrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Bannockbane, Light Tan](/tartans/b/ba/bannockbane-light-tan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Queensland"
-  url: "/tartans/queensland/"
+  url: "/tartans/q/qu/queensland/"
 - name: "Queensland"
   url: "/setts/w18lb22db15y6g10dp5g6r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w18lb22db15y6g10dp5g6r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGBGGBWW](/stripes/rgbggbww/).
 
-Part of the [Queensland](/tartans/queensland/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Queensland](/tartans/q/qu/queensland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

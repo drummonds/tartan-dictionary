@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Scotland, Silver"
+  url: "/tartans/p/pr/pride-of-scotland-silver-2/"
 - name: "Pride of Scotland, Silver (Fashion)"
   url: "/setts/k9o2k2ri2o18ri2k2r1k20ri33r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9o2k2ri2o18ri2k2r1k20ri33r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRRRKRKRR](/stripes/krkrrrkrkrr/).
+
+Part of the [Pride of Scotland, Silver](/tartans/p/pr/pride-of-scotland-silver-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

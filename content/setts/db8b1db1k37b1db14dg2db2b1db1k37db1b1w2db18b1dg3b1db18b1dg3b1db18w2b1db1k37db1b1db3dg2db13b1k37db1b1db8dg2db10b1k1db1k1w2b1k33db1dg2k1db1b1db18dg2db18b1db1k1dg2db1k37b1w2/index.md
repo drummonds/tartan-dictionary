@@ -6,6 +6,8 @@ This is the **Millennium by Texcraft** sett — one scale-free proportion (`db8b
 [BBBKBBGBBBKBBWBBGBBBGBBWBBKBBBGBBKBBBGBBKBKWBKBGKBBBGBBBKGBKBW](/stripes/bbbkbbgbbbkbbwbbgbbbgbbwbbkbbbgbbkbbbgbbkbkwbkbgkbbbgbbbkgbkbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Millennium by Texcraft](/tartans/m/mi/millennium-by-texcraft/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

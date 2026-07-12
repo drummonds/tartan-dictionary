@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Northern College"
-  url: "/tartans/northern-college/"
+  url: "/tartans/n/no/northern-college/"
 - name: "Northern College (Ontario)"
   url: "/setts/g5db3lb3g5w4dy2lb1dy2db1r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g5db3lb3g5w4dy2lb1dy2db1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWGWGWGBR](/stripes/gbwgwgwgbr/).
 
-Part of the [Northern College](/tartans/northern-college/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Northern College](/tartans/n/no/northern-college/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

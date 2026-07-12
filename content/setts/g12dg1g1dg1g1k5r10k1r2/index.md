@@ -6,6 +6,8 @@ This is the **Lindsay #2** sett — one scale-free proportion (`g12dg1g1dg1g1k5r
 [GGGGGKRKR](/stripes/gggggkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Lindsay](/tartans/l/li/lindsay-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Colorado American District Tartan** sett — one scale-free propor
 [GRBKGWBWG](/stripes/grbkgwbwg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
-Part of the [Colorado](/tartans/colorado/) tartan — the named design grouping this sett with its kin.
+Part of the [Colorado](/tartans/c/co/colorado/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

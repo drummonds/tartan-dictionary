@@ -6,6 +6,8 @@ This is the **Galway** sett — one scale-free proportion (`o4b2k4b40k3b3k4b3g13
 [BGBKBKBKBR](/stripes/bgbkbkbkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Galway](/tartans/g/ga/galway/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

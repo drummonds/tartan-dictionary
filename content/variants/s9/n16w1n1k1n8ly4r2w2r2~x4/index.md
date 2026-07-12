@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Middleton, City of"
+  url: "/tartans/m/mi/middleton-city-of/"
+- name: "Middleton, City of"
   url: "/setts/n16w1n1k1n8ly4r2w2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n16w1n1k1n8ly4r2w2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBYRWR](/stripes/bwbkbyrwr/).
+
+Part of the [Middleton, City of](/tartans/m/mi/middleton-city-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

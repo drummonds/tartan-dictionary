@@ -6,6 +6,8 @@ This is the **Milne of Corstorphine #1 (Personal)** sett — one scale-free prop
 [GKGGRGGKGKGK](/stripes/gkggrggkgkgk/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Milne of Corstorphine](/tartans/m/mi/milne-of-corstorphine-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hoosier"
+  url: "/tartans/h/ho/hoosier/"
 - name: "Hoosier (Fashion)"
   url: "/setts/t15db65y7t4y3db30t15w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t15db65y7t4y3db30t15w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBGBBW](/stripes/bbgbgbbw/).
+
+Part of the [Hoosier](/tartans/h/ho/hoosier/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tartan de Longueuil"
+  url: "/tartans/t/ta/tartan-de-longueuil/"
+- name: "Tartan de Longueuil"
   url: "/setts/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRGKRKBKRKBGBG](/stripes/bgbrgkrkbkrkbgbg/).
+
+Part of the [Tartan de Longueuil](/tartans/t/ta/tartan-de-longueuil/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

@@ -6,6 +6,8 @@ This is the **Pride of Scotland Gold** sett — one scale-free proportion (`k9n2
 [BYKWKYWKYBK](/stripes/bykwkywkybk/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Pride of Scotland Gold](/tartans/p/pr/pride-of-scotland-gold/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

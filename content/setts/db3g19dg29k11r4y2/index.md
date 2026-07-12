@@ -6,6 +6,8 @@ This is the **Zimmermann, Martin (Personal)** sett — one scale-free proportion
 [BGGKRG](/stripes/bggkrg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Zimmermann, Martin](/tartans/z/zi/zimmermann-martin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

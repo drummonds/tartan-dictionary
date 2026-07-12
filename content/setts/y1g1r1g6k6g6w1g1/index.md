@@ -6,6 +6,8 @@ This is the **Vermont** sett — one scale-free proportion (`y1g1r1g6k6g6w1g1`),
 [GGRGKGWG](/stripes/ggrgkgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Vermont](/tartans/v/ve/vermont/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

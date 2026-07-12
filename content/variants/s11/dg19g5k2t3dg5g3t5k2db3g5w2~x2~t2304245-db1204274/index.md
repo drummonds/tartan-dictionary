@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLean, Kenneth, baron of Denboig"
-  url: "/tartans/maclean-kenneth-baron-of-denboig/"
+  url: "/tartans/m/ma/maclean-kenneth-baron-of-denboig/"
 - name: "MacLean, Kenneth, baron of Denboig (Personal)"
   url: "/setts/dg19g5k2t3dg5g3t5k2db3g5w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg19g5k2t3dg5g3t5k2db3g5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKBGGBKBGW](/stripes/ggkbggbkbgw/).
 
-Part of the [MacLean, Kenneth, baron of Denboig](/tartans/maclean-kenneth-baron-of-denboig/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLean, Kenneth, baron of Denboig](/tartans/m/ma/maclean-kenneth-baron-of-denboig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,7 +6,7 @@ This is the **McGuirk (2013)** sett — one scale-free proportion (`dg4r1dg1r3dg
 [GRGRGKRBWBWG](/stripes/grgrgkrbwbwg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [McGuirk](/tartans/mcguirk/) tartan — the named design grouping this sett with its kin.
+Part of the [McGuirk](/tartans/m/mc/mcguirk/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

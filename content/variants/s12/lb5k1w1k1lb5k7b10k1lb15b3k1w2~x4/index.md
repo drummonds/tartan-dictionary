@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Faulds"
+  url: "/tartans/f/fa/faulds/"
+- name: "Faulds"
   url: "/setts/lb5k1w1k1lb5k7b10k1lb15b3k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb5k1w1k1lb5k7b10k1lb15b3k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWKBKWKWKW](/stripes/wkbwkbkwkwkw/).
+
+Part of the [Faulds](/tartans/f/fa/faulds/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

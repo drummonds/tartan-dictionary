@@ -6,6 +6,8 @@ This is the **Pride of Scotland Platinum** sett — one scale-free proportion (`
 [KBRBKBKWBKR](/stripes/kbrbkbkwbkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Pride of Scotland Platinum](/tartans/p/pr/pride-of-scotland-platinum/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

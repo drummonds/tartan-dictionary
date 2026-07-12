@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Metro Detroit Police & Fire"
+  url: "/tartans/m/me/metro-detroit-police-fire/"
 - name: "Metro Detroit Police & Fire P &"
   url: "/setts/r9db3r9k18db9k2db9k2db9r6w1db1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9db3r9k18db9k2db9k2db9r6w1db1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRKBKBKBRWBR](/stripes/rbrkbkbkbrwbr/).
+
+Part of the [Metro Detroit Police & Fire](/tartans/m/me/metro-detroit-police-fire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

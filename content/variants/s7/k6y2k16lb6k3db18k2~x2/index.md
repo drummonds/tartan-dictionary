@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carrick High"
+  url: "/tartans/c/ca/carrick-high/"
 - name: "Carrick High School"
   url: "/setts/k6y2k16lb6k3db18k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6y2k16lb6k3db18k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKGK](/stripes/kbkwkgk/).
+
+Part of the [Carrick High](/tartans/c/ca/carrick-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Craik of Assington Personal Tartan** sett — one scale-free propo
 [BRBGRGKG](/stripes/brbgrgkg/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Craik of Assington](/tartans/c/cr/craik-of-assington/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

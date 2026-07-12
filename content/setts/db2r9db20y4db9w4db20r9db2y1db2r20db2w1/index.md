@@ -6,6 +6,8 @@ This is the **Unidentified (Knapp)** sett — one scale-free proportion (`db2r9d
 [BRBGBWBRBGBRBW](/stripes/brbgbwbrbgbrbw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-76/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

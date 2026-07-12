@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Kinross"
+  url: "/tartans/p/pr/pride-of-kinross/"
+- name: "Pride of Kinross"
   url: "/setts/k20db2k6db2k4db27w2db8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k20db2k6db2k4db27w2db8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKBKBK](/stripes/bwbkbkbk/).
+
+Part of the [Pride of Kinross](/tartans/p/pr/pride-of-kinross/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

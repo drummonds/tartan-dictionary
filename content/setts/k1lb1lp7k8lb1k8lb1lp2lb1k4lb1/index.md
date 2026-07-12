@@ -6,6 +6,8 @@ This is the **Clark (Crook)** sett — one scale-free proportion (`k1lb1lp7k8lb1
 [KWWKWKWWWKW](/stripes/kwwkwkwwwkw/). It is recorded as a single **variant**, below.
 First attested **~1990**.
 
+Part of the [Clark](/tartans/c/cl/clark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

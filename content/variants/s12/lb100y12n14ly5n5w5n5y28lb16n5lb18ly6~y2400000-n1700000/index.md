@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glenclova"
+  url: "/tartans/g/gl/glenclova/"
+- name: "Glenclova"
   url: "/setts/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGBYBWBGWBWY](/stripes/wgbybwbgwbwy/).
+
+Part of the [Glenclova](/tartans/g/gl/glenclova/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

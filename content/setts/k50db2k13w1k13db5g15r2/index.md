@@ -6,7 +6,7 @@ This is the **Center** sett — one scale-free proportion (`k50db2k13w1k13db5g15
 [KBKWKBGR](/stripes/kbkwkbgr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Center](/tartans/center/) tartan — the named design grouping this sett with its kin.
+Part of the [Center](/tartans/c/ce/center/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

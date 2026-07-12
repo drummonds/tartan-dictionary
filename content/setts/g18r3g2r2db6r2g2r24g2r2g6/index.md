@@ -6,6 +6,8 @@ This is the **MacDonald of Vallay (Uist) (?)** sett — one scale-free proportio
 [GRGRBRGRGRG](/stripes/grgrbrgrgrg/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [MacDonald of Vallay](/tartans/m/ma/macdonald-of-vallay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

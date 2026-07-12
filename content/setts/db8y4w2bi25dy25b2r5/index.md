@@ -6,7 +6,7 @@ This is the **Kildrummie** sett — one scale-free proportion (`db8y4w2bi25dy25b
 [BGWBGBR](/stripes/bgwbgbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Kildrummie](/tartans/kildrummie/) tartan — the named design grouping this sett with its kin.
+Part of the [Kildrummie](/tartans/k/ki/kildrummie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

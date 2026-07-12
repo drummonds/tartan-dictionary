@@ -6,6 +6,8 @@ This is the **Gyle** sett — one scale-free proportion (`lb8dg1dr2`), colour or
 [BGWG](/stripes/bgwg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Gyle](/tartans/g/gy/gyle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

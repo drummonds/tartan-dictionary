@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Greenshields"
+  url: "/tartans/g/gr/greenshields-2/"
 - name: "Greenshields (Personal)"
   url: "/setts/db40lb3db3lb3db3lb4dg8g8n8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db40lb3db3lb3db3lb4dg8g8n8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
+
+Part of the [Greenshields](/tartans/g/gr/greenshields-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

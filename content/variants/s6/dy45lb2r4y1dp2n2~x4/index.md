@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Windy Meadows"
-  url: "/tartans/windy-meadows/"
+  url: "/tartans/w/wi/windy-meadows/"
 - name: "Windy Meadows (Fashion)"
   url: "/setts/dy45lb2r4y1dp2n2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dy45lb2r4y1dp2n2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGRWG](/stripes/bbgrwg/).
 
-Part of the [Windy Meadows](/tartans/windy-meadows/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Windy Meadows](/tartans/w/wi/windy-meadows/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

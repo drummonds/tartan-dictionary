@@ -6,6 +6,8 @@ This is the **Princess Elizabeth #2** sett — one scale-free proportion (`r60db
 [RBWBGWGR](/stripes/rbwbgwgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Princess Elizabeth](/tartans/p/pr/princess-elizabeth-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

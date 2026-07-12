@@ -6,7 +6,7 @@ This is the **Alvis of Lee (Personal)** sett — one scale-free proportion (`db9
 [BWGWR](/stripes/bwgwr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Alvis of Lee](/tartans/alvis-of-lee/) tartan — the named design grouping this sett with its kin.
+Part of the [Alvis of Lee](/tartans/a/al/alvis-of-lee/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

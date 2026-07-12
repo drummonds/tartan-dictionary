@@ -6,6 +6,8 @@ This is the **Mason (Personal)** sett — one scale-free proportion (`k7w2dg2o31
 [KWGRBY](/stripes/kwgrby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Mason](/tartans/m/ma/mason/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

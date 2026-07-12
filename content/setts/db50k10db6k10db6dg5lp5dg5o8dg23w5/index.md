@@ -6,7 +6,7 @@ This is the **Scottish Hockey Union** sett — one scale-free proportion (`db50k
 [BKBKBGWGRGWGRGWGBKBK](/stripes/bkbkbgwgrgwgrgwgbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Scottish Hockey Union](/tartans/scottish-hockey-union/) tartan — the named design grouping this sett with its kin.
+Part of the [Scottish Hockey Union](/tartans/s/sc/scottish-hockey-union/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

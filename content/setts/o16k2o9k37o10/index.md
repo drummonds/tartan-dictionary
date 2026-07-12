@@ -6,6 +6,8 @@ This is the **Highland Spring (1985) (Corporate)** sett — one scale-free propo
 [RKKKKKRKR](/stripes/rkkkkkrkr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

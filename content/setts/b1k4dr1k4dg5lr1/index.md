@@ -6,6 +6,8 @@ This is the **Unidentified Dance** sett — one scale-free proportion (`b1k4dr1k
 [BKBKGY](/stripes/bkbkgy/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Unidentified Dance](/tartans/u/un/unidentified-dance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacAvoy Clan Tartan** sett — one scale-free proportion (`dy3dg5k
 [GGKGWGBRBW](/stripes/ggkgwgbrbw/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [MacAvoy](/tartans/m/ma/macavoy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

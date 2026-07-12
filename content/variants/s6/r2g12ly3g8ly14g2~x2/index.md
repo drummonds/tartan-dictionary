@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Artillery"
-  url: "/tartans/confederate-artillery/"
+  url: "/tartans/c/co/confederate-artillery/"
 - name: "Confederate Artillery (Military)"
   url: "/setts/r2g12ly3g8ly14g2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r2g12ly3g8ly14g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGR](/stripes/gygygr/).
 
-Part of the [Confederate Artillery](/tartans/confederate-artillery/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Confederate Artillery](/tartans/c/co/confederate-artillery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

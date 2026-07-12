@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of New Jersey"
+  url: "/tartans/s/st/state-seal-of-new-jersey/"
 - name: "State Seal of New Jersey (Fashion)"
   url: "/setts/t6k1r4k1t38k17n12dy5n5dy25k1ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6k1r4k1t38k17n12dy5n5dy25k1ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBKBGBGKY](/stripes/bkrkbkbgbgky/).
+
+Part of the [State Seal of New Jersey](/tartans/s/st/state-seal-of-new-jersey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

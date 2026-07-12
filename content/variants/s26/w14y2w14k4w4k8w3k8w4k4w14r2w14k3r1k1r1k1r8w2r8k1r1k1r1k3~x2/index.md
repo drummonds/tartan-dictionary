@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Casey"
+  url: "/clan/casey/"
+- name: "Casey"
+  url: "/tartans/c/ca/casey/"
 - name: "Casey (Dress) Fashion Tartan"
   url: "/setts/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w14y2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRWRKRKRKWRWKWKWKWKWGW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwgw/).
+
+Part of the [Casey](/tartans/c/ca/casey/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 

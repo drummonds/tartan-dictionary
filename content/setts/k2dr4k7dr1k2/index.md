@@ -6,7 +6,7 @@ This is the **Romsdal Tresfjord** sett — one scale-free proportion (`k2dr4k7dr
 [KBKBK](/stripes/kbkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Romsdal Tresfjord](/tartans/romsdal-tresfjord/) tartan — the named design grouping this sett with its kin.
+Part of the [Romsdal Tresfjord](/tartans/r/ro/romsdal-tresfjord/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

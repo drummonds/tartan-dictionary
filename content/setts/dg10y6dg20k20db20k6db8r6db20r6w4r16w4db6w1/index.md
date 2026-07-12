@@ -6,6 +6,8 @@ This is the **Watson - Kirby (Personal)** sett — one scale-free proportion (`d
 [GGGKBKBRBRWRWBW](/stripes/gggkbkbrbrwrwbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Watson](/tartans/w/wa/watson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

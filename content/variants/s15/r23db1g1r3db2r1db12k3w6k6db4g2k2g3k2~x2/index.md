@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mars Exploration"
+  url: "/tartans/m/ma/mars-exploration/"
+- name: "Mars Exploration"
   url: "/setts/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/).
+
+Part of the [Mars Exploration](/tartans/m/ma/mars-exploration/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

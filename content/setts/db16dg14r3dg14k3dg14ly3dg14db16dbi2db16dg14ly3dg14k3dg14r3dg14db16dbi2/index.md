@@ -6,6 +6,8 @@ This is the **Pendleton hunting Corporate Tartan** sett — one scale-free propo
 [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Pendleton hunting](/tartans/p/pe/pendleton-hunting-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Edinburgh Castle (Corporate?)** sett — one scale-free proportion
 [BKBKBKBKBKGKB](/stripes/bkbkbkbkbkgkb/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Edinburgh Castle](/tartans/e/ed/edinburgh-castle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

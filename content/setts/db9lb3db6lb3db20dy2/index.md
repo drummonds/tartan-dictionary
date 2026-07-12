@@ -6,6 +6,8 @@ This is the **Oman RAF, Sultanate of (Military)** sett — one scale-free propor
 [BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Oman RAF, Sultanate of](/tartans/o/om/oman-raf-sultanate-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

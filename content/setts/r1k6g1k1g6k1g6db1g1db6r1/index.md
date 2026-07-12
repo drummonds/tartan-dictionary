@@ -6,7 +6,7 @@ This is the **Davidson Clan Tartan** sett — one scale-free proportion (`r1k6g1
 [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
-Part of the [Davidson](/tartans/davidson-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Davidson](/tartans/d/da/davidson-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

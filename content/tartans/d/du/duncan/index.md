@@ -1,0 +1,43 @@
+---
+title: "Duncan"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Duncan"
+  url: "/clan/duncan/"
+---
+A tartan of [Clan Duncan](/clan/duncan/).
+Its design is pattern [KGWGBR](/stripes/kgwgbr/) — the page of every tartan sharing this colour sequence.
+
+Clan Duncan sett, related to Leslie Hunting but lacking its broad black band.
+
+The **Duncan** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k4g21w3g21db21r4/">Duncan</a></td><td><code>K/8 G42 W6 G42 DB42 R/8</code></td><td>280</td><td>1880</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4g21w3g21db21r4/"><img src="/variants/s6/k4g21w3g21db21r4~x2/sett.png" alt="Duncan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k4g21w3g21db21r4/">Duncan</a> · <a href="/variants/s6/k4g21w3g21db21r4~x2/">Duncan</a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Duncan, or Leslie of Wardis
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s6/k4g21w3g21db21r4~x2/">Duncan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k4g21w3g21db21r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g21w3g21db21r4&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">140</div><div class="nn-name"><a href="/variants/s6/k4g21w3g21db21r4/">Duncan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4g21w3g21db21r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2r2k4ly3dg24k2dg16t17r2~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.61</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/">Shanahan (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1k1g9db9w1~x6&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.63</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s6/r1g1k1g9db9w1~x6/">Irving of Bonshaw Tower</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g1k1g9db9w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g22db3g3db19r3~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s6/k3g22db3g3db19r3~x2/">Davidson Half.. Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g22db3g3db19r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9w1g6k7db7k1~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.70</a></div><div class="nn-threads">104</div><div class="nn-name"><a href="/variants/s6/g9w1g6k7db7k1~x2/">Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g9w1g6k7db7k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3y2g18w3g18k3y4k3b18w3~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.78</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/">Forrester / Foster, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3db8g3k4g15r2~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.87</a></div><div class="nn-threads">130</div><div class="nn-name"><a href="/variants/s6/g3db8g3k4g15r2~x2/">Lauder (Family)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3db8g3k4g15r2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3k9g20k16g7t3~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s6/dr3k9g20k16g7t3~x2/">Holman (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr3k9g20k16g7t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g12k4g12w1t6w1y4~x4&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.94</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s7/g12k4g12w1t6w1y4~x4/">Pinder, Nigel (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g12k4g12w1t6w1y4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5g40db20ly3~x2&amp;base=k4g21w3g21db21r4~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s4/k5g40db20ly3~x2/">Byers (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k5g40db20ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.9" cy="211.3" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="214.7" cy="177.5" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="240.7" cy="206.3" r="4" fill="#3465a4"><title>Davidson Half.. Clan Tartan</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.2" cy="225.2" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.0" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="215.9" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.2" cy="226.1" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s7/g12k4g12w1t6w1y4~x4/"><circle cx="270.5" cy="191.4" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><a href="/variants/s4/k5g40db20ly3~x2/"><circle cx="308.8" cy="206.2" r="4" fill="#3465a4"><title>Byers (Name)</title></circle></a><circle cx="226.9" cy="211.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

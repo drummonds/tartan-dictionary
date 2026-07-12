@@ -6,6 +6,8 @@ This is the **Saks Fifth Avenue (Corp)** sett — one scale-free proportion (`w2
 [WKWKWKW](/stripes/wkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Saks Fifth Avenue](/tartans/s/sa/saks-fifth-avenue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

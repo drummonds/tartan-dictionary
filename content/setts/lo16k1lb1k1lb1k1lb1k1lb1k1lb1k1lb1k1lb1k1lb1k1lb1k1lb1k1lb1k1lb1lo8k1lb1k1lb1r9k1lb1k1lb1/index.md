@@ -6,6 +6,8 @@ This is the **Coulin** sett — one scale-free proportion (`lo16k1lb1k1lb1k1lb1k
 [WKWKRWKWKYWKWKWKWKWKWKWKWKWKWKWKWKY](/stripes/wkwkrwkwkywkwkwkwkwkwkwkwkwkwkwkwky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Coulin](/tartans/c/co/coulin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

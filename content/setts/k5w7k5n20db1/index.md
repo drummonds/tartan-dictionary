@@ -6,6 +6,8 @@ This is the **Burberry Grey (Original)** sett — one scale-free proportion (`k5
 [BBKWK](/stripes/bbkwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Burberry](/tartans/b/bu/burberry-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

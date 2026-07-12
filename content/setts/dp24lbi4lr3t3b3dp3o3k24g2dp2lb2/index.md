@@ -6,6 +6,8 @@ This is the **Kingennie Sunrise** sett — one scale-free proportion (`dp24lbi4l
 [BWYBBBRKGBW](/stripes/bwybbbrkgbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Kingennie Sunrise](/tartans/k/ki/kingennie-sunrise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Mitchell, Cameron (Personal)** sett — one scale-free proportion 
 [BBBKGK](/stripes/bbbkgk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Mitchell, Cameron](/tartans/m/mi/mitchell-cameron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

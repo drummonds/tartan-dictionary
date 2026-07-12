@@ -6,7 +6,7 @@ This is the **MacNeil of Colonsay (Clan)** sett — one scale-free proportion (`
 [BGWGKBK](/stripes/bgwgkbk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [MacNeil of Colonsay](/tartans/macneil-of-colonsay/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil of Colonsay](/tartans/m/ma/macneil-of-colonsay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Celtic Football Club (2005)** sett — one scale-free proportion (
 [GGGKGKGKYKGKY](/stripes/gggkgkgkykgky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Celtic 2005 Sports](/tartans/c/ce/celtic-2005-sports/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

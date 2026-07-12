@@ -6,7 +6,7 @@ This is the **Taplin (Name)** sett — one scale-free proportion (`r52k2r5g3r5k5
 [RKRGRKRYRKR](/stripes/rkrgrkryrkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Taplin](/tartans/taplin/) tartan — the named design grouping this sett with its kin.
+Part of the [Taplin](/tartans/t/ta/taplin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

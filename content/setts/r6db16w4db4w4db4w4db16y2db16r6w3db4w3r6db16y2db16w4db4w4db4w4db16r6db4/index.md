@@ -6,6 +6,8 @@ This is the **Parker Personal Tartan** sett — one scale-free proportion (`r6db
 [BRBWBWBWBGBRWBWRBGBWBWBWBR](/stripes/brbwbwbwbgbrwbwrbgbwbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Parker](/tartans/p/pa/parker/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

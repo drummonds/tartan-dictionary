@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St. Georges, Edgbaston"
+  url: "/tartans/s/st/st-georges-edgbaston/"
+- name: "St. Georges, Edgbaston"
   url: "/setts/r4k21w2k20db21k2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k21w2k20db21k2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWKR](/stripes/bkbkwkr/).
+
+Part of the [St. Georges, Edgbaston](/tartans/s/st/st-georges-edgbaston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

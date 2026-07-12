@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Robert Gordon University"
+  url: "/tartans/r/ro/robert-gordon-university-2/"
+- name: "Robert Gordon University"
   url: "/setts/k4dr2k12db12k1lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dr2k12db12k1lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKY](/stripes/kbkbky/).
+
+Part of the [Robert Gordon University](/tartans/r/ro/robert-gordon-university-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

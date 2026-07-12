@@ -10,7 +10,7 @@ crumbs:
 - name: "Drummond of Megginch"
   url: "/families/drummond-of-megginch/"
 - name: "Drummond of Megginch"
-  url: "/tartans/drummond-of-megginch/"
+  url: "/tartans/d/dr/drummond-of-megginch/"
 - name: "Drummond of Megginch - 2023 BertieLexa"
   url: "/setts/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-Part of the [Drummond of Megginch](/tartans/drummond-of-megginch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Drummond of Megginch](/tartans/d/dr/drummond-of-megginch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 

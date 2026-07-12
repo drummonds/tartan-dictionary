@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Svanholm"
+  url: "/tartans/s/sv/svanholm/"
 - name: "Svanholm (Personal)"
   url: "/setts/y4k1m14k1w2k1dp28k4y2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k1m14k1w2k1dp28k4y2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKWKBKGWGKBKWKRK](/stripes/gkrkwkbkgwgkbkwkrk/).
+
+Part of the [Svanholm](/tartans/s/sv/svanholm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

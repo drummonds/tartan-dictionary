@@ -6,6 +6,8 @@ This is the **Callaghan** sett — one scale-free proportion (`k5r1k41dg8k8y1k5`
 [KGKGKRK](/stripes/kgkgkrk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Callaghan](/tartans/c/ca/callaghan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

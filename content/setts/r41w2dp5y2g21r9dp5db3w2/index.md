@@ -6,7 +6,7 @@ This is the **Perthshire, or Drummond** sett — one scale-free proportion (`r41
 [RWBGGRBBW](/stripes/rwbggrbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Perthshire or Drummond](/tartans/perthshire-or-drummond/) tartan — the named design grouping this sett with its kin.
+Part of the [Perthshire or Drummond](/tartans/p/pe/perthshire-or-drummond/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

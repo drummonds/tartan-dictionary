@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Na Fir Dileas"
+  url: "/tartans/n/na/na-fir-dileas-2/"
+- name: "Na Fir Dileas"
   url: "/setts/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/).
+
+Part of the [Na Fir Dileas](/tartans/n/na/na-fir-dileas-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

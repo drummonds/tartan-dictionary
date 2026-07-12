@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Canadian Mounted Police"
+  url: "/tartans/r/ro/royal-canadian-mounted-police/"
 - name: "Royal Canadian Mounted Police Corporate Tartan"
   url: "/setts/k76db1k2lb1g14dr5k13o1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k76db1k2lb1g14dr5k13o1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWGBKRYRKBGWKBK](/stripes/bkwgbkryrkbgwkbk/).
+
+Part of the [Royal Canadian Mounted Police](/tartans/r/ro/royal-canadian-mounted-police/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

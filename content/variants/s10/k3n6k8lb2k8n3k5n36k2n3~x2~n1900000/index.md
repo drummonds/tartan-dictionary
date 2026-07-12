@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City Building LLP"
+  url: "/tartans/c/ci/city-building-llp/"
 - name: "City Building (Glasgow) LLP"
   url: "/setts/k3n6k8lb2k8n3k5n36k2n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3n6k8lb2k8n3k5n36k2n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKWKBK](/stripes/bkbkbkwkbk/).
+
+Part of the [City Building LLP](/tartans/c/ci/city-building-llp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Callum"
+  url: "/tartans/c/ca/callum-3/"
+- name: "Callum"
   url: "/setts/dr3t16db2t2db2t3db6ly20w3ly2w2ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3t16db2t2db2t3db6ly20w3ly2w2ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBYWYWY](/stripes/bbbbbbbywywy/).
+
+Part of the [Callum](/tartans/c/ca/callum-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

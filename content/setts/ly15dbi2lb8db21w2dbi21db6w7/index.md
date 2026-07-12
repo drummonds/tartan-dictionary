@@ -6,6 +6,8 @@ This is the **Monaghan County Crest (Fashion)** sett — one scale-free proporti
 [WBBWBWBY](/stripes/wbbwbwby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Monaghan County Crest](/tartans/m/mo/monaghan-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

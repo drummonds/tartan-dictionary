@@ -6,6 +6,8 @@ This is the **Soroptimist International** sett — one scale-free proportion (`t
 [BYBKRKWKRK](/stripes/bybkrkwkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Soroptimist International](/tartans/s/so/soroptimist-international-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Raznotravie"
+  url: "/tartans/r/ra/raznotravie/"
 - name: "Raznotravie (Corporate)"
   url: "/setts/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYYYKBKBKYYKBKYYK](/stripes/gkyyykbkbkyykbkyyk/).
+
+Part of the [Raznotravie](/tartans/r/ra/raznotravie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

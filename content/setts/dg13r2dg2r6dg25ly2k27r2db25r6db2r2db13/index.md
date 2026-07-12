@@ -6,6 +6,8 @@ This is the **Unnamed C20th - Unregistered Error** sett — one scale-free propo
 [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/). It is recorded as a single **variant**, below.
 First attested **~1985**.
 
+Part of the [Unnamed C20th](/tartans/u/un/unnamed-c20th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

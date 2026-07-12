@@ -6,6 +6,8 @@ This is the **Hyland Day (Personal)** sett — one scale-free proportion (`o3dy2
 [BGBGRGRGRGBGBY](/stripes/bgbgrgrgrgbgby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Hyland Day](/tartans/h/hy/hyland-day/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lopez-Gasparotto** sett — one scale-free proportion (`r1n5k5db1k
 [GBKBKBR](/stripes/gbkbkbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Lopez-Gasparotto](/tartans/l/lo/lopez-gasparotto/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

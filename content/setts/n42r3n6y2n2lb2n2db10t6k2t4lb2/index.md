@@ -6,6 +6,8 @@ This is the **Wcwm 849-2** sett — one scale-free proportion (`n42r3n6y2n2lb2n2
 [BRBGBWBBBKBW](/stripes/brbgbwbbbkbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 849-2](/tartans/w/wc/wcwm-849-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

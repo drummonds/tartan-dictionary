@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Phinn"
+  url: "/tartans/p/ph/phinn/"
 - name: "Phinn (Personal)"
   url: "/setts/dg11dgi3dr4y2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg11dgi3dr4y2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGW](/stripes/ggbgw/).
+
+Part of the [Phinn](/tartans/p/ph/phinn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

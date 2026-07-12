@@ -6,6 +6,8 @@ This is the **MacThomas LC** sett — one scale-free proportion (`db5dg3db32k16g
 [BGBKGGG](/stripes/bgbkggg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacThomas LC](/tartans/m/ma/macthomas-lc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

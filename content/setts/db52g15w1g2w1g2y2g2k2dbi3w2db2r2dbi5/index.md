@@ -6,6 +6,8 @@ This is the **Australian National** sett — one scale-free proportion (`db52g15
 [BGWGWGGGKBWBRB](/stripes/bgwgwgggkbwbrb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Australian National](/tartans/a/au/australian-national/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

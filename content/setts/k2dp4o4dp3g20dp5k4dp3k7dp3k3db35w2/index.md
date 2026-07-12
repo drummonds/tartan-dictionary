@@ -6,6 +6,8 @@ This is the **Spirit of Bannockburn (Fashion)** sett — one scale-free proporti
 [KBRBGBKBKBKBW](/stripes/kbrbgbkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Spirit of Bannockburn](/tartans/s/sp/spirit-of-bannockburn-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

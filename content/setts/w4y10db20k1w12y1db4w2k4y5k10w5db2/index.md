@@ -6,6 +6,8 @@ This is the **Dinarzh: Fortress of the Bear** sett — one scale-free proportion
 [BWKGKWBGWKBGW](/stripes/bwkgkwbgwkbgw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Dinarzh: Fortress of the Bear](/tartans/d/di/dinarzh-fortress-of-the-bear/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

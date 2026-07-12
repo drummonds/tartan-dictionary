@@ -6,6 +6,8 @@ This is the **Livingston Football Club** sett — one scale-free proportion (`lo
 [WKYKYKGKRKY](/stripes/wkykykgkrky/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Livingston Football Club](/tartans/l/li/livingston-football-club-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

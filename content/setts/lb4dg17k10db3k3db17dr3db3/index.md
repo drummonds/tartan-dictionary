@@ -6,7 +6,7 @@ This is the **Royal Highland** sett — one scale-free proportion (`lb4dg17k10db
 [BBBKBKGW](/stripes/bbbkbkgw/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Royal Highland](/tartans/royal-highland/) tartan — the named design grouping this sett with its kin.
+Part of the [Royal Highland](/tartans/r/ro/royal-highland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

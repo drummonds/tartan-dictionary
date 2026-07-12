@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "O'Neill"
+  url: "/tartans/o/o/o-neill-2/"
+- name: "O'Neill"
   url: "/setts/w6g5r5g45k4o24k4g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6g5r5g45k4o24k4g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGRGW](/stripes/gkrkgrgw/).
+
+Part of the [O'Neill](/tartans/o/o/o-neill-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

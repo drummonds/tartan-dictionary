@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wesley Owen 2010"
+  url: "/tartans/w/we/wesley-owen-2010/"
 - name: "Wesley Owen 2010 (Personal)"
   url: "/setts/k61dg10g20w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k61dg10g20w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGW](/stripes/kggw/).
+
+Part of the [Wesley Owen 2010](/tartans/w/we/wesley-owen-2010/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

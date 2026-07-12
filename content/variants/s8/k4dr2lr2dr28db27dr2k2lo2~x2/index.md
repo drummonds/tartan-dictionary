@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Toronto Fire Services"
+  url: "/tartans/t/to/toronto-fire-services/"
 - name: "Toronto Fire Services (Corporate)"
   url: "/setts/k4dr2lr2dr28db27dr2k2lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dr2lr2dr28db27dr2k2lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBYBBBKY](/stripes/kbybbbky/).
+
+Part of the [Toronto Fire Services](/tartans/t/to/toronto-fire-services/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

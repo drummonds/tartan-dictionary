@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saul"
+  url: "/tartans/s/sa/saul-2/"
 - name: "Saul (Personal)"
   url: "/setts/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
+
+Part of the [Saul](/tartans/s/sa/saul-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

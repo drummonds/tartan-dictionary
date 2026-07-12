@@ -6,6 +6,8 @@ This is the **Glen Flesk** sett — one scale-free proportion (`o1w1o1w2k2w2k2w2
 [GWGWKWKWKWRWR](/stripes/gwgwkwkwkwrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Glen Flesk](/tartans/g/gl/glen-flesk/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

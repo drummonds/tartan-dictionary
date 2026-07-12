@@ -6,6 +6,8 @@ This is the **MacIngust** sett — one scale-free proportion (`r70k2y1dg18r10k4l
 [RKGGRKWW](/stripes/rkggrkww/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacIngust](/tartans/m/ma/macingust/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

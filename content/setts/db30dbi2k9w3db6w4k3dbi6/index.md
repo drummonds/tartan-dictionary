@@ -6,6 +6,8 @@ This is the **Auto Docs** sett — one scale-free proportion (`db30dbi2k9w3db6w4
 [BBKWBWKB](/stripes/bbkwbwkb/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Auto Docs](/tartans/a/au/auto-docs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

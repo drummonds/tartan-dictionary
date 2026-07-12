@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pearson"
+  url: "/tartans/p/pe/pearson-2/"
+- name: "Pearson"
   url: "/setts/oi3g14o1g14oi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/oi3g14o1g14oi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGR](/stripes/rgrgr/).
+
+Part of the [Pearson](/tartans/p/pe/pearson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Fox, Red** sett — one scale-free proportion (`r7db6r3db4r3db11r1
 [RBRBRBRGRGRGRGRWRBRBRBR](/stripes/rbrbrbrgrgrgrgrwrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Fox](/tartans/f/fo/fox/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

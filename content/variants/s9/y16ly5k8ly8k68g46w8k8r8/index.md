@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Louth County Crest"
+  url: "/tartans/l/lo/louth-county-crest/"
 - name: "Louth County Crest (Fashion)"
   url: "/setts/y16ly5k8ly8k68g46w8k8r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y16ly5k8ly8k68g46w8k8r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKYKGWKR](/stripes/gykykgwkr/).
+
+Part of the [Louth County Crest](/tartans/l/lo/louth-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

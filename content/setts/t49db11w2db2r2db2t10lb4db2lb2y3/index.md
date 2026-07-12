@@ -6,6 +6,8 @@ This is the **Blue Toon (Fashion)** sett — one scale-free proportion (`t49db11
 [BBWBRBBWBWG](/stripes/bbwbrbbwbwg/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Blue Toon](/tartans/b/bl/blue-toon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Fraser of Lovat Clan Tartan** sett — one scale-free proportion (
 [BRBGRWRGRBRB](/stripes/brbgrwrgrbrb/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
-Part of the [Fraser of Lovat](/tartans/fraser-of-lovat/) tartan — the named design grouping this sett with its kin.
+Part of the [Fraser of Lovat](/tartans/f/fr/fraser-of-lovat/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

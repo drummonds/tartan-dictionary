@@ -6,6 +6,8 @@ This is the **Prestoungrange/Dolphinstoun/Wills** sett — one scale-free propor
 [BKBKBGKGKGRGBG](/stripes/bkbkbgkgkgrgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Prestoungrange/Dolphinstoun/Wills](/tartans/p/pr/prestoungrange-dolphinstoun-wills/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

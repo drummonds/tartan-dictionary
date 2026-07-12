@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jacobite Old Sett"
-  url: "/tartans/jacobite-old-sett/"
+  url: "/tartans/j/ja/jacobite-old-sett/"
 - name: "Jacobite Old Sett (Artefact)"
   url: "/setts/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBKBYGWKWGBKWWW](/stripes/bkbwbkbygwkwgbkwww/).
 
-Part of the [Jacobite Old Sett](/tartans/jacobite-old-sett/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Jacobite Old Sett](/tartans/j/ja/jacobite-old-sett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Potts"
-  url: "/tartans/potts/"
+  url: "/tartans/p/po/potts/"
 - name: "Potts (Personal)"
   url: "/setts/k1y3db3do28db36y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1y3db3do28db36y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBGK](/stripes/gbbbgk/).
 
-Part of the [Potts](/tartans/potts/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Potts](/tartans/p/po/potts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

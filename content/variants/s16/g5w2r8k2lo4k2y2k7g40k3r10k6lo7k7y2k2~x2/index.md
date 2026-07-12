@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Goldstraw"
+  url: "/tartans/g/go/goldstraw/"
 - name: "Goldstraw (Personal)"
   url: "/setts/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKYKRKGKGKYKRWGWRKYKGKGKRKYKGK](/stripes/gkykrkgkgkykrwgwrkykgkgkrkykgk/).
+
+Part of the [Goldstraw](/tartans/g/go/goldstraw/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

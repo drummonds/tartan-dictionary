@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Guthrie"
-  url: "/tartans/guthrie-2/"
+  url: "/tartans/g/gu/guthrie-2/"
 - name: "Guthrie (Name)"
   url: "/setts/k1g12k12r1k1r1k12t12r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1g12k12r1k1r1k12t12r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKRKBR](/stripes/kgkrkrkbr/).
 
-Part of the [Guthrie](/tartans/guthrie-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Guthrie](/tartans/g/gu/guthrie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

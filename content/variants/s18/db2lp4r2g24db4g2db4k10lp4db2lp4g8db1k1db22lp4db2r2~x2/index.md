@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Couper"
+  url: "/clan/couper/"
+- name: "Couper"
+  url: "/tartans/c/co/couper/"
 - name: "Couper of Gogar"
   url: "/setts/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRGBGBKWBWGBKBWBR](/stripes/bwrgbgbkwbwgbkbwbr/).
+
+Part of the [Couper](/tartans/c/co/couper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

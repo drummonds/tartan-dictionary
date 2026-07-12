@@ -6,6 +6,8 @@ This is the **Blue Watch (Fashion)** sett — one scale-free proportion (`db11k1
 [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
+Part of the [Blue Watch](/tartans/b/bl/blue-watch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

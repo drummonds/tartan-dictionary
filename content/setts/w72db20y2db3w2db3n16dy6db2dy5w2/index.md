@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Dress Blue** sett — one scale-free proportion (`w
 [WBGBWBBGBGW](/stripes/wbgbwbbgbgw/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [Stuart/Stewart Dress](/tartans/s/st/stuart-stewart-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

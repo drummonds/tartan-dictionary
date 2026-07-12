@@ -6,6 +6,8 @@ This is the **MacGuinness** sett — one scale-free proportion (`ly1w5ly1k1ly1k1
 [YKYKYKYWYKYKYKYWY](/stripes/ykykykywykykykywy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacGuinness](/tartans/m/ma/macguinness/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

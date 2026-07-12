@@ -6,7 +6,7 @@ This is the **Urquhart (Brydone)** sett — one scale-free proportion (`g1k1g8k8
 [GKGKBRBKGKGKGW](/stripes/gkgkbrbkgkgkgw/). It is recorded as a single **variant**, below.
 First attested **1862**.
 
-Part of the [Urquhart](/tartans/urquhart/) tartan — the named design grouping this sett with its kin.
+Part of the [Urquhart](/tartans/u/ur/urquhart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

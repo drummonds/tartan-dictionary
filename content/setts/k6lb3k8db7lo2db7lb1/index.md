@@ -7,7 +7,7 @@ This is the **St. Johnstone F.C. (Sports)** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1996**.
 
-Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this sett with its kin.
+Part of the [St. Johnstone F.C.](/tartans/s/st/st-johnstone-f-c/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

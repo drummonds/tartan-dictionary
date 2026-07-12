@@ -6,6 +6,8 @@ This is the **MacCullough Family Tartan** sett — one scale-free proportion (`o
 [RKGRWGBRWKR](/stripes/rkgrwgbrwkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacCullough](/tartans/m/ma/maccullough/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

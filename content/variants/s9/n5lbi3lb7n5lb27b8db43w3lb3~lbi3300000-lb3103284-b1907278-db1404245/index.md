@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queensferry High"
+  url: "/tartans/q/qu/queensferry-high/"
 - name: "Queensferry High (School)"
   url: "/setts/n5lbi3lb7n5lb27b8db43w3lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n5lbi3lb7n5lb27b8db43w3lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWBWBBWW](/stripes/bwwbwbbww/).
+
+Part of the [Queensferry High](/tartans/q/qu/queensferry-high/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

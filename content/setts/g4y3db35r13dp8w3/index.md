@@ -6,6 +6,8 @@ This is the **Kilsyth** sett — one scale-free proportion (`g4y3db35r13dp8w3`),
 [GBRBWBRBGG](/stripes/gbrbwbrbgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kilsyth](/tartans/k/ki/kilsyth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

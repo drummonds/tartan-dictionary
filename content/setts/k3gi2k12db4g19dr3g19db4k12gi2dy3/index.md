@@ -6,6 +6,8 @@ This is the **Loch Lomond Millenium Comemmorative Tartan** sett — one scale-fr
 [GGKBGBGBKGK](/stripes/ggkbgbgbkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Loch Lomond Millenium Comemmorative](/tartans/l/lo/loch-lomond-millenium-comemmorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

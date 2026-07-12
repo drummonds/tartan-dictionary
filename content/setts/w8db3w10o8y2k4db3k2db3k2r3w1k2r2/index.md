@@ -6,7 +6,7 @@ This is the **MacInnes, Ancient hunting** sett — one scale-free proportion (`w
 [RKWRKBKBKGRWBW](/stripes/rkwrkbkbkgrwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacInnes Ancient Hunting](/tartans/macinnes-ancient-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacInnes Ancient Hunting](/tartans/m/ma/macinnes-ancient-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

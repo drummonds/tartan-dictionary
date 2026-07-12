@@ -6,7 +6,7 @@ This is the **Kelley Oliphint** sett — one scale-free proportion (`k3w2n27k31o
 [KWBKR](/stripes/kwbkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Kelley Oliphint](/tartans/kelley-oliphint/) tartan — the named design grouping this sett with its kin.
+Part of the [Kelley Oliphint](/tartans/k/ke/kelley-oliphint/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

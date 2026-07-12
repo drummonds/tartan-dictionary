@@ -6,6 +6,8 @@ This is the **Grenauld** sett — one scale-free proportion (`dg36k52lo2k8dg8dy8
 [BGGYGGKYKG](/stripes/bggyggkykg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Grenauld](/tartans/g/gr/grenauld/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

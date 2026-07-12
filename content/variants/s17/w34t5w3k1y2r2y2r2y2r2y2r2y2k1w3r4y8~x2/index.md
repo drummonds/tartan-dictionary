@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Espana"
+  url: "/tartans/e/es/espana/"
+- name: "Espana"
   url: "/setts/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRWKGRGRGRGRGKWBW](/stripes/grwkgrgrgrgrgkwbw/).
+
+Part of the [Espana](/tartans/e/es/espana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **Australian, The** sett — one scale-free proportion (`w2o15b10o4b
 [WRBRBKBRBRBKBRBRW](/stripes/wrbrbkbrbrbkbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Australian, The](/tartans/a/au/australian-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

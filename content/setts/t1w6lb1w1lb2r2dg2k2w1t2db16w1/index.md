@@ -6,6 +6,8 @@ This is the **Arctic** sett — one scale-free proportion (`t1w6lb1w1lb2r2dg2k2w
 [BWWWWRGKWBBW](/stripes/bwwwwrgkwbbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Arctic](/tartans/a/ar/arctic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

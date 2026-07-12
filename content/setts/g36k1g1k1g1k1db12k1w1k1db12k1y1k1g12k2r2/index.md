@@ -7,7 +7,7 @@ This is the **Cockburn** sett — one scale-free proportion (`g36k1g1k1g1k1db12k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1906**.
 
-Part of the [Cockburn](/tartans/cockburn/) tartan — the named design grouping this sett with its kin.
+Part of the [Cockburn](/tartans/c/co/cockburn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

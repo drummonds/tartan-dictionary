@@ -6,6 +6,8 @@ This is the **Wilson's No.174** sett — one scale-free proportion (`y1g10db4lb1
 [GGBW](/stripes/ggbw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.174](/tartans/w/wi/wilson-s-no-174/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

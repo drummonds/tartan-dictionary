@@ -6,6 +6,8 @@ This is the **Miyuki, Check Ecru Beige, No 1001A** sett — one scale-free propo
 [KGKRKGKGKR](/stripes/kgkrkgkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Miyuki, Check Ecru Beige, No 1001A](/tartans/m/mi/miyuki-check-ecru-beige-no-1001a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Johnstone Clan Tartan** sett — one scale-free proportion (`k3db3
 [GBKGBKBK](/stripes/gbkgbkbk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Johnstone](/tartans/j/jo/johnstone/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

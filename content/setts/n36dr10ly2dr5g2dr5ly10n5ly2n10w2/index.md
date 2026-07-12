@@ -6,6 +6,8 @@ This is the **Toyokawa Check** sett — one scale-free proportion (`n36dr10ly2dr
 [BBYBGBYBYBW](/stripes/bbybgbybybw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Toyokawa Check](/tartans/t/to/toyokawa-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

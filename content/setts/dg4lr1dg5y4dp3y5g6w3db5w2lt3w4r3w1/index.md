@@ -6,6 +6,8 @@ This is the **Werris Creek Catholic Parish (Corp.)** sett — one scale-free pro
 [GYGGBGGWBWWWRW](/stripes/gyggbggwbwwwrw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Werris Creek Catholic Parish](/tartans/w/we/werris-creek-catholic-parish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

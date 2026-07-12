@@ -6,6 +6,8 @@ This is the **Cameron Hose #2** sett — one scale-free proportion (`r3ri3w23ri3
 [RKRRRWRR](/stripes/rkrrrwrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cameron Hose](/tartans/c/ca/cameron-hose-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

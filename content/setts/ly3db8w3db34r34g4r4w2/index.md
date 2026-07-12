@@ -6,7 +6,7 @@ This is the **Manitoba Masonic (Corporate)** sett — one scale-free proportion 
 [WRGRBWBY](/stripes/wrgrbwby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Manitoba Masonic](/tartans/manitoba-masonic/) tartan — the named design grouping this sett with its kin.
+Part of the [Manitoba Masonic](/tartans/m/ma/manitoba-masonic/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

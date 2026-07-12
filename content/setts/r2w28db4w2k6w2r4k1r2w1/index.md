@@ -6,6 +6,8 @@ This is the **Rothesay, Dress (VS)** sett — one scale-free proportion (`r2w28d
 [RWBWKWRKRW](/stripes/rwbwkwrkrw/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [Rothesay, Dress](/tartans/r/ro/rothesay-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

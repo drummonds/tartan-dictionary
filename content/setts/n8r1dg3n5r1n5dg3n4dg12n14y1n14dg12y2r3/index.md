@@ -6,6 +6,8 @@ This is the **Howell of Wales** sett — one scale-free proportion (`n8r1dg3n5r1
 [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Howell of Wales](/tartans/h/ho/howell-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

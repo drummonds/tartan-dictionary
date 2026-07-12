@@ -6,6 +6,8 @@ This is the **Scottish H & I Film Com (Corporate)** sett — one scale-free prop
 [RBBRBRRGGRW](/stripes/rbbrbrrggrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Scottish H & I Film Com](/tartans/s/sc/scottish-h-i-film-com/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **West Highland Way (Corporate)** sett — one scale-free proportion
 [BWBRBRKGBGRG](/stripes/bwbrbrkgbgrg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [West Highland Way](/tartans/west-highland-way/) tartan — the named design grouping this sett with its kin.
+Part of the [West Highland Way](/tartans/w/we/west-highland-way/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

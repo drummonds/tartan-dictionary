@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Arizona"
+  url: "/tartans/a/ar/arizona/"
+- name: "Arizona"
   url: "/setts/ly3g2w2r2ly12k2g12r2g2lb2g2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly3g2w2r2ly12k2g12r2g2lb2g2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWGRGKYRWGY](/stripes/ggwgrgkyrwgy/).
+
+Part of the [Arizona](/tartans/a/ar/arizona/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

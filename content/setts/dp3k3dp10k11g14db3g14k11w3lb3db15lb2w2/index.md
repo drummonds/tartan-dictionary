@@ -6,6 +6,8 @@ This is the **North of Scotland Tartan Army** sett — one scale-free proportion
 [BKBKGBGKWWBWW](/stripes/bkbkgbgkwwbww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [North of Scotland Tartan Army](/tartans/n/no/north-of-scotland-tartan-army/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

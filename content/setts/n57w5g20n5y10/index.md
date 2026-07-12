@@ -6,6 +6,8 @@ This is the **Jahore District Tartan** sett — one scale-free proportion (`n57w
 [BWGBG](/stripes/bwgbg/). It is recorded as a single **variant**, below.
 First attested **~1890**.
 
+Part of the [Jahore](/tartans/j/ja/jahore/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

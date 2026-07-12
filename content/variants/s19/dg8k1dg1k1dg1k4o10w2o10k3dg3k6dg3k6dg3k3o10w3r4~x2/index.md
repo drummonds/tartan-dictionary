@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Loch Leven"
+  url: "/tartans/p/pr/pride-of-loch-leven/"
 - name: "Pride of Loch Leven (Fashion?)"
   url: "/setts/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/).
+
+Part of the [Pride of Loch Leven](/tartans/p/pr/pride-of-loch-leven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

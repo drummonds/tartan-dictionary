@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wupper Pipes & Drums"
+  url: "/tartans/w/wu/wupper-pipes-drums/"
 - name: "Wupper Pipes & Drums (Corporate)"
   url: "/setts/o2k4w1k4db18g1db18k6db3y1db2y1db2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o2k4w1k4db18g1db18k6db3y1db2y1db2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKBGBKWKR](/stripes/gbgbgbkbgbkwkr/).
+
+Part of the [Wupper Pipes & Drums](/tartans/w/wu/wupper-pipes-drums/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

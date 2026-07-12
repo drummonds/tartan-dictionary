@@ -6,6 +6,8 @@ This is the **MacGregor Turquoise Dress Fashion Tartan** sett — one scale-free
 [WWWKBKWWWW](/stripes/wwwkbkwwww/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacGregor Turquoise Dress](/tartans/m/ma/macgregor-turquoise-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

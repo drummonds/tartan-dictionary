@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Laporte"
+  url: "/tartans/l/la/laporte/"
+- name: "Laporte"
   url: "/setts/g8dr6k4dr64n1k28dr6g40dr6k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8dr6k4dr64n1k28dr6g40dr6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBBKBGBK](/stripes/gbkbbkbgbk/).
+
+Part of the [Laporte](/tartans/l/la/laporte/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

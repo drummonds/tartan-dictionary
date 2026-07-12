@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leonard"
+  url: "/tartans/l/le/leonard/"
 - name: "Leonard (Name)"
   url: "/setts/t36db6t5r3k2r3t5db18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t36db6t5r3k2r3t5db18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBRKRBB](/stripes/bbbrkrbb/).
+
+Part of the [Leonard](/tartans/l/le/leonard/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

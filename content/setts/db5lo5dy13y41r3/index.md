@@ -6,6 +6,8 @@ This is the **Clare (Prince George) (Personal)** sett — one scale-free proport
 [BYGGR](/stripes/byggr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Clare](/tartans/c/cl/clare/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

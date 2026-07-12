@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Combs Fisher"
+  url: "/tartans/s/st/st-combs-fisher/"
 - name: "St. Combs Fisher Plaid"
   url: "/setts/db1t1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1t1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BB](/stripes/bb/).
+
+Part of the [St. Combs Fisher](/tartans/s/st/st-combs-fisher/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 

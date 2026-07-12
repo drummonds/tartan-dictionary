@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clauwaert"
+  url: "/tartans/c/cl/clauwaert/"
 - name: "Clauwaert (Personal)"
   url: "/setts/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/).
+
+Part of the [Clauwaert](/tartans/c/cl/clauwaert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

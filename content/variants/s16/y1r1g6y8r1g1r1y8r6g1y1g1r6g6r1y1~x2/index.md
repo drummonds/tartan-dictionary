@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathearn"
+  url: "/tartans/s/st/strathearn-2/"
 - name: "Strathearn District Tartan"
   url: "/setts/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGRGRGRGGGRGRG](/stripes/grggrgrgrgggrgrg/).
+
+Part of the [Strathearn](/tartans/s/st/strathearn-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 

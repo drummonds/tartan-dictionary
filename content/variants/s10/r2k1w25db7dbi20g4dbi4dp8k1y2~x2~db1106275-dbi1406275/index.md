@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guardian of Scotland Dress"
+  url: "/tartans/g/gu/guardian-of-scotland-dress/"
 - name: "Guardian of Scotland Dress (Fashion)"
   url: "/setts/r2k1w25db7dbi20g4dbi4dp8k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1w25db7dbi20g4dbi4dp8k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBBGBBWKR](/stripes/gkbbgbbwkr/).
+
+Part of the [Guardian of Scotland Dress](/tartans/g/gu/guardian-of-scotland-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

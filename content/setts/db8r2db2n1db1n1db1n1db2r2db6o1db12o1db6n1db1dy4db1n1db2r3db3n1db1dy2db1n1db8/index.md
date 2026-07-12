@@ -6,6 +6,8 @@ This is the **Delmarva** sett — one scale-free proportion (`db8r2db2n1db1n1db1
 [BBBGBBBRBBBGBBBRBRBRBBBBBBBRB](/stripes/bbbgbbbrbbbgbbbrbrbrbbbbbbbrb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Delmarva](/tartans/d/de/delmarva-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

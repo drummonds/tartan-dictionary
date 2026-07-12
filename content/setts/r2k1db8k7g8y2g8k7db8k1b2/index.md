@@ -6,6 +6,8 @@ This is the **Scottish Economics Society 'Adam Smith'** sett — one scale-free 
 [BKBKGGGKBKR](/stripes/bkbkgggkbkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Scottish Economics Society 'Adam Smith'](/tartans/s/sc/scottish-economics-society-adam-smith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

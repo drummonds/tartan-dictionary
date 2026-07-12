@@ -6,6 +6,8 @@ This is the **Nowell/Noel 1951 (Name)** sett — one scale-free proportion (`lb3
 [KWKWKWKW](/stripes/kwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1951**.
 
+Part of the [Nowell/Noel 1951](/tartans/n/no/nowell-noel-1951/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

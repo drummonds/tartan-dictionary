@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Romantic Scotland"
+  url: "/tartans/r/ro/romantic-scotland/"
 - name: "Romantic Scotland (Madonna)"
   url: "/setts/dt5dp1dt4db4dt7db8w1db2y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt5dp1dt4db4dt7db8w1db2y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBWBG](/stripes/bbbbbbwbg/).
+
+Part of the [Romantic Scotland](/tartans/r/ro/romantic-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

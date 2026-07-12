@@ -6,6 +6,8 @@ This is the **Motherwell F.C. Fir Park Dress (Spor** sett — one scale-free pro
 [BYBKYKYKYR](/stripes/bybkykykyr/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Motherwell F.C. Fir Park Dress (Spor](/tartans/m/mo/motherwell-f-c-fir-park-dress-spor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

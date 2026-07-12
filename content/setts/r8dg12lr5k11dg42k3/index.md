@@ -6,6 +6,8 @@ This is the **Sir Billi (Corporate)** sett — one scale-free proportion (`r8dg1
 [KGKYGR](/stripes/kgkygr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sir Billi](/tartans/s/si/sir-billi-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

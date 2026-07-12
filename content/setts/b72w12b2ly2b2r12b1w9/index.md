@@ -6,6 +6,8 @@ This is the **Tennessee Pioneer Blanket** sett — one scale-free proportion (`b
 [BWBYBRBW](/stripes/bwbybrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Tennessee Pioneer Blanket](/tartans/t/te/tennessee-pioneer-blanket/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

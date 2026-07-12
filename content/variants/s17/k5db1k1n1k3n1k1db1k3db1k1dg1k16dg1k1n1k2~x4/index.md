@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dickie"
+  url: "/tartans/d/di/dickie/"
 - name: "Dickie (Glasgow)"
   url: "/setts/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/).
+
+Part of the [Dickie](/tartans/d/di/dickie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

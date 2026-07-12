@@ -6,6 +6,8 @@ This is the **Musselburgh Dress (Dance)** sett — one scale-free proportion (`l
 [RWBBBGBBW](/stripes/rwbbbgbbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Musselburgh Dress](/tartans/m/mu/musselburgh-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

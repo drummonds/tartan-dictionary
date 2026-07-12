@@ -6,7 +6,7 @@ This is the **Rennie Family Tartan** sett — one scale-free proportion (`w6k1g2
 [GBGBGBKGKW](/stripes/gbgbgbkgkw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [Rennie](/tartans/rennie/) tartan — the named design grouping this sett with its kin.
+Part of the [Rennie](/tartans/r/re/rennie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rust"
-  url: "/tartans/rust/"
+  url: "/tartans/r/ru/rust/"
 - name: "Rust"
   url: "/setts/r3k2dp12w2dp12k12g12y2g12k2r1b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3k2dp12w2dp12k12g12y2g12k2r1b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRKGGGKBWBKR](/stripes/brkgggkbwbkr/).
 
-Part of the [Rust](/tartans/rust/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rust](/tartans/r/ru/rust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

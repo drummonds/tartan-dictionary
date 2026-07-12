@@ -6,6 +6,8 @@ This is the **Sikh Clan/Family Tartan** sett — one scale-free proportion (`dt2
 [BGRKRKRKRKRGBG](/stripes/bgrkrkrkrkrgbg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Sikh](/tartans/s/si/sikh-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

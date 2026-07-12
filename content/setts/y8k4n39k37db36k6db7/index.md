@@ -6,6 +6,8 @@ This is the **Oceanic (Corporate?)** sett — one scale-free proportion (`y8k4n3
 [BKBKBKG](/stripes/bkbkbkg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Oceanic](/tartans/o/oc/oceanic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

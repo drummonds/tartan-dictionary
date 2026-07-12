@@ -6,6 +6,8 @@ This is the **Blackie** sett — one scale-free proportion (`g9y2g9w5r9lb2r9lb2`
 [GGGWRWRW](/stripes/gggwrwrw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Blackie](/tartans/b/bl/blackie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

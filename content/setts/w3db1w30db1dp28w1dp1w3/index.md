@@ -6,6 +6,8 @@ This is the **Dunlop Dress** sett — one scale-free proportion (`w3db1w30db1dp2
 [WBWBBWBW](/stripes/wbwbbwbw/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Dunlop Dress](/tartans/d/du/dunlop-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

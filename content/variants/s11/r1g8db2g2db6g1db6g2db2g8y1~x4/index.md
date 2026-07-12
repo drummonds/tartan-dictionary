@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce of Crionaich"
+  url: "/families/bruce-of-crionaich/"
+- name: "Bruce of Crionaich"
+  url: "/tartans/b/br/bruce-of-crionaich/"
 - name: "Bruce of Crionaich (Personal)"
   url: "/setts/r1g8db2g2db6g1db6g2db2g8y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1g8db2g2db6g1db6g2db2g8y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBGBGR](/stripes/ggbgbgbgbgr/).
+
+Part of the [Bruce of Crionaich](/tartans/b/br/bruce-of-crionaich/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

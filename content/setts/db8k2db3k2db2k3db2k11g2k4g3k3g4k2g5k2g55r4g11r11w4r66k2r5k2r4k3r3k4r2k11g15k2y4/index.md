@@ -6,6 +6,8 @@ This is the **Paisley Fancy Reduced** sett — one scale-free proportion (`db8k2
 [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKG](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Paisley Fancy Reduced](/tartans/p/pa/paisley-fancy-reduced/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Na Fir Dileas"
+  url: "/tartans/n/na/na-fir-dileas/"
 - name: "Na Fir Dileas (Corporate)"
   url: "/setts/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRGRGRGRGRBRGRBRGRGRGRGRBRGR](/stripes/brgrbrgrgrgrgrbrgrbrgrgrgrgrbrgr/).
+
+Part of the [Na Fir Dileas](/tartans/n/na/na-fir-dileas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 

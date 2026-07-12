@@ -10,7 +10,7 @@ crumbs:
 - name: "MacDonell of Keppoch"
   url: "/families/macdonell-of-keppoch/"
 - name: "MacDonell of Keppoch"
-  url: "/tartans/macdonell-of-keppoch-4/"
+  url: "/tartans/m/ma/macdonell-of-keppoch-4/"
 - name: "MacDonell of Keppoch"
   url: "/setts/g2r2db1r24w1db6r3g12r4db1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g2r2db1r24w1db6r3g12r4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBWRBRG](/stripes/brgrbwrbrg/).
 
-Part of the [MacDonell of Keppoch](/tartans/macdonell-of-keppoch-4/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonell of Keppoch](/tartans/m/ma/macdonell-of-keppoch-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

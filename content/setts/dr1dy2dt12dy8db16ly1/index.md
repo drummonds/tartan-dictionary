@@ -6,6 +6,8 @@ This is the **Bobby Jones (Personal)** sett — one scale-free proportion (`dr1d
 [BGBGBY](/stripes/bgbgby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Bobby Jones](/tartans/b/bo/bobby-jones/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Phillips (Welsh Name)** sett — one scale-free proportion (`ki2k2
 [BKKKGKGKGKK](/stripes/bkkkgkgkgkk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Phillips](/tartans/p/ph/phillips-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

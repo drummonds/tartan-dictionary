@@ -6,6 +6,8 @@ This is the **Elwyn Glen (Corporate)** sett — one scale-free proportion (`dt2y
 [BGGWGWGWGBY](/stripes/bggwgwgwgby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Elwyn Glen](/tartans/e/el/elwyn-glen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Twempy** sett — one scale-free proportion (`k1dr4k1w3k1g7k2db16r
 [KBKWKGKBRY](/stripes/kbkwkgkbry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Twempy](/tartans/t/tw/twempy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

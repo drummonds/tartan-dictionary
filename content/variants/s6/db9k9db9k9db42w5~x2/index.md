@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dollar Academy"
-  url: "/tartans/dollar-academy-2/"
+  url: "/tartans/d/do/dollar-academy-2/"
 - name: "Dollar Academy Corporate Tartan"
   url: "/setts/db9k9db9k9db42w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db9k9db9k9db42w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBW](/stripes/bkbkbw/).
 
-Part of the [Dollar Academy](/tartans/dollar-academy-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dollar Academy](/tartans/d/do/dollar-academy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

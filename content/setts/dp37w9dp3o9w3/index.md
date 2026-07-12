@@ -6,7 +6,7 @@ This is the **Glen App** sett — one scale-free proportion (`dp37w9dp3o9w3`), c
 [BWBRW](/stripes/bwbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Glen App](/tartans/glen-app/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen App](/tartans/g/gl/glen-app/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

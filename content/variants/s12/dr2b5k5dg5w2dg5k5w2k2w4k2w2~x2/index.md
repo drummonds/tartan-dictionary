@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Davidson"
+  url: "/clan/davidson/"
+- name: "Davidson of Tulloch"
+  url: "/families/davidson-of-tulloch/"
+- name: "Davidson of Tulloch Dress"
+  url: "/tartans/d/da/davidson-of-tulloch-dress/"
 - name: "Davidson of Tulloch Dress"
   url: "/setts/dr2b5k5dg5w2dg5k5w2k2w4k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2b5k5dg5w2dg5k5w2k2w4k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGWGKWKWKW](/stripes/bbkgwgkwkwkw/).
+
+Part of the [Davidson of Tulloch Dress](/tartans/d/da/davidson-of-tulloch-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

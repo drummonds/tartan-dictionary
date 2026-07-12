@@ -6,6 +6,8 @@ This is the **European Union (Fashion)** sett — one scale-free proportion (`w4
 [BKBGBKGKBW](/stripes/bkbgbkgkbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [European Union](/tartans/e/eu/european-union-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

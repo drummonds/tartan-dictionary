@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nance"
+  url: "/tartans/n/na/nance-2/"
 - name: "Nance (2002)"
   url: "/setts/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGBGGWGWB](/stripes/bgrgbggwgwb/).
+
+Part of the [Nance](/tartans/n/na/nance-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

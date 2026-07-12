@@ -6,6 +6,8 @@ This is the **Philpotts, Brian** sett — one scale-free proportion (`y8t24db21g
 [GBBGYWGY](/stripes/gbbgywgy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Philpotts, Brian](/tartans/p/ph/philpotts-brian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

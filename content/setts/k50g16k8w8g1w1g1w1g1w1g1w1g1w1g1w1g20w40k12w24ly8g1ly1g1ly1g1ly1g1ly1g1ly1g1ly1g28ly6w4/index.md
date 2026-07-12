@@ -6,6 +6,8 @@ This is the **Saskatchewan (Commemorative)** sett — one scale-free proportion 
 [KGKWGWGWGWGWGWGWGWKWYGYGYGYGYGYGYGYW](/stripes/kgkwgwgwgwgwgwgwgwkwygygygygygygygyw/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

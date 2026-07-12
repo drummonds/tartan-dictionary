@@ -1,0 +1,58 @@
+---
+title: "Tartans — Fi"
+date: 2023-03-18
+---
+50 tartans beginning with Fi, each with the number of setts it groups. Back to [F](/tartans/f/) or the [A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/f/fi/fires-center-of-excelence/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence" width="140"><br><strong>FIRES Center of Excelence (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiander-julian/"><img src="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/sett.png" alt="Fiander, Julian" width="140"><br><strong>Fiander, Julian (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fibonacci7/"><img src="/variants/s7/db13g8r5db3g2r1y1~x4/sett.png" alt="Fibonacci7" width="140"><br><strong>Fibonacci7 (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes/"><img src="/variants/s7/g12r11dp12ri3dp8g8dp8~x2~r2109032-ri2307033/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes-2/"><img src="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes-3/"><img src="/variants/s9/g14dg14db14k1db1k1dg38g9db9~x2/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes-4/"><img src="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes-5/"><img src="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiddes-6/"><img src="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/sett.png" alt="Fiddes" width="140"><br><strong>Fiddes (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/field-gun-association/"><img src="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/sett.png" alt="Field Gun Association" width="140"><br><strong>Field Gun Association (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/field-marshall-montgomery-pb/"><img src="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/sett.png" alt="Field Marshall Montgomery PB" width="140"><br><strong>Field Marshall Montgomery PB (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife/"><img src="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/sett.png" alt="Fife" width="140"><br><strong>Fife (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife-2/"><img src="/variants/s6/g32k6g4k8r1k2~x4/sett.png" alt="Fife" width="140"><br><strong>Fife (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife-3/"><img src="/variants/s6/db31lb4db6k19r20y4~x2/sett.png" alt="Fife" width="140"><br><strong>Fife (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife-ethylene-plant/"><img src="/variants/s5/dg35db40w11y3dg7~x2/sett.png" alt="Fife Ethylene Plant" width="140"><br><strong>Fife Ethylene Plant (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife-flyers/"><img src="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/sett.png" alt="Fife Flyers" width="140"><br><strong>Fife Flyers (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fife-duchess-of/"><img src="/variants/s6/g30k12g6k6db2k5~x2/sett.png" alt="Fife, Duchess of.." width="140"><br><strong>Fife, Duchess of.. (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/filipino-american/"><img src="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/sett.png" alt="Filipino American" width="140"><br><strong>Filipino American (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fily/"><img src="/variants/s3/k20w2db1~x6/sett.png" alt="Fily" width="140"><br><strong>Fily (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finlaggan/"><img src="/variants/s6/dg7w1dg18db6r18dg2~x2/sett.png" alt="Finlaggan" width="140"><br><strong>Finlaggan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finnegan/"><img src="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/sett.png" alt="Finnegan" width="140"><br><strong>Finnegan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finnie/"><img src="/variants/s8/k4n1dp5n1k20db37n4db4~x2/sett.png" alt="Finnie" width="140"><br><strong>Finnie (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finnigan/"><img src="/variants/s6/r3db15r3g8r20k2~x2/sett.png" alt="Finnigan" width="140"><br><strong>Finnigan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finnish/"><img src="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/sett.png" alt="Finnish" width="140"><br><strong>Finnish (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finzean-s-fancy/"><img src="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2008029-r1707016/sett.png" alt="Finzean's Fancy" width="140"><br><strong>Finzean's Fancy (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/finzean-s-fancy-2/"><img src="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/sett.png" alt="Finzean's Fancy" width="140"><br><strong>Finzean's Fancy (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fiona/"><img src="/variants/s13/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2~x4~w3502000-wi3802111/sett.png" alt="Fiona" width="140"><br><strong>Fiona (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/firefighters/"><img src="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/sett.png" alt="Firefighters" width="140"><br><strong>Firefighters (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/firefighters-memorial/"><img src="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/sett.png" alt="Firefighters' Memorial" width="140"><br><strong>Firefighters' Memorial (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/firenze-florence/"><img src="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/sett.png" alt="Firenze ~ Florence" width="140"><br><strong>Firenze ~ Florence (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/first/"><img src="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/sett.png" alt="First" width="140"><br><strong>First (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/first-command-fin-planning/"><img src="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/sett.png" alt="First Command Fin. Planning" width="140"><br><strong>First Command Fin. Planning (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/first-special-service-force/"><img src="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/sett.png" alt="First Special Service Force" width="140"><br><strong>First Special Service Force (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/first-special-services-forces/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces" width="140"><br><strong>First Special Services Forces (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/firth-of-tay/"><img src="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/sett.png" alt="Firth of Tay" width="140"><br><strong>Firth of Tay (1)</strong></a><div class="clan-territory">Firth of Tay</div></li>
+<li><a class="tartan" href="/tartans/f/fi/fish-hoek-high-school/"><img src="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/sett.png" alt="Fish Hoek High School" width="140"><br><strong>Fish Hoek High School (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald/"><img src="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/sett.png" alt="Fitzgerald" width="140"><br><strong>Fitzgerald (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-2/"><img src="/variants/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/sett.png" alt="Fitzgerald" width="140"><br><strong>Fitzgerald (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-3/"><img src="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/sett.png" alt="Fitzgerald" width="140"><br><strong>Fitzgerald (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-dress/"><img src="/variants/s25/w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2~x4~ri2108029-r1807016/sett.png" alt="Fitzgerald Dress" width="140"><br><strong>Fitzgerald Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-hunting/"><img src="/variants/s10/r2m3dg16b4r2b4dt36db3dt3w2~x2/sett.png" alt="Fitzgerald Hunting" width="140"><br><strong>Fitzgerald Hunting (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-hunting-2/"><img src="/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/sett.png" alt="Fitzgerald Hunting" width="140"><br><strong>Fitzgerald Hunting (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-dress-2/"><img src="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/sett.png" alt="Fitzgerald dress" width="140"><br><strong>Fitzgerald dress (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgerald-hunting-3/"><img src="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/sett.png" alt="Fitzgerald, hunting" width="140"><br><strong>Fitzgerald, hunting (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgibbon/"><img src="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2~g1906142/sett.png" alt="Fitzgibbon" width="140"><br><strong>Fitzgibbon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzgibbon-2/"><img src="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/sett.png" alt="Fitzgibbon" width="140"><br><strong>Fitzgibbon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzpatrick/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick" width="140"><br><strong>Fitzpatrick (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzpatrick-2/"><img src="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/sett.png" alt="Fitzpatrick" width="140"><br><strong>Fitzpatrick (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzsimmons/"><img src="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/sett.png" alt="Fitzsimmons" width="140"><br><strong>Fitzsimmons (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/f/fi/fitzsimmons-2/"><img src="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/sett.png" alt="Fitzsimmons" width="140"><br><strong>Fitzsimmons (1)</strong></a></li>
+</ul>

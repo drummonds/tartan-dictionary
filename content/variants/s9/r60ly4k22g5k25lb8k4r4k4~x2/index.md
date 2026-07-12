@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Alabama"
+  url: "/tartans/s/st/state-seal-of-alabama/"
 - name: "State Seal of Alabama (Fashion)"
   url: "/setts/r60ly4k22g5k25lb8k4r4k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r60ly4k22g5k25lb8k4r4k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKWKGKYR](/stripes/krkwkgkyr/).
+
+Part of the [State Seal of Alabama](/tartans/s/st/state-seal-of-alabama/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

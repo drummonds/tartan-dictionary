@@ -6,6 +6,8 @@ This is the **Equorian Olympic** sett — one scale-free proportion (`db2n1ly1dg
 [BBYGWYB](/stripes/bbygwyb/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Equorian Olympic](/tartans/e/eq/equorian-olympic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

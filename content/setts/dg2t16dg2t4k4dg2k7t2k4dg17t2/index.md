@@ -6,6 +6,8 @@ This is the **Blackwater (Fashion)** sett — one scale-free proportion (`dg2t16
 [BGKBKGKBGBG](/stripes/bgkbkgkbgbg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Blackwater](/tartans/b/bl/blackwater-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

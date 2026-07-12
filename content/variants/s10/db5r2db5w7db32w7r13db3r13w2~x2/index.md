@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "America"
+  url: "/tartans/a/am/america/"
 - name: "America (Eagle version)"
   url: "/setts/db5r2db5w7db32w7r13db3r13w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5r2db5w7db32w7r13db3r13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBWRBRW](/stripes/brbwbwrbrw/).
+
+Part of the [America](/tartans/a/am/america/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

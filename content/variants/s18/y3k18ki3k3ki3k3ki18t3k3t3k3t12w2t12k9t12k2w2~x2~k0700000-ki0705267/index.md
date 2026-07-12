@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Van Ingelgem"
+  url: "/tartans/v/va/van-ingelgem/"
 - name: "Van Ingelgem (Personal)"
   url: "/setts/y3k18ki3k3ki3k3ki18t3k3t3k3t12w2t12k9t12k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k18ki3k3ki3k3ki18t3k3t3k3t12w2t12k9t12k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKKKKKKBKBKBWBKBKW](/stripes/gkkkkkkbkbkbwbkbkw/).
+
+Part of the [Van Ingelgem](/tartans/v/va/van-ingelgem/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

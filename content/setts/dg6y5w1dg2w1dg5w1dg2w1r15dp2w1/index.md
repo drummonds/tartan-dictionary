@@ -7,7 +7,7 @@ This is the **Dunblane** sett — one scale-free proportion (`dg6y5w1dg2w1dg5w1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1822**.
 
-Part of the [Dunblane](/tartans/dunblane/) tartan — the named design grouping this sett with its kin.
+Part of the [Dunblane](/tartans/d/du/dunblane/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

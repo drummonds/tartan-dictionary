@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacEwan Arisaid"
+  url: "/tartans/m/ma/macewan-arisaid/"
 - name: "MacEwan Arisaid (Dance)"
   url: "/setts/dr3k2w18db18k3db3k3db18k18w18k2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3k2w18db18k3db3k3db18k18w18k2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKBKBKWKY](/stripes/bkwbkbkbkwky/).
+
+Part of the [MacEwan Arisaid](/tartans/m/ma/macewan-arisaid/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

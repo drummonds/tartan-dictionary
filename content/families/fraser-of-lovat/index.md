@@ -18,5 +18,5 @@ A family of [Clan Fraser](/clan/fraser/).
 </tbody>
 </table>
 
-[See the Fraser of Lovat tartan and all its setts →](/tartans/fraser-of-lovat/)
+[See the Fraser of Lovat tartan and all its setts →](/tartans/f/fr/fraser-of-lovat/)
 

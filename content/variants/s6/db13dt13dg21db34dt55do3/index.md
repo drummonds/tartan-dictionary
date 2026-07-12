@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bouncing Blackie"
-  url: "/tartans/bouncing-blackie/"
+  url: "/tartans/b/bo/bouncing-blackie/"
 - name: "Bouncing Blackie (Personal)"
   url: "/setts/db13dt13dg21db34dt55do3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db13dt13dg21db34dt55do3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBB](/stripes/bbbgbb/).
 
-Part of the [Bouncing Blackie](/tartans/bouncing-blackie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bouncing Blackie](/tartans/b/bo/bouncing-blackie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

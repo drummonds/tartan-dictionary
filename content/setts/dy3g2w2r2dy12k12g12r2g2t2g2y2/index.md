@@ -6,6 +6,8 @@ This is the **Arizona American District Tartan** sett — one scale-free proport
 [GGWRGKGRGBGGGBGRGKGRWG](/stripes/ggwrgkgrgbgggbgrgkgrwg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Arizona](/tartans/a/ar/arizona-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

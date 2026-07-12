@@ -6,6 +6,8 @@ This is the **Crombie House Check Corporate Tartan** sett — one scale-free pro
 [BGBWKWBGBG](/stripes/bgbwkwbgbg/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
+Part of the [Crombie House Check](/tartans/c/cr/crombie-house-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

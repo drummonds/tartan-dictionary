@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hubbard Foundation of Scotland (Corp"
+  url: "/tartans/h/hu/hubbard-foundation-of-scotland-corp/"
+- name: "Hubbard Foundation of Scotland (Corp"
   url: "/setts/db4y3dbi16db14dbii3db14dbii3dbi4dbii3dbi8w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4y3dbi16db14dbii3db14dbii3dbi4dbii3dbi8w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBBBBBBW](/stripes/bgbbbbbbbbw/).
+
+Part of the [Hubbard Foundation of Scotland (Corp](/tartans/h/hu/hubbard-foundation-of-scotland-corp/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

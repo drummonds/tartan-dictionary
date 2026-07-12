@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNeill"
+  url: "/tartans/m/ma/macneill-2/"
+- name: "MacNeill"
   url: "/setts/db5r3db21b5db5b40k2b2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5r3db21b5db5b40k2b2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBBBBKBW](/stripes/brbbbbkbw/).
+
+Part of the [MacNeill](/tartans/m/ma/macneill-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Women's Wear Daily Dress (Fashion)** sett — one scale-free propo
 [RKGKRKBKRKGKRKWKGKRKBKRKGKRW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Women's Wear Daily Dress](/tartans/w/wo/women-s-wear-daily-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

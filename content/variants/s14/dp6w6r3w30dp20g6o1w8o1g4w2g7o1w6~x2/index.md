@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barra Fuschia"
+  url: "/tartans/b/ba/barra-fuschia/"
+- name: "Barra Fuschia"
   url: "/setts/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWBGRWRGWGRW](/stripes/bwrwbgrwrgwgrw/).
+
+Part of the [Barra Fuschia](/tartans/b/ba/barra-fuschia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

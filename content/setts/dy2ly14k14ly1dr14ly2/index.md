@@ -6,6 +6,8 @@ This is the **United Distillers** sett — one scale-free proportion (`dy2ly14k1
 [GYKYBY](/stripes/gykyby/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [United Distillers](/tartans/u/un/united-distillers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

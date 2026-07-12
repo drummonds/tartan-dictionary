@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Waverley Care Aids Trust"
+  url: "/tartans/w/wa/waverley-care-aids-trust/"
 - name: "Waverley Care Aids Trust (Corporate)"
   url: "/setts/dr8g2dr2k1dr1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr8g2dr2k1dr1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBG](/stripes/bgbkbg/).
+
+Part of the [Waverley Care Aids Trust](/tartans/w/wa/waverley-care-aids-trust/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

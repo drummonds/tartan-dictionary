@@ -6,6 +6,8 @@ This is the **Central Washington University Wildcat** sett — one scale-free pr
 [RKRKWKRWKRW](/stripes/rkrkwkrwkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Central Washington University Wildcat](/tartans/c/ce/central-washington-university-wildcat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Nowell/Noel (Name)** sett — one scale-free proportion (`db3g4db2
 [BGBGKYR](/stripes/bgbgkyr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Nowell/Noel](/tartans/nowell-noel/) tartan — the named design grouping this sett with its kin.
+Part of the [Nowell/Noel](/tartans/n/no/nowell-noel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

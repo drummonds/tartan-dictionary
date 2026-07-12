@@ -1,0 +1,37 @@
+---
+title: "Bumbee"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GBKG](/stripes/gbkg/) — the page of every tartan sharing this colour sequence.
+
+The **Bumbee** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g10k2dp5g1/">Bumbee</a></td><td><code>G/80 K16 DP40 G/8</code></td><td>200</td><td>1991</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g10k2dp5g1/"><img src="/variants/s4/g10k2dp5g1~x8/sett.png" alt="Bumbee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Bumbee #1
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">200</div><div class="nn-name nn-base"><a href="/variants/s4/g10k2dp5g1~x8/">Bumbee</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/g10k2dp5g1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10r1w1~x2~r2109032&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.59</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10r1w1~x2~r2109032/">Wilson's No.189</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10r1w1~x2~r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g12k4g1~x2&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.63</a></div><div class="nn-threads">42</div><div class="nn-name"><a href="/variants/s3/g12k4g1~x2/">Graham</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g12k4g1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g30k20g3~x2&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.71</a></div><div class="nn-threads">146</div><div class="nn-name"><a href="/variants/s3/g30k20g3~x2/">Scotch Tape (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g30k20g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10w1r1~x2&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.75</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10w1r1~x2/">Wilson's, No 189</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10w1r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10r1y1~x2~dp1105325-r2109032&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.89</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/">Wilson's No.192</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10r1y1~x2&amp;base=g10k2dp5g1~x8" title="compare in the TTD">1.89</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10r1y1~x2/">Wilson's, No 192</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10r1y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g16k11g16dr2~x4&amp;base=g10k2dp5g1~x8" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s4/g16k11g16dr2~x4/">Kincaid of Kincaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g16k11g16dr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g7db1g2k3g2~x4&amp;base=g10k2dp5g1~x8" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">84</div><div class="nn-name nn-far"><a href="/variants/s5/g7db1g2k3g2~x4/">Peterhead</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g7db1g2k3g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3dr1k14g14lo1~x4&amp;base=g10k2dp5g1~x8" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s5/g3dr1k14g14lo1~x4/">Wcwm 1255</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g3dr1k14g14lo1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9lb1g2k4g2~x4&amp;base=g10k2dp5g1~x8" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">100</div><div class="nn-name nn-far"><a href="/variants/s5/g9lb1g2k4g2~x4/">Peterhead (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g9lb1g2k4g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.6" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s3/g12k4g1~x2/"><circle cx="344.6" cy="233.8" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s3/g30k20g3~x2/"><circle cx="336.9" cy="267.1" r="4" fill="#3465a4"><title>Scotch Tape (Corporate)</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.8" cy="225.7" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.7" cy="230.9" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.5" cy="232.9" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s5/g7db1g2k3g2~x4/"><circle cx="366.3" cy="243.8" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="263.4" cy="181.5" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.5" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><circle cx="323.6" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

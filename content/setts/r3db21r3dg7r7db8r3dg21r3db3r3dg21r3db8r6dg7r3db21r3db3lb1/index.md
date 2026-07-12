@@ -6,6 +6,8 @@ This is the **MacIntyre of Littleport** sett — one scale-free proportion (`r3d
 [RBRGRBRGRBRGRBRGRBRBW](/stripes/rbrgrbrgrbrgrbrgrbrbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacIntyre of Littleport](/tartans/m/ma/macintyre-of-littleport/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

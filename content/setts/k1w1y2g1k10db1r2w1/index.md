@@ -6,6 +6,8 @@ This is the **Kaptain Family (Personal)** sett — one scale-free proportion (`k
 [KWGGKBRW](/stripes/kwggkbrw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Kaptain](/tartans/k/ka/kaptain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

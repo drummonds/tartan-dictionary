@@ -6,6 +6,8 @@ This is the **Beauly Firth and Glens** sett — one scale-free proportion (`dp3n
 [BBBBWBKR](/stripes/bbbbwbkr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Beauly Firth and Glens](/tartans/b/be/beauly-firth-and-glens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

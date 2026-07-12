@@ -6,6 +6,8 @@ This is the **Investors Group** sett — one scale-free proportion (`lb7k2w2k2w2
 [WKBWKWKWKW](/stripes/wkbwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Investors Group](/tartans/i/in/investors-group/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

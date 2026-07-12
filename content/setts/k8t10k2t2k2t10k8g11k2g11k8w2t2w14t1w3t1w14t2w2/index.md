@@ -6,6 +6,8 @@ This is the **Campbell, The 42nd Dress** sett — one scale-free proportion (`k8
 [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Campbell, The 42nd Dress](/tartans/c/ca/campbell-the-42nd-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

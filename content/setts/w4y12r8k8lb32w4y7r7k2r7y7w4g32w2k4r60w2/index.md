@@ -7,7 +7,7 @@ This is the **Chattan, Chief of Clan** sett — one scale-free proportion (`w4y1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1816**.
 
-Part of the [Chattan Chief](/tartans/chattan-chief/) tartan — the named design grouping this sett with its kin.
+Part of the [Chattan Chief](/tartans/c/ch/chattan-chief/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

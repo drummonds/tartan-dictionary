@@ -6,6 +6,8 @@ This is the **Nicolson (Lochcarron)** sett — one scale-free proportion (`k2r8g
 [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/). It is recorded as a single **variant**, below.
 First attested **1845**.
 
+Part of the [Nicolson](/tartans/n/ni/nicolson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

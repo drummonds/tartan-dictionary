@@ -7,6 +7,8 @@ This is the **Oriel #1** sett — one scale-free proportion (`r12db2r3g20k4g20r3
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1992**.
 
+Part of the [Oriel](/tartans/o/or/oriel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

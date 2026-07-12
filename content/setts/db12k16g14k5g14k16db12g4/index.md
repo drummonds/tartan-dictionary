@@ -6,6 +6,8 @@ This is the **Norwich No.064** sett — one scale-free proportion (`db12k16g14k5
 [BKGKGKBG](/stripes/bkgkgkbg/). It is recorded as a single **variant**, below.
 First attested **1870**.
 
+Part of the [Norwich No.064](/tartans/n/no/norwich-no-064/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

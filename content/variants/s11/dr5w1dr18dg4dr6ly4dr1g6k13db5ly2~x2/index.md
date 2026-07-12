@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canfield"
+  url: "/tartans/c/ca/canfield/"
 - name: "Canfield (Personal)"
   url: "/setts/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBYBGKBY](/stripes/bwbgbybgkby/).
+
+Part of the [Canfield](/tartans/c/ca/canfield/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

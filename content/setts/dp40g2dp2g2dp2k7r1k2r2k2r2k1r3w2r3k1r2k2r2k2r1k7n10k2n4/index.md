@@ -6,6 +6,8 @@ This is the **Isle of Arran (Lochcarron) (Fashion)** sett — one scale-free pro
 [BGBGBKRKRKRKRWRKRKRKRKBKB](/stripes/bgbgbkrkrkrkrwrkrkrkrkbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Isle of Arran](/tartans/i/is/isle-of-arran/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

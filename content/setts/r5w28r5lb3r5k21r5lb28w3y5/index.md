@@ -6,6 +6,8 @@ This is the **Stirling & Bannockburn Dress (Dist)** sett — one scale-free prop
 [GWWRKRWRWR](/stripes/gwwrkrwrwr/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Stirling & Bannockburn Dress](/tartans/s/st/stirling-bannockburn-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

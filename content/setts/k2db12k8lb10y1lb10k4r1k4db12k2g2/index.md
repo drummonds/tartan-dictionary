@@ -6,7 +6,7 @@ This is the **Auchinachie** sett — one scale-free proportion (`k2db12k8lb10y1l
 [GKBKRKWGWKBK](/stripes/gkbkrkwgwkbk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Auchinachie](/tartans/auchinachie/) tartan — the named design grouping this sett with its kin.
+Part of the [Auchinachie](/tartans/a/au/auchinachie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

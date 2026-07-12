@@ -6,6 +6,8 @@ This is the **MacKellar Dress, Cerise (Dance)** sett — one scale-free proporti
 [KWRKRWRWRWR](/stripes/kwrkrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [MacKellar Dress, Cerise](/tartans/m/ma/mackellar-dress-cerise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

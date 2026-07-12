@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sikh"
-  url: "/tartans/sikh/"
+  url: "/tartans/s/si/sikh/"
 - name: "Sikh"
   url: "/setts/o56k12o7k12o7dg50db50y10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/o56k12o7k12o7dg50db50y10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRKRKR](/stripes/gbgrkrkr/).
 
-Part of the [Sikh](/tartans/sikh/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Sikh](/tartans/s/si/sikh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

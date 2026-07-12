@@ -6,6 +6,8 @@ This is the **Ofally, County** sett — one scale-free proportion (`r6db2g5db18g
 [RBGBGBKBGY](/stripes/rbgbgbkbgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Ofally, County](/tartans/o/of/ofally-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

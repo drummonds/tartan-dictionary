@@ -6,6 +6,8 @@ This is the **McCallie** sett — one scale-free proportion (`r2k6db33w2`), colo
 [RKBW](/stripes/rkbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [McCallie](/tartans/m/mc/mccallie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

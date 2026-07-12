@@ -6,7 +6,7 @@ This is the **Beck (Personal)** sett — one scale-free proportion (`k4w2lb15r6l
 [KWKWKWWWKWWRWWK](/stripes/kwkwkwwwkwwrwwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Beck](/tartans/beck/) tartan — the named design grouping this sett with its kin.
+Part of the [Beck](/tartans/b/be/beck/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

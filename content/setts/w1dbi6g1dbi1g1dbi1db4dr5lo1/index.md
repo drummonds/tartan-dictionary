@@ -6,6 +6,8 @@ This is the **McLion (Corporate)** sett — one scale-free proportion (`w1dbi6g1
 [WBGBGBBBY](/stripes/wbgbgbbby/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [McLion](/tartans/m/mc/mclion-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

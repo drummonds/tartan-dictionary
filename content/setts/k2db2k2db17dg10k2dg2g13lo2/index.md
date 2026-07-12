@@ -6,6 +6,8 @@ This is the **Pro Simon** sett — one scale-free proportion (`k2db2k2db17dg10k2
 [KBKBGKGGY](/stripes/kbkbgkggy/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Pro Simon](/tartans/p/pr/pro-simon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

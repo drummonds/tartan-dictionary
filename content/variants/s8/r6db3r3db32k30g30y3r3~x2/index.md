@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Borrodale"
+  url: "/families/macdonald-of-borrodale/"
+- name: "MacDonald of Borrodale"
+  url: "/tartans/m/ma/macdonald-of-borrodale/"
 - name: "MacDonald of Borrodale (Clan)"
   url: "/setts/r6db3r3db32k30g30y3r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6db3r3db32k30g30y3r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBKGGR](/stripes/rbrbkggr/).
+
+Part of the [MacDonald of Borrodale](/tartans/m/ma/macdonald-of-borrodale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

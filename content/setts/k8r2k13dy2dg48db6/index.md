@@ -6,7 +6,7 @@ This is the **Green Swamp Youth Campers** sett — one scale-free proportion (`k
 [BGGKRK](/stripes/bggkrk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Green Swamp Youth Campers](/tartans/green-swamp-youth-campers/) tartan — the named design grouping this sett with its kin.
+Part of the [Green Swamp Youth Campers](/tartans/g/gr/green-swamp-youth-campers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

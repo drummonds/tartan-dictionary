@@ -6,6 +6,8 @@ This is the **State Seal of Nebraska (Fashion)** sett — one scale-free proport
 [BWBGGBWBGY](/stripes/bwbggbwbgy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Nebraska](/tartans/s/st/state-seal-of-nebraska/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

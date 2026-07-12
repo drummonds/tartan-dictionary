@@ -1,0 +1,47 @@
+---
+title: "Stewart of Appin Dress"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Appin"
+  url: "/families/stewart-of-appin/"
+---
+A tartan of the [Stewart of Appin](/families/stewart-of-appin/) family.
+Its design is pattern [BRBWKWRWRW](/stripes/brbwkwrwrw/) — the page of every tartan sharing this colour sequence.
+
+The **Stewart of Appin Dress** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db8r3db34lb3k9w31r5w3r3w8/">Stewart of Appin Dress</a> ★</td><td><code>DB/8 R3 DB34 LB3 K9 W31 R5 W3 R3 W/8</code></td><td>198</td><td>~2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r3db34lb3k9w31r5w3r3w8/"><img src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png" alt="Stewart of Appin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/">Stuart/Stewart of Appin Dress</a> · <a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/">Clan Tartan</a></td></tr>
+<tr><td><a href="/setts/db8r3db34b3k9w31r5w3r3w8/">Stewart of Appin, dress</a></td><td><code>DB/16 R6 DB68 B6 K18 W62 R10 W6 R6 W/16</code></td><td>396</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db8r3db34b3k9w31r5w3r3w8/"><img src="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/sett.png" alt="Stewart of Appin, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Stewart of Appin, dress
+- Stuart/Stewart of Appin Dress
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">198</div><div class="nn-name nn-base"><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/">Stewart of Appin Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8r3db34lb3k9w31r5w3r3w8~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">0.00</a></div><div class="nn-threads">396</div><div class="nn-name"><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/">Stewart of Appin Dress Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8r3db34b3k9w31r5w3r3w8~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">0.02</a></div><div class="nn-threads">396</div><div class="nn-name"><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/">Stewart of Appin, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5g2w23k7db4k3db3k3db11r2db2r3~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">1.69</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/">Sutherland, Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db23w2db3lb4db3w2db5k11dp2w23k3~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">1.89</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/">MacKellar Royal Blue Dress Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w6dg2w27k10db4k4db4k4db15r2db2r4~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">1.91</a></div><div class="nn-threads">316</div><div class="nn-name"><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/">Sutherland Dress, Old (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb12k1lb1k1lb1db8w9n2~x4&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/">Arran - 1989 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w17k2db6lb6w1db1dp10k2dp3~x4&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/">Hebridean Arisaid Blue (Dance) Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/">Rangers Dress (Sports)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db68k42w32r5w32dg4w6&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">2.46</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s7/db68k42w32r5w32dg4w6/">Ferguson Dress #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db68k42w32r5w32dg4w6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1k1w2k2w2k1w4k1db9y1~x4&amp;base=db8r3db34lb3k9w31r5w3r3w8" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/">Thom(p)son</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/"><circle cx="156.6" cy="140.5" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.6" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.9" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.0" cy="131.8" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.1" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.7" cy="158.3" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.6" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.5" cy="113.4" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s7/db68k42w32r5w32dg4w6/"><circle cx="144.1" cy="154.0" r="4" fill="#3465a4"><title>Ferguson Dress #2</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.7" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><circle cx="156.6" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

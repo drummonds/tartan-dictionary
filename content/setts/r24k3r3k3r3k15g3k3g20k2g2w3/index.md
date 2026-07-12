@@ -6,6 +6,8 @@ This is the **Duns Pipe Band** sett — one scale-free proportion (`r24k3r3k3r3k
 [RKRKRKGKGKGW](/stripes/rkrkrkgkgkgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Duns Pipe Band](/tartans/d/du/duns-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

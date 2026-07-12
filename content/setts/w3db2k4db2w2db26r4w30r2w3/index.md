@@ -6,6 +6,8 @@ This is the **Harris, Royal Blue (Dance)** sett — one scale-free proportion (`
 [WBKBWBRWRW](/stripes/wbkbwbrwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Harris Royal](/tartans/h/ha/harris-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

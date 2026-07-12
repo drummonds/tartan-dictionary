@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Neill Pipe Band 1970"
+  url: "/tartans/o/o/o-neill-pipe-band-1970/"
 - name: "O'Neill Pipe Band 1970 (Corporate)"
   url: "/setts/g1lb4dy12lb3dy6lb12g1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1lb4dy12lb3dy6lb12g1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGWGWGW](/stripes/gwgwgwgw/).
+
+Part of the [O'Neill Pipe Band 1970](/tartans/o/o/o-neill-pipe-band-1970/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

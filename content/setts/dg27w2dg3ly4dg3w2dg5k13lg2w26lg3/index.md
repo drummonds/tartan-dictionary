@@ -6,6 +6,8 @@ This is the **MacKellar Dress, Green (Dance)** sett — one scale-free proportio
 [GWGYGWGKYWY](/stripes/gwgygwgkywy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [MacKellar Dress](/tartans/m/ma/mackellar-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

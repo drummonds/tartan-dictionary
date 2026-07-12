@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wild Geese"
-  url: "/tartans/wild-geese/"
+  url: "/tartans/w/wi/wild-geese/"
 - name: "Wild Geese (Corporate)"
   url: "/setts/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k1w5k1r5dg13k2g4k2g11dg20ly7dg5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKRGKGKGGYG](/stripes/bkwkrgkgkggyg/).
 
-Part of the [Wild Geese](/tartans/wild-geese/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Wild Geese](/tartans/w/wi/wild-geese/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

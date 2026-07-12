@@ -6,6 +6,8 @@ This is the **Hébert Kitenge Family (Personal)** sett — one scale-free propor
 [GBGWGWBRGRBGBWBGRWR](/stripes/gbgwgwbrgrbgbwbgrwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hebert Kitenge](/tartans/h/he/hebert-kitenge/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

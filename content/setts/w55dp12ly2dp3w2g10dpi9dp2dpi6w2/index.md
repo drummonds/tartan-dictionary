@@ -6,6 +6,8 @@ This is the **Stewart Dress, Purple (Dance)** sett — one scale-free proportion
 [WBBBGWBYBW](/stripes/wbbbgwbybw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Stewart Dress](/tartans/s/st/stewart-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

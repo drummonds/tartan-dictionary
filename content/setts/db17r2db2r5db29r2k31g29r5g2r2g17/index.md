@@ -6,7 +6,7 @@ This is the **MacDonald** sett — one scale-free proportion (`db17r2db2r5db29r2
 [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [MacDonald](/tartans/macdonald-3/) tartan — the named design grouping this sett with its kin.
+Part of the [MacDonald](/tartans/m/ma/macdonald-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

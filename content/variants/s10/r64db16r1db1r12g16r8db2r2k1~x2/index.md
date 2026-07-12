@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moffat"
+  url: "/tartans/m/mo/moffat/"
 - name: "Moffat District District Tartan"
   url: "/setts/r64db16r1db1r12g16r8db2r2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r64db16r1db1r12g16r8db2r2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRGRBRBR](/stripes/krbrgrbrbr/).
+
+Part of the [Moffat](/tartans/m/mo/moffat/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

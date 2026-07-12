@@ -6,6 +6,8 @@ This is the **Bathija (Name)** sett — one scale-free proportion (`ly4g18t4r8t8
 [WRBRBGY](/stripes/wrbrbgy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Bathija](/tartans/b/ba/bathija/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

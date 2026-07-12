@@ -6,6 +6,8 @@ This is the **Ballantrae (Dalgety)** sett — one scale-free proportion (`dy5r3d
 [GRGGGGR](/stripes/grggggr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Ballantrae](/tartans/b/ba/ballantrae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

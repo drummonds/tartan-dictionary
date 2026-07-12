@@ -6,7 +6,7 @@ This is the **Cultoquhey Hotel Corporate Tartan** sett — one scale-free propor
 [RBKGY](/stripes/rbkgy/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Cultoquhey Hotel](/tartans/cultoquhey-hotel/) tartan — the named design grouping this sett with its kin.
+Part of the [Cultoquhey Hotel](/tartans/c/cu/cultoquhey-hotel/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

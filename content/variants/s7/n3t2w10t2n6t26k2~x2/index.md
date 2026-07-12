@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLintock"
+  url: "/tartans/m/ma/maclintock-2/"
 - name: "MacLintock #2"
   url: "/setts/n3t2w10t2n6t26k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3t2w10t2n6t26k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBBBK](/stripes/bbwbbbk/).
+
+Part of the [MacLintock](/tartans/m/ma/maclintock-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

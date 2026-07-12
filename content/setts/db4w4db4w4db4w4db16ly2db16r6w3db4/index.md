@@ -6,6 +6,8 @@ This is the **Parker Dress (USA)** sett — one scale-free proportion (`db4w4db4
 [BWBWBWBYBRWB](/stripes/bwbwbwbybrwb/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Parker Dress](/tartans/p/pa/parker-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

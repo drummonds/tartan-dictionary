@@ -6,7 +6,7 @@ This is the **MacFarlane, hunting** sett — one scale-free proportion (`g64k3g2
 [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacFarlane Hunting](/tartans/macfarlane-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [MacFarlane Hunting](/tartans/m/ma/macfarlane-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

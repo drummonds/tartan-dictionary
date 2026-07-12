@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gabrielle"
+  url: "/tartans/g/ga/gabrielle-2/"
 - name: "Gabrielle (Fashion)"
   url: "/setts/n48dr4n6ly2n2lb2n2dr10t6n2t3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n48dr4n6ly2n2lb2n2dr10t6n2t3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBYBWBBBBBW](/stripes/bbbybwbbbbbw/).
+
+Part of the [Gabrielle](/tartans/g/ga/gabrielle-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

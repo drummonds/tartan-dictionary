@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Durie"
+  url: "/tartans/d/du/durie/"
 - name: "Durie (Clan)"
   url: "/setts/db12dr1db1dr1db1dr4g12y1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12dr1db1dr1db1dr4g12y1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGGG](/stripes/bbbbbbggg/).
+
+Part of the [Durie](/tartans/d/du/durie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

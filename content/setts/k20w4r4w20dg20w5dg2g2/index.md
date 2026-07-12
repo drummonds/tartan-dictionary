@@ -6,6 +6,8 @@ This is the **Hackett, William (Coatbridge) (Personal)** sett — one scale-free
 [GGWGWRWK](/stripes/ggwgwrwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hackett, William](/tartans/h/ha/hackett-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

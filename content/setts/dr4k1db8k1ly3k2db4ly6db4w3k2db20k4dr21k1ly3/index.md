@@ -6,6 +6,8 @@ This is the **Westmeath County Crest (Fashion)** sett — one scale-free proport
 [BKBKYKBYBWKBKBKY](/stripes/bkbkykbybwkbkbky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Westmeath County Crest](/tartans/w/we/westmeath-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

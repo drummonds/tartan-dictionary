@@ -7,6 +7,8 @@ This is the **Unidentified (Scolpaig)** sett — one scale-free proportion (`k10
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1813**.
 
+Part of the [Scoepaig fragment](/tartans/s/sc/scoepaig-fragment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hubbard (2016)** sett — one scale-free proportion (`db5r19k2g8r3
 [BRKGRGKGK](/stripes/brkgrgkgk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Hubbard](/tartans/h/hu/hubbard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

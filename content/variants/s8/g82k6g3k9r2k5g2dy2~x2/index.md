@@ -10,7 +10,7 @@ crumbs:
 - name: "Crane of Clunie"
   url: "/families/crane-of-clunie/"
 - name: "Crane of Clunie"
-  url: "/tartans/crane-of-clunie/"
+  url: "/tartans/c/cr/crane-of-clunie/"
 - name: "Crane of Cluny (Personal)"
   url: "/setts/g82k6g3k9r2k5g2dy2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g82k6g3k9r2k5g2dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRKGKG](/stripes/ggkrkgkg/).
 
-Part of the [Crane of Clunie](/tartans/crane-of-clunie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crane of Clunie](/tartans/c/cr/crane-of-clunie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oban Mist"
+  url: "/tartans/o/ob/oban-mist-2/"
+- name: "Oban Mist"
   url: "/setts/k8t1o1ki10o16lb2k3n33t1n3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8t1o1ki10o16lb2k3n33t1n3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRKRWKBBBW](/stripes/kbrkrwkbbbw/).
+
+Part of the [Oban Mist](/tartans/o/ob/oban-mist-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

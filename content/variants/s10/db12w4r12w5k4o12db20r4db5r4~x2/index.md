@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Commonwealth"
+  url: "/tartans/c/co/commonwealth-2/"
+- name: "Commonwealth"
   url: "/setts/db12w4r12w5k4o12db20r4db5r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12w4r12w5k4o12db20r4db5r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWKRBRBR](/stripes/bwrwkrbrbr/).
+
+Part of the [Commonwealth](/tartans/c/co/commonwealth-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

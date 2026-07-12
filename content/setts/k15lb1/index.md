@@ -6,6 +6,8 @@ This is the **Joy's Fancy, Allen (Personal)** sett — one scale-free proportion
 [KW](/stripes/kw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Joy's Fancy, Allen](/tartans/j/jo/joy-s-fancy-allen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

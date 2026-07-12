@@ -7,7 +7,7 @@ This is the **Scotland the Brave** sett — one scale-free proportion (`db6w1db4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
-Part of the [Scotland the Brave](/tartans/scotland-the-brave/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

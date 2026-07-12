@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leslie Hunting"
-  url: "/tartans/leslie-hunting/"
+  url: "/tartans/l/le/leslie-hunting/"
 - name: "Syme"
   url: "/setts/k1g8w1k8db8r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1g8w1k8db8r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWKBR](/stripes/kgwkbr/).
 
-Part of the [Leslie Hunting](/tartans/leslie-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leslie Hunting](/tartans/l/le/leslie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

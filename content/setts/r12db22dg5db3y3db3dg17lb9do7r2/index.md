@@ -6,6 +6,8 @@ This is the **Royal Dornoch Golf Club, The** sett — one scale-free proportion 
 [RBGBGBGWBR](/stripes/rbgbgbgwbr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Royal Dornoch Golf Club, The](/tartans/r/ro/royal-dornoch-golf-club-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

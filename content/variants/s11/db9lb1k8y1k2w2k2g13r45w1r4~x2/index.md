@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Scarlett"
+  url: "/tartans/u/un/unidentified-scarlett/"
 - name: "Unidentified Scarlett #16"
   url: "/setts/db9lb1k8y1k2w2k2g13r45w1r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9lb1k8y1k2w2k2g13r45w1r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGKWKGRWRWRGKWKGKW](/stripes/bwkgkwkgrwrwrgkwkgkw/).
+
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,6 +6,8 @@ This is the **Brice (Artefact)** sett — one scale-free proportion (`r6k9r12w2k
 [RKRWKW](/stripes/rkrwkw/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Brice](/tartans/b/br/brice-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

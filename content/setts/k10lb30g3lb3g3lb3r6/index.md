@@ -6,7 +6,7 @@ This is the **Kinding (Personal)** sett — one scale-free proportion (`k10lb30g
 [KWGWGWR](/stripes/kwgwgwr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Kinding](/tartans/kinding/) tartan — the named design grouping this sett with its kin.
+Part of the [Kinding](/tartans/k/ki/kinding/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

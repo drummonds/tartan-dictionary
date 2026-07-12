@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caithelyn"
-  url: "/tartans/caithelyn/"
+  url: "/tartans/c/ca/caithelyn/"
 - name: "Caithelyn (Personal)"
   url: "/setts/db20k2w2k2db2k10g3k2g20k2g3k10db8k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20k2w2k2db2k10g3k2g20k2g3k10db8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/).
 
-Part of the [Caithelyn](/tartans/caithelyn/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caithelyn](/tartans/c/ca/caithelyn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

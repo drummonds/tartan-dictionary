@@ -6,6 +6,8 @@ This is the **Aberdale (Fashion)** sett — one scale-free proportion (`lb4k1db1
 [WKBKBBBBBBBKY](/stripes/wkbkbbbbbbbky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Aberdale](/tartans/a/ab/aberdale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

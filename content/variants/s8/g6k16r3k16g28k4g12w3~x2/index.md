@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
+- name: "MacAulay of Lewis"
+  url: "/families/macaulay-of-lewis/"
+- name: "MacAulay of Lewis"
+  url: "/tartans/m/ma/macaulay-of-lewis/"
 - name: "MacAulay of Lewis"
   url: "/setts/g6k16r3k16g28k4g12w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g6k16r3k16g28k4g12w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKGKGW](/stripes/gkrkgkgw/).
+
+Part of the [MacAulay of Lewis](/tartans/m/ma/macaulay-of-lewis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Price-Powell"
+  url: "/tartans/p/pr/price-powell/"
 - name: "Price-Powell (Personal)"
   url: "/setts/k14g14k8y4k4g14k14db14dp5db4dp5db14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k14g14k8y4k4g14k14db14dp5db4dp5db14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBKGKGKGK](/stripes/bbbbbkgkgkgk/).
+
+Part of the [Price-Powell](/tartans/p/pr/price-powell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

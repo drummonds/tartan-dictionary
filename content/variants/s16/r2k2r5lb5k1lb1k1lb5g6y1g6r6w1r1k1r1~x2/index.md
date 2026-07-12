@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified No 3"
+  url: "/tartans/u/un/unidentified-no-3-2/"
+- name: "Unidentified No 3"
   url: "/setts/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRWKWKWGGGRWRKR](/stripes/rkrwkwkwgggrwrkr/).
+
+Part of the [Unidentified No 3](/tartans/u/un/unidentified-no-3-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

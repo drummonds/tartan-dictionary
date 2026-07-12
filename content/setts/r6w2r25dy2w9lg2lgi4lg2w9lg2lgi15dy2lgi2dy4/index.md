@@ -6,6 +6,8 @@ This is the **Sakura (Japanese Four Seasons)** sett — one scale-free proportio
 [GYGYYWYYYWGRWR](/stripes/gygyywyyywgrwr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Sakura](/tartans/s/sa/sakura/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

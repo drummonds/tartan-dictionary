@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "London Caledonian Commemorative"
+  url: "/tartans/l/lo/london-caledonian-commemorative/"
 - name: "London Caledonian Commemorative Tartan"
   url: "/setts/r9db2r21lb2r2db8r2g2r2g17r2db2r8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9db2r21lb2r2db8r2g2r2g17r2db2r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRGRGRBRWRBR](/stripes/rbrgrgrbrwrbr/).
+
+Part of the [London Caledonian Commemorative](/tartans/l/lo/london-caledonian-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 

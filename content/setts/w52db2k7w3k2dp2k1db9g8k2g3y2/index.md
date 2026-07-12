@@ -6,6 +6,8 @@ This is the **Canmore Highland Games Dress (Corp)** sett — one scale-free prop
 [GGKGBKBKWKBW](/stripes/ggkgbkbkwkbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Canmore Highland Games Dress](/tartans/c/ca/canmore-highland-games-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

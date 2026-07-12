@@ -6,6 +6,8 @@ This is the **Raith Rovers F.C.** sett — one scale-free proportion (`db6w2b2w3
 [BWBWBRBR](/stripes/bwbwbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Raith Rovers F.C.](/tartans/r/ra/raith-rovers-f-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

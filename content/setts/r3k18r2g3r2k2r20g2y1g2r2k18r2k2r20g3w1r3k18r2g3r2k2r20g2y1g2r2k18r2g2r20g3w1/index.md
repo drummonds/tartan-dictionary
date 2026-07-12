@@ -6,6 +6,8 @@ This is the **Unidentified Scarlett #3** sett — one scale-free proportion (`r3
 [RKRGRKRGGGRKRKRGWRKRGRKRGGGRKRGRGW](/stripes/rkrgrkrgggrkrkrgwrkrgrkrgggrkrgrgw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Unidentified Scarlett](/tartans/u/un/unidentified-scarlett-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

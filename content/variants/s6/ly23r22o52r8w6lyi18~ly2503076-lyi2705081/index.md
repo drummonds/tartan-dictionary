@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lady Boys of Bangkok"
+  url: "/tartans/l/la/lady-boys-of-bangkok/"
 - name: "Lady Boys of Bangkok (Corporate)"
   url: "/setts/ly23r22o52r8w6lyi18/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly23r22o52r8w6lyi18/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YRRRWY](/stripes/yrrrwy/).
+
+Part of the [Lady Boys of Bangkok](/tartans/l/la/lady-boys-of-bangkok/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

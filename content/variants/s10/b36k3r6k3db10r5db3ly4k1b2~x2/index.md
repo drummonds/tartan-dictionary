@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Mead"
+  url: "/clan/mead/"
+- name: "Mead"
+  url: "/tartans/m/me/mead/"
 - name: "Mead (Personal)"
   url: "/setts/b36k3r6k3db10r5db3ly4k1b2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b36k3r6k3db10r5db3ly4k1b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKBRBYKB](/stripes/bkrkbrbykb/).
+
+Part of the [Mead](/tartans/m/me/mead/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

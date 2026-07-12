@@ -6,6 +6,8 @@ This is the **Ettrick (Green) District Tartan** sett — one scale-free proporti
 [BGRGRBRGGGRGRGWGRBGRGRGB](/stripes/bgrgrbrgggrgrgwgrbgrgrgb/). It is recorded as a single **variant**, below.
 First attested **1971**.
 
+Part of the [Ettrick](/tartans/e/et/ettrick-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

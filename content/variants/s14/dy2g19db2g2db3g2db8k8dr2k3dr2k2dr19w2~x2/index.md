@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gotts"
+  url: "/tartans/g/go/gotts/"
 - name: "Gotts (Personal)"
   url: "/setts/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBGBKBKBKBW](/stripes/ggbgbgbkbkbkbw/).
+
+Part of the [Gotts](/tartans/g/go/gotts/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

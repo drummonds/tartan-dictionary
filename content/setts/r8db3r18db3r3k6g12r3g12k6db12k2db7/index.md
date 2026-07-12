@@ -6,6 +6,8 @@ This is the **Unidentified Sample #2** sett — one scale-free proportion (`r8db
 [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Unidentified Sample](/tartans/u/un/unidentified-sample-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

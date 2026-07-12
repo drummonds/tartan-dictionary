@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manson"
+  url: "/tartans/m/ma/manson-2/"
 - name: "Manson Family Tartan"
   url: "/setts/g1r9g3k3g3r1k9w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1r9g3k3g3r1k9w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGRKW](/stripes/grgkgrkw/).
+
+Part of the [Manson](/tartans/m/ma/manson-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clan Pipers Frankfurt and District Pipe Band"
+  url: "/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/"
+- name: "Clan Pipers Frankfurt and District Pipe Band"
   url: "/setts/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
+
+Part of the [Clan Pipers Frankfurt and District Pipe Band](/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

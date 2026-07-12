@@ -6,6 +6,8 @@ This is the **Gallagher Ancient** sett — one scale-free proportion (`db4dg41ly
 [BGYGYGRYW](/stripes/bgygygryw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Gallagher](/tartans/g/ga/gallagher/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

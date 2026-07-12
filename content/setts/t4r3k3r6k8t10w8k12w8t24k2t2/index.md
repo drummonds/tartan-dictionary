@@ -6,6 +6,8 @@ This is the **Trillard (Personal)** sett — one scale-free proportion (`t4r3k3r
 [BKBWKWBKRKRB](/stripes/bkbwkwbkrkrb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Trillard](/tartans/t/tr/trillard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

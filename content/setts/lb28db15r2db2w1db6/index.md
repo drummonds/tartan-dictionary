@@ -6,6 +6,8 @@ This is the **Corries** sett — one scale-free proportion (`lb28db15r2db2w1db6`
 [BWBRBW](/stripes/bwbrbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Corries](/tartans/c/co/corries/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

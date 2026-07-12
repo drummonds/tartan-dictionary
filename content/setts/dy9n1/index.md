@@ -6,7 +6,7 @@ This is the **Outlander #4** sett — one scale-free proportion (`dy9n1`), colou
 [BG](/stripes/bg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Outlander](/tartans/outlander/) tartan — the named design grouping this sett with its kin.
+Part of the [Outlander](/tartans/o/ou/outlander/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

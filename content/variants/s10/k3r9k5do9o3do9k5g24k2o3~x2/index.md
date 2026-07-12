@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cavan"
+  url: "/tartans/c/ca/cavan/"
+- name: "Cavan"
   url: "/setts/k3r9k5do9o3do9k5g24k2o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3r9k5do9o3do9k5g24k2o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKBRBKGKR](/stripes/krkbrbkgkr/).
+
+Part of the [Cavan](/tartans/c/ca/cavan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

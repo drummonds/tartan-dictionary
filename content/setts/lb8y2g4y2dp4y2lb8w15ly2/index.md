@@ -6,6 +6,8 @@ This is the **Edmonton, City of** sett — one scale-free proportion (`lb8y2g4y2
 [WGGGBGWWY](/stripes/wgggbgwwy/). It is recorded as a single **variant**, below.
 First attested **1977**.
 
+Part of the [City of Edmonton](/tartans/c/ci/city-of-edmonton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

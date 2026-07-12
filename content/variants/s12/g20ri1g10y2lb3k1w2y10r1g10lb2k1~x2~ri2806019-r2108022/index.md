@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Lethbridge"
+  url: "/tartans/c/ci/city-of-lethbridge/"
 - name: "Lethbridge, City of"
   url: "/setts/g20ri1g10y2lb3k1w2y10r1g10lb2k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g20ri1g10y2lb3k1w2y10r1g10lb2k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGGWKWGRGWK](/stripes/grggwkwgrgwk/).
+
+Part of the [City of Lethbridge](/tartans/c/ci/city-of-lethbridge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

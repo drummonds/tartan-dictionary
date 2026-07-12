@@ -6,6 +6,8 @@ This is the **Children's Wish Foundation of Canada** sett — one scale-free pro
 [KYKYKWKY](/stripes/kykykwky/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Children's Wish Foundation of Canada](/tartans/c/ch/children-s-wish-foundation-of-canada/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Montrose (Macnaughton variation)** sett — one scale-free proport
 [BKBBKGBKB](/stripes/bkbbkgbkb/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Montrose](/tartans/montrose-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Montrose](/tartans/m/mo/montrose-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor Hunting Glengyle"
+  url: "/tartans/m/ma/macgregor-hunting-glengyle/"
 - name: "MacGregor Hunting Glengyle Clan Tartan"
   url: "/setts/r96g42r16g17k4lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r96g42r16g17k4lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGKW](/stripes/rgrgkw/).
+
+Part of the [MacGregor Hunting Glengyle](/tartans/m/ma/macgregor-hunting-glengyle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Festival Celtique de Qubecc"
+  url: "/tartans/f/fe/festival-celtique-de-qubecc/"
+- name: "Festival Celtique de Qubecc"
   url: "/setts/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBWBGWYBRYR](/stripes/gkgkbwbgwybryr/).
+
+Part of the [Festival Celtique de Qubecc](/tartans/f/fe/festival-celtique-de-qubecc/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

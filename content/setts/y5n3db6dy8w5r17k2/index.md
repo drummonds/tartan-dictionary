@@ -6,6 +6,8 @@ This is the **Barrington Municipality** sett — one scale-free proportion (`y5n
 [GBBGWRK](/stripes/gbbgwrk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Barrington Municipality](/tartans/b/ba/barrington-municipality/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

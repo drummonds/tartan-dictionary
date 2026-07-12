@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Williamson"
-  url: "/tartans/williamson/"
+  url: "/tartans/w/wi/williamson/"
 - name: "Williamson (Personal)"
   url: "/setts/dr7db20dr4k18g20dp5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr7db20dr4k18g20dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGB](/stripes/bbbkgb/).
 
-Part of the [Williamson](/tartans/williamson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Williamson](/tartans/w/wi/williamson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

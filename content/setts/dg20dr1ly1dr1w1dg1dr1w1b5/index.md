@@ -6,6 +6,8 @@ This is the **Scotts Valley** sett — one scale-free proportion (`dg20dr1ly1dr1
 [BWBGWBYBG](/stripes/bwbgwbybg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Scotts Valley](/tartans/s/sc/scotts-valley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Mazda** sett — one scale-free proportion (`w4k4w21k12w4k12ly4`),
 [WKWKWKY](/stripes/wkwkwky/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Mazda](/tartans/m/ma/mazda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

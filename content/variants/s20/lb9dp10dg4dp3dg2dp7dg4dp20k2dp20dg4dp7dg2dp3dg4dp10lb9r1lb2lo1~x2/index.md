@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michie"
+  url: "/tartans/m/mi/michie-2/"
 - name: "Michie (Name)"
   url: "/setts/lb9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10lb9r1lb2lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10lb9r1lb2lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBGBGBKBGBGBGBWRWY](/stripes/wbgbgbgbkbgbgbgbwrwy/).
+
+Part of the [Michie](/tartans/m/mi/michie-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

@@ -6,6 +6,8 @@ This is the **Fraser Hunting Dress Clan Tartan** sett — one scale-free proport
 [BGGGWGWGGGR](/stripes/bgggwgwgggr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Fraser Hunting Dress](/tartans/f/fr/fraser-hunting-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

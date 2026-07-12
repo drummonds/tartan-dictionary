@@ -6,6 +6,8 @@ This is the **Perthshire, New /Tourist Board** sett — one scale-free proportio
 [BRGBGR](/stripes/brgbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Perthshire, New /Tourist Board](/tartans/p/pe/perthshire-new-tourist-board/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

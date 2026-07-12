@@ -6,6 +6,8 @@ This is the **Spirit of Russia, The** sett — one scale-free proportion (`w4db2
 [WBWRWBRBKW](/stripes/wbwrwbrbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Spirit of Russia, The](/tartans/s/sp/spirit-of-russia-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

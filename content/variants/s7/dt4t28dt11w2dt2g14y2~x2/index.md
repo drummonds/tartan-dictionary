@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rhode Island, State of"
+  url: "/tartans/r/rh/rhode-island-state-of/"
+- name: "Rhode Island, State of"
   url: "/setts/dt4t28dt11w2dt2g14y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt4t28dt11w2dt2g14y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBGG](/stripes/bbbwbgg/).
+
+Part of the [Rhode Island, State of](/tartans/r/rh/rhode-island-state-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

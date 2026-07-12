@@ -6,6 +6,8 @@ This is the **London Fog Safari (Fashion)** sett — one scale-free proportion (
 [BWKWKW](/stripes/bwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [London Fog Safari](/tartans/l/lo/london-fog-safari/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

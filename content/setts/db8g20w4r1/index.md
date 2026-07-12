@@ -6,6 +6,8 @@ This is the **Farooq (Personal)** sett — one scale-free proportion (`db8g20w4r
 [BGWR](/stripes/bgwr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Farooq](/tartans/f/fa/farooq/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

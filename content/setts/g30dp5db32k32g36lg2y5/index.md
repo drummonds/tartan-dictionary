@@ -6,6 +6,8 @@ This is the **Camelot (Corporate)** sett — one scale-free proportion (`g30dp5d
 [GBBKGYG](/stripes/gbbkgyg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Camelot](/tartans/c/ca/camelot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

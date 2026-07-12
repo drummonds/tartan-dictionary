@@ -6,6 +6,8 @@ This is the **U.S. Ancient Order of Hibernians (Co** sett — one scale-free pro
 [RGWGBGKBKBYBY](/stripes/rgwgbgkbkbyby/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [U.S. Ancient Order of Hibernians (Co](/tartans/u/u/u-s-ancient-order-of-hibernians-co/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

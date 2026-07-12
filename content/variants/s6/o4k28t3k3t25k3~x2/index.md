@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Slanj"
+  url: "/tartans/s/sl/slanj-2/"
 - name: "Slanj (Corporate)"
   url: "/setts/o4k28t3k3t25k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o4k28t3k3t25k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKR](/stripes/kbkbkr/).
+
+Part of the [Slanj](/tartans/s/sl/slanj-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

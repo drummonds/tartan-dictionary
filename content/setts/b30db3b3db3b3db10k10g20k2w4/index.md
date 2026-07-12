@@ -6,7 +6,7 @@ This is the **St Kentigern College** sett — one scale-free proportion (`b30db3
 [BBBBBBKGKW](/stripes/bbbbbbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [St Kentigern College](/tartans/st-kentigern-college/) tartan — the named design grouping this sett with its kin.
+Part of the [St Kentigern College](/tartans/s/st/st-kentigern-college/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

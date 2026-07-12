@@ -6,7 +6,7 @@ This is the **MacMillan/Isetan** sett — one scale-free proportion (`g68r24g8dy
 [GGGGRG](/stripes/ggggrg/). It is recorded as a single **variant**, below.
 First attested **1960**.
 
-Part of the [MacMillan/Isetan](/tartans/macmillan-isetan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan/Isetan](/tartans/m/ma/macmillan-isetan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

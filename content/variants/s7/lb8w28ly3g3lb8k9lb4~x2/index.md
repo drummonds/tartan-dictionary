@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacTavish"
+  url: "/clan/mactavish/"
+- name: "MacTavish of Dunardry"
+  url: "/families/mactavish-of-dunardry/"
+- name: "MacTavish of Dunardry"
+  url: "/tartans/m/ma/mactavish-of-dunardry/"
 - name: "MacTavish of Dunardry Dress"
   url: "/setts/lb8w28ly3g3lb8k9lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb8w28ly3g3lb8k9lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGYWW](/stripes/wkwgyww/).
+
+Part of the [MacTavish of Dunardry](/tartans/m/ma/mactavish-of-dunardry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

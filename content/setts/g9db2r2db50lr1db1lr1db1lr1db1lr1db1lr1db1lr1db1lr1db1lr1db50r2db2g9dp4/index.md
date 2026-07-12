@@ -6,6 +6,8 @@ This is the **G8 Summit Corporate Tartan** sett — one scale-free proportion (`
 [BGBRBYBYBYBYBYBYBYBYBRBG](/stripes/bgbrbybybybybybybybybrbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [G8 Summit](/tartans/g/g/g8-summit-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

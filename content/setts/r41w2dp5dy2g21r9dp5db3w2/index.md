@@ -6,7 +6,7 @@ This is the **Perthshire or Drummond District Tartan** sett — one scale-free p
 [RWBGGRBBW](/stripes/rwbggrbbw/). It is recorded as a single **variant**, below.
 First attested **~1819**.
 
-Part of the [Perthshire or Drummond](/tartans/perthshire-or-drummond/) tartan — the named design grouping this sett with its kin.
+Part of the [Perthshire or Drummond](/tartans/p/pe/perthshire-or-drummond/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

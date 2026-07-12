@@ -7,7 +7,7 @@ This is the **MacNab** sett — one scale-free proportion (`g8dr1g1dr1g1dr6r8dr1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacNab](/tartans/macnab-5/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNab](/tartans/m/ma/macnab-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Deeside Plaid (Taobh Dhi)** sett — one scale-free proportion (`b
 [BGBBBWBBBGBG](/stripes/bgbbbwbbbgbg/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Deeside](/tartans/d/de/deeside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

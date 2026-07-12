@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kansai St Andrews Society"
-  url: "/tartans/kansai-st-andrews-society/"
+  url: "/tartans/k/ka/kansai-st-andrews-society/"
 - name: "Kansai St Andrews Society (Corp)"
   url: "/setts/t33w2r3w2db14ri3g15t20r2t3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t33w2r3w2db14ri3g15t20r2t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBGRBWRWB](/stripes/brbgrbwrwb/).
 
-Part of the [Kansai St Andrews Society](/tartans/kansai-st-andrews-society/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kansai St Andrews Society](/tartans/k/ka/kansai-st-andrews-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

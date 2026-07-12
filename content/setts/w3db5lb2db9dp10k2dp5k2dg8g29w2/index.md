@@ -6,7 +6,7 @@ This is the **Carnegie of Skibo (Corporate)** sett — one scale-free proportion
 [WBWBBKBKGGW](/stripes/wbwbbkbkggw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
-Part of the [Carnegie of Skibo](/tartans/carnegie-of-skibo/) tartan — the named design grouping this sett with its kin.
+Part of the [Carnegie of Skibo](/tartans/c/ca/carnegie-of-skibo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

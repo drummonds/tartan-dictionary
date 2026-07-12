@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Institute of Sport"
+  url: "/tartans/s/sc/scottish-institute-of-sport/"
+- name: "Scottish Institute of Sport"
   url: "/setts/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBRWWWRBRBG](/stripes/bgbrbrwwwrbrbg/).
+
+Part of the [Scottish Institute of Sport](/tartans/s/sc/scottish-institute-of-sport/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

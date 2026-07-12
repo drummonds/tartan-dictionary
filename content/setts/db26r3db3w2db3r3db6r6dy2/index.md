@@ -6,6 +6,8 @@ This is the **Newton Primary School** sett — one scale-free proportion (`db26r
 [BRBWBRBRG](/stripes/brbwbrbrg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Newton Primary](/tartans/n/ne/newton-primary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

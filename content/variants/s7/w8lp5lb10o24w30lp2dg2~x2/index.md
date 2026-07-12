@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Shiel Magenta"
-  url: "/tartans/shiel-magenta/"
+  url: "/tartans/s/sh/shiel-magenta/"
 - name: "Shiel, Magenta (Dance)"
   url: "/setts/w8lp5lb10o24w30lp2dg2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w8lp5lb10o24w30lp2dg2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWWRWWW](/stripes/gwwrwww/).
 
-Part of the [Shiel Magenta](/tartans/shiel-magenta/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Shiel Magenta](/tartans/s/sh/shiel-magenta/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -7,6 +7,8 @@ This is the **Hutchesons' Grammar School** sett — one scale-free proportion (`
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [Hutchesons' Grammar](/tartans/h/hu/hutchesons-grammar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

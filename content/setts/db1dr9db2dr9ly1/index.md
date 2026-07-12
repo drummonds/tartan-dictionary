@@ -6,6 +6,8 @@ This is the **Brooks Bros Tattersall Red (Fashion)** sett — one scale-free pro
 [BBBBY](/stripes/bbbby/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Brooks Bros Tattersall](/tartans/b/br/brooks-bros-tattersall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

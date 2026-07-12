@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Princess Margaret Rose"
-  url: "/tartans/princess-margaret-rose/"
+  url: "/tartans/p/pr/princess-margaret-rose/"
 - name: "Princess Margaret Rose Tartan"
   url: "/setts/g36r18g4r6k1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g36r18g4r6k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRKW](/stripes/grgrkw/).
 
-Part of the [Princess Margaret Rose](/tartans/princess-margaret-rose/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Princess Margaret Rose](/tartans/p/pr/princess-margaret-rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

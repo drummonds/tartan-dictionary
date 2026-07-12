@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cascade Summers"
+  url: "/tartans/c/ca/cascade-summers/"
+- name: "Cascade Summers"
   url: "/setts/k3lb13m11t3k10w2k10t3g6m3lg13t3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3lb13m11t3k10w2k10t3g6m3lg13t3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYRGBKWKBRWK](/stripes/byrgbkwkbrwk/).
+
+Part of the [Cascade Summers](/tartans/c/ca/cascade-summers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

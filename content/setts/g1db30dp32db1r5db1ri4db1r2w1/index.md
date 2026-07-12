@@ -6,6 +6,8 @@ This is the **Gill, Anil (Personal)** sett — one scale-free proportion (`g1db3
 [GBBBRBRBRW](/stripes/gbbbrbrbrw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Gill, Anil](/tartans/g/gi/gill-anil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

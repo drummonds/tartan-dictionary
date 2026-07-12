@@ -6,6 +6,8 @@ This is the **Order of the Holy Sepulchre** sett — one scale-free proportion (
 [GWRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRW](/stripes/gwrkrkwywkrkwrwkrkrwrkrkwrwkrkwywkrkrw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Order of the Holy Sepulchre](/tartans/o/or/order-of-the-holy-sepulchre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

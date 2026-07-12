@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canadian Caledonian Hunting"
-  url: "/tartans/canadian-caledonian-hunting/"
+  url: "/tartans/c/ca/canadian-caledonian-hunting/"
 - name: "Canadian Caledonian Hunting"
   url: "/setts/db3k1g16lo1dr1lb1dr6g3dr1g3lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3k1g16lo1dr1lb1dr6g3dr1g3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGYBWBGBGW](/stripes/bkgybwbgbgw/).
 
-Part of the [Canadian Caledonian Hunting](/tartans/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Canadian Caledonian Hunting](/tartans/c/ca/canadian-caledonian-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

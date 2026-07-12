@@ -6,6 +6,8 @@ This is the **Wilson's No.171** sett — one scale-free proportion (`dy29g17k1w3
 [GGKWKYKWGWKYKWGWKYKWGWKYKWKG](/stripes/ggkwkykwgwkykwgwkykwgwkykwkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wilson's No.171](/tartans/w/wi/wilson-s-no-171/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

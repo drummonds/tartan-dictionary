@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peterson, Oren"
+  url: "/tartans/p/pe/peterson-oren/"
 - name: "Peterson, Oren (Name)"
   url: "/setts/w1db15r1n10g2lp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w1db15r1n10g2lp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBGW](/stripes/wbrbgw/).
+
+Part of the [Peterson, Oren](/tartans/p/pe/peterson-oren/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

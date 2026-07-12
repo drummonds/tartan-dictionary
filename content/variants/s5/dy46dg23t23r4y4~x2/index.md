@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McMoosie Hunting"
+  url: "/tartans/m/mc/mcmoosie-hunting/"
 - name: "McMoosie Htg (Fashion)"
   url: "/setts/dy46dg23t23r4y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy46dg23t23r4y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBRG](/stripes/ggbrg/).
+
+Part of the [McMoosie Hunting](/tartans/m/mc/mcmoosie-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

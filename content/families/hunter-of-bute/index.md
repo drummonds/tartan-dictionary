@@ -18,5 +18,5 @@ A family of [Clan Hunter](/clan/hunter/).
 </tbody>
 </table>
 
-[See the Hunter of Bute tartan and all its setts →](/tartans/hunter-of-bute/)
+[See the Hunter of Bute tartan and all its setts →](/tartans/h/hu/hunter-of-bute/)
 

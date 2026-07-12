@@ -6,6 +6,8 @@ This is the **Pritchard** sett — one scale-free proportion (`w24db2k2ly1k1w1dg
 [WBGBGWKYKBW](/stripes/wbgbgwkykbw/). It is recorded as a single **variant**, below.
 First attested **1923**.
 
+Part of the [Pritchard](/tartans/p/pr/pritchard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

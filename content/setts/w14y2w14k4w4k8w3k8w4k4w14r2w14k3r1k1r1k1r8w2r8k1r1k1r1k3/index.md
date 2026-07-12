@@ -6,6 +6,8 @@ This is the **Casey (Dress) Fashion Tartan** sett — one scale-free proportion 
 [KRKRKRWRKRKRKWRWKWKWKWKWGW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Casey](/tartans/c/ca/casey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

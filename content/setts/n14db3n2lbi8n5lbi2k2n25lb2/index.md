@@ -6,6 +6,8 @@ This is the **Turnberry Scotland** sett — one scale-free proportion (`n14db3n2
 [BBBWBWKBW](/stripes/bbbwbwkbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Turnberry Scotland](/tartans/t/tu/turnberry-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

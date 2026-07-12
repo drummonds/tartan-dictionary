@@ -6,6 +6,8 @@ This is the **Louth County, Crest Range** sett — one scale-free proportion (`d
 [GGKGKGKGWKR](/stripes/ggkgkgkgwkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Louth County, Crest Range](/tartans/l/lo/louth-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

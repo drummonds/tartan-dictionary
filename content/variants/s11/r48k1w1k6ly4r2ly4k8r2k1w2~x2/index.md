@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glennie"
+  url: "/tartans/g/gl/glennie/"
 - name: "Glennie (Personal)"
   url: "/setts/r48k1w1k6ly4r2ly4k8r2k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r48k1w1k6ly4r2ly4k8r2k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWKYRYKRKW](/stripes/rkwkyrykrkw/).
+
+Part of the [Glennie](/tartans/g/gl/glennie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

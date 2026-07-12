@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCanna NW Hunting"
+  url: "/tartans/m/mc/mccanna-nw-hunting/"
 - name: "McCanna NW Htg (Personal)"
   url: "/setts/k1dy4dg1k1dg1k1dy1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1dy4dg1k1dg1k1dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGGK](/stripes/gkgkggk/).
+
+Part of the [McCanna NW Hunting](/tartans/m/mc/mccanna-nw-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -6,6 +6,8 @@ This is the **Wolves Wod Kindred** sett — one scale-free proportion (`n2dg2r9k
 [BGRKGG](/stripes/bgrkgg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Wolves Wod Kindred](/tartans/w/wo/wolves-wod-kindred/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gold Country"
-  url: "/tartans/gold-country/"
+  url: "/tartans/g/go/gold-country/"
 - name: "Gold Country (District)"
   url: "/setts/db18t18ly28n13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db18t18ly28n13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYB](/stripes/bbyb/).
 
-Part of the [Gold Country](/tartans/gold-country/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gold Country](/tartans/g/go/gold-country/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

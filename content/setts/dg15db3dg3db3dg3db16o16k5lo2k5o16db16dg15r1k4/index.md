@@ -6,7 +6,7 @@ This is the **Loseby, Luke (Personal)** sett — one scale-free proportion (`dg1
 [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Loseby, Luke](/tartans/loseby-luke/) tartan — the named design grouping this sett with its kin.
+Part of the [Loseby, Luke](/tartans/l/lo/loseby-luke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

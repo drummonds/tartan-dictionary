@@ -6,7 +6,7 @@ This is the **MacLaren Dress (Clan)** sett — one scale-free proportion (`db2w1
 [BWKGRGKY](/stripes/bwkgrgky/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
-Part of the [MacLaren Dress](/tartans/maclaren-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLaren Dress](/tartans/m/ma/maclaren-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

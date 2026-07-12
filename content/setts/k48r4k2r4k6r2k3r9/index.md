@@ -6,6 +6,8 @@ This is the **Menzies Hunting** sett — one scale-free proportion (`k48r4k2r4k6
 [KRKRKRKR](/stripes/krkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [Menzies Hunting](/tartans/m/me/menzies-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

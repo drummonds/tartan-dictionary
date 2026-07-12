@@ -6,6 +6,8 @@ This is the **Park (Estate Check)** sett — one scale-free proportion (`g4dg18d
 [GGGGGY](/stripes/gggggy/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Park](/tartans/p/pa/park/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

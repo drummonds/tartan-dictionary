@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Noble"
-  url: "/tartans/noble/"
+  url: "/tartans/n/no/noble/"
 - name: "Noble (South Africa) (Personal)"
   url: "/setts/ly4dy3dg2k6g4w1dg12k10g2dg3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly4dy3dg2k6g4w1dg12k10g2dg3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGWGKGGY](/stripes/ggkgwgkggy/).
 
-Part of the [Noble](/tartans/noble/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Noble](/tartans/n/no/noble/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Caledonian"
-  url: "/tartans/caledonian/"
+  url: "/tartans/c/ca/caledonian/"
 - name: "Caledonian District Tartan"
   url: "/setts/r60dp20r8g45r8dp2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r60dp20r8g45r8dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
-Part of the [Caledonian](/tartans/caledonian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Caledonian](/tartans/c/ca/caledonian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

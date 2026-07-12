@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jamieson, Robert"
+  url: "/tartans/j/ja/jamieson-robert/"
 - name: "Jamieson, Robert (Personal)"
   url: "/setts/lb6ly6t21db32r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6ly6t21db32r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBYW](/stripes/rbbyw/).
+
+Part of the [Jamieson, Robert](/tartans/j/ja/jamieson-robert/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

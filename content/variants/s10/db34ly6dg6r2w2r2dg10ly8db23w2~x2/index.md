@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "International Pairs"
+  url: "/tartans/i/in/international-pairs/"
 - name: "International Pairs (Corporate)"
   url: "/setts/db34ly6dg6r2w2r2dg10ly8db23w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db34ly6dg6r2w2r2dg10ly8db23w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGRWRGYBW](/stripes/bygrwrgybw/).
+
+Part of the [International Pairs](/tartans/i/in/international-pairs/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

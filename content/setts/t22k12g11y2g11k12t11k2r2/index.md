@@ -6,6 +6,8 @@ This is the **Huntly Gordon Fancy Tartan** sett — one scale-free proportion (`
 [BKGGGKBKR](/stripes/bkgggkbkr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Huntly Gordon Fancy](/tartans/h/hu/huntly-gordon-fancy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

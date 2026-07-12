@@ -6,6 +6,8 @@ This is the **de Vere-Austin (Clan)** sett — one scale-free proportion (`dg14k
 [BKBKGKYKGKG](/stripes/bkbkgkykgkg/). It is recorded as a single **variant**, below.
 First attested **~1984**.
 
+Part of the [de Vere-Austin](/tartans/d/de/de-vere-austin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ferguson Red, George (Personal)** sett — one scale-free proporti
 [RBRRRRRRRRRR](/stripes/rbrrrrrrrrrr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Ferguson Red, George](/tartans/f/fe/ferguson-red-george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

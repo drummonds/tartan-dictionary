@@ -6,6 +6,8 @@ This is the **Loch Tummel** sett — one scale-free proportion (`dy38w9dy3k9w3`)
 [GWGKW](/stripes/gwgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Loch Tummel](/tartans/l/lo/loch-tummel-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

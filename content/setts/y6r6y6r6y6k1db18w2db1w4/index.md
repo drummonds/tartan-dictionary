@@ -6,7 +6,7 @@ This is the **Catalunya Escocia** sett — one scale-free proportion (`y6r6y6r6y
 [GRGRGKBWBW](/stripes/grgrgkbwbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Catalunya Escocia](/tartans/catalunya-escocia/) tartan — the named design grouping this sett with its kin.
+Part of the [Catalunya Escocia](/tartans/c/ca/catalunya-escocia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

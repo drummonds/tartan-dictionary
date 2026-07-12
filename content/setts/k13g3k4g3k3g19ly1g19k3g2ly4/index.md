@@ -6,6 +6,8 @@ This is the **American Monahan (Personal)** sett — one scale-free proportion (
 [KGKGKGYGKGY](/stripes/kgkgkgygkgy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [American Monahan](/tartans/a/am/american-monahan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

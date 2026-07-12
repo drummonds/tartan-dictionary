@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manitoba"
+  url: "/tartans/m/ma/manitoba-4/"
+- name: "Manitoba"
   url: "/setts/y6r21b2dg6b41lb2b2lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6r21b2dg6b41lb2b2lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGBWBW](/stripes/grbgbwbw/).
+
+Part of the [Manitoba](/tartans/m/ma/manitoba-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

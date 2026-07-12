@@ -6,6 +6,8 @@ This is the **Clergy (WCWM)** sett — one scale-free proportion (`y1db4y1db3y1k
 [GBGBGKGKBGBG](/stripes/gbgbgkgkbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Clergy](/tartans/c/cl/clergy-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Antarctic** sett — one scale-free proportion (`w2db32lb11w4k11dy
 [WBWWKGYBWBWW](/stripes/wbwwkgybwbww/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Antarctic](/tartans/a/an/antarctic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

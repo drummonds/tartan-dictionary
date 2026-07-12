@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDonald Pattern of Plaids"
+  url: "/tartans/m/ma/macdonald-pattern-of-plaids/"
+- name: "MacDonald Pattern of Plaids"
   url: "/setts/db16r4db6r10db30r4k30w34r9w6r4w16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16r4db6r10db30r4k30w34r9w6r4w16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/).
+
+Part of the [MacDonald Pattern of Plaids](/tartans/m/ma/macdonald-pattern-of-plaids/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

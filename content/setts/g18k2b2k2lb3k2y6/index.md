@@ -6,7 +6,7 @@ This is the **Alberta** sett — one scale-free proportion (`g18k2b2k2lb3k2y6`),
 [GKBKWKG](/stripes/gkbkwkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Alberta](/tartans/alberta/) tartan — the named design grouping this sett with its kin.
+Part of the [Alberta](/tartans/a/al/alberta/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

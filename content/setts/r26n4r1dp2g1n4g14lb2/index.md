@@ -6,6 +6,8 @@ This is the **Redpath, Robert A (Personal)** sett — one scale-free proportion 
 [RBRBGBGW](/stripes/rbrbgbgw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Redpath, Robert A](/tartans/r/re/redpath-robert-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

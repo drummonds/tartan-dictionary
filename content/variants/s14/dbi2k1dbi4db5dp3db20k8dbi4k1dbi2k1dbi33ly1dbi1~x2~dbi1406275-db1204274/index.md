@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Payne"
   url: "/clan/payne/"
 - name: "Payne"
-  url: "/tartans/payne/"
+  url: "/tartans/p/pa/payne/"
 - name: "Payne (Name)"
   url: "/setts/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBBBKBKBKBYB](/stripes/bkbbbbkbkbkbyb/).
 
-Part of the [Payne](/tartans/payne/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Payne](/tartans/p/pa/payne/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

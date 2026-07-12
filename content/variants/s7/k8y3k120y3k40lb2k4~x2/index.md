@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochaber"
+  url: "/tartans/l/lo/lochaber/"
 - name: "Lochaber (Hesketh)"
   url: "/setts/k8y3k120y3k40lb2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8y3k120y3k40lb2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKWK](/stripes/kgkgkwk/).
+
+Part of the [Lochaber](/tartans/l/lo/lochaber/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

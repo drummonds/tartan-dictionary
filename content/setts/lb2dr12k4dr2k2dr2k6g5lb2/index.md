@@ -6,6 +6,8 @@ This is the **O'Neill (District)** sett — one scale-free proportion (`lb2dr12k
 [WBKBKBKGW](/stripes/wbkbkbkgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [O'Neill](/tartans/o/o/o-neill-9/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

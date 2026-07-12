@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bouguet, Adrian"
+  url: "/tartans/b/bo/bouguet-adrian-2/"
 - name: "Bouguet, Adrian (Personal)"
   url: "/setts/lbii14lb9lo4g3lbi3lbii14g3lo4lbii14lo2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lbii14lb9lo4g3lbi3lbii14g3lo4lbii14lo2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWYGWWGYWYW](/stripes/wwygwwgywyw/).
+
+Part of the [Bouguet, Adrian](/tartans/b/bo/bouguet-adrian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

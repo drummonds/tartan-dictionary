@@ -6,6 +6,8 @@ This is the **Old Spice (Corporate)** sett — one scale-free proportion (`dr104
 [BGBGBGWBWB](/stripes/bgbgbgwbwb/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Old Spice](/tartans/o/ol/old-spice/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kyle, Grape (Dance)** sett — one scale-free proportion (`dp17g1d
 [BGBKBGBKWG](/stripes/bgbkbgbkwg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Kyle Grape](/tartans/k/ky/kyle-grape/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

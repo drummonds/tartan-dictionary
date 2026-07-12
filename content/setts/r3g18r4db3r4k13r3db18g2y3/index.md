@@ -6,6 +6,8 @@ This is the **Stirling & Bannockburn (District)** sett — one scale-free propor
 [GGBRKRBRGR](/stripes/ggbrkrbrgr/). It is recorded as a single **variant**, below.
 First attested **~1820**.
 
+Part of the [Stirling & Bannockburn](/tartans/s/st/stirling-bannockburn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

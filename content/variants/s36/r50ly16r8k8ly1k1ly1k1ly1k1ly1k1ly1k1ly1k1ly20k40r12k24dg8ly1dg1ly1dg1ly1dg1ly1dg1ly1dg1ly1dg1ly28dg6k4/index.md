@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince Edward Island"
+  url: "/tartans/p/pr/prince-edward-island/"
 - name: "Prince Edward Island (Commemorative)"
   url: "/setts/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR](/stripes/kgygygygygygygygkrkykykykykykykykryr/).
+
+Part of the [Prince Edward Island](/tartans/p/pr/prince-edward-island/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

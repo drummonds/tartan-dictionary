@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebridean Granite"
+  url: "/tartans/h/he/hebridean-granite-2/"
+- name: "Hebridean Granite"
   url: "/setts/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKRKBWBKRKRW](/stripes/rwrkrkbwbkrkrw/).
+
+Part of the [Hebridean Granite](/tartans/h/he/hebridean-granite-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

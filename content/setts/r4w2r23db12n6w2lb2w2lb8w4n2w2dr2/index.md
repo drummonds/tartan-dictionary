@@ -6,6 +6,8 @@ This is the **Diana Memorial Rose** sett — one scale-free proportion (`r4w2r23
 [BWBWWWWWBBRWR](/stripes/bwbwwwwwbbrwr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Diana Memorial Rose](/tartans/d/di/diana-memorial-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

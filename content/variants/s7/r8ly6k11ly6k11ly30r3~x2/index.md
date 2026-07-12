@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackberry"
+  url: "/tartans/b/bl/blackberry/"
 - name: "Blackberry (Fashion)"
   url: "/setts/r8ly6k11ly6k11ly30r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r8ly6k11ly6k11ly30r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYKYKYR](/stripes/rykykyr/).
+
+Part of the [Blackberry](/tartans/b/bl/blackberry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

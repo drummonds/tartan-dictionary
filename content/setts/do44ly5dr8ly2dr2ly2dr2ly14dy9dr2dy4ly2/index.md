@@ -6,6 +6,8 @@ This is the **Waverly Check Corporate Tartan** sett — one scale-free proportio
 [BYBYBYBYGBGY](/stripes/bybybybygbgy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Waverly Check](/tartans/w/wa/waverly-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

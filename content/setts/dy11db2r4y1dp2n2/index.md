@@ -6,7 +6,7 @@ This is the **Windy Meadows** sett — one scale-free proportion (`dy11db2r4y1dp
 [BBGRBG](/stripes/bbgrbg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Windy Meadows](/tartans/windy-meadows/) tartan — the named design grouping this sett with its kin.
+Part of the [Windy Meadows](/tartans/w/wi/windy-meadows/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

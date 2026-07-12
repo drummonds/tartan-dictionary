@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glendinning"
+  url: "/tartans/g/gl/glendinning/"
 - name: "Glendinning (Personal)"
   url: "/setts/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBKKKKKKGWKWKGK](/stripes/bwbkkkkkkgwkwkgk/).
+
+Part of the [Glendinning](/tartans/g/gl/glendinning/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

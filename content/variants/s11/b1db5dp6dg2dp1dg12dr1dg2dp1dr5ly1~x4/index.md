@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jamie Telfer of the Fair Dodhead Commemorative"
+  url: "/tartans/j/ja/jamie-telfer-of-the-fair-dodhead-commemorative/"
 - name: "Telfer, Jamie (Name)"
   url: "/setts/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBGBGBGBBY](/stripes/bbbgbgbgbby/).
+
+Part of the [Jamie Telfer of the Fair Dodhead Commemorative](/tartans/j/ja/jamie-telfer-of-the-fair-dodhead-commemorative/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

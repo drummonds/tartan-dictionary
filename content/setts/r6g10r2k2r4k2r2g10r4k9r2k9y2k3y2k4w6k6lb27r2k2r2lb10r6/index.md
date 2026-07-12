@@ -6,6 +6,8 @@ This is the **Anderson (MacGregor-Hastie #3)** sett — one scale-free proportio
 [RGRKRKRGRKRKGKGKWKWRKRWR](/stripes/rgrkrkrgrkrkgkgkwkwrkrwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Anderson](/tartans/a/an/anderson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

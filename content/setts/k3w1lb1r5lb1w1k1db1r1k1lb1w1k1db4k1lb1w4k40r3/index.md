@@ -6,7 +6,7 @@ This is the **J.C.M. Customs** sett — one scale-free proportion (`k3w1lb1r5lb1
 [KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [JCM Customs](/tartans/jcm-customs/) tartan — the named design grouping this sett with its kin.
+Part of the [JCM Customs](/tartans/j/jc/jcm-customs/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

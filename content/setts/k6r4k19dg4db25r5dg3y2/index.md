@@ -6,7 +6,7 @@ This is the **Bootneck 350** sett — one scale-free proportion (`k6r4k19dg4db25
 [GGRBGKRK](/stripes/ggrbgkrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Bootneck 350](/tartans/bootneck-350/) tartan — the named design grouping this sett with its kin.
+Part of the [Bootneck 350](/tartans/b/bo/bootneck-350/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

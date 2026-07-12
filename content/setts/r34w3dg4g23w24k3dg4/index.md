@@ -6,6 +6,8 @@ This is the **MacLachlan Dress Clan Tartan** sett — one scale-free proportion 
 [GKWGGWR](/stripes/gkwggwr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [MacLachlan Dress](/tartans/m/ma/maclachlan-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

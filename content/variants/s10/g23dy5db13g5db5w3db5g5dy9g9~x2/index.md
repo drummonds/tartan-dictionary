@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacScott"
+  url: "/tartans/m/ma/macscott/"
 - name: "MacScott Family (America) (Personal)"
   url: "/setts/g23dy5db13g5db5w3db5g5dy9g9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g23dy5db13g5db5w3db5g5dy9g9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBGBWBGGG](/stripes/ggbgbwbggg/).
+
+Part of the [MacScott](/tartans/m/ma/macscott/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

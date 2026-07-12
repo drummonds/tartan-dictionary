@@ -6,6 +6,8 @@ This is the **Stevens #2** sett — one scale-free proportion (`db4lr3db4lr3o3n1
 [BYBYRBR](/stripes/bybyrbr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Stevens](/tartans/s/st/stevens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

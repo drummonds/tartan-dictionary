@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bruntsfield Links Golfing Society"
+  url: "/tartans/b/br/bruntsfield-links-golfing-society/"
+- name: "Bruntsfield Links Golfing Society"
   url: "/setts/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6g22dg8g4dg12g2dg18db8lb12db35ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGGGGBWBY](/stripes/rggggggbwby/).
+
+Part of the [Bruntsfield Links Golfing Society](/tartans/b/br/bruntsfield-links-golfing-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

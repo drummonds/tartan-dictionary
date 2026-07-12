@@ -6,6 +6,8 @@ This is the **Kerr of Ardgowan Arisaid (Personal)** sett — one scale-free prop
 [GWYYYBRBGYBWY](/stripes/gwyyybrbgybwy/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Kerr of Ardgowan Arisaid](/tartans/k/ke/kerr-of-ardgowan-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

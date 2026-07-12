@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathdon"
-  url: "/tartans/strathdon-2/"
+  url: "/tartans/s/st/strathdon-2/"
 - name: "Strathdon (District?)"
   url: "/setts/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRRYRBYRYW](/stripes/rbrbrbrryrbyryw/).
 
-Part of the [Strathdon](/tartans/strathdon-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Strathdon](/tartans/s/st/strathdon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

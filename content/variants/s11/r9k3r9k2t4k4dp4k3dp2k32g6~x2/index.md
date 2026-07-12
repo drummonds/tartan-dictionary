@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brotherhood of Dirk"
+  url: "/tartans/b/br/brotherhood-of-dirk/"
 - name: "Brotherhood of Dirk (Corporate)"
   url: "/setts/r9k3r9k2t4k4dp4k3dp2k32g6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r9k3r9k2t4k4dp4k3dp2k32g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBKRKR](/stripes/gkbkbkbkrkr/).
+
+Part of the [Brotherhood of Dirk](/tartans/b/br/brotherhood-of-dirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

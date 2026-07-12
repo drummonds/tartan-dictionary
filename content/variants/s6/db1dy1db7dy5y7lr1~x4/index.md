@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dewar"
+  url: "/tartans/d/de/dewar-3/"
 - name: "Dewar (WCWM)"
   url: "/setts/db1dy1db7dy5y7lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db1dy1db7dy5y7lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGGY](/stripes/bgbggy/).
+
+Part of the [Dewar](/tartans/d/de/dewar-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

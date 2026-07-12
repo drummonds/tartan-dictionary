@@ -6,7 +6,7 @@ This is the **Texas Lone Star** sett — one scale-free proportion (`r50db14w6db
 [RBGBWBR](/stripes/rbgbwbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Texas Lone Star](/tartans/texas-lone-star/) tartan — the named design grouping this sett with its kin.
+Part of the [Texas Lone Star](/tartans/t/te/texas-lone-star/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

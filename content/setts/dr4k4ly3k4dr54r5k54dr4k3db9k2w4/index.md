@@ -6,6 +6,8 @@ This is the **German American** sett — one scale-free proportion (`dr4k4ly3k4d
 [BKYKBRKBKBKW](/stripes/bkykbrkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [German American](/tartans/g/ge/german-american/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

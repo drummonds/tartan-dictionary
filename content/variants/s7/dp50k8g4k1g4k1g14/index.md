@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ahmlaigh"
+  url: "/tartans/a/ah/ahmlaigh/"
 - name: "Ahmlaigh (Corporate)"
   url: "/setts/dp50k8g4k1g4k1g14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp50k8g4k1g4k1g14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKG](/stripes/bkgkgkg/).
+
+Part of the [Ahmlaigh](/tartans/a/ah/ahmlaigh/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

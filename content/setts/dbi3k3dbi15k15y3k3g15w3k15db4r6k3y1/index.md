@@ -6,6 +6,8 @@ This is the **Allison** sett — one scale-free proportion (`dbi3k3dbi15k15y3k3g
 [BKBKGKGWKBRKG](/stripes/bkbkgkgwkbrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Allison](/tartans/a/al/allison-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

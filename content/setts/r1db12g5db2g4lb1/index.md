@@ -6,6 +6,8 @@ This is the **Connaught Green** sett — one scale-free proportion (`r1db12g5db2
 [RBGBGW](/stripes/rbgbgw/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Connaught](/tartans/c/co/connaught/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

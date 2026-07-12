@@ -6,6 +6,8 @@ This is the **Swedish Para Whisky Club (Corporate** sett — one scale-free prop
 [BGWBYB](/stripes/bgwbyb/). It is recorded as a single **variant**, below.
 First attested **~2012**.
 
+Part of the [Swedish Para Whisky Club (Corporate](/tartans/s/sw/swedish-para-whisky-club-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

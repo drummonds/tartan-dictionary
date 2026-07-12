@@ -6,6 +6,8 @@ This is the **Discover Islay (District)** sett — one scale-free proportion (`d
 [BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Discover Islay](/tartans/d/di/discover-islay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

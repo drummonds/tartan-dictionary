@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
+- name: "East Lothian"
+  url: "/tartans/e/ea/east-lothian-2/"
 - name: "East Lothian (Fashion) Fashion Tartan"
   url: "/setts/db17dp4db2k11g33y4g33k11db2dp4db17lb6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db17dp4db2k11g33y4g33k11db2dp4db17lb6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKGGGKBBBW](/stripes/bbbkgggkbbbw/).
+
+Part of the [East Lothian](/tartans/e/ea/east-lothian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

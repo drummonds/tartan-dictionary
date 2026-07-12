@@ -6,6 +6,8 @@ This is the **Clyde Valley HOG** sett — one scale-free proportion (`k54lb6k6lb
 [GKYBWKWK](/stripes/gkybwkwk/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Clyde Valley HOG](/tartans/c/cl/clyde-valley-hog/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

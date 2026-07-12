@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maine, Original State of"
+  url: "/tartans/m/ma/maine-original-state-of/"
 - name: "Maine, Original State of (Fashion)"
   url: "/setts/dg2db2lb23db2lb2db6lb2db2dg33r2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2db2lb23db2lb2db6lb2db2dg33r2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWBGRW](/stripes/gbwbwbwbgrw/).
+
+Part of the [Maine, Original State of](/tartans/m/ma/maine-original-state-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

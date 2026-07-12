@@ -6,7 +6,7 @@ This is the **Kansai Highland Games** sett — one scale-free proportion (`dp2k1
 [BKBGW](/stripes/bkbgw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Kansai Highland Games](/tartans/kansai-highland-games/) tartan — the named design grouping this sett with its kin.
+Part of the [Kansai Highland Games](/tartans/k/ka/kansai-highland-games/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

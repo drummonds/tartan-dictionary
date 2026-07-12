@@ -6,6 +6,8 @@ This is the **Macan, of Lurgyvallan (Hose)** sett — one scale-free proportion 
 [KRGRKR](/stripes/krgrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Macan, of Lurgyvallan](/tartans/m/ma/macan-of-lurgyvallan-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

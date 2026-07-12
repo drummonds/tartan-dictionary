@@ -6,6 +6,8 @@ This is the **Daks (Blue Loden)** sett — one scale-free proportion (`ly3lb7do2
 [YBWBRBWY](/stripes/ybwbrbwy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Daks](/tartans/d/da/daks-11/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

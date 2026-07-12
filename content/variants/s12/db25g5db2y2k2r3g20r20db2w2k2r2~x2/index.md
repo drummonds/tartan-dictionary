@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Quebec Plaid Du.."
+  url: "/tartans/q/qu/quebec-plaid-du/"
 - name: "Quebec Plaid Du.. Corporate Tartan"
   url: "/setts/db25g5db2y2k2r3g20r20db2w2k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25g5db2y2k2r3g20r20db2w2k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKRGRBWKR](/stripes/bgbgkrgrbwkr/).
+
+Part of the [Quebec Plaid Du..](/tartans/q/qu/quebec-plaid-du/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Livingstone Dress** sett — one scale-free proportion (`db54w3k3w
 [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Livingstone Dress](/tartans/l/li/livingstone-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

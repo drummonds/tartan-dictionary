@@ -6,6 +6,8 @@ This is the **Dark Island Navy Fashion Tartan** sett — one scale-free proporti
 [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Dark Island Navy](/tartans/d/da/dark-island-navy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

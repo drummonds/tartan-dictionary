@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDowall"
+  url: "/tartans/m/ma/macdowall/"
+- name: "MacDowall"
   url: "/setts/y3w12k3w3k3w3k7db48k7db3g14w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3w12k3w3k3w3k7db48k7db3g14w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKWKWKBKBGW](/stripes/gwkwkwkbkbgw/).
+
+Part of the [MacDowall](/tartans/m/ma/macdowall/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

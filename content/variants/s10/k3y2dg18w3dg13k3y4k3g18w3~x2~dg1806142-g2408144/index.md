@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Forrester Hunting"
-  url: "/tartans/forrester-hunting/"
+  url: "/tartans/f/fo/forrester-hunting/"
 - name: "Forrester/Foster Hunting"
   url: "/setts/k3y2dg18w3dg13k3y4k3g18w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3y2dg18w3dg13k3y4k3g18w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGWGKGKGW](/stripes/kggwgkgkgw/).
 
-Part of the [Forrester Hunting](/tartans/forrester-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Forrester Hunting](/tartans/f/fo/forrester-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

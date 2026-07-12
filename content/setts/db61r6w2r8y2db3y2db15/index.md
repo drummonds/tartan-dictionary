@@ -6,6 +6,8 @@ This is the **Duke of York (Royal)** sett — one scale-free proportion (`db61r6
 [BGBGRWRB](/stripes/bgbgrwrb/). It is recorded as a single **variant**, below.
 First attested **~1918**.
 
+Part of the [Duke of York](/tartans/d/du/duke-of-york/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

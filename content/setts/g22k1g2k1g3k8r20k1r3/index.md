@@ -6,6 +6,8 @@ This is the **Stewart of Atholl (Clan)** sett — one scale-free proportion (`g2
 [GKGKGKRKR](/stripes/gkgkgkrkr/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [Stewart of Atholl](/tartans/s/st/stewart-of-atholl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

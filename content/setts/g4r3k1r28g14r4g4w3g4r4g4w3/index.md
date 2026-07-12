@@ -6,6 +6,8 @@ This is the **Scott** sett — one scale-free proportion (`g4r3k1r28g14r4g4w3g4r
 [GRKRGRGWGRGW](/stripes/grkrgrgwgrgw/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [Scott](/tartans/s/sc/scott-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

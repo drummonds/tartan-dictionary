@@ -6,7 +6,7 @@ This is the **Bacon, Red (Fashion)** sett — one scale-free proportion (`dr14k3
 [BKGW](/stripes/bkgw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Bacon](/tartans/bacon-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Bacon](/tartans/b/ba/bacon-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

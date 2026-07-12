@@ -6,6 +6,8 @@ This is the **Kirtle** sett — one scale-free proportion (`dr42r10n2r2db2r2dr10
 [BBRBBRBRBRB](/stripes/bbrbbrbrbrb/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kirtle](/tartans/k/ki/kirtle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

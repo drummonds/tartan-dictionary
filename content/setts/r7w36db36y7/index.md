@@ -6,7 +6,7 @@ This is the **MacRae of Conchra #3** sett — one scale-free proportion (`r7w36d
 [GBWR](/stripes/gbwr/). It is recorded as a single **variant**, below.
 First attested **1893**.
 
-Part of the [MacRae of Conchra](/tartans/macrae-of-conchra/) tartan — the named design grouping this sett with its kin.
+Part of the [MacRae of Conchra](/tartans/m/ma/macrae-of-conchra/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

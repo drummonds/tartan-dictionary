@@ -6,7 +6,7 @@ This is the **Eglinton** sett — one scale-free proportion (`k3r3k3w16k3g3k3`),
 [KGKWKRK](/stripes/kgkwkrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Eglinton](/tartans/eglinton/) tartan — the named design grouping this sett with its kin.
+Part of the [Eglinton](/tartans/e/eg/eglinton/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

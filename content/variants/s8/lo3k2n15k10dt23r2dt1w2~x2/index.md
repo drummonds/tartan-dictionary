@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vienna Highlander"
+  url: "/tartans/v/vi/vienna-highlander/"
 - name: "Vienna Highlander (Fashion)"
   url: "/setts/lo3k2n15k10dt23r2dt1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo3k2n15k10dt23r2dt1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBKBKY](/stripes/wbrbkbky/).
+
+Part of the [Vienna Highlander](/tartans/v/vi/vienna-highlander/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

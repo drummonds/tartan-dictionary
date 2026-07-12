@@ -6,6 +6,8 @@ This is the **Ballater Victoria Week** sett — one scale-free proportion (`dp8y
 [BGKBW](/stripes/bgkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ballater Victoria Week](/tartans/b/ba/ballater-victoria-week/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

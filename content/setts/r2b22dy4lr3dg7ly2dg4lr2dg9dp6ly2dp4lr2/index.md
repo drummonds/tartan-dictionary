@@ -6,6 +6,8 @@ This is the **Man, Isle of** sett — one scale-free proportion (`r2b22dy4lr3dg7
 [RBGYGYGYGBYBY](/stripes/rbgygygygbyby/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Man, Isle of](/tartans/m/ma/man-isle-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

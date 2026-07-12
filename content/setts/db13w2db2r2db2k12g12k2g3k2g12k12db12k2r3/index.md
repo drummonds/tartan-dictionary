@@ -6,6 +6,8 @@ This is the **Scottish National District Tartan** sett — one scale-free propor
 [BWBRBKGKGKGKBKR](/stripes/bwbrbkgkgkgkbkr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Scottish National](/tartans/s/sc/scottish-national-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kenmore Hunting"
-  url: "/tartans/kenmore-hunting/"
+  url: "/tartans/k/ke/kenmore-hunting/"
 - name: "Kenmore Hunting"
   url: "/setts/dr1g22lo1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr1g22lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGY](/stripes/bgy/).
 
-Part of the [Kenmore Hunting](/tartans/kenmore-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kenmore Hunting](/tartans/k/ke/kenmore-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

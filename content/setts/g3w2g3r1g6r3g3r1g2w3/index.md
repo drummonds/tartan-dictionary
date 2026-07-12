@@ -6,6 +6,8 @@ This is the **Dundee, Green** sett — one scale-free proportion (`g3w2g3r1g6r3g
 [GWGRGRGRGW](/stripes/gwgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dundee](/tartans/d/du/dundee-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacAulay Hunting** sett — one scale-free proportion (`g6k16w1k16
 [GKWKGKGR](/stripes/gkwkgkgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacAulay Hunting](/tartans/m/ma/macaulay-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

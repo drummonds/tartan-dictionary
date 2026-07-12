@@ -6,7 +6,7 @@ This is the **Stewmann (2009) (Personal)** sett — one scale-free proportion (`
 [GWGBBBKBR](/stripes/gwgbbbkbr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Stewmann](/tartans/stewmann/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewmann](/tartans/s/st/stewmann/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

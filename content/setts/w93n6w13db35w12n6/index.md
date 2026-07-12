@@ -6,6 +6,8 @@ This is the **Butties** sett — one scale-free proportion (`w93n6w13db35w12n6`)
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Butties](/tartans/b/bu/butties/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

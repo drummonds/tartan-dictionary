@@ -6,6 +6,8 @@ This is the **Bottle Green (Fashion)** sett — one scale-free proportion (`g30l
 [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Bottle](/tartans/b/bo/bottle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Howard, Vincent (Personal)** sett — one scale-free proportion (`
 [RGRBRW](/stripes/rgrbrw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Howard, Vincent](/tartans/h/ho/howard-vincent/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

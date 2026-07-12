@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacQuarrie SM"
-  url: "/tartans/macquarrie-sm/"
+  url: "/tartans/m/ma/macquarrie-sm/"
 - name: "MacQuarrie"
   url: "/setts/r1lb1r6db3r1g6r1g6r6db1r1lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r1lb1r6db3r1g6r1g6r6db1r1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRBRGRGRBRW](/stripes/rwrbrgrgrbrw/).
 
-Part of the [MacQuarrie SM](/tartans/macquarrie-sm/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacQuarrie SM](/tartans/m/ma/macquarrie-sm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

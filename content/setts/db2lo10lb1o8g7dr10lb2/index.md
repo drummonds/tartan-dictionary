@@ -6,6 +6,8 @@ This is the **Kipp (Personal)** sett — one scale-free proportion (`db2lo10lb1o
 [BYWRGBW](/stripes/bywrgbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Kipp](/tartans/k/ki/kipp-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

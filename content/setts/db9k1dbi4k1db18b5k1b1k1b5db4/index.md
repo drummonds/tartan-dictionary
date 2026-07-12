@@ -6,6 +6,8 @@ This is the **Indigo Blue Works** sett — one scale-free proportion (`db9k1dbi4
 [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Indigo Blue Works](/tartans/i/in/indigo-blue-works/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

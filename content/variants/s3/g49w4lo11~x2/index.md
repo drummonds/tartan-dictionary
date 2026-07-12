@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hibernian S3"
+  url: "/tartans/h/hi/hibernian-s3/"
+- name: "Hibernian S3"
   url: "/setts/g49w4lo11/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g49w4lo11/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWY](/stripes/gwy/).
+
+Part of the [Hibernian S3](/tartans/h/hi/hibernian-s3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

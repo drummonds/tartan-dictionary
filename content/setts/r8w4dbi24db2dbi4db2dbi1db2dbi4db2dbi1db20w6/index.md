@@ -6,6 +6,8 @@ This is the **Icelandic** sett — one scale-free proportion (`r8w4dbi24db2dbi4d
 [RWBBBBBBBBBBW](/stripes/rwbbbbbbbbbbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Icelandic](/tartans/i/ic/icelandic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

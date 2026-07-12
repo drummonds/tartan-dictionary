@@ -6,6 +6,8 @@ This is the **Mauthe Unidentified (Name?)** sett — one scale-free proportion (
 [RGRGGGWGGGRGRGR](/stripes/rgrgggwgggrgrgr/). It is recorded as a single **variant**, below.
 First attested **~1920**.
 
+Part of the [Mauthe Unidentified](/tartans/m/ma/mauthe-unidentified-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

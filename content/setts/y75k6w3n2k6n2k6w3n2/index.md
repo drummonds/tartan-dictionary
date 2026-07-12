@@ -6,6 +6,8 @@ This is the **Norton (Corporate)** sett — one scale-free proportion (`y75k6w3n
 [BWKBKBWKG](/stripes/bwkbkbwkg/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Norton](/tartans/n/no/norton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

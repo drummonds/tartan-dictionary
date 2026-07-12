@@ -6,6 +6,8 @@ This is the **Brian Boru 1014 (Commemorative)** sett — one scale-free proporti
 [RBRKBRBRBRBRBYBY](/stripes/rbrkbrbrbrbrbyby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Brian Boru 1014](/tartans/b/br/brian-boru-1014/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

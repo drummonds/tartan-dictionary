@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCrann, Julian David"
+  url: "/tartans/m/mc/mccrann-julian-david/"
 - name: "McCrann, Julian David (Personal)"
   url: "/setts/db8r2db2r4db8g2k10g10k4g2y2g4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8r2db2r4db8g2k10g10k4g2y2g4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBGKGKGGGW](/stripes/brbrbgkgkgggw/).
+
+Part of the [McCrann, Julian David](/tartans/m/mc/mccrann-julian-david/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

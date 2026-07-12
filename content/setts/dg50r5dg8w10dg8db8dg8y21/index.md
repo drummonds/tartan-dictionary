@@ -6,6 +6,8 @@ This is the **St Patrick's Krewe** sett — one scale-free proportion (`dg50r5dg
 [GGBGWGRG](/stripes/ggbgwgrg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [St Patrick's Krewe](/tartans/s/st/st-patrick-s-krewe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

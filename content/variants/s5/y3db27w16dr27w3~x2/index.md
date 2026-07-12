@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Common Ground"
+  url: "/tartans/c/co/common-ground/"
 - name: "Common Ground (Dress)"
   url: "/setts/y3db27w16dr27w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3db27w16dr27w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBW](/stripes/gbwbw/).
+
+Part of the [Common Ground](/tartans/c/co/common-ground/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

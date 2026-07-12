@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan North"
   url: "/clan/north/"
 - name: "North West Mounted Police"
-  url: "/tartans/north-west-mounted-police-2/"
+  url: "/tartans/n/no/north-west-mounted-police-2/"
 - name: "North West, Mounted Police"
   url: "/setts/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRWGWGRRRGWWRRGW](/stripes/rrwgwgrrrgwwrrgw/).
 
-Part of the [North West Mounted Police](/tartans/north-west-mounted-police-2/) tartan — the named design grouping this sett with its other cloths.
+Part of the [North West Mounted Police](/tartans/n/no/north-west-mounted-police-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

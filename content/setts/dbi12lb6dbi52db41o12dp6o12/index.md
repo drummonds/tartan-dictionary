@@ -6,6 +6,8 @@ This is the **Great Scot** sett — one scale-free proportion (`dbi12lb6dbi52db4
 [BWBBRBRBRBBW](/stripes/bwbbrbrbrbbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Great Scot](/tartans/g/gr/great-scot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

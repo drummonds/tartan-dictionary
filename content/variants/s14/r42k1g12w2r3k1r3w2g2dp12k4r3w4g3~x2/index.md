@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lendrum"
+  url: "/tartans/l/le/lendrum-2/"
 - name: "Lendrum (Clan)"
   url: "/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
+
+Part of the [Lendrum](/tartans/l/le/lendrum-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

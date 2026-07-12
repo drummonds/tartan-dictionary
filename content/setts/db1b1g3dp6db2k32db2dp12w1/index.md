@@ -7,6 +7,8 @@ This is the **Scottish Heather** sett — one scale-free proportion (`db1b1g3dp6
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2001**.
 
+Part of the [Scottish Heather](/tartans/s/sc/scottish-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

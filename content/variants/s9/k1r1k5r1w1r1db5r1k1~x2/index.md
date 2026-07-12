@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gipsy"
-  url: "/tartans/gipsy/"
+  url: "/tartans/g/gi/gipsy/"
 - name: "Gipsy Fancy Tartan"
   url: "/setts/k1r1k5r1w1r1db5r1k1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1r1k5r1w1r1db5r1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
 
-Part of the [Gipsy](/tartans/gipsy/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Gipsy](/tartans/g/gi/gipsy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

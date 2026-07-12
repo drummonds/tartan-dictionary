@@ -6,6 +6,8 @@ This is the **Wilson's No.117** sett — one scale-free proportion (`r4g4w2lb12r
 [GRGWWRWWKYKWWBWBWWKYKWWRWWGR](/stripes/grgwwrwwkykwwbwbwwkykwwrwwgr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.117](/tartans/w/wi/wilson-s-no-117/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

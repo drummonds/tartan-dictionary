@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Metcalf"
+  url: "/tartans/m/me/metcalf/"
 - name: "Metcalf (Clan)"
   url: "/setts/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBWBWKWKWBWBWGB](/stripes/bbgbwbwbwkwkwbwbwgb/).
+
+Part of the [Metcalf](/tartans/m/me/metcalf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

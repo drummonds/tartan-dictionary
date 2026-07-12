@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rankin"
+  url: "/tartans/r/ra/rankin-5/"
 - name: "Rankin (Dalgleish) #2"
   url: "/setts/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGBGKWGBGKBBBBBBW](/stripes/bkbkbkgbgkwgbgkbbbbbbw/).
+
+Part of the [Rankin](/tartans/r/ra/rankin-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

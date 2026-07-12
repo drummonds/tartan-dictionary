@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Silver Wedding"
+  url: "/tartans/s/si/silver-wedding/"
 - name: "Silver Wedding (Fashion)"
   url: "/setts/dp8n44k32lp2o53lb8n8lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp8n44k32lp2o53lb8n8lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKWRWBW](/stripes/bbkwrwbw/).
+
+Part of the [Silver Wedding](/tartans/s/si/silver-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

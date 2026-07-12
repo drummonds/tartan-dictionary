@@ -6,6 +6,8 @@ This is the **MacPherson Dress Burgandy Clan Tartan** sett — one scale-free pr
 [GRWRWKW](/stripes/grwrwkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacPherson Dress Burgandy](/tartans/m/ma/macpherson-dress-burgandy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

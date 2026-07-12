@@ -6,6 +6,8 @@ This is the **Stewart of Ardshiel Clan Tartan** sett — one scale-free proporti
 [GRRBRBWRBRWBRGRRBW](/stripes/grrbrbwrbrwbrgrrbw/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [Stewart of Ardshiel](/tartans/s/st/stewart-of-ardshiel-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

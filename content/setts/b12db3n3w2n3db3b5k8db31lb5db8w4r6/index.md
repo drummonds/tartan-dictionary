@@ -6,6 +6,8 @@ This is the **Twenty First Century** sett — one scale-free proportion (`b12db3
 [BBBWBBBKBWBWR](/stripes/bbbwbbbkbwbwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Twenty First Century](/tartans/t/tw/twenty-first-century/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

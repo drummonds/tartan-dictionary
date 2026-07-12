@@ -6,6 +6,8 @@ This is the **Parkin** sett — one scale-free proportion (`w3dt9y1lb3dp9lb1dt40
 [BBWBWGBW](/stripes/bbwbwgbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Parkin](/tartans/p/pa/parkin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

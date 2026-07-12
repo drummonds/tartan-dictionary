@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brotherston"
+  url: "/tartans/b/br/brotherston/"
 - name: "Brotherston (Personal)"
   url: "/setts/k10lb5dp10g20k6g6db10r2db2r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10lb5dp10g20k6g6db10r2db2r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBGKGBRBR](/stripes/kwbgkgbrbr/).
+
+Part of the [Brotherston](/tartans/b/br/brotherston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

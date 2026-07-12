@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Skye"
+  url: "/tartans/s/sk/skye-2/"
 - name: "Skye, Green (Dance)"
   url: "/setts/db4w2db1w36g21y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4w2db1w36g21y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGG](/stripes/bwbwgg/).
+
+Part of the [Skye](/tartans/s/sk/skye-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

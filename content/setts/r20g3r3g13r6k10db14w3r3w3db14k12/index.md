@@ -6,7 +6,7 @@ This is the **Glengarry Highland Games** sett — one scale-free proportion (`r2
 [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Glengarry Highland Games](/tartans/glengarry-highland-games/) tartan — the named design grouping this sett with its kin.
+Part of the [Glengarry Highland Games](/tartans/g/gl/glengarry-highland-games/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

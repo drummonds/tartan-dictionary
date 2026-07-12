@@ -6,6 +6,8 @@ This is the **Bethlehem, City of** sett — one scale-free proportion (`dg3dr1dg
 [BBGBG](/stripes/bbgbg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Bethlehem, City of](/tartans/b/be/bethlehem-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

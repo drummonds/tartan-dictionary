@@ -6,7 +6,7 @@ This is the **Hunt (Personal)** sett — one scale-free proportion (`r9y2r45y20l
 [GRGYGRGR](/stripes/grgygrgr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Hunt](/tartans/hunt/) tartan — the named design grouping this sett with its kin.
+Part of the [Hunt](/tartans/h/hu/hunt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

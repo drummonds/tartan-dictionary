@@ -6,7 +6,7 @@ This is the **Wellington, or Waterloo** sett — one scale-free proportion (`lb3
 [BRBKGW](/stripes/brbkgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Wellington or Waterloo](/tartans/wellington-or-waterloo/) tartan — the named design grouping this sett with its kin.
+Part of the [Wellington or Waterloo](/tartans/w/we/wellington-or-waterloo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

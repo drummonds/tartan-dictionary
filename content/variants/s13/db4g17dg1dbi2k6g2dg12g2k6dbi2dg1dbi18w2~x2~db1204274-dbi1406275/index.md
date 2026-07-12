@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clack"
+  url: "/tartans/c/cl/clack/"
 - name: "Clack (Personal)"
   url: "/setts/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBKGGGKBGBW](/stripes/bggbkgggkbgbw/).
+
+Part of the [Clack](/tartans/c/cl/clack/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

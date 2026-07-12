@@ -6,6 +6,8 @@ This is the **MacDonald from Rawtenstall (Personal)** sett — one scale-free pr
 [RKWWWBWW](/stripes/rkwwwbww/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [MacDonald from Rawtenstall](/tartans/m/ma/macdonald-from-rawtenstall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

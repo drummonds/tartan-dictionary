@@ -6,6 +6,8 @@ This is the **Michie, Andrew (Personal)** sett — one scale-free proportion (`d
 [BGGWK](/stripes/bggwk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Michie, Andrew](/tartans/m/mi/michie-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

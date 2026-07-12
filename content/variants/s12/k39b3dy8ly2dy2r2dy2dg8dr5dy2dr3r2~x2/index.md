@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "GRM"
+  url: "/tartans/g/gr/grm/"
 - name: "GRM (Fashion)"
   url: "/setts/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGYGRGGBGBR](/stripes/kbgygrggbgbr/).
+
+Part of the [GRM](/tartans/g/gr/grm/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

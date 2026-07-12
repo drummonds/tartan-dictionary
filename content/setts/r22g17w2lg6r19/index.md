@@ -6,6 +6,8 @@ This is the **Menzies #2** sett — one scale-free proportion (`r22g17w2lg6r19`)
 [RGWYR](/stripes/rgwyr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Menzies 1819](/tartans/m/me/menzies-1819/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

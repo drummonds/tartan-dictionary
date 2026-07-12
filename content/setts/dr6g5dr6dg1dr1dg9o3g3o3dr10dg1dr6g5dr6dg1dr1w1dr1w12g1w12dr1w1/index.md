@@ -6,6 +6,8 @@ This is the **Maple Leaf Dress** sett — one scale-free proportion (`dr6g5dr6dg
 [BGBGBGRGRBGBGBGBWBWGWBW](/stripes/bgbgbgrgrbgbgbgbwbwgwbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Maple Leaf Dress](/tartans/m/ma/maple-leaf-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

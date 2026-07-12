@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guildford Town Centre"
+  url: "/tartans/g/gu/guildford-town-centre/"
 - name: "Guildford Town Centre (British Columbia)"
   url: "/setts/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBWBKGKGKBKGK](/stripes/bkgkbwbkgkgkbkgk/).
+
+Part of the [Guildford Town Centre](/tartans/g/gu/guildford-town-centre/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

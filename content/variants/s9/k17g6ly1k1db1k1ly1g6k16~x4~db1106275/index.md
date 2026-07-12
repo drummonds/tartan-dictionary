@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Polaris"
+  url: "/tartans/p/po/polaris-3/"
 - name: "Polaris (Military)"
   url: "/setts/k17g6ly1k1db1k1ly1g6k16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k17g6ly1k1db1k1ly1g6k16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYKBKYGK](/stripes/kgykbkygk/).
+
+Part of the [Polaris](/tartans/p/po/polaris-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

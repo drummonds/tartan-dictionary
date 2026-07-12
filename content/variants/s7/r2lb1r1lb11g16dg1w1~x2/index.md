@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gift of Life Michigan"
+  url: "/tartans/g/gi/gift-of-life-michigan/"
+- name: "Gift of Life Michigan"
   url: "/setts/r2lb1r1lb11g16dg1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2lb1r1lb11g16dg1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRWGGW](/stripes/rwrwggw/).
+
+Part of the [Gift of Life Michigan](/tartans/g/gi/gift-of-life-michigan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

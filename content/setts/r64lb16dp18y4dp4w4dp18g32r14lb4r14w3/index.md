@@ -6,6 +6,8 @@ This is the **Wilson's No 4** sett — one scale-free proportion (`r64lb16dp18y4
 [RWBGBWBGRWRW](/stripes/rwbgbwbgrwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Wilson's No 4](/tartans/w/wi/wilson-s-no-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

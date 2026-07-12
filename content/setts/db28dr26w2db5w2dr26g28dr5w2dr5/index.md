@@ -6,6 +6,8 @@ This is the **Glenfinnan (Clan?)** sett — one scale-free proportion (`db28dr26
 [BBWBWBGBWB](/stripes/bbwbwbgbwb/). It is recorded as a single **variant**, below.
 First attested **1772**.
 
+Part of the [Glenfinnan](/tartans/g/gl/glenfinnan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

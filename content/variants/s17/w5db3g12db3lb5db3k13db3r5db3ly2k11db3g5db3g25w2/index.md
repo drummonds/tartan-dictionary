@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kumikyoku"
+  url: "/tartans/k/ku/kumikyoku-2/"
 - name: "Kumikyoku - Tone of Forest"
   url: "/setts/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBWBKBRBYKBGBGW](/stripes/wbgbwbkbrbykbgbgw/).
+
+Part of the [Kumikyoku](/tartans/k/ku/kumikyoku-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

@@ -6,6 +6,8 @@ This is the **Ville de Beauport District Canadian Tartan** sett — one scale-fr
 [GKBKWKRGKGKWK](/stripes/gkbkwkrgkgkwk/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Ville de Beauport District](/tartans/v/vi/ville-de-beauport-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

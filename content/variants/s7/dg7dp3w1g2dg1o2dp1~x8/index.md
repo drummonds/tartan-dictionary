@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lindley-Highfield of Ballumbie Castle"
+  url: "/tartans/l/li/lindley-highfield-of-ballumbie-castle/"
+- name: "Lindley-Highfield of Ballumbie Castle"
   url: "/setts/dg7dp3w1g2dg1o2dp1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg7dp3w1g2dg1o2dp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGGWBG](/stripes/brggwbg/).
+
+Part of the [Lindley-Highfield of Ballumbie Castle](/tartans/l/li/lindley-highfield-of-ballumbie-castle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

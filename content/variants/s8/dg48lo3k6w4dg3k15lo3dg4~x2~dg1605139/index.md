@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birmingham Irish"
+  url: "/tartans/b/bi/birmingham-irish/"
 - name: "Birmingham Irish (Pipe Band)"
   url: "/setts/dg48lo3k6w4dg3k15lo3dg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg48lo3k6w4dg3k15lo3dg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYKGWKYG](/stripes/gykgwkyg/).
+
+Part of the [Birmingham Irish](/tartans/b/bi/birmingham-irish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

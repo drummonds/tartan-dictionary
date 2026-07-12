@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ottawa Fire Service"
+  url: "/tartans/o/ot/ottawa-fire-service/"
 - name: "Ottawa Fire Service (Corporate)"
   url: "/setts/db63ly3w3db8ly3db3w3db3r14db9ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db63ly3w3db8ly3db3w3db3r14db9ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYWBYBWBRBY](/stripes/bywbybwbrby/).
+
+Part of the [Ottawa Fire Service](/tartans/o/ot/ottawa-fire-service/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

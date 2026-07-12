@@ -6,6 +6,8 @@ This is the **Spirit of West Lothian** sett — one scale-free proportion (`db48
 [BBBBBGWGKWG](/stripes/bbbbbgwgkwg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Spirit of West Lothian](/tartans/s/sp/spirit-of-west-lothian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Greenock Morton F. C. (Corporate)** sett — one scale-free propor
 [BGBWB](/stripes/bgbwb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Greenock Morton Football Club](/tartans/g/gr/greenock-morton-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

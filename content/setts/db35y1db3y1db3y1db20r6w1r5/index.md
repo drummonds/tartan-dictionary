@@ -6,6 +6,8 @@ This is the **Alpha Chi Sigma Fraternity** sett — one scale-free proportion (`
 [BGBGBGBRWR](/stripes/bgbgbgbrwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Alpha Chi Sigma Fraternity](/tartans/a/al/alpha-chi-sigma-fraternity/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

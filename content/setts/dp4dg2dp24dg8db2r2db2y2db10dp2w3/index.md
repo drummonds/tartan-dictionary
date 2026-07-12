@@ -6,7 +6,7 @@ This is the **McCartney (Day)** sett — one scale-free proportion (`dp4dg2dp24d
 [BGBGBRBGBBW](/stripes/bgbgbrbgbbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [McCartney](/tartans/mccartney-2/) tartan — the named design grouping this sett with its kin.
+Part of the [McCartney](/tartans/m/mc/mccartney-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

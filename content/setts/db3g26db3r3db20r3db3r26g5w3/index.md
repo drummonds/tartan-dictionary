@@ -6,7 +6,7 @@ This is the **Roxburgh Red** sett — one scale-free proportion (`db3g26db3r3db2
 [BGBRBRBRGW](/stripes/bgbrbrbrgw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
-Part of the [Roxburgh](/tartans/roxburgh-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Roxburgh](/tartans/r/ro/roxburgh-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

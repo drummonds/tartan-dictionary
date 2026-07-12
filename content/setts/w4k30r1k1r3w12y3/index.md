@@ -6,6 +6,8 @@ This is the **Richecourt, Baron of (Personal)** sett — one scale-free proporti
 [GWRKRKW](/stripes/gwrkrkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Richecourt, Baron of](/tartans/r/ri/richecourt-baron-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Clare, County** sett — one scale-free proportion (`dr3dp14dg14dp
 [BBGBBBBGBY](/stripes/bbgbbbbgby/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Clare, County](/tartans/c/cl/clare-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

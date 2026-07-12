@@ -6,6 +6,8 @@ This is the **Grant or New Bruce Clan Tartan** sett — one scale-free proportio
 [BBRGRGRBRWRBRBR](/stripes/bbrgrgrbrwrbrbr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Grant or New Bruce](/tartans/g/gr/grant-or-new-bruce/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

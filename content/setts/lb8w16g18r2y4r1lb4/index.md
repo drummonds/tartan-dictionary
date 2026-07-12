@@ -6,6 +6,8 @@ This is the **Lake Ainslie Heritage** sett — one scale-free proportion (`lb8w1
 [WRGRGWW](/stripes/wrgrgww/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Lake Ainslie Heritage](/tartans/l/la/lake-ainslie-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

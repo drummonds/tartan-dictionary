@@ -6,7 +6,7 @@ This is the **Puffin (Personal)** sett — one scale-free proportion (`k4w1k1w9g
 [GWGWGWKWK](/stripes/gwgwgwkwk/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Puffin](/tartans/puffin/) tartan — the named design grouping this sett with its kin.
+Part of the [Puffin](/tartans/p/pu/puffin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

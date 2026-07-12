@@ -6,6 +6,8 @@ This is the **Womble** sett — one scale-free proportion (`w3db1w1g5w1db1r2w1r2
 [BWGWBRWRBWYWBWBWYWBRWRBWGWBW](/stripes/bwgwbrwrbwywbwbwywbrwrbwgwbw/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Womble](/tartans/w/wo/womble-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

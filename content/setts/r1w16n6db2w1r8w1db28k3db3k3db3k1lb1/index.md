@@ -6,6 +6,8 @@ This is the **Russian Arctic Convoy** sett — one scale-free proportion (`r1w16
 [RWBBWRWBKBKBKW](/stripes/rwbbwrwbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Russian Arctic Convoy](/tartans/r/ru/russian-arctic-convoy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

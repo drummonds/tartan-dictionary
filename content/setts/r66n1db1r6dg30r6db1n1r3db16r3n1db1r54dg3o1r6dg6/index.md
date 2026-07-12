@@ -6,7 +6,7 @@ This is the **Ramada Corporate Tartan** sett — one scale-free proportion (`r66
 [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Ramada](/tartans/ramada/) tartan — the named design grouping this sett with its kin.
+Part of the [Ramada](/tartans/r/ra/ramada/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Iowa"
+  url: "/tartans/s/st/state-seal-of-iowa/"
 - name: "State Seal of Iowa (Fashion)"
   url: "/setts/db5t43db18w4t6dr5dy25ly5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5t43db18w4t6dr5dy25ly5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBWBBGY](/stripes/bbbwbbgy/).
+
+Part of the [State Seal of Iowa](/tartans/s/st/state-seal-of-iowa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

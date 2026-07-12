@@ -6,6 +6,8 @@ This is the **North Berwick (Dance)** sett — one scale-free proportion (`db10r
 [BRBRGRGRGRW](/stripes/brbrgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [North Berwick](/tartans/n/no/north-berwick/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

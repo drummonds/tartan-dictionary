@@ -6,6 +6,8 @@ This is the **Derbyshire** sett — one scale-free proportion (`r5k3g22k3y3dp7r7
 [KGKGRKRBWBKRBGKGKR](/stripes/kgkgrkrbwbkrbgkgkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Derbyshire](/tartans/d/de/derbyshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

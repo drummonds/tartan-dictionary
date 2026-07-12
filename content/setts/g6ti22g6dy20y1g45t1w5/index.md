@@ -6,6 +6,8 @@ This is the **Elbrick Hunting (Personal)** sett — one scale-free proportion (`
 [GBGGGGBW](/stripes/gbggggbw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Elbrick Hunting](/tartans/e/el/elbrick-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

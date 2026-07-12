@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathtay"
+  url: "/tartans/s/st/strathtay-3/"
+- name: "Strathtay"
   url: "/setts/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRRRRBRBGWGW](/stripes/bgrrrrbrbgwgw/).
+
+Part of the [Strathtay](/tartans/s/st/strathtay-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

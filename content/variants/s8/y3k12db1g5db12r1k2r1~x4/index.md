@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sandberg"
+  url: "/clan/sandberg/"
+- name: "Sandberg of Greenock"
+  url: "/families/sandberg-of-greenock/"
+- name: "Sandberg of Greenock"
+  url: "/tartans/s/sa/sandberg-of-greenock/"
 - name: "Sandberg of Greenock (Personal)"
   url: "/setts/y3k12db1g5db12r1k2r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3k12db1g5db12r1k2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGBRKR](/stripes/gkbgbrkr/).
+
+Part of the [Sandberg of Greenock](/tartans/s/sa/sandberg-of-greenock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

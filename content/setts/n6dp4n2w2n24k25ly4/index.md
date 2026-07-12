@@ -6,7 +6,7 @@ This is the **New York State Troopers (Corporate)** sett — one scale-free prop
 [BBBWBKY](/stripes/bbbwbky/). It is recorded as a single **variant**, below.
 First attested **~1997**.
 
-Part of the [New York State Troopers](/tartans/new-york-state-troopers/) tartan — the named design grouping this sett with its kin.
+Part of the [New York State Troopers](/tartans/n/ne/new-york-state-troopers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

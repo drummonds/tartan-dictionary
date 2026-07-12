@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kungsholmen Snooker Corporate Sports"
+  url: "/tartans/k/ku/kungsholmen-snooker-corporate-sports/"
 - name: "Kungsholmen Snooker Corporate Sports Tartan"
   url: "/setts/w4lb1y2lb13ri1k13dy1k1g1k1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4lb1y2lb13ri1k13dy1k1g1k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKGKGKRWGWW](/stripes/rkgkgkrwgww/).
+
+Part of the [Kungsholmen Snooker Corporate Sports](/tartans/k/ku/kungsholmen-snooker-corporate-sports/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

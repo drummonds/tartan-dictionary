@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Leslie, Hebridean"
-  url: "/tartans/leslie-hebridean/"
+  url: "/tartans/l/le/leslie-hebridean/"
 - name: "Leslie Hebridean Artifact Tartan"
   url: "/setts/k6g11w2db22r2k4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k6g11w2db22r2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGWBRK](/stripes/kgwbrk/).
 
-Part of the [Leslie, Hebridean](/tartans/leslie-hebridean/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Leslie, Hebridean](/tartans/l/le/leslie-hebridean/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

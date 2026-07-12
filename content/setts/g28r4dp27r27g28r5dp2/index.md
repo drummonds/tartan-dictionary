@@ -6,7 +6,7 @@ This is the **Madder** sett — one scale-free proportion (`g28r4dp27r27g28r5dp2
 [BRGRBRG](/stripes/brgrbrg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Madder](/tartans/madder/) tartan — the named design grouping this sett with its kin.
+Part of the [Madder](/tartans/m/ma/madder/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

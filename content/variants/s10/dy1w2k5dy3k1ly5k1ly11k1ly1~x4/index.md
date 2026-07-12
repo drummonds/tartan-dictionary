@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Braemar or Blair Atholl"
+  url: "/tartans/b/br/braemar-or-blair-atholl/"
 - name: "Braemar or Blair Atholl Trade Tartan"
   url: "/setts/dy1w2k5dy3k1ly5k1ly11k1ly1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy1w2k5dy3k1ly5k1ly11k1ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGKYKYKY](/stripes/gwkgkykyky/).
+
+Part of the [Braemar or Blair Atholl](/tartans/b/br/braemar-or-blair-atholl/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

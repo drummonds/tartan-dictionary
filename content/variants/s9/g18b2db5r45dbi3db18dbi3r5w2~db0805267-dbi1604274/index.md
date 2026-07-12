@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNiven"
-  url: "/tartans/macniven/"
+  url: "/tartans/m/ma/macniven/"
 - name: "MacNiven"
   url: "/setts/g18b2db5r45dbi3db18dbi3r5w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g18b2db5r45dbi3db18dbi3r5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBRBBBRW](/stripes/gbbrbbbrw/).
 
-Part of the [MacNiven](/tartans/macniven/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacNiven](/tartans/m/ma/macniven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

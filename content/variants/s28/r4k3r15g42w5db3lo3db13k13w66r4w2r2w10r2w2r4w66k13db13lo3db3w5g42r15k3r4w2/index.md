@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart/Stuart Dress"
+  url: "/tartans/s/st/stewart-stuart-dress/"
 - name: "Stewart/Stuart Dress (Four red lines)"
   url: "/setts/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGWBYBKWRWRWRWRWKBYBWGRKRW](/stripes/rkrgwbybkwrwrwrwrwkbybwgrkrw/).
+
+Part of the [Stewart/Stuart Dress](/tartans/s/st/stewart-stuart-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

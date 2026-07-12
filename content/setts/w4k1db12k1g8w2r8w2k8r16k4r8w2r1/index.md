@@ -6,6 +6,8 @@ This is the **Kenya** sett — one scale-free proportion (`w4k1db12k1g8w2r8w2k8r
 [RWRKRKWRWGKBKW](/stripes/rwrkrkwrwgkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kenya](/tartans/k/ke/kenya/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

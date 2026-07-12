@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Haughfoot"
+  url: "/tartans/h/ha/haughfoot/"
 - name: "Haughfoot (Commemorative)"
   url: "/setts/r4k15lb4dt15dg24y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k15lb4dt15dg24y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBWKR](/stripes/ggbwkr/).
+
+Part of the [Haughfoot](/tartans/h/ha/haughfoot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

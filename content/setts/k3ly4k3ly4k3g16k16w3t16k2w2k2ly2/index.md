@@ -6,6 +6,8 @@ This is the **Lotus Elan (Corporate)** sett — one scale-free proportion (`k3ly
 [KYKYKGKWBKWKY](/stripes/kykykgkwbkwky/). It is recorded as a single **variant**, below.
 First attested **~1963**.
 
+Part of the [Lotus Elan](/tartans/l/lo/lotus-elan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

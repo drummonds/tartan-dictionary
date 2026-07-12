@@ -6,6 +6,8 @@ This is the **Chiti, Cristiano (Personal)** sett — one scale-free proportion (
 [BBBBGG](/stripes/bbbbgg/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Chiti, Cristiano](/tartans/c/ch/chiti-cristiano/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

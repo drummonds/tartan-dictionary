@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stand International"
+  url: "/tartans/s/st/stand-international/"
+- name: "Stand International"
   url: "/setts/lb6r1lb1y1lb1g1db9lb6w1db6lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6r1lb1y1lb1g1db9lb6w1db6lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWWBGWGWRW](/stripes/wbwwbgwgwrw/).
+
+Part of the [Stand International](/tartans/s/st/stand-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

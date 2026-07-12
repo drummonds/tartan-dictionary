@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson, Janet"
+  url: "/tartans/w/wi/wilson-janet/"
 - name: "Wilson, Janet (1780 Original)"
   url: "/setts/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWGWGWGRGRGRGRGRGWRWR](/stripes/bwwgwgwgrgrgrgrgrgwrwr/).
+
+Part of the [Wilson, Janet](/tartans/w/wi/wilson-janet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

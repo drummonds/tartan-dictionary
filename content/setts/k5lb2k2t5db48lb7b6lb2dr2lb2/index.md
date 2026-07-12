@@ -6,6 +6,8 @@ This is the **Gemmell Blue (2001) (Personal)** sett — one scale-free proportio
 [KWKBBWBWBW](/stripes/kwkbbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Gemmell](/tartans/g/ge/gemmell-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

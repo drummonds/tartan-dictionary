@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Poulter SG 101"
+  url: "/tartans/p/po/poulter-sg-101/"
 - name: "Poulter SG 101 (Fashion)"
   url: "/setts/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBYBGRGBYBYBY](/stripes/ybybgrgbybyby/).
+
+Part of the [Poulter SG 101](/tartans/p/po/poulter-sg-101/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

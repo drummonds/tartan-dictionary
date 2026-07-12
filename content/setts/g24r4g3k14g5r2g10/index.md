@@ -6,6 +6,8 @@ This is the **Northcroft (Personal)** sett — one scale-free proportion (`g24r4
 [GRGKGRG](/stripes/grgkgrg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Northcroft](/tartans/n/no/northcroft/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

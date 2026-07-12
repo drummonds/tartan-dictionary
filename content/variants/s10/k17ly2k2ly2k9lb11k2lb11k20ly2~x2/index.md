@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Coppa Romana"
-  url: "/tartans/coppa-romana/"
+  url: "/tartans/c/co/coppa-romana/"
 - name: "Coppa Romana (Corporate)"
   url: "/setts/k17ly2k2ly2k9lb11k2lb11k20ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k17ly2k2ly2k9lb11k2lb11k20ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKWKWKY](/stripes/kykykwkwky/).
 
-Part of the [Coppa Romana](/tartans/coppa-romana/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Coppa Romana](/tartans/c/co/coppa-romana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

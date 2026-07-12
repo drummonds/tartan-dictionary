@@ -6,6 +6,8 @@ This is the **Isle of Harris (District)** sett — one scale-free proportion (`l
 [WBKGKW](/stripes/wbkgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Isle of Harris](/tartans/i/is/isle-of-harris-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

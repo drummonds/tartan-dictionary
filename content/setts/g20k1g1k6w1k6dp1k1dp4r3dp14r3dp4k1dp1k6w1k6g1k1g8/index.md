@@ -6,6 +6,8 @@ This is the **New Hampshire District Tartan** sett — one scale-free proportion
 [GKGKWKBKBRBRBKBKWKGKG](/stripes/gkgkwkbkbrbrbkbkwkgkg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [New Hampshire](/tartans/n/ne/new-hampshire-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

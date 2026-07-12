@@ -6,6 +6,8 @@ This is the **Hammaby,The** sett — one scale-free proportion (`k1y2k21w2g2w2g2
 [KGKGWGWGWGWKGK](/stripes/kgkgwgwgwgwkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hammaby,The](/tartans/h/ha/hammaby-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

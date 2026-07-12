@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Setting Sun, The"
+  url: "/tartans/s/se/setting-sun-the/"
 - name: "Setting Sun, The (Fashion)"
   url: "/setts/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/).
+
+Part of the [Setting Sun, The](/tartans/s/se/setting-sun-the/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

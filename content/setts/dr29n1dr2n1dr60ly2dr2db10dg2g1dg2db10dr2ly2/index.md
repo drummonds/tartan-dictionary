@@ -6,6 +6,8 @@ This is the **Burrell (Personal)** sett — one scale-free proportion (`dr29n1dr
 [BBBBBYBBGGGBBY](/stripes/bbbbbybbgggbby/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Burrell](/tartans/b/bu/burrell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -1,0 +1,39 @@
+---
+title: "Royal College of Physicians"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BRKRGG](/stripes/brkrgg/) — the page of every tartan sharing this colour sequence.
+
+Corporate tartan for the Royal College of Physicians, Edinburgh, designed by Donald Fraser Weavers in 1996.
+
+The **Royal College of Physicians** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db18r3k9r3g23y3/">Royal College of Physicians</a></td><td><code>DB/36 R6 K18 R6 G46 Y/6</code></td><td>194</td><td>1996</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db18r3k9r3g23y3/"><img src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Royal College of Physicians of Edinburgh
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">194</div><div class="nn-name nn-base"><a href="/variants/s6/db18r3k9r3g23y3~x2/">Royal College of Physicians</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7dr3g29db29w3~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.05</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/k7dr3g29db29w3~x2/">Highlander, Highland Laddie Kilts</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7dr3g29db29w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4t2g13db13w2~x4&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.23</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/k4t2g13db13w2~x4/">Bath</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4t2g13db13w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db22k11g32y3~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.24</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/r3db22k11g32y3~x2/">Cultoquhey Hotel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3db22k11g32y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db22k11g32ly3~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.24</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/r3db22k11g32ly3~x2/">Cultoquhey (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3db22k11g32ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db24k4r3g24k4o3~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.28</a></div><div class="nn-threads">194</div><div class="nn-name"><a href="/variants/s6/db24k4r3g24k4o3~x2/">(1) Skene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db24k4r3g24k4o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7y3g28db28w3~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.34</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s5/k7y3g28db28w3~x2/">Turnbull Hunting Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2db20r3k10g20lo2~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s6/w2db20r3k10g20lo2~x2/">Morris of Eddergoll (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w2db20r3k10g20lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1db6k3g6w1~x4&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.46</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s5/r1db6k3g6w1~x4/">Davidson of Tulloch #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1db6k3g6w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1db6k3g6w1&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.46</a></div><div class="nn-threads">32</div><div class="nn-name"><a href="/variants/s5/r1db6k3g6w1/">Davidson of Tulloch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1db6k3g6w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1db6k3g6w1~x2&amp;base=db18r3k9r3g23y3~x2" title="compare in the TTD">1.46</a></div><div class="nn-threads">64</div><div class="nn-name"><a href="/variants/s5/r1db6k3g6w1~x2/">Davidson of Tulloch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1db6k3g6w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.5" cy="197.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.1" cy="221.0" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="195.9" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.0" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s5/k7y3g28db28w3~x2/"><circle cx="178.4" cy="197.6" r="4" fill="#3465a4"><title>Turnbull Hunting Clan Tartan</title></circle></a><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><circle cx="109.8" cy="169.5" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.7" cy="227.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><circle cx="138.3" cy="196.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

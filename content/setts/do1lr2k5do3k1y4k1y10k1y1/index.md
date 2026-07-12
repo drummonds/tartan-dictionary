@@ -6,6 +6,8 @@ This is the **Braemar, Camel** sett — one scale-free proportion (`do1lr2k5do3k
 [BYKBKGKGKG](/stripes/bykbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Braemar, Camel](/tartans/b/br/braemar-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

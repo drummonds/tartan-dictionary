@@ -6,6 +6,8 @@ This is the **Orange Fanaticos** sett — one scale-free proportion (`lb12lo75k2
 [WWKWKYW](/stripes/wwkwkyw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Orange Fanaticos](/tartans/o/or/orange-fanaticos/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

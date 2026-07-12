@@ -6,6 +6,8 @@ This is the **Scottish Chamber Orchestra, The** sett — one scale-free proporti
 [RGKBKBKBW](/stripes/rgkbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Scottish Chamber Orchestra](/tartans/s/sc/scottish-chamber-orchestra/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

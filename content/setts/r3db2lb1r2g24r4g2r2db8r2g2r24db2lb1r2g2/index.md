@@ -6,7 +6,7 @@ This is the **Stewart of Appin - 1906** sett — one scale-free proportion (`r3d
 [GRWBRGRBRGRGRWBR](/stripes/grwbrgrbrgrgrwbr/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [Stewart of Appin](/tartans/stewart-of-appin/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Appin](/tartans/s/st/stewart-of-appin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

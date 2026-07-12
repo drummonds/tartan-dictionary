@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Palmer, Arnold"
+  url: "/tartans/p/pa/palmer-arnold/"
+- name: "Palmer, Arnold"
   url: "/setts/dg40dr5k2w2k2y3k2dg10dr3k3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg40dr5k2w2k2y3k2dg10dr3k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKWKGKGBK](/stripes/gbkwkgkgbk/).
+
+Part of the [Palmer, Arnold](/tartans/p/pa/palmer-arnold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

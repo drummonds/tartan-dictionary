@@ -6,6 +6,8 @@ This is the **Hami (as found)** sett — one scale-free proportion (`w1lg2ly4lg1
 [WYYYYY](/stripes/wyyyyy/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
+Part of the [Hami](/tartans/h/ha/hami-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

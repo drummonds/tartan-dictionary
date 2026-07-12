@@ -6,6 +6,8 @@ This is the **Mar Dress** sett — one scale-free proportion (`db2r24g24r1db24r2
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **1750**.
 
+Part of the [Mar Dress](/tartans/m/ma/mar-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

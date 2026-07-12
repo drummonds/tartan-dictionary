@@ -6,6 +6,8 @@ This is the **Royal Highland Society (Corporate)** sett — one scale-free propo
 [BBBKBKGY](/stripes/bbbkbkgy/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
+Part of the [Royal Highland Society](/tartans/r/ro/royal-highland-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

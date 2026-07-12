@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dunn"
+  url: "/tartans/d/du/dunn/"
+- name: "Dunn"
   url: "/setts/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWBWBWBW](/stripes/bgbgwbwbwbw/).
+
+Part of the [Dunn](/tartans/d/du/dunn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

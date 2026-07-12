@@ -6,6 +6,8 @@ This is the **Prestoungrange/Dolphinstoun/Wills dress** sett — one scale-free 
 [GKGKGKWKWKWRWWW](/stripes/gkgkgkwkwkwrwww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Prestoungrange/Dolphinstoun/Wills dress](/tartans/p/pr/prestoungrange-dolphinstoun-wills-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

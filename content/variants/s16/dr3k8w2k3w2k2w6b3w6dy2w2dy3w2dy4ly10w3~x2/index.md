@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clanedin/Commonwealth"
+  url: "/tartans/c/cl/clanedin-commonwealth/"
+- name: "Clanedin/Commonwealth"
   url: "/setts/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWKWKWBWGWGWGYW](/stripes/bkwkwkwbwgwgwgyw/).
+
+Part of the [Clanedin/Commonwealth](/tartans/c/cl/clanedin-commonwealth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

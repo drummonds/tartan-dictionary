@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKnight"
+  url: "/tartans/m/ma/macknight/"
 - name: "MacKnight (Name)"
   url: "/setts/k12lb1k2lb6k4lb3k4lb21r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k12lb1k2lb6k4lb3k4lb21r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKWR](/stripes/kwkwkwkwr/).
+
+Part of the [MacKnight](/tartans/m/ma/macknight/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

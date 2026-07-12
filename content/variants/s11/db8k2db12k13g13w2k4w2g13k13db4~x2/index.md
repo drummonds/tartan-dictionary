@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Melville"
+  url: "/tartans/m/me/melville-2/"
 - name: "Melville Family Tartan"
   url: "/setts/db8k2db12k13g13w2k4w2g13k13db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8k2db12k13g13w2k4w2g13k13db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/).
+
+Part of the [Melville](/tartans/m/me/melville-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

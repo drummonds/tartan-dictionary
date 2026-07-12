@@ -6,6 +6,8 @@ This is the **Psychological Operations Regiment** sett — one scale-free propor
 [BWBKGKGKBKGKGKBWB](/stripes/bwbkgkgkbkgkgkbwb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Psychological Operations Regiment](/tartans/p/ps/psychological-operations-regiment/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Tyneside Scottish Purple (Mil/Distr)** sett — one scale-free pro
 [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/). It is recorded as a single **variant**, below.
 First attested **~1917**.
 
-Part of the [Tyneside Scottish](/tartans/tyneside-scottish-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Tyneside Scottish](/tartans/t/ty/tyneside-scottish-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

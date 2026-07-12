@@ -6,7 +6,7 @@ This is the **Hannay** sett — one scale-free proportion (`k9w4k2w4k2w29k9w4db1
 [GBWKWKWKWK](/stripes/gbwkwkwkwk/). It is recorded as a single **variant**, below.
 First attested **1788**.
 
-Part of the [Hannay](/tartans/hannay/) tartan — the named design grouping this sett with its kin.
+Part of the [Hannay](/tartans/h/ha/hannay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

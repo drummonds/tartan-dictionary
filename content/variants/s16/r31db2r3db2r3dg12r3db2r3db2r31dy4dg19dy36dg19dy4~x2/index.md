@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Brian"
+  url: "/tartans/o/o/o-brian/"
 - name: "O'Brian #1 (Fashion)"
   url: "/setts/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/).
+
+Part of the [O'Brian](/tartans/o/o/o-brian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

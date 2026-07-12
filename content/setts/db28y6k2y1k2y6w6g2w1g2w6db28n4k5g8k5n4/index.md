@@ -6,6 +6,8 @@ This is the **Bog Myrtle Corner** sett — one scale-free proportion (`db28y6k2y
 [BGKGKGWGWGWBBKGKB](/stripes/bgkgkgwgwgwbbkgkb/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bog Myrtle Corner](/tartans/b/bo/bog-myrtle-corner/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

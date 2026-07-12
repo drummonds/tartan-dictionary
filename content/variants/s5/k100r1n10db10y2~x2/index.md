@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Forand"
+  url: "/tartans/f/fo/forand/"
 - name: "Forand (Personal)"
   url: "/setts/k100r1n10db10y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k100r1n10db10y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBRK](/stripes/gbbrk/).
+
+Part of the [Forand](/tartans/f/fo/forand/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

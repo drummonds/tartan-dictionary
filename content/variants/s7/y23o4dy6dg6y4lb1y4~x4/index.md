@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tricor"
-  url: "/tartans/tricor/"
+  url: "/tartans/t/tr/tricor/"
 - name: "Tricor"
   url: "/setts/y23o4dy6dg6y4lb1y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y23o4dy6dg6y4lb1y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGGRGRGGGW](/stripes/gwgggrgrgggw/).
 
-Part of the [Tricor](/tartans/tricor/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tricor](/tartans/t/tr/tricor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

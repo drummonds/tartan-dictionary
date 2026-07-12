@@ -6,6 +6,8 @@ This is the **Lytley alias Parsons Formal (Personal)** sett — one scale-free p
 [BBRBBG](/stripes/bbrbbg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Lytley alias Parsons Formal](/tartans/l/ly/lytley-alias-parsons-formal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

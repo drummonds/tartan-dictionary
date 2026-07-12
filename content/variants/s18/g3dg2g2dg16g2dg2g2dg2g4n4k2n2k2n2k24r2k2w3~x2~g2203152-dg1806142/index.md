@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barkway Wedding 2012"
+  url: "/tartans/b/ba/barkway-wedding-2012/"
 - name: "Barkway (Name)"
   url: "/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
+
+Part of the [Barkway Wedding 2012](/tartans/b/ba/barkway-wedding-2012/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

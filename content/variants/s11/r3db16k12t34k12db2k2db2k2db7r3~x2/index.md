@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rangers 1989"
+  url: "/tartans/r/ra/rangers-1989-2/"
 - name: "Rangers 1989 (Sports)"
   url: "/setts/r3db16k12t34k12db2k2db2k2db7r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3db16k12t34k12db2k2db2k2db7r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
+
+Part of the [Rangers 1989](/tartans/r/ra/rangers-1989-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

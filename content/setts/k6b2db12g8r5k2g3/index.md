@@ -6,7 +6,7 @@ This is the **Cooke** sett — one scale-free proportion (`k6b2db12g8r5k2g3`), c
 [GKRGBBK](/stripes/gkrgbbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Cooke](/tartans/cooke/) tartan — the named design grouping this sett with its kin.
+Part of the [Cooke](/tartans/c/co/cooke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

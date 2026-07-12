@@ -6,7 +6,7 @@ This is the **Smith Family Tartan** sett — one scale-free proportion (`r3k1g12
 [GKGKBWBKGKR](/stripes/gkgkbwbkgkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Smith](/tartans/smith-4/) tartan — the named design grouping this sett with its kin.
+Part of the [Smith](/tartans/s/sm/smith-4/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

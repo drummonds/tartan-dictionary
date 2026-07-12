@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochinvar Marine Harvest"
+  url: "/tartans/l/lo/lochinvar-marine-harvest/"
 - name: "Lochinvar Marine Harvest (Corporate)"
   url: "/setts/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKBBBKGKGKGKGKGKBBBKGK](/stripes/gkgkbbbkgkgkgkgkgkbbbkgk/).
+
+Part of the [Lochinvar Marine Harvest](/tartans/l/lo/lochinvar-marine-harvest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 

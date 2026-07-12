@@ -6,6 +6,8 @@ This is the **Ogilvie of Inverarity (Wilson) / Ochterlonie** sett — one scale-
 [BYKGKGKGRGKGKGKY](/stripes/bykgkgkgrgkgkgky/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Ogilvie of Inverarity / Ochterlonie](/tartans/o/og/ogilvie-of-inverarity-ochterlonie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

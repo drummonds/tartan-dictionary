@@ -6,6 +6,8 @@ This is the **Balmoral (Lavender) (Royal)** sett — one scale-free proportion (
 [BRBRKBRBRBKBR](/stripes/brbrkbrbrbkbr/). It is recorded as a single **variant**, below.
 First attested **1853**.
 
+Part of the [Balmoral](/tartans/b/ba/balmoral-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

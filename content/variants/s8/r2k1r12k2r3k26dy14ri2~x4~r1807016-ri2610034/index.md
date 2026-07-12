@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Booth"
+  url: "/tartans/b/bo/booth/"
 - name: "Booth (Fashion)"
   url: "/setts/r2k1r12k2r3k26dy14ri2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2k1r12k2r3k26dy14ri2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKRKRKR](/stripes/rgkrkrkr/).
+
+Part of the [Booth](/tartans/b/bo/booth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

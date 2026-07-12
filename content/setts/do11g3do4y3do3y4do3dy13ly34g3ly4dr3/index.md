@@ -6,6 +6,8 @@ This is the **Harmony 1 Trade Tartan** sett — one scale-free proportion (`do11
 [BGBGBGBGYGYB](/stripes/bgbgbgbgygyb/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Harmony 1](/tartans/h/ha/harmony-1-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

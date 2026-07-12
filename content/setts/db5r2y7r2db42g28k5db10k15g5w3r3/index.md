@@ -6,6 +6,8 @@ This is the **Héritage Séquane** sett — one scale-free proportion (`db5r2y7r
 [BRGRBGKBKGWR](/stripes/brgrbgkbkgwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Héritage Séquane](/tartans/h/h/h-ritage-s-quane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

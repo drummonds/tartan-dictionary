@@ -6,7 +6,7 @@ This is the **Wylie (Ancient)** sett — one scale-free proportion (`t86dy2t18r3
 [BGBRKW](/stripes/bgbrkw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Wylie](/tartans/wylie/) tartan — the named design grouping this sett with its kin.
+Part of the [Wylie](/tartans/w/wy/wylie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

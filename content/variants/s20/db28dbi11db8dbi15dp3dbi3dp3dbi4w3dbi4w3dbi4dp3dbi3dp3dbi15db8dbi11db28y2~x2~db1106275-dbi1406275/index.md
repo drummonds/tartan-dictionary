@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kilmarnock Football Club"
+  url: "/tartans/k/ki/kilmarnock-football-club/"
 - name: "Kilmarnock Football Club (2005)"
   url: "/setts/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBWBWBBBBBBBBG](/stripes/bbbbbbbbwbwbbbbbbbbg/).
+
+Part of the [Kilmarnock Football Club](/tartans/k/ki/kilmarnock-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

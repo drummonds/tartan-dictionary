@@ -6,6 +6,8 @@ This is the **Carter (Savannah) (Personal)** sett — one scale-free proportion 
 [GGGYGWGWGG](/stripes/gggygwgwgg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Carter](/tartans/c/ca/carter/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden"
+  url: "/tartans/c/cu/culloden-4/"
 - name: "Culloden 1746 - Original"
   url: "/setts/r5lb1db10w2k10g10k1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5lb1db10w2k10g10k1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWBWKGKGKGKWBW](/stripes/rwbwkgkgkgkwbw/).
+
+Part of the [Culloden](/tartans/c/cu/culloden-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

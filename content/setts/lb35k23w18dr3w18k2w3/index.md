@@ -6,7 +6,7 @@ This is the **Ferguson Dress Blue (Dance)** sett — one scale-free proportion (
 [KWBWKWKWBWKW](/stripes/kwbwkwkwbwkw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
-Part of the [Ferguson Dress](/tartans/ferguson-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Ferguson Dress](/tartans/f/fe/ferguson-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

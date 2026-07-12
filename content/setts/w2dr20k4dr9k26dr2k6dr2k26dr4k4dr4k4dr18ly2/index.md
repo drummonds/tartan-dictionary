@@ -6,6 +6,8 @@ This is the **Killin (Name)** sett — one scale-free proportion (`w2dr20k4dr9k2
 [WBKBKBKBKBKBKBY](/stripes/wbkbkbkbkbkbkby/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Killin](/tartans/k/ki/killin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

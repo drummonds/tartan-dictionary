@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Outdoorsmen"
+  url: "/tartans/o/ou/outdoorsmen/"
 - name: "Outdoorsmen (Fashion)"
   url: "/setts/t3k1g4k1t4g9k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t3k1g4k1t4g9k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKBGK](/stripes/bkgkbgk/).
+
+Part of the [Outdoorsmen](/tartans/o/ou/outdoorsmen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Benson"
+  url: "/tartans/b/be/benson/"
 - name: "Benson (New England)"
   url: "/setts/k16t2k8r3lr3r3k8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k16t2k8r3lr3r3k8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRYRK](/stripes/kbkryrk/).
+
+Part of the [Benson](/tartans/b/be/benson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

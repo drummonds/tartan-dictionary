@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Light Tan"
+  url: "/tartans/b/ba/bannockbane-light-tan/"
+- name: "Bannockbane Light Tan"
   url: "/setts/k4y2k13y1w8ly13y2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4y2k13y1w8ly13y2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGWYGY](/stripes/kgkgwygy/).
+
+Part of the [Bannockbane Light Tan](/tartans/b/ba/bannockbane-light-tan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

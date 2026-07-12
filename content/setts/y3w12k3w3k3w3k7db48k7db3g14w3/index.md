@@ -6,6 +6,8 @@ This is the **MacDowall** sett — one scale-free proportion (`y3w12k3w3k3w3k7db
 [GWKWKWKBKBGW](/stripes/gwkwkwkbkbgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacDowall](/tartans/m/ma/macdowall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

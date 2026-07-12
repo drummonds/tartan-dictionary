@@ -6,6 +6,8 @@ This is the **MacDuff, dress** sett — one scale-free proportion (`r5k1r5g9k7w3
 [RBWBWKGRKR](/stripes/rbwbwkgrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacDuff Dress](/tartans/m/ma/macduff-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gloucester County Pipe Band (Corp)** sett — one scale-free propo
 [GBGRKBR](/stripes/gbgrkbr/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Gloucester County Pipe Band](/tartans/g/gl/gloucester-county-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

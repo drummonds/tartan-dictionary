@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLellan"
+  url: "/clan/maclellan/"
+- name: "MacLellan of Gartbreck"
+  url: "/families/maclellan-of-gartbreck/"
+- name: "MacLellan of Gartbreck"
+  url: "/tartans/m/ma/maclellan-of-gartbreck/"
 - name: "MacLellan of Gartbreck (Personal)"
   url: "/setts/o3dr3o4dr4o20k5n4k3o3k2n25w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3dr3o4dr4o20k5n4k3o3k2n25w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRKBKRKBW](/stripes/rbrbrkbkrkbw/).
+
+Part of the [MacLellan of Gartbreck](/tartans/m/ma/maclellan-of-gartbreck/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Jardine of Castlemilk** sett — one scale-free proportion (`r8dy3
 [RBGBRKGGR](/stripes/rbgbrkggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Jardine of Castlemilk](/tartans/j/ja/jardine-of-castlemilk-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

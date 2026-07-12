@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Princess Beatrice Dress Royal"
+  url: "/tartans/p/pr/princess-beatrice-dress-royal/"
 - name: "Princess Beatrice Dress Royal Family Tartan"
   url: "/setts/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGKGKRGRGRWBWRKRK](/stripes/ggkgkgkrgrgrwbwrkrk/).
+
+Part of the [Princess Beatrice Dress Royal](/tartans/p/pr/princess-beatrice-dress-royal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 

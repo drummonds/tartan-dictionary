@@ -6,6 +6,8 @@ This is the **Logan** sett — one scale-free proportion (`g10b4g1b4g15r4g1`), c
 [GBGBGRG](/stripes/gbgbgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Logan](/tartans/l/lo/logan-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

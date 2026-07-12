@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Robert Burns Legacy"
+  url: "/tartans/r/ro/robert-burns-legacy/"
+- name: "Robert Burns Legacy"
   url: "/setts/db10g42dbi8lb8dbi8k24dbi8db71r10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10g42dbi8lb8dbi8k24dbi8db71r10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBWBKBBR](/stripes/bgbwbkbbr/).
+
+Part of the [Robert Burns Legacy](/tartans/r/ro/robert-burns-legacy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

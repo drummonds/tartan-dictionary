@@ -6,6 +6,8 @@ This is the **MacArthur of Milton Hunting** sett — one scale-free proportion (
 [GBGKBK](/stripes/gbgkbk/). It is recorded as a single **variant**, below.
 First attested **1823**.
 
+Part of the [MacArthur of Milton](/tartans/m/ma/macarthur-of-milton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

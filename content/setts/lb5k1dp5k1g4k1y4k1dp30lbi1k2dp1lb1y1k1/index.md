@@ -6,7 +6,7 @@ This is the **House of Holland** sett — one scale-free proportion (`lb5k1dp5k1
 [KGWBKWBKGKGKBKW](/stripes/kgwbkwbkgkgkbkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [House of Holland](/tartans/house-of-holland/) tartan — the named design grouping this sett with its kin.
+Part of the [House of Holland](/tartans/h/ho/house-of-holland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

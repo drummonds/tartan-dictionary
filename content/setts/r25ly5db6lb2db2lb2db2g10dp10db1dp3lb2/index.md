@@ -6,6 +6,8 @@ This is the **Skye Highland Outfitters (Corporate)** sett — one scale-free pro
 [RYBWBWBGBBBW](/stripes/rybwbwbgbbbw/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Skye Highland Outfitters](/tartans/s/sk/skye-highland-outfitters/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Kirk in the Hills Corporate Tartan** sett — one scale-free propo
 [BKGKBWBKRBRKBWBKGKBW](/stripes/bkgkbwbkrbrkbwbkgkbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Kirk in the Hills](/tartans/k/ki/kirk-in-the-hills/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

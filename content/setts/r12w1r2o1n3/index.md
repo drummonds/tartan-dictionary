@@ -6,6 +6,8 @@ This is the **Glen Shee Plaid (Fashion)** sett — one scale-free proportion (`r
 [BRRWR](/stripes/brrwr/). It is recorded as a single **variant**, below.
 First attested **~1974**.
 
+Part of the [Glen Shee](/tartans/g/gl/glen-shee-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

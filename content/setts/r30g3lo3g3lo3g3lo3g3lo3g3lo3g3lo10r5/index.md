@@ -7,6 +7,8 @@ This is the **Antigua & Barbuda** sett — one scale-free proportion (`r30g3lo3g
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2007**.
 
+Part of the [Antigua & Barbuda](/tartans/a/an/antigua-barbuda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Boat"
+  url: "/clan/boat/"
+- name: "Boat of Garten"
+  url: "/families/boat-of-garten/"
+- name: "Boat of Garten"
+  url: "/tartans/b/bo/boat-of-garten/"
 - name: "Boat of Garten (District)"
   url: "/setts/db61w4db2w7b2g3y2db16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db61w4db2w7b2g3y2db16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGBWBWB](/stripes/bggbwbwb/).
+
+Part of the [Boat of Garten](/tartans/b/bo/boat-of-garten/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

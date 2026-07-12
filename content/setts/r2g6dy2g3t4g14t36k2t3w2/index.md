@@ -6,6 +6,8 @@ This is the **Sarasota - Dunfermline (Commemorat)** sett — one scale-free prop
 [RGGGBGBKBW](/stripes/rgggbgbkbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Sarasota](/tartans/s/sa/sarasota-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

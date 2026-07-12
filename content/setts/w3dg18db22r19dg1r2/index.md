@@ -6,7 +6,7 @@ This is the **Nibley (Personal)** sett — one scale-free proportion (`w3dg18db2
 [RGRBGW](/stripes/rgrbgw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
-Part of the [Nibley](/tartans/nibley/) tartan — the named design grouping this sett with its kin.
+Part of the [Nibley](/tartans/n/ni/nibley/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

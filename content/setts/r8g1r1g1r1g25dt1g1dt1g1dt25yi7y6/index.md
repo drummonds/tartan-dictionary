@@ -6,6 +6,8 @@ This is the **Johansson (Aneby, Sweden), Christian (Personal)** sett — one sca
 [GGBGBGBGRGRGR](/stripes/ggbgbgbgrgrgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Johansson , Christian](/tartans/j/jo/johansson-christian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

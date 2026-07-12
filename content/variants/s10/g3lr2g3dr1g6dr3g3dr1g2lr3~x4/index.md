@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dundee"
-  url: "/tartans/dundee/"
+  url: "/tartans/d/du/dundee/"
 - name: "Dundee, Green (Fashion)"
   url: "/setts/g3lr2g3dr1g6dr3g3dr1g2lr3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3lr2g3dr1g6dr3g3dr1g2lr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGBGBGBGY](/stripes/gygbgbgbgy/).
 
-Part of the [Dundee](/tartans/dundee/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Dundee](/tartans/d/du/dundee/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

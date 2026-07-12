@@ -6,6 +6,8 @@ This is the **United French Freemasons (Corporate** sett — one scale-free prop
 [BBWBWB](/stripes/bbwbwb/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [United French Freemasons (Corporate](/tartans/u/un/united-french-freemasons-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

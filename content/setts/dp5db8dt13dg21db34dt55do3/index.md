@@ -6,7 +6,7 @@ This is the **Bouncing Blackie (Personal)** sett — one scale-free proportion (
 [BBBGBBB](/stripes/bbbgbbb/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
-Part of the [Bouncing Blackie](/tartans/bouncing-blackie/) tartan — the named design grouping this sett with its kin.
+Part of the [Bouncing Blackie](/tartans/b/bo/bouncing-blackie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ This is the **Blair Dress** sett — one scale-free proportion (`db2dr2db12k5dg1
 [BBBKGBGBGKWBW](/stripes/bbbkgbgbgkwbw/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
-Part of the [Blair Dress](/tartans/blair-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Blair Dress](/tartans/b/bl/blair-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Newlands of Lauriston tartan and all its setts →](/tartans/newlands-of-lauriston/)
+[See the Newlands of Lauriston tartan and all its setts →](/tartans/n/ne/newlands-of-lauriston/)
 

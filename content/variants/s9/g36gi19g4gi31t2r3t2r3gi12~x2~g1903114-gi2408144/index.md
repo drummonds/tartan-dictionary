@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Brien"
+  url: "/tartans/o/o/o-brien-2/"
 - name: "O'Brien (Scotch Corner)"
   url: "/setts/g36gi19g4gi31t2r3t2r3gi12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g36gi19g4gi31t2r3t2r3gi12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGBRBRG](/stripes/ggggbrbrg/).
+
+Part of the [O'Brien](/tartans/o/o/o-brien-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

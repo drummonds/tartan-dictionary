@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Garden Festival"
+  url: "/tartans/g/gl/glasgow-garden-festival/"
+- name: "Glasgow Garden Festival"
   url: "/setts/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBBWGWBWBWWWBBRBRBRW](/stripes/rbrbbwgwbwbwwwbbrbrbrw/).
+
+Part of the [Glasgow Garden Festival](/tartans/g/gl/glasgow-garden-festival/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

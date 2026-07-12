@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Dalgliesh Dress"
+  url: "/tartans/d/da/dalgliesh-dress/"
+- name: "Dalgliesh Dress"
   url: "/setts/g10k10lb4k2dy2k2lb3k12lb12k2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10k10lb4k2dy2k2lb3k12lb12k2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKGKWKWKW](/stripes/gkwkgkwkwkw/).
+
+Part of the [Dalgliesh Dress](/tartans/d/da/dalgliesh-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

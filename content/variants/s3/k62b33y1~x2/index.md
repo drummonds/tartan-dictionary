@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Westwater"
-  url: "/tartans/westwater/"
+  url: "/tartans/w/we/westwater/"
 - name: "Westwater (Edinburgh, 2012)"
   url: "/setts/k62b33y1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k62b33y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBK](/stripes/gbk/).
 
-Part of the [Westwater](/tartans/westwater/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Westwater](/tartans/w/we/westwater/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

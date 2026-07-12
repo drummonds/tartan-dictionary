@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Nobiliary Fraternity. . ."
-  url: "/tartans/nobiliary-fraternity/"
+  url: "/tartans/n/no/nobiliary-fraternity/"
 - name: "Nobiliary Fraternity"
   url: "/setts/dp11t2k10g10y3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp11t2k10g10y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGG](/stripes/bbkgg/).
 
-Part of the [Nobiliary Fraternity. . .](/tartans/nobiliary-fraternity/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Nobiliary Fraternity. . .](/tartans/n/no/nobiliary-fraternity/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

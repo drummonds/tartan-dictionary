@@ -6,6 +6,8 @@ This is the **Kennedy Dress** sett — one scale-free proportion (`dg12t3k2t3k2t
 [GBKBKBKBWBGBWGWKWGWBGBWBKBKBKBGR](/stripes/gbkbkbkbwbgbwgwkwgwbgbwbkbkbkbgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kennedy Dress](/tartans/k/ke/kennedy-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

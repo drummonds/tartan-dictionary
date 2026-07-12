@@ -6,6 +6,8 @@ This is the **Huntsman** sett — one scale-free proportion (`g3dyi3g4k4dy14k3g4
 [GGGKGKGG](/stripes/gggkgkgg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Huntsman](/tartans/h/hu/huntsman/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

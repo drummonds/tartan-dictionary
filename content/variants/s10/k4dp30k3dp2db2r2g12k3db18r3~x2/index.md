@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wardlaw"
+  url: "/tartans/w/wa/wardlaw/"
+- name: "Wardlaw"
   url: "/setts/k4dp30k3dp2db2r2g12k3db18r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dp30k3dp2db2r2g12k3db18r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBBRGKBR](/stripes/kbkbbrgkbr/).
+
+Part of the [Wardlaw](/tartans/w/wa/wardlaw/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

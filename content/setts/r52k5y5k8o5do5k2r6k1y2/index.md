@@ -6,7 +6,7 @@ This is the **Braemar, Castle** sett — one scale-free proportion (`r52k5y5k8o5
 [GKRKBRKGKR](/stripes/gkrkbrkgkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Braemar Castle](/tartans/braemar-castle/) tartan — the named design grouping this sett with its kin.
+Part of the [Braemar Castle](/tartans/b/br/braemar-castle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

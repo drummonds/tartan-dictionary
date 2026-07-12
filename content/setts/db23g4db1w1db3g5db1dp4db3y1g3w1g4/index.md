@@ -6,6 +6,8 @@ This is the **Riyadh Caledonian (Corporate)** sett — one scale-free proportion
 [BGBWBGBBBGGWG](/stripes/bgbwbgbbbggwg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Riyadh Caledonian](/tartans/r/ri/riyadh-caledonian/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

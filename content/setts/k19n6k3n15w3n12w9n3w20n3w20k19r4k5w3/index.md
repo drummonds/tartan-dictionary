@@ -6,6 +6,8 @@ This is the **Black and White** sett — one scale-free proportion (`k19n6k3n15w
 [KBKBWBWBWBWKRKW](/stripes/kbkbwbwbwbwkrkw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Black and](/tartans/b/bl/black-and-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

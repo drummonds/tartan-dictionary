@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mortell"
-  url: "/tartans/mortell/"
+  url: "/tartans/m/mo/mortell/"
 - name: "Mortell (Personal)"
   url: "/setts/db20lb2w5r2db10lb5db20lb2w5r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20lb2w5r2db10lb5db20lb2w5r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWWRBWBWWR](/stripes/bwwrbwbwwr/).
 
-Part of the [Mortell](/tartans/mortell/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Mortell](/tartans/m/mo/mortell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

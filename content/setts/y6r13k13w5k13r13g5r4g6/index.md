@@ -6,6 +6,8 @@ This is the **Akins Red Dress** sett — one scale-free proportion (`y6r13k13w5k
 [GRGRKWKRG](/stripes/grgrkwkrg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Akins Dress](/tartans/a/ak/akins-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

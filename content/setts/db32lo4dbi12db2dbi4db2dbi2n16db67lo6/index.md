@@ -6,7 +6,7 @@ This is the **Calum's Cabin** sett — one scale-free proportion (`db32lo4dbi12d
 [BYBBBBBBBY](/stripes/bybbbbbbby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Calum's Cabin](/tartans/calum-s-cabin/) tartan — the named design grouping this sett with its kin.
+Part of the [Calum's Cabin](/tartans/c/ca/calum-s-cabin/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

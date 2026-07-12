@@ -6,6 +6,8 @@ This is the **Clanedin** sett — one scale-free proportion (`r3k8w2k3w2k2w6db3w
 [RKWKWKWBWKWRWRGRW](/stripes/rkwkwkwbwkwrwrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clanedin](/tartans/c/cl/clanedin-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

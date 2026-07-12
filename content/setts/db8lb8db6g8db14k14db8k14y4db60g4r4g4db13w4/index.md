@@ -6,6 +6,8 @@ This is the **Dickson (Personal)** sett — one scale-free proportion (`db8lb8db
 [BWBGBKBKGBGRGBW](/stripes/bwbgbkbkgbgrgbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Dickson](/tartans/d/di/dickson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Breifne** sett — one scale-free proportion (`lr3dg18k4lb12dg2lb3
 [WYWGWGWGWKGY](/stripes/wywgwgwgwkgy/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Breifne](/tartans/b/br/breifne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

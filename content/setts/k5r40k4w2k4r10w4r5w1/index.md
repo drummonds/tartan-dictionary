@@ -6,7 +6,7 @@ This is the **Southern Illinois University (Corp.)** sett — one scale-free pro
 [KRKWKRWRW](/stripes/krkwkrwrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Southern Illinois University](/tartans/southern-illinois-university/) tartan — the named design grouping this sett with its kin.
+Part of the [Southern Illinois University](/tartans/s/so/southern-illinois-university/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canadian Confederation"
+  url: "/tartans/c/ca/canadian-confederation/"
 - name: "Canadian Confederation Canadian Tartan"
   url: "/setts/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKRKGBGBGBGBGBGKRWRBRK](/stripes/bkbkbkbkbkrkgbgbgbgbgbgkrwrbrk/).
+
+Part of the [Canadian Confederation](/tartans/c/ca/canadian-confederation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
 

@@ -6,7 +6,7 @@ This is the **Kenspeckle** sett — one scale-free proportion (`dg50r1dr20k2w1`)
 [GRBKW](/stripes/grbkw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
-Part of the [Kenspeckle](/tartans/kenspeckle/) tartan — the named design grouping this sett with its kin.
+Part of the [Kenspeckle](/tartans/k/ke/kenspeckle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

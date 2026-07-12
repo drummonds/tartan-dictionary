@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fed. of Circles & Solitaries"
+  url: "/tartans/f/fe/fed-of-circles-solitaries/"
 - name: "Fed. of Circles & Solitaries (Corp.)"
   url: "/setts/db9k30db9lb3db5r3db5y3db5g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9k30db9lb3db5r3db5y3db5g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBWBRBGBG](/stripes/bkbwbrbgbg/).
+
+Part of the [Fed. of Circles & Solitaries](/tartans/f/fe/fed-of-circles-solitaries/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

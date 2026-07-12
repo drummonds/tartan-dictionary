@@ -6,6 +6,8 @@ This is the **Sunart, Saphire (Dance)** sett — one scale-free proportion (`r3d
 [RBGWBWBWBRBR](/stripes/rbgwbwbwbrbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Sunart Saphire](/tartans/s/su/sunart-saphire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

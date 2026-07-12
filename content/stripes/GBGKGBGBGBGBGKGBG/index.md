@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/">Lowland Donnelly (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><img src="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/sett.png" alt="Lowland Donnelly (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s17/g5db2g12k4g3dr3g3dr13y3dr13g3dr3g3k3g12db2g5~x2/">Lowland Donnelly (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s17/g5db2g12k4g3dr3g3dr13y3dr13g3dr3g3k3g12db2g5~x2/"><img src="/variants/s17/g5db2g12k4g3dr3g3dr13y3dr13g3dr3g3k3g12db2g5~x2/sett.png" alt="Lowland Donnelly (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/">Lowland Donnelly (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><img src="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/sett.png" alt="Lowland Donnelly (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -46,8 +46,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><img src="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/sett.png" alt="Scotland's Charity Air Ambulance" width="140"><br>Scotland's Charity Air Ambulance</a></li>
 <li><a class="tartan" href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><img src="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/sett.png" alt="Scotland’s Golf Coast" width="140"><br>Scotland’s Golf Coast</a></li>
 <li><a class="tartan" href="/variants/s5/dr4db14k15dg14y4~x2/"><img src="/variants/s5/dr4db14k15dg14y4~x2/sett.png" alt="Scots Heritage" width="140"><br>Scots Heritage</a></li>
-<li><a class="tartan" href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><img src="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
 <li><a class="tartan" href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><img src="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
+<li><a class="tartan" href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><img src="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/sett.png" alt="Scotshill" width="140"><br>Scotshill</a></li>
 <li><a class="tartan" href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><img src="/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png" alt="Scotsman" width="140"><br>Scotsman</a></li>
 <li><a class="tartan" href="/variants/s6/db4g18db3k17db18o4~x2/"><img src="/variants/s6/db4g18db3k17db18o4~x2/sett.png" alt="Scottish Airports" width="140"><br>Scottish Airports</a></li>
 <li><a class="tartan" href="/variants/s6/db4g18db3k17db18dp4~x2/"><img src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="Scottish Airports (Corporate)" width="140"><br>Scottish Airports (Corporate)</a></li>
@@ -142,8 +142,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens" width="140"><br>Sens</a></li>
 <li><a class="tartan" href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><img src="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/sett.png" alt="Sens (Corporate)" width="140"><br>Sens (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s5/w50db7w7lb7w18~x2/"><img src="/variants/s5/w50db7w7lb7w18~x2/sett.png" alt="Sephardim (Corporate)" width="140"><br>Sephardim (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/"><img src="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/sett.png" alt="Serco Caledonian Sleeper" width="140"><br>Serco Caledonian Sleeper</a></li>
 <li><a class="tartan" href="/variants/s8/db18n4dr4g12lb3r2w2dp10~x2/"><img src="/variants/s8/db18n4dr4g12lb3r2w2dp10~x2/sett.png" alt="Serco Caledonian Sleeper" width="140"><br>Serco Caledonian Sleeper</a></li>
+<li><a class="tartan" href="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/"><img src="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/sett.png" alt="Serco Caledonian Sleeper" width="140"><br>Serco Caledonian Sleeper</a></li>
 <li><a class="tartan" href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><img src="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan" width="140"><br>Shanahan</a></li>
 <li><a class="tartan" href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><img src="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan (Corporate)" width="140"><br>Shanahan (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/y4r23db3r3db16lb15b27lb8b5lb13w4~db1108266-b1511266/"><img src="/variants/s11/y4r23db3r3db16lb15b27lb8b5lb13w4~db1108266-b1511266/sett.png" alt="Shanghai Scottish" width="140"><br>Shanghai Scottish</a></li>
@@ -164,8 +164,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/sett.png" alt="Silversea (Corporate)" width="140"><br>Silversea (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/y20k15y20w3~x2/"><img src="/variants/s4/y20k15y20w3~x2/sett.png" alt="Silvicola" width="140"><br>Silvicola</a></li>
 <li><a class="tartan" href="/variants/s3/k15y20w3~x2/"><img src="/variants/s3/k15y20w3~x2/sett.png" alt="Silvicola (Corporate)" width="140"><br>Silvicola (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
 <li><a class="tartan" href="/variants/s6/dp2g3o21dp42w1g2~x2/"><img src="/variants/s6/dp2g3o21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
+<li><a class="tartan" href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
 <li><a class="tartan" href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><img src="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/sett.png" alt="Simple Technology" width="140"><br>Simple Technology</a></li>
 <li><a class="tartan" href="/variants/s5/r3g28db9dg18w3~x2/"><img src="/variants/s5/r3g28db9dg18w3~x2/sett.png" alt="Simple Technology (Corporate)" width="140"><br>Simple Technology (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos" width="140"><br>Sin-Cos</a></li>
@@ -270,8 +270,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><img src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="St. Mirren Football Club" width="140"><br>St. Mirren Football Club</a></li>
 <li><a class="tartan" href="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><img src="/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/sett.png" alt="St. Patrick's Krewe (Corporate)" width="140"><br>St. Patrick's Krewe (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s3/lb9db14r1~x4/"><img src="/variants/s3/lb9db14r1~x4/sett.png" alt="Stakis Hotels (Corporate)" width="140"><br>Stakis Hotels (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><img src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="StammBar" width="140"><br>StammBar</a></li>
 <li><a class="tartan" href="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/"><img src="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/sett.png" alt="StammBar" width="140"><br>StammBar</a></li>
+<li><a class="tartan" href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><img src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="StammBar" width="140"><br>StammBar</a></li>
 <li><a class="tartan" href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/"><img src="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/sett.png" alt="Stand International" width="140"><br>Stand International</a></li>
 <li><a class="tartan" href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"><img src="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/sett.png" alt="Starrett Company, L.S." width="140"><br>Starrett Company, L.S.</a></li>
 <li><a class="tartan" href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><img src="/variants/s8/k70lo5k3n4dp4n4k3lo12/sett.png" alt="State University of New York College at Buffalo" width="140"><br>State University of New York College at Buffalo</a></li>
@@ -313,7 +313,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><img src="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/sett.png" alt="Swallow Hotels" width="140"><br>Swallow Hotels</a></li>
 <li><a class="tartan" href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander" width="140"><br>Swiss Highlander</a></li>
 <li><a class="tartan" href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><img src="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/sett.png" alt="Swiss Highlander (Corporate)" width="140"><br>Swiss Highlander (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
 <li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
+<li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
 <li><a class="tartan" href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><img src="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/sett.png" alt="SYHA Hostelling Scotland" width="140"><br>SYHA Hostelling Scotland</a></li>
 </ul>

@@ -48,10 +48,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><img src="/variants/s4/lb3o6k4lb2~x2~o2500000/sett.png" alt="Bedford Check" width="140"><br>Bedford Check</a></li>
 <li><a class="tartan" href="/variants/s4/lb3n6k4lb2~x2/"><img src="/variants/s4/lb3n6k4lb2~x2/sett.png" alt="Bedford Check (Fashion)" width="140"><br>Bedford Check (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/"><img src="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/sett.png" alt="BeeJay" width="140"><br>BeeJay</a></li>
-<li><a class="tartan" href="/variants/s7/n3k31w6k8n3k12w2~x2/"><img src="/variants/s7/n3k31w6k8n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s7/n3k31w6k7n3k12w2~x2/"><img src="/variants/s7/n3k31w6k7n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
-<li><a class="tartan" href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
+<li><a class="tartan" href="/variants/s7/n3k31w6k8n3k12w2~x2/"><img src="/variants/s7/n3k31w6k8n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
+<li><a class="tartan" href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
 <li><a class="tartan" href="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/"><img src="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png" alt="Belk Festive (Fashion)" width="140"><br>Belk Festive (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><img src="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/sett.png" alt="Belk Heritage (Fashion)" width="140"><br>Belk Heritage (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/"><img src="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/sett.png" alt="Belk Heritage Hunting (Fashion)" width="140"><br>Belk Heritage Hunting (Fashion)</a></li>

@@ -38,8 +38,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"><img src="/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png" alt="Wilson-Blyth" width="140"><br>Wilson-Blyth</a></li>
 <li><a class="tartan" href="/variants/s6/w2db45g9r1n9dr1~x2/"><img src="/variants/s6/w2db45g9r1n9dr1~x2/sett.png" alt="Wilton (Name)" width="140"><br>Wilton (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe (Name)" width="140"><br>Wolfe (Name)</a></li>
-<li><a class="tartan" href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/sett.png" alt="Womack (2014)" width="140"><br>Womack (2014)</a></li>
 <li><a class="tartan" href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/sett.png" alt="Womack (2014)" width="140"><br>Womack (2014)</a></li>
+<li><a class="tartan" href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><img src="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/sett.png" alt="Womack (2014)" width="140"><br>Womack (2014)</a></li>
 <li><a class="tartan" href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><img src="/variants/s7/db30dp9g6dp9r4db17w5~x2/sett.png" alt="Woodcock (2014)" width="140"><br>Woodcock (2014)</a></li>
 <li><a class="tartan" href="/variants/s5/db4y4r33k30w2~x2/"><img src="/variants/s5/db4y4r33k30w2~x2/sett.png" alt="Wormeck (2013) Germany" width="140"><br>Wormeck (2013) Germany</a></li>
 <li><a class="tartan" href="/variants/s12/db6w2k2r6dy2g12r6lb3k3lb3r28dy4~x2/"><img src="/variants/s12/db6w2k2r6dy2g12r6lb3k3lb3r28dy4~x2/sett.png" alt="Wren (Name)" width="140"><br>Wren (Name)</a></li>

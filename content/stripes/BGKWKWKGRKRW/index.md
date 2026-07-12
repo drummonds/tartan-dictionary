@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db36y4k6w1k1w1k1g8r6k1r3w1/">MacBeth</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db36y4k6w1k1w1k1g8r6k1r3w1/"><img src="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/sett.png" alt="MacBeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/">MacBeth</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><img src="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/sett.png" alt="MacBeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db36y4k6w1k1w1k1g8r6k1r3w1/">MacBeth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db36y4k6w1k1w1k1g8r6k1r3w1/"><img src="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/sett.png" alt="MacBeth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/">MacBeth Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><img src="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/sett.png" alt="MacBeth Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

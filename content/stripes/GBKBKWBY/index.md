@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/g1b1k1b30k30w2b5lo1~x2/">Binder Wedding (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/g1b1k1b30k30w2b5lo1~x2/"><img src="/variants/s8/g1b1k1b30k30w2b5lo1~x2/sett.png" alt="Binder Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/">Binder Wedding (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><img src="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/sett.png" alt="Binder Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g1b1k1b30k30w2b5lo1~x2/">Binder Wedding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g1b1k1b30k30w2b5lo1~x2/"><img src="/variants/s8/g1b1k1b30k30w2b5lo1~x2/sett.png" alt="Binder Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
